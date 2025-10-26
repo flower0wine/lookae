@@ -1,0 +1,51 @@
+---
+title: Looks 2.0 中文单装版(64位)一键安装-附百种预设
+slug: looks-2-0-zhong-wen-dan-zhuang-ban-64wei-yi-jian-an-zhuang-fu-bai-chong-yu-she
+source_url: https://www.lookae.com/looks-2/
+category: aechajian
+tags: [After Effects, Premiere, 插件]
+---
+# Looks 2.0 中文单装版(64位)一键安装-附百种预设
+
+2012/08/11 17:37
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[After Effects](https://www.lookae.com/tag/after-effects/)[Premiere](https://www.lookae.com/tag/premiere/)[插件](https://www.lookae.com/tag/%e6%8f%92%e4%bb%b6/)
+
+[![Looks 2.0 中文单装版(64位)一键安装-附百种预设](https://www.lookae.com/wp-content/uploads/2012/08/looks2.jpg "looks2")](https://www.lookae.com/wp-content/uploads/2012/08/looks2.jpg)
+
+**【MB\_Looks 2 官方宣传视频】**
+
+优酷在线观看地址：<http://v.youku.com/v_show/id_XNDM3NTE0MjUy.html>
+
+**【插件介绍】**
+
+Looks 是Red Giant红巨星一款非常实用简单的调色插件，不过功能却很强大，
+
+适用于Adobe的视频编辑软件Premiere,以及合成软件 After Effects中。
+
+简单实用的操作就可以达到完美的调色水准，几乎让你的普通视频素材一下子上升到了电影级别，深受网友的喜爱和青睐。
+
+自Looks升级至2.0版本界面发生了很大的变化，功能也多大提升，多了很多适用工具。
+
+网络中LOOKS 2 单装版很少，都是在 [Magic Bullet Suite 合集](https://www.lookae.com/red-giant-magic-bullet-suite11-3-chs/)中，
+
+Looks 2.0 中文单装版由WCOOL整理并分享，（感谢您们！）
+
+插件已经集合安装和注册程序，运行安装即可使用，（路径选择软件插件目录）仅支持64位软件。
+
+LOOKS插件中本身有很多预设，不过WCOOL又提供了百余种预设。
+
+（请注意基本汉化，滤镜汉化完全，但是主界面也只是菜单汉化）。
+
+**【插件下载】**
+
+[Looks 2.0 中文单装版(64位)一键安装-附百种预设](http://www.ctdisk.com/file/8785267)
+
+**【注】**
+
+网站以前资源使用115盘共享，由于115的改变，本网站所有资源已经全部更新为城通网盘共享。
+
+以前115网盘资源地址暂时保留。（转存到自己网盘即可下载）

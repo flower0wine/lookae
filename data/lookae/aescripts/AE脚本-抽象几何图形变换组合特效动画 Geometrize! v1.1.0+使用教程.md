@@ -1,0 +1,33 @@
+---
+title: AE脚本-抽象几何图形变换组合特效动画 Geometrize! v1.1.0+使用教程
+slug: aejiao-ben-chou-xiang-ji-he-tu-xing-bian-huan-zu-he-te-xiao-dong-hua-geometrize-v1-1-0-shi-yong-jiao-cheng
+source_url: https://www.lookae.com/geometrize-110/
+category: aescripts
+tags: [AE脚本]
+---
+# AE脚本-抽象几何图形变换组合特效动画 Geometrize! v1.1.0+使用教程
+
+2024/09/23 12:03
+
+作者：大众脸
+分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)
+
+![AE脚本-抽象几何图形变换组合特效动画 Geometrize! v1.1.0+使用教程](https://www.lookae.com/wp-content/uploads/2024/09/Geometrize.jpg "AE脚本-抽象几何图形变换组合特效动画 Geometrize! v1.1.0+使用教程-LookAE.com")
+
+Geometrize! 是一款 Adob​​e After Effects 扩展，用于将图像几何化为各种形状。该软件仅使用几何图元（矩形、三角形和椭圆形）即可将图像重新创建为形状的抽象排列。给定一张需要重建的图像，Geometrize 会生成数百种随机形状，并反复改变这些形状，这是爬山优化方法的一部分。几何化算法在后台对数千种形状进行排序，只挑选出最适合的形状用于最终图像。
+
+Geometrize! is an Adobe After Effects extension for geometrizing images into shapes. Using only geometric primitives (rectangles, triangles and ellipses) the software recreates images as abstract arrangements of shapes.
+
+Given an image to recreate, Geometrize generates hundreds of random shapes and repeatedly mutates these as part of a hillclimbing optimization approach. Geometrization algorithm ranks thousands of these shapes behind the scenes, only picking the best-fitting shapes for use in the final image.
+
+[﻿](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/483444286071.mp4)
+
+v1.1.0 更新内容：批处理工作区；形状几何控制。
+
+支持Win/Mac系统：After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018
+
+**【下载地址】**
+
+[城通网盘](https://url70.ctfile.com/f/2827370-1364649757-2de992?p=4431) 访问密码：6688         [百度网盘](https://pan.baidu.com/s/1lueED6HMo7PK4InBf7RXbQ?pwd=xjc7) 提取码: xjc7          [阿里云盘](https://www.alipan.com/s/tBBPwQHof4p)

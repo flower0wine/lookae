@@ -1,0 +1,88 @@
+---
+title: Ae/Pr 视觉特效插件包 AE v10.0.0
+slug: ae-pr-shi-jue-te-xiao-cha-jian-bao-ae-v10-0-0
+source_url: https://www.lookae.com/bcc10ae/
+category: aechajian
+tags: [AE插件, BCC, PR插件]
+---
+# Ae/Pr 视觉特效插件包 AE v10.0.0
+
+2015/12/16 22:05
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/) / [Premiere](https://www.lookae.com/qitarjcj/premierezy/) / [其他辐射](https://www.lookae.com/others/) / [软件/插件](https://www.lookae.com/qitarjcj/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)[BCC](https://www.lookae.com/tag/bcc/)[PR插件](https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/)
+
+![Ae/Pr 视觉特效插件包 AE v10.0.0](https://www.lookae.com/wp-content/uploads/2015/08/BCC905.jpg "Ae/Pr 视觉特效插件包 AE v10.0.0-LookAE.com")
+
+**【插件介绍】**
+
+强大的 BCC（Boris Continuum Complete ）视觉特效插件包
+
+插件终于推出新版本 Boris Continuum Complete v10.0.0
+
+Boris Continuum Complete 为视频图像合成、处理 、键控、着色、变形等提供全面的解决方案，支持Open GL 和双 CPU加速，
+
+BCC 10 拥有超过百种特效效果：字幕（3D字幕），3D粒子，老电影，光线，画中画，镜头光晕，烟雾，火等等，还有调色，键控/抠像，遮罩，跟踪，发光等等一系列风格化工具。
+
+BCC 10 包括多种视频特效和多种视频转场，
+
+支持 Win 系统  Adobe After Effects 和 Premiere Pro CS6, CC, CC 2014, and CC 2015
+
+**Boris Continuum Complete 10 AE v10.0.0 CE for After Effects and Premiere Pro**
+
+Boris FX is a one of the leading developers of software and plugins in the VFX field, is known for many of the product lines are plugins for video editing software like Boris Continuum Complete (BCC), Final Effects Complete (FEC), Boris RED, Boris Graffiti, Boris FX, …  
+BCC includes over 200 + effects for a powerful film: 3D Objects, 3D particle effects, image restoration tools, lens flares and lights, keys and mattes, warp and perspective effects, and blurs, glows, … with the 1000 pre-sets is very convenient for users.
+
+官网地址 www.borisfx.com/products/continuum-complete/?host=adobeHost
+
+**Boris Continuum Complete 10 新功能:**
+
+**新的图像恢复工具:**
+
+BCC Remover 填补缺失的像素，自动填充选取对象.
+
+BCC Dropout Fixer 恢复基于磁带的损坏画面
+
+BCC Reframe  分辨率转换工具
+
+**新添加特效插件插件:**
+
+BCC Light Leaks 炫光光晕效果.
+
+BCC Video Glitch  信号干扰画面损坏特效
+
+BCC Beauty Studio   美肤美容插件
+
+BCC Dropout Fixer   特殊效果插件
+
+BCC Fast Lens Blur    快速模糊插件
+
+BCC Reframer   变速插件
+
+BCC Remover   特殊效果插件
+
+BCC Title Studio    文字标题效果插件
+
+**新添加转场插件:**
+
+BCC Lens Blur Dissolve   镜头模糊转场
+
+BCC Cross Glitch   信号干扰画面损坏转场
+
+BCC Cross Melt      特殊视觉转场
+
+BCC Lights Leak Dissolve     炫光光晕曝光转场
+
+BCC Cross Zoom  缩放转场
+
+**【插件下载】**
+
+[Ae/Pr视觉特效插件包  Boris Continuum Complete AE v10.0.0](https://lookae.400gb.com/file/138503783)
+
+注：插件为一键注册安装，安装即可直接使用。
+
+**【其他相关】**
+
+[AVID 视觉特效插件包 Boris Continuum Complete AVX v10 BCC](http://page62.400gb.com/file/128904812)

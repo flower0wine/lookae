@@ -1,0 +1,49 @@
+---
+title: 牛顿动力学2D插件Motion Boutique Newton1.2(64Bit)(附教程)
+slug: niu-dun-dong-li-xue-2dcha-jian-motion-boutique-newton1-2-64bit-fu-jiao-cheng
+source_url: https://www.lookae.com/motion-boutique-newton1-2-jiaocheng/
+category: aechajian
+tags: [After Effects, 插件, 教程]
+---
+# 牛顿动力学2D插件Motion Boutique Newton1.2(64Bit)(附教程)
+
+2012/06/16 13:17
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [AE教程](https://www.lookae.com/after-effects/aejiaocheng/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[After Effects](https://www.lookae.com/tag/after-effects/)[插件](https://www.lookae.com/tag/%e6%8f%92%e4%bb%b6/)[教程](https://www.lookae.com/tag/%e6%95%99%e7%a8%8b/)
+
+[![牛顿动力学2D插件Motion Boutique Newton1.2(64Bit)(附教程)](https://www.lookae.com/wp-content/uploads/2012/06/newton1.jpg "牛顿动力学2D插件Motion Boutique Newton1.2(64Bit)(附教程)-LookAE.com")](https://www.lookae.com/wp-content/uploads/2012/06/newton1.jpg)
+
+**【请您欣赏】**
+
+**【插件介绍】**
+
+牛顿动力学2D插件 Motion Boutique Newton是After Effects第一款动力学插件，更新版本为1.2适用于AECS5-CS6，
+
+完美模拟动力学的物理属性，操作方便快捷，
+
+重力，碰撞，摩擦等控制，制作出更加真实的效果。
+
+**【教程介绍】**
+
+教程讲解的是Motion Boutique Newton的基础应用(5集)，
+
+这个外国帅哥讲解得很仔细，语速也比较适中，
+
+虽然没有中文字幕，但是看操作还是能掌握到知识点。
+
+**【安装方法】**
+
+将文件夹 Newton 拷贝到 AE的插件文件夹Plug-ins下，
+
+此插件跟其他插件不同，插件目录是找不到，
+
+使用位置：Composition–Newton
+
+**【下载地址】**
+
+[牛顿动力学2D插件Motion Boutique Newton1.2(64Bit)](http://www.ctdisk.com/file/8779492)
+
+[Newton动力插件基础教程05集](http://www.ctdisk.com/file/8779528)

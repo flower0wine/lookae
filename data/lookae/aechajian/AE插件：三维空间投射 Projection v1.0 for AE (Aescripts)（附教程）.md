@@ -1,0 +1,35 @@
+---
+title: AE插件：三维空间投射 Projection v1.0 for AE (Aescripts)（附教程）
+slug: aecha-jian-san-wei-kong-jian-tou-she-projection-v1-0-for-ae-aescripts-fu-jiao-cheng
+source_url: https://www.lookae.com/aeprojection/
+category: aechajian
+tags: [Aescripts, AE插件]
+---
+# AE插件：三维空间投射 Projection v1.0 for AE (Aescripts)（附教程）
+
+2014/05/28 21:41
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[Aescripts](https://www.lookae.com/tag/aescripts/)[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)
+
+[![AE插件：三维空间投射 Projection v1.0 for AE (Aescripts)（附教程）](https://www.lookae.com/wp-content/uploads/2014/05/AEProjection.jpg "AE插件：三维空间投射 Projection v1.0 for AE (Aescripts)（附教程）-LookAE.com")](https://www.lookae.com/wp-content/uploads/2014/05/AEProjection.jpg)
+
+**【插件介绍】**
+
+Projection 出自 Aescripts，能够得到三维投射信息，
+
+虽然现在AE自带了3D Camera Tracker ，但Projection 功能更强大，操作效率更高，
+
+且可以导入 Syntheyes、Boujou 和 PF Track 工具来反求数据。
+
+Projection makes light work of camera mapping onto 3D planes in After Effects. It was created with the release of After Effects CS6 in mind, which now has the 3D Camera Tracker, a built-in matchmover. But Projection works equally well with imported match-move data from programs such as Syntheyes, Boujou and PF Track.
+
+Projection makes a variety of compositing tasks much easier. Once arduous tasks, like floor replacements, tracking mark removal and set-extensions are made much easier with Projection.
+
+官方信息：http://aescripts.com/projection/
+
+**【插件下载】**
+
+[AE插件：三维空间投射 Projection v1.0 for AE (Aescripts)（附教程+序列号）](https://www.400gb.com/file/65466644)

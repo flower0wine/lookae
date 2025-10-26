@@ -1,0 +1,37 @@
+---
+title: Mac苹果版AE插件-真实辉光特效插件 Real Glow v1.0
+slug: macping-guo-ban-aecha-jian-zhen-shi-hui-guang-te-xiao-cha-jian-real-glow-v1-0
+source_url: https://www.lookae.com/mac-real-glow/
+category: aechajian
+tags: [AE插件, MAC]
+---
+# Mac苹果版AE插件-真实辉光特效插件 Real Glow v1.0
+
+2018/11/30 18:20
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/) / [Mac 专区](https://www.lookae.com/mac-osx/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)[MAC](https://www.lookae.com/tag/mac/)
+
+![Mac苹果版AE插件-真实辉光特效插件 Real Glow v1.0](https://www.lookae.com/wp-content/uploads/2015/03/RealGlow.jpg "Mac苹果版AE插件-真实辉光特效插件 Real Glow v1.0-LookAE.com")
+
+﻿
+
+**【插件简介】**
+
+这个Real Glow是一个模拟真实辉光效果的插件，与AE自带的Glow（辉光）插件效果更加真实漂亮自然；
+
+Real Glow is a glow aura generator which works on rules of optically correct light falloff as opposed to an unrealistic simple linear blur as AE’s internal glow and other glow plug-ins use.
+
+支持Mac系统：AE CC 2019，CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6
+
+**【插件下载】**
+
+AE插件-真实辉光特效插件 Real Glow v1.0 Mac英文版
+
+[城通网盘下载](https://lookae.ctfile.com/fs/680462-322436004)                                     [百度网盘下载](https://pan.baidu.com/s/12RcE9FRP0R1pPuh43bML6Q)
+
+**【其他相关】**
+
+[AE插件-真实辉光特效插件 Real Glow v1.0 Win中文版](https://www.lookae.com/realglow/)

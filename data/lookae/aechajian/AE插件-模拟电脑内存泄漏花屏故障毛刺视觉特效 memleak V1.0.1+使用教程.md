@@ -1,0 +1,27 @@
+---
+title: AE插件-模拟电脑内存泄漏花屏故障毛刺视觉特效 memleak V1.0.1+使用教程
+slug: aecha-jian-mo-ni-dian-nao-nei-cun-xie-lou-hua-ping-gu-zhang-mao-ci-shi-jue-te-xiao-memleak-v1-0-1-shi-yong-jiao-cheng
+source_url: https://www.lookae.com/memleak/
+category: aechajian
+tags: [AE插件]
+---
+# AE插件-模拟电脑内存泄漏花屏故障毛刺视觉特效 memleak V1.0.1+使用教程
+
+2024/01/26 20:27
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)
+
+![AE插件-模拟电脑内存泄漏花屏故障毛刺视觉特效 memleak V1.0.1+使用教程](https://www.lookae.com/wp-content/uploads/2024/01/memleak.jpg "AE插件-模拟电脑内存泄漏花屏故障毛刺视觉特效 memleak V1.0.1+使用教程-LookAE.com")
+
+[﻿﻿﻿](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/447653688547.mp4)
+
+memleak读取计算机内存的随机部分，就好像它是像素数据一样。生成新的无限毛刺每次打开AE时的视觉效果。将 memleak 与其他效果结合起来，可能性将变得无穷无尽。
+
+支持Win系统：Adobe After Effects 2023，2024
+
+**【下载地址】**
+
+[城通网盘](https://url70.ctfile.com/f/2827370-1013979757-b86572?p=4431) 访问密码：6688            [百度网盘](https://pan.baidu.com/s/1JqAV1UYGiXzjKrIJjij1ow?pwd=nfy0) 提取码：nfy0           [阿里云盘](https://www.alipan.com/s/mx8xd1kR1jo)

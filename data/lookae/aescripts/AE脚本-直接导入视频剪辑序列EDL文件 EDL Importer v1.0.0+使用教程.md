@@ -1,0 +1,35 @@
+---
+title: AE脚本-直接导入视频剪辑序列EDL文件 EDL Importer v1.0.0+使用教程
+slug: aejiao-ben-zhi-jie-dao-ru-shi-pin-jian-ji-xu-lie-edlwen-jian-edl-importer-v1-0-0-shi-yong-jiao-cheng
+source_url: https://www.lookae.com/edl-importer/
+category: aescripts
+tags: [AE脚本, EDL导入, EDL插件]
+---
+# AE脚本-直接导入视频剪辑序列EDL文件 EDL Importer v1.0.0+使用教程
+
+2025/04/11 20:49
+
+作者：大众脸
+分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)[EDL导入](https://www.lookae.com/tag/edl%e5%af%bc%e5%85%a5/)[EDL插件](https://www.lookae.com/tag/edl%e6%8f%92%e4%bb%b6/)
+
+![AE脚本-直接导入视频剪辑序列EDL文件 EDL Importer v1.0.0+使用教程](https://www.lookae.com/wp-content/uploads/2025/04/EDL-Importer-.jpg "AE脚本-直接导入视频剪辑序列EDL文件 EDL Importer v1.0.0+使用教程-LookAE.com")
+
+这个脚本弥补了您的编辑软件（如 Avid Media Composer、DaVinci Resolve 或 Adob​​e Premiere）和 After Effects 之间的差距，使您能够无缝导入编辑决策列表 (EDL) 并自动链接您的源媒体文件。
+
+* 通过简单的拖放操作导入 EDL 文件
+* 自动搜索并链接源媒体文件
+* 在 After Effects 的三种不同构建模式中进行选择
+* 保持精确的时间码和编辑点
+* 配置自定义合成设置
+* 为剪辑添加可选手柄
+* 导入 EDL 标记和 CDL 数据
+
+[﻿﻿﻿](http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/515171730276.mp4)
+
+支持Win/Mac系统：AE 2025, 2024, 2023, 2022, 2021
+
+**【下载地址】**
+
+[城通网盘](https://url70.ctfile.com/f/2827370-1496402953-840ff7?p=4431) 访问密码：6688          [百度网盘](https://pan.baidu.com/s/1CWellA6OlcKdXSiq5WdDcQ?pwd=bizs) 提取码: bizs           [阿里云盘](https://www.alipan.com/s/6EADmgrxEnK)

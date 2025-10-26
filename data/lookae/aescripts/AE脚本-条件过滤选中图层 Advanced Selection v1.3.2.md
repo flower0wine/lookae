@@ -1,0 +1,39 @@
+---
+title: AE脚本-条件过滤选中图层 Advanced Selection v1.3.2
+slug: aejiao-ben-tiao-jian-guo-lu-xuan-zhong-tu-ceng-advanced-selection-v1-3-2
+source_url: https://www.lookae.com/advanced-132/
+category: aescripts
+tags: [AE脚本]
+---
+# AE脚本-条件过滤选中图层 Advanced Selection v1.3.2
+
+2021/09/28 11:06
+
+作者：大众脸
+分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)
+
+![AE脚本-条件过滤选中图层 Advanced Selection v1.3.2](https://www.lookae.com/wp-content/uploads/2020/09/Advanced-Selection.jpg "AE脚本-条件过滤选中图层 Advanced Selection v1.3.2-LookAE.com")
+
+[﻿﻿﻿](https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/280929169723.mp4)
+
+使用脚本可以在AE中通过一些条件筛选出需要选中的图层。它提供了大量过滤器供您选择，以缩小选择范围，例如图层类型，图层选项，混合模式，按名称搜索，标签颜色等等。
+
+支持Win/Mac系统：After Effects 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC
+
+**如何使用：**
+
+首先在项目窗口中选择一个合成，然后通过单击列表中的一个或多个元素来设置过滤器。
+
+按住ctrl或cmd键可以进行多种选择。
+
+选择是否要使用“或”按钮过滤满足至少一个选定条件的所有图层，或对仅具有所有选定条件的图层使用“与”按钮。
+
+通过单击“选择图层”按钮激活选定的过滤器
+
+**v1.3.2更新内容：**添加了“有父子级别”和“没父子级别”过滤选项
+
+**【下载地址】**
+
+[城通网盘](https://url62.ctfile.com/f/680462-515457258-d14e03) 访问密码：6688            [百度网盘](https://pan.baidu.com/s/16637L-666WO8MZ_5pausfg) 提取码：zkco             [阿里云盘](https://www.aliyundrive.com/s/ngyTh2zqW6j)

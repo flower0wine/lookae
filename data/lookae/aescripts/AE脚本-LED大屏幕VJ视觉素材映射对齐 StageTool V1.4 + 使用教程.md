@@ -1,0 +1,39 @@
+---
+title: AE脚本-LED大屏幕VJ视觉素材映射对齐 StageTool V1.4 + 使用教程
+slug: aejiao-ben-ledda-ping-mu-vjshi-jue-su-cai-ying-she-dui-qi-stagetool-v1-4-shi-yong-jiao-cheng
+source_url: https://www.lookae.com/stagetool-14/
+category: aescripts
+tags: [AE脚本]
+---
+# AE脚本-LED大屏幕VJ视觉素材映射对齐 StageTool V1.4 + 使用教程
+
+2019/12/19 16:37
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [AE脚本](https://www.lookae.com/after-effects/aescripts/)
+
+[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)
+
+![AE脚本-LED大屏幕VJ视觉素材映射对齐 StageTool V1.4 + 使用教程](https://www.lookae.com/wp-content/uploads/2018/05/stageTool.jpg "AE脚本-LED大屏幕VJ视觉素材映射对齐 StageTool V1.4 + 使用教程-LookAE.com")
+
+**脚本介绍】**
+
+脚本 stageTool 可以将LED屏幕根据大小排列映射到AE软件中，再通过AE导入到 Resolume Arena 5 & 6软件，这样就方便VJ视频的制作。
+
+Stagetool lets you create pixel mappings for your VJ performances very easily within After Effects. Just simply enter the properties of the LED slice and hit create! Position the LED slices to match your stage, and export the composition to Resolume Arena 5 & 6.
+
+官网地址：https://aescripts.com/stagetool/
+
+**v1.4 新版更新：**更新兼容苹果10.15系统
+
+**Win/Mac系统下：**
+
+* AE CC 2019，CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6 ,CS5 Win/Mac
+
+压缩包含安装方法说明
+
+**【脚本下载】**
+
+AE脚本-LED大屏幕VJ视觉素材映射对齐 StageTool V1.4 + 使用教程
+
+[城通网盘下载](https://tc5.us/file/680462-414460089)                              [百度网盘下载](https://pan.baidu.com/s/1CQ0zejZypSQCp6Ol6ddTPQ)

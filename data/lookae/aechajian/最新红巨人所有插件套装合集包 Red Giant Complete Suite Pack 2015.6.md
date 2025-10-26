@@ -1,0 +1,157 @@
+---
+title: 最新红巨人所有插件套装合集包 Red Giant Complete Suite Pack 2015.6
+slug: zui-xin-hong-ju-ren-suo-you-cha-jian-tao-zhuang-he-ji-bao-red-giant-complete-suite-pack-2015-6
+source_url: https://www.lookae.com/rgpack2015/
+category: aechajian
+tags: [AE插件, AVID插件, EDIUS插件, PR插件, PS插件, VEGAS插件, 达芬奇插件]
+---
+# 最新红巨人所有插件套装合集包 Red Giant Complete Suite Pack 2015.6
+
+2015/06/03 16:42
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/) / [Premiere](https://www.lookae.com/qitarjcj/premierezy/) / [其他辐射](https://www.lookae.com/others/) / [软件/插件](https://www.lookae.com/qitarjcj/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)[AVID插件](https://www.lookae.com/tag/avid%e6%8f%92%e4%bb%b6/)[EDIUS插件](https://www.lookae.com/tag/edius%e6%8f%92%e4%bb%b6/)[PR插件](https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/)[PS插件](https://www.lookae.com/tag/ps%e6%8f%92%e4%bb%b6/)[VEGAS插件](https://www.lookae.com/tag/vegas%e6%8f%92%e4%bb%b6/)[达芬奇插件](https://www.lookae.com/tag/%e8%be%be%e8%8a%ac%e5%a5%87%e6%8f%92%e4%bb%b6/)
+
+[![最新红巨人所有插件套装合集包 Red Giant Complete Suite Pack 2015.6](https://www.lookae.com/wp-content/uploads/2015/06/RGPACK2015.jpg "最新红巨人所有插件套装合集包 Red Giant Complete Suite Pack 2015.6-LookAE.com")](https://www.lookae.com/wp-content/uploads/2015/06/RGPACK2015.jpg)
+
+**【插件介绍】**
+
+2015.06.03更新，最新红巨人所有插件套装合集包 Red Giant Complete Suite Pack
+
+包括了Red Giant红巨人所有的插件套装，且都为目前最新版，
+
+支持众多后期软件，有32和64位版本，含序列号。
+
+**插件套装列表：**
+
+– Color Suite 11.1.4   调色套装
+
+– Effects Suite 11.1.4   效果套装（光工厂这套）
+
+– Keying Suite 11.1.3 抠像套装
+
+– Magic Bullet Suite 12.0.4   MB调色套装
+
+– Shooter Suite 12.6.4  后期套装  LookAE.com
+
+– Trapcode Suite 12.1.7 特效套装（粒子这套）
+
+**插件详细列表：**
+
+**– Color Suite 11.1.4   调色套装包括：**
+
+Colorista II （调色师）含二级调色
+
+Cosmo 1.0 （润肤插件） LookAE.com
+
+Denoiser II   （降噪插件）
+
+LUT Buddy   （色彩共享系统）
+
+Magic Bullet Looks 2 （调色插件）多预设
+
+**– Effects Suite 11.1.4   效果套装（光工厂这套）包括**
+
+Composite Wizard 1.4.6 （复合向导插件）
+
+Holomatrix 3.0 （矩阵插件）
+
+Image Lounge 1.4 （图像管理插件）
+
+Knoll Light Factory 3.0 （光工厂插件）
+
+PlaneSpace 1.4 （平面空间插件）
+
+Psunami 1.4 （水流插件） LookAE.com
+
+Text Anarchy 2.4 （文字插件）
+
+ToonIt 2.1 （图像风格化插件）
+
+Warp 1.1 （扭曲插件）
+
+**– Keying Suite 11.1.3 抠像套装包括：**
+
+Key Correct 1.3 （修正抠像插件）
+
+Primatte Keyer 5.1 （超级抠像插件）
+
+Warp 1.1 （扭曲插件）
+
+**– Magic Bullet Suite 12.0.4   MB调色套装包括：**
+
+Magic Bullet Looks 3.0  Looks调色插件-多预设
+
+Magic Bullet Colorista III  调色师3
+
+Magic Bullet Film 1.0  电影质感调色
+
+Magic Bullet Mojo 2.0 快速调色插件
+
+Magic Bullet Cosmo 2.0  润肤磨皮插件
+
+Denoiser II   降噪插件  LookAE.com
+
+LUT Buddy  LUT调色工具
+
+**– Shooter Suite 12.6.4  后期套装包括：**
+
+BulletProof 1.2.2 专业后期流程软件
+
+PluralEyes 3.5.8 音视频自动同步插件 主要更新
+
+Denoiser II  1.4.3 降噪插件 LookAE.com
+
+Instant 4K 1.51 高清插件（支持4K）
+
+Frames 1.1.3 （转场插件）注：此转场是转素材的上下场，非视频间切换转场。
+
+LUT Buddy 1.0.1 （色彩共享系统）加载/创建LUT
+
+Offload 1.0.1 素材备份工具
+
+**– Trapcode Suite 12.1.7 特效套装（粒子这套）包括：**
+
+Trapcode 3D Stroke 2.6.4    3D描边插件
+
+Trapcode Echospace 1.1.4   三维立体拖尾延迟插件
+
+Trapcode Form 2.0.7    三维空间粒子插件
+
+Trapcode Horizon 1.15   无限场景（天空）插件
+
+Trapcode Lux 1.3.3   聚光灯插件  LookAE.com
+
+Trapcode Mir 2.1.2   三维图形插件
+
+Trapcode Particular 2.2.4    超炫粒子插件
+
+Trapcode Shine 1.6.4    放射光插件
+
+Trapcode Sound Keys 1.2.4   音频关键帧插件
+
+Trapcode Starglow 1.6.4   星光插件
+
+**支持软件有：（Win系统）**
+
+·Adobe After Effects CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3，CC 2015
+
+·Adobe Premiere Pro CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3，CC 2015
+
+·Adobe Photoshop CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3，CC 2015
+
+·Avid Media Composer 5.5, 6, 6.5 or later  剪辑软件
+
+·Sony Vegas Pro 12, 13  剪辑软件
+
+·Davinci Resolve 11，Davinci Resolve 12   达芬奇调色软件
+
+· EDIUS 剪辑软件可以调用插件
+
+**【插件下载】**
+
+[所有红巨人插件套装合集 Red Giant Complete Suite Pack 2015.6](https://www.400gb.com/file/97538216)
+
+[【大众脸官方淘宝店】](https://lookae.taobao.com/)                [点击自愿赞助 LookAE.com 网站 【送精品资源】](https://www.lookae.com/sponsor/)

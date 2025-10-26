@@ -1,0 +1,39 @@
+---
+title: AE脚本：搜索调用管理插件表达式工具 Aescripts Tool Launcher v1.3.0
+slug: aejiao-ben-sou-suo-diao-yong-guan-li-cha-jian-biao-da-shi-gong-ju-aescripts-tool-launcher-v1-3-0
+source_url: https://www.lookae.com/toollauncher13/
+category: aescripts
+tags: [Aescaripts, AE脚本]
+---
+# AE脚本：搜索调用管理插件表达式工具 Aescripts Tool Launcher v1.3.0
+
+2017/05/06 15:06
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[Aescaripts](https://www.lookae.com/tag/aescaripts/)[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)
+
+[![AE脚本：搜索调用管理插件表达式工具 Aescripts Tool Launcher v1.3.0](https://www.lookae.com/wp-content/uploads/2017/05/Tool-Launcher.jpg "AE脚本：搜索调用管理插件表达式工具 Aescripts Tool Launcher v1.3.0-LookAE.com")](https://www.lookae.com/wp-content/uploads/2017/05/Tool-Launcher.jpg)
+
+**【脚本介绍】**
+
+通过这个脚本可以在AE软件中搜索到已安装的插件，脚本，表达式等，能够将效果快速应用到图层上
+
+Run scripts, menu commands and apply expressions, from a searchable list or custom toolbars. Open script interfaces from anywhere in pre-docked panels.
+
+http://aescripts.com/tool-launcher/
+
+**适用于Win/Mac系统下：**AE CS 6 – CC 2017
+
+**脚本安装：**拷贝.jsxbin脚本文件到AE安装目录下：Support Files\Scripts\ScriptUI Pane
+
+**脚本使用：**在AE软件中点击 Window（窗口菜单）即可找到脚本。
+
+**【脚本下载】**
+
+AE脚本：搜索调用管理插件表达式工具 Aescripts Tool Launcher v1.3.0
+
+[城通网盘下载](https://lookae.ctfile.com/fs/680462-202006241)                               [百度云网盘下载](https://pan.baidu.com/s/1mhETHQK)
+
+[【大众脸官方淘宝店】](https://lookae.taobao.com/)                [点击自愿赞助 LookAE.com 网站 【送精品资源】](https://www.lookae.com/sponsor/)

@@ -1,0 +1,37 @@
+---
+title: AE脚本-使用快捷键控制关键帧操作 Keyboard v1.2.5 + 使用教程
+slug: aejiao-ben-shi-yong-kuai-jie-jian-kong-zhi-guan-jian-zheng-cao-zuo-keyboard-v1-2-5-shi-yong-jiao-cheng
+source_url: https://www.lookae.com/keyboard-125/
+category: aescripts
+tags: [AE脚本]
+---
+# AE脚本-使用快捷键控制关键帧操作 Keyboard v1.2.5 + 使用教程
+
+2021/10/19 14:06
+
+作者：大众脸
+分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)
+
+[![AE脚本-使用快捷键控制关键帧操作 Keyboard v1.2.5 + 使用教程](https://www.lookae.com/wp-content/uploads/2017/05/KEYboard.jpg "AE脚本-使用快捷键控制关键帧操作 Keyboard v1.2.5 + 使用教程-LookAE.com")](https://www.lookae.com/wp-content/uploads/2017/05/KEYboard.jpg)
+
+使用脚本可以AE中使用自定义设置的快捷键来操控关键帧，快捷键控制更加的方便快捷，可控制关键帧模式，缓入缓出等. 含高清视频教程，方便脚本的学习。脚本为After Effects中的关键帧提供了一系列功能。这些功能虽然很小，但可以经常使用，例如设置关键帧缓动，克隆键，镜像键，移位键或随机键。最重要的是，您可以通过键盘快捷键来完成这些操作。借助KEYboard脚本，动画师可以更快地完成工作，而不会被那些繁琐的操作弄得焦头烂额。
+
+KEYboard provides a series of function for keyframes in After Effects. Those functions are small but can be used frequently, such as setting keyframe Ease, cloning keys, mirroring keys, shifting keys or randomizing keys. The most important is you can do those through keyboard shortcuts.
+
+**v1.2.5更新内容：**
+
+此更新包括 UX 改进。为某些功能添加了新的首选项。  
+完整的 KEYboard 介绍可以在指南页面中找到。
+
+1. 如果启用该选项，键盘窗口将出现在最后打开的位置。  
+2. 如果启用该选项，克隆键或镜像键可以选择新复制的关键帧。  
+3. QuickVal 添加约束比例模式。  
+4. 数字行中的自定义 EaseInOut 可以为传入和传出速度键入 2 个不同的值。
+
+适用于Win/Mac系统：AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014
+
+**【下载地址****】**
+
+[城通网盘](https://url62.ctfile.com/f/680462-518155213-77c463) 访问密码：6688          [百度网盘](https://pan.baidu.com/s/14hfsU6VCP1AO8RHNgCTabA) 提取码：0r33        [阿里云盘](https://www.aliyundrive.com/s/YB1RMWAYcpS)

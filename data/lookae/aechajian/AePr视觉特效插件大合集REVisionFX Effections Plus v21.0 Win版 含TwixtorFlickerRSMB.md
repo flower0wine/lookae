@@ -1,0 +1,77 @@
+---
+title: Ae/Pr视觉特效插件大合集REVisionFX Effections Plus v21.0 Win版 含Twixtor/Flicker/RSMB
+slug: ae-prshi-jue-te-xiao-cha-jian-da-he-ji-revisionfx-effections-plus-v21-0-winban-han-twixtor-flicker-rsmb
+source_url: https://www.lookae.com/revisionfx-21/
+category: aechajian
+tags: [AE插件, PR插件]
+---
+# Ae/Pr视觉特效插件大合集REVisionFX Effections Plus v21.0 Win版 含Twixtor/Flicker/RSMB
+
+2020/06/22 09:43
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/) / [Premiere](https://www.lookae.com/qitarjcj/premierezy/) / [软件/插件](https://www.lookae.com/qitarjcj/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)[PR插件](https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/)
+
+![Ae/Pr视觉特效插件大合集REVisionFX Effections Plus v21.0 Win版 含Twixtor/Flicker/RSMB](https://www.lookae.com/wp-content/uploads/2018/06/revisionfx2018.jpg "Ae/Pr视觉特效插件大合集REVisionFX Effections Plus v21.0 Win版 含Twixtor/Flicker/RSMB-LookAE.com")
+
+**【插件介绍】**
+
+RE：Vision Effects 公司出品了很多优秀的插件，最出名的插件应该算是Twixtor Pro 变速插件，其中很多插件都比较实用，支持AE和PR软件。
+
+RE:vision Effects is a research and development company focused on providing innovative, advanced custom software to create, modify, control, and enhance digital video imagery at the highest quality.
+
+As co-founders of RE:vision Effects, Pierre Jasmin and Peter Litwinowicz head up a team of talented computer scientists, artists, software programmers, and industry experts dedicated to designing software solutions for virtually any digital pixel manipulation problem. While they have the artistry to dream up novel and compelling visual looks and effects, they also have seemingly magical powers to make video pixels move in a way that brings these illusions to life.
+
+Their products have a broad range of applications and are currently used in every phase of television, motion picture, internet and visual effects industries. The company supplies its cutting edge software through partnerships and direct sales for a large segment of customers ranging from at-home editors, wedding and other live event videographers, industrial video providers to those creating high-end effects for commercials, broadcast TV and big-budget films.
+
+http://revisionfx.com/products/effections/after-effects
+
+**支持 Win 系统：**
+
+Adobe After Effects CS 6 – CC 2019，2020
+
+Adobe Premiere Pro CS 6– CC 2019，2020
+
+**RE：Vision Effects 包含插件目录：**
+
+DE:Flicker v2.0.0       视频去闪烁插件 （大更新）
+
+DE:Noise v3.3.0        视频降噪插件
+
+FieldsKit v3.6.0        动画反交错插件
+
+PV Feather v1.8.1    逐点羽化插件
+
+RE:Fill v2.4.0           智能修补和填充插件
+
+RE:Flex v5.4.0          扭曲变形/变脸插件
+
+RE:Grade v1.1.0      调色插件（新插件）
+
+RE:Lens v2.2.0          鱼眼广角镜头畸变扭曲修复插件
+
+RE:Map v3.2.1       UV贴图映射插件
+
+RE:Match v2.4.0        色彩匹配插件
+
+ReelSmart Motion Blur Pro v6.2.1     动态模糊插件
+
+Shade/Shape v4.3.1        形状阴影插件
+
+SmoothKit v3.5.2          降噪磨皮美颜插件
+
+Twixtor Pro v7.3.1       超级慢动作变速插件 (修复GPU加速蓝屏问题)
+
+Video Gogh v3.9.1       水彩油画插件
+
+**【英文版插件下载】**
+
+Ae/Pr视觉特效插件大合集REVisionFX Effections Plus v21.0 CE Win TeamVR一键版
+
+[城通网盘下载](https://089u.com/file/680462-450116738)                                [百度网盘下载](https://pan.baidu.com/s/1Pakvg0eTtH4yk6r4EBX2FA)  提取码：xfas
+
+**【中文版插件下载】**
+
+[中文汉化-视觉套装AE/PR插件REVisionFX Effections Plus v21.0 Win](https://www.lookae.com/revisionfx-21-zh/)

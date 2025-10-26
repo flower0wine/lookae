@@ -1,0 +1,37 @@
+---
+title: 三维对象运动跟踪AE插件 GeoTracker 2024.3.0 Win
+slug: san-wei-dui-xiang-yun-dong-gen-zong-aecha-jian-geotracker-2024-3-0-win
+source_url: https://www.lookae.com/geotracker-20243/
+category: aechajian
+tags: [AE插件, GeoTracker, 跟踪插件]
+---
+# 三维对象运动跟踪AE插件 GeoTracker 2024.3.0 Win
+
+2024/11/27 15:14
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)[GeoTracker](https://www.lookae.com/tag/geotracker/)[跟踪插件](https://www.lookae.com/tag/%e8%b7%9f%e8%b8%aa%e6%8f%92%e4%bb%b6/)
+
+![三维对象运动跟踪AE插件 GeoTracker 2024.3.0 Win](https://www.lookae.com/wp-content/uploads/2022/10/KeenTools-GeoTracker.jpg "三维对象运动跟踪AE插件 GeoTracker 2024.3.0 Win-LookAE.com")
+
+GeoTracker是一款3D对象跟踪After Effects插件，由KeenTools公司发布，它带来了轻松、几乎实时的3D物体跟踪，并且像内置工具一样工作。它允许您重建素材中对象的3D运动，而无需像匹配移动任务那样遇到通常的麻烦。使用内置After Effects工具、第三方插件和其他3D软件，就可以替换、增强、用作粒子发射器等跟踪对象来达到运动图形和设计的新水平。正式版插件已激活，无功能限制。
+
+GeoTracker for After Effects is a 3D object tracking plug-in that allows you to reconstruct the 3D movement of objects in footage without the usual hassle associated with match-moving tasks. Using built-in After Effects tools, third-party plug-ins, and other 3D software, tracked objects can be replaced, enhanced, used as particle emitters, and so on.
+
+插件主要特点：
+
+* GeoTracker 可以加载自定义3D模型并跟踪它们
+* 它有四个内置的 3D 基元：立方体、圆柱体、平面和球体
+* 跟踪对象可以导出为3D和2D Null图层，可以链接到其他图层或传递给Element 3D、Cinema 4D、粒子生成器等
+* GeoTracker能够在用于拍摄镜头的相机未知的情况下估计相机焦距
+* 大多数时候您不会注意到插件处理反射和遮挡。对于困难的情况，它支持将问题区域排除在跟踪之外的2D蒙版
+
+[﻿﻿﻿](https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/379931977273.mp4)
+
+支持Win系统： After Effects 2022, 2023, 2024, 2025 或更高版本
+
+**【下载地址】**
+
+[城通网盘](https://url70.ctfile.com/f/2827370-1430429734-24e813?p=4431) 访问密码：6688             [百度网盘](https://pan.baidu.com/s/1oogN2ustQPP2IsaDu7AHzg?pwd=fveg) 提取码: fveg            [阿里云盘](https://www.alipan.com/s/AwdyokLRdGv)

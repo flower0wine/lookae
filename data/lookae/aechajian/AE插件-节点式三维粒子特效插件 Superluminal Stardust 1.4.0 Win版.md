@@ -1,0 +1,60 @@
+---
+title: AE插件-节点式三维粒子特效插件 Superluminal Stardust 1.4.0 Win版
+slug: aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-superluminal-stardust-1-4-0-winban
+source_url: https://www.lookae.com/stardust-14/
+category: aechajian
+tags: [AE插件, Stardust]
+---
+# AE插件-节点式三维粒子特效插件 Superluminal Stardust 1.4.0 Win版
+
+2019/04/03 00:35
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)[Stardust](https://www.lookae.com/tag/stardust/)
+
+![AE插件-节点式三维粒子特效插件 Superluminal Stardust 1.4.0 Win版](https://www.lookae.com/wp-content/uploads/2018/11/Stardust-13.jpg "AE插件-节点式三维粒子特效插件 Superluminal Stardust 1.4.0 Win版-LookAE.com")
+
+**【插件简介】**
+
+Stardust 是AE软件新一代节点式的三维粒子插件（也称星辰粒子插件），
+
+独立的操控界面，功能强大，含多种预设，轻松制作出漂亮而复杂的效果，
+
+拥有：发射器，粒子，复制，力场，辅助发射器，3D模型，文字，Maks，等控制，模式也非常多。
+
+Stardust is a modular 3D particle system for After Effects. It has an easy to use node based user interface and ships with a ton of presets to create stunning effects quickly and easily.
+
+官网地址：http://aescripts.com/stardust/
+
+**Stardust 1.4.0新版更新内容：**
+
+-三维立体光-添加大气效果到场景，尊重场景阴影。  
+-GPU圆/云-使用GPU渲染大大加速的圆和云粒子。  
+-整体性能改进和工作流简化。  
+-网格平滑-优化模型网格。  
+-DOF-由渲染设置控制的更好的质量。  
+-阴影捕捉器材质-阴影在其他透明表面上渲染。  
+-新的渲染输出-阴影，体积。  
+-雾-为场景添加体积雾效果。  
+-偏移发射器时间（预运行）-特定于时间移位的发射器以设置初始状态。  
+-obj文件导入-为完成项目文件集合而导入到项目中的本机obj文件。  
+-反射-新：通过曲面法线影响变形。  
+-地图-添加：密度属性。  
+-副本-添加：定位到样条线路径。  
+-修复-单模型-工作室凸轮。  
+-固定层发射器-跳过空alpha。  
+-其他错误修复
+
+**支持**Adobe After Effects CC 2019 CC 2018, CC 2017, CC 2015.3
+
+**【Win 版插件下载】**
+
+AE插件：节点式三维粒子特效插件版 Stardust 1.4.0 Win
+
+[城通网盘下载](https://lookae.ctfile.com/fs/680462-358255533)                                [百度网盘下载](https://pan.baidu.com/s/12MJl236_tjO1eHmGRwLswg)    提取码：zg3h
+
+**【Mac 版插件下载】**
+
+[Mac版：AE插件：节点式三维粒子特效插件版 Stardust 1.2.1](https://www.lookae.com/mac-stardust-121/)

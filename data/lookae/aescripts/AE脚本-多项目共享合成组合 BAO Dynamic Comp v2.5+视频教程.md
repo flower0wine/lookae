@@ -1,0 +1,29 @@
+---
+title: AE脚本-多项目共享合成组合 BAO Dynamic Comp v2.5+视频教程
+slug: aejiao-ben-duo-xiang-mu-gong-xiang-he-cheng-zu-he-bao-dynamic-comp-v2-5-shi-pin-jiao-cheng
+source_url: https://www.lookae.com/dynamic-comp-25/
+category: aescripts
+tags: [AE脚本]
+---
+# AE脚本-多项目共享合成组合 BAO Dynamic Comp v2.5+视频教程
+
+2023/07/28 22:06
+
+作者：大众脸
+分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)
+
+![AE脚本-多项目共享合成组合 BAO Dynamic Comp v2.5+视频教程](https://www.lookae.com/wp-content/uploads/2019/06/BAO-Dynamic-Comp.jpg "AE脚本-多项目共享合成组合 BAO Dynamic Comp v2.5+视频教程-LookAE.com")
+
+[﻿](https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/227906352286.mp4)
+
+脚本 Dynamic Comp 允许您在多个项目之间共享组合。为此，只需在项目面板中选择一个合成，然后按«Export composition-导出合成»按钮，您的作品将作为.aep项目导出，位于该位置并使用您选择的名称。现在，您的合成可以在使用Dynamic Comp的任何After Effects项目中使用。2.5更新内容：修复了UI问题。
+
+Dynamic Comp 2 allows you to share compositions between several After Effects projects.
+
+支持Win/Mac系统 AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6
+
+**【下载地址****】**
+
+[城通网盘](https://url70.ctfile.com/f/2827370-899307744-1c6169?p=4431) 访问密码：6688          [百度网盘](https://pan.baidu.com/s/1b8boWEQqwovaiKmc-JsDZg?pwd=j53z) 提取码：j53z         [阿里云盘](https://www.aliyundrive.com/s/2NCFKZ5ENa3)

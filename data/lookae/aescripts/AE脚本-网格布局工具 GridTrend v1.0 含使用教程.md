@@ -1,0 +1,38 @@
+---
+title: AE脚本-网格布局工具 GridTrend v1.0 含使用教程
+slug: aejiao-ben-wang-ge-bu-ju-gong-ju-gridtrend-v1-0-han-shi-yong-jiao-cheng
+source_url: https://www.lookae.com/gridtrend/
+category: aescripts
+tags: [AE脚本, 网格脚本]
+---
+# AE脚本-网格布局工具 GridTrend v1.0 含使用教程
+
+2025/09/24 09:17
+
+作者：大众脸
+分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)
+
+[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)[网格脚本](https://www.lookae.com/tag/%e7%bd%91%e6%a0%bc%e8%84%9a%e6%9c%ac/)
+
+![AE脚本-网格布局工具 GridTrend v1.0 含使用教程](https://www.lookae.com/wp-content/uploads/2025/09/GridTrend.jpg "AE脚本-网格布局工具 GridTrend v1.0 含使用教程-LookAE.com")
+
+使用网格布局轻松分享您的作品。提供中心轮廓、交换、控制等功能，可在1秒内创建专业网格。
+
+**插件特征：**
+
+* 一秒钟内创建专业网格，您的个人资料自动居中。
+* 立即随机排列您的媒体以找到完美的布局。
+* 完全控制行、列和组合设置。
+* 添加并自定义笔触，并完全控制颜色和宽度。
+* 使用自动文件夹组织功能保持项目整洁。
+* 使用任何视频、图像或矢量文件构建您的网格。
+* 利用面具、背景和指南等高级功能。
+* 保存您最喜欢的设置以便立即重复使用。
+* 创建一个空网格以便稍后放置您的媒体。
+* 安全删除最后一个网格及其文件夹以使您的项目保持井然有序。
+
+[﻿](http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/535314454554.mp4)
+
+**【下载地址】**
+
+[城通网盘](https://url70.ctfile.com/f/2827370-8439346991-c5c985?p=4431) 访问密码：6688           [百度网盘](https://pan.baidu.com/s/1lU53LSBShwAvSPH5EijA0Q?pwd=hxha) 提取码: hxha          [阿里云盘](https://www.alipan.com/s/kBRkstM3zbK)

@@ -1,0 +1,43 @@
+---
+title: AE/PR 人像润色磨皮插件套装 Imagenomic Video 1006
+slug: ae-pr-ren-xiang-run-se-mo-pi-cha-jian-tao-zhuang-imagenomic-video-1006
+source_url: https://www.lookae.com/imagenomicplug/
+category: aechajian
+tags: [AE插件, PR插件]
+---
+# AE/PR 人像润色磨皮插件套装 Imagenomic Video 1006
+
+2015/07/03 01:30
+
+作者：大众脸
+分类：[AE插件](https://www.lookae.com/after-effects/aechajian/) / [After Effects](https://www.lookae.com/after-effects/) / [Premiere](https://www.lookae.com/qitarjcj/premierezy/) / [其他辐射](https://www.lookae.com/others/) / [软件/插件](https://www.lookae.com/qitarjcj/)
+
+[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)[PR插件](https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/)
+
+[![AE/PR 人像润色磨皮插件套装 Imagenomic Video 1006](https://www.lookae.com/wp-content/uploads/2015/07/Imagenomic-Video-Plug.jpg "AE/PR 人像润色磨皮插件套装 Imagenomic Video 1006-LookAE.com")](https://www.lookae.com/wp-content/uploads/2015/07/Imagenomic-Video-Plug.jpg)
+
+**【插件介绍】**
+
+﻿
+
+著名的人像润色磨皮插件P0rtr终于出视频版本了，以前这款插件只能用在 PS 软件中，很受后期人的喜爱，因为他操作简单，效果显著，功能也十分的完善。现在这款插件终于支持了 Premiere Pro 和 After Effects ，用于人像润色，减少了人工选择图像区域的重复劳动。它能智能地对图像中的皮肤材质、头发、眉毛、睫毛等部位进行平滑和减少疵点处理。这款滤镜效果很不错的，处理速度也很快速，非常智能。
+
+插件用于皮肤修饰，塑身，黑白效果，着色效果
+
+能够与人脸无与伦比的完美结合，使得皮肤平滑，修复和增强效果，RealEffects插件则可塑身和着色。
+
+视频插件套装引入了一个新的RealEffects插件：增加多功能塑身和着色功能，补充遮蔽人脸瑕疵和润色功能。
+
+**系统软件要求：**
+
+Windows 7(64位) /  Windows 8(64位),  4 gb内存,   100 mb硬盘,    1280 x800分辨率,
+
+Adobe Premiere Pro CS6  –  CC 2015
+
+Adobe After Effects  CS6  –  CC 2015
+
+**【插件下载】**
+
+[AE/PR 人像润色磨皮插件套装  1006](https://www.400gb.com/file/103593578)
+
+[【大众脸官方淘宝店】](https://lookae.taobao.com/)                [点击自愿赞助 LookAE.com 网站 【送精品资源】](https://www.lookae.com/sponsor/)
