@@ -1,0 +1,89 @@
+{
+  "title": "AE脚本+模板：超级炫酷火焰烟雾粉尘魔法粒子特效生成工具包 v1.3 支持中文软件",
+  "slug": "aejiao-ben-mo-ban-chao-ji-xuan-ku-huo-yan-yan-wu-fen-chen-mo-fa-li-zi-te-xiao-sheng-cheng-gong-ju-bao-v1-3-zhi-chi-zhong-wen-ruan-jian",
+  "author": "大众脸",
+  "post_date": "2017-04-22T18:13:00Z",
+  "source_url": "https://www.lookae.com/fxparticle13/",
+  "category": "aechajian",
+  "tags": [
+    "AE模板",
+    "AE脚本"
+  ],
+  "content": "本工具包提供一套完整的火焰、烟雾、粉尘、火星及魔法类粒子特效解决方案，适用于 After Effects。支持中文与英文版 AE 软件，兼容从 CS5 到 CC 2018 的版本（不支持 CC 2019 及更高版本）。包含脚本和模板两种形式，可自由选择破碎部位、应用于 Logo/文字或通过点发射器生成动态粒子效果。支持多种粒子类型与三种实现方式：笔刷涂抹、Alpha 通道导入、点发射器路径动画。内置高清视频教程与图文安装说明，提升使用效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXParticle13.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB28ewCkFXXXXbrXpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2Yes6kFXXXXakXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2QYVApmFmpuFjSZFrXXayOXXa_!!705956171.png",
+    "https://gd3.alicdn.com/bao/uploaded/i3/705956171/TB2J7wFkFXXXXauXpXXXXXXXXXX_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2DawxkFXXXXciXpXXXXXXXXXX_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/p/1/e/6/t/1/50006862455.mp4"
+  ],
+  "supported_versions": "After Effects CS5 - CC 2018",
+  "supported_os": "Windows, Mac OSX",
+  "download_links": [
+    {
+      "name": "AE脚本+模板：超级炫酷火焰烟雾粉尘魔法粒子特效生成工具包 v1.3 支持中文软件",
+      "url": "https://item.taobao.com/item.htm?id=527525697534"
+    },
+    {
+      "name": "推荐：AE模版：唯美大气漂亮粒子线条生长 LOGO 片头展示",
+      "url": "https://www.lookae.com/line-particles/"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "大脸独家修复兼容中文和英文版AE软件",
+      "提供Particular插件/脚本/模板的安装使用中文说明",
+      "解决使用画笔工具时出现白色空白弹窗问题",
+      "解决提示“无序列”和“版本不兼容”的警告问题",
+      "完美兼容插件 Particular 2.5 和 2.6 版本（支持2.2-2.6版）",
+      "更新支持 After Effects CC 2018",
+      "修复错误BUG问题",
+      "自动设置RGB通道",
+      "提升渲染和预览速度",
+      "改进 Dust 粉尘灰尘 预设视觉效果"
+    ],
+    "particle_effects": [
+      "粉尘灰尘 (Dust Particle)",
+      "烟雾 (Smoke Particle)",
+      "火焰 (Fire Particle)",
+      "火星 (Sparkle Particle)",
+      "其他（玻璃，魔法，环境粒子） (Other Particle)"
+    ],
+    "implementation_methods": [
+      "Brush笔刷：自己用笔刷涂抹的位置会产生粒子飘散效果",
+      "Alpha 通道：直接用到含透明通道的图片、Logo、文字上即可",
+      "Point Emitter 点发射器：点发射方式，粒子沿一个点发射，可以对这个发射点做路径动画"
+    ],
+    "script_features": {
+      "recommended": true,
+      "preview_drag_and_drop": true,
+      "tutorial_videos": "4集高清视频教程",
+      "installation_guide": "中文图文说明",
+      "platform_support": "Mac 和 Win 系统",
+      "plugin_compatibility": "仅支持 Particular V2，更高版不支持"
+    },
+    "template_info": {
+      "individual_projects": true,
+      "software_version": "AE CS 5 – CC 2018 或更高版本",
+      "resolution": "1920×1080",
+      "required_plugin": "Trapcode Particular",
+      "format": "aep 原版工程",
+      "size": "890MB（解压后约1G）",
+      "music_included": false,
+      "additional_resources": "4个脚本视频教程 + 5个模板视频教程"
+    },
+    "purchase_options": [
+      "站内直接购买：支付¥20 下载",
+      "隐藏内容：[支付¥20](https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ffxparticle13%2F)"
+    ],
+    "related_links": [
+      "更多精品AE模板下载: https://www.lookae.com/after-effects/other-after-effects/",
+      "AE模板精选音乐合集下载: https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "点击自愿赞助 LookAE.com 网站 【送精品资源】: https://www.lookae.com/sponsor/"
+    ]
+  }
+}

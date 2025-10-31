@@ -1,0 +1,63 @@
+{
+  "title": "画面故障干扰RGB色彩分离损坏特效AE/PR插件 TV Distortion Bundle V2.7.5 Win",
+  "slug": "hua-mian-gu-zhang-gan-rao-rgbse-cai-fen-chi-sun-pi-te-xiao-ae-prcha-jian-tv-distortion-bundle-v2-7-5-win",
+  "author": "大众脸",
+  "post_date": "2025-04-23T11:04:00Z",
+  "source_url": "https://www.lookae.com/tv-distortion/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "RGB色彩分离",
+    "故障特效"
+  ],
+  "content": "TV Distortion Bundle 是一套专为 After Effects 和 Premiere 设计的故障失真插件合集，可轻松模拟从模拟电视时代到现代数字压缩时代的各种视觉效果，包括信号干扰、像素破损、色彩分离等。适用于影视后期创作中的创意特效制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/02/TV-Distortion-Bundle-274.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/507884756484.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014; Premiere 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1500223822-4a9b01?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1vjicKSJ46k2T-1S98Getyw?pwd=55hx"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Rx5PRB26Ms4"
+    }
+  ],
+  "other": {
+    "update_notes": "V2.7.5 更新内容：修复版本不匹配错误。",
+    "plugins": [
+      {
+        "name": "Bad TV v2.7.5",
+        "description": "坏电视效果"
+      },
+      {
+        "name": "Data Glitch v2.7.5",
+        "description": "信号干扰破损效果"
+      },
+      {
+        "name": "Dot Pixel v2.7.5",
+        "description": "点阵像素效果"
+      },
+      {
+        "name": "Separate RGB v2.7.5",
+        "description": "RGB色彩分离效果"
+      },
+      {
+        "name": "TVPixel v2.7.5",
+        "description": "电视像素损坏效果"
+      }
+    ],
+    "description_en": "TV Distortion Bundle is a collection of five distortion plug-ins for After Effects and Premiere which help digital media artists create Analog Distortion, Digital Image & Satellite Distortion, Digital Pixel Simulation and Chromatic Aberration with ease. In other words you can simulate TV watching experience from the analog era to the current digital compression era."
+  }
+}

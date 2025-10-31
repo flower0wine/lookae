@@ -1,0 +1,66 @@
+{
+  "title": "AE脚本-人工智能将2D图像转换成3D模型 3D Wizard V1.4.6 Win+使用教程",
+  "slug": "aejiao-ben-ren-gong-zhi-neng-jiang-2dtu-xiang-zhuan-huan-cheng-3dmo-xing-3d-wizard-v1-4-6-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/06/13 09:01",
+  "source_url": "https://www.lookae.com/3d-wizard-146/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款可在After Effects中直接将2D图像转换为3D模型的AE脚本，由AI提供支持，可轻松生成、编辑和转换图像，适合准备提升项目的创作者，目前更新后支持Win和Mac系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/3D-Wizard.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/512273774029.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024，2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1515496453-c691aa?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1_kmnKtDtWpC0P6YIaykM3Q?pwd=6icy"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/trZyJkMHSuZ"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "使用向导": [
+      "一种将2D图像转换为3D模型的强大工具，可将其无缝集成到您的时间线中。",
+      "只需拖放您的图像，扩展程序就会生成六种不同的视角。",
+      "该扩展最初以一种令人印象深刻的有效方式删除了主题的背景。",
+      "然后，这些视角由先进的人工智能处理，以创建一个完全实现的3D模型。",
+      "使用3D Wizard，您只需单击即可将您的2D设计以三维形式呈现。"
+    ],
+    "工作原理": [
+      "输入您的图像：从图层、构图框、文件夹中选择图像，或者简单地将文件拖放到扩展程序中。",
+      "去除背景：完全去除图像的背景，确保3D转换的主体清晰且聚焦。",
+      "生成六个视角：该扩展从各个角度创建图像的六个不同视图，为3D建模做准备。",
+      "转换为3D模型：使用先进的AI，将六个视角转换为完全实现的3D模型。",
+      "导入到时间线：最终的3D模型无缝导入到您的时间线，可供您在项目中使用。",
+      "编辑和增强：使用人工智能工具根据任何语言的文本提示生成或修改2D图像，然后将其转换为3D模型以进一步细化。"
+    ],
+    "v1.4.6更新内容": [
+      "现已兼容macOS",
+      "减少了由于使用并行空间而导致的限制",
+      "修复了一些错误并提升了性能"
+    ]
+  }
+}

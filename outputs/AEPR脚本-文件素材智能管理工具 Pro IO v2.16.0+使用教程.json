@@ -1,0 +1,42 @@
+{
+  "title": "AE/PR脚本-文件素材智能管理工具 Pro IO v2.16.0+使用教程",
+  "slug": "ae-prjiao-ben-wen-jian-su-cai-zhi-neng-guan-li-gong-ju-pro-io-v2-16-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/08/04 15:26",
+  "source_url": "https://www.lookae.com/pro-io-216/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本"
+  ],
+  "content": "Pro IO 是一款专为 After Effects 和 Premiere Pro 设计的一站式媒体管理工具，可高效实现素材的智能导入与批量导出。通过监视箱功能，用户可将系统目录链接至项目，自动同步新增资产并一键导入。导出预设支持多序列、多伴奏渲染任务排队，可自定义命名规则与输出路径，大幅提升工作效率。该工具有效解决了重复手动查找文件、重命名和定位目标路径的问题，实现流程自动化，节省时间并提升准确性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Pro-IO-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015; Premiere: 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-456060381"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1X9cU_mYH-_j_aKsDjPRprg"
+    }
+  ],
+  "other": {
+    "update_notes": "v2.16.0 更新：兼容 Adobe 2020 和 macOS Catalina，支持将 ARI 文件作为图像序列导入。",
+    "extract_code": "evag",
+    "related_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/pr%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/",
+      "https://aescripts.com/pro-io/"
+    ]
+  }
+}

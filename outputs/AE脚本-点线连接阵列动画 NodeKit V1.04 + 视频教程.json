@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-点线连接阵列动画 NodeKit V1.04 + 视频教程",
+  "slug": "aejiao-ben-dian-xian-lian-jie-zhen-lie-dong-hua-nodekit-v1-04-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/11/20 21:48",
+  "source_url": "https://www.lookae.com/nodekit-104/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "NodeKit可用于创建、布局、连接和动画化基于节点的流程图、信息图形和图表；非常简单灵活和直观。非常适合快速制作复杂的信息图形效果和创建无限的设计阵列。无需输入数据或信息，内置文本生成器，可导入图片，快速生成几十个连接组合。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/NodeKit.jpg",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_2_2.gif",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_1_1.gif",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_3_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-471994376"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1VdSXroHWBwsgn8jyipGXpw"
+    }
+  ],
+  "other": {
+    "extraction_code": "td41",
+    "official_website": "https://aescripts.com/nodekit/",
+    "version_update": "v1.03新版更新：更新注册系统"
+  }
+}

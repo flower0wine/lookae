@@ -1,0 +1,66 @@
+{
+  "title": "AE脚本-C4D文件渲染代理工具 CINEWARE proxy v1.32.001 + 使用教程",
+  "slug": "aejiao-ben-c4dwen-jian-xuan-ran-dai-li-gong-ju-cineware-proxy-v1-32-001-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/05 15:27",
+  "source_url": "https://www.lookae.com/cineware/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "CINEWARE proxy",
+    "代理渲染"
+  ],
+  "content": "简化Cinema 4D和After Effects之间的实时3D管道。在实时管道和渲染的代理文件之间快速切换。Streamline your live 3D pipeline between Cinema 4D and After Effects CC. Quickly toggle between the live pipeline and rendered proxy files。使用 Cinema 4D 和 After Effects 时，您通常有两种选择：从 Cinema 4D 渲染文件并将它们导入 After Effects，或使用新的实时 3D 管道将 C4D 项目渲染为 After Effects 中的图层。CINEWARE 代理让您可以两全其美：只需在实时 3D 管道和渲染的代理文件之间来回切换。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/CINEWARE-proxy.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/358698838010.mp4"
+  ],
+  "supported_versions": "v1.32.001",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577529581-651db0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wjHqoYarzPL-pyE1pvza5w?pwd=8dpu"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/pxmKimHpDEm"
+    }
+  ],
+  "other": {
+    "compatible_software": {
+      "AE": [
+        "2022",
+        "2021",
+        "2020",
+        "CC 2019",
+        "CC 2018",
+        "CC 2017",
+        "CC 2015.3",
+        "CC 2015",
+        "CC 2014",
+        "CC"
+      ],
+      "C4D": [
+        "R21",
+        "R20",
+        "R19",
+        "R18",
+        "R17",
+        "R16",
+        "R15",
+        "R14"
+      ]
+    },
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "8dpu"
+    }
+  }
+}

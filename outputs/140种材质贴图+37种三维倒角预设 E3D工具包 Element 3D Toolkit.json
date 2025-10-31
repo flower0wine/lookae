@@ -1,0 +1,55 @@
+{
+  "title": "140种材质贴图+37种三维倒角预设 E3D工具包 Element 3D Toolkit",
+  "slug": "140chong-cai-zhi-tie-tu-37chong-san-wei-dao-jiao-yu-she-e3dgong-ju-bao-element-3d-toolkit",
+  "author": "大众脸",
+  "post_date": "2018-05-09T22:02:00Z",
+  "source_url": "https://www.lookae.com/element-3d-toolkit/",
+  "category": "aechajian",
+  "tags": [
+    "E3D材质",
+    "E3D预设",
+    "Element 3D"
+  ],
+  "content": "本工具包包含140种高质量材质贴图和37种三维倒角预设，专为Element 3D插件设计，适用于After Effects CS5至CC 2017及以上版本。支持Windows与Mac系统，分辨率高达3840×2160（4K），文件格式包括.aep、.jpg、.emf、.obj、.ebf。安装简单，只需将对应文件夹复制到Element 3D的材质或倒角目录中即可在AE中直接使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/05/Element-3D-Toolkit.jpg",
+    "https://i.imgur.com/p1UgH7E.jpg",
+    "https://i.imgur.com/f9tOTwk.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 – CC 2017 及更高版本",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-290118582"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1mRpU6xW7xOwXSgV1IkTwDQ"
+    }
+  ],
+  "other": {
+    "resolution": "3840×2160",
+    "file_size": "831M",
+    "file_formats": [
+      ".aep",
+      ".jpg",
+      ".emf",
+      ".obj",
+      ".ebf"
+    ],
+    "plugin_required": "Element 3D v2",
+    "preview_music": "无音乐",
+    "official_id": "21495883",
+    "installation_guide": [
+      "复制 E3D Material Pack_1 文件夹到 E3D 插件的材质目录：\nWin: 我的文档\\VideoCopilot\\Materials\nMac: /文稿/VideoCopilot/Materials",
+      "复制 BEVELS 文件夹到 E3D 插件的倒角目录：\nWin: 我的文档\\VideoCopilot\\Bevels\\\nMac: /文稿/VideoCopilot/Bevels/"
+    ],
+    "related_resources": [
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Ae/Pr视觉特效+转场BCC插件包 2019 v12.5.2 Win/Mac",
+  "slug": "ae-prshi-jue-te-xiao-zhuan-chang-bcccha-jian-bao-2019-v12-5-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2019-09-08T21:50:00",
+  "source_url": "https://www.lookae.com/bcc-1252/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "强大的 BCC 视觉特效插件包 Boris Continuum Complete 2019（简称BCC），为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持OpenGL 和双 CPU加速。BCC 拥有超过百种特效效果：字幕（3D字幕），3D粒子，老电影，光线，画中画，镜头光晕，烟雾，火等等，还有调色，键控/抠像，遮罩，跟踪，发光等等一系列风格化工具。包括多种视频特效和多种视频转场，支持AE和PR软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/213739335488.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019, Premiere Pro CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-395452197"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1cFZWsyErhTWUQereVqwfkg"
+    },
+    {
+      "name": "Mac 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-397103015"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1QOawiU7srIvpmKZFuiTWGw"
+    }
+  ],
+  "other": {
+    "update_notes": "Continuum 2019主要功能包括 Particle Illusion幻影粒子插件的重生，出色的运动图形发生器，新的Title Studio文字图片处理着色器（如发光、射线和模糊的标题和字幕条）；新的Mocha Essentials工作区，包含4个新工具（磁性边缘捕捉、几何形状等），实现更快的跟踪和遮罩；新增point-driven参数跟踪，整体GPU加速。\n\n英文介绍：Continuum 2019 is the latest major upgrade for the most comprehensive plug-in collection on the market. Key features include the rebirth of Particle Illusion, the famed motion graphics generator, new Title Studio image-processing shaders such as glows, rays, and blurs for visually-stunning titles and lower thirds, new Mocha Essentials workspace with 4 new spline tools like magnetic edge snapping and geometric shapes for faster tracking and masking, new point-driven parameter tracking powered by Mocha, and overall GPU-acceleration.",
+    "official_website": "https://borisfx.com/products/continuum/"
+  }
+}

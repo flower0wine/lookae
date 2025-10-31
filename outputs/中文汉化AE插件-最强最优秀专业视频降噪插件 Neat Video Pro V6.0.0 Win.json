@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE插件-最强最优秀专业视频降噪插件 Neat Video Pro V6.0.0 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-zui-qiang-zui-you-xiu-zhuan-ye-shi-pin-jiang-zao-cha-jian-neat-video-pro-v6-0-0-win",
+  "author": "大众脸",
+  "post_date": "2025-05-20",
+  "source_url": "https://www.lookae.com/neatvideo-aech/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化",
+    "精品资源",
+    "降噪插件"
+  ],
+  "content": "Neat Video Pro V6.0.0是一款行业内受欢迎的视频降噪AE插件，能够有效移除画面颗粒噪点，效果显著。该插件拥有优秀的降噪技术和高效率的渲染，支持多个GPU和CPU协同工作，具有较好的降噪效果和处理速度。能够快速处理减少视频中产生的噪点，操作智能人性化。支持SD、HD、1080P、2K、4K、8K及竖屏等多种画面分辨率视频。",
+  "image_urls": [
+    "https://gd3.alicdn.com/imgextra/i4/705956171/O1CN01S9SNIV1vSMmXI8Ob9_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01giuON61vSNA4dlJgc_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01W1FaVD1vSNBBPYDxq_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/509670820724.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017 或更高版",
+  "supported_os": "Win系统（不支持Mac苹果系统）",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?id=637853820481"
+    },
+    {
+      "name": "英文版插件免费下载",
+      "url": "https://www.lookae.com/neat-video-v6-ae/"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fneatvideo-aech%2F"
+    }
+  ],
+  "other": {
+    "price": "¥10",
+    "features": [
+      "提供英文和中文版插件，一键安装",
+      "降噪属于高级运算，预览渲染较慢",
+      "插件对硬件要求较高",
+      "支持竖屏分辨率"
+    ],
+    "notes": [
+      "由于技术限制和疏漏，极少部分参数可能未做汉化",
+      "插件使用中可能出现无响应崩溃等现象",
+      "仅提供工具，不提供使用视频教程和教学"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本：批量快速替换AE模板中图片视频素材 Photos Videos Comps To Comps",
+  "slug": "aejiao-ben-pi-liang-kuai-su-ti-huan-aemo-ban-zhong-tu-pian-shi-pin-su-cai-photos-videos-comps-to-comps",
+  "author": "大众脸",
+  "post_date": "2017/05/31 20:37",
+  "source_url": "https://www.lookae.com/comps-to-comps/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Photos Videos Comps To Comps是一个用于After Effects的脚本工具，能够快速批量替换模板中的图片、视频等素材。通过简单的两步操作，用户可以选择需要替换的素材和目标合成，实现一键批量替换功能，大大提高了修改AE模板的效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/Photos-Videos-Comps-To-Comps.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE Cs3 – CC 2017",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-204944582"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1slEvbT7"
+    }
+  ],
+  "other": {
+    "original_description": "This After Effects script will automatically add your imported items (Photos, Videos, Comps, Solids…) to the selected compositions in only two clicks. In a drop-down menu select your desired screen orientation acording to your selected compositions (Landscape, Portrait or Original).",
+    "official_website": "官网地址未在原文中明确给出"
+  }
+}

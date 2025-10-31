@@ -1,0 +1,52 @@
+{
+  "title": "中文汉化AE/PR插件-故障拉伸置换RGB色散迷幻毛刺效果Glitch Control V1.0.3 Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-gu-zhang-la-shen-zhi-huan-rgbse-san-mi-huan-mao-ci-xiao-guo-glitch-control-v1-0-3-win",
+  "author": "大众脸",
+  "post_date": "2022-04-16T10:17:00Z",
+  "source_url": "https://www.lookae.com/glitchcontrol-103/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "故障干扰"
+  ],
+  "content": "Glitch Control 是一款专为 After Effects 和 Premiere Pro 打造的中文汉化插件，可轻松创建经典的故障艺术效果。其模块化设计包含四个独立的效果模块：RGB控制、位移、拉伸和颜色循环，用户可根据需要自由启用或禁用，实现高效且精准的视觉处理。适用于多种版本的 Windows 系统，支持从 CS5 到 2022 的广泛兼容性。通过简单拖拽素材即可快速生成具有迷幻毛刺、色散与置换等特征的故障风格内容，极大提升创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/Glitch-Control.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/311951165307.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-568776979-f92114"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bmwQroAdj6kyFAYNS36D-w?pwd=yyz0"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Vr58Z4kxeG3"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.3 更新内容：改进了对浮动许可证和在线验证的处理",
+    "plugin_features": [
+      "用户友好界面，轻松创建经典故障艺术效果",
+      "模块化设计，支持高度自定义与快速处理",
+      "包含4个独立效果模块：RGB控制、位移、拉伸、颜色循环",
+      "兼容 After Effects 与 Premiere Pro",
+      "支持多版本 Windows 系统，覆盖从 CS5 到 2022 的广泛版本"
+    ],
+    "installation_hint": "下载后解压，将插件文件复制到 AE/PR 的插件目录中，重启软件即可使用",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "yyz0"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "AE插件-三维彩色多边形折线动画特效 Polyline v1.2 Win版+使用教程",
+  "slug": "aecha-jian-san-wei-cai-se-duo-bian-xing-zhe-xian-dong-hua-te-xiao-polyline-v1-2-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-07-15T10:44:00Z",
+  "source_url": "https://www.lookae.com/polyline-win/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Polyline 插件可创建色彩鲜艳且完全可控的三维多边形折线动画，支持在 After Effects 的真实 3D 空间中进行动画处理，可轻松与其它 3D 图层交互。支持对折线路径、段落颜色、纹理、宽度及闭合状态等参数进行精细控制，并可为片段设置动画。适用于 AE CC 2019 至 CS5.5 的多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Polyline.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-387724604"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1PocF6sncYyPmrRrJtg97ug"
+    }
+  ],
+  "other": {
+    "related_mac_version": "https://www.lookae.com/polyline/",
+    "plugin_website": "https://aescripts.com/polyline/",
+    "extract_code": "ksd6",
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ]
+  }
+}

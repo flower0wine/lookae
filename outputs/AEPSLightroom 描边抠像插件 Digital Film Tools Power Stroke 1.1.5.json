@@ -1,0 +1,40 @@
+{
+  "title": "AE/PS/Lightroom 描边抠像插件 Digital Film Tools Power Stroke 1.1.5",
+  "slug": "ae-ps-lightroom-miao-bian-kou-xiang-cha-jian-digital-film-tools-power-stroke-1-1-5",
+  "author": "大众脸",
+  "post_date": "2018/10/20 12:30",
+  "source_url": "https://www.lookae.com/power-stroke-115/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PS插件"
+  ],
+  "content": "Power Stroke 是Digital Film Tools（简称DFT）公司出品的描边插件，基于笔划互动的工作流程，能快速、直观地进行有针对性的调整；可绘制精确的遮罩，通过简单绘制选择区域，然后在画面中调色和混合以确定目标区的描边边缘，还能添加色彩校正、重新着色等效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/powerstroke.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5 - CC 2019 (仅64位）、Photoshop Elements 13 and up  (Non - app store version)、Photoshop Lightroom 3 或更高版本、After Effects CS5 - CC 2019",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-315684532"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1I_8u0WD2zmhkTlP0cKUPrA"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Photoshop",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "官网地址": "http://www.digitalfilmtools.com/powerstroke/",
+    "安装说明": "插件为一键安装注册注册，安装即可使用"
+  }
+}

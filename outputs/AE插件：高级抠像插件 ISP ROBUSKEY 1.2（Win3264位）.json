@@ -1,0 +1,30 @@
+{
+  "title": "AE插件：高级抠像插件 ISP ROBUSKEY 1.2（Win32/64位）",
+  "slug": "aecha-jian-gao-ji-kou-xiang-cha-jian-isp-robuskey-1-2-win32-64wei",
+  "author": "大众脸",
+  "post_date": "2013-12-01 16:40",
+  "source_url": "https://www.lookae.com/robuskey/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win32/64位"
+  ],
+  "content": "ISP ROBUSKEY 是一款由日本公司开发的高级抠像插件，专为 After Effects 设计。它能够精确识别人物的头发与皮肤细节，支持 GPU 加速，在非理想照明条件下依然表现出色，可作为 Keylight 及 Primatte Keyer 的有力补充，并已支持 Adobe CC 系列。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/12/ROBUSKEY.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS3/CS4/CS5/CS5.5/CS6/CC、Adobe Premiere Pro CS5/CS5.5/CS6/CC",
+  "supported_os": "Windows（32/64 位）",
+  "download_links": [
+    {
+      "name": "ISP ROBUSKEY 1.2 安装包",
+      "url": "https://www.400gb.com/file/38804700"
+    }
+  ],
+  "other": {
+    "官方介绍": "http://www.isp.co.jp/en/products/robuskey/video/index.html",
+    "安装指南": "http://www.isp.co.jp/en/products/robuskey/doc/video/v1.2/install_guide.html"
+  }
+}

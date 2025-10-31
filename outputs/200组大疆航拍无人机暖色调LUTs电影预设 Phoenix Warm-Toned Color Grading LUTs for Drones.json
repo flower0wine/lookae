@@ -1,0 +1,123 @@
+{
+  "title": "200组大疆航拍无人机暖色调LUTs电影预设 Phoenix Warm-Toned Color Grading LUTs for Drones",
+  "slug": "200zu-da-jiang-hang-pai-wu-ren-ji-nuan-se-diao-lutsdian-ying-yu-she-phoenix-warm-toned-color-grading-luts-for-drones",
+  "author": "大众脸",
+  "post_date": "2016/12/09 12:27",
+  "source_url": "https://www.lookae.com/drones-luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "漂亮的暖色调 LUTs 调色预设（约200种），适用于大疆航拍无人机或GoPro运动相机，也适用于其他设备素材。提供行业标准的3D LUT，帮助实现更好、更快、更容易的颜色校正和分级调色，使画面更具创意和电影胶片质感。大部分后期软件都支持LUT，可轻松集成到后期流程中，快速实现高质量的色彩风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/WARM-TONED-LUTS.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2016, Adobe After Effects CS6-CC 2016, Adobe Photoshop CS6-CC 2016",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/uRl163070537"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bpLzMqV"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "text": "大众脸LookAE官方淘宝店资源.doc",
+        "url": "https://pan.baidu.com/s/1qXDpS1Q"
+      },
+      {
+        "text": "推荐：【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "text": "推荐：FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "text": "推荐：CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      },
+      {
+        "text": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "text": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "text": "上万种LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ],
+    "lut_styles": [
+      "GC_Phoenix_Autumn: Strong warm look.",
+      "GC_Phoenix_Duckie: Green Vs Yellow.",
+      "GC_Phoenix_Hamper: Punchy contrast.",
+      "GC_Phoenix_Heather: Strong yellow hipster.",
+      "GC_Phoenix_History: Newspaper tint.",
+      "GC_Phoenix_Lionel: Heavy yellow.",
+      "GC_Phoenix_Milo: Slight de-sat look.",
+      "GC_Phoenix_MJ: Heat and lifted shadows.",
+      "GC_Phoenix_Otis: Strong warm look.",
+      "GC_Phoenix_Passion: Beautiful color contrast.",
+      "GC_Phoenix_Pratt: Classic vintage look.",
+      "GC_Phoenix_Shelby: Subtle hipster look.",
+      "GC_Phoenix_TeaTime: Strong orange tones.",
+      "GC_Phoenix_Tegan: Leave the greens.",
+      "GC_Phoenix_Welcome: Lifted warm look.",
+      "GC_Phoenix_Wonderland: Desaturate the cool tones.",
+      "GC_Phoenix_Yesteryear: Yellow tinted shadows."
+    ],
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2016",
+      "Adobe After Effects CS6-CC 2016",
+      "Adobe Photoshop CS6-CC 2016",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "usage_instructions": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Vegas Pro": "LUTS插件下载: https://www.lookae.com/ofxlut/",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "调用插件：FCPX LUT Loader (https://www.lookae.com/lut-loader-15s/)",
+      "DaVinci Resolve": "直接使用或导入",
+      "General Note": "只要软件能安装 Looks 新版的调色插件，就能使用Looks导入LUT使用",
+      "Recommended Tool": "Magic Bullet LUT Buddy (https://www.redgiant.com/downloads/free-products/) 适用于大部分软件",
+      "FCPX Tool": "FCPX软件 LUT 实用颜色工具 (https://www.lookae.com/fcpx-lut/)"
+    }
+  }
+}

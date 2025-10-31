@@ -1,0 +1,57 @@
+{
+  "title": "AE插件-点线面三维粒子插件 Plexus v3.1.12 Win/Mac版",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-plexus-v3-1-12-win-macban",
+  "author": "大众脸",
+  "post_date": "2020-05-14",
+  "source_url": "https://www.lookae.com/plexus-3112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Plexus 是新一代 After Effects 粒子引擎，可程序化创建、操控与可视化数据。支持 3D 模型导入（OBJ）、路径/文字/灯光发射粒子，内置分形、颜色、球形场、阴影等自定义特效；渲染速度快，模块化工作流可无限扩展。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2019, 2020",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://72k.us/file/680462-443214231"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1IJWqqVXcQvhEuWC0RWW_Gg"
+    }
+  ],
+  "other": {
+    "mac_version": "3.1.11c",
+    "tutorial_links": [
+      {
+        "name": "城通网盘教程",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "name": "百度云教程",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      }
+    ],
+    "update_note": "修复了某些OBJ文件序列的索引问题",
+    "new_features": [
+      "Object based UI",
+      "Depth Map Culling",
+      "Motion Blur",
+      "Sound Effector",
+      "Null Object Performance",
+      "Slicer Object",
+      "Path Object Improvements",
+      "Seamless Beams",
+      "Custom Visibility Settings",
+      "Improved OBJ Import",
+      "Unified Rendering",
+      "Nested Compositions",
+      "Loop Noise"
+    ]
+  }
+}

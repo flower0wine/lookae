@@ -1,0 +1,56 @@
+{
+  "title": "FCPX/AE/PR 红巨人抠像套装插件 Red Giant Keying Suite 11.1.2 (Win/Mac)",
+  "slug": "fcpx-ae-pr-hong-ju-ren-kou-xiang-tao-zhuang-cha-jian-red-giant-keying-suite-11-1-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2014/10/20 11:20",
+  "source_url": "https://www.lookae.com/keying1112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "Red Giant 公司最新出品的一套抠像插件 Keying Suite 11.1.0，现在插件渲染更快，效果更强。插件主要用于视频抠像，效果非常好，抠像是后期合成中非常重要也是必不可少的技术，这套插件很适用，Red Giant Keying Suite 抠像操作很强大，操作也不是很繁琐。\n\nKeying Suite 是一套完整的专业工具，可让您的抠像无缝融合，增强合成的真实性。无论是基础抠像、多步骤合成，还是低光照或画质较差的镜头，都能获得出色效果。三个插件在 After Effects 和 Final Cut Pro 之间流畅协作，并通过溢色去除、边缘细节处理和钢丝去痕等功能大幅提升效率。从毛躁的头发到透明玻璃，Keying Suite 都能助您顺利完成从遮罩到最终合成的全过程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Keying1110.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5-CC2014.1, Adobe Premiere Pro CS5-CC2014.1, Final Cut Pro X, Motion 5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版本",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/keying/KSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac版本",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/keying/KSuite_Mac_Full.zip"
+    }
+  ],
+  "other": {
+    "plugin_details": [
+      {
+        "name": "Primatte Keyer 5.1",
+        "description": "超级抠像插件，支持自动计算和调整光线，提供 Hybrid Matte 和 Smart Sample 算法，适用于纪录片、独立制作、新闻宣传片和音乐视频等。"
+      },
+      {
+        "name": "Key Correct 1.3",
+        "description": "抠像修正插件，包含15个子插件，可用于柔化Alpha通道、匹配前景与背景颜色、修复轮廓、降噪等，是高质量抠像的必备辅助工具。"
+      },
+      {
+        "name": "Red Giant Warp 1.1.1",
+        "description": "扭曲变形插件，包含6个功能插件，可控制阴影、反射、辉光和角落点变形。支持为绿幕拍摄的文字或主体添加真实阴影，创建镜面反射，以及使用 Mocha 跟踪数据进行高级图像变形。"
+      }
+    ],
+    "website": "http://www.redgiantsoftware.com/products/all/keying-suite/",
+    "crack_link": "https://www.400gb.com/file/70980601",
+    "related_tutorials": [
+      "Final Cut Pro X 中文系列教程：001.Primatte keyer 抠像插件讲解 - https://www.mfcpx.com/primattekeyer/"
+    ],
+    "preview_section": "【效果预览】",
+    "download_instruction": "点击下载或复制地址到迅雷或者浏览器中即可下载"
+  }
+}

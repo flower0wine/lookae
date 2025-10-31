@@ -1,0 +1,50 @@
+{
+  "title": "中文汉化-画面像素拉伸扭曲变形特效AE/PR插件Pixel Stretch v1.5.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-hua-mian-xiang-su-la-shen-niu-qu-bian-xing-te-xiao-ae-prcha-jian-pixel-stretch-v1-5-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/11/10 13:03",
+  "source_url": "https://www.lookae.com/pixel-stretch-151/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "该插件可制作画面像素拉伸扭曲变形特效，像素按亮度以亚像素精度拉伸，每行或每列的拉伸是累积的，能产生更自然的图案，效果类似旧模拟电视但可调节性更强。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/Pixel-Stretch-15.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": {
+    "After Effects": "2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+    "Premiere": "2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6"
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win中英文-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-722443299-dd8bfa?p=4431"
+    },
+    {
+      "name": "Win中英文-百度网盘",
+      "url": "https://pan.baidu.com/s/1tlBKO-pdasua6a8jtRaSyA?pwd=4v5a"
+    },
+    {
+      "name": "Win中英文-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/zLsy1j2k2Ng"
+    },
+    {
+      "name": "Mac仅英文-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-722567343-89d7cb?p=4431"
+    },
+    {
+      "name": "Mac仅英文-百度网盘",
+      "url": "https://pan.baidu.com/s/1RKj8Og-ecSm_ZuqhdOQRNQ?pwd=879m"
+    },
+    {
+      "name": "Mac仅英文-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/iSxnwivJP56"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "AE插件：给文字快速添加蒙板遮罩效果 AEscripts Effect Matte v1.2 + 视频教程",
+  "slug": "aecha-jian-gei-wen-zi-kuai-su-tian-jia-meng-ban-zhe-zhao-xiao-guo-aescripts-effect-matte-v1-2-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/07/06 19:39",
+  "source_url": "https://www.lookae.com/effect-matte/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Effect Matte 插件可快速为文字添加适配的蒙板遮罩效果，无需手动设置图层遮罩。支持自定义遮罩大小、圆角、羽化等动画参数，并可手动调整边缘。适用于 After Effects CC 2018 至 CS6 等多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Effect-Matte-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50189362906.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-297474882"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1-uTToZD05ihSPUcBHUrOjw"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/effect-matte/",
+    "installation_instructions": [
+      "复制 EffectMatte_v1.2.aex 文件到 AE 插件目录，例如：……\\Adobe After Effects CC 2018\\Support Files\\Plug-ins\\",
+      "复制 EffectMatte.lic 文件到以下两个目录：C:\\ProgramData\\aescripts\\EffectMatte\\ 和 C:\\Users\\Administrator\\AppData\\Roaming\\aescripts\\EffectMatte\\",
+      "安装完成后打开 AE 软件即可使用插件"
+    ],
+    "related_categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "related_tags": [
+      "ae插件"
+    ]
+  }
+}

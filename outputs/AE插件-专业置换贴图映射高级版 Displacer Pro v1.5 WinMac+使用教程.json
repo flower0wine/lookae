@@ -1,0 +1,53 @@
+{
+  "title": "AE插件-专业置换贴图映射高级版 Displacer Pro v1.5 Win/Mac+使用教程",
+  "slug": "aecha-jian-zhuan-ye-zhi-huan-tie-tu-ying-she-gao-ji-ban-displacer-pro-v1-5-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/06/21 09:43",
+  "source_url": "https://www.lookae.com/displacer-15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "Displacer Pro 是由 Plugin Everything 团队推出的免费专业置换贴图映射高级版 AE 插件，功能远超 AE 自带的贴图映射插件，具备更强的操控性与 GPU 加速支持。适用于多种版本的 After Effects，广泛用于图像位移、纹理变形等视觉特效制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Displace-Pro.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/281382393872.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-873740394-3802bc?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1LUVbUnGd0Pb3zqq_Bq2YIg?pwd=f5pe"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/jtwrWDYottk"
+    }
+  ],
+  "other": {
+    "featured_features": [
+      "平移、旋转和缩放位移",
+      "支持色相、饱和度、亮度、红色等多种模式",
+      "强大的地图调整功能（伽玛、柔和度、缓和等）",
+      "色差控制",
+      "内置抗锯齿",
+      "GPU加速，支持32bpc"
+    ],
+    "v1_5_updates": [
+      "添加经典置换模式（0表示-100%置换，1.0=100%置换，0.5=无）",
+      "添加迭代参数以获得更平滑结果并模拟运动模糊",
+      "新增输入图混合功能",
+      "添加钳位溢出变换，可用于创建过渡效果",
+      "用户界面改进"
+    ],
+    "description": "The humble AE displacement map with more features + juiced up on the GPU. And it’s free."
+  }
+}

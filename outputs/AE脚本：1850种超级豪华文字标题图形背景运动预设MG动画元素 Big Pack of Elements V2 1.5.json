@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本：1850种超级豪华文字标题图形背景运动预设MG动画元素 Big Pack of Elements V2 1.5",
+  "slug": "aejiao-ben-1850chong-chao-ji-hao-hua-wen-zi-biao-ti-tu-xing-bei-jing-yun-dong-yu-she-mgdong-hua-yuan-su-big-pack-of-elements-v2-1-5",
+  "author": "大众脸",
+  "post_date": "2017-06-19 12:16",
+  "source_url": "https://www.lookae.com/big-pack-elements/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本"
+  ],
+  "content": "这是一套非常棒的AE脚本，可以快速生成各种MG动画元素，约1850种元素动画，还可以修改元素的颜色、大小、旋转、三维效果、动画等属性，双击即可加载使用。注意：以前的所有预设不受影响，支持2014.2-2020；最新加入的50个片头动画最低需要AE 2019。2020.10.26更新到V1.9.11：兼容支持最新的AE 2020 v17.5版本，增加50个图形动画片头预设（最低要AE2019使用），修复Mac系统中预设不按编号排序问题，简化安装步骤，直接一键安装成功。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/06/big-pack-of-elements.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014.2 – 2024 或更高版（不支持 AE CC 2014，只支持 AE CC 2014.2（版本号 13.2）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?spm=a230r.1.14.16.lgNmz4&id=553958480493&ns=1&abbucket=9#detail"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fbig-pack-elements%2F"
+    }
+  ],
+  "other": {
+    "file_size": "382M（.zip压缩包格式）",
+    "price": "¥20",
+    "plugin_requirements": "不需要外置第三方插件",
+    "elements_included": {
+      "2D背景动画": 25,
+      "圣诞节背景动画": 25,
+      "标签文字标题动画": 24,
+      "基本元素动画": 101,
+      "圣诞节图形动画": 25,
+      "电脑元素动画": 42,
+      "手机平板动画": 47,
+      "颜色渐变背景": 49,
+      "手势动画": 71,
+      "日常生活小图标动画": 30,
+      "环保图标动画": 30,
+      "游戏图标动画": 30,
+      "医疗图标动画": 30,
+      "社交网络图标动画": 30,
+      "2D运动预设": 179,
+      "3D运动预设": 248,
+      "文字动画预设": 354,
+      "线条图形元素": 50,
+      "粒子图形元素": 50,
+      "爆炸图形元素": 50,
+      "混合图形元素": 50,
+      "文字标题动画": 97,
+      "圣诞节标题动画": 25,
+      "圣诞节转场动画": 25,
+      "高科技转场动画": 16,
+      "简单图形转场": 25
+    }
+  }
+}

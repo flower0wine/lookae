@@ -1,0 +1,60 @@
+{
+  "title": "AE脚本-轻松快速显示渲染动画的图层边界运动路径 Cyclops v2.6.4",
+  "slug": "aejiao-ben-qing-song-kuai-su-xian-shi-xuan-ran-dong-hua-de-tu-ceng-bian-jie-yun-dong-lu-jing-cyclops-v2-6-4",
+  "author": "大众脸",
+  "post_date": "2021/01/18 11:04",
+  "source_url": "https://www.lookae.com/cyclops/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Cyclops 是 After Effects 的一个扩展脚本，可快速、轻松地显示动画图层的空图层、运动路径和图层边界框，适用于渲染输出和制作 DEMO 动画。相比屏幕录制软件难以保证准确捕获，或手动截图拼接效率低且易出错，Cyclops 能实现像素级精准捕捉，并保留额外视觉信息。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Cyclops.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/295491961572.mp4"
+  ],
+  "supported_versions": "After Effects CC2019-2020",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-479494606"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1-dD-6ZBVxT1EYdBqsSQNtA"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-479522479"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1nnnxaZMwcnb7F98tHZNhbQ"
+    },
+    {
+      "name": "中文字幕教程 - B站在线观看",
+      "url": "https://www.bilibili.com/video/BV1ny4y1H7aV?p=2"
+    }
+  ],
+  "other": {
+    "capture_types": [
+      "仅渲染活动构图",
+      "整个 After Effects 应用程序"
+    ],
+    "pixel_perfect": true,
+    "render_modes": [
+      "普通视图",
+      "仅显示线框"
+    ],
+    "customizable_preferences": true,
+    "output_formats": [
+      "JPG",
+      "PNG",
+      "TIFF"
+    ],
+    "description_en": "Cyclops is an After Effects extension that makes showing off the null layers, motion paths, and layer bounding boxes behind your animation quick and easy. Screen recording software can’t guarantee an accurate capture which may ruin the time you spent perfecting your animation curves. Manually taking screenshots and stitching them together is slow and prone to mistakes like missing a frame or capturing a frame twice. Cyclops is the only way to create a pixel perfect capture of your animation while including those extra goodies."
+  }
+}

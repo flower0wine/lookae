@@ -1,0 +1,58 @@
+{
+  "title": "AE插件-信号干扰画面破损RGB色彩分离毛刺撕裂特效Glitch 7in1 v1.0.3 Mac/Win版",
+  "slug": "aecha-jian-xin-hao-gan-rao-hua-mian-po-sun-rgbse-cai-fen-chi-mao-ci-si-lie-te-xiao-glitch-7in1-v1-0-3-mac-winban",
+  "author": "大众脸",
+  "post_date": "2019/05/29 09:51",
+  "source_url": "https://www.lookae.com/glitch7in1-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Glitch 7in1是After Effects的一款特效插件，集合了7种不同的毛刺效果，具有高级选项和可单独设置的无限变化动画。7种效果可随意组合以获得更丰富的毛刺类型效果。插件还提供了26种可编辑的动画预设，每个预设都经过精心设计，可完全自定义。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Glitch-7in1-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/226180115074.mp4"
+  ],
+  "supported_versions": "AE CS5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Mac 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376092028"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1MoHgEHvYlP6aalBWjGCTVg"
+    },
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-374480200"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/173NyTh1cYIta3bySejlx3w"
+    }
+  ],
+  "other": {
+    "extract_password": "lookae.com-520",
+    "installation_instructions": [
+      "复制 Glitch7in1.aex 文件到AE插件目录，如：……\\Adobe After Effects CC\\Support Files\\Plug-ins\\",
+      "复制预设文件夹里的Glitch Presets文件夹到AE预设目录，如：……\\Adobe After Effects CC\\Support Files\\Presets\\",
+      "打开AE软件，找到插件使用即可。"
+    ],
+    "effects_included": [
+      "Basic Blocks 基本块 – 将元素或合成分解为随机像素块，可以使用各种混合模式在原始素材上进行动画和混合",
+      "Pixel Sorter 像素分离拉伸 – 根据不同的标准选择像素范围，并根据亮度，颜色通道，alpha等进行排序",
+      "Elements Scatter 分散元素 – 随机生成图形元素，可选择为每种元素类型选择不同的混合模式，并为其各种属性设置动画",
+      "Blur Blocks 模糊块 – 模糊随机像素块",
+      "Noise 噪点噪波 – 应用不同频率和幅度的噪点噪波，使您能够创建各种各样的外观，从细微的胶片颗粒到强烈的色彩失真",
+      "Warp 变形扭曲 – 以波浪状运动扭曲像素",
+      "Split RGB RGB色彩分离 – 单独处理颜色通道，使您能够模拟色差，或隐藏/翻转/反转各个RGB通道"
+    ],
+    "preset_count": 26,
+    "copyright_notice": "插件由LookAE大众脸原创注册，转载请必须注明！"
+  }
+}

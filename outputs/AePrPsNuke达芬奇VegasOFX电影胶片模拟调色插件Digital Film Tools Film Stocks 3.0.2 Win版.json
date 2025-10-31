@@ -1,0 +1,53 @@
+{
+  "title": "Ae/Pr/Ps/Nuke/达芬奇/Vegas/OFX电影胶片模拟调色插件Digital Film Tools Film Stocks 3.0.2 Win版",
+  "slug": "ae-pr-ps-nuke-da-fen-qi-vegas-ofxdian-ying-xiao-pian-mo-ni-diao-se-cha-jian-digital-film-tools-film-stocks-3-0-2-winban",
+  "author": "大众脸",
+  "post_date": "2019/04/18 14:25",
+  "source_url": "https://www.lookae.com/film-stocks-302/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "达芬奇插件"
+  ],
+  "content": "Film Stocks 是一款由 Digital Film Tools（DFT）公司开发的电影胶片模拟调色插件，支持多种后期软件。它可模拟 288 种彩色、黑白胶片色调以及历史摄影工艺，为数字图像赋予专业的胶片质感和复古风格，适用于影视特效制作，提升画面表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/FilmStocks.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5+, Photoshop Elements 13+, Lightroom 3+, After Effects CS5+, Premiere Pro CS5+, Avid, Assimilate Scratch v8+, Resolve v11+, Sony Vegas v13+, Nuke v8+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-366545300"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1qs6qqI57NwcU4EGWU6fYxQ"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/filmstocks/",
+    "plugin_developer": "Digital Film Tools",
+    "plugin_name": "Film Stocks",
+    "version": "3.0.2",
+    "platform": "Win",
+    "additional_categories": [
+      "After Effects",
+      "DaVinci Resolve",
+      "Nuke",
+      "OFX",
+      "Photoshop",
+      "Premiere",
+      "Vegas",
+      "其他资源",
+      "其他辐射",
+      "软件/插件"
+    ]
+  }
+}

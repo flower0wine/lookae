@@ -1,0 +1,42 @@
+{
+  "title": "AE插件-文字延迟动画快速制作器TextDelay 1.5.2 Win/Mac",
+  "slug": "aecha-jian-wen-zi-yan-chi-dong-hua-kuai-su-zhi-zuo-qi-textdelay-1-5-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2019/06/17 12:06",
+  "source_url": "https://www.lookae.com/textdelay-152/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "TextDelay是一款After Effects插件，它可以根据字符、单词或行制作文字动画。该插件与默认的文本动画器不同，它继承了动画的缓动效果，支持使用曲线或缓动表达式进行创作。支持Mac系统：After Effects CC 2018 – CC 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/TextDelay.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018 – CC 2019",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-383246834"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1C0CTGshI4o8DxziySx9-5A"
+    }
+  ],
+  "other": {
+    "使用教程下载链接": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-324397770"
+      },
+      {
+        "name": "百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1Y13UWJhR7h7J8h4Xu-h3-g"
+      }
+    ],
+    "英文介绍": "A native plugin that delays your text animation by character, word or line. Unlike the default text animator, it inherits your animation’s easing so you can be creative with curves or easing expressions."
+  }
+}

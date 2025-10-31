@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-三维真实自然环境地形地貌生成器 Terrain Builder Element V1.5+使用教程",
+  "slug": "aejiao-ben-san-wei-zhen-shi-zi-ran-huan-jing-di-xing-di-mao-sheng-cheng-qi-terrain-builder-element-v1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/10/11 10:18",
+  "source_url": "https://www.lookae.com/terrain-builder/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Terrain Builder Element 是一款基于 Element 3D 插件的 AE 脚本，用于在真实 3D 地形上创建复杂路径与轨迹。仅需两张图像（高度图与颜色图），即可通过免费网络服务或 Cinema 4D（Terrain Builder Cinema）生成 3D 地形。项目提供可免费使用的图标集和 3D 模型库，支持自定义图标或 3D 对象。支持多层辅助控制主要属性，具备模块化结构，可在非线性工作流中灵活调整。可轻松添加镜头、照片、视频、构图等元素，高效构建复杂 3D 场景。需安装 Element 3D 插件，兼容 AE CC 2014 及更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/10/37263343.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/431885591105.mp4"
+  ],
+  "supported_versions": "AE CC 2014 及更高版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-956849472-e1b00c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/110JFftf8sBwuzoDg65NtRA?pwd=7p63"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ug86jHeuA3P"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "7p63"
+    },
+    "additional_info": "项目包含基本图标集和 3D 模型库，可完全免费使用；支持自定义资源；支持非线性工作流程；适用于复杂 3D 场景快速构建。"
+  }
+}

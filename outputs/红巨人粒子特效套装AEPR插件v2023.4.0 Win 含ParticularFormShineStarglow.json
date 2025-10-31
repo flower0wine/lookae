@@ -1,0 +1,72 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件v2023.4.0 Win 含Particular/Form/Shine/Starglow",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-v2023-4-0-win-han-particular-form-shine-starglow",
+  "author": "大众脸",
+  "post_date": "2023/07/21 11:15",
+  "source_url": "https://www.lookae.com/tc-20231/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Particular插件",
+    "PR插件",
+    "粒子插件"
+  ],
+  "content": "红巨人粒子特效套装是专为 Adobe After Effects 和 Premiere Pro 打造的高级视觉特效插件合集，包含多个核心插件，适用于创建高质量的粒子、光影与三维动画效果。该版本支持 Windows 系统，兼容 After Effects CC 2019 至 2023 以及 Premiere Pro CC 2019 至 2023（部分插件支持），最低系统要求为 Windows 10。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/01/Trapcode-Suite-2023.2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404139753459.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022, 2023; Premiere Pro CC 2019, 2020, 2021, 2022, 2023（部分插件支持）",
+  "supported_os": "Windows 10 及以上",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-891429807-e4e351?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17ljy5Z2ZTWxN4aLmOE4j-Q?pwd=pwqt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XbTHEpwoA9R"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "Tao - 三维几何图形插件",
+      "Particular - 超炫粒子插件",
+      "Form - 三维空间粒子插件",
+      "Mir - 三维图形插件",
+      "Shine - 放射光插件",
+      "Lux - 聚光灯插件",
+      "3D Stroke - 3D路径描边插件",
+      "Echospace - 三维立体拖尾延迟插件",
+      "targlow - 星光插件",
+      "Sound Keys - 音频关键帧插件",
+      "Horizon - 无限场景（天空）插件"
+    ],
+    "update_notes": {
+      "Particular": [
+        "新增用于弹跳物理的内置地平面，可独立控制高度和旋转。",
+        "子继承升级：子系统可在出生时继承父发射器的粒子类型、大小和不透明度。",
+        "新增三个梯度插值模型。",
+        "新增曲线镜像模式，自动镜像水平轴上的曲线变化。",
+        "Designer 中使用 AE 内置颜色选择器，提升界面一致性。"
+      ],
+      "3D Stroke & Sound Keys": [
+        "UI 更新，统一采用 Pspecial 中已实现的现代化界面风格。"
+      ],
+      "bug_fixes": [
+        "TC-7696：改进旧项目迁移兼容性。",
+        "TC-9001、TC-9002、TC-99006：修复多个与曲线工具相关的 UI 问题。"
+      ]
+    },
+    "related_resources": [
+      "Win中文汉化-红巨人粒子特效套装AE/PR插件 v2023 Particular/Form/Shine /Mir: https://www.lookae.com/hjrtc18ch/"
+    ],
+    "note": "本套件包含 Trapcode Suite 2023.3 的性能优化与错误修复，并在 2023.4.0 版本中进一步增强功能与稳定性。"
+  }
+}

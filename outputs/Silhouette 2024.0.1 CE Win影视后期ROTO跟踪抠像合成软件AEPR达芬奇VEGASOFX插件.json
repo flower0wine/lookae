@@ -1,0 +1,56 @@
+{
+  "title": "Silhouette 2024.0.1 CE Win影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/VEGAS/OFX插件",
+  "slug": "silhouette-2024-0-1-ce-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-vegas-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2024/07/21 20:01",
+  "source_url": "https://www.lookae.com/silhouette-202401/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ROTO跟踪",
+    "Silhouette",
+    "抠像插件",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette是业界领先的动态描写和绘画工具，包含主要的合成功能，提供400多个VFX节点，还包括Boris FX Sapphire、Mocha Pro和Particle Illusion等。十五年来一直被顶级艺术家用于好莱坞影片制作，近期在《死侍与金刚狼》等多部影片中使用。2024版有多项升级更新内容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/06/Silhouette-2024.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/465845497543.mp4"
+  ],
+  "supported_versions": "",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1334681725-7483cf?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1BISjOwsIA37WdFBhLKufng?pwd=48p3"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/5tQo7hwzByf"
+    }
+  ],
+  "other": {
+    "related_link": "https://www.lookae.com/silhouette-ch/",
+    "2024_update_content": [
+      "哑光辅助ML：通过单一遮罩创建快速动画遮罩。",
+      "降噪器ML：新的2倍速度去噪模型涵盖了更多类型的素材。",
+      "光流机器学习追踪器：创建可用于追踪形状、物体或点追踪器的光流数据。",
+      "增强功能：使用GPU节点进行更快的处理、在roto节点上使用更少的内存、改进缓存等等！",
+      "重新定时机器学习：产生原始的时间扭曲，包括动画渐变。",
+      "Photoshop笔刷及其他：支持Photoshop画笔、最新版本的Mocha、Sapphire和Particle Illusion等等。"
+    ],
+    "supported_software": [
+      "可独立使用的软件Silhouette 2024.0",
+      "After Effects CC 2019, 2020, 2021, 2022，2023，2024或更高版",
+      "Premiere 2020，2021, 2022，2023，2024或更高版",
+      "支持OFX系列软件：Vegas、达芬奇、Nuke、Fusion等"
+    ]
+  }
+}

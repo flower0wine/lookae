@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-锚点中心点移动对齐工具 Move Anchor Point 4.1.2+使用教程",
+  "slug": "aejiao-ben-mao-dian-zhong-xin-dian-yi-dong-dui-qi-gong-ju-move-anchor-point-4-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/12/02 09:45",
+  "source_url": "https://www.lookae.com/move-anchor-point-412/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "中心点对齐",
+    "锚点工具"
+  ],
+  "content": "Move Anchor Point 4 是一款专为 After Effects 设计的脚本（现为扩展插件），可快速、精准地移动一个或多个图层的锚点中心点，且不会影响其他属性或关键帧。支持基于选中对象或整体选择进行移动，并可在构图坐标系中操作。界面可自定义，支持隐藏不使用的模块；新增网格和 Z 轴空间预设，提升工作效率。通过新加入的搜索匹配功能，可快速定位常用移动设置，还可保存自定义预设以重复使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Move-Anchor-Point-4.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/359926945379.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1432077862-d97316?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/10pZzB39Ur_moksMW02Na7w?pwd=q6c4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/eRmpBdKH4nS"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "update_notes": "v4.1.2 更新内容：错误修复：删除不必要的脚本警报弹出窗口",
+      "categories_links": [
+        "https://www.lookae.com/after-effects/aescripts/",
+        "https://www.lookae.com/after-effects/",
+        "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+        "https://www.lookae.com/tag/%e4%b8%ad%e5%bf%83%e7%82%b9%e5%af%b9%e9%bd%90/",
+        "https://www.lookae.com/tag/%e9%94%9a%e7%82%b9%e5%b7%a5%e5%85%b7/"
+      ]
+    }
+  }
+}

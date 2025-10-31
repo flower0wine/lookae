@@ -1,0 +1,48 @@
+{
+  "title": "Ae/Pr蓝宝石视觉特效插件 2019.0.4 Mac 版",
+  "slug": "ae-prlan-bao-shi-shi-jue-te-xiao-cha-jian-2019-0-4-mac-ban",
+  "author": "大众脸",
+  "post_date": "2019/04/18 22:58",
+  "source_url": "https://www.lookae.com/sapphire-1204-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "大名鼎鼎的AE/PR外置 Sapphire 蓝宝石插件，拥有几百种非常炫的强力视觉效果和转场效果，可提高你的工作效率，增加你的想象力，给你无限的创作空间，因拥有卓越的图像质量和优秀的渲染速度，受到很多后期爱好者的追捧和喜爱。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Sapphire-2019.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC – CC 2019 / Premiere Pro CC – CC 2019",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-366610775"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/16xIphNNAMojlHO1_wxD7Xg"
+    }
+  ],
+  "other": {
+    "官网地址": "https://borisfx.com/products/sapphire/",
+    "新版 Sapphire 2019 特性": [
+      "增强和改进镜头光效",
+      "新加入 PixelSort 信号损坏故障特效",
+      "新加入 WhipLash 转场效果",
+      "新加入动画形状工具的特效和转场",
+      "新加入 Mocha 基本工作空间与新的样条工具（如磁性边缘捕捉）",
+      "提高 CPU 和 GPU 性能"
+    ],
+    "2019.0.4 新版更新内容": "使用 GPU 时提高 Burn、Flare、Flame Assist、S_Effect、S_Transition 等插件的稳定性",
+    "安装方法": [
+      "安装插件程序，关闭 No License 窗口",
+      "安装注册补丁",
+      "完成安装，打开软件使用插件"
+    ],
+    "百度网盘打开密码": "lookae7777777"
+  }
+}

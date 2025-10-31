@@ -1,0 +1,35 @@
+{
+  "title": "AE/PR/PS/OFX版：风格影印滤镜插件 Digital Film Tools: PhotoCopy v2.0v7 CE",
+  "slug": "ae-pr-ps-ofxban-feng-ge-ying-yin-lu-jing-cha-jian-digital-film-tools-photocopy-v2-0v7-ce",
+  "author": "大众脸",
+  "post_date": "2016/08/17 12:57",
+  "source_url": "https://www.lookae.com/photocopy207/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Digital Film Tools PhotoCopy 用于分析照片的亮度、颜色、色调以及多种电影、绘画、摄影和历史影像工艺的质感。通过分析这些数据，用户可以将原始作品的色彩、色调和亮度复制并应用到自己的图像上，同时模拟其纹理、颗粒和细节。用户可以创建、保存并应用自定义预设，使任何图像（无论好坏）都能转化为新的艺术作品。该插件适用于静态图像和动态影像，核心功能是将一张图像的关键属性复制并应用于另一张图像。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/PhotoCopy.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5 及以上（仅64位，兼容 CC 2015.5）；Photoshop Elements 13 及以上（非应用商店版）；Photoshop Lightroom 3 及以上；After Effects CS5 及以上（兼容 CC 2015.3）；Premiere Pro CS5 及以上（兼容 CC 2015.3）；Avid Editing Systems（仅64位）；Assimilate Scratch v8 及以上；Black Magic Resolve v11 及以上；Sony Vegas v13 及以上；The Foundry’s Nuke v8 及以上",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "风格影印滤镜插件 Digital Film Tools: PhotoCopy v2.0v7 CE",
+      "url": "http://lookae.ctfile.com/fs/V1Z155362831"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/photocopy/",
+    "installation_note": "插件为一键安装版，安装后即可直接使用"
+  }
+}

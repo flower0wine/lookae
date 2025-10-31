@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-创建自适应动态文字底框动画 Karton V1.2.1+视频教程",
+  "slug": "aejiao-ben-chuang-jian-zi-gua-ying-dong-tai-wen-zi-di-kuang-dong-hua-karton-v1-2-1-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/10/06 11:59",
+  "source_url": "https://www.lookae.com/karton-121/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "自适应文字"
+  ],
+  "content": "创建动态文本框的最直观、最简单的方法。只需单击一下即可创建随时可用的文本框。Karton会生成具有自定义效果的新形状图层，没有多余的图层，没有杂乱效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/Karton-121.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/473999538354.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1380644533-160f24?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1d_DtpCDz0yOBXCtEkHms8w?pwd=iswv"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/J5QdwyJNjZx"
+    }
+  ],
+  "other": {
+    "update_notes": {
+      "version": "v1.2.1",
+      "features": [
+        "打字机动画现在具有光标选项（不适用于与行模式结合的框文本）"
+      ],
+      "ui_improvements": [
+        "当信息栏可见时，页脚不再跳跃",
+        "添加了 After Effects Beta Light 主题"
+      ],
+      "bug_fixes": [
+        "修复了 Karton 无法与某些文本层一起使用的问题"
+      ],
+      "other_changes": [
+        "现在，仅选择 Karton 时，删除打字机效果即可起作用"
+      ]
+    },
+    "english_description": "The most intuitive and easy way to create dynamic text boxes. Create a ready-to-use text box with a single click. Karton generates a new Shape Layer with a custom effect — no extra layers, no clutter."
+  }
+}

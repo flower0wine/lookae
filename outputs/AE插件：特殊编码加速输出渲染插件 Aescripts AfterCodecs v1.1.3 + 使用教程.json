@@ -1,0 +1,50 @@
+{
+  "title": "AE插件：特殊编码加速输出渲染插件 Aescripts AfterCodecs v1.1.3 + 使用教程",
+  "slug": "aecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/06/14 22:40",
+  "source_url": "https://www.lookae.com/aftercodecs113/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "AfterCodecs是一款After Effects编码输出插件，支持输出H264、H265和ProRes等特殊编码，渲染输出速度比AE自带输出更快，且压缩的文件更小，画质更佳。该插件在Windows系统上支持ProRes编码，并提供优秀的H264（x264和x265）编解码器，可生成高质量且体积更小的视频文件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014 – CC 2017",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-207683383"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bpq1LPP"
+    }
+  ],
+  "other": {
+    "supported_codecs": [
+      "ProRes (LT/Proxy/Normal/HQ/444 with Alpha Channel)",
+      "x264",
+      "x265",
+      "x264 RGB",
+      "Hap",
+      "Hap alpha",
+      "Hap Q"
+    ],
+    "update_features": [
+      "Added bitrate mode for x264 / x264 RGB / x265",
+      "Added overwrite checkbox in Settings",
+      "Added x264 video profiles (high, main, baseline)",
+      "Automatically ticks FFmpeg checkbox if needed",
+      "New buttons to open Dornisoft and ffmpeg folders",
+      "Removed max dimensions limitations (supports 8K)",
+      "Added Hap codecs with compression and chunks settings"
+    ],
+    "official_website": "http://aescripts.com/aftercodecs/"
+  }
+}

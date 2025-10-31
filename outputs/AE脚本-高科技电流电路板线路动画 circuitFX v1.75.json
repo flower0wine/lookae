@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-高科技电流电路板线路动画 circuitFX v1.75",
+  "slug": "aejiao-ben-gao-ke-ji-dian-liu-dian-lu-ban-xian-lu-dong-hua-circuitfx-v1-75",
+  "author": "大众脸",
+  "post_date": "2021-10-14",
+  "source_url": "https://www.lookae.com/circuitfx-175/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "circuitFX 是一款为 After Effects 设计的随机电路板图形生成脚本，可一键生成电路线路、芯片、电阻、电容等元件，并支持将所有部件合并到单个形状层或分别置于独立层，适合制作 HUD、科幻背景或高科技动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/circuitFX-17.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-517662209-b9f859"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1lkzocIohI7GvepsqT0P2AQ"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-222963204"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1bpuBTN5"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘脚本": "6688",
+      "百度网盘脚本": "vz4p"
+    },
+    "v1.7.5 更新亮点": [
+      "新增 AE 2020 与 macOS Catalina 支持",
+      "修复 Center-out 模式下电容器未生成问题",
+      "优化芯片/电容/电阻的生成效率与自动数量调整提示",
+      "改进图层标记、着色、命名及编号逻辑"
+    ]
+  }
+}

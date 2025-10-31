@@ -1,0 +1,42 @@
+{
+  "title": "AE插件：牛顿动力学2D插件 Motion Boutique Newton 2.1.22（Win64）",
+  "slug": "aecha-jian-niu-dun-dong-li-xue-2dcha-jian-motion-boutique-newton-2-1-22-win64",
+  "author": "大众脸",
+  "post_date": "2015/01/18 11:54",
+  "source_url": "https://www.lookae.com/newton2122/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "win64"
+  ],
+  "content": "牛顿动力学2D插件Motion Boutique Newton是After Effects第一款动力学插件，能完美模拟动力学的物理属性，操作方便快捷，具备全新的操作界面、关节、吸附与排斥、新动力学类型等诸多实用功能，可通过重力，碰撞，摩擦等控制制作出更加真实的效果。新版本Motion Boutique Newton 2.1.22支持Win平台AE CS5 - CC 2014。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/06/newton1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 - CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "AE插件：牛顿动力学2D插件 Motion Boutique Newton 2.1.22（Win64）",
+      "url": "https://www.400gb.com/file/82891535"
+    },
+    {
+      "name": "Newton动力插件基础教程05集",
+      "url": "http://www.ctdisk.com/file/8779528"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE插件",
+        "链接": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "安装方法": "将文件夹 Newton 拷贝到 AE的插件文件夹Plug-ins下，此插件跟其他插件不同，插件目录是找不到，使用位置：Composition–Newton"
+  }
+}

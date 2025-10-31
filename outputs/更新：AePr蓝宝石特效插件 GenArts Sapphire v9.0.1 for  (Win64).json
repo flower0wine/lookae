@@ -1,0 +1,57 @@
+{
+  "title": "更新：Ae/Pr蓝宝石特效插件 GenArts Sapphire v9.0.1 for (Win64)",
+  "slug": "geng-xin-ae-prlan-bao-shi-te-xiao-cha-jian-genarts-sapphire-v9-0-1-for-win64",
+  "author": "大众脸",
+  "post_date": "2015-11-24T10:34:00Z",
+  "source_url": "https://www.lookae.com/sapphire901/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "GenArts Sapphire 蓝宝石插件是广受后期爱好者欢迎的 AE/PR 外置特效插件，支持数百种强力视觉效果与转场效果。新版 v9.0.1 在性能、稳定性与功能上均有提升，新增多个高质量预设效果，优化了界面与渲染效率，适用于 Adobe After Effects 与 Premiere Pro 的多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/sapphir9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014, CC 2015; Adobe Premiere Pro CS6, CC, CC 2014, CC 2015 (v8.1 not supported)",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "更新：Ae/Pr蓝宝石特效插件 GenArts Sapphire v9.0.1 for Adobe (Win64)",
+      "url": "https://lookae.400gb.com/file/133672372"
+    }
+  ],
+  "other": {
+    "release_notes": [
+      "修复错误BUG",
+      "提升渲染性能",
+      "增加新预设"
+    ],
+    "new_effects": [
+      "BokehLights: 漂亮炫光插件",
+      "NightSky: 夜晚星空插件",
+      "Aurora: 抽象极光背景插件",
+      "InfiniteZoom: 螺旋效果插件",
+      "CutToDissolve: 转场插件",
+      "RepairFrames: 画面损坏修复插件",
+      "Builder: 节点优化工具"
+    ],
+    "plugin_count": 255,
+    "preset_count": "更多",
+    "plugin_folders": [
+      "Sapphire Adjust",
+      "Sapphire Blur+Sharpen",
+      "Sapphire Builder",
+      "Sapphire Composite",
+      "Sapphire Distort",
+      "Sapphire Lighting",
+      "Sapphire Render",
+      "Sapphire Stylize",
+      "Sapphire Time",
+      "Sapphire Transitions"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "note": "插件为一键安装注册，安装即可使用"
+  }
+}

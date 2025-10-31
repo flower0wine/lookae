@@ -1,0 +1,68 @@
+{
+  "title": "Ae/Pr特效合成套装插件FXhome Ignite Pro 2.2.7729.53583 CE",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-ignite-pro-2-2-7729-53583-ce",
+  "author": "大众脸",
+  "post_date": "2018-07-10T14:56:00Z",
+  "source_url": "https://www.lookae.com/fxhome227/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FXHOME公司出品的HitFilm插件套装，可在After Effects和Premiere Pro中直接使用HitFilm效果。包含约158款特效，涵盖调色、抠像、变形扭曲、粒子、光晕光效、特效合成等多个领域。支持GPU加速，具备先进的键控技术、丰富的光效与烟火模拟功能，并提供电影级视觉增强能力。适用于After Effects CS6 - CC 2018 和 Premiere Pro CS6 - CC 2018。该插件集成了此前广受好评的32位枪火插件（Fxhome MuzzlePlug），现以‘Gunfire’形式存在于‘Particles & Simulation’类别中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXhome-Ignite-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 - CC 2018, Premiere Pro CS6 - CC 2018",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-297859614"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1gcXMcmRt379x0MzWorprPA"
+    }
+  ],
+  "other": {
+    "plugin_version": "2.2.7729.53583 CE",
+    "developer": "FXHOME",
+    "official_website": "http://hitfilm.com/ignite-pro",
+    "installer_team": "Team VR",
+    "installation_note": "一键安装即可使用",
+    "total_plugins_count": 158,
+    "ae_supported_count": 154,
+    "pr_supported_count": 143,
+    "plugin_categories": [
+      "360° video",
+      "Blurs",
+      "Channel",
+      "Color correction",
+      "Color grading",
+      "Stylize",
+      "Temporal",
+      "Distort",
+      "Generate",
+      "Grunge",
+      "Scene",
+      "Gradients & fills",
+      "Keying",
+      "Lights & flares",
+      "Matte enhancement",
+      "Particles & simulation",
+      "Video clean-up",
+      "Warp"
+    ],
+    "features": [
+      "支持GPU加速",
+      "先进键控/抠像技术",
+      "多种光效与耀斑效果",
+      "尖端烟火、火灾、雷电模拟",
+      "电影分级与视觉增强",
+      "复杂粒子系统控制",
+      "3D挤压、失真扭曲、镜头畸变等"
+    ]
+  }
+}

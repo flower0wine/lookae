@@ -1,0 +1,75 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件 v16.0.3 Win/Mac 含注册码 Particular/Form/Shine等",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-v16-0-3-win-mac-han-zhu-ce-ma-particular-form-shinedeng",
+  "author": "大众脸",
+  "post_date": "2021/02/20 10:59",
+  "source_url": "https://www.lookae.com/trapcode-103/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Trapcode Suite 将3D粒子系统功能直接集成到 After Effects 中，支持创建火焰、水流、烟雾、雪花等有机视觉效果，也可用于构建技术奇迹和用户界面。支持多个粒子系统在统一3D空间中组合，并可设计发射器发射完整发射器，实现视觉震撼的效果。得益于GPU加速，能够快速生成高质量动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/TRAPCODE-SUITE-16.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/287648485724.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014, CC 2015, CC 2017, CC 2018, CC 2019, 2020；Premiere Pro CC 2014, CC 2015, CC 2017, CC 2018, CC 2019, 2020（部分插件支持）",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘",
+      "url": "https://089u.com/f/680462-482950139-bac169"
+    },
+    {
+      "name": "Win 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1BEVARDcvbFbq7F1YzUVMOw"
+    },
+    {
+      "name": "Win 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Win_Full_16.0.3.zip"
+    },
+    {
+      "name": "Mac 版 - 城通网盘",
+      "url": "https://089u.com/f/680462-482948439-e60960"
+    },
+    {
+      "name": "Mac 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1lC3jrBl7-7pxeOlOrKsK3g"
+    },
+    {
+      "name": "Mac 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Mac_Full_16.0.3.zip"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "Trapcode Tao 1.2.4 - 三维几何图形插件",
+      "Trapcode Particular 5.0.1 - 超炫粒子插件（更新）",
+      "Trapcode Form 4.3.0 - 三维空间粒子插件",
+      "Trapcode Mir 3.2.0 - 三维图形插件",
+      "Trapcode Shine 2.0.6 - 放射光插件",
+      "Trapcode Lux 1.4.3 - 聚光灯插件",
+      "Trapcode 3D Stroke 2.7.3 - 3D路径描边插件",
+      "Trapcode Echospace 1.1.12 - 三维立体拖尾延迟插件",
+      "Trapcode Starglow 1.7.6 - 星光插件",
+      "Trapcode Sound Keys 1.4.4 - 音频关键帧插件",
+      "Trapcode Horizon 1.1.13 - 无限场景（天空）插件"
+    ],
+    "update_notes": "v16.0.3 更新内容：BUG修复",
+    "activation_method": "先安装插件程序，最后点击左下角蓝色的Activate，在弹出Red Giant Application Manager中点击Cancel（无需登录），然后点击右上角按钮，选择Enter Serial Number，输入序列号完成注册激活。",
+    "registration_note": "因为一个注册号在一个局域网内仅限一台电脑使用，否则会冲突失效。本资源提供5个独立序列号以解决注册冲突问题。",
+    "serial_numbers": [
+      "TCBK2245868172939255",
+      "TCBK2245875777348331",
+      "TCBF2005891888369252",
+      "TCBF2005849176686825",
+      "TCBF2005902179164355"
+    ],
+    "note_on_form_mir_activation": "注册码无法激活Form和Mir插件，建议使用v15.1.8版本以正常激活。",
+    "download_link_v1518": "https://www.lookae.com/trapcode-1518/"
+  }
+}

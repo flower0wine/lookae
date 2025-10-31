@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-将音频转换为关键帧给图层添加标记 AudioToMarkers v1.54",
+  "slug": "aejiao-ben-jiang-yin-pin-zhuan-huan-wei-guan-jian-zheng-gei-tu-ceng-tian-jia-biao-ji-audiotomarkers-v1-54",
+  "author": "大众脸",
+  "post_date": "2021/08/20 10:03",
+  "source_url": "https://www.lookae.com/audiotomarkers/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层标记"
+  ],
+  "content": "该脚本可根据音频强度自动在图层上添加标记、拆分图层或创建带有递增数字的新文本图层。适用于需要基于音频波形进行时间轴标记的后期制作场景，支持多种 After Effects 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/08/AudioToMarkers.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/323349514325.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-507097777-327eba"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12Gfxk7dwwFP0qkpv7beyjQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/SkRkwNLQum3"
+    }
+  ],
+  "other": {
+    "description": "此脚本将添加标记、拆分图层或添加新的文本图层，并根据音频强度递增数字。Adds markers, splits a layer or adds a new text layer with incrementing numbers based on audio intensity.",
+    "usage_instructions": [
+      "选择音频层并运行关键帧助手“将音频转换为关键帧”。",
+      "运行脚本并选择要标记或拆分的图层。如果您想要的图层没有出现，请选择合成并按“刷新”按钮。",
+      "设置应放置标记的音频电平。该脚本使用在运行“将音频转换为关键帧”后创建的“音频振幅”层中的“两个通道”值。当音频越过该值时将放置一个标记，直到音频再次下降和高于该值时才会放置另一个标记。",
+      "选择 3 个输出选项之一：在图层上放置标记、拆分图层、用递增的数字创建一个新的文本层。"
+    ],
+    "note": "如果您选择创建一个新的文本层，那么新创建的文本层将具有可用于触发表达式的递增数值的关键帧。"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "AE插件-半调圆点填充效果 AESweets – Halftone V1.0.5 Win版",
+  "slug": "aecha-jian-ban-diao-yuan-dian-tian-chong-xiao-guo-aesweets-halftone-v1-0-5-winban",
+  "author": "大众脸",
+  "post_date": "2019-04-12T00:01:00Z",
+  "source_url": "https://www.lookae.com/halftone-105/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "这是一款专为Adobe After Effects设计的半调圆点填充效果插件，可快速将画面转换为具有圆点半调风格的视觉效果。支持自定义颜色、形状、大小、间距等参数，适用于创意设计与视觉特效制作。插件功能强大，支持多种图形生成方式，包括不同大小的点构成渐变效果，并允许调整随机性、旋转角度等细节以实现多样化视觉表现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Halftone.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2019 – CS5",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-364767123"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jfkW8Npf9sfifcUoIZ0mAw"
+    }
+  ],
+  "other": {
+    "plugin_website": "http://www.aesweets.com/halftone/",
+    "update_log": [
+      "2019-03-26 – v1.0.5 – 修复了一些小错误。",
+      "2019-03-21 – v1.0.4 – 在Windows上添加了对宽字符的支持。",
+      "2019-03-15 – v1.0.3 – 修复了一些小错误。",
+      "2019-03-05 – v1.0.2 – 修复由于使用16/32位颜色深度而渲染崩溃的问题。",
+      "2019-01-17 – v1.0.1 – 修复由于After Effects内存泄漏错误而导致崩溃的问题。"
+    ],
+    "related_tags": [
+      "AE插件",
+      "After Effects"
+    ],
+    "extract_code": "qnn4"
+  }
+}

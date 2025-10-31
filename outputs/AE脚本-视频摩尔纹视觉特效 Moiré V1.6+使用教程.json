@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-视频摩尔纹视觉特效 Moiré V1.6+使用教程",
+  "slug": "aejiao-ben-shi-pin-mo-er-wen-shi-jue-te-xiao-moire-v1-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/06/04 16:58",
+  "source_url": "https://www.lookae.com/moire/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "摩尔纹效果"
+  ],
+  "content": "使用脚本可以给视频创建添加摩尔纹效果。AE的许多插件和脚本都可以让你获得老式电视或VHS的外观。这很酷，但是当你想要看起来现代的东西时怎么办？这就是“Moiré”的全部意义所在。只需单击一下按钮，即可创建摩尔条纹。可以写实，也可以抽象。一切由您决定。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/05/Moire.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/464638108461.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1253680132-0f2d6e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1FcUajqwR-LLSGmArV8mndg?pwd=hcdq"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/XSrPmUm8388"
+    }
+  ],
+  "other": {
+    "v1.6_update_notes": [
+      "修复了在没有跟踪层的情况下闪烁和演变不起作用的问题",
+      "修复了在没有跟踪层的情况下修复表达式不起作用的问题",
+      "切换了功能以防止旧版本 AE 上出现第 523 行错误"
+    ],
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "hcdq"
+    }
+  }
+}

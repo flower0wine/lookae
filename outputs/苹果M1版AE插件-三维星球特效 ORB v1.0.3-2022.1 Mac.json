@@ -1,0 +1,58 @@
+{
+  "title": "苹果M1版AE插件-三维星球特效 ORB v1.0.3-2022.1 Mac",
+  "slug": "ping-guo-m1ban-aecha-jian-san-wei-xing-qiu-te-xiao-orb-v1-0-3-2022-1-mac",
+  "author": "大众脸",
+  "post_date": "2022-05-20T11:07:00Z",
+  "source_url": "https://www.lookae.com/orb-m1/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "AK大神",
+    "ORB",
+    "VideoCopilot",
+    "苹果M1插件"
+  ],
+  "content": "ORB 是由 VideoCopilot 推出的一款完全免费的 After Effects 三维星球生成插件，可创建具有真实物理渲染效果的行星。支持设置颜色、大气层、贴图、反射、环境、灯光、阴影等参数，并支持 GPU 加速。插件具备高级 UV 设置、亮度阴影遮罩、昼夜切换、基于亮度调节等功能，支持 AE 内置灯光控制与 360° 全景渲染，可生成无限星空背景。适用于 Adobe After Effects CC 2014 至 2022 版本，2022.1 版本已兼容 M1 芯片苹果电脑（同时支持 Intel 芯片）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/ORB-M1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2014 - 2022",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-581505696-2042dd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1fhlwczM-UroJ2NXSVMsQ3A?pwd=14db"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/v6mMZm6DHYi"
+    }
+  ],
+  "other": {
+    "update_note": "2022.1 更新内容：兼容 M1 芯片苹果电脑（同时支持 Intel 芯片）",
+    "tutorial_available": true,
+    "map_texture_resolution": "6K",
+    "plugin_origin": "VideoCopilot",
+    "license": "完全免费",
+    "features": [
+      "真实的物理渲染效果",
+      "环境反射贴图",
+      "运动模糊",
+      "高级UV贴图设置",
+      "亮度阴影遮罩设置",
+      "随意切换白天和夜晚",
+      "基于亮度调节",
+      "亮度设置",
+      "支持AE内置灯光控制",
+      "360全景渲染",
+      "无限星空环境背景",
+      "GPU加速"
+    ]
+  }
+}

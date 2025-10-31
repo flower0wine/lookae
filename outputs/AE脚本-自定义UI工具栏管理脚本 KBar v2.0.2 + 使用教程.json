@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-自定义UI工具栏管理脚本 KBar v2.0.2 + 使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-uigong-ju-lan-guan-li-jiao-ben-kbar-v2-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/08 14:39",
+  "source_url": "https://www.lookae.com/kbar2/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "KBar 脚本可以轻松的管理AE常用的插件，效果，表达式，脚本等其他功能整理放在一个面板中，这样可以节省我们查找效果的时间，提高工作效率。Create custom toolbars unique to your workflows. Save time and clicks by putting your most used effects, presets and more at your fingertips. Multiple toolbars let you switch between different tasks and keep your productivity up. Focus on creativity, not digging through menus.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/KBar-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2017 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-361412307"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1TborGsGoLlPRE6_vOpytCw"
+    }
+  ],
+  "other": {
+    "installation_instructions": "1.拷贝kbar 2.0.2文件夹到以下位置：Win : C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\ Mac : /Library（中文叫资源库）/Application Support/Adobe/CEP/extensions 2.Win 运行一下Add Keys.reg，Mac 运行一下install-as-admin 3.打开AE，在顶部菜单，窗口-扩展-kbar 找到脚本",
+    "baidu_pan_extraction_code": "4h29",
+    "update_details": [
+      "当用户已经拥有最新版本时，会被告知要升级的通知",
+      "一些用户看到与“setdate”相关的启动错误。这已经解决了",
+      "修复了从Kbar1.1迁移到2.0时没有正确更新工具栏文件的错误"
+    ],
+    "official_website": "http://aescripts.com/kbar/",
+    "source_credit": "from MONTER GROUP©, Thank you"
+  }
+}

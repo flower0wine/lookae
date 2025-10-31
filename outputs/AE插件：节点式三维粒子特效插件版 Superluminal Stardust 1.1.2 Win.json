@@ -1,0 +1,49 @@
+{
+  "title": "AE插件：节点式三维粒子特效插件版 Superluminal Stardust 1.1.2 Win",
+  "slug": "aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-ban-superluminal-stardust-1-1-2-win",
+  "author": "大众脸",
+  "post_date": "2017/11/17 13:05",
+  "source_url": "https://www.lookae.com/stardust112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust"
+  ],
+  "content": "Stardust 是 Adobe After Effects 的新一代节点式三维粒子系统插件，提供独立且直观的节点操控界面，内置大量预设，可快速创建复杂而精美的视觉效果。插件支持多种粒子控制模块，包括发射器、粒子、复制、力场、辅助发射器、3D模型、文字、遮罩（Masks）、路径等，并具备空间变形器、样条动画、黑洞效果等功能，适用于在球体、盒子或自定义3D模型中封装或发射粒子。Stardust 1.1.2 版本主要包含错误修复。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/10/Stardust1.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2WUUecH1K.eBjSsphXXcJOXXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 1.1.2 CE 一键安装注册 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-228578800"
+    },
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 1.1.2 CE 一键安装注册 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1jIw1QJ0"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.6 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/xYI179365442"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.6 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1cgpQ82"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/stardust/",
+    "tutorials": [
+      "https://www.lookae.com/stardust-track/",
+      "https://www.lookae.com/stardust-vortex/",
+      "https://www.lookae.com/stardustt/"
+    ],
+    "notes": "插件已注册，可免费下载。Mac 版本为 0.9.6，而 Windows 版本为 1.1.2。"
+  }
+}

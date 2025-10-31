@@ -1,0 +1,26 @@
+{
+  "title": "AE幻影粒子插件 particleIllusion_v1.0.2（32&64Bit）（含粒子库）",
+  "slug": "aehuan-ying-li-zi-cha-jian-particleillusion-v1-0-2-32-64bit-han-li-zi-ku",
+  "author": "大众脸",
+  "post_date": "2012-09-25 17:05",
+  "source_url": "https://www.lookae.com/piae102/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "插件"
+  ],
+  "content": "著名的插件厂商GenArts（蓝宝石插件也在旗下）收购wondertouch推出幻影粒子 particleIllusion AE版本，目前只支持After Effects 所有版本。这个幻影粒子插件在AE中相当于一个发射器而已了，调用强大的粒子库来用这些粒子来做动画，（要是想做属于自己的粒子这很被动），不过几百上千的粒子库中的粒子类型也够你使用的，包含一些火焰，植物，水，烟雾，LOGO，光等等一些强大的粒子库。渲染速度也大大提升，亲测1080P清晰度还是非常OK的。（这个版本的粒子插件，我记得有谁汉化过，如果你有，欢迎共享！）",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/09/pIAE.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 所有版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE幻影粒子插件 particleIllusion_v1.0.2（32&64Bit）（含粒子库）",
+      "url": "http://www.ctdisk.com/file/9626406"
+    }
+  ],
+  "other": {}
+}

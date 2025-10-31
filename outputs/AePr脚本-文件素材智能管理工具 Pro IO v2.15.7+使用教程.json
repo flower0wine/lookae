@@ -1,0 +1,50 @@
+{
+  "title": "Ae/Pr脚本-文件素材智能管理工具 Pro IO v2.15.7+使用教程",
+  "slug": "ae-prjiao-ben-wen-jian-su-cai-zhi-neng-guan-li-gong-ju-pro-io-v2-15-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/03/30 15:47",
+  "source_url": "https://www.lookae.com/proio-2157/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以在AE和PR中可以快速智能的将导入的素材分类，还可以批量输出。\n\nPro IO for After Effects and Premiere Pro is a one-stop solution for getting media in and out of your application with ease.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Pro-IO-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Premiere CC 2019, CC 2018, CC 2017; After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-357524550"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1sdjYzBfTWmKXsBamxexzFg"
+    }
+  ],
+  "other": {
+    "tutorial_info": "Ae/Pr脚本 – 文件素材智能管理工具 Aescripts Pro IO v2.15.7 + 使用教程",
+    "update_log": [
+      "图像序列在premiere pro中缺少第一帧的问题得到解决",
+      "解决了TIFF图像序列的问题"
+    ],
+    "external_links": {
+      "aescripts_official": "https://aescripts.com/pro-io/",
+      "category_links": [
+        "https://www.lookae.com/after-effects/aechajian/",
+        "https://www.lookae.com/after-effects/",
+        "https://www.lookae.com/qitarjcj/premierezy/",
+        "https://www.lookae.com/qitarjcj/"
+      ],
+      "tag_links": [
+        "https://www.lookae.com/tag/aescaripts/",
+        "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      ]
+    },
+    "password": "j1af"
+  }
+}

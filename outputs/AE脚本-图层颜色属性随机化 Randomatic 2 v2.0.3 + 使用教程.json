@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-图层颜色属性随机化 Randomatic 2 v2.0.3 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-yan-se-shu-xing-sui-ji-hua-randomatic-2-v2-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 21:31",
+  "source_url": "https://www.lookae.com/randomatic-203/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Randomatic 2 是 After Effects 中用于创建 2D/3D 图层和颜色属性随机值的完美解决方案。用户可以在静态随机、动画随机或摆动之间进行选择，并通过定制控制器精确控制随机属性。此外，该脚本还支持对图层进行随机化操作（如偏移、伸展、指数等）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Randomatic-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520631622-fd4480"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hnvY7N_yhWHgBe0ZiRvJDQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/cjqYFecH9j7"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "odnc"
+    },
+    "update_notes": [
+      "在“偏移”菜单中，将“方法”列表替换为“步进偏移”复选框。",
+      "许可框架更新。"
+    ]
+  }
+}

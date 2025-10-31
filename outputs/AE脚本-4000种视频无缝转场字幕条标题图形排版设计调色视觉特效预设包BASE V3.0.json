@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-4000种视频无缝转场字幕条标题图形排版设计调色视觉特效预设包BASE V3.0",
+  "slug": "aejiao-ben-4000chong-shi-pin-wu-feng-zhuan-chang-zi-mu-tiao-biao-ti-tu-xing-pai-ban-she-ji-diao-se-shi-jue-te-xiao-yu-she-bao-base-v3-0",
+  "author": "大众脸",
+  "post_date": "2023-03-03",
+  "source_url": "https://www.lookae.com/base-v3/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "动画预设"
+  ],
+  "content": "BASE V3.0 是一套面向 After Effects 的巨型预设合集，通过 AtomX 扩展一键调用。内含 4000+ 元素：转场、标题、字幕条、图形排版、调色 LUT、视觉特效叠加、分屏、音效等，全部可视化预览，双击即可应用到时间线，极大提升剪辑效率。V3.0 新增 1500+ 元素、6 个全新类别，并引入基本属性控制、目标缩放旋转过渡等新功能，同时修复表达式与字体兼容性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/31018620-V3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2021 及以上",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-816604122-f3cda8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Tafj_n3Gzr5-zrqnMqSsOQ?pwd=oi9f"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XkBwdBsPY3M"
+    }
+  ],
+  "other": {
+    "file_size": "4.8 GB",
+    "resolution": "不限制",
+    "audio": "无背景音乐，含转场音效",
+    "installation": "含 AtomX 3.0.7 脚本、安装方法及视频教程",
+    "note": "安装后请勿移动文件，否则预设失效",
+    "related_links": [
+      "https://www.lookae.com/base-v3-2/",
+      "https://www.lookae.com/tag/atomx/"
+    ]
+  }
+}

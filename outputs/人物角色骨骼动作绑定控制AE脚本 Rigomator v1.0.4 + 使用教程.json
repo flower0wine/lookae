@@ -1,0 +1,48 @@
+{
+  "title": "人物角色骨骼动作绑定控制AE脚本 Rigomator v1.0.4 + 使用教程",
+  "slug": "ren-wu-jiao-se-gu-ge-dong-zuo-bang-ding-kong-zhi-aejiao-ben-rigomator-v1-0-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/04 22:23",
+  "source_url": "https://www.lookae.com/rigomator-104/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Rigomator",
+    "动作绑定"
+  ],
+  "content": "Rigomator 脚本允许用户从包含所有动画效果的角色中提取并保存任意动画，并将这些动画模板应用于任何角色或其任意部分，无论角色的大小或尺寸如何。该脚本操作简单、运行快速且效果显著，可帮助用户快速为角色添加动画，并构建个性化的动画库。完全兼容 Duik Bassel、Rubber Hose V2、Limber v1.5 和 Joysticks’n Sliders。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Rigomator-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015 或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577377089-40ffba?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1IX8FxUZkidLfkIrwIoApxg?pwd=pjhs"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/orBfCH45gy1"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-333123543"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WKAx8_rDpnCidfvqVkGNqA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.4 更新内容：修复了某些Windows系统上出现无法在行执行脚本的问题。undefined不是启动时的对象错误",
+    "passwords": {
+      "城通网盘": "6688"
+    }
+  }
+}

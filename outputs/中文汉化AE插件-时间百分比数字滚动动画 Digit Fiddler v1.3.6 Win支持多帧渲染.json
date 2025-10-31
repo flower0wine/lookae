@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE插件-时间百分比数字滚动动画 Digit Fiddler v1.3.6 Win支持多帧渲染",
+  "slug": "zhong-wen-yi-hua-aecha-jian-shi-jian-bai-fen-bi-shu-zi-gun-dong-dong-hua-digit-fiddler-v1-3-6-winzhi-chi-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2022/02/25 11:32",
+  "source_url": "https://www.lookae.com/digit-fiddler-136/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "插件Digit Fiddler可以在AE中解决任何计数动画；无论是数字，货币，百分比还是时间（分钟，秒等）都可以给你提供帮助。\n\nDigit Fiddler is your complete solution for counting anything in After Effects using a single slider. Whether it’s currency, percentages or time (minutes, seconds, etc), Fiddler’s got you covered.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Digit-Fiddler.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022、2021、2020，CC 2019，CC 2018，CC 2017，CC 2015.3，CC 2015，CC 2014，CC",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-546703793-df8f7a"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bNVej3oHlNtUc3zWthuiSg?pwd=avx7"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/DfQkM86V8pK"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://tc5.us/file/680462-404001297"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1Qb-w_CYX9TTkWkY1RkT-Ng"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "更新了对多帧渲染 (MFR) 和 AE 2022 的支持",
+      "修复了在某些效果之前/之后应用时的边界问题",
+      "放弃了对 AE CS6 的支持",
+      "更新许可框架"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "avx7"
+    }
+  }
+}

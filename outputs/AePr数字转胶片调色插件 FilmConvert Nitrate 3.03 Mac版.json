@@ -1,0 +1,42 @@
+{
+  "title": "Ae/Pr数字转胶片调色插件 FilmConvert Nitrate 3.03 Mac版",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-nitrate-3-03-macban",
+  "author": "大众脸",
+  "post_date": "2019-09-20T16:47:00Z",
+  "source_url": "https://www.lookae.com/filmconvert-303/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "FilmConvert Nitrate 3.03 是一款专为 After Effects 和 Premiere Pro 设计的数字素材转胶片调色插件，支持在 Mac 系统上运行。该插件可将数字拍摄素材模拟出真实胶片质感，提供电影级色彩还原与颗粒效果，适用于 RED、DSLR、MOV 等多种格式。内置多款胶片预设，支持 8MM 至 35MM 镜头噪点模拟，支持 4K 输出，并具备完整的动态范围保留能力。通过 Cineon Log 电影仿真、自定义曲线控制、分层颗粒调节等功能，用户可实现高度自由的颜色分级与胶片风格定制。支持 Adobe Creative Cloud 2015 及以上版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/AEFilmConvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015–CC 2019, Premiere Pro CC 2015–CC 2019",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-398812155"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1O5VXeF7VnZCC005kzOc6fg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "Version 3.03: 修复在多显示环境下插件 UI 界面异常显示的问题",
+      "新增 Cineon Log 电影仿真功能，支持对胶片对比度和饱和度的精细调整",
+      "引入完全自定义曲线控制，支持高光、阴影等区域的独立调节",
+      "增强胶片颗粒控制，可在高光、中间调、阴影中分别调整颗粒表现"
+    ],
+    "related_links": [
+      "https://www.lookae.com/filmconvert-3/"
+    ],
+    "plugin_homepage": "https://www.filmconvert.com/plugin/adobe"
+  }
+}

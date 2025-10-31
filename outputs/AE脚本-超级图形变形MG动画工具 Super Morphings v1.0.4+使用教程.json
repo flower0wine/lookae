@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-超级图形变形MG动画工具 Super Morphings v1.0.4+使用教程",
+  "slug": "aejiao-ben-chao-ji-tu-xing-bian-xing-mgdong-hua-gong-ju-super-morphings-v1-0-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-09-07 22:32",
+  "source_url": "https://www.lookae.com/super-morphings-104/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Super Morphings",
+    "变形工具"
+  ],
+  "content": "这是After Effects中最简单的形状变形工具！可以将一个对象转换为另一个对象。在项目中总有需要变形的东西，例如，将一个图标变形为另一个图标，或者在场景之间进行转换。精心制作的变形效果是优秀动态设计动画的关键之一。通常这类操作较为繁琐，但使用该脚本后将变得非常简单。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Super-Morphings.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/283151321076.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1353896021-30ccea?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1-48sbcZR4xcKumyZFHOdJA?pwd=wyhm"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/gXRJ7QaZsd5"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "添加线性变形，按住 ctrl/meta 键",
+      "修复了当变形层的位置维度分离时脚本可能出现错误的问题"
+    ],
+    "plugin_features": [
+      "一键变形任何物体",
+      "具有多个对象的多个变形元素",
+      "应用轨迹",
+      "应用切片器",
+      "轻松定制"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "wyhm"
+    }
+  }
+}

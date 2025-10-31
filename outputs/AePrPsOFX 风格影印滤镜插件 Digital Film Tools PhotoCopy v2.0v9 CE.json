@@ -1,0 +1,45 @@
+{
+  "title": "Ae/Pr/Ps/OFX 风格影印滤镜插件 Digital Film Tools PhotoCopy v2.0v9 CE",
+  "slug": "ae-pr-ps-ofx-feng-ge-ying-yin-lu-jing-cha-jian-digital-film-tools-photocopy-v2-0v9-ce",
+  "author": "大众脸",
+  "post_date": "2017-04-16 23:05",
+  "source_url": "https://www.lookae.com/photocopy209/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Nuke插件",
+    "PR插件",
+    "PS插件",
+    "达芬奇插件"
+  ],
+  "content": "Digital Film Tools PhotoCopy 用于分析照片的亮度，颜色，色调和许多电影，绘画，摄影照片和历史进程的质感。从这些数据可以复制应用到自己的图像与复印件，色彩，色调和亮度的原创作品被复制，而质地为蓝本的一些图像属性，将适用于其他照片。简单地创建，存储和应用这些定义预设到另一个形象。Photocopy 进行任何图片处理使其看起来有趣。Photocopy并不挑剔你知道图片的好，坏，丑。只要你敢提供图片，来结合插件。二者结合起来，将会创造一个新的艺术作品图。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/PhotoCopy.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v2.0v9 CE",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "风格影印滤镜插件 Digital Film Tools: PhotoCopy v2.0v9 CE",
+      "url": "https://lookae.ctfile.com/fs/eGK198610526"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "Photoshop CS5 and up (64 Bit Only)（兼容 CC 2017）",
+      "Photoshop Elements 13 and up (Non-app store version)",
+      "Photoshop Lightroom 3 and up",
+      "After Effects CS5 and up（兼容 CC 2017）",
+      "Premiere Pro CS5 and up（兼容 CC 2017）",
+      "Avid Editing Systems (64 Bit only)",
+      "Assimilate Scratch v8 and up",
+      "Black Magic Resolve v11 and up",
+      "Sony Vegas v13 and up",
+      "The Foundry's Nuke v8 and up"
+    ],
+    "installation_note": "插件为一键安装版，安装后即可直接使用",
+    "official_website": "http://www.digitalfilmtools.com/photocopy/"
+  }
+}

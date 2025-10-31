@@ -1,0 +1,35 @@
+{
+  "title": "后期合成插件：Boris RED v5.4.1（多软件支持）64位/32位",
+  "slug": "hou-qi-he-cheng-cha-jian-boris-red-v5-4-1-duo-ruan-jian-zhi-chi-64wei-32wei",
+  "author": "大众脸",
+  "post_date": "2014/04/02 22:17",
+  "source_url": "https://www.lookae.com/borisred/",
+  "category": "aechajian",
+  "tags": [
+    "32/64位",
+    "AE插件",
+    "Boris RED",
+    "多软件支持"
+  ],
+  "content": "Boris RED 是集3D合成、字幕、调色、特效并能执行OpenGL于一体的著名影视后期合成插件，广泛应用于广播级影视和电台制作。它具备超级水印功能，支持动画和超链接点击；内置字幕及快速字幕切换，兼容 srt/ass/ssa 格式；提供开放且可定制的用户界面，包含丰富的互动功能和应用模板。\n\n该插件拥有独立的完整界面和时间轴，操作便捷，效果丰富，可快速为视频添加各类效果。作为唯一集成3D合成、标题和特效功能的应用，Boris RED 能为 Adobe、Apple、Avid、Grass Valley、Media 100 和 Sony 等主流视频编辑软件提供卓越性能，是后期制作和广播专业人士不可或缺的工具。它在非线性编辑时间线上直接提供广泛的广播级文本生成器、绘图、转描、矢量对象创建与拉伸、真实3D形状与动画，以及业界最全面的图像处理滤镜套件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/Boris-RED.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS4-CC, Premiere Pro CS4-CC, AVID Media Composer 5/6/7, Corel VideoStudio Pro X3/X4/X5, EDIUS 5/6/7, Vegas Pro 10/11/12",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "32位版本 Boris RED v5.4.1",
+      "url": "https://www.400gb.com/file/61736178"
+    },
+    {
+      "name": "64位版本 Boris RED v5.4.1",
+      "url": "https://www.400gb.com/file/61736179"
+    }
+  ],
+  "other": {
+    "homepage": "http://www.borisfx.com/red/",
+    "demo_note": "插件效果DEMO视频由站长添加背景音乐后观感提升，相关音乐资源链接：https://www.lookae.com/gothicmusic/"
+  }
+}

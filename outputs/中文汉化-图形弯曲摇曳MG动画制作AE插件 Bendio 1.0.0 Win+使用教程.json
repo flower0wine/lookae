@@ -1,0 +1,52 @@
+{
+  "title": "中文汉化-图形弯曲摇曳MG动画制作AE插件 Bendio 1.0.0 Win+使用教程",
+  "slug": "zhong-wen-yi-hua-tu-xing-wan-qu-yao-yi-mgdong-hua-zhi-zuo-aecha-jian-bendio-1-0-0-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-11-12T23:06:00Z",
+  "source_url": "https://www.lookae.com/bendio/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MG动画"
+  ],
+  "content": "Bendio 是一款专为 After Effects 设计的插件，用于实现图层的弯曲效果，并支持将其他图层作为弯曲的父层。该插件操作简单快捷，兼容所有类型的图层（包括光栅和矢量图层），适用于制作动态弯曲、摇曳类的 MG 动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/11/Bendio-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/386100569729.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-723001113-4bcb49?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1GphbYT1KH-kGVH9jafA_CQ?pwd=n9hh"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/5Jd85Aid1Jx"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "original_title": "Bendio - Graphical Bending & Waving MG Animation Plugin for AE 1.0.0 Win + Tutorial",
+      "language": "zh-CN",
+      "plugin_type": "After Effects Plugin",
+      "features": [
+        "支持图层弯曲",
+        "可将任意图层设为弯曲父层",
+        "兼容光栅与矢量图层",
+        "适用于MG动画制作"
+      ],
+      "passwords": {
+        "ctfile": "6688",
+        "baidu": "n9hh"
+      }
+    }
+  }
+}

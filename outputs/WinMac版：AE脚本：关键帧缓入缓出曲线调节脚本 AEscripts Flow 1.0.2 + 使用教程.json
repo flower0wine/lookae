@@ -1,0 +1,42 @@
+{
+  "title": "Win/Mac版：AE脚本：关键帧缓入缓出曲线调节脚本 AEscripts Flow 1.0.2 + 使用教程",
+  "slug": "win-macban-aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-qu-xian-diao-jie-jiao-ben-aescripts-flow-1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/10/17 17:49",
+  "source_url": "https://www.lookae.com/flow-102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "AEscripts Flow 1.0.2 是一款适用于 Win 和 Mac 系统的 After Effects 脚本，可简化关键帧动画曲线的调节。它提供一个直观的操作界面，无需使用图形编辑器即可自定义动画曲线效果。支持 Adobe After Effects CC 2014 及更高版本。脚本内置 25 种预设曲线效果，用户可自由调整并保存自定义预设。官网提供完整操作视频教程，方便快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/Flow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2014 及更高版本",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE脚本：关键帧缓入缓出曲线调节脚本 AEscripts Flow 1.0.2 + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/z9U158643043"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/flow/",
+    "installation_guide": "安装扩展程序，点击脚本扩展完成安装；随后在 AE 的顶部菜单栏的‘扩展’中找到该脚本。",
+    "tutorial_video": true,
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tags_links": {
+      "Aescripts": "https://www.lookae.com/tag/aescripts/",
+      "AE脚本": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "Win/Mac": "https://www.lookae.com/tag/winmac/"
+    }
+  }
+}

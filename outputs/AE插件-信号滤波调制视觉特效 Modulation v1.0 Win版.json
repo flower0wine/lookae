@@ -1,0 +1,38 @@
+{
+  "title": "AE插件-信号滤波调制视觉特效 Modulation v1.0 Win版",
+  "slug": "aecha-jian-xin-hao-lu-bo-diao-zhi-shi-jue-te-xiao-modulation-v1-0-winban",
+  "author": "大众脸",
+  "post_date": "2019/10/20 22:07",
+  "source_url": "https://www.lookae.com/modulation/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Modulation 是一款专为 After Effects 设计的视觉特效插件，可轻松实现信号滤波调制效果，无需编程技能即可在视频中创建复杂的动态视觉效果。支持多个版本的 After Effects Windows 系统，适用于影视后期、广告制作等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Modulation.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/239702762686.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-403544217"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1M8Ii0FuoxQzCl1BWxcqs-A&shfl=shareset"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/modulation/",
+    "installation_instructions": [
+      "复制modulation.aex文件到AE的插件目录，如：…\\Adobe After Effects CC\\Support Files\\Plug-ins",
+      "打开AE软件使用插件，点击Register输入序列号激活。"
+    ],
+    "note": "独家资源，欢迎各大网站转载发布，转载请注明：LookAE提供！"
+  }
+}

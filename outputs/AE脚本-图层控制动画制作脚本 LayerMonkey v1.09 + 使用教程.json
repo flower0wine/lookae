@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-图层控制动画制作脚本 LayerMonkey v1.09 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-kong-zhi-dong-hua-zhi-zuo-jiao-ben-layermonkey-v1-09-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-12-03",
+  "source_url": "https://www.lookae.com/layermonkey-109/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "LayerMonkey 是 After Effects 的一款多功能脚本，可在时间与空间维度自动排列并动画化合成中的图层，同时生成父子级摄像机及主控制层，方便局部与全局调整。支持将静帧、视频及预合成一键转化为复杂动态元素。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/LayerMonkey.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5.5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://tc5.us/file/680462-410973223"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1yOgdWKGpLe8FRhG8Gqpn7w"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://tc5.us/file/680462-410973279"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1vNmKb-R4gFXKKnemjueqBw"
+    }
+  ],
+  "other": {
+    "official_site": "https://aescripts.com/layermonkey/",
+    "update_note": "v1.09 更新：兼容 macOS 10.15 Catalina"
+  }
+}

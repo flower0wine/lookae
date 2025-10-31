@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-图层属性存储应用工具 Save Actions v1.4+使用教程",
+  "slug": "aejiao-ben-tu-ceng-shu-xing-cun-chu-ying-yong-gong-ju-save-actions-v1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/18 10:04",
+  "source_url": "https://www.lookae.com/save-actions-14/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Save Actions",
+    "图层属性"
+  ],
+  "content": "Save Actions 是一款用于 After Effects 的实用且简单的图层属性存储与应用工具。它允许用户保存图层的全部或部分属性，并支持实时预览。使用时，若已选择图层，则将已保存的属性应用到所选图层；若未选择图层，则会在当前合成中创建一个包含所有保存属性的新图层。此外，用户还可以备份已保存的项目以便后续使用，并可使用附带的免费附加包，其中包含数十个现成的图层和预设。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Save-Actions.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337299771566.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1357742866-a402c0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1KUfYPWtYKvPTxtebNy3ADA?pwd=npvk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/hkN7BtzSKEx"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688"
+    },
+    "update_notes": "v1.4更新内容：已修复非英语语言的错误。"
+  }
+}

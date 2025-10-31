@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-镜头损坏丢帧去闪烁清理修复工具 pt FrameRestorer V2.0 + 使用教程",
+  "slug": "aejiao-ben-jing-tou-sun-pi-diu-zheng-qu-shan-shuo-qing-li-xiu-fu-gong-ju-pt-framerestorer-v2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/03/02 19:39",
+  "source_url": "https://www.lookae.com/framerestorer/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "FrameRestorer 使用运动插值技术来修复多种镜头问题，包括因数字电影摄像机拍摄问题导致的丢失或重复帧、损坏帧替换、帧率转换引起的卡顿修复等。此外，它还能用于画面清理工作，例如通过插值创建跟踪补丁以移除不需要的元素、消除运动模糊伪影、减少灯光闪烁，以及生成插值克隆源辅助清除污点。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/FrameRestorer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/349010008584.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-550995539-43973a"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1le0C7zEuqbkwA8-uMHqekw?pwd=pvu7"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ZcmR4jtJrxX"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "pvu7"
+  }
+}

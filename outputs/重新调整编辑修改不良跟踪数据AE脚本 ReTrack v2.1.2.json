@@ -1,0 +1,55 @@
+{
+  "title": "重新调整编辑修改不良跟踪数据AE脚本 ReTrack v2.1.2",
+  "slug": "zhong-xin-diao-zheng-bian-ji-xiu-gai-bu-liang-gen-zong-shu-ju-aejiao-ben-retrack-v2-1-2",
+  "author": "大众脸",
+  "post_date": "2023-02-14T13:28:00Z",
+  "source_url": "https://www.lookae.com/retrack-212/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "ReTrack 是一个运动跟踪引擎和编辑器，可处理所有类型的 After Effects 跟踪数据。支持精确重跟踪复杂镜头、重建部分跟踪数据，并通过在关键帧上方操作来修正不良跟踪结果。适用于 AE 2023 至 CS6 多个版本，兼容 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/ReTrack-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/311019151074.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-808461914-7a265e?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/18JxHpC8r_Wx_grwF395T_w?pwd=78es"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/2AJCkECjXT1"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/f/680462-496416451-dfa17c"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1qAn1ITk3EjkXfCiq77kLOQ"
+    }
+  ],
+  "other": {
+    "update_notes": "V2.1.2 更新内容：许可证框架已更新。",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_pan_script": "78es",
+      "baidu_pan_tutorial": "16qj"
+    },
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

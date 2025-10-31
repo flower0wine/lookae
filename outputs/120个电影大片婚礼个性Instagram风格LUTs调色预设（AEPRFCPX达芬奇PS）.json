@@ -1,0 +1,76 @@
+{
+  "title": "120个电影大片婚礼个性Instagram风格LUTs调色预设（AE/PR/FCPX/达芬奇/PS）",
+  "slug": "120ge-dian-ying-da-pian-hun-li-ge-xing-instagramfeng-ge-lutsdiao-se-yu-she-ae-pr-fcpx-da-fen-qi-ps",
+  "author": "大众脸",
+  "post_date": "2018-09-21T22:51:00Z",
+  "source_url": "https://www.lookae.com/120luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "调色预设"
+  ],
+  "content": "这套调色预设包含120个LUTs，涵盖电影大片、Instagram风格、老电影、黑白单色、冷暖色调、婚礼风格及个性化特殊效果等九大类别。支持多种主流视频与图像处理软件，如DaVinci Resolve、Adobe Premiere Pro、After Effects、Photoshop、Final Cut Pro X等，适用于Mac和Windows系统。预设采用标准3D LUT格式（.CUBE, .3DL, .CSP, .ICC），可快速实现专业级色彩分级，提升画面胶片质感，适合影视后期创作与社交媒体内容制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/120-LUTs-Pack.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50288712835.mp4?_=1",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6 - CC 2018, Adobe After Effects CS6 - CC 2018, Adobe Photoshop CS6 - CC 2018, Final Cut Pro X, Final Cut Pro 7, DaVinci Resolve (Full & Lite), Nuke, SCRATCH, Avid MC 7, Vegas Pro, Edius, Pandora Revolution/Pixi, CineForm Studio Premium, Film Master, Quantel Pablo, BaseLight, Motion 5/4",
+  "supported_os": "Mac / Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-311338131"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1nusE7wAf1z5ZYW8OYZrCMg"
+    }
+  ],
+  "other": {
+    "previews": {
+      "gif_preview": true,
+      "categories_count": 9,
+      "total_luts": 120
+    },
+    "usage_tutorials": [
+      "在线观看视频使用教程",
+      "高清教程视频文件下载"
+    ],
+    "recommended_products": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      }
+    ],
+    "sponsorship": {
+      "url": "https://www.lookae.com/sponsor/",
+      "message": "点击自愿赞助 LookAE.com 网站 【送精品资源】"
+    },
+    "official_store": {
+      "url": "https://lookae.taobao.com/",
+      "label": "【大众脸官方淘宝店】"
+    },
+    "additional_resources": {
+      "lut_collection": "上万种LUT调色预设免费下载",
+      "link": "https://www.lookae.com/tag/lut/"
+    },
+    "plugin_recommendations": [
+      "Magic Bullet LUT Buddy（适用于大部分软件）",
+      "FCPX LUT Loader（Final Cut Pro X 调用插件）",
+      "FCPX软件 LUT 实用颜色工具"
+    ]
+  }
+}

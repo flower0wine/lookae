@@ -1,0 +1,28 @@
+{
+  "title": "AE脚本：扁平化信息数据图文动画脚本 InfoGraphics v1.0（附教程）",
+  "slug": "aejiao-ben-bian-ping-hua-xin-xi-shu-ju-tu-wen-dong-hua-jiao-ben-infographics-v1-0-fu-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/06/30 10:38",
+  "source_url": "https://www.lookae.com/infographics-3/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "InfoGraphics 脚本可以快速制作漂亮的信息数据图文动画。可通过 CSV 表格文件导入数据，也可手动在 After Effects 中输入并编辑数据。支持添加、删除或调整数据项顺序，并可通过脚本用户界面创建自定义图表。用户还能轻松修改颜色、字体、项目位置等样式属性，从而高效生成动态信息图。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/InfoGraphics.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：扁平化信息数据图文动画脚本 InfoGraphics v1.0（附教程）",
+      "url": "https://www.400gb.com/file/103049462"
+    }
+  ],
+  "other": {
+    "installation_path": ".....\\Adobe After Effects CC 2015\\Support Files\\Scripts\\ScriptUI Panels"
+  }
+}

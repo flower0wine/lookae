@@ -1,0 +1,85 @@
+{
+  "title": "更新：AE插件 Element3d v1.6（仅windows）",
+  "slug": "geng-xin-aecha-jian-element3d-v1-6-jin-windows",
+  "author": "大众脸",
+  "post_date": "2013-03-29T17:04:00Z",
+  "source_url": "https://www.lookae.com/e3d16/",
+  "category": "aechajian",
+  "tags": [
+    "VideoCopilot",
+    "windows版"
+  ],
+  "content": "VideoCopilot Element 3D 更新至 1.6 版本，新增世界坐标功能，支持自动生成 Null Object，提升场景重连与模型替换能力，并修复多项关键问题。支持二维图层遮罩合成、平面与多边形映射、渲染顺序控制等功能，优化了动画烘焙与跨平台兼容性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/03/e3d16.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS3-CS6 (Windows)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Element3d v1.6（仅windows）",
+      "url": "https://www.400gb.com/file/18588185"
+    }
+  ],
+  "other": {
+    "related_posts": [
+      {
+        "title": "更新：AE插件 Element3d_1.5.409",
+        "url": "https://www.lookae.com/e3d-15/"
+      },
+      {
+        "title": "AE插件Element 3D MAC完美版（CS3-CS6）(附安装教程)",
+        "url": "https://www.lookae.com/mac-e3d/"
+      },
+      {
+        "title": "AK插件Element 3d 1.0.345-英文/中文完美版 – WIN 版本",
+        "url": "https://www.lookae.com/e3d-chn/"
+      },
+      {
+        "title": "更新：AK插件 Element 3D 实例教程",
+        "url": "https://www.lookae.com/e3d-jc2/"
+      },
+      {
+        "title": "Element3D PC+MAC 体验版（附安装说明）",
+        "url": "https://www.lookae.com/element3d-pcmac/"
+      },
+      {
+        "title": "videocopilot 最新插件Element 3D操作教程",
+        "url": "https://www.lookae.com/videocopilot-element-3d/"
+      },
+      {
+        "title": "Element 3D工作流程教程【中文字幕】",
+        "url": "http://115.com/file/benporas#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集 – 英文原版",
+        "url": "http://115.com/file/benmepto#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集 – 中文字幕",
+        "url": "http://115.com/file/beno9lkj#"
+      }
+    ],
+    "features": [
+      "Added world position pass.",
+      "Added scene relink.",
+      "Added replace model option.",
+      "Added a subsampling mode for post effects.",
+      "Added planar and polygon mapping types.",
+      "Added render order.",
+      "Added group nulls.",
+      "Added generate 3D position null.",
+      "Added shape order animation mode.",
+      "Improved automatic relinking.",
+      "Fix: issue with baked animation in different groups.",
+      "Fix: crash due to path aspect ratio fix.",
+      "Fix: occlusion map was rendering below diffuse.",
+      "Fix: masks with different aspect ratio than layer.",
+      "Fix: baked animation wasn’t working with 3D object replicator shape.",
+      "Fix: rendering issues on OSX.",
+      "Fix: crash when rendering empty scene with missing assets.",
+      "Fix: licensing popup on Windows when opening old projects."
+    ]
+  }
+}

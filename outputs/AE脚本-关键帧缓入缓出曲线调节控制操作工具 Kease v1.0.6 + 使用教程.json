@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-关键帧缓入缓出曲线调节控制操作工具 Kease v1.0.6 + 使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-qu-xian-diao-jie-kong-zhi-cao-zuo-gong-ju-kease-v1-0-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/09/24 11:43",
+  "source_url": "https://www.lookae.com/kease/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "关键帧控制",
+    "曲线调节",
+    "缓入缓出"
+  ],
+  "content": "关键帧操作调节是一个艰难而耗时的步骤。使用 Kease 脚本会让一切变得简单，这是一款小巧而强大的工具，虽然其最小的布局使其在您的 After Effects 工作区中显得谨慎，但其智能而强大的功能可帮助您更快地完成工作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/AeScript-Kease.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/328373182912.mp4"
+  ],
+  "supported_versions": "AE CC 2017 - 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-514941419-f67540"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1AS4tbCoMXxtjGKtyZHY2tg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TN4C2NgyGJY"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "13bc"
+    },
+    "features": [
+      "复制和粘贴缓动曲线",
+      "仅复制和粘贴值",
+      "线性化空间插值",
+      "复制多个关键帧",
+      "镜像多个关键帧",
+      "简单的缓动预设",
+      "复杂的缓动预设"
+    ]
+  }
+}

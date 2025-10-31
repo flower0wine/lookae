@@ -1,0 +1,73 @@
+{
+  "title": "AE插件：点线面三维粒子插件Rowbyte Plexus v3.1.5 + 使用教程",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/07/04 21:04",
+  "source_url": "https://www.lookae.com/plexus315/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "粒子插件"
+  ],
+  "content": "这是一款强大的点线面三维粒子插件，适用于After Effects，支持创建、操控和可视化数据。Plexus 3 提供了模块化的操作流程，可基于参数建立粒子之间的复杂关系，适合制作丰富的三维粒子效果。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2018",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win版插件下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-297051457"
+    },
+    {
+      "name": "Win版插件下载（百度云网盘）",
+      "url": "https://pan.baidu.com/s/16eLKepv1mfF-ol1MoaKOqA"
+    },
+    {
+      "name": "Mac版插件下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-239504106"
+    },
+    {
+      "name": "Mac版插件下载（百度云网盘）",
+      "url": "https://pan.baidu.com/s/1ghbB8Mf"
+    },
+    {
+      "name": "视频教程下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "视频教程下载（百度云网盘）",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "plugin_version": "3.1.5",
+    "mac_version": "3.1.3",
+    "update_log": [
+      "Improved Headless Rendering Support.",
+      "Fixed minor panel issues."
+    ],
+    "new_features": [
+      "Object based UI",
+      "Depth Map Culling",
+      "Motion Blur",
+      "Sound Effector",
+      "Null Object Performance",
+      "Slicer Object",
+      "Path Object Improvements",
+      "Seamless Beams",
+      "Custom Visibility Settings",
+      "Improved OBJ ImportOBJ",
+      "Unified Rendering",
+      "Nested Compositions",
+      "Loop Noise"
+    ],
+    "official_links": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ]
+  }
+}

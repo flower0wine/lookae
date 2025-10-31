@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-合成区域自动裁剪 Auto Crop 3.1.0 Win/Mac + 使用教程",
+  "slug": "aecha-jian-he-cheng-qu-yu-zi-dong-cai-jian-auto-crop-3-1-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/06/24 11:27",
+  "source_url": "https://www.lookae.com/autocrop-301/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "“Auto Crop”是一款After Effects插件，允许用户快速将合成裁剪为其内容的实际大小。它支持在当前帧裁剪，或分析整个合成的动画内容以智能裁剪，避免切断任何动画元素。最新版本为原生插件，性能和功能均有提升，支持无需预合成的直接裁剪，并可根据合成透明区域自动调整尺寸。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Auto-Crop.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-384381824"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BgHA4swULwx3YO4J2SoT7g"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "添加选项以在裁剪之前展开合成，以包括合成边界之外的图层",
+      "添加自定义脚本UI面板的功能",
+      "添加公开函数的启动脚本，以允许从外部源运行作物",
+      "添加KBar支持",
+      "选择多个合成时，直接从项目面板裁剪",
+      "修正了一些小错误"
+    ],
+    "official_link": "https://aescripts.com/auto-crop/",
+    "baidu_pan_extract_code": "ysv3"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "几十种专业 LUTs 电影调色预设 M31 & OSIRIS Cinema & Film LUTS",
+  "slug": "ji-shi-chong-zhuan-ye-luts-dian-ying-diao-se-yu-she-m31-osiris-cinema-film-luts",
+  "author": "大众脸",
+  "post_date": "2015/07/20 13:39",
+  "source_url": "https://www.lookae.com/31lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "这是一套专业 LUTs 电影调色预设，包含M31 Cinema LUT和OSIRIS Film Emulations两合集，约几十种LUT预设，有安装版和直接LUT文件版，支持众多后期软件，能快速搞定画面调色，使画面呈现电影胶片色彩，多数后期软件均可方便引入，在此基础上调出不错色彩风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/LUT31.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "专业 LUTs 电影调色预设 M31 & OSIRIS Cinema & Film LUTS",
+      "url": "https://www.400gb.com/file/107070074"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE模板",
+      "After Effects",
+      "LUTs",
+      "Mac 专区",
+      "其他辐射",
+      "素材",
+      "软件/插件"
+    ],
+    "支持软件": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CC 2014",
+      "Adobe After Effects CS6/CC 2015",
+      "Adobe Photoshop CS6/CC 2015",
+      "Final Cut Pro X",
+      "Avid MC 7",
+      "Shake",
+      "Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5"
+    ],
+    "LUT使用方法": {
+      "Adobe Premiere Pro CC": "视频特效 –  Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "DaVinci Resolve": "直接使用或导入",
+      "Magic Bullet LUT Buddy": "适用于大部分软件",
+      "FCPX软件 LUT 实用颜色工具": "FCPX可用"
+    },
+    "其他相关": [
+      "更多LUT调色预设免费下载"
+    ],
+    "Info": "Turn your videos into a Hollywood Blockbuster with the click of a button! The Teal and Orange contemporary film look done right! VisionColor’s M31 Cinema LUT transforms your images color space to a highly stylized and contemporary blockbuster look by introducing complementary color contrasts. Unlike most presets that attempt to create the so-called “Teal and Orange” look the M31 only works with the colors you recorded on set and enhances them based on their intensity. Taking the entire tonal range into account for the transformations the M31 offers flexibility way beyond regular presets. The key to image stylization while retaining fidelity and a natural response is to protect certain memory colors from being altered. The M31 achieves a highly natural color response for skin tones and other memory colors by the subtlety of it’s adjustments through a high-resolution color-remapping matrix. Saturation is handled non-linearly which prevents individual colors from oversaturating while increasing vibrancy for darker colors.",
+    "官网地址": "http://www.vision-color.com/m31/"
+  }
+}

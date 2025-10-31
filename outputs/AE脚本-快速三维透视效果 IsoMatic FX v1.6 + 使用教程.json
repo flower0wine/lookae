@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-快速三维透视效果 IsoMatic FX v1.6 + 使用教程",
+  "slug": "aejiao-ben-kuai-su-san-wei-tou-shi-xiao-guo-isomatic-fx-v1-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-11-12",
+  "source_url": "https://www.lookae.com/isomaticfx-16/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以快速的将2D平面图形切换成具有三维空间属性的三维透视效果。支持摄像机，和E3D插件。Finally, isometric graphics made easy within After Effects ! Two useful modes (faked 2D or true 3D) to choose from… and tons of possibilities! v1.6版更新内容包括：3个“左，右和顶部伪造的2D等轴测图”按钮的行为改进，与CC2019新的JavaScript引擎完全兼容，新增表达式功能等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Isomatic-FX-16.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50004760551.mp4"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘脚本下载",
+      "url": "https://tc5.us/file/680462-407056565"
+    },
+    {
+      "name": "百度网盘脚本下载",
+      "url": "https://pan.baidu.com/s/1x4lqwpnYRzscJv0rlqtN4A"
+    },
+    {
+      "name": "城通网盘教程下载",
+      "url": "https://tc5.us/file/680462-407056713"
+    },
+    {
+      "name": "百度网盘教程下载",
+      "url": "https://pan.baidu.com/s/1gd_JraNE3w17ezzpGe64rw"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

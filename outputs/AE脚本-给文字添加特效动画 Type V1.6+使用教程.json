@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-给文字添加特效动画 Type V1.6+使用教程",
+  "slug": "aejiao-ben-gei-wen-zi-tian-jia-te-xiao-dong-hua-type-v1-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-08-21",
+  "source_url": "https://www.lookae.com/type-16/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "文本动画"
+  ],
+  "content": "一个强大的工具集，用于在After Effects中为文本文字图层制作动画，如突出显示、下划线、添加闪烁光标、格式化数字、打字机、添加等宽、创建文本框、拆分文本等等。A powerful toolset for animating text layers in After Effects.Highlight, underline, add blinking cursors, format numbers, add monospacing, create text boxes, split text, and more.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/Aescripts-Type.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/402087513153.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8418815357-8dbe53?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ATxnXn3HbWoYI1ckdYs15A?pwd=hc7i"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/JjRKhH45pVn"
+    }
+  ],
+  "other": {
+    "update_notes": {
+      "new_features": [
+        "输入标签：文本每变化一帧，自动添加标记",
+        "计时器新增暂停功能（Shift + 点击）"
+      ],
+      "improvements": [
+        "打字机/Blinky 现在可保留字符样式",
+        "改进了 Blinky 对多行文本的支持",
+        "高亮、下划线和删除线现在可针对每次选择迭代",
+        "计时器的前导 0 现在是可选的",
+        "用户界面会根据功能偏好立即更新",
+        "改进了大多数表达式"
+      ],
+      "fixes": [
+        "各种错误"
+      ]
+    },
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "hc7i"
+    }
+  }
+}

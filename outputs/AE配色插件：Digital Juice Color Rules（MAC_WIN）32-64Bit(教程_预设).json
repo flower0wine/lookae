@@ -1,0 +1,35 @@
+{
+  "title": "AE配色插件：Digital Juice Color Rules（MAC_WIN）32-64Bit(教程_预设)",
+  "slug": "aepei-se-cha-jian-digital-juice-color-rules-mac-win-32-64bit-jiao-cheng-yu-she",
+  "author": "大众脸",
+  "post_date": "2012-10-05 13:09",
+  "source_url": "https://www.lookae.com/djcr/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Digital Juice"
+  ],
+  "content": "Digital Juice Color Rules是一款强大的AE配色插件，适用于解决视频制作中的色彩搭配问题。插件操作简单方便，功能强大，安装后在AE特效和AE窗口中都可找到。它能帮助用户轻松把握画面色彩，实现视觉冲击力强的色彩效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/10/DJCR.jpg"
+  ],
+  "video_urls": [
+    "http://v.youku.com/v_show/id_XNDU3OTI4MjQ0.html"
+  ],
+  "supported_versions": "AE CS4, CS5, CS5.5, CS6",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Digital Juice Color Rules for AE CS4.CS5.CS5.5 (Win)",
+      "url": "http://www.ctdisk.com/file/9813462"
+    },
+    {
+      "name": "Digital Juice Color Rules for AE CS6 (Win)",
+      "url": "http://www.ctdisk.com/file/9813459"
+    },
+    {
+      "name": "Digital Juice Color Rules for MAC",
+      "url": "http://www.ctdisk.com/file/9813467"
+    }
+  ]
+}

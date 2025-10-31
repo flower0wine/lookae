@@ -1,0 +1,81 @@
+{
+  "title": "AE插件-点线面三维粒子插件Rowbyte Plexus v3.1.2 Win/Mac+使用教程",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-12-07T15:55:00Z",
+  "source_url": "https://www.lookae.com/plexus312mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "Win/Mac"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。用户不仅能渲染粒子，还能基于多种参数构建粒子之间的复杂关系。其工作流高度模块化，可实现无限的配置与参数组合。该插件适用于制作点、线、面等三维粒子效果，支持3D模型导入（如OBJ格式），并可通过路径、文字、灯光生成粒子发射源，操作模式具有创新性。此外还提供分形、颜色、球形场、阴影等多种自定义特效。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5.5 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版插件下载 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-219453851"
+    },
+    {
+      "name": "Win版插件下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1hr7H3nQ"
+    },
+    {
+      "name": "Mac版插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-230724885"
+    },
+    {
+      "name": "Mac版插件下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1b5W5VS"
+    },
+    {
+      "name": "视频教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "视频教程下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/plexus/",
+    "developer_website": "https://www.rowbyte.com/plexus/",
+    "update_notes": [
+      "Fixed container issues on some OBJs.",
+      "Improved Plexus 2 project upgrades.",
+      "Fixed 'internal verification error' in some comps."
+    ],
+    "new_features": [
+      "Object based UI - 全新定制的UI操控界面",
+      "Depth Map Culling - 深度贴图",
+      "Motion Blur - 运动模糊",
+      "Sound Effector - 音频效果器",
+      "Null Object Performance - 空物体控制提升",
+      "Slicer Object - 物体切割",
+      "Path Object Improvements - 物体路径改进",
+      "Seamless Beams - 无缝线条动画",
+      "Custom Visibility Settings - 粒子可视化控制",
+      "Improved OBJ Import - OBJ导入提升",
+      "Unified Rendering - 统一渲染",
+      "Nested Compositions - 镶嵌合成模式",
+      "Loop Noise - 循环噪波"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/mac/",
+      "https://www.lookae.com/tag/winmac/"
+    ]
+  }
+}

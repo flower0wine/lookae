@@ -1,0 +1,45 @@
+{
+  "title": "AE插件：变形扭曲(变脸)插件 REVisionFX REFlex 5.2.8 Win/Mac",
+  "slug": "aecha-jian-bian-xing-niu-qu-bian-lian-cha-jian-revisionfx-reflex-5-2-8-win-mac",
+  "author": "大众脸",
+  "post_date": "2018/05/03 09:30",
+  "source_url": "https://www.lookae.com/reflex528/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "这是一款AE变形扭曲插件，可制作复杂变形的扭曲效果动画，能绘制需要扭曲的区域，可完成变脸特效。适用于Win/Mac位版本的 After Effects 软件（CS5 - CC 2018），v5.2.8更新支持AE CC 2018并修复相关bug 。官方地址：http://www.revisionfx.com/products/reflex/ 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/07/RE-Flex.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5 - CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 系统下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-289408164"
+    },
+    {
+      "name": "Mac 系统下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-289408161"
+    },
+    {
+      "name": "Win 系统下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1dDUdmESXXjkZBTaZA6sd7Q"
+    },
+    {
+      "name": "Mac 系统下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1O0u-FuVn9dCOj8EpT9v6MQ"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "更新内容英文": "Fixes a bug where blank, incomplete or “random” images were produced. RE:Flex brings intuitive morphing and warping to After Effects and Fusion! Superior results are achieved using RE:Vision Effects’ proprietary and sophisticated technology. RE:Flex is especially easy to learn because it uses the host program’s own drawing and masking tools (when available) to direct the warping and morphing; as such, there is no need to learn a whole new user interface."
+  }
+}

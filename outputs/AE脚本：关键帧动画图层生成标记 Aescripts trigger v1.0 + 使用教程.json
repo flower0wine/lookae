@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本：关键帧动画图层生成标记 Aescripts trigger v1.0 + 使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-dong-hua-tu-ceng-sheng-cheng-biao-ji-aescripts-trigger-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/11/12 13:34",
+  "source_url": "https://www.lookae.com/trigger/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该AE脚本Aescripts trigger v1.0可根据关键帧或图层起始做记号标记，智能人性化，预合成后也会在合成上生成标记。压缩包内含脚本和使用视频教程。官网地址为http://aescripts.com/trigger/。适用于Win/Mac系统下的AE CS4/CS5/CS6/CC/CC2014/CC2015 。脚本安装需拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/trigger-splash.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/t/r/trigger_demo.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4/CS5/CS6/CC/CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：关键帧动画图层生成标记 Aescripts trigger v1.0 + 使用教程",
+      "url": "https://lookae.400gb.com/file/131143025"
+    }
+  ],
+  "other": {
+    "分类": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "英文介绍": "animations by triggering animations inside a precomp using layer markers. Easily create Trigger comps, add markers, and trigger animations from inside a precomp . Turn your linear workflow into an automated event based workflow, allowing you to non-destructively retime complex animations, easily test out multiple versions of an animation, and sequence together multiple animation events easily from your global composition."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Ae/Pr 形状阴影效果插件 RevisionFX ShadeShape 4.2.3 Win/Mac",
+  "slug": "ae-pr-xing-zhuang-yin-ying-xiao-guo-cha-jian-revisionfx-shadeshape-4-2-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/02/13 16:12",
+  "source_url": "https://www.lookae.com/shadeshape423/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "RevisionFX ShadeShape 是一款AE形状阴影插件工具，软件功能强大，操作简单。插件利用通道将平面元素变为已渲染的3D工艺图，让物件用3D的方式绘制，并且可以加上反射和凹凸贴图，快速的产生3D效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/shadeshape.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 – CC 2017, Adobe Premiere Pro CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Ae/Pr 形状阴影效果插件 RevisionFX ShadeShape 4.2.3 Win/Mac",
+      "url": "https://lookae.ctfile.com/fs/tqN171241070"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "8和16位每通道处理(只有8位，每通道支持的最终削减亲和首映亲)",
+      "自动三维建模",
+      "三维照明与渲染",
+      "凹凸贴图",
+      "环境映射",
+      "运动图像的时间平滑，稳定和平滑",
+      "二维元素融合在一个序列分割，阴影/形状自动合并和分裂的几何",
+      "负光强度定义的能力"
+    ],
+    "applications": [
+      "增加深度，阴影和金属光泽，您的标题和标识",
+      "发展冷效应和抽象转换",
+      "二维手绘动画的软阴影",
+      "增加自然的三维阴影现有的图像序列"
+    ]
+  }
+}

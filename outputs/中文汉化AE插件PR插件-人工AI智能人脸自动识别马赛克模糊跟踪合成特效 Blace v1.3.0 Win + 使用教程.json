@@ -1,0 +1,52 @@
+{
+  "title": "中文汉化AE插件/PR插件-人工AI智能人脸自动识别马赛克模糊跟踪合成特效 Blace v1.3.0 Win + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-prcha-jian-ren-gong-aizhi-neng-ren-lian-zi-dong-shi-bie-ma-sai-ke-mo-hu-gen-zong-he-cheng-te-xiao-blace-v1-3-0-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/01/04 22:49",
+  "source_url": "https://www.lookae.com/blace-13/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Blace 是一款适用于 Adobe After Effects 和 Premiere Pro 的 AI 驱动面部检测与模糊插件，能够自动识别人脸并应用马赛克或模糊效果，支持跟踪与合成。插件提供多种预设样式，支持自定义检测区域、尺寸及位置，并可通过检测结果驱动其他效果（如自定义模糊）。该插件支持 8/16/32 位色彩深度，并包含 GPU 加速功能以提升处理速度。v1.3.0 版本新增高斯模糊预设、跟踪稳定性选项及更便捷的尺寸位置控制，并允许在演示模式下测试所有功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/Blace-AI-Face-Detection.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019；Premiere Pro 2020, 2019 及更高版本",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-478271398"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1t_AaCYUyZ8_DmtS_1MxseA"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-478271961"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1-6L2Mpu-fnCP4o4vq6E-DA"
+    }
+  ],
+  "other": {
+    "extract_code": {
+      "plugin_baidu": "e8wk",
+      "tutorial_baidu": "z5pb"
+    },
+    "gpu_requirements": "需要基于 Nvidia Turing、Volta、Xavier、Pascal、Maxwell 或 Kepler 架构的 GPU，着色器模型 3.0+，驱动版本 r440 或更高",
+    "disclaimer": "基于 AI 的检测在某些场景下可能失败（如人脸丢失或误识别相似物体），建议在购买前通过演示模式测试适用性，尤其用于身份保护时需人工验证结果。",
+    "premiere_limitation": "Premiere Pro 中仅限制遮罩工作流，其余功能与 After Effects 一致",
+    "update_notes_v130": [
+      "添加了高斯模糊预设",
+      "新增“稳定”选项以提升跟踪精度和稳定性",
+      "通过新偏移滑块更方便地控制尺寸和位置",
+      "演示模式下可测试所有模式"
+    ]
+  }
+}

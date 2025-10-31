@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-图层属性重置脚本 Quick Delete & Reset v1.1.3 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-shu-xing-zhong-zhi-jiao-ben-quick-delete-reset-v1-1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/14 23:08",
+  "source_url": "https://www.lookae.com/quick-delete-113/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Quick Delete & Reset 是一款 After Effects 脚本，通过它可以选择图层的关键帧、特效、Mask、图层标记、表达式等，并进行删除、禁用、启用或重置操作。该脚本适用于 AE CC 至 CC 2019 版本，支持 Windows 和 Mac 系统。安装方法是将 .jsxbin 文件拷贝到 AE 安装目录的 Support Files\\Scripts\\ScriptUI Pane 文件夹中，然后在 AE 的 Window 菜单中找到并使用脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/Quick-Delete-Reset.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056522072.mp4"
+  ],
+  "supported_versions": "AE CC – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-365508644"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jCp-zO285CuchunEw-tUpw"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "rxi8",
+    "update_notes": "v1.1.3 更新内容：现在将保存对布局所做的更改；图标按钮靠得更近；更新注册方式。",
+    "official_website": "https://aescripts.com/quick-delete-and-reset/",
+    "additional_links": {
+      "taobao_store": "https://lookae.taobao.com/",
+      "sponsor_page": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

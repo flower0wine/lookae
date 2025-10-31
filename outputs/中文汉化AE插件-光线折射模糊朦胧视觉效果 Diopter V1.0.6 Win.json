@@ -1,0 +1,42 @@
+{
+  "title": "中文汉化AE插件-光线折射模糊朦胧视觉效果 Diopter V1.0.6 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-guang-xian-zhe-she-mo-hu-meng-long-shi-jue-xiao-guo-diopter-v1-0-6-win",
+  "author": "大众脸",
+  "post_date": "2025/07/02 09:12",
+  "source_url": "https://www.lookae.com/diopter-106/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Diopter是一款AE插件，可以在AE中快速给视频或图像添加模糊、失真、调色等光学效果，还可以用自定义形状和其他图层来生成光效。插件可以选择内置形状的透镜形状（遮罩）或使用另一个图层作为亮度遮罩，并且可以对透镜进行变换。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/Diopter-105.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50214028960.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1523509873-572bf4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RB5X4nWvGkrEWM-4FF__tg?pwd=28zh"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/dmpdT9kQpv6"
+    }
+  ],
+  "other": {
+    "update_content": "V1.0.6更新内容：最新版本的AfterEffects SDK（AE 2025，之前为AE 2021）；最新编译器版本：MacOS上的Xcode 16.4，Windows上的Visual Studio 2022",
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "28zh"
+    }
+  }
+}

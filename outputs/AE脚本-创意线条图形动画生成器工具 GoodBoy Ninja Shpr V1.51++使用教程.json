@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-创意线条图形动画生成器工具 GoodBoy Ninja Shpr V1.51++使用教程",
+  "slug": "aejiao-ben-chuang-yi-xian-tiao-tu-xing-dong-hua-sheng-cheng-qi-gong-ju-goodboy-ninja-shpr-v1-51-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-18 09:20",
+  "source_url": "https://www.lookae.com/goodboy-ninja-shpr/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图形动画",
+    "线条动画"
+  ],
+  "content": "GoodBoy Ninja Shpr 是一款After Effects脚本，提供了多达11种可替换甚至可串联的模块，用于动态操控路径点，制作丰富的路径动画效果。只需几秒钟即可创建图形动画，多种参数可调整设置。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/GoodBoyNinja-Shpr.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1536760777-258573?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JRxQhu4TOikXsEO8BlMB8A?pwd=tn22"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/FZ6w3qv9AgN"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "tn22",
+    "modules": [
+      "FLOW 流动：沿路径移动点，使路径本身动态演绎",
+      "HOLOGRAM 全息图：生成旋转伪 3D 效果",
+      "CONNECT 连接：在路径点间自动建立连接，形成网状结构",
+      "FRACTAL 分形：从路径上每个点延展出自相似路径",
+      "BEVEL 斜角：将点处生成新的折角结构",
+      "MOVE 移动：沿法线方向或指定方向移动点/切线",
+      "SPIN 旋转：围绕自身、邻居、路径中心或任意点旋转",
+      "RESHAPE 重塑：将路径完全重塑为预设形状",
+      "MATH 数学：提供基于路径已有数据的数学运算，适合技术型用户",
+      "ROPES 绳索：每段路径制造出悬垂、下垂感",
+      "SUBDIV 细分：细分路径段，增加节点密度"
+    ]
+  }
+}

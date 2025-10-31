@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本：形状层自定义属性管理脚本 AEscripts bq_Shape Layer Navigator+使用教程",
+  "slug": "aejiao-ben-xing-zhuang-ceng-zi-ding-yi-shu-xing-guan-li-jiao-ben-aescripts-bq-shape-layer-navigator-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-08-12T13:51:00Z",
+  "source_url": "https://www.lookae.com/bq_shape-layer/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "一个可自定义的工具栏，可以帮助您浏览形状图层，减少搜索时间，提升发现效率。支持快速展开或定位图层中的特定属性，操作简便直观。适用于 After Effects 中对形状层进行高效管理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/bq_Shape-Layer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：形状层自定义属性管理脚本 AEscripts bq_Shape Layer Navigator+使用教程",
+      "url": "https://www.400gb.com/file/112250792"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "ae脚本"
+    ],
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Panels",
+    "english_description": "A customizable toolbar to help you navigate shape layers. Less searching. More finding."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "字体控制变换工具AE/PR插件 VariFont v2.0.1 Win/Mac+使用教程",
+  "slug": "zi-ti-kong-zhi-bian-huan-gong-ju-ae-prcha-jian-varifont-v2-0-1-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/11/29 10:19",
+  "source_url": "https://www.lookae.com/varifont-201/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "VariFont 是一款专为 After Effects 和 Premiere Pro 设计的原生插件，支持可变字体（Variable Fonts）功能。该插件使 After Effects 原本不支持的 VF 字体得以在项目中使用，并允许用户动态控制字体的多个轴参数（如粗细、宽度、倾斜度等）。插件提供强大的动画器功能，支持范围选择、形状控制和随机性设置，极大增强了字体动画的灵活性与表现力。适用于 Windows 和 Mac 系统，兼容 After Effects CC 2021、2020、CC 2019 以及 Premiere Pro 2021、2020。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/08/VariFont.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/277055593148.mp4"
+  ],
+  "supported_versions": "After Effects CC 2021, 2020, CC 2019; Premiere Pro 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-735553639-b23c80?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1n8UzPXK9MnUdv7qcsyi6YA?pwd=whnv"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/eBTfbN3CMP5"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "改进了对Apple M1 CPU的支持",
+      "在参数名称字段中显示实际轴值",
+      "改进了渲染时间",
+      "各种错误修复"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "AE插件M1": "https://www.lookae.com/tag/aem1/",
+      "PR插件": "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

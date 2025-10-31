@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-为基本图形属性参数自动命名 Essential Namer V1.0 + 使用教程",
+  "slug": "aejiao-ben-wei-ji-ben-tu-xing-shu-xing-can-shu-zi-dong-ming-ming-essential-namer-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-07-07T10:20:00Z",
+  "source_url": "https://www.lookae.com/essential-namer/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Essential Namer V1.0 是一款专为 After Effects 设计的脚本，可在将属性添加到‘基本图形’面板时自动为其命名，有效避免因多个属性名称重复导致的混乱。该工具有助于保持项目结构清晰，提升工作效率，尤其适用于制作运动图形模板（MOGRT），使最终用户能更轻松地浏览和使用。支持 After Effects 2020 及 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Essential-Namer-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-452185706"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Eei2WVP6XTBouKWFXsVIwQ"
+    }
+  ],
+  "other": {
+    "original_post_date": "2020/07/07 10:20",
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "related_tags": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ],
+    "external_link": "https://aescripts.com/essential-namer/",
+    "download_password": "ef5m"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "新一代三维模型运动图形动画AE插件 Helium V5.1 Mac苹果版",
+  "slug": "xin-yi-dai-san-wei-mo-xing-yun-dong-tu-xing-dong-hua-aecha-jian-helium-v5-1-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2022/06/29 22:39",
+  "source_url": "https://www.lookae.com/helium-51/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Helium",
+    "粒子插件"
+  ],
+  "content": "Helium 是一款专为 Adobe After Effects 设计的开创性3D工具集，支持快速创建流畅且复杂的3D动画。V5.1版本新增体积渲染功能，可从VDB文件轻松生成逼真的3D烟雾效果。该插件适用于 Mac 系统的 After Effects 2022、2021、2020 版本，仅支持 Intel 处理器，不兼容 M1 芯片。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Helium.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01p74BbP1vSMszmybmw_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/366423498637.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020",
+  "supported_os": "Mac (Intel 处理器)",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-605273364-682785?p=4431"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/15q7L3qsR9RhT_F7AZWVN3A?pwd=8mh2"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/LoGUHqoY1NU"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-600879180-d6d9e8?p=4431"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/152gGEehOz5zoXUXCbMpcaw?pwd=vt5f"
+    },
+    {
+      "name": "教程下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/FHv8JXLhWv3"
+    }
+  ],
+  "other": {
+    "update_notes": "V5.1版本更新：修复了在带有 AMD GPU 的 Mac Intel 上体积渲染失败的问题",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "8mh2",
+      "tutorial_baidu": "vt5f"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tags_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "Helium": "https://www.lookae.com/tag/helium/",
+      "粒子插件": "https://www.lookae.com/tag/%e7%b2%92%e5%ad%90%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "AE插件：牛顿动力学插件 Newton 3.0.69 Win/Mac版 + 视频教程",
+  "slug": "aecha-jian-niu-dun-dong-li-xue-cha-jian-newton-3-0-69-win-macban-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/07/02 10:08",
+  "source_url": "https://www.lookae.com/newton3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Motion Boutique Newton是After Effects第一款牛顿动力学插件，完美模拟动力学的物理属性，操作方便快捷，全新的操作界面、关节、吸附与排斥、新动力学类型等诸多实用功能。支持重力、碰撞、摩擦、弹跳、密度、速度等控制，制作出更加真实的效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Newton-3-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50184394506.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CS 6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-296745286"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Q6zrOwRhVtnBO40eudxlaQ"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-296745876"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1YiglEdOh3CCTXrr79-Cajw"
+    }
+  ],
+  "other": {
+    "plugin_introduction": "Motion Boutique Newton是After Effects第一款牛顿动力学插件，完美模拟动力学的物理属性，操作方便快捷，全新的操作界面、关节、吸附与排斥、新动力学类型等诸多实用功能。",
+    "new_features": [
+      "拥有独立的关键帧曲线控制面板",
+      "新增车轮、气球动力学效果",
+      "快速给场景添加墙壁",
+      "将动画导出关键帧形式",
+      "新增多种物体链接方式"
+    ],
+    "official_website": "https://aescripts.com/newton/",
+    "installation_instructions": {
+      "Windows": "复制 Newton 文件夹到AE安装目录下的Adobe After Effects CC 2018\\Support Files\\Plug-ins\\",
+      "Mac": "拷贝 Newton.plugin 到应用程序/Adobe After Effects CC 2018\\Plug-ins\\",
+      "usage": "打开AE软件，在顶部菜单【合成】-【Newton】找到插件使用"
+    }
+  }
+}

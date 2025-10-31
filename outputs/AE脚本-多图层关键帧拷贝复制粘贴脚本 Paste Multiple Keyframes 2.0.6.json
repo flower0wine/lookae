@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本-多图层关键帧拷贝复制粘贴脚本 Paste Multiple Keyframes 2.0.6",
+  "slug": "aejiao-ben-duo-tu-ceng-guan-jian-zheng-kao-bei-fu-zhi-nian-tie-jiao-ben-paste-multiple-keyframes-2-0-6",
+  "author": "大众脸",
+  "post_date": "2019/12/12 20:46",
+  "source_url": "https://www.lookae.com/paste-206/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "可同时智能复制粘贴多个图层的关键帧，然后粘贴到多个图层上，现在有了循环支持。AE软件默认只能一个一个图层的拷贝粘贴，有了这个脚本复制粘贴关键帧就 So easy。脚本使用方法：1.选择所有要复制的关键帧。2.将时间滑块移动到要放置第一个关键帧的位置。3.点击粘贴。v2.0.6更新内容：改善在CS6中的界面；兼容苹果10.15系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Paste-Multiple-Keyframes-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/224798245012.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-413226023"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1pQIJeJw7OpAH9QghBo2rcg"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/paste-multiple-keyframes/"
+  }
+}

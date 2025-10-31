@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-图层复制克隆动画特效 Cloners+Effectors v1.2.8（带使用教程）",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-dong-hua-te-xiao-cloners-effectors-v1-2-8-dai-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-06-30T10:03:00Z",
+  "source_url": "https://www.lookae.com/cloners-128/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Cloners + Effectors 是一款适用于 After Effects 的程序化动画系统，特别适合同时动画多个图层。它允许通过效果器进行动画控制，而无需为每一层单独设置关键帧。该系统灵活多变，支持完全自定义操控，极大提升多图层动画效率。本版本附带官方使用视频教程，帮助用户快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Cloners-Effectors-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-878951703-3e9efd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1tKjP8qPNO3_doYduPDj1fg?pwd=32ff"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Lu27jnQGShT"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-362726808"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1m21eBUKTIRjOM1_3wF8FuA?pwd=034i"
+      }
+    ],
+    "update_notes": "Updated license framework",
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

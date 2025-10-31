@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本：快速创建MG折纸网格动画脚本 Aescripts Origamit v1.0.2 + 使用教程",
+  "slug": "aejiao-ben-kuai-su-chuang-jian-mgzhe-zhi-wang-ge-dong-hua-jiao-ben-aescripts-origamit-v1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-05-18T11:57:00Z",
+  "source_url": "https://www.lookae.com/origamit/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts Origamit 是一款用于 After Effects 的程序化网格生成与动画工具，可快速创建折纸风格的 MG 动画效果。支持展开、有机生长等动态效果，仅需几步操作即可实现惊艳视觉呈现。适用于 Windows 系统下的 AE CS5 至 CC2015 版本。下载包包含脚本文件、安装程序、注册码及使用视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/05/origami.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/sl-voron_1.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/sl-delauney_1.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/sl-triangles2.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/sl-squar_1.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/animation-rotx-op.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/animation-rotz-opacity_1.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/animation-scale.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/animation-sc-pos.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/animation-opacity.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/Origami/animation-trim.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "下载链接",
+      "url": "http://lookae.ctfile.com/fs/D5a151066844"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/origami/",
+    "description": "Origami is the procedural mesh generation and animation tool for After Effects. Create stunning effects like unfold and organic growth in a few clicks!",
+    "related_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescripts",
+      "AE脚本"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "【更新】AE插件-热浪变形紊乱插件 VideoCopilot Heat Distortion v1.0.31",
+  "slug": "geng-xin-aecha-jian-re-lang-bian-xing-wen-luan-cha-jian-videocopilot-heat-distortion-v1-0-31",
+  "author": "大众脸",
+  "post_date": "2015-06-18T22:31:00Z",
+  "source_url": "https://www.lookae.com/heat1031/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AK插件",
+    "Video Copilot"
+  ],
+  "content": "Heat Distortion 是一款模拟真实热浪与失真效果的 After Effects 插件，专为简化波形紊乱效果的制作而设计。它提供高级噪波控制、风力模拟、模糊、扭曲、错乱及形态调节等功能，并支持直接在蒙版上操作。该插件可快速实现高质量的热浪视觉效果，替代繁琐的内置效果组合。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/10/Heat-Distortion.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/339839429048.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS4 – CC 2015",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/100719488"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1jGtLVHc"
+    }
+  ],
+  "other": {
+    "plugin_version": "v1.0.31",
+    "plugin_features": [
+      "Realistic Heat Noise 真实热浪噪波",
+      "Image Distortion 画面失真",
+      "Heat Haze 热气",
+      "Advanced Noise Control 噪波控制",
+      "Wind 风",
+      "Mask Support 支持蒙版操作"
+    ],
+    "official_description_url": "http://www.videocopilot.net/blog/2013/10/new-heat-distortion-plug-in-sneak-peak/",
+    "installation_notes": [
+      "双击 HeatDistortionInstaller1.0.30_Win.exe 安装（补丁版本为1.0.31）",
+      "将 Crack 1.0.31 文件夹中的 HeatDistortion.aex 复制到 AE 插件目录覆盖替换",
+      "打开 AE，应用插件后点击 Install License，选择 HeatDistortion.license 完成注册"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-像素拖尾拉伸效果 Stretch-it v2.3",
+  "slug": "aejiao-ben-xiang-su-tuo-wei-la-shen-xiao-guo-stretch-it-v2-3",
+  "author": "大众脸",
+  "post_date": "2022-04-24T10:30:00Z",
+  "source_url": "https://www.lookae.com/astretch-it-23/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Stretch-it"
+  ],
+  "content": "Stretch-it v2.3 是一款用于 After Effects 的脚本，可实现文字或图层的像素级拖尾拉伸效果。用户可通过简单操作快速创建夸张的拉伸与压缩对比效果，特别适合需要动态文字变形的视觉设计场景。该脚本解决了以往手动调整耗时费力的问题，支持在修改字体、字母或整体布局后无需重做。适用于 Windows 和 Mac 系统，兼容 AE 2022 至 CC 2018 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Stretch-it-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-573192648-2beb50?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1YpN7Nd2egQ4-SzVglbBR3Q?pwd=4w9z"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/tMDoB9QrkoV"
+    }
+  ],
+  "other": {
+    "update_notes": "修复拉伸量动画时的稳定位置；兼容Catalina系统",
+    "original_post_date": "2022/04/24 10:30",
+    "related_tags": [
+      "AE脚本",
+      "Stretch-it"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "image_alt": "AE脚本-像素拖尾拉伸效果 Stretch-it v2.3"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-倒鸭子客服抖音常用文字排版翻转动画制作 TypeMonkey v1.25+使用教程",
+  "slug": "aejiao-ben-dao-ya-zi-ke-fu-dou-yin-chang-yong-wen-zi-pai-ban-fan-zhuan-dong-hua-zhi-zuo-typemonkey-v1-25-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/02/07 22:22",
+  "source_url": "https://www.lookae.com/typemonkey-125/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "TypeMonkey",
+    "倒鸭子"
+  ],
+  "content": "使用Typemonkey插件可以快速自动生成带有摄像机动画的动态文字排版效果，不需要繁琐的关键帧控制，简单快捷。Our best-selling Monkey! Automatically generates kinetic typography & camera, dynamically linked to markers w/o keyframes. The easiest way to create kinetic type。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/TypeMonkey.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1019231152-4d9b97?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1U9331dd2eNcc_xLGRBkfZA?pwd=uqjg"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/aRFyeUtjZFE"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368254969"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1K4T5UhkLZNHgYzm8iZGACA"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘_脚本": "6688",
+      "百度网盘_脚本": "uqjg",
+      "百度网盘_教程": "unzr"
+    },
+    "typemonkey_version": "v1.25",
+    "update_note": "优化以与 TypeMonkey3D 配合使用"
+  }
+}

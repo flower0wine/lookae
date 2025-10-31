@@ -1,0 +1,82 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.5.5 Win版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v1-5-5-winban",
+  "author": "大众脸",
+  "post_date": "2020/09/09 22:27",
+  "source_url": "https://www.lookae.com/lockdown-155/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Lockdown 是一款革命性的 After Effects 插件，能够精准跟踪运动物体扭曲不平的表面，特别适用于美容修饰、物体移除清理以及其他复杂的跟踪合成特效制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/238517900336.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-460795443"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1d5jFWJZTOS7xtSA4-l_j9w"
+    }
+  ],
+  "other": {
+    "extract_code": "hckq",
+    "installation_guide": "1. 复制 Lockdown.aex 和 GenerateVectors.aex 文件到 AE 插件目录，例如：…\\Adobe After Effects CC 2019\\Support Files\\Plug-ins\\\n2. 打开 AE 软件使用插件，点击 Register 输入序列号注册，出现 'Registration successful for 9 user' 弹窗说明注册成功，无网格水印。",
+    "update_notes": {
+      "version": "v1.5.5",
+      "new_features": [
+        "添加了网格导出到/从 Alembic 格式导入/导出的功能",
+        "添加了一些常用操作的键盘快捷键"
+      ],
+      "improvements": [
+        "在日志文件中记录移动信息",
+        "全矢量设置将序列背景设置为黑色，其他颜色会导致错误的跟踪结果",
+        "现在以亚像素精度添加和移动点"
+      ]
+    },
+    "tutorials": [
+      {
+        "name": "V1.4新版教程 - 城通网盘",
+        "url": "https://089u.com/file/680462-445330945"
+      },
+      {
+        "name": "V1.4新版教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1YeFG07kBTePKT1C7wm_rZg",
+        "extract_code": "ts3a"
+      },
+      {
+        "name": "英文视频教程 - 城通网盘",
+        "url": "https://tc5.us/file/680462-402524782"
+      },
+      {
+        "name": "英文视频教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1ziayuRTOWWrlxu9HAsDzgQ"
+      },
+      {
+        "name": "中文字幕教程 - 城通网盘",
+        "url": "https://tc5.us/file/680462-403009657"
+      },
+      {
+        "name": "中文字幕教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1VIpX0gl6zw2GL4iBy5YX-w&shfl=sharepset",
+        "author": "月离"
+      }
+    ],
+    "related_links": [
+      {
+        "description": "Lockdown v1.5.4 Mac版下载",
+        "url": "https://www.lookae.com/lockdown-154/"
+      }
+    ],
+    "official_website": "https://aescripts.com/lockdown/"
+  }
+}

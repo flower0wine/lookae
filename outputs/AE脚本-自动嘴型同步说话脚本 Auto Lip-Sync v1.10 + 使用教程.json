@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-自动嘴型同步说话脚本 Auto Lip-Sync v1.10 + 使用教程",
+  "slug": "aejiao-ben-zi-dong-zui-xing-tong-bu-shuo-hua-jiao-ben-auto-lip-sync-v1-10-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/12 17:54",
+  "source_url": "https://www.lookae.com/auto-lip-sync/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Auto Lip-Sync脚本可以创建一张嘴，该嘴会根据您的录音自动进行动画处理。脚本具有自动动画功能，嘴巴全自动运动无需关键帧，提供逐步向导指导用户完成整个过程，支持口腔内部动画（牙齿和舌头），可进行微调控制嘴巴张开的宽度和变形方式，适用于任何语言。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Auto-Lip-Sync.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/247922059665.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://tc5.us/file/680462-413225993"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/112Hju7_2MiqenhrKVwYx-Q"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://tc5.us/file/680462-413434234"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1fPNBTa5BPSSSlJ5z0Fpvuw"
+    }
+  ]
+}

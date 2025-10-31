@@ -1,0 +1,32 @@
+{
+  "title": "AE/PR插件-专业锥形色轮视频调色插件 Color Cone v2.3.1 Win版",
+  "slug": "ae-prcha-jian-zhuan-ye-zhui-xing-se-lun-shi-pin-diao-se-cha-jian-color-cone-v2-3-1-winban",
+  "author": "大众脸",
+  "post_date": "2019/07/07 11:44",
+  "source_url": "https://www.lookae.com/color-cone/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Color Cone是一种全新的色彩校正和创造颜色概念的工具，它把视频色彩元素以圆锥形呈现。使用起来非常直观，只需点击几下即可获得令人印象深刻的图像色彩效果。Color Cones的基础是HCL颜色模型，它由双锥体（从Color Cone也有其名称）可视化。HCL颜色模型不如HSV广泛使用，HSV模型更适合照片编辑，而HCL模型因深度和灯光几乎不含色彩饱和度、排除重复颜色位置等优势，更适合调色场景。Color Cone插件通过Picture Instruments自研的Color Warp技术，可将源颜色巧妙转换为目标颜色，即使8位图像的强烈色彩变化也能保持和谐，还能单独处理肤色区域的着色变化。Color Cone ist ein völlig neues Konzept zur Farbkorrektur sowie zum Kreieren von Looks. Die Software ist gleichermaßen leistungsstark wie intuitiv zu bedienen und liefert mit wenigen Klicks beeindruckende Ergebnisse. Basis des Color Cones ist ein HCL-Farbmodell, visualisiert durch einen Bicone. Es ist weniger verbreitet als HSV, aber für Fotobearbeitung geeigneter, da Tiefen und Lichter kaum Farbsättigung enthalten. Gleiche Farben an mehreren Positionen werden im HCL-Modell ausgeschlossen.官网链接：https://www.picture-instruments.com/products/index.php?id=10",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Color-Cone.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC-CC 2019, Adobe Premiere Pro CC-CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-386289400"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1QWK2B34P_ENQ4UtadpJK3w"
+    }
+  ],
+  "other": {
+    "installation_method": "1.安装Color Cone Plugin 2.3.1.exe插件程序；2.复制Color Cone.aex到路径C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore替换原文件；3.打开软件使用插件"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "中文汉化-卡通绘画半色调动漫风格化特效AE/PR插件 StyleX V1.0.2.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-qia-tong-hui-hua-ban-se-diao-dong-man-feng-ge-hua-te-xiao-ae-prcha-jian-stylex-v1-0-2-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2024/09/04 09:08",
+  "source_url": "https://www.lookae.com/stylex/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "中文汉化",
+    "动漫插件",
+    "卡通风格"
+  ],
+  "content": "插件StyleX是一款采用人工智能AI技术的高级视频风格化工具，可将素材转换为高质量卡通片，生成给定图像或视频风格的任意风格化视频，用户能借此创建创意风格化效果，如卡通、绘画、半色调等。该插件采用先进的基于人工智能方法分析卡通图像，提高生成卡通视觉效果，还得益于创新神经网络框架处理高分辨率视频，并为Adobe After Effects和Adobe Premiere Pro提供GPU加速。1.0.2.1版本在Windows版本中对StyleTransfer模式进行了性能改进。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/StyleX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/359673645671.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020"
+    ],
+    "Premiere": [
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win中英版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-985018972-ca3c16?p=4431"
+    },
+    {
+      "name": "Win中英版-百度网盘",
+      "url": "https://pan.baidu.com/s/1siIuOxpnhYvNnpy3nVgLFg?pwd=tatt"
+    },
+    {
+      "name": "Win中英版-阿里云盘",
+      "url": "https://www.alipan.com/s/PUxKJPBqpY8"
+    },
+    {
+      "name": "Mac英文版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1352537207-816d50?p=4431"
+    },
+    {
+      "name": "Mac英文版-百度网盘",
+      "url": "https://pan.baidu.com/s/1_dT5UZUZb8Rl2xRtTGMbEg?pwd=rwmv"
+    },
+    {
+      "name": "Mac英文版-阿里云盘",
+      "url": "https://www.alipan.com/s/PhPjvReZR3v"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "中文汉化AE插件-像素方向拉伸撕裂分离特效AE Pixel Sorter 2.0.8 Win/Mac版+使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-xiang-su-fang-xiang-la-shen-si-lie-fen-chi-te-xiao-ae-pixel-sorter-2-0-8-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-06-18T18:15:00Z",
+  "source_url": "https://www.lookae.com/ae-pixel-sorter-208/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac",
+    "中文汉化"
+  ],
+  "content": "AE Pixel Sorter 是一款专为 After Effects 设计的像素排序故障特效插件，可实现视频画面的像素分离、拉伸、撕裂等视觉效果。该插件自发布以来在广播电视、现场演出、音乐视频、游戏、摄影及服装设计等领域广泛应用。新版 V2.0.8 重写了核心算法，提升了性能与直观性，并新增渐变、旋转、块大小、随机长度、羽化等功能。支持 Windows 与 macOS 系统，兼容 AE CC 2020 至 CS6 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Pixel-Sorter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2020, 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows, macOS (支持 Catalina 10.15)",
+  "download_links": [
+    {
+      "name": "城通网盘下载 (Win/Mac 2.0.8)",
+      "url": "https://089u.com/file/680462-449334663"
+    },
+    {
+      "name": "百度网盘下载 (Win/Mac 2.0.8)",
+      "url": "https://pan.baidu.com/s/1SBwQbuuOD8qdylpXYqwK_A"
+    },
+    {
+      "name": "更新版 MAC 2.0.8 (城通网盘)",
+      "url": "https://089u.com/file/680462-477814685"
+    },
+    {
+      "name": "更新版 MAC 2.0.8 (百度网盘)",
+      "url": "https://pan.baidu.com/s/1FRY5xFhO9nQFaFFqdITv0A"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "支持 macOS Catalina 10.15 系统（v2.0.6a）",
+      "更新了许可以支持限时许可"
+    ],
+    "plugin_features": [
+      "像素分离拉扯效果",
+      "渐变功能",
+      "旋转控制",
+      "块大小调节",
+      "随机长度设置",
+      "羽化功能"
+    ],
+    "plugin_website": "https://aescripts.com/ae-pixel-sorter/",
+    "version_info": {
+      "win_version": "2.0.8 (提供英文/中文版)",
+      "mac_version": "2.0.6a (仅英文版)，已更新至 2.0.8"
+    },
+    "extract_code": {
+      "baidu_pan_1": "oi42",
+      "baidu_pan_2": "7is8"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/winmac/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/"
+    ]
+  }
+}

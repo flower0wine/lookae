@@ -1,0 +1,47 @@
+{
+  "title": "Ae/Pr/Ps/OFX/AVID/达芬奇视觉特效插件合集 Digital Film Tools DFT 1.1.1",
+  "slug": "ae-pr-ps-ofx-avid-da-fen-qi-shi-jue-te-xiao-cha-jian-he-ji-digital-film-tools-dft-1-1-1",
+  "author": "大众脸",
+  "post_date": "2018/02/24 18:00",
+  "source_url": "https://www.lookae.com/dft111/",
+  "category": "aechajian",
+  "tags": [
+    "AE&PR",
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PS插件"
+  ],
+  "content": "DFT（Digital Film Tools）是一套强大的视觉特效插件合集，几乎包含该公司所有插件，支持多种主流后期制作软件。该插件包主要用于模拟光学相机滤镜、专业镜头效果、电影胶片质感与颗粒、镜头光晕、光学实验过程、色彩校正、键控抠像、合成技术以及自然光和摄影效果等。所有插件均为一键安装版，集成注册，安装后即可直接使用。插件包含大量预设，涵盖胶片风格、调色方案、光效模板及合成特效，适用于影视后期、广告制作和创意影像处理等多种场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/09/DFT1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2018, Adobe Premiere Pro CS5 – CC 2018, Adobe Photoshop CC – CC 2018（仅64位）, Adobe Photoshop Elements 13 and up (Non-app store version), Adobe Photoshop Lightroom 3 and up, Avid Editing Systems (64 Bit versions only), Assimilate Scratch v8 and up, Black Magic Resolve v11 and up, Sony Catalyst Edit 2015 and up, The Foundry’s Nuke v8 and up, Vegas Pro v13 and up, OFX（OpenFX）系列软件",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-239044818"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1eTpAeYm"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/dft/",
+    "chinese_translation_note": "中文介绍由LOOKAE大众脸独家翻译整理，请勿复制",
+    "plugin_sections": {
+      "General": "包含125个插件过滤器和数千个定制预置，用于模拟光学玻璃滤镜、专业镜头、电影胶片、镜头光晕、光学实验室过程、纹理、色彩校正及自然光效果。",
+      "Film_Stocks_Looks": "提供329种黑白/彩色胶片及复古摄影风格、89个电影调色预置、68种风格化色彩与黑白外观。",
+      "Lighting": "包含331个镜头光晕预设（变形、圆形、多边形等）、193种照明效果、751个图案照明效果（抽象、树叶、雪花等）。",
+      "Compositing": "提供火灾、爆炸、烟雾特效，边缘工具，颜色纠正，模糊复合，以及基于收缩、增长、模糊和包装的遮罩操作。",
+      "Keying": "支持蓝/绿幕及任意颜色抠像（zMatte keyer），具备多蒙板操作、遮罩处理、高清/标清模式、色彩校正抑制、光照控制、边缘处理及屏幕平滑功能。"
+    },
+    "additional_links": {
+      "taobao_store": "https://lookae.taobao.com/",
+      "sponsor_page": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

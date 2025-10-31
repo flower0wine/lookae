@@ -1,0 +1,36 @@
+{
+  "title": "中文汉化AE插件-精致华丽真实阴影拖尾投影插件 Shadow Studio V2 Win版 + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jing-zhi-hua-li-zhen-shi-yin-ying-tuo-wei-tou-ying-cha-jian-shadow-studio-v2-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/24 00:53",
+  "source_url": "https://www.lookae.com/shadow-studio-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Shadow Studio 2 v1.0 是在 After Effects 中模拟阴影的终极工具。3D 阴影渲染速度缓慢，而该插件基于 Alpha 通道工作，效果精致华丽，足以以假乱真。插件提供三种主要阴影模式（常规、内部和径向），支持精细控制衰减参数（不透明度、距离和柔软度），并内置 5 种风格预设以快速获得理想效果。此外，插件具备 32bpc 色彩精度、强大的质量控制选项以及 GPU 加速功能，显著优化渲染效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Shadow-Studio-2-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/284472003515.mp4"
+  ],
+  "supported_versions": "AE 2021,2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-470483117"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1WQ0-tAiphRZZJhCBmSYq0g"
+    }
+  ],
+  "other": {
+    "license_info": "如果有水印叉，请点击 Licensing (注册) – Enter License（输入序列号），输入注册码 LookAE-8557-8335，点击 OK，等待出现一个弹窗，点击确定，然后重启 AE 即可正常使用。",
+    "homepage": "https://www.plugineverything.com/shadowstudio",
+    "provides_chinese_version": true
+  }
+}

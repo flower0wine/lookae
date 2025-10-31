@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-以相同速率扩展图层属性动画 MatchRate V1.3.3 + 使用教程",
+  "slug": "aejiao-ben-yi-xiang-tong-su-lu-kuo-zhan-tu-ceng-shu-xing-dong-hua-matchrate-v1-3-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021-05-07",
+  "source_url": "https://www.lookae.com/matchrate/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "MatchRate是一个After Effects脚本，用于以相同的速率扩展图层属性的动画。通过选择关键帧获取动画速率，然后应用到其他图层或属性，实现动画的匹配扩展。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/MatchRate.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/308958918858.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6, CS5, CS4, CS3",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-495136272-e5ec65"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1rRvPSiTKSGkvOKJoMhR9OA"
+    }
+  ],
+  "other": {
+    "operation_steps": [
+      "选择两个关键帧，然后单击“Get Rate”。动画的速率将加载。",
+      "选择要更改其动画的图层（可以是同一图层）",
+      "选择所需的关键帧作为新动画的开始。",
+      "将播放头移到要扩展动画的位置。",
+      "单击“Apply Rat”，脚本以匹配的速率将新的关键帧写入图层。"
+    ],
+    "extraction_codes": {
+      "城通网盘": "6688",
+      "百度网盘": "crwk"
+    }
+  }
+}

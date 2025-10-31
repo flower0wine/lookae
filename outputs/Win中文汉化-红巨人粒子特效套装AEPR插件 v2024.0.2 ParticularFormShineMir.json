@@ -1,0 +1,67 @@
+{
+  "title": "Win中文汉化-红巨人粒子特效套装AE/PR插件 v2024.0.2 Particular/Form/Shine/Mir",
+  "slug": "winzhong-wen-yi-hua-hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-v2024-0-2-particular-form-shine-mir",
+  "author": "大众脸",
+  "post_date": "2024/04/11 14:00",
+  "source_url": "https://www.lookae.com/hjrtc18ch/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "粒子插件",
+    "精品资源",
+    "红巨人套装合集 V2024 中文版"
+  ],
+  "content": "红巨人粒子插件套装是AE软件中创建动态图形和VFX视觉效果的行业标准工具。在工作、学习和套用AE模板时，这些插件都非常重要。为便于用户快速识别插件功能及参数用途，特提供汉化中文版。该版本为一键集成安装，可自动识别软件插件目录，安装过程中可选择中文或英文语言界面。插件名称保留英文原名，建议在套用AE模板时使用英文原版以避免兼容性问题。由于技术限制，极少数参数可能未汉化，且可能存在潜在BUG。Form插件的Designer独立预设界面无法汉化，保留英文界面。本资源仅提供工具，不包含视频教程或使用教学。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/07/Trapcode-Suite-2024-ZH.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN019VxNaP1vSMt6bLT75_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN011pOA0o1vSMsxq8X6z_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404139753459.mp4"
+  ],
+  "supported_versions": "After Effects 2019/2020/2021/2022/2023/2024, Premiere Pro 2019/2020/2021/2022/2023/2024",
+  "supported_os": "Win 10, Win 11 或更高系统（不支持 Win 7 和 Mac 系统）",
+  "download_links": [
+    {
+      "name": "淘宝购买 - Win中文汉化版",
+      "url": "https://item.taobao.com/item.htm?id=678124115024"
+    },
+    {
+      "name": "Win英文版免费下载",
+      "url": "https://www.lookae.com/tc-20231/"
+    },
+    {
+      "name": "Mac英/中文版下载",
+      "url": "https://www.lookae.com/trapcode-m1zh/"
+    },
+    {
+      "name": "站内支付¥18下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fhjrtc18ch%2F"
+    }
+  ],
+  "other": {
+    "file_size_original": "983M",
+    "file_size_actual": "751M",
+    "included_plugins": [
+      "Tao",
+      "Particular",
+      "Form",
+      "Mir",
+      "Shine",
+      "Lux",
+      "3D Stroke",
+      "Echospace",
+      "Starglow",
+      "Sound Keys",
+      "Horizon"
+    ],
+    "pr_supported_plugins": [
+      "Shine",
+      "3D Stroke",
+      "Starglow"
+    ]
+  }
+}

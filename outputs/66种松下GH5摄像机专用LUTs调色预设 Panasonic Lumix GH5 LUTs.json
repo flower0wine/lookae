@@ -1,0 +1,93 @@
+{
+  "title": "66种松下GH5摄像机专用LUTs调色预设 Panasonic Lumix GH5 LUTs",
+  "slug": "66chong-song-xia-gh5she-xiang-ji-zhuan-yong-lutsdiao-se-yu-she-panasonic-lumix-gh5-luts",
+  "author": "大众脸",
+  "post_date": "2017-08-02T13:56:00Z",
+  "source_url": "https://www.lookae.com/gh5-luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "这套LUTs预设专为松下GH5摄像机设计，共包含66种不同风格的色彩效果，采用标准. cube格式，适用于多种后期软件。可实现快速、精准的颜色校正与调色，提升画面电影质感。支持多平台及主流非线性编辑软件（NLE），广泛兼容于DaVinci Resolve、Premiere Pro、After Effects、Final Cut Pro X、Photoshop等。同时提供测试素材和多种使用教程，便于用户快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/LUMIX-GH5-LUTS.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf",
+    "https://pan.baidu.com/s/1dEdBwA1"
+  ],
+  "supported_versions": "Mac/Win 兼容版本覆盖从 CS6 到 CC 2017 及以上主流软件",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-214321850"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bpCPfYJ"
+    }
+  ],
+  "other": {
+    "luts_count": 66,
+    "formats": [
+      ".cube",
+      ".vlt"
+    ],
+    "features": [
+      "10 Lumix GH5 LUTs (for VLogL, Cinelike D, Cinelike V, Natural, and Portrait)",
+      "16 Conversion LUTs (to and from VLogL)",
+      "12 Neat Video Noise Profiles",
+      "10 In Camera V-Log LUTs (.vlt)",
+      "Downloadable Footage for testing",
+      "Compatible with just about every NLE"
+    ],
+    "recommended_resources": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      },
+      {
+        "title": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "title": "自愿赞助 LookAE.com 网站",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "title": "上万种LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ],
+    "tutorial_links": [
+      "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf",
+      "https://pan.baidu.com/s/1dEdBwA1"
+    ],
+    "usage_guide": {
+      "adobe_premiere_pro": "视频特效 → Lumetri",
+      "adobe_photoshop": "Image → Adjustments → Color Lookup",
+      "adobe_after_effects": "Effects → Utility → Apply Color LUT",
+      "vegas_pro": "需下载LUTS插件",
+      "nuke": "Vectorfield",
+      "scratch": "Color Scraffolds",
+      "final_cut_pro_x": "使用 FCPX LUT Loader 插件",
+      "davinci_resolve": "直接使用或导入",
+      "magic_bullet_lut_buddy": "适用于大部分软件",
+      "fcpx_lut_tool": "FCPX可用"
+    },
+    "note": "只要软件能安装 Looks 新版调色插件，就能使用 Looks 导入 LUT"
+  }
+}

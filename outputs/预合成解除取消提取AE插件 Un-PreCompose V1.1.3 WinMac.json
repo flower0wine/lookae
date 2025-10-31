@@ -1,0 +1,40 @@
+{
+  "title": "预合成解除取消提取AE插件 Un-PreCompose V1.1.3 Win/Mac",
+  "slug": "yu-he-cheng-jie-chu-qu-xiao-ti-qu-aecha-jian-un-precompose-v1-1-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-11-09",
+  "source_url": "https://www.lookae.com/un-precompose/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PreCompose",
+    "预合成"
+  ],
+  "content": "允许您快速轻松地从嵌套合成中提取所有图层并将它们放入父合成中，同时保持所有效果和其他属性，而不会影响位置、表达式和关键帧等。特别注意：Un-Precompose 尽可能保持提取层的位置和外观，但是在某些情况下提取会导致变化。这方面的一些示例是，如果您的预合成和主合成各有一个用于 3D 场景的相机，如果您的图层上存在具有不受随机种子控制的随机化的表达式，生成 3D 效果 ro 粒子模拟的效果等。V1.1.3更新内容：修复了在预压缩名称之前导致After Effects崩溃的问题",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/11/unprecompose.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-722201082-870d98?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1pva5rwWAwe3QKS7-OLIOSA?pwd=0t7x"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/oHCH7MAti9N"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "0t7x"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "红巨人降噪磨皮美颜调色套装AE/PR/达芬奇/VEGAS插件v2023.2.0 Win Looks/Colorista/Mojo",
+  "slug": "hong-ju-ren-jiang-zao-mo-pi-mei-yan-diao-se-tao-zhuang-ae-pr-da-fen-qi-vegascha-jian-v2023-2-0-win-looks-colorista-mojo",
+  "author": "大众脸",
+  "post_date": "2023-03-30T22:08:00Z",
+  "source_url": "https://www.lookae.com/mbs-2023/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "调色插件",
+    "达芬奇插件",
+    "降噪插件"
+  ],
+  "content": "红巨人降噪磨皮美颜调色套装v2023.2.0，包含多个专业级视频处理插件，适用于After Effects、Premiere Pro、DaVinci Resolve、Vegas等主流视频编辑软件。支持ACES色彩管理，提供强大的调色、降噪、磨皮与美化功能。最新版本引入强度滑块控制，提升预设灵活性与图像精度，并优化性能与兼容性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/Magic-Bullet-Suite-2023.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404527278025.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022, 2023; Premiere Pro CC 2019, 2020, 2021, 2022, 2023; DaVinci Resolve Studio 14+; Avid Media Composer 8.2+; Vegas Pro 14+; HitFilm Pro 6.0+; Cinema 4D R23+; Unreal Engine 4",
+  "supported_os": "Windows 10 及以上",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-833739041-fc1370?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1uZczNVTeWzZpiPx5qbbjzA?pwd=hxcu"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/dWWGCpujo2r"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Colorista V 调色师5（支持Lut）",
+      "Cosmo II 润肤磨皮插件",
+      "Film 电影质感调色",
+      "Looks 调色插件（多预设、支持Lut）",
+      "Mojo II 快速调色",
+      "Denoiser III 视频降噪插件",
+      "Renoiser 噪波颗粒插件"
+    ],
+    "update_notes": {
+      "new_features": [
+        "Magic Bullet Looks Strength Slider：为每个工具添加强度控制滑块，支持自定义强度值与预设调整。",
+        "改进的解决支持包括性能优化和各种渲染问题修复。",
+        "Cloud Capsules 支持集成更简单的预设管理与未来版本交付。"
+      ],
+      "bug_fixes": [
+        "MB-6932：修复了即使已授权仍加水印的问题。",
+        "MB-6918：修复了LUT工具破坏ACES输出颜色配置文件的问题。",
+        "MB-6915：修复了与导入/导出选项相关的崩溃。",
+        "MB-6910：修复了Renoiser在调整值时渲染不一致的问题。",
+        "MB-6909：Resolve中修复阴影与高光导致双帧渲染的问题。",
+        "MB-6908：修复了Resolve渲染黑帧的问题。",
+        "MB-6858（AE）：修复Denoiser在某些值上渲染错误的问题。",
+        "MB-6859（FCP X）：修复旧版Denoiser导致库错误的问题。",
+        "MB-6858（FCP X）：修复创建动画点时崩溃的问题。",
+        "MB-6848（FCP X）：提升Denoiser Reduce Noise设置更高值时的性能。",
+        "MB-6847（FCP X）：修复打开/关闭降噪器时FCP X冻结的问题。",
+        "MB-6845：调整面板UI大小时控件不再消失/重新出现。",
+        "MB-6816（AE/Premiere Pro）：相比FCP X改进降噪效果。",
+        "MB-6757（Avid）：修复安装MBS时Avid锁定的问题。",
+        "MB-6366（Compressor）：修复通过Compressor 4.4.7导出时插件带水印的问题。"
+      ]
+    },
+    "related_links": [
+      "https://www.lookae.com/mbs-chn/",
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/resolvezy/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/vegaszy/",
+      "https://www.lookae.com/qitarjcj/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e8%b0%83%e8%89%b2%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e8%be%be%e8%8a%ac%e5%a5%87%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e9%99%8d%e5%99%aa%e6%8f%92%e4%bb%b6/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "hxcu"
+    }
+  }
+}

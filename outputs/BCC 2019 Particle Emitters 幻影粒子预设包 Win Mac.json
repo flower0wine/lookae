@@ -1,0 +1,36 @@
+{
+  "title": "BCC 2019 Particle Emitters 幻影粒子预设包 Win Mac",
+  "slug": "bcc-2019-particle-emitters-huan-ying-li-zi-yu-she-bao-win-mac",
+  "author": "大众脸",
+  "post_date": "2018-11-16",
+  "source_url": "https://www.lookae.com/particle-emitters/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "Particle Emitters",
+    "Win/Mac",
+    "幻影粒子"
+  ],
+  "content": "幻影粒子 Particle Emitters 作为 Continuum 2019 的内置高端粒子与运动图形生成器，已重新设计为 64 位应用，提供 GPU 实时预览、数千发射器预设、路径控制、mocha 自动跟踪及遮罩功能，可快速制作闪光、烟雾、烟火、爆炸等效果。使用前需先安装 Continuum 2019 插件本体。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Particle-Emitters.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Continuum 2019",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-320375901"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Tn7SI4wIyJfUgJddhzoRTw"
+    }
+  ],
+  "other": {
+    "plugin_download_adobe": "https://www.lookae.com/bcc-2019/",
+    "plugin_download_ofx": "https://www.lookae.com/bcc-ofx-2019/"
+  }
+}

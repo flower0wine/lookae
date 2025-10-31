@@ -1,0 +1,46 @@
+{
+  "title": "AE插件-抽象三维图形循环动画生成插件 Aura v1.1.0 Mac版 + 使用教程",
+  "slug": "aecha-jian-chou-xiang-san-wei-tu-xing-xun-huan-dong-hua-sheng-cheng-cha-jian-aura-v1-1-0-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/07/11 10:36",
+  "source_url": "https://www.lookae.com/aura-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "Aura是After Effects的一款新插件，可在3D空间中创建优雅的几何形状。它类似于粒子系统，但它不是在整个地方渲染小粒子，而是生成像经典Radiowaves插件一样随时间变化的矢量形状（波浪）。它可以渲染数十万个高频波，并创造出令人着迷的动画效果。v1.1.0 更新内容包括：圆点渲染模式、渐变色彩映射、渐变位置模式、许可证服务器更新。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/Aura.jpg"
+  ],
+  "video_urls": [
+    "https://aescripts.com/aura/"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "Mac插件下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-387055065"
+    },
+    {
+      "name": "Mac插件下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1j7HWpt3EOZe3FvEggc6rkQ"
+    },
+    {
+      "name": "视频教程下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-383547035"
+    },
+    {
+      "name": "视频教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/17xBymW8qBFmMaiuKaErWbA"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": {
+      "plugin": "8k0t",
+      "tutorial": "l7yv"
+    },
+    "related_resource": "https://www.lookae.com/aura/"
+  }
+}

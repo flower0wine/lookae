@@ -1,0 +1,55 @@
+{
+  "title": "Mac苹果版-红巨人降噪磨皮美颜调色套装AE/PR/达芬奇/FCPX插件v2023.2.1 Looks/Colorista/Mojo",
+  "slug": "macping-guo-ban-hong-ju-ren-jiang-zao-mo-pi-mei-yan-diao-se-tao-zhuang-ae-pr-da-fen-qi-fcpxcha-jian-v2023-2-1-looks-colorista-mojo",
+  "author": "大众脸",
+  "post_date": "2023/08/02 19:53",
+  "source_url": "https://www.lookae.com/mbs-m1/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "FCPX插件",
+    "PR插件",
+    "红巨人插件",
+    "达芬奇插件"
+  ],
+  "content": "在Magic Bullet 2023中，所有色彩工具均已更新，以充分利用ACES驱动的色彩模式，实现像素级精准调色。新版为每个工具新增强度滑块，便于更精细地控制画面效果，并更好地应用ACES处理的预设外观。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/Magic-Bullet-Suite-2023-M1.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404527278025.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2022或更高版本, Adobe Premiere Pro CC 2022或更高版本, Apple Final Cut Pro X 10.5或更高版本, Apple Motion 5.5或更高版本, Avid Media Composer 2021.x或更高版本, DaVinci Resolve 17或更高版本",
+  "supported_os": "Mac系统（支持Intel、M1、M2芯片）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-905416362-5d1eab?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17ejbsC3g2058yGMtPBOhjQ?pwd=vkfg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ceurtyayUkd"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Colorista V 调色师5（支持Lut）",
+      "Cosmo II 润肤磨皮插件",
+      "Film 电影质感调色",
+      "Looks 调色插件（多预设、支持Lut）",
+      "Mojo II 快速调色",
+      "Denoiser III 视频降噪插件",
+      "Renoiser 噪波颗粒插件"
+    ],
+    "davinci_note": "此插件不能与Mac App Store中的任何版本的DaVinci Resolve一起使用。",
+    "related_link": "https://www.lookae.com/mbs-202321/",
+    "related_title": "Win版-红巨人降噪磨皮美颜调色套装AE/PR/达芬奇/VEGAS插件v2023.2.1",
+    "access_password": "6688",
+    "baidu_extract_code": "vkfg"
+  }
+}

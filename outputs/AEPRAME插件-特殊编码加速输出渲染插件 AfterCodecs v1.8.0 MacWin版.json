@@ -1,0 +1,56 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.8.0 Mac/Win版",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-8-0-mac-winban",
+  "author": "大众脸",
+  "post_date": "2020/02/10 13:52",
+  "source_url": "https://www.lookae.com/aftercodecs-18/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Adobe Media Encoder 设计的高性能编码输出插件，支持输出 H.264、H.265 和 ProRes 等专业编码格式。相比 AE 自带的输出功能，AfterCodecs 能提供更快的渲染速度、更小的文件体积以及更优的画质表现，特别适合需要高质量视频输出的专业用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Media Encoder: 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（插件）",
+      "url": "https://tc5.us/file/680462-421709176"
+    },
+    {
+      "name": "百度网盘下载（插件）",
+      "url": "https://pan.baidu.com/s/1Pi599Cy5UNAEx1e3OJKkjA"
+    },
+    {
+      "name": "城通网盘下载（使用教程）",
+      "url": "https://tc5.us/file/680462-406407782"
+    },
+    {
+      "name": "百度网盘下载（使用教程）",
+      "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/aftercodecs/",
+    "update_notes": "1.8.0更新内容：\n- Premiere Pro：新增 AfterCodecs 面板，可从时间轴选定剪辑快速创建 MultiRender 标记，支持从 Premiere Pro 和 Media Encoder 的单一导出窗口导出所有序列，兼容 CC 2017 及以上版本。\n- After Effects：在 Windows 和 macOS 的任务栏/程序坞图标中显示渲染进度条，渲染队列任务完成后进度归零，行为与 Premiere Pro 和 AME 一致。",
+    "supported_codecs": {
+      "ProRes": [
+        "LT",
+        "Proxy",
+        "Normal",
+        "HQ",
+        "444 (支持 Alpha Channel)"
+      ],
+      "x264": "最佳 H.264/AVC 实现，优于 Adobe Media Encoder、QuickTime H264 和 AE 内置 H264",
+      "x265": "文件比 x264 小约 30%，支持 8K 分辨率",
+      "x264 RGB": "避免 YUV 色彩空间，适合高级用户存储独立通道（如 UV 贴图、Alpha 等）"
+    }
+  }
+}

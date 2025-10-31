@@ -1,0 +1,34 @@
+{
+  "title": "AE插件-节点式三维粒子特效插件 Superluminal Stardust 1.5.0a Win版 支持 AE 2020",
+  "slug": "aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-superluminal-stardust-1-5-0a-winban-zhi-chi-ae-2020",
+  "author": "大众脸",
+  "post_date": "2019/08/15 10:00",
+  "source_url": "https://www.lookae.com/stardust-15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust"
+  ],
+  "content": "Stardust 是AE软件新一代节点式的三维粒子插件（也称星辰粒子插件），独立的操控界面，功能强大，含多种预设，轻松制作出漂亮而复杂的效果，拥有：发射器，粒子，复制，力场，辅助发射器，3D模型，文字，Maks，等控制，模式也非常多。Stardust 1.5版增加了Volume工作流程，将世界着名的openVDB技术无缝集成到Stardust中，可以轻松创建Volume对象。将整个粒子系统和模型转换为体积，并使用各种工具（如布尔值，滤波器，噪波等）操纵结果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Stardust-13.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2019 CC 2018, CC 2017, CC 2015.3，2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-447886428"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1P3g86QcVN_DZ7DuHiwaClg"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "mv9w",
+    "mac_version_url": "https://www.lookae.com/mac-stardust-121/",
+    "3d_model_library_url": "https://www.lookae.com/stardust-3d-library/"
+  }
+}

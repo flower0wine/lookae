@@ -1,0 +1,40 @@
+{
+  "title": "TrapCode Suite 12.0 插件更新(MAC,WIN)(32-64Bit)",
+  "slug": "trapcode-suite-12-0-cha-jian-geng-xin-mac-win-32-64bit",
+  "author": "大众脸",
+  "post_date": "2012-08-01T09:56:00Z",
+  "source_url": "https://www.lookae.com/trapcode-suite-12-0/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "插件"
+  ],
+  "content": "TrapCode Suite 12.0 是一次重大更新，新增了三维插件 MIR。MIR 利用 OpenGL 实现快速渲染，支持实时预览，具备分形噪声、失真、纹理映射、重复几何、光照集成等 3D 功能，可生成阴影、流动有机元素、抽象景观、星云结构以及精美的灯光与深度动画。该插件适用于动作设计，为后期制作增添创意色彩。同时，Form 升级至 2.1.3，Particular 升级至 2.0.3，修复了 CS6 中输入层更新的问题；Lux 升级至 1.3.0，新增抖动功能并支持 8 位和 16 位模式；Echospace 为维护版本 1.1.2。所有插件均兼容 MAC 与 WIN 系统，支持 32 位和 64 位版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/08/MIR.jpg"
+  ],
+  "video_urls": [
+    "https://www.lookae.com/trapcode-suite-12-0/#trapcode-mir-official-video"
+  ],
+  "supported_versions": "32-bit & 64-bit",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Windows 版本",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Trapcode/TCSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac 版本",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Trapcode/TCSuite_Mac_Full.zip"
+    }
+  ],
+  "other": {
+    "note": "由于网络流量问题，网站曾无法访问，敬请谅解。",
+    "donation_link": "https://me.alipay.com/lookae",
+    "related_resources": [
+      "https://www.lookae.com/red-giant-trapcode-for-ae32bit64bit/",
+      "https://www.lookae.com/red-giant-magic-bullet-suite11-3-chs/"
+    ],
+    "license_hint": "请自觉购买正版。若经济能力有限，可参考序列号下载：http://www.ctdisk.com/file/8763964"
+  }
+}

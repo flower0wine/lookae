@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-一键批量快速控制管理所选图层 Taxon V1.1.3+使用教程",
+  "slug": "aejiao-ben-yi-jian-pi-liang-kuai-su-kong-zhi-guan-li-suo-xuan-tu-ceng-taxon-v1-1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/12/20 10:28",
+  "source_url": "https://www.lookae.com/taxon-113/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图形管理"
+  ],
+  "content": "通过控制具有共享属性的图层来管理您的合成：类型、名称、标签颜色等等！Manage your comp by controlling layers with shared attributes: Type, Name, Label Color, and more！\n\nTaxon 是一款 After Effects 脚本，可帮助用户一键批量选择和管理具备相同属性的图层。支持按图层类型、名称、属性状态（如锁定、可见性）、标签颜色、混合模式等条件进行筛选，并支持自定义组合条件。该工具极大提升了在复杂合成中对图层进行组织和操作的效率。\n\n脚本面板包含以下功能选项卡：类型、名称、属性、标签颜色、混合模式和自定义。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Taxon.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/358805978311.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-992823197-9503d3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1d0t2EtMiucxCY3VBqkHmxg?pwd=3h4e"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/KTH7iK8xcd2"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "3h4e"
+    },
+    "update_log": "– 新的选择按钮\n– 即使启用“默认操作”，操作按钮也会显示\n– 错误修复 – “名称”选择适用于默认操作"
+  }
+}

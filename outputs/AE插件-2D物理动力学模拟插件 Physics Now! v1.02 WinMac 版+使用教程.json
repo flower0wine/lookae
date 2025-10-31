@@ -1,0 +1,56 @@
+{
+  "title": "AE插件-2D物理动力学模拟插件 Physics Now! v1.02 Win/Mac 版+使用教程",
+  "slug": "aecha-jian-2dwu-li-dong-li-xue-mo-ni-cha-jian-physics-now-v1-02-win-mac-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/06/24 10:46",
+  "source_url": "https://www.lookae.com/physicsnow-102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "这是一款快速而强大的2D物理动力学模拟插件，可轻松模拟After Effects中的任何可见图层，适合制作MG图形动画，支持Win/Mac系统的After Effects CC 2019, CC 2018 ，并提供安装教程和官网视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/PhysicsNow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-384240202"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1kYko46SWdv0WV0T1NAFvPA",
+      "extra": "提取码：nld0"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      },
+      {
+        "name": "Mac 专区",
+        "url": "https://www.lookae.com/mac-osx/"
+      }
+    ],
+    "plugin_features": [
+      "将图层标记为DYNAMIC或STATIC后点击SIMULATE可在时间轴观看模拟播放，设置会随图层移动保存",
+      "形状图层多数自动分析，复杂形状可创建碰撞保持架，可实心或空心",
+      "文本图层自动分析，可保存为一个图层或拆分为单独字符，工作流程非破坏性",
+      "其他图层可提供自定义碰撞保持器定义形状，甚至可用自动跟踪完成",
+      "可动画物理属性或物理世界属性，在普通时间轴上设置动画",
+      "可利用图层输入/输出点将图层弹出或移出模拟，也能启用或禁用图层",
+      "动画图层在动画停止后物理属性接管并继承终止速度",
+      "支持ExtendScript Toolkit，为其添加2d物理模拟功能"
+    ]
+  }
+}

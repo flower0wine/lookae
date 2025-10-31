@@ -1,0 +1,52 @@
+{
+  "title": "动态遮罩制作软件+AE插件 Sfx Silhouette v5.2V15 StandAlone Win64",
+  "slug": "dong-tai-zhe-zhao-zhi-zuo-ruan-jian-aecha-jian-sfx-silhouette-v5-2v15-standalone-win64",
+  "author": "大众脸",
+  "post_date": "2015/05/18 14:47",
+  "source_url": "https://www.lookae.com/silhouette5215/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "软件"
+  ],
+  "content": "在后期的视觉特效制作中，动态遮罩制作 Sfx Silhouette v5.2.0 StandAlone 工具能带来不一样的制作体验。它拥有完整工作流程，工具包括软件版和AE插件版 ，插件支持Win系统下AE CS5 - CC 2014。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/StandAlone.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 - CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "动态遮罩制作软件+AE插件 Sfx Silhouette v5.2V15 StandAlone Win64",
+      "url": "https://www.400gb.com/file/94448489"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      },
+      {
+        "name": "其他资源",
+        "url": "https://www.lookae.com/qitarjcj/otherzy/"
+      },
+      {
+        "name": "其他辐射",
+        "url": "https://www.lookae.com/others/"
+      },
+      {
+        "name": "软件/插件",
+        "url": "https://www.lookae.com/qitarjcj/"
+      }
+    ],
+    "tool_introduction": "拥有一个完整的工作流程：剪影，对位，抠像，扭曲，变形，以及2D - 3D转换，支持立体声。stereoscopic workflow, all capabilities of Silhouette, including its award winning rotoscoping, non - destructive paint, keying, matting, warping, morphing, and 2D - 3D conversion tools are stereo enabled. Developed over the years with input by those working in the trenches, Silhouette runs like a well oiled machine. You will be up to speed with minimal effort and have the tools you need to handle the most challenging of shots. As visual effects artists ourselves, we understand your challenges and timelines. Our goal is to help you get the job done right, on time and on budget.",
+    "new_features": "– Crop Node: The Crop node crops the image and session to a user defined size. This is especially useful when you only need to work within a smaller region of a larger image as it will use less memory and process faster.\n– Edit > Duplicate Action: Duplicates a selected object at the same level in the Object List as opposed to\n– Copy/Paste which places the pasted object at the top of the Object List.\n– EXR 2.0 Multi - part Support: Silhouette now supports EXR 2.0 Multi - part files. When a multi - part file is loaded, all of the parts are loaded into the Project window.\n– Input/Output > EXR > Use Data Window as Display Window: The Input/Output > EXR > Use Data Window as Display Window preference overrides the default behavior of Silhouette automatically loading an EXR file’s Display Window. Reloading the project or media is required for this preference to be enabled.\n– Frame Step and Point Trackers: The point trackers now obey the Viewer > Frame Step.\n– Nuke Export – Inner Blur Support: Inner Blur is now supported for shapes exported to Nuke.\n– Paint: Duplicate Strokes From One View To Anothe – If a layer with a stereo offset is selected prior to duplicating, the stereo offset is taken into account when duplicating the strokes. Playback of paint strokes can now be performed forward or backward depending on whether you select the Play Selected Events Backward or Play Selected Events Forward (arrowhead) icons. Rebuild now always rebuilds in paint stroke order, not in time order.\n– Render > Slap Comp > Invert: There is now an option to invert the Slap Comp in the Render Options.\n– Scripting: For more information on the scripting features, see the Silhouette scripting guide at: http://support.silhouettefx.com/mw/index.php?title=Scripting_Guide\n– Shape > Blur Type Preference: A Shape > Blur Type preference was added to set the default blur type: Center, Inner, Outer.\n– Tweak Software > RV Integration: When a path is entered in the RV > Command preference, a “Send to RV” option appears at the bottom right of the Render window. If that is enabled, after rendering, the rendered clip will be sent to the RV playback software–if installed.",
+    "official_website": "http://www.silhouettefx.com/"
+  }
+}

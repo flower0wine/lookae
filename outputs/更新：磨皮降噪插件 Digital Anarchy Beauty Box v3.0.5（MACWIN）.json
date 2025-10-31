@@ -1,0 +1,62 @@
+{
+  "title": "更新：磨皮降噪插件 Digital Anarchy Beauty Box v3.0.5（MAC/WIN）",
+  "slug": "geng-xin-mo-pi-jiang-zao-cha-jian-digital-anarchy-beauty-box-v3-0-5-mac-win",
+  "author": "大众脸",
+  "post_date": "2013/11/25 22:22",
+  "source_url": "https://www.lookae.com/beautybox-305/",
+  "category": "aechajian",
+  "tags": [
+    "32位/64位",
+    "AE插件",
+    "Mac&Win",
+    "MAC插件",
+    "OFX",
+    "PR插件"
+  ],
+  "content": "Digital Anarchy 推出的 AE 磨皮降噪插件 Beauty Box 已更新至 v3.0.5 版本（MAC 平台）和 v3.0.4 版本（Windows 平台）。新版本优化了画面计算效率，显著提升渲染速度，支持显卡加速，最高可提升约 300%。对面部灯光处理更加精准，减少画面损伤。提供大量预设供用户选择，适用于皮肤瑕疵修饰、磨皮平滑、降噪等后期需求。适合用于影视、广告、人像精修等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/11/beautybox-305.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: CS3, CS4, CS5, CS5.5, CS6, CC\nPremiere Pro: CS4, CS5, CS5.5, CS6, CC\nAVID: 32位和64位版本\nOpenFX（OFX）系列：VEGAS（32/64位）、NUKE（32/64位）等",
+  "supported_os": "Windows & macOS",
+  "download_links": [
+    {
+      "name": "Digital Anarchy Beauty Box v3.0.5（MAC/WIN）",
+      "url": "https://www.400gb.com/file/38280756"
+    }
+  ],
+  "other": {
+    "related_articles": [
+      {
+        "title": "AE.PR磨皮降噪插件 Digital Anarchy Beauty Box v3.0.3（32&64位）",
+        "url": "https://www.lookae.com/beautybox-303/"
+      },
+      {
+        "title": "Digital Anarchy Beauty Box v2.0.4（32&64位）",
+        "url": "https://www.lookae.com/b-box-204/"
+      },
+      {
+        "title": "MB_Steady AE 1.1.1(稳定降噪)(官方不再更新)（32bit）",
+        "url": "https://www.lookae.com/noise-5he1/"
+      },
+      {
+        "title": "AE降噪极品MB Denoiser 1.0.1原版加汉化（32&64bit）",
+        "url": "https://www.lookae.com/noise-5he1/"
+      },
+      {
+        "title": "Beauty Box AE 2.0（64bit）",
+        "url": "https://www.lookae.com/noise-5he1/"
+      },
+      {
+        "title": "Revisionfx_Denoise_v2.0.2_for_AE(降噪)（32&64bit）",
+        "url": "https://www.lookae.com/noise-5he1/"
+      },
+      {
+        "title": "降噪插件Neat.Video.3.0.For.AE（32&64bit）",
+        "url": "https://www.lookae.com/noise-5he1/"
+      }
+    ],
+    "official_info_url": "http://www.digitalanarchy.com/beautyVID/main.html"
+  }
+}

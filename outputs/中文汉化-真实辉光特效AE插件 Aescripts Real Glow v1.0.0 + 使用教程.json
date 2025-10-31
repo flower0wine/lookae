@@ -1,0 +1,43 @@
+{
+  "title": "中文汉化-真实辉光特效AE插件 Aescripts Real Glow v1.0.0 + 使用教程",
+  "slug": "zhong-wen-yi-hua-zhen-shi-hui-guang-te-xiao-aecha-jian-aescripts-real-glow-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/03/13 14:31",
+  "source_url": "https://www.lookae.com/realglow/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件",
+    "AE教程"
+  ],
+  "content": "Real Glow是aescripts公司提供的一个模拟真实辉光效果的插件，与AE自带的Glow（辉光）插件效果相比更加真实有效。下载包含插件（附Z汉化）和使用教程，感谢Z汉化提供中文版本插件汉化。插件为Win版本，适用于Win系统下64位AE版本软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/03/RealGlow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win系统下64位",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/87789119"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1imYpAZEAgo6ZaZU9pa8fEg?pwd=y1sw"
+    },
+    {
+      "name": "Mac苹果版: AE插件-真实辉光特效插件 Real Glow v1.0",
+      "url": "https://www.lookae.com/mac-real-glow/"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE教程",
+      "After Effects"
+    ],
+    "插件安装与注册说明": "将RealGlow.aex拷贝到插件文件夹下，打开AE使用Real Glow插件，点击Register注册，任意输入序列号，点击Activate完成注册即可",
+    "英文简介": "Real Glow is a realistic glow generator for Adobe After Effects developed on industry proven methods and algorithms. It operates based on real world optical properties instead of a simple linear blur used in After Effect’s internal glow or other third party glow plug-ins. Ideal for glowing realistic light phenomena, sci-fi energy effects, or motion graphics."
+  }
+}

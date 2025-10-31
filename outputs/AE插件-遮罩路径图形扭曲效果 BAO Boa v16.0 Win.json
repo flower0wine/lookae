@@ -1,0 +1,70 @@
+{
+  "title": "AE插件-遮罩路径图形扭曲效果 BAO Boa v16.0 Win",
+  "slug": "aecha-jian-zhe-zhao-lu-jing-tu-xing-niu-qu-xiao-guo-bao-boa-v16-0-win",
+  "author": "大众脸",
+  "post_date": "2025-04-21T08:53:00Z",
+  "source_url": "https://www.lookae.com/bao-boa-160/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BAO Boa",
+    "路径扭曲"
+  ],
+  "content": "BAO Boa 是一款专为 After Effects 打造的插件，可实现沿遮罩路径对图层进行精确、快速的扭曲动画。支持沿任意蒙版路径扭曲、旋转与拉伸，具备完全控制路径起点、终点、比例和Z轴位置的能力。支持3D拉伸与轮廓变形，并能响应摄影机与灯光。插件为原生性能优化，渲染速度极快，适用于影视特效与动态图形制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/BAO-Boa.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/516254112449.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1499699399-416b89?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ja3I2Yp3jHi6NIv8uyn2yA?pwd=qkgk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/EH19YAs8Snd"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "中文教程 - 城通网盘",
+        "url": "https://lookae.ctfile.com/fs/680462-395367140"
+      },
+      {
+        "name": "中文教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1cvahGasOL717SFmriVcwUw"
+      }
+    ],
+    "plugin_features": [
+      "新增：使用‘与顶点匹配’进行拉伸，模拟人偶引脚效果，实现每段独立失真",
+      "可选择性取消部分区域的扭曲（如弯曲手臂但保持手部不变形）",
+      "沿任何蒙版路径扭曲任意源图层",
+      "支持沿路径旋转与扭曲",
+      "完全控制路径起点、终点、比例和Z位置",
+      "网格定义与子采样支持高质量输出",
+      "支持3D拉伸与轮廓变形",
+      "对摄影机和灯光有响应",
+      "超快渲染性能",
+      "完全原生插件，无兼容性问题"
+    ],
+    "update_notes": "v1.6.0 更新内容：修复了 OpenGL 上下文问题",
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "BAO Boa": "https://www.lookae.com/tag/bao-boa/",
+      "路径扭曲": "https://www.lookae.com/tag/%e8%b7%af%e5%be%84%e6%89%be%e6%9b%b2/"
+    }
+  }
+}

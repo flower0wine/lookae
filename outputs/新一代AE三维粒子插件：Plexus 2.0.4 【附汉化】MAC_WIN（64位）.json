@@ -1,0 +1,43 @@
+{
+  "title": "新一代AE三维粒子插件：Plexus 2.0.4 【附汉化】MAC_WIN（64位）",
+  "slug": "xin-yi-dai-aesan-wei-li-zi-cha-jian-plexus-2-0-4-fu-yi-hua-mac-win-64wei",
+  "author": "大众脸",
+  "post_date": "2012-09-11T15:13:00Z",
+  "source_url": "https://www.lookae.com/plexus2/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "插件"
+  ],
+  "content": "Plexus 2.0.4 是一款功能强大的三维粒子插件，专为 After Effects 打造。新版本在性能、渲染速度和操作体验上均有显著提升，支持 AE 摄像机与灯光系统，具备景深效果和 32 位色彩深度支持。同时兼容 Cinema 4D 的 OBJ 文件导入。该版本仅支持 After Effects CS5 及以上版本。插件安装简单，复制至 AE 插件目录即可使用。官方提供针对 Mac 与 Windows 64 位系统的版本，并附带中文汉化补丁。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/09/Plexus2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 及以上版本",
+  "supported_os": "Mac OS X, Windows (64位)",
+  "download_links": [
+    {
+      "name": "Plexus 2.0.4 Windows 64位版",
+      "url": "http://www.ctdisk.com/file/11307866"
+    },
+    {
+      "name": "Plexus 2.0.4 Mac 版本",
+      "url": "http://www.ctdisk.com/file/10666082"
+    },
+    {
+      "name": "Plexus 2.0 中文汉化插件",
+      "url": "http://www.ctdisk.com/file/9469829"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/plexus2-tutorial/",
+      "https://www.lookae.com/plexus1-4-5-32bit64bit/",
+      "https://www.lookae.com/plexus-full-tutorial/",
+      "https://www.lookae.com/unleash-your-fingers-01/",
+      "https://www.lookae.com/unleash-your-fingers-tutorial/"
+    ],
+    "note": "从 Plexus 2.0 起仅支持 CS5 及以上版本的 AE。"
+  }
+}

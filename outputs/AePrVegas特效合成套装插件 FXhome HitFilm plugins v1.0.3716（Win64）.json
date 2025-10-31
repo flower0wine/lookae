@@ -1,0 +1,42 @@
+{
+  "title": "Ae/Pr/Vegas特效合成套装插件 FXhome HitFilm plugins v1.0.3716（Win64）",
+  "slug": "ae-pr-vegaste-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-hitfilm-plugins-v1-0-3716-win64",
+  "author": "大众脸",
+  "post_date": "2015-02-07T13:18:00",
+  "source_url": "https://www.lookae.com/hitfilm3716/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "FXHOME公司推出全新HitFilm插件套装，支持After Effects、Premiere Pro、Final Cut Pro X、Motion 和 Vegas Pro。该插件集成了130种特效，涵盖效果与合成、有机粒子阵列、键控抠像、灯光与耀斑等多个领域，具备GPU加速、先进抠像技术、光效、烟火模拟、电影分级等功能。适用于Windows平台，由Team VR团队注册，支持一键安装。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/FXhome-HitFilm.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v1.0.3716",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "Ae/Pr/Vegas特效合成套装插件 FXhome HitFilm plugins v1.0.3716（Win64）",
+      "url": "https://www.400gb.com/file/84641354"
+    }
+  ],
+  "other": {
+    "demo_link": "【效果DEMO】",
+    "plugin_features": [
+      "130款插件集成",
+      "兼容After Effects, Premiere Pro, FCPX, Motion, Vegas Pro",
+      "支持GPU加速",
+      "涵盖特效合成、跟踪、调色、键控抠像、光效、烟火模拟、电影分级等",
+      "支持有机粒子系统、复杂分布控制",
+      "专业级色度键抠像与蒙版生成",
+      "可定制镜头光斑、体积光、高细节发光效果"
+    ],
+    "installation_note": "插件由Team VR团队注册，一键安装即可使用",
+    "platform_support": "仅提供Win64版本",
+    "release_date_hint": "本月底正式面向消费者"
+  }
+}

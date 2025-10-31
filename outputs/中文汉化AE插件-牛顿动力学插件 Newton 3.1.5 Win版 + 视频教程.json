@@ -1,0 +1,63 @@
+{
+  "title": "中文汉化AE插件-牛顿动力学插件 Newton 3.1.5 Win版 + 视频教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-niu-dun-dong-li-xue-cha-jian-newton-3-1-5-winban-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-08-05T17:00:00Z",
+  "source_url": "https://www.lookae.com/newton-315/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Newton 是一款专为 Adobe After Effects 设计的牛顿动力学插件，可完美模拟物理动力学属性，支持重力、碰撞、摩擦、弹跳、密度、速度等参数控制，能够制作出高度真实的效果。该插件具备全新操作界面，支持关节、吸附与排斥功能，并提供多种新动力学类型。适用于需要高精度物理模拟的动画创作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Newton-3-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50184394506.mp4?_=1"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "英文插件 - 城通网盘下载",
+      "url": "https://72k.us/file/680462-442092047"
+    },
+    {
+      "name": "英文插件 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1f8osWHFVAxQvfMAXfE4_4Q"
+    },
+    {
+      "name": "中文插件 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-456176348"
+    },
+    {
+      "name": "中文插件 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1daW0GTLE-4foJ-hVJb6IZw"
+    },
+    {
+      "name": "视频教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-296745876"
+    },
+    {
+      "name": "视频教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YiglEdOh3CCTXrr79-Cajw"
+    }
+  ],
+  "other": {
+    "newton_version": "3.1.5",
+    "plugin_features": [
+      "独立的关键帧曲线控制面板",
+      "新增车轮、气球动力学效果",
+      "快速添加墙壁",
+      "动画导出关键帧形式",
+      "新增多种物体链接方式"
+    ],
+    "official_website": "https://aescripts.com/newton/",
+    "recommended_resource": {
+      "title": "罡渡晨星Newton牛顿场插件全析系列AE教材+工程素材（国语）",
+      "url": "https://www.lookae.com/newton-ch/"
+    },
+    "additional_info": "本版本为中文汉化版，包含完整插件及配套视频教程，适合中文用户使用。"
+  }
+}

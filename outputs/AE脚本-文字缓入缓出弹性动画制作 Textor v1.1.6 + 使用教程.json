@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-文字缓入缓出弹性动画制作 Textor v1.1.6 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-huan-ru-huan-chu-dan-xing-dong-hua-zhi-zuo-textor-v1-1-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/14 00:08",
+  "source_url": "https://www.lookae.com/textor-116/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Textor 是一款用于 After Effects 的脚本，可快速实现文字层的出入动画、弹性缓冲、随机动画等效果。通过滑块控制，可在几秒钟内创建精美的文字动画，并可保存应用到任意文字图层。支持多版本 AE 系统，适用于多种工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Textor-113.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01cV1OiL1vSMdwDs69g_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50028396423.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520637507-1386fb"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1PPHX_nDyflERoooj503_mw"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/JQnJudn9Gh3"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368652026"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1etqhdHPho0L1EYj6sR5TWA"
+    }
+  ],
+  "other": {
+    "update_note": "v1.1.6 新版更新：更新了错误的脚本版本号。",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_disk_script": "uens",
+      "baidu_disk_tutorial": "rhxi"
+    },
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "ae脚本"
+    ]
+  }
+}

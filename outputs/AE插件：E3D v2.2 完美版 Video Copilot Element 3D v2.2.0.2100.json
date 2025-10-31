@@ -1,0 +1,71 @@
+{
+  "title": "AE插件：E3D v2.2 完美版 Video Copilot Element 3D v2.2.0.2100",
+  "slug": "aecha-jian-e3d-v2-2-wan-mei-ban-video-copilot-element-3d-v2-2-0-2100",
+  "author": "大众脸",
+  "post_date": "2015-06-18T22:52:00",
+  "source_url": "https://www.lookae.com/e3d22/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "E3D V2",
+    "Element 3D",
+    "Video Copilot"
+  ],
+  "content": "videocopilot 强大的AE三维模型插件 E3D V2.2终于出完美版啦，感谢国外mrstock 和 spider853 大神的注册和分享。这款插件支持在After Effects中实现高质量的3D模型渲染与动画，适用于需要高效3D合成的用户。虽然官方售价较高，但社区提供了非商业用途的学习与使用版本。更多功能等待用户发掘。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/E3D22.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2014, CC 2015",
+  "supported_os": "Windows（不支持32位系统）",
+  "download_links": [
+    {
+      "name": "E3D v2.2 更新补丁下载（城通网盘）",
+      "url": "https://www.400gb.com/file/100723406"
+    },
+    {
+      "name": "E3D v2.2 更新补丁下载（百度云）",
+      "url": "https://pan.baidu.com/s/1o6qpYNg"
+    },
+    {
+      "name": "完整安装版下载（城通网盘）",
+      "url": "https://www.400gb.com/file/100727594"
+    },
+    {
+      "name": "完整安装版下载（百度云）",
+      "url": "https://pan.baidu.com/s/1jGDyNsE"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.videocopilot.net/products/element2/",
+    "installation_notes": "Windows 用户需以管理员身份运行安装程序，并替换插件目录中的 Element.aex 文件；注册时需通过插件界面加载 ElementLicense.license 文件。",
+    "upgrade_info": "E3D v2.2 可在 v2.0 基础上覆盖升级，只需替换 .aex 文件即可。",
+    "known_issues": [
+      {
+        "error": "could not be loaded (126)",
+        "solution": "清理旧版本并重新安装插件"
+      },
+      {
+        "error": "程序崩溃",
+        "solution": "检查显卡驱动是否支持，或更新显卡驱动"
+      }
+    ],
+    "license_warning": "若已有合法授权，请勿使用破解版，以免损坏现有许可证。",
+    "backup_folders": {
+      "windows_vista_win7": "C:\\programdata\\videocopilot",
+      "windows_xp": "%AppData%\\videocopilot"
+    },
+    "credits": "mrstock, spider853",
+    "additional_resources": [
+      {
+        "name": "E3D V2 模型/材质/贴图/灯光包",
+        "url": "https://www.lookae.com/e3dv2mx/"
+      }
+    ],
+    "support_links": [
+      "https://www.lookae.com/sponsor/",
+      "https://lookae.taobao.com/"
+    ]
+  }
+}

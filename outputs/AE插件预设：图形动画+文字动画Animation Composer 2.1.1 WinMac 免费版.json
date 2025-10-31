@@ -1,0 +1,103 @@
+{
+  "title": "AE插件/预设：图形动画+文字动画Animation Composer 2.1.1 Win/Mac 免费版",
+  "slug": "aecha-jian-yu-she-tu-xing-dong-hua-wen-zi-dong-hua-animation-composer-2-1-1-win-mac-mian-fei-ban",
+  "author": "大众脸",
+  "post_date": "2016/12/07 19:27",
+  "source_url": "https://www.lookae.com/animationcomposer2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE预设",
+    "Win/Mac"
+  ],
+  "content": "Animation Composer 是由 MisterHorse（马头人大师）开发的一款优秀 After Effects 插件，专为图形动画与文字动画设计。该插件可便捷地使用数千种预设，适用于转场、特效及 MG 动画制作。插件界面简洁直观，支持直接预览每个独立效果，并能高效管理预设资源。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/AnimationComposer-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017",
+  "supported_os": "Windows, Mac OSX",
+  "download_links": [
+    {
+      "name": "Windows 版本下载（城通网盘）",
+      "url": "http://lookae.ctfile.com/fs/hjX162951689"
+    },
+    {
+      "name": "Mac OS 苹果版本下载（城通网盘）",
+      "url": "http://lookae.ctfile.com/fs/MkQ162951629"
+    },
+    {
+      "name": "Windows 版本下载（百度云网盘）",
+      "url": "https://pan.baidu.com/s/1b0SJhG"
+    },
+    {
+      "name": "Mac OS 苹果版本下载（百度云网盘）",
+      "url": "https://pan.baidu.com/s/1i5ymSPv"
+    }
+  ],
+  "other": {
+    "official_website": "https://misterhorse.tv/",
+    "notes": "分享的是免费版，包含部分预设，不含付费内容；正版价格较高且在线安装需注册。",
+    "related_resources": [
+      "https://www.lookae.com/3d-motion-presets/",
+      "https://www.lookae.com/presetpack/"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/",
+    "installation_tip": "安装后在 After Effects 的 Window（窗口）菜单中可找到插件。",
+    "version_history": {
+      "2.1.1": [
+        "Added support for paths (masks, shapes) to Keyframe Wingman",
+        "Fixed several bugs that were causing crashes when using Keyframe Wingman"
+      ],
+      "2.1.0": [
+        "Added Keyframe Wingman tool",
+        "Added option to change Precomp’s duration before inserting it",
+        "Added option to insert Precomp at playhead at its In Point or at the end of its In Transition",
+        "Added clear button to search bar",
+        "Added option to reveal freshly installed items",
+        "Fixed some minor issues"
+      ],
+      "2.0.6": [
+        "Fix an issue that caused crash when using Anchor Point tool",
+        "Fix an issue that caused the plugin to not load when After Effects was started through Adobe Premiere",
+        "Add back the possibility to search for preset with its unique code"
+      ],
+      "2.0.5": [
+        "Prevented crash in buggy AE CS6 version (“Update required” warning)",
+        "Fixed random logout issue",
+        "Fixed crash on changing Precomp duration"
+      ],
+      "2.0.4": [
+        "Added option to edit “Duration with transition” directly in UI",
+        "Fixed error occuring during inserting a new Precomp",
+        "Fixed some other minor issues"
+      ],
+      "2.0.3": [
+        "Fix Free Starter Pack download button",
+        "Fix some rare crashes"
+      ],
+      "2.0.2": [
+        "Fixed Precomp editing issue in large project files",
+        "Fixed some UI glitches in Manage Products window"
+      ],
+      "2.0.1": [
+        "Fixed crash on start",
+        "Fixed crash after login",
+        "Fixed Update button in Manage Products"
+      ],
+      "2.0.0": [
+        "Polished user interface",
+        "New type of content called “Precomps” (royalty-free titles, animated illustrations, elements, etc.)",
+        "New store for additional content",
+        "Anchor Point Mover tool",
+        "New user guide with short tutorial videos",
+        "User accounts for syncing favorites and licenses",
+        "New “Manage Products” window for downloading/updating content",
+        "Ability to apply multiple presets to one layer",
+        "More options for copying presets",
+        "New presets in “The Most Handy Presets Pack”"
+      ]
+    }
+  }
+}

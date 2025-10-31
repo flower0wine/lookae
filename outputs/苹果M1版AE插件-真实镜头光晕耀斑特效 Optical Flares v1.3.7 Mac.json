@@ -1,0 +1,68 @@
+{
+  "title": "苹果M1版AE插件-真实镜头光晕耀斑特效 Optical Flares v1.3.7 Mac",
+  "slug": "ping-guo-m1ban-aecha-jian-zhen-shi-jing-tou-guang-yun-yao-ban-te-xiao-optical-flares-v1-3-7-mac",
+  "author": "大众脸",
+  "post_date": "2022/05/21 19:31",
+  "source_url": "https://www.lookae.com/optical-flares-m1/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Optical Flares",
+    "VideoCopilot",
+    "苹果M1插件"
+  ],
+  "content": "Optical Flares 是一款专为 Adobe After Effects 打造的专业级镜头光晕与耀斑特效插件，支持真实、逼真的光效模拟。该插件具备完整的独立界面，提供多种预设效果，可直接用于动画设计中，广泛应用于影视后期、广告制作等领域。其渲染速度快，操作便捷，视觉效果绚丽，深受用户喜爱。本版本已适配苹果 M1 芯片，同时兼容 Intel 架构电脑。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Optical-Flares-M1.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274013701666.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2014 – 2022",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-582192144-533273?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qPkZyyHN2bI4MbRoAPq62A?pwd=c67h"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/MXu31pthbU6"
+    }
+  ],
+  "other": {
+    "update_note": "2022.1 更新：新增对 M1 芯片苹果电脑的支持，同时保持对 Intel 芯片电脑的兼容性。",
+    "additional_resources": [
+      {
+        "title": "中文汉化苹果版–镜头光晕耀斑AE插件 Optical Flares v1.3.7 Mac",
+        "url": "https://www.lookae.com/of137-maczh/",
+        "note": "中文版不支持 M1"
+      },
+      {
+        "title": "中文汉化Win版-镜头光晕耀斑AE插件 Optical Flares v1.3.7 Win",
+        "url": "https://www.lookae.com/of135-chn/"
+      }
+    ],
+    "preset_download_links": [
+      {
+        "name": "更多预设 - 城通网盘",
+        "url": "https://url62.ctfile.com/f/680462-527829514-e5e2c3",
+        "password": "6688"
+      },
+      {
+        "name": "更多预设 - 百度网盘",
+        "url": "https://pan.baidu.com/s/16FVnzIasUBNwQ7XzaKLlwQ",
+        "password": "y114"
+      },
+      {
+        "name": "更多预设 - 阿里云盘",
+        "url": "https://www.aliyundrive.com/s/PqvrMoGUST2"
+      }
+    ]
+  }
+}

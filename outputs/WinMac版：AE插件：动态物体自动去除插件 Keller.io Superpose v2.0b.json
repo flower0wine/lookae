@@ -1,0 +1,28 @@
+{
+  "title": "Win/Mac版：AE插件：动态物体自动去除插件 Keller.io Superpose v2.0b",
+  "slug": "win-macban-aecha-jian-dong-tai-wu-ti-zi-dong-qu-chu-cha-jian-keller-io-superpose-v2-0b",
+  "author": "大众脸",
+  "post_date": "2016-05-31",
+  "source_url": "https://www.lookae.com/superpose2b/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Keller.io Superpose 是一款高效省时的 AE 插件，可在固定机位拍摄的视频序列中自动移除动态元素（如车流、雨雪、人群）。通过逐像素统计概率计算背景值，避免传统帧平均带来的残影，适合作为清理步骤生成干净底图。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/Keller-io-Superpose-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 64位版",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win/Mac版插件包",
+      "url": "http://lookae.ctfile.com/fs/Q2w151625903"
+    }
+  ],
+  "other": {
+    "official_site": "http://www.keller.io/superpose/"
+  }
+}

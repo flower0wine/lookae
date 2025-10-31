@@ -1,0 +1,42 @@
+{
+  "title": "中文汉化AE插件-快速景深模糊插件专业版 Fast Bokeh Pro v2.0.1 Win + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-kuai-su-jing-shen-mo-hu-cha-jian-zhuan-ye-ban-fast-bokeh-pro-v2-0-1-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021-04-24 09:20",
+  "source_url": "https://www.lookae.com/fastbokeh-201/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Fast Bokeh Pro 是 After Effects 的快速景深模糊插件，通过深度贴图生成平滑的散景模糊。v2 新增自定义散景形状、区域控制，并采用 Metal/Compute 技术实现 GPU 加速，渲染快、边缘处理干净、操作简便。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/Fast-Bokeh-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/307007679505.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-493467362-4612a6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1MnvYz_Pt6XfayvhsPWLJ3Q"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "py7t"
+    },
+    "v2.0.1 更新日志": [
+      "修正高斯模式崩溃",
+      "修复 16 位色深焦点选择",
+      "轻微 UI 修复"
+    ]
+  }
+}

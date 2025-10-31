@@ -1,0 +1,61 @@
+{
+  "title": "Silhouette 2022.5.5 CE Win影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/VEGAS/OFX插件",
+  "slug": "silhouette-2022-5-5-ce-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-vegas-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2023-01-03T15:36:00Z",
+  "source_url": "https://www.lookae.com/silhouette-202255/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "ROTO跟踪",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 2022 是业界领先的 ROTO 和绘画工具，集成了用于合成的核心功能。该版本包含超过 400 个专业节点，涵盖颜色、合成、滤镜、图像、键、光、时间、色调、变换、变形和 OFX 等多个类别，并整合了 Sapphire、Mocha Pro 和 Particle Illusion 等高级插件。作为好莱坞大片的常用工具，曾广泛应用于《沙丘》、《蜘蛛侠：无路可走》、《自由人》和《曼达洛人》等影片。由视觉效果艺术家设计，荣获奥斯卡与艾美奖技术奖项，同时也是 Netflix 制作技术联盟成员。其插件 Silhouette Paint 提供专业的 32 位高动态范围绘画与跟踪能力，支持 After Effects、Premiere Pro、NUKE、Blackmagic Resolve（达芬奇）、Autodesk Flame（仅 Mac）及 Magix Vegas Pro 等主流视频编辑软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/11/Silhouette-2022.5.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/363083205749.mp4"
+  ],
+  "supported_versions": "2022.5.5 CE",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "CE一键安装版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-762536414-a69c68?p=4431"
+    },
+    {
+      "name": "CE一键安装版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1HA3d9_R8NeF3E5dW5s9zNQ?pwd=b3jt"
+    },
+    {
+      "name": "CE一键安装版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/t9VEQo2MCG4"
+    },
+    {
+      "name": "手动替换版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-757437787-d6724b?p=4431"
+    },
+    {
+      "name": "手动替换版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1_aXGOGezW1VzjyEhWOOTBA?pwd=7fh8"
+    },
+    {
+      "name": "手动替换版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7Nti2p1GTdp"
+    }
+  ],
+  "other": {
+    "new_features": [
+      "新增 Cryptomatte 支持，专为高效处理大型旋转项目设计，通过 ID 遮罩组织和传输层/形状数据。",
+      "新增 Cryptomatte 节点，可将层/形状遮罩以不同颜色显示；新增 Output Multi-Part 节点，将层和形状数据渲染至独立的 EXR 通道。",
+      "支持将 Cryptomatte 文件导入 NUKE 或 After Effects 等合成软件。",
+      "新增颜色估计节点、Power Matte 更新及 InPaint 功能增强。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/silhouette-ch/"
+    ]
+  }
+}

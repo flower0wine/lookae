@@ -1,0 +1,49 @@
+{
+  "title": "超强字幕插件：NewblueFX Titler Pro 3.0 build 140423 （多软件支持）",
+  "slug": "chao-qiang-zi-mu-cha-jian-newbluefx-titler-pro-3-0-build-140423-duo-ruan-jian-zhi-chi",
+  "author": "大众脸",
+  "post_date": "2014-04-28T00:00:00Z",
+  "source_url": "https://www.lookae.com/nbtitler3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "VEGAS插件",
+    "多软件支持",
+    "字幕插件"
+  ],
+  "content": "NewblueFX Titler Pro 3.0 是由专业插件厂商 Newblue 推出的高性能字幕插件，显著增强了对中文及中文字体的支持。该插件支持创建三维立体文字、金属质感文字、滚动文字、排版文字等多种视觉效果，并提供丰富的属性控制，包括文字大小、颜色、位置、纹理贴图、斜边等，实现高度定制化的文字设计。内置上百种预设效果，支持GPU加速与关键帧动画功能，适用于复杂文字特效制作。插件兼容多个主流视频编辑软件，涵盖 Adobe After Effects、Premiere Pro、Avid Media Composer、Grass Valley Edius 以及 Sony Vegas 等平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/NB-Titler-Pro-3.0.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects 7.0 CS3, CS4, CS5, CS5.5, CS6, CC; Premiere Elements 3.0; Premiere Pro CS5/5.5, CS6/6.5, CC; Avid Media Composer & Symphony 5, 6/6.5, 7; Edius 5/5.5, 6/6.5, 7; Sony Vegas Pro 9, 10, 11, 12 (32-bit/64-bit OpenFX/DirectX); Sony Vegas Movie Studio 9, 10, 11, 12 (32-bit/64-bit OpenFX/DirectX)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "超强字幕插件：NewblueFX Titler Pro 3.0 build 140423 （多软件支持）",
+      "url": "https://www.400gb.com/file/63523310"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/nbt2/",
+      "https://www.lookae.com/nb-totalfx/"
+    ],
+    "official_description_url": "http://newbluefx.com/products/titling/titler-pro-2.0",
+    "release_build": "140423",
+    "plugin_version": "3.0",
+    "vendor": "NewblueFX",
+    "features": [
+      "支持中文及中文字体",
+      "三维立体文字效果",
+      "金属质感文字",
+      "滚动文字与排版文字",
+      "丰富的文字属性控制",
+      "上百种预设效果",
+      "GPU加速支持",
+      "关键帧动画功能"
+    ]
+  }
+}

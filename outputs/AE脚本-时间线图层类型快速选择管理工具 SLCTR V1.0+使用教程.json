@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-时间线图层类型快速选择管理工具 SLCTR V1.0+使用教程",
+  "slug": "aejiao-ben-shi-jian-xian-tu-ceng-lei-xing-kuai-su-xuan-ze-guan-li-gong-ju-slctr-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/12/19 20:46",
+  "source_url": "https://www.lookae.com/slctr/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "SLCTR",
+    "图层管理"
+  ],
+  "content": "这是一款AE脚本-时间线图层类型快速选择管理工具 SLCTR V1.0+。使用脚本可根据播放头位置快速选择图层，还能指定选择范围内的图层类型，且有工具辅助调整误选粘贴的图层。脚本具有从图层类型范围选择全部、选择播放头前后、选择相同颜色/标签图层等特征，操作简便，布局紧凑位于时间线右侧。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Aescripts-SLCTR.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442616125503.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-992767778-ec1d4f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XoNov9A0COnAG9LSNwoDiQ?pwd=20ob"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/hBrmT3LPs1Y"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

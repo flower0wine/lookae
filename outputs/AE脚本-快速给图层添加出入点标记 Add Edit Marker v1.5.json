@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-快速给图层添加出入点标记 Add Edit Marker v1.5",
+  "slug": "aejiao-ben-kuai-su-gei-tu-ceng-tian-jia-chu-ru-dian-biao-ji-add-edit-marker-v1-5",
+  "author": "大众脸",
+  "post_date": "2021-08-14",
+  "source_url": "https://www.lookae.com/add-edit-marker/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层标记"
+  ],
+  "content": "这是一个After Effects脚本，可以在合成中所选图层的入点和出点处添加图层或合成标记，还支持分割标记功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/08/Add-Edit-Marker.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/321813676533.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2021",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-506331524-1905ca"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wQEeQKo5LLj4MV23BQmr4Q"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/i5eirmHShBw"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "raq3"
+    }
+  }
+}

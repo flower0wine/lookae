@@ -1,0 +1,68 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件Red Giant Trapcode Suite 15.1.6 Win/Mac",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-red-giant-trapcode-suite-15-1-6-win-mac",
+  "author": "大众脸",
+  "post_date": "2019-11-24T14:47:00Z",
+  "source_url": "https://www.lookae.com/trapcode-1516/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Red Giant Trapcode Suite 15.1.6 是一款功能强大的粒子特效插件套装，适用于 Adobe After Effects 和 Premiere Pro。该版本对 Particular、Form、Mir 等核心插件进行了重大更新，引入了流体动力学支持并增加了大量新预设。插件整体命名为 RG Trapcode，部分插件支持 Premiere Pro。其包含多个子插件，如 Tao（三维几何）、Particular（超炫粒子）、Form（三维空间粒子）、Mir（三维图形）、Shine（放射光）、Lux（聚光灯）、3D Stroke（3D路径描边）、Echospace（三维拖尾延迟）、Starglow（星光）和 Sound Keys（音频关键帧）等。支持 Windows 与 Mac 系统，兼容 AE CC 2014 至 2020 以及 Premiere Pro CC 2014 至 2020（部分插件支持）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Trapcode-15.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/212168328083.mp4?_=1"
+  ],
+  "supported_versions": "CC 2014, CC 2015, CC 2017, CC 2018, CC 2019, 2020",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-409107402"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1dkf3f7Anix6Nlme6K5TeUQ"
+    },
+    {
+      "name": "Win 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Win_Full_15.1.6.zip"
+    },
+    {
+      "name": "Mac 版 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-409107313"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1b8ITi3dlUhEHyDDla7MaXw"
+    },
+    {
+      "name": "Mac 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Mac_Full_15.1.6.zip"
+    },
+    {
+      "name": "Win 中文汉化版",
+      "url": "https://www.lookae.com/trapcode-ch/"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "registration_note": "一个注册号仅限局域网内一台电脑使用，否则会冲突失效。本页面提供5个序列号以解决注册冲突问题。",
+    "license_keys": [
+      "TCBK2245868172939255",
+      "TCBK2245875777348331",
+      "TCBF2005891888369252",
+      "TCBF2005849176686825",
+      "TCBF2005902179164355"
+    ],
+    "registration_method": "默认安装后，在安装界面点击 'Enter Licensing Info...' 输入序列号提交即可完成注册。若无法在程序中注册，可在 AE 中使用插件时直接注册。",
+    "additional_links": [
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

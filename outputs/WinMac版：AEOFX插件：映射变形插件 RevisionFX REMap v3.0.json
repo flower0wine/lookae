@@ -1,0 +1,68 @@
+{
+  "title": "Win/Mac版：AE/OFX插件：映射变形插件 RevisionFX RE:Map v3.0",
+  "slug": "win-macban-ae-ofxcha-jian-ying-she-bian-xing-cha-jian-revisionfx-re-map-v3-0",
+  "author": "大众脸",
+  "post_date": "2016/03/21 12:14",
+  "source_url": "https://www.lookae.com/remap/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "Win/Mac"
+  ],
+  "content": "Revisionfx REMap是一款运行在AE和OFX平台下的专业质量的贴图和扭曲工具，可实现自动漫画般扭曲。插件包内含5个插件：Map UV、Map Distort 、Map Displace、Map Planar和Map Inverse UV。支持WIN/MAC系统下Adobe After Effects CS5 -CC 2015，以及WIN平台下OFX系统。Version 3.0.0新版更新添加GPU支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/remap.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 -CC 2015",
+  "supported_os": "WIN/MAC系统，WIN平台下OFX系统",
+  "download_links": [
+    {
+      "name": "Win 版 AE插件下载",
+      "url": "http://lookae.ctfile.com/fs/ccf146200238"
+    },
+    {
+      "name": "Mac 版 AE插件下载",
+      "url": "http://lookae.ctfile.com/fs/Jrq146199743"
+    },
+    {
+      "name": "Win 版 OFX插件下载",
+      "url": "http://lookae.ctfile.com/fs/ogb146199950"
+    }
+  ],
+  "other": {
+    "serial_numbers": [
+      {
+        "Name": "lookae.com",
+        "Select": "z94eAxYvlakpuYet"
+      },
+      {
+        "Name": "Team AMPED",
+        "Select": "hpS7akMr87kpuYeF"
+      },
+      {
+        "Name": "lookae",
+        "Select": "z94eAxvWzTLJkWGZ"
+      },
+      {
+        "Name": "LOOKAE",
+        "Select": "dzTCw0vWzTLJkWGp"
+      }
+    ],
+    "related_link": [
+      {
+        "name": "Win/Mac/Linux版：RE:Vision Effects 插件大合集 – 多软件支持（2015.08）",
+        "url": "https://www.lookae.com/revisionfx201508/"
+      }
+    ],
+    "plugin_introduction": {
+      "RE:Map UV": "takes a UV Map, probably rendered from a 3D system, and renders an image using this mapping. Easily clean up texture maps and remap in post without having to go back to your 3D system for re-rendering. In addition, this plugin allows you you to come up with cool 2D and 3D animated texture map templates and reuse them over again with different image sequences.",
+      "RE:Map Inverse UV": "takes a UV Map and a color image that matches that UV Map, and inversely projects the color image to a rectangular image that may then be used to texture the UV Map with RE:Map UV, or for use as a texture map for your 3D system.",
+      "RE:Map Distort": "takes a color image and automatically distorts the image based on the features for a caricature-like effect.",
+      "RE:Map Displace": "warps an image with a user-supplied displacement map. This plugin includes many more options and advanced filtering controls than most other displacement map filters.",
+      "RE:Map Planar": "maps or inverse maps a perspective plane defined by 4 points (also known as corner pinning)."
+    },
+    "official_website": "www.revisionfx.com/products/remap/"
+  }
+}

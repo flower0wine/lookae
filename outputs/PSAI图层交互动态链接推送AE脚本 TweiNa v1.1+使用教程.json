@@ -1,0 +1,65 @@
+{
+  "title": "PS/AI图层交互动态链接推送AE脚本 TweiNa v1.1+使用教程",
+  "slug": "ps-aitu-ceng-jiao-hu-dong-tai-lian-jie-tui-song-aejiao-ben-tweina-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/03/27 14:52",
+  "source_url": "https://www.lookae.com/tweina/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "动态链接",
+    "图层交互动"
+  ],
+  "content": "无需繁琐的导入过程，即可将Illustrator和Photoshop图层推送到After Effects。TweiNa 使用 After Effects 自带的导入机制，实现高效图层传输。本文介绍了该脚本的功能特点、使用限制及优化建议，帮助用户更顺畅地在设计软件间进行动态链接操作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/TweiNa.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/403890735241.mp4"
+  ],
+  "supported_versions": "After Effects: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-832705353-d14443?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bNkLpVe7vxef86Xtp4VI8A?pwd=m31y"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/dpKRWpU4nje"
+    }
+  ],
+  "other": {
+    "illustrator_versions": "2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+    "photoshop_versions": "2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "m31y"
+    },
+    "script_features": [
+      "将任意数量的图层从 Photoshop 导入 After Effects",
+      "保持智能对象的变换，包括位置、缩放和旋转",
+      "自动裁剪导入的合成以适合内容",
+      "Photoshop 矢量图层转换为 After Effects 形状层",
+      "Photoshop 文本图层到 After Effects 可编辑文本"
+    ],
+    "constraints": [
+      "智能对象将转换为链接图层，这意味着如果链接文件丢失，它将丢失链接。",
+      "位置、缩放和旋转以外的变形方法会使图层的外观在 PS 中看起来与在 AE 中不同（透视、液化、扭曲等）",
+      "多个画板将被视为一个大组件",
+      "图层蒙版在 After Effects 中不可编辑",
+      "无法导入智能滤镜",
+      "无法导入根级别组的剪贴蒙版和图层样式"
+    ],
+    "optimization_tips": [
+      "保持层数尽可能少",
+      "将组转换为智能对象",
+      "删除AE中未使用的PS资源",
+      "对于本质上相同的不同图层，推其中一个并在 After Effects 中预编译后重复使用"
+    ]
+  }
+}

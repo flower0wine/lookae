@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-锚点中心点移动对齐工具 Move Anchor Point 4.1.0 + 使用教程",
+  "slug": "aejiao-ben-mao-dian-zhong-xin-dian-yi-dong-dui-qi-gong-ju-move-anchor-point-4-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/17 18:12",
+  "source_url": "https://www.lookae.com/point-410/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Move Anchor Point",
+    "中心点对齐"
+  ],
+  "content": "该AE脚本可以快速改变移动对齐一个或一组图层的锚点中心点，且不影响其他属性与层关键帧。重新设计后添加了更多预设，能更精确控制移动锚点位置，还可基于所选对象及整体选择移动，并能选择在构图坐标上移动。Move Anchor Point 4现已成为扩展，可通过隐藏不用部分自定义界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Move-Anchor-Point-4.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/359926945379.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-627573582-5c2495?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1gV47mOhLGIaI9nOB01m7iw?pwd=prnz"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YVQZ59nTAQM"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "下载地址更新时间": "2022/7/28",
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "prnz"
+  }
+}

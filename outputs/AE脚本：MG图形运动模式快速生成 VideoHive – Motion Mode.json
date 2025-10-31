@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：MG图形运动模式快速生成 VideoHive – Motion Mode",
+  "slug": "aejiao-ben-mgtu-xing-yun-dong-mo-shi-kuai-su-sheng-cheng-videohive-motion-mode",
+  "author": "大众脸",
+  "post_date": "2015/12/01 12:02",
+  "source_url": "https://www.lookae.com/motionmode/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本",
+    "VideoHive"
+  ],
+  "content": "Motion Mode脚本可让MG动画更易实现，选择动画层并按1次按钮，通过该脚本将生成转换，其基于插值和贝塞尔曲线算法，能在全自动模式下工作，适合创建复杂成分间动画过渡及不同字符动画循环间过渡，且具有仅1次点击创建平滑动画层间转换、简单用户UI界面等特点。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/Motion-Mode-.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：MG图形运动模式快速生成 VideoHive – Motion Mode",
+      "url": "http://lookae.ctfile.com/file/135349381"
+    },
+    {
+      "name": "全摄像机预设包下载",
+      "url": "http://www.filmconvert.com/download/Download_camera_packs.aspx"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本安装": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "淘宝店链接": "https://lookae.taobao.com/"
+  }
+}

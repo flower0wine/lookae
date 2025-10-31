@@ -1,0 +1,51 @@
+{
+  "title": "AE插件/预设：图形动画+文字动画 Animation Composer V1.6.2",
+  "slug": "aecha-jian-yu-she-tu-xing-dong-hua-wen-zi-dong-hua-animation-composer-v1-6-2",
+  "author": "大众脸",
+  "post_date": "2015-07-05T14:49:00Z",
+  "source_url": "https://www.lookae.com/animation162/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE预设"
+  ],
+  "content": "Animation Composer V1.6.2 是由马头人大师（MisterHorse）开发的 After Effects 插件，支持图形动画与文字动画的高效创作。该插件提供数千种预设效果，适用于转场、特效及MG动画制作。插件支持在 AE CS5 至 CC 2015 版本中使用，并兼容 Mac OSX 与 Windows 系统。新版更新增加了对 AE CC 2015 的支持并修复了部分 Bug。插件可直接调用预设，操作简洁且支持实时预览。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/Animation-Composer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 - CC 2015",
+  "supported_os": "Mac OSX, Windows",
+  "download_links": [
+    {
+      "name": "Windows 版本下载（网盘）",
+      "url": "https://www.400gb.com/file/104232320"
+    },
+    {
+      "name": "Mac OSX 苹果版本下载（网盘）",
+      "url": "https://www.400gb.com/file/104231207"
+    },
+    {
+      "name": "Windows 版本下载（官网）",
+      "url": "https://s3-eu-west-1.amazonaws.com/misterhorse-download/ac/AnimationComposer_1.6.2_win.zip"
+    },
+    {
+      "name": "Mac OSX 苹果版本下载（官网）",
+      "url": "https://s3-eu-west-1.amazonaws.com/misterhorse-download/ac/AnimationComposer_1.6.2_mac.zip"
+    }
+  ],
+  "other": {
+    "official_website": "http://misterhorse.tv/products/animation-composer/",
+    "related_resources": [
+      {
+        "title": "AE插件/预设：550种3D动态图形效果包 3D Motion Presets For Animation Composer",
+        "url": "https://www.lookae.com/3d-motion-presets/"
+      },
+      {
+        "title": "AE超强文字预设包（附插件和教程）Videohive 2D Text Preset Pack for Animation Composer",
+        "url": "https://www.lookae.com/presetpack/"
+      }
+    ],
+    "version_update_notes": "增加对 AE CC 2015 软件的支持，修正BUG错误"
+  }
+}

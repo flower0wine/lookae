@@ -1,0 +1,32 @@
+{
+  "title": "AE插件：镜头真实Z景深插件 Rowbyte Buena Depth Cue v2.5.2 CE",
+  "slug": "aecha-jian-jing-tou-zhen-shi-zjing-shen-cha-jian-rowbyte-buena-depth-cue-v2-5-2-ce",
+  "author": "大众脸",
+  "post_date": "2017/05/06 12:37",
+  "source_url": "https://www.lookae.com/depth252/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Buena Depth Cue 是由 Rowbyte 公司开发的一款用于在 After Effects 中模拟真实 Z 景深效果的插件。它通过创新的工作流程，帮助用户在项目中创建视觉深度，并以独特方式模拟 Z 深度，适用于处理与关键半维度相关的多种常见视觉操控需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/Depth-Cue-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202002378"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1boULeKR"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.rowbyte.com/buena-depth-cue/",
+    "notes": "插件为一键安装版，安装即可使用，无功能限制"
+  }
+}

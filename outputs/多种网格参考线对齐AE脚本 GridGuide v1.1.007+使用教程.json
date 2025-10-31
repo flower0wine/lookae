@@ -1,0 +1,41 @@
+{
+  "title": "多种网格参考线对齐AE脚本 GridGuide v1.1.007+使用教程",
+  "slug": "duo-chong-wang-ge-can-kao-xian-dui-qi-aejiao-ben-gridguide-v1-1-007-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-01-17T09:55:00Z",
+  "source_url": "https://www.lookae.com/gridguide-1106/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "GridGuide",
+    "网格参考线",
+    "网格对齐"
+  ],
+  "content": "GridGuide 是一款用于 After Effects 的脚本，可生成多种间隔和方向的网格参考线，弥补 AE 内置参考线功能的局限性。支持自动布局、可吸附的参考线与可编辑的形状图层参考线，极大提升动态设计中的排版效率。适用于 Win/Mac 系统的 After Effects CS4 至 CC 2024 版本。最新 v1.1.007 版本修复了有界网格中多余线条的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GridGuide2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS4 - CC 2024",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1008912053-3ed258?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1AQKSnYqcyb40UgUeXDEKdA?pwd=3w9v"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/CpRLAKpGPpv"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "extract_code": "3w9v",
+    "has_video_tutorial": true,
+    "update_notes": "v1.1.007 更新：修复了有界网格中不必要的额外线条的绘制"
+  }
+}

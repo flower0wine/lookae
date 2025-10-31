@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本：图层复制克隆动画特效 AEscripts Cloners+Effectors v1.2 +使用教程",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-dong-hua-te-xiao-aescripts-cloners-effectors-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/06/06 18:07",
+  "source_url": "https://www.lookae.com/clonerseffectors12/",
+  "category": "aechajian",
+  "tags": [
+    "AEj脚本",
+    "Aescaripts"
+  ],
+  "content": "AEscripts Cloners+Effectors 是一款为 After Effects 设计的程序化动画系统，特别适用于同时对多个图层进行动画处理。它允许用户通过效果器（Effectors）控制动画，而无需为每一层单独设置关键帧，极大提升了效率与灵活性。该脚本支持高度自定义，提供多种克隆和效应器类型，适合制作复杂且动态的视觉效果。官网提供完整使用视频教程，帮助用户快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Cloners-Effectors-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-294105570"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1nsN3NczHyzGZ9WInFtWv-g"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_website": "http://aescripts.com/cloners-plus-effectors/",
+    "update_notes": [
+      "新特性：路径克隆器*",
+      "新特性：路径点克隆器*",
+      "新特性：路径效应器*",
+      "新特性：路径末端效应器*",
+      "*仅适用于AE 2018及以上",
+      "更改：偏移量变化不再与偏移量相关",
+      "改变：Cloner层可以被代理",
+      "改变：只有20个克隆的试验限制被移除",
+      "错误修正：径向克隆偏移变化随机现在正确工作",
+      "错误修正：径向克隆对齐旋转现在与3D层一起工作"
+    ]
+  }
+}

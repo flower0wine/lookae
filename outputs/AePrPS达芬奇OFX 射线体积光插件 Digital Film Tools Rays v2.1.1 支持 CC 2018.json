@@ -1,0 +1,47 @@
+{
+  "title": "Ae/Pr/PS/达芬奇/OFX 射线体积光插件 Digital Film Tools Rays v2.1.1 支持 CC 2018",
+  "slug": "ae-pr-ps-da-fen-qi-ofx-she-xian-ti-ji-guang-cha-jian-digital-film-tools-rays-v2-1-1-zhi-chi-cc-2018",
+  "author": "大众脸",
+  "post_date": "2017-10-26T18:23:00Z",
+  "source_url": "https://www.lookae.com/rays-211/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CC 2018",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "达芬奇插件"
+  ],
+  "content": "Rays 是由 Digital Film Tools 公司出品的一款射线体积光插件，可快速、轻松地创建逼真的光线效果。该插件支持在多种专业视频与图像处理软件中使用，适用于生成黄昏光线、穿过树冠的光束、雾夜中的光流、文本发光等戏剧性视觉效果，增强画面的立体感与氛围感。其技术原理基于计算机图形学中的体积照明（volumetric lighting）与大气光学中的暮光射线（crepuscular rays）。官网提供完整功能说明与支持信息。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Rays.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe CC 2018 及以上版本兼容，具体支持包括：Photoshop CS5+、After Effects CS5+、Premiere Pro CS5+、Black Magic Resolve v11+、Sony Vegas v13+、The Foundry’s Nuke v8+ 等。",
+  "supported_os": "Windows (64位系统)",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-225771276"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1hrMCYGG"
+    }
+  ],
+  "other": {
+    "plugin_name": "Digital Film Tools Rays",
+    "version": "v2.1.1",
+    "developer": "Digital Film Tools",
+    "official_website": "http://www.digitalfilmtools.com/rays/",
+    "installation_note": "插件为一键安装版，安装后即可直接使用",
+    "features": [
+      "快速创建真实感光线效果",
+      "支持多种场景：森林树冠、云层穿透、夜间雾气、文本发光等",
+      "实现体积照明与第三维空间感",
+      "适用于影视后期、视觉设计、广告制作等领域"
+    ],
+    "additional_info": "插件支持多平台集成，涵盖主流非线性编辑、调色、合成及图像处理软件，是提升视觉表现力的重要工具。"
+  }
+}

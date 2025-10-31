@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-一键处理多图层运动 EditMonkey v1.0.3 + 使用教程",
+  "slug": "aejiao-ben-yi-jian-chu-li-duo-tu-ceng-yun-dong-editmonkey-v1-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/03 10:19",
+  "source_url": "https://www.lookae.com/editmonkey-103/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "EditMonkey 是一款强大的 After Effects 脚本，可一键将多个图层按设定或随机方式快速生成复杂动画。支持视频、图形素材，内置文本生成器，适用于快速制作多图层动态效果。官方版本已兼容 macOS 10.15 Catalina 系统，适用于 Win/Mac 平台的 AE CC 2019 至 CS6 各版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/editmonkey-102.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows, macOS (兼容 macOS 10.15 Catalina)",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-410973221"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1jWR5Yt6x8llRsAQ9FFnE7A"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-244110832"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bYGIJ1Fw19EPGYyDJb9Tvg"
+    }
+  ],
+  "other": {
+    "script_website": "https://aescripts.com/editmonkey/",
+    "update_note": "V1.0.3 新版更新：兼容 macOS 10.15 Catalina 系统",
+    "description": "Create complex multi-layered edits in seconds. Works with video, graphics or use the built-in text generator. The After Effects Killer Ape"
+  }
+}

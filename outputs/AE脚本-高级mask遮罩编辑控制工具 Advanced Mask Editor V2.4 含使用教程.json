@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-高级mask遮罩编辑控制工具 Advanced Mask Editor V2.4 含使用教程",
+  "slug": "aejiao-ben-gao-ji-maskzhe-zhao-bian-ji-kong-zhi-gong-ju-advanced-mask-editor-v2-4-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-08-29T14:10:00Z",
+  "source_url": "https://www.lookae.com/advanced-mask-editor-24/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层遮罩"
+  ],
+  "content": "Advanced Mask Editor 是一款专为 Adobe After Effects 设计的高级遮罩编辑控制工具，支持对Mask图形层进行路径起点设置、路径合并、镜像、旋转、弯曲等多种操作。内置50种动画预设，可显著提升遮罩制作效率。支持在 Win/Mac 系统上运行，兼容 After Effects CS6 至 CC 2025 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Advanced-Mask-Editor-.jpg",
+    "https://aescripts.com/media/catalog/product/p/r/presets_1.gif"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/532038761143.mp4"
+  ],
+  "supported_versions": "After Effects CS6 - CC 2025",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8420788271-461822?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ANihpLEMhWCbjz-IOtqkWg?pwd=cbm4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/gz4N3Xc5AKF"
+    }
+  ],
+  "other": {
+    "update_notes_v2_4": "改进了在线激活支持并优化错误提示；许可证框架更新至 v4.1.0",
+    "update_notes_v2_3": "许可更新",
+    "features": [
+      "Set First Vertex: 设置起始点",
+      "Merge: 合并",
+      "Move to Center: 移动中心点",
+      "Mirror: 镜像",
+      "Flip: 翻转",
+      "Rotate 90°: 旋转90度",
+      "Duplicate: 复制",
+      "Convert to Shape: 转换为形状",
+      "Solo Mask: 遮罩单独显示",
+      "Curvature: 弯曲",
+      "Mask Save & Load: 保存和读取",
+      "Mask FX: 遮罩特效"
+    ],
+    "presets_count": 50,
+    "tutorial_included": true
+  }
+}

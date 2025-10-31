@@ -1,0 +1,46 @@
+{
+  "title": "AE/PR插件-添加或去除RGB色彩偏移分离特效EFX Chromatic Aberration 2.0.0 Win/Mac",
+  "slug": "ae-prcha-jian-tian-jia-huo-qu-chu-rgbse-cai-pian-yi-fen-chi-te-xiao-efx-chromatic-aberration-2-0-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-09-20T23:11:00Z",
+  "source_url": "https://www.lookae.com/efx-200/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "EFX Chromatic Aberration 2.0.0 是一款专为 After Effects 和 Premiere 设计的插件，用于添加或去除 RGB 色彩偏移分离特效。该插件支持对红、绿、蓝三个通道进行独立的任意偏移调整，可实现精确控制的视觉效果。适用于需要模拟镜头色差或创造特殊艺术风格的视频制作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/EFX-Chromatic.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 及更高版本，Premiere CS6 及更高版本",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-676366723-3e1be1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1N35iJq74IeQI_W7TlTpcIA?pwd=km3a"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/HFX6LLfDL9P"
+    }
+  ],
+  "other": {
+    "additional_info": "This plugin lets you apply (or remove) the chromatic aberration effect to a layer. It allows independent adjustment of RGB channel shifts for creative color effects.",
+    "classification": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "related_tags": [
+      "AE插件",
+      "PR插件"
+    ]
+  }
+}

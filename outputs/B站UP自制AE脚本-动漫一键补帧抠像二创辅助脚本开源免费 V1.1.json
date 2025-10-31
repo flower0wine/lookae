@@ -1,0 +1,41 @@
+{
+  "title": "B站UP自制AE脚本-动漫一键补帧抠像二创辅助脚本开源免费 V1.1",
+  "slug": "bzhan-upzi-zhi-aejiao-ben-dong-man-yi-jian-bu-zheng-kou-xiang-er-chuang-fu-zhu-jiao-ben-kai-yuan-mian-fei-v1-1",
+  "author": "大众脸",
+  "post_date": "2021-05-26 12:55",
+  "source_url": "https://www.lookae.com/miaozai/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "原创脚本"
+  ],
+  "content": "专门为处理动漫打造的AE脚本！可以用于动漫抠像，动漫补帧，动漫二次创作…以及更多！剔除不需要的帧，规避掉这些帧对您创作的干扰！v1.1更新：效果不再默认使用GPU（防止部分用户绿屏BUG）。原创脚本由B站@喵哉小茶馆提供。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/miaozai.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01XH5YO51vSMnb037eN_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01knBCmX1vSMneju1WB_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://www.bilibili.com/video/BV1tp4y147uX/"
+  ],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-497276496-2e14c5"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1C1vNP0Lrh69IB8BONvzw_g"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "k1he"
+    },
+    "original_author": "B站@喵哉小茶馆",
+    "original_author_url": "https://b23.tv/sqn38i"
+  }
+}

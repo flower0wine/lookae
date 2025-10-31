@@ -1,0 +1,43 @@
+{
+  "title": "多软件支持：特效滤镜插件：NewBlue Video Essentials v3.01",
+  "slug": "duo-ruan-jian-zhi-chu-te-xiao-lu-jing-cha-jian-newblue-video-essentials-v3-01",
+  "author": "大众脸",
+  "post_date": "2012-10-19 19:17",
+  "source_url": "https://www.lookae.com/newblue-ve/",
+  "category": "aechajian",
+  "tags": [
+    "多软件支持"
+  ],
+  "content": "作为一个专业套件，Video Essentials 3包含了10个滤镜分类106个预设，能够为后期制作提供大量的简化方法和与众不同的艺术效果。Video Essentials IV提供了高端的编辑技术，包括：漂白功能（Bleach Bypass）、白天变晚上（Day for Night）、阴影、鱼眼（Fish Eye）、亮度键（Luma Key）、放大镜、反射、Skin Touch Up、幻灯片放映和时钟。（摘自凌晨两点蓝博客）",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/10/NewBlue-VE.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v3.01",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "NewBlue Video Essentials v3.01",
+      "url": "https://url62.ctfile.com/f/680462-10118990-cc382a?p=6688"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "Adobe After Effects",
+      "Adobe Premiere",
+      "Adobe Premiere Elements",
+      "Adobe Premiere Pro",
+      "Apple Final Cut Pro",
+      "Apple Final Cut Express",
+      "Avid Media Composer",
+      "Avid NewsCutter",
+      "Avid Symphony",
+      "Avid Xpress",
+      "Corel VideoStudio",
+      "Pinnacle Studio",
+      "Sony Vegas",
+      "Sony Vegas Movie Studio",
+      "Grass Valley EDIUS"
+    ]
+  }
+}

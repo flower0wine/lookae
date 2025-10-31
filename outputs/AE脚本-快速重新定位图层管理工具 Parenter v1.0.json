@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-快速重新定位图层管理工具 Parenter v1.0",
+  "slug": "aejiao-ben-kuai-su-zhong-xin-ding-wei-tu-ceng-guan-li-gong-ju-parenter-v1-0",
+  "author": "大众脸",
+  "post_date": "2023/07/21 09:44",
+  "source_url": "https://www.lookae.com/parenter/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Parenter 让你无需再手动调整位置关键帧：只需选中需要移动的图层，点击按钮即可一次性将它们重新定位，且不会影响原有的父子关系。操作简单高效，适合需要快速整理图层位置的场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/07/Parenter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/419791701002.mp4"
+  ],
+  "supported_versions": "2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-891413940-315eb5?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1FvhJhlRIVImTkUXqeygweA?pwd=n1xw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Phrcs54e4a6"
+    }
+  ],
+  "other": {
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "n1xw"
+  }
+}

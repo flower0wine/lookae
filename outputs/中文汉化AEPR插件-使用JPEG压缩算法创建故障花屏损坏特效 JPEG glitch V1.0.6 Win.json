@@ -1,0 +1,45 @@
+{
+  "title": "中文汉化AE/PR插件-使用JPEG压缩算法创建故障花屏损坏特效 JPEG glitch V1.0.6 Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-shi-yong-jpegya-suo-suan-fa-chuang-jian-gu-zhang-hua-ping-sun-pi-te-xiao-jpeg-glitch-v1-0-6-win",
+  "author": "大众脸",
+  "post_date": "2025-03-15T11:11:00Z",
+  "source_url": "https://www.lookae.com/jpeg-glitch-106/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "JPEG glitch",
+    "PR插件",
+    "中文汉化",
+    "故障干扰"
+  ],
+  "content": "JPEG glitch 插件利用 JPEG 压缩算法创建独特的故障花屏和损坏视觉效果。该插件允许用户在压缩算法的每个步骤中手动添加‘错误’或修改参数，从而生成具有控制性的故障美学。技术上，插件将每一帧作为独立图像处理，转换为 JPEG 格式，并在转换阶段注入故障元素，最终返回正常可用的图像文件，确保渲染输出兼容且稳定。适用于 After Effects 与 Premiere Pro，支持多版本，无需编程知识即可轻松使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/03/JPEG-glitch.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/451275028863.mp4"
+  ],
+  "supported_versions": "After Effects: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014\nPremiere: 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1470309805-a150df?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Qzb4HHl7WKLgk-ac4tIVrw?pwd=dz43"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/fkkpLAA5pkU"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.6 更新内容：添加了对 Premiere Pro 软件的支持；修复了小错误。",
+    "related_links": [
+      "https://www.lookae.com/jpeg-glitch-mac/"
+    ],
+    "original_description_en": "JPEG glitch plugin uses JPEG compression algorithm to create effects. You can add some “errors” in each step of the algorithm or change values manually. This manipulation creates special glitch aesthetics, which is possible only with JPEG compression algorithm. We broke JPEG for you in a very controlled way and we give you a control panel. Technically, the plugin receives each frame as a separate picture, converts it to a JPEG, and returns it in the same picture format. In the conversion stage, all magic happens, where all “errors” and glitches are added. We made it so that all “errors” and broken bytes are left at the conversion stage, so the plugin returns only “healthy” pictures, so you don’t have to worry that your rendered file will not work."
+  }
+}

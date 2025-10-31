@@ -1,0 +1,58 @@
+{
+  "title": "中文汉化AE插件-众多图片文字汇聚成自定义图形 Pastiche v2.1 Win 支持AE 2022",
+  "slug": "zhong-wen-yi-hua-aecha-jian-zhong-duo-tu-pian-wen-zi-hui-ju-cheng-zi-ding-yi-tu-xing-pastiche-v2-1-win-zhi-chi-ae-2022",
+  "author": "大众脸",
+  "post_date": "2021/11/04 19:46",
+  "source_url": "https://www.lookae.com/pastiche-21/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Pastiche 是一款功能强大的 After Effects 插件，可将大量图层元素（如图标、图形、文字、图片、Logo 等）快速汇聚成自定义的图像、文字或 Logo 样式。支持处理上百个图层，可自由调整粒子的排列方式、大小、旋转、透明度等属性。插件支持与 Newton 牛顿插件联动，实现更丰富的碰撞与汇聚动画效果，并支持图形间的动态转换（如 A-B）。v2.1 版本新增多项功能，包括点画分布、颜色应用、循环动画及新动画样式，显著提升创作灵活性与视觉表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Pastiche2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/295496486458.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘（插件）",
+      "url": "https://url62.ctfile.com/f/680462-519653776-89376a"
+    },
+    {
+      "name": "百度网盘（插件）",
+      "url": "https://pan.baidu.com/s/1G6NzQJkeTAj9OJMacpb-Og"
+    },
+    {
+      "name": "阿里云盘（插件）",
+      "url": "https://www.aliyundrive.com/s/vZk8xFJ8L9s"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://089u.com/file/680462-479295508"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1_kX9UUltV9VDNz5XHxAAiA"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "plugin_ctfile": "6688",
+      "plugin_baidu": "8ad1",
+      "tutorial_ctfile": "377826",
+      "tutorial_baidu": "a46x"
+    },
+    "features": [
+      "点画：基于亮度或 alpha 值的智能分布，支持精度调节",
+      "应用颜色：可为形状图层设置填充、描边或随机颜色",
+      "循环动画：通过使用首值自动实现动画循环",
+      "新动画样式：支持步骤移动与弹性运动插值"
+    ],
+    "notes": "压缩包内含安装说明与高清视频教程"
+  }
+}

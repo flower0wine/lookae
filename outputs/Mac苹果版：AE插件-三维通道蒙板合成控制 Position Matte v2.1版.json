@@ -1,0 +1,42 @@
+{
+  "title": "Mac苹果版：AE插件-三维通道蒙板合成控制 Position Matte v2.1版",
+  "slug": "macping-guo-ban-aecha-jian-san-wei-tong-dao-meng-ban-he-cheng-kong-zhi-position-matte-v2-1ban",
+  "author": "大众脸",
+  "post_date": "2018/12/29 22:13",
+  "source_url": "https://www.lookae.com/mac-positionmatte/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "Position Matte 插件是一个强大的合成工具，拥有多种场景模式，允许创建基于三维应用程序输出的世界位置通道（World Position Passes）的蒙版。在AE后期合成中，这意味着拥有更大的灵活性和创造性，减少所需蒙版通道数量，并大幅减少逐帧绘制（roto）工作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/Position-Matte.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/41168746.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-327992151"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1gVmcq_nZfE4IrHU-R9M87A"
+    },
+    {
+      "name": "Win 版插件下载",
+      "url": "https://www.lookae.com/position-matte-21/"
+    },
+    {
+      "name": "使用教程下载",
+      "url": "https://lookae.ctfile.com/fs/IMV171330550"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/position-matte/"
+  }
+}

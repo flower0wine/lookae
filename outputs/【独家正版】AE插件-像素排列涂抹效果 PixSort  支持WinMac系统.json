@@ -1,0 +1,61 @@
+{
+  "title": "【独家正版】AE插件-像素排列涂抹效果 PixSort 支持Win/Mac系统",
+  "slug": "du-jia-zheng-ban-aecha-jian-xiang-su-pai-lie-tu-mo-xiao-guo-pixsort-zhi-chi-win-macxi-tong",
+  "author": "大众脸",
+  "post_date": "2016-09-13 12:55",
+  "source_url": "https://www.lookae.com/pixsort/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "非常适用的一款插件，可以快速简单的在AE中制作模拟流行的像素排列涂抹效果动画。插件由官网正版购买，感谢Ariel Luna。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/PixSort.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5.5- CC2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/hf9156475675"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1pL910eB"
+    }
+  ],
+  "other": {
+    "plugin_characteristics": {
+      "threshold_biases": [
+        "Luminance",
+        "Hue",
+        "Lightness",
+        "Saturation",
+        "Red",
+        "Blue",
+        "Green",
+        "Alpha"
+      ],
+      "sorting_biases": [
+        "None",
+        "RGB Summation",
+        "RGBA Summation",
+        "Red",
+        "Blue",
+        "Green",
+        "Alpha",
+        "HSL Summation",
+        "HSLA Summation",
+        "Hue",
+        "Lightness",
+        "Saturation",
+        "Luminance",
+        "Inphase Chrominance",
+        "Quadrature Chrominance"
+      ]
+    },
+    "official_website": "https://wunkolo.itch.io/pixsort"
+  }
+}

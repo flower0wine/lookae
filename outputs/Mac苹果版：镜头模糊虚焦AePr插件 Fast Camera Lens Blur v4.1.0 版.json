@@ -1,0 +1,56 @@
+{
+  "title": "Mac苹果版：镜头模糊虚焦Ae/Pr插件 Fast Camera Lens Blur v4.1.0 版",
+  "slug": "macping-guo-ban-jing-tou-mo-hu-xu-jiao-ae-prcha-jian-fast-camera-lens-blur-v4-1-0-ban",
+  "author": "大众脸",
+  "post_date": "2019/01/27 14:40",
+  "source_url": "https://www.lookae.com/mac-lens-blur-41/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "Fast Camera Lens Blur 是一款专为 Adobe After Effects 和 Premiere Pro 设计的高性能镜头模糊插件，可模拟真实摄像机镜头模糊效果，渲染速度远超原生 'Camera Lens Blur' 效果。支持多种光圈形状（包括八边形和十二边形），并提供高精度渲染选项（自动、32位浮点、32位整数、64位双精度），有效解决小半径下增益失效的问题。同时可实现传统多层模糊叠加才能完成的辉光效果，提升视觉表现力。适用于 Mac 平台的多个版本 After Effects 与 Premiere Pro。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Fast-Camera-Lens-Blur.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50213974004.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC 2014 - CC 2019, Premiere CC 2014 - CC 2019",
+  "supported_os": "Mac OS X",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-333291012"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1CePqwx6tOLdYHap2cQwtog"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/fast-camera-lens-blur/",
+    "update_notes": [
+      "Add octagonal shape and 12-gon shape.",
+      "Add rendering precision (Auto / 32 bit float / 32 bit int / 64 bit double).",
+      "Fixed the issue where gain was ineffective at small radius.",
+      "Added legacy precision mode for backward compatibility.",
+      "Fixed image corruption issue in 32-bit compositions."
+    ],
+    "win_download_link": "https://www.lookae.com/lens-blur-41/",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/mac/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

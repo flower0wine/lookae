@@ -1,0 +1,40 @@
+{
+  "title": "AE插件-黑白圆点填充半调风格特效m's Halftone v1.5.0 Win中文汉化版",
+  "slug": "aecha-jian-hei-bai-yuan-dian-tian-chong-ban-diao-feng-ge-te-xiao-ms-halftone-v1-5-0-winzhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2021/11/30 17:38",
+  "source_url": "https://www.lookae.com/halftone-150/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文插件"
+  ],
+  "content": "插件m's Halftone是一个执行半色调处理的After Effects插件。它非常易于使用：只需将效果添加到图层而无需图层贴图。可修改填充的圆点风格，大小，旋转等。V1.5.0更新内容：与AfterEffects 2022兼容。改进了Windows版本的性能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ms-halftone-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-523256603-6631ed"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ptu5ov4Ov8vSP2Cd34R2Cw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/EQRBpaCtQkt"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ir57"
+    },
+    "alternative_version": "如果插件无法正常激活，请使用这个版本：https://www.lookae.com/halftone-148/"
+  }
+}

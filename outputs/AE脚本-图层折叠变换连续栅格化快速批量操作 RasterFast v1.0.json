@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-图层折叠变换连续栅格化快速批量操作 RasterFast v1.0",
+  "slug": "aejiao-ben-tu-ceng-zhe-die-bian-huan-lian-xu-zha-ge-hua-kuai-su-pi-liang-cao-zuo-rasterfast-v1-0",
+  "author": "大众脸",
+  "post_date": "2020/04/07 16:47",
+  "source_url": "https://www.lookae.com/rasterfast/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "RasterFast 是一款AE脚本，能够检查整个After Effects项目中的每个“连续栅格化”和“折叠变换”图层，在渲染之前单击以确保您的人物能够清晰输出（没有像素感）。脚本可以一键对整个项目或当前合成进行连续栅格化操作，支持仅对precomps或仅对Illustrator文件进行操作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/RasterFast.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020，CC 2019，CC 2018，CC 2017",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-435727270"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1xDKoaClU9rG_kRrumE87Jw"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "769j",
+    "script_features": [
+      "对整个项目连续进行栅格化",
+      "只对当前的合成进行连续栅格化",
+      "仅precomps上的复选框",
+      "仅Illustrator文件上的复选框"
+    ]
+  }
+}

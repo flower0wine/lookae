@@ -1,0 +1,59 @@
+{
+  "title": "更新：AE三维摄相机跟踪插件 CameraTracker 1.0v8（win64）支持CC",
+  "slug": "geng-xin-aesan-wei-she-xiang-ji-gen-zong-cha-jian-cameratracker-1-0v8-win64-zhi-chi-cc",
+  "author": "大众脸",
+  "post_date": "2013-12-10T16:34:00Z",
+  "source_url": "https://www.lookae.com/camera-10v8/",
+  "category": "aechajian",
+  "tags": [
+    "64位",
+    "AE插件",
+    "CameraTracker"
+  ],
+  "content": "CAMERATRACKER 是 After Effects 的三维摄相机跟踪插件，可在 After Effects 内实现三维相机轨道反求和动向匹配。通过分析实拍素材，提取原始相机的镜头参数与运动轨迹，支持在 2.5D 环境中进行精准合成，适用于创建场景内标题、插入动画素材、匹配虚拟延伸场景及运动纹理投影等应用。该技术此前仅限于 Foundry 的 NUKEX 软件，现已集成至 Adobe® After Effects®，为用户带来强大的工具体验。本版本兼容 AE CC、CS5、CS5.5、CS6，经测试可正常运行。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/12/camera-10v8.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC, CS5, CS5.5, CS6",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "CameraTracker 1.0v8（win64）",
+      "url": "https://www.400gb.com/file/42730583"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "CameraTracker 1.0v7（64Bit）（附安装说明）",
+        "url": "https://www.lookae.com/camera-10v7/"
+      },
+      {
+        "title": "CameraTracker 1.0v6（64Bit）",
+        "url": "http://www.ctdisk.com/file/15448223"
+      },
+      {
+        "title": "CameraTracker 官方教程",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "CameraTracker 1.0v2 AE CS4",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "CameraTracker 1.0v2 AE CS5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "CameraTracker 1.0v2 AE CS5.5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "The Foundry Camera Tracker 1.0v3 （64位）",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      }
+    ],
+    "official_description_url": "http://www.thefoundry.co.uk/products/cameratracker/"
+  }
+}

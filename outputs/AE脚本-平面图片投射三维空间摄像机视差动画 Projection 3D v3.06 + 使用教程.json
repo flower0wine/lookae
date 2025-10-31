@@ -1,0 +1,69 @@
+{
+  "title": "AE脚本-平面图片投射三维空间摄像机视差动画 Projection 3D v3.06 + 使用教程",
+  "slug": "aejiao-ben-ping-mian-tu-pian-tou-she-san-wei-kong-jian-she-xiang-ji-shi-chai-dong-hua-projection-3d-v3-06-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/04/05 19:34",
+  "source_url": "https://www.lookae.com/projection-306/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Projection 3D 是一款专为 After Effects 设计的高级工具，用于实现摄像机投影映射与照片视差动画。该脚本可将静态二维图像转换为具有真实三维空间感的动态摄像机动画。支持导入低精度三维OBJ文件，内置8种基础模式，并提供完整的视频使用教程。适用于多种版本的 After Effects，广泛应用于视觉特效与动态设计领域。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/Projection-3D-.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN016U0O4h1vSMlPtkE5w_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/291045219408.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-563417491-a2cf77"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/18WB8sS2Mz4hR3Wwu3OmZIQ?pwd=7z3f"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/cv5vRo1XraF"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-475195133"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17NAYd-Es5X2qeaeEsQ8iPw"
+    }
+  ],
+  "other": {
+    "description": "Advanced tool for camera projection mapping and photo parallax animation in After Effects. HOME – http://aescripts.com/projection-3d/",
+    "features_v3": [
+      "导入相机（fSpy相机匹配）",
+      "清洁边缘",
+      "新的智能旋转",
+      "表面建模器",
+      "独立对象",
+      "插入相机",
+      "相机默认视图",
+      "查看选定的",
+      "从顶点生成平面",
+      "添加场景",
+      "将相机导出到Cinema 4D",
+      "重新设计的UI"
+    ],
+    "update_v3_06": [
+      "修复‘使用辅助网格属性创建曲面’功能异常问题",
+      "移除启动时的‘创建文件夹’功能",
+      "新增导出相机缩放动画（焦距）功能"
+    ],
+    "related_tags": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ]
+  }
+}

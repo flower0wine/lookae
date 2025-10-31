@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-视频波纹编辑剪辑工具 Ripple Edit v1.1.4 Win/Mac",
+  "slug": "aejiao-ben-shi-pin-bo-wen-bian-ji-jian-ji-gong-ju-ripple-edit-v1-1-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/03/02 09:38",
+  "source_url": "https://www.lookae.com/ripple-edit-114/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本Ripple Edit为After Effects带来了一套视频剪辑编辑工具，灵感来自Premiere。该脚本可让AE实现类似PR涟漪剪辑的功能，满足删除图层、无需手动重新定位图层、修剪或扩展图层而无需花费时间在合成上移动图层等需求，是使用AE软件必备的工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Ripple-Edit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-550340772-3231a3"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1HhOJYnSkyAmavNBL5JECnQ?pwd=50c7"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/P511v1mxyNB"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-367732393"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/162QW2QAVQXXyusxiAqxZMQ"
+    }
+  ],
+  "other": {
+    "脚本密码": "城通网盘访问密码：6688，百度网盘提取码：50c7，使用教程百度网盘提取码：y9yb",
+    "v1.1.4更新内容": "修复了使用 inPoint 和 outPoint 控件时 Cntrl/Cmd 修饰符不起作用"
+  }
+}

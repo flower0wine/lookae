@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-运动图形克隆绑定脚本 Overlap 1.0.3 + 使用教程",
+  "slug": "aejiao-ben-yun-dong-tu-xing-ke-long-bang-ding-jiao-ben-overlap-1-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-08-08T15:10:00Z",
+  "source_url": "https://www.lookae.com/overlap/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Overlap 是一款适用于 After Effects 的脚本，可实现对图层或形状层中几乎任何属性的动态克隆与重叠动作，支持跟随与延展效果。其功能类似于 Cinema 4D 中的 MoGraph Cloner 工具，为 AE 用户提供强大的重复动画控制能力。用户可通过自定义控件灵活管理动画，避免冗余功能干扰创作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Overlap.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 及更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-391969871"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/16XjMqattmNqCY2Bbqe1dLw"
+    }
+  ],
+  "other": {
+    "original_post_date": "2019/08/08 15:10",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "demo_video_url": "https://aescripts.com/overlap/",
+    "featured_image_alt": "AE脚本-运动图形克隆绑定脚本 Overlap 1.0.3 + 使用教程-LookAE.com"
+  }
+}

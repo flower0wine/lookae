@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-MG图形变化动画工具 ShapeMonkey 1.03 + 视频教程",
+  "slug": "aejiao-ben-mgtu-xing-bian-hua-dong-hua-gong-ju-shapemonkey-1-03-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-12-03T10:29:00Z",
+  "source_url": "https://www.lookae.com/shapemonkey-103/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "ShapeMonkey 是一款用于 After Effects 的脚本工具，可快速生成复杂的形状层动画。支持颜色调色板（Color Swatches）配色，适用于文字与矢量图层，是制作MG动画的高效选择。该脚本在 v1.03 版本中已兼容 macOS 10.15 Catalina 系统，适用于 Windows 和 Mac 平台上的 AE CS6 至 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ShapeMonkey.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-410973220"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1SXHA8vy-5oYs2LmOr2yvtQ"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/jhy171345326"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1eHoNvQDDI3kC4mB1C-CEIg"
+    }
+  ],
+  "other": {
+    "update_note": "v1.03 新版更新：兼容 macOS 10.15 Catalina 系统",
+    "extract_code": "ppky",
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本",
+      "After Effects",
+      "MG动画",
+      "形状动画",
+      "AE脚本下载"
+    ],
+    "website": "https://www.lookae.com/",
+    "script_website": "http://aescripts.com/shapemonkey/"
+  }
+}

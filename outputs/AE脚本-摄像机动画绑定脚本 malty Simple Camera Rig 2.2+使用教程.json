@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-摄像机动画绑定脚本 malty: Simple Camera Rig 2.2+使用教程",
+  "slug": "aejiao-ben-she-xiang-ji-dong-hua-bang-ding-jiao-ben-malty-simple-camera-rig-2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/14 22:31",
+  "source_url": "https://www.lookae.com/camera-rig/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "在AE中摄像机操作是非常重要的，模拟三维空间动画的时候基本都会用摄像机动画。一般的摄像机动画操作是绑定、设置关键帧，但控制起来非常繁琐和麻烦。malty: Simple Camera Rig 脚本将绑定变得简单，能模拟出许多复杂而流畅的摄像机动画，并支持 Element 3D 插件。该工具提供一键绑定摄像机功能，帮助用户高效创建精美动画，带来全新的工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Simple-Camera-Rig.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-365501992"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1QPnXzXfi3qn3A807wwHNyQ"
+    },
+    {
+      "name": "高清视频教程下载",
+      "url": "http://lookae.ctfile.com/file/140930238"
+    }
+  ],
+  "other": {
+    "external_product_url": "https://aescripts.com/malty-simple-camera-rig/"
+  }
+}

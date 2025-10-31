@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-空物体遮罩控制工具 Mask Null V1.2+使用教程",
+  "slug": "aejiao-ben-kong-wu-ti-zhe-zhao-kong-zhi-gong-ju-mask-null-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-09T10:12:00",
+  "source_url": "https://www.lookae.com/mask-null/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "使用空图层控制蒙版，同时始终保持与空对象的实时链接。脚本特征：\n\n* 自动计算蒙版的中心并一键创建控制空值。\n* 使用空值控制蒙版的位置、比例、旋转和不透明度。\n* 通过对空值进行关键帧设置来为蒙版制作动画。\n* 连接面具后，单击一下即可解除面具的链接。\n* 只需单击一下即可创建与蒙版具有相同形式和位置的形状图层。\n* 简单且最小的用户界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Mask-Null-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/522390533853.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1513812025-81b948?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1G_z133iDGK6cUHGLbRPLXw?pwd=4eyk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/jLisdB5MhE2"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "4eyk"
+    },
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

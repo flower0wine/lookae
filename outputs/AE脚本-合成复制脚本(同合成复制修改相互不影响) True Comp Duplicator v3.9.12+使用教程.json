@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-合成复制脚本(同合成复制修改相互不影响) True Comp Duplicator v3.9.12+使用教程",
+  "slug": "aejiao-ben-he-cheng-fu-zhi-jiao-ben-tong-he-cheng-fu-zhi-xiu-gai-xiang-hu-bu-ying-xiang-true-comp-duplicator-v3-9-12-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/05/10 18:05",
+  "source_url": "https://www.lookae.com/tcd-3912/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该AE脚本用于合成复制，可解决复制同一合成时修改一个合成，其他原合成效果也会跟着修改的不便问题，能直接复制合成里面的子合成，相同合成效果不会相互影响，可独立修改不同效果。介绍了脚本适用系统及AE版本、官网地址、V3.9.12新版更新内容、脚本安装及使用方法。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/05/True-Comp-Duplicator-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-442653109"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1LRS4yA8DEk2He6kSmWNcdg",
+      "extraction_code": "05f2"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/true-comp-duplicator/",
+    "update_content": "修复unicode错误",
+    "installation_method": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_method": "打开AE软件window（窗口）菜单的下拉菜单中即可看到脚本"
+  }
+}

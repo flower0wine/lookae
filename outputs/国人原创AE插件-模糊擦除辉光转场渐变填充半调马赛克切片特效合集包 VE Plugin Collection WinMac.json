@@ -1,0 +1,111 @@
+{
+  "title": "国人原创AE插件-模糊擦除辉光转场渐变填充半调马赛克切片特效合集包 VE Plugin Collection Win/Mac",
+  "slug": "guo-ren-yuan-chuang-aecha-jian-mo-hu-ca-chu-hui-guang-zhuan-chang-jian-bian-tian-chong-ban-diao-ma-sai-ke-qie-pian-te-xiao-he-ji-bao-ve-plugin-collection-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/07/19 12:20",
+  "source_url": "https://www.lookae.com/veleap-plugin/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "veleap",
+    "国人原创"
+  ],
+  "content": "今天是来给各位小伙伴介绍一下VELeap社区自主研发的所有AE插件。到目前为止一共出品了17款，支持Win和Mac系统，所能达到的效果各不相同，接下来我来为大家一一介绍：",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/VELeap-Plug.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/kC1L2rtg9Q9"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-502659301-31a2e8"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RaQBykBoq8FEJV6xO32ELQ"
+    }
+  ],
+  "other": {
+    "official_website": "http://veleap.com/page/product_list?page=1&type=100&hot=0",
+    "plugins": [
+      {
+        "name": "VE Neon",
+        "description": "制作霓虹灯效果的After Effects插件，通过图形边缘轮廓添加多重发光效果，支持调整渲染质量。"
+      },
+      {
+        "name": "VE Linear Wipe",
+        "description": "线性擦除插件，支持Alpha、Lines、Blocks、Circles等样式，可调节角度、羽化值、形状大小，适用于转场或动画。"
+      },
+      {
+        "name": "VE Glow",
+        "description": "辉光插件，可调节阈值、大小、强度、混合模式，与VE Fast Blur结合可实现优秀转场效果。"
+      },
+      {
+        "name": "VE Fast Blur",
+        "description": "快速模糊插件，操作简单快捷。"
+      },
+      {
+        "name": "VE Displacement Map",
+        "description": "贴图置换插件，通过水平与垂直方向像素置换实现扭曲效果，支持自定义贴图层和内置样式。"
+      },
+      {
+        "name": "VE Simple Box",
+        "description": "立方体插件，一键生成立方体，可调整各面颜色、位置、旋转、折叠角度，便于制作展开组合动画。"
+      },
+      {
+        "name": "VE Transition Kit",
+        "description": "多功能转场插件，支持变形、抖动、透镜畸变、颜色等功能，可自由组合RGB色散、故障、失真等过渡效果。"
+      },
+      {
+        "name": "VE Super Pattern",
+        "description": "图案纹理插件，支持十种预设图形或使用图层内容作为图案，提供高级排列与变换参数。"
+      },
+      {
+        "name": "VE Fill",
+        "description": "颜色填充与渐变插件，支持多色渐变、混合模式等高级效果。"
+      },
+      {
+        "name": "VE Simple Cylinder",
+        "description": "3D圆柱体插件，配合3D摄像机层使用，可灵活控制圆柱体形态。"
+      },
+      {
+        "name": "VE Shape Echo",
+        "description": "图层复制与Mask遮罩插件，通过偏移复制图层制作MG动画或转场效果。"
+      },
+      {
+        "name": "VE Money Filter",
+        "description": "将画面模拟为纸币曲线勾描效果，按亮度分层并转换为不同粗细方向的曲线图案。"
+      },
+      {
+        "name": "VE Lego",
+        "description": "将画面渲染为乐高积木效果，仅需调整积木块大小即可。"
+      },
+      {
+        "name": "VE Halftone",
+        "description": "半调效果插件，提供高级参数调节，可与其他插件配合实现风格化视觉效果。"
+      },
+      {
+        "name": "VE Super Frame",
+        "description": "基于九宫格缩放技术为图层添加边框，保持角落不变，缩放其余部分。"
+      },
+      {
+        "name": "VE Super Mosaic",
+        "description": "高级马赛克插件，通过调整参数和显示样式实现风格化效果与过渡动画。"
+      },
+      {
+        "name": "VE Slicer",
+        "description": "切片效果插件，可调节角度、随机大小与偏移，支持自定义图层填充，适合制作视觉丰富的转场效果。"
+      }
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "8syq"
+    }
+  }
+}

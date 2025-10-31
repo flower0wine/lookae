@@ -1,0 +1,64 @@
+{
+  "title": "AE脚本-2D图层克隆系统 Easy Clones v2.1+使用教程",
+  "slug": "aejiao-ben-2dtu-ceng-ke-long-xi-tong-easy-clones-v2-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-04-13T11:39:00Z",
+  "source_url": "https://www.lookae.com/easy-clones-21/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Easy Clones 是一个专为 2D 图稿设计的克隆系统，支持位图图层、矢量图层、形状图层和预合成。该脚本可快速实现线性或网格布局的克隆排列，并支持对位置、缩放、旋转和不透明度添加随机性，同时具备随机颜色、可循环摆动、保持笔触宽度及内置延迟功能。尽管主要面向 2D 图稿，也兼容 3D 图层。工作原理是通过创建一个 'Clone Control Layer' 来统一控制基础属性，再由克隆图层引用此控制层，实现灵活且可控的动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/Easy-Clones.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/332147622552.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1053862528-c24b33?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WfSRpnhJuzdN6nQZyAosJg?pwd=ftsm"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/wjQZZe2erR5"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518141790-a5f89f"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1m4Q89c7mVymon-tIo0W0Ig?pwd=tt57"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/au8CV1RUivs"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "巨大的性能提升",
+      "规模限制",
+      "新增滑块和复选框控制器，用于附加属性",
+      "修复启用位置摆动时值加倍的问题",
+      "为颜色控制器添加延迟"
+    ],
+    "original_language": "English",
+    "english_description": "A cloning system built for 2D artwork, including Bitmap Layers, Vector Layers, Shape Layers and Precomps. Easy Clones creates a flexible clone system that allows you to quickly and easily apply line and grid position spacing, add randomness to position, scale, rotation and opacity properties, add random colours, loopable wiggles, maintain stroke widths and an inbuilt delay system to your animations. Although the tool is built for 2D artwork, 3D Layers are also supported.",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "ae脚本"
+    ]
+  }
+}

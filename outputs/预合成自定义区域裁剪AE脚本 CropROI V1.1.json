@@ -1,0 +1,41 @@
+{
+  "title": "预合成自定义区域裁剪AE脚本 CropROI V1.1",
+  "slug": "yu-he-cheng-zi-ding-yi-qu-yu-cai-jian-aejiao-ben-croproi-v1-1",
+  "author": "大众脸",
+  "post_date": "2022-11-14",
+  "source_url": "https://www.lookae.com/croproi/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "预合成裁剪"
+  ],
+  "content": "将预合成裁剪到感兴趣区域，而不再需要手动尝试将图层移回其原始位置。使用CropROI脚本您只需选择您的预合成图层并按下按钮，就这么简单！",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/11/CropROI-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/387414735574.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-723426355-f3b2b6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1NZ8PvzNl1tinvjxjg7gK7A?pwd=yi1n"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/R8fiFNc7uip"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "yi1n"
+    }
+  }
+}

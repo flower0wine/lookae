@@ -1,0 +1,55 @@
+{
+  "title": "AE脚本-一键快速整合简化关键帧整体控制工具 KeysBinder v1.05",
+  "slug": "aejiao-ben-yi-jian-kuai-su-zheng-he-jian-hua-guan-jian-zheng-zheng-ti-kong-zhi-gong-ju-keysbinder-v1-05",
+  "author": "大众脸",
+  "post_date": "2021-09-24 10:47",
+  "source_url": "https://www.lookae.com/keysbinder/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "关键字控制"
+  ],
+  "content": "KeysBinder允许您将复杂的动画放入一个简单的滑块中。您是否想为您的客户提供简单的动画控制工具？像你已经对颜色做的事情。但是现在有了整个动画。你只需点击几下即可更改它。KeysBinder 将键组合在一起并创建将控制该组的滑块。对于那些喜欢在项目中具有极大灵活性的人来说，这是一个完美的脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/KeysBinder-12606382.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/327515588541.mp4"
+  ],
+  "supported_versions": "AE CS5、CS5.5、CS6、CC、CC2014、CC2018、CC2019、CC2021",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-514925727-eeefb3"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1OizC7rubYm1BLlitbkhSVQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XXz25z5SNfc"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "095o"
+    },
+    "script_limitations": [
+      "控制滑块可能只包含 0 到 100 的 2 个键",
+      "不能从已绑定的属性中添加或删除键，只能更改键的值",
+      "该脚本不适用于具有表达式的属性"
+    ],
+    "script_features": [
+      "适用于所有语言版本",
+      "使用起来非常简单",
+      "适用于任何属性（位置、颜色、蒙版等）",
+      "可以根据需要对任意数量的键进行分组，没有限制",
+      "创建一个复选框可以停用脚本的所有效果",
+      "该脚本不会减慢项目的速度",
+      "买家无需购买脚本，项目可以在没有 KeysBinder 的情况下工作"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.7.8 Win版",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-7-8-winban",
+  "author": "大众脸",
+  "post_date": "2020-02-06T17:54:00Z",
+  "source_url": "https://www.lookae.com/aftercodecs-178/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Media Encoder 设计的第三方编码输出插件，支持在 Windows 系统上高效输出 H264、H265 与 ProRes 等多种视频编码格式。相比 AE 内置导出功能，该插件可显著提升渲染速度，同时生成体积更小、画质更优的视频文件。适用于需要高效率处理特殊编码需求的专业用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nPremiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nMedia Encoder: 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-421060033"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1mwzQV5FQT8DtIIiRGL-Arw"
+    }
+  ],
+  "other": {
+    "plugin_intro": "Native exporter for AE bringing you ProRes on Windows and h264 (x264 and x265) codecs for excellent quality and lightweight videos.\nhttp://aescripts.com/aftercodecs/",
+    "supported_codecs": [
+      "ProRes: LT / Proxy / Normal / HQ and even 444 that supports Alpha Channel",
+      "x264: best H264/AVC implementation, outperforming both Adobe Media Encoder, QuickTime H264 and AE’s built-in H264",
+      "x265: files are 30% lighter than x264 and it also supports 8K resolution",
+      "x264 RGB: same as x264 but avoids YUV colorspace, best for storing separate channels in one video (UV map, Alphas…) for power users only"
+    ],
+    "update_notes": [
+      "罕见的HAP空视频错误修复，发生于8分辨率中的非倍数和高CPU内核",
+      "崩溃修复"
+    ],
+    "installation_path": "C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore",
+    "registration_keys": {
+      "After Effects": [
+        "AUKACAE\\*Look\\*AE\\*888888888888888SUL8",
+        "DSTAC\\*Look\\*AE\\*888888888888888SUL8"
+      ],
+      "Premiere PRO": [
+        "AUKACPP\\*Look\\*AE\\*888888888888888SUL8",
+        "DSTACPP\\*Look\\*AE\\*888888888888888SUL8"
+      ],
+      "Media Encoder": [
+        "AUKACME\\*Look\\*AE\\*888888888888888SUL8",
+        "DSTACME\\*Look\\*AE\\*888888888888888SUL8"
+      ]
+    },
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://tc5.us/file/680462-406407782"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+      }
+    ]
+  }
+}

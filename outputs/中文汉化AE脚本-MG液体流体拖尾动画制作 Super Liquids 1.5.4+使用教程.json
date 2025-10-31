@@ -1,0 +1,64 @@
+{
+  "title": "中文汉化AE脚本-MG液体流体拖尾动画制作 Super Liquids 1.5.4+使用教程",
+  "slug": "zhong-wen-yi-hua-aejiao-ben-mgye-ti-liu-ti-tuo-wei-dong-hua-zhi-zuo-super-liquids-1-5-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/19 10:55",
+  "source_url": "https://www.lookae.com/super-liquids-154/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "中文汉化",
+    "墨忆江南汉化"
+  ],
+  "content": "Super Liquids 是一款可在 After Effects 中创建帧动画风格液体拖尾效果的脚本。支持静态与动态对象（如图形、文字标题），所有拖尾效果均由形状图层生成，支持属性修改与形状修改器。适用于各类项目，可轻松自定义液体动画，实现流畅的视觉表现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Super-Liquids.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "英文版+教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-467521648"
+    },
+    {
+      "name": "英文版+教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1_035HfcvI1I1jqoKxy3WZg"
+    },
+    {
+      "name": "中文版脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-625635009-036775?p=4431"
+    },
+    {
+      "name": "中文版脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/16dMJXfPLWd0k1VYaNl4S4g?pwd=v0xh"
+    },
+    {
+      "name": "中文版脚本 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/HVX6X7bVh7p"
+    }
+  ],
+  "other": {
+    "script_features": [
+      "适用于静态和动态对象",
+      "支持水平和垂直方向",
+      "可添加自定义液体",
+      "全部由形状图层创建",
+      "支持形状修改器"
+    ],
+    "update_notes_v1_5_4": [
+      "修复创建预设时出错问题",
+      "修复应用预设问题",
+      "修复默认路径问题",
+      "兼容 macOS Catalina 系统",
+      "修复从单个移动对象生成且未选择自定义粒子时的表达式错误"
+    ],
+    "home_url": "https://aescripts.com/super-liquids/",
+    "extract_codes": {
+      "baidu_pan_en": "avrd",
+      "baidu_pan_zh": "v0xh",
+      "ctfile_password": "6688"
+    }
+  }
+}

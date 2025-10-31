@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-工程项目清理整理组织分类管理 Declutter v1.0 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-gong-cheng-xiang-mu-qing-li-zheng-li-zu-zhi-fen-lei-guan-li-declutter-v1-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/09/30 17:24",
+  "source_url": "https://www.lookae.com/declutter/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Declutter 是一个 After Effects 扩展，用于将项目资产自动组织到预定义的文件夹结构中。用户可自定义创建多个文件夹结构，支持按资产类型（如合成、预合成、音频、视频、图像、序列、数据文件等）进行分类管理。支持在几秒钟内整理数千个资产，具备高度可定制性与易用性。使用前建议先减少项目并启用脚本访问权限，若需恢复原始结构，可通过撤销操作实现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/Declutter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/280785988709.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-463130517"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1LsUkHSfPi3qScXjpKHFKIQ"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_link": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+    "homepage_url": "https://aescripts.com/declutter/",
+    "asset_types_supported": [
+      "合成",
+      "预合成",
+      "基于前缀的构图",
+      "音频文件",
+      "影片档案",
+      "图片文件",
+      "图像序列",
+      "数据文件",
+      "纯色层",
+      "扩展名（如 .png 或 .c4d 文件）"
+    ],
+    "usage_tips": [
+      "在选择文件夹结构的同时按 Shift 键仅创建文件夹。",
+      "使用 Declutter 前请先执行‘减少项目’操作以提升性能。",
+      "确保在首选项中启用了‘允许脚本写入文件和访问网络’。",
+      "Declutter 会覆盖当前文件夹结构，可通过撤消（Ctrl/Cmd + Z）恢复原状。"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-根据说话自动对口型动画 lipsyncr V2.7 + 使用教程",
+  "slug": "aejiao-ben-gen-ju-shuo-hua-zi-dong-dui-kou-xing-dong-hua-lipsyncr-v2-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-11-09T15:14:00Z",
+  "source_url": "https://www.lookae.com/lipsyncr-27/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "lipsyncr 是一款用于 Adobe After Effects 的自动化对口型动画脚本，可根据音频自动生成高质量的嘴型动画。支持英语语音分析，具备三种不同精度的 viseme 映射：4个插图（低质量）、7个插图（中等质量）、10个插图（高质量）。用户可创建模板合成，替换图像并导入语音轨道及转录文本，由脚本完成嘴型同步。当前版本仅支持英语语音分析，其他语言需使用手动模式。该脚本适用于多种 AE 版本，并支持 Win/Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/lipsyncr-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-406763654"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1t7GnivMRM5I3NHUd0xzUAQ"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "支持远程网络用户",
+      "改进的特殊字符处理",
+      "支持兼容 macOS Catalina 10.15"
+    ],
+    "installation_note": "安装脚本后首次运行会提示安装约10MB的附加文件，请务必完成安装以确保功能正常。"
+  }
+}

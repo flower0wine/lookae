@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-文字书写动画生成器 CuttanaNir v1.1 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-shu-xie-dong-hua-sheng-cheng-qi-cuttananir-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/10/15 00:46",
+  "source_url": "https://www.lookae.com/cuttananir/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "用于创建写入动画的工具包，它包含创建精确书写动画所需的所有工具！Toolkit for creating write-on animations",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/CuttanaNir.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/330582264217.mp4"
+  ],
+  "supported_versions": "After Effects 2021, 2020",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-517667516-7f90ee"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1vPWWdy13pxGuHbAR4iiedg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/HuVkmLFwT14"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "geit"
+    },
+    "script_features": {
+      "文本到形状": "将文本分成必要的形状，一次显示一个，以模拟书写效果",
+      "切割和切片路径": "横截面可分为水平或垂直形状，通过选择路径上的点来切割路径",
+      "形状之路": "将具有多个路径的图层分成具有一个路径的多个图层",
+      "创作动画": "通过选择起点和终点自动创建动画，使用路径修剪表达式和滑块控制关键帧",
+      "基于字母的顺序层": "根据图层名称对图层进行排序"
+    }
+  }
+}

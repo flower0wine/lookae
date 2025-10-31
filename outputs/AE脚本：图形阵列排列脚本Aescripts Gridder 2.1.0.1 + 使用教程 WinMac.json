@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本：图形阵列排列脚本Aescripts Gridder 2.1.0.1 + 使用教程 Win/Mac",
+  "slug": "aejiao-ben-tu-xing-zhen-lie-pai-lie-jiao-ben-aescripts-gridder-2-1-0-1-shi-yong-jiao-cheng-win-mac",
+  "author": "大众脸",
+  "post_date": "2017-12-25T10:39:00Z",
+  "source_url": "https://www.lookae.com/gridder2/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts Gridder 2.1.0.1 是一款用于 Adobe After Effects 的脚本，可将图层以多种方式（如矩形、三维、圆形或螺旋）进行自定义阵列排列。支持设置数量、行列间距等参数，提升动画排版效率。适用于 Windows 和 Mac 系统的 After Effects CC 2014 至 CC 2018 版本。脚本通过扩展菜单调用，内含安装与使用教程，包含视频指导。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/Gridder-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-232254406"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1o8UlNM6"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "text": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "text": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "text": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      },
+      {
+        "text": "Aescaripts",
+        "url": "https://www.lookae.com/tag/aescaripts/"
+      },
+      {
+        "text": "AE脚本",
+        "url": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      },
+      {
+        "text": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "text": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "script_demo_url": "https://aescripts.com/gridder/"
+  }
+}

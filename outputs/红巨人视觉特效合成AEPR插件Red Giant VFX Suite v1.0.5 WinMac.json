@@ -1,0 +1,66 @@
+{
+  "title": "红巨人视觉特效合成AE/PR插件Red Giant VFX Suite v1.0.5 Win/Mac",
+  "slug": "hong-ju-ren-shi-jue-te-xiao-he-cheng-ae-prcha-jian-red-giant-vfx-suite-v1-0-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2019-12-06T17:00:00Z",
+  "source_url": "https://www.lookae.com/vfx-105/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "红巨人公司推出一套全新的视频特效合成插件，VFX Suite 是 Effects Suite 与 Keying Suite 插件包的合体，集成了光工厂、辉光、抠像、跟踪等多种实用特效功能。该插件适用于 Adobe After Effects 及 Premiere Pro，支持多个版本，并在 1.0.5 版本中更新以兼容 Red Giant Application（RGA）管理程序。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/VFX-Suite.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2018 – CC 2019, 2020；Adobe Premiere Pro CC 2018 – CC 2019, 2020（部分插件支持）",
+  "supported_os": "Windows / Mac",
+  "download_links": [
+    {
+      "name": "Win插件下载",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/vfx/archive/VFXSuite_Win_Full_1.0.5.zip"
+    },
+    {
+      "name": "Mac插件下载",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/vfx/archive/VFXSuite_Mac_Full_1.0.5.zip"
+    },
+    {
+      "name": "视频教程下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-385102287"
+    },
+    {
+      "name": "视频教程下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1gMJuNxgWJBbalScTiHiUFQ"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Chromatic Displacement - 色差置换插件",
+      "Knoll Light Factory - 光工厂镜头光晕插件",
+      "King Pin Tracker - 平面跟踪插件",
+      "Optical Glow - 智能辉光插件",
+      "Primatte Keyer - 专业抠像插件",
+      "Shadow - 投影插件",
+      "Reflection - 反射插件",
+      "Spot Clone Tracker - 物体移除替换克隆跟踪插件",
+      "Supercomp - 超强特效合成插件"
+    ],
+    "update_notes": "更新以支持1.0.6版本的RGA（Red Giant Application），即红巨人新的插件管理程序。",
+    "activation_method": "先安装插件程序，点击左下角蓝色的 Activate，取消登录 Red Giant Application Manager，然后选择 Enter Serial Number 输入序列号完成注册。",
+    "serial_numbers": {
+      "Chromatic Displacement": "VXBF1575880378218299",
+      "King Pin Tracker": "VKPF1505910585082579",
+      "Knoll Light Factory": "KLPF3989222681789065",
+      "Optical Glow": "VOGF1595830396520891",
+      "Primatte Keyer": "VP6F1585909270728158",
+      "Reflection": "VXXF1545921787095659",
+      "Shadow": "VSHF1525831092422292",
+      "Spot Clone Tracker": "VXAF1535866988923613",
+      "Supercomp": "VXCF1575894268749950"
+    },
+    "extract_code": "v9u7"
+  }
+}

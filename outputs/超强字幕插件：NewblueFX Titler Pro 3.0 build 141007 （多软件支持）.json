@@ -1,0 +1,37 @@
+{
+  "title": "超强字幕插件：NewblueFX Titler Pro 3.0 build 141007 （多软件支持）",
+  "slug": "chao-qiang-zi-mu-cha-jian-newbluefx-titler-pro-3-0-build-141007-duo-ruan-jian-zhi-chi",
+  "author": "大众脸",
+  "post_date": "2014-10-14",
+  "source_url": "https://www.lookae.com/nbtitler141007/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "NewBlueFX",
+    "PR插件",
+    "VEGAS插件",
+    "win64"
+  ],
+  "content": "Newblue Titler Pro v3.0 是一款专业字幕插件，显著优化了中文及中文字体支持。可快速制作三维立体文字、金属质感文字、滚动文字、排版文字等特效，并提供大小、颜色、位置、纹理贴图、斜边等完整参数控制。内置上百种预设效果，支持 GPU 加速与文字关键帧动画，为视频字幕提供一站式解决方案。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/NB-Titler-Pro-3.0.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects 7.0–CC / Premiere Pro CS5–CC / Avid Media Composer & Symphony 5–7 / Edius 5–7 / Sony Vegas Pro 9–12 / Vegas Movie Studio 9–12",
+  "supported_os": "Windows（x64）",
+  "download_links": [
+    {
+      "name": "主程序+注册补丁（160 MB）",
+      "url": "https://www.400gb.com/file/75652270"
+    }
+  ],
+  "other": {
+    "官方介绍": "http://newbluefx.com/products/titling/titler-pro-2.0",
+    "相关资源": [
+      "Mac版本：Newblue Titler Pro v2.0（支持FCPX/AE/PR/AVID）",
+      "NewBlue 全系列插件套装：Total FX v3.0.20130913"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "中文汉化AE插件-动态线条路径描边绘制生长动画 Volna V2.1.0 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-dong-tai-xian-tiao-lu-jing-miao-bian-hui-zhi-sheng-chang-dong-hua-volna-v2-1-0-win",
+  "author": "大众脸",
+  "post_date": "2022/06/16 20:27",
+  "source_url": "https://www.lookae.com/volna-210/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Volna",
+    "中文汉化"
+  ],
+  "content": "Volna 是一款高级笔画插件，支持使用蒙版绘制动态线条路径描边，可实现生长动画效果。通过一到两个蒙版混合生成多笔触新形状，支持渐变填充、柏林噪声或正弦函数扭曲，笔触粗细可通过坡度控制调节，支持线型或点型笔触，并可添加参数化箭头。内置大量随机控制功能，便于打造独特视觉风格。适用于 After Effects 2022 至 CC 2017 版本，兼容 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/volna-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334216310237.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-598337578-fb1644?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1IOCQ5l-nA6-TOTDayT77Jw?pwd=imjx"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/8UZXL2qUsG4"
+    }
+  ],
+  "other": {
+    "update_notes": "V2.1 更新内容：添加了噪音循环、斜坡贝塞尔插值模式、索引噪声模式。",
+    "related_tags": [
+      "AE插件",
+      "Volna",
+      "中文汉化"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "中文AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.22 Win/Mac",
+  "slug": "zhong-wen-aejiao-ben-er-wei-ren-wu-jiao-se-gu-ge-bang-ding-mgdong-hua-jiao-ben-duik-bassel-2-v16-2-22-win-mac",
+  "author": "大众脸",
+  "post_date": "2020-11-25T11:41:00",
+  "source_url": "https://www.lookae.com/duik-16222/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Duik这是最良心的一款的动力学和动画工具。不但功能强大，且它开源，它免费，免费的使用。动画的基本工具包含：反向动力学、骨骼变形器、动态效果、自动骨骼绑定，IK，图形学等。有了这个脚本创建动画变得更加容易和简单了！它提供了可在任何3D软件（如IK，控制器和骨骼）中找到的主要装配工具，但可将它们适应After Effects中的2D动画。使用Duik，您可以装配复杂的角色并使用3D软件中通常使用的高级动画技术。如果您不知道装配的含义，则可能是因为使用这些工具还为时过早。Duik还拥有许多动画工具 -管理关键帧和插值，传统动画，动画曝光等-以及诸如摆动，弹簧，摆动，滚轮等自动化功能，可让您更快，更轻松地进行动画处理。Duik还具有其他一些有用的工具，例如摄影机控件，这些工具不仅与动画相关，而且对于动画师和装配工都非常有用。Duik的全面性和易用性使其成为了全球众多电影中使用的脚本。更关键的是，这个工具是多语言的，现在你只需要在设置中将语言切换成中文，那么，你就能看到你熟悉的语系，更加方便的使用这个工具！\n\nIt provides the main rigging tools, found in any 3D software, like IK, controllers, and bones, but adapts them to 2D animation in After Effects. With Duik you can rig complex characters and use advanced animation techniques usually used in 3D softwares.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Duik-Bassel-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/242972619880.mp4"
+  ],
+  "supported_versions": "After Effects CC 2018-2020或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载 (脚本)",
+      "url": "https://089u.com/file/680462-472730125"
+    },
+    {
+      "name": "百度网盘下载 (脚本)",
+      "url": "https://pan.baidu.com/s/1JQKKF-5t7S6z5UxyAW8TGA"
+    },
+    {
+      "name": "城通网盘下载 (教程)",
+      "url": "https://089u.com/file/680462-450137231"
+    },
+    {
+      "name": "百度网盘下载 (教程)",
+      "url": "https://pan.baidu.com/s/1pLL9FIGMEM2-sVAW6wybhg"
+    }
+  ],
+  "other": {
+    "official_website": "https://rainboxlab.org/tools/duik/",
+    "baidu_download_code_script": "kj6e",
+    "baidu_download_code_tutorial": "rzs0",
+    "update_log": "**更新：**\n更新了一些翻译：Español，Français，中文, русский\n在表达式之间和之间自动切换的工具。thisCompcomp(“Name”)\n将KLEANER的性能提高了20-25％。\n增加健全性检查\n\n**修正：**\n修复了无法通过File/Scripts/Run Script File菜单项正确启动Duik的错误。\n修复了某些特定情况下帮助面板的尺寸过小的问题。不幸的是由于AE脚本API中的某些限制和错误，我们无法从以前的版本中恢复可调整大小的行为。\n从右侧或底部边缘调用时，弹出窗口不再显示在屏幕外部。\n修复了某些定位器已进行装配/设置动画且没有默认表达时的控制器提取的问题。\n修复了CS6上未显示的其他面板。\n修复了Duik cmd中的命令列表被立即隐藏的问题。\n修复了全新安装时settingsFile是undefined错误。\n修复了在短时间后隐藏其他面板（弹出窗口）的问题。\n修复了第134XX行的对象无效错误。\n现在，即使选择了单个图层，2D多平面相机也可以正确创建控制器。\n修复了KLEANER的非空间多维属性（例如比例）的问题。"
+  }
+}

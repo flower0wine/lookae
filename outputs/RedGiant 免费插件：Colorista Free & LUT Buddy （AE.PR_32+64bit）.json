@@ -1,0 +1,48 @@
+{
+  "title": "RedGiant 免费插件：Colorista Free & LUT Buddy （AE.PR_32+64bit）",
+  "slug": "redgiant-mian-fei-cha-jian-colorista-free-lut-buddy-ae-pr-32-64bit",
+  "author": "大众脸",
+  "post_date": "2012/09/20 14:24",
+  "source_url": "https://www.lookae.com/rge2/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "Premiere",
+    "插件"
+  ],
+  "content": "这是红巨人（Red Giant）提供的两款免费插件：Magic Bullet Colorista Free 1.0 是一款简化版的调色工具，适用于 After Effects、Final Cut Pro 和 Premiere Pro，支持行业标准的 Color Decision List (CDL)，便于在不同兼容系统间共享调色数据；Magic Bullet LUT Buddy 1.0 是一款专业 LUT（Look Up Table）生成工具，可在主流剪辑与调色软件中创建 LUT，并用于高端调色系统或硬件设备进行色彩预览与共享，有效连接桌面应用与专业调色流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/09/RGE2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS3-CS6",
+  "supported_os": "MAC & WIN",
+  "download_links": [
+    {
+      "name": "Magic Bullet Colorista Free 1.0 （免费调色大师）",
+      "url": "http://www.ctdisk.com/file/9546613"
+    },
+    {
+      "name": "Magic Bullet LUT Buddy 1.0 （色彩共享系统）",
+      "url": "http://www.ctdisk.com/file/9546615"
+    },
+    {
+      "name": "LUT Buddy 色彩共享系统 使用教程",
+      "url": "http://www.ctdisk.com/file/9704099"
+    }
+  ],
+  "other": {
+    "host_applications": [
+      "After Effects",
+      "Premiere Pro",
+      "Final Cut Pro",
+      "Motion"
+    ],
+    "colorista_features": [
+      "3-Way color wheels",
+      "numeric sliders",
+      "CDL support"
+    ],
+    "lut_buddy_usage": "LUT 可加载至 Apple Color、FilmLight Baselight、DaVinci Resolve 等系统，亦支持 Panasonic 或 Sony 显示设备硬件预览"
+  }
+}

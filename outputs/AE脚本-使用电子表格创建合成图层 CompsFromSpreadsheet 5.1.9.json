@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-使用电子表格创建合成图层 CompsFromSpreadsheet 5.1.9",
+  "slug": "aejiao-ben-shi-yong-dian-zi-biao-ge-chuang-jian-he-cheng-tu-ceng-compsfromspreadsheet-5-1-9",
+  "author": "大众脸",
+  "post_date": "2022/04/20 11:09",
+  "source_url": "https://www.lookae.com/compsfromspreadsheet-519/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "CompsFromSpreadsheet",
+    "电子表格"
+  ],
+  "content": "脚本可以简单快速的根据电子表格来生成After Effects合成，还可以通过脚本替换合成中的文字内容：如增加文字层，替换合成中原图层等操作。CompsFromSpreadsheet 允许您快速生成 After Effects 合成的副本，使用用于插入文本和替换图层的电子表格中的数据更新新合成。该脚本已被 NBC、HBO、迪士尼和其他数千家公司使用。CompsFromSpreadsheet allows you to quickly generate copies of your After Effects compositions, updating the new comps with data from a spreadsheet used to insert text and replace layers.The script has been used by NBC, HBO, Disney and thousands of others.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/CompsFromSpreadsheet.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355558608781.mp4"
+  ],
+  "supported_versions": "AE 2021、2020、CC 2019、CC 2018、CC 2017、CC 2015.3、CC 2015、CC 2014",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-571785466-2e7768"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Kepwmf4S4q4xKWMSVJi96g?pwd=5rmy"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/NyzVRoV5XXF"
+    }
+  ],
+  "other": {
+    "update_info": "5.1.9更新内容：修复了从文件菜单运行时导致脚本失败的错误；更新的许可代码",
+    "download_notes": {
+      "城通网盘": "访问密码：6688",
+      "百度网盘": "提取码：5rmy"
+    }
+  }
+}

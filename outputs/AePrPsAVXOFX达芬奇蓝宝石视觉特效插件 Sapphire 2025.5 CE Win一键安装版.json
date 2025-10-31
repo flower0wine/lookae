@@ -1,0 +1,88 @@
+{
+  "title": "Ae/Pr/Ps/AVX/OFX/达芬奇蓝宝石视觉特效插件 Sapphire 2025.5 CE Win一键安装版",
+  "slug": "ae-pr-ps-avx-ofx-da-fen-qi-lan-bao-shi-shi-jue-te-xiao-cha-jian-sapphire-2025-5-ce-winyi-jian-an-zhuang-ban",
+  "author": "大众脸",
+  "post_date": "2025-05-08T16:28:00Z",
+  "source_url": "https://www.lookae.com/sapphire-20255/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Sapphire",
+    "蓝宝石插件",
+    "达芬奇插件"
+  ],
+  "content": "Sapphire 2025.5 CE 是一款功能强大的视觉特效插件，支持 After Effects、Premiere Pro、Photoshop、DaVinci Resolve、Fusion Studio、VEGAS Pro、Nuke 和 Avid Media Composer 等主流视频制作软件。该版本提供超过 270 种效果和 3000 多个预设，集成奥斯卡获奖的 Mocha 跟踪与遮罩系统，具备卓越的图像质量、控制精度与渲染速度，显著提升创作效率。适用于创建自然逼真的视觉效果，广泛用于影视后期制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/Sapphire-2025.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/435811159933.mp4"
+  ],
+  "supported_versions": "After Effects 2022-2025, Premiere Pro 2022-2025, Photoshop 2022-2025, DaVinci Resolve 17-19, Fusion Studio 18-19, VEGAS Pro 21-22, Nuke 14-15, Avid Media Composer 2021-2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1503945290-aa78c9?p=4431"
+    },
+    {
+      "name": "AE/PR插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/16t-7R8GoIPEUALwAHGs0kw?pwd=htus"
+    },
+    {
+      "name": "AE/PR插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/fPBJmPSoCh8"
+    },
+    {
+      "name": "OFX版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1503945725-0986ea?p=4431"
+    },
+    {
+      "name": "OFX版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1FlcdQjRsC8_vtFefRPRojg?pwd=qkye"
+    },
+    {
+      "name": "OFX版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/3RNsyUcw35Y"
+    },
+    {
+      "name": "PS 版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1503945440-fa0830?p=4431"
+    },
+    {
+      "name": "PS 版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13lUZwrPn2Bktx6ZuuRpOUQ?pwd=ahpr"
+    },
+    {
+      "name": "PS 版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/SzE3ymw3rUt"
+    },
+    {
+      "name": "AVID插件 - 城通云盘",
+      "url": "https://url70.ctfile.com/f/2827370-1503944645-9c363a?p=4431"
+    },
+    {
+      "name": "AVID插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1UTA4CBP7-3iasnfCqmNeiQ?pwd=ud4b"
+    },
+    {
+      "name": "AVID插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/eufeUGh68GS"
+    }
+  ],
+  "other": {
+    "new_version_features": [
+      "提高了 Media Composer 中 Sapphire 的对话框稳定性。",
+      "改进了使用不可见字符串参数的效果稳定性（尤其在 Nuke 中），影响效果包括：S_Effect、S_Transition、S_Glare、S_Flashbulbs、S_NightSky、S_PrismLens、S_LensFlare、S_LensFlareAutoTrack、S_DissolveLensFlare、S_DissolveGlare、S_DissolveFlashbulb。",
+      "S_OCIOTransform：升级包含 S_OCIOTransform 的项目时，修复了关于 OCIO 配置位置的警告。",
+      "防止一次弹出多个对话框。",
+      "增加了对 AVX 的 Apple Silicon 支持。",
+      "提高了 macOS 12 上下采样效果的稳定性。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/sapphire-2024-mac/"
+    ],
+    "note": "达芬奇用户请下载 OFX 版插件"
+  }
+}

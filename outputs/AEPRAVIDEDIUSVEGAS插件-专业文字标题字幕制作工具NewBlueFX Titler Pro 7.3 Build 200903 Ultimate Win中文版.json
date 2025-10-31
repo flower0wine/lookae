@@ -1,0 +1,54 @@
+{
+  "title": "AE/PR/AVID/EDIUS/VEGAS插件-专业文字标题字幕制作工具NewBlueFX Titler Pro 7.3 Build 200903 Ultimate Win中文版",
+  "slug": "ae-pr-avid-edius-vegascha-jian-zhuan-ye-wen-zi-biao-ti-zi-mu-zhi-zuo-gong-ju-newbluefx-titler-pro-7-3-build-200903-ultimate-winzhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2020-09-08T11:43:00Z",
+  "source_url": "https://www.lookae.com/titler-pro-73/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "NewBlueFX Titler Pro 7.3 是一款专为 Adobe After Effects、Premiere、Avid Media Composer、EDIUS 及 VEGAS Pro 设计的专业文字标题与字幕制作工具。该工具提供独立界面和专业时间线，支持多种分辨率（包括4K/5K）的人名字幕条模板，可直接拖拽使用或导入EPS/PSD文件自定义修改。内置超过500种新设计模板，支持实时与后期图形集成，兼容Titler Live解决方案，实现跨平台无缝工作流。适用于多版本软件环境，具备智能功能如对象跟随、风格断裂、循环资产等，显著提升字幕创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Titler-Pro-7.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/244637316918.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 及更高版本, Adobe Premiere CC 及更高版本, NewBlue Titler Pro 2+, Avid Media Composer & Symphony 6+, Grass Valley EDIUS 7/8/9, Magix VEGAS Pro 10+, VEGAS Movie Studio",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-460619684"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1oEN1W4yRs_UeUxCqo4C6Dw"
+    }
+  ],
+  "other": {
+    "release_date": "2020/09/08 11:43",
+    "software_version": "7.3 Build 200903 Ultimate",
+    "language": "中文版",
+    "installation_instructions": [
+      "安装NewBlueTitlerPro7Ultimate.exe插件程序",
+      "复制Titler和Common文件夹到以下目录：C:\\Program Files\\NewBlueFX",
+      "完成安装，可使用（无水印）",
+      "中文版切换方法：将路径 C:\\Program Files\\NewBlueFX\\Titler\\Resources\\Translations 中的 titler_cn 文件重命名为 titler_zh"
+    ],
+    "features": [
+      "性能提升：新引擎、改进时间表灵活性、简化多标题管理",
+      "新增智能功能：积分、对象跟随、风格断裂、循环资产",
+      "500+ 新增设计模板",
+      "支持实时与后期集成图形，兼容Titler Live解决方案",
+      "支持4K&5K分辨率人名字幕条信息框，可拖拽使用或自定义导入"
+    ],
+    "official_website": "https://www.newbluefx.com/products/titling/titler-pro/",
+    "download_password": "7jjb"
+  }
+}

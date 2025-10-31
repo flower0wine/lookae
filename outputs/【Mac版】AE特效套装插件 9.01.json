@@ -1,0 +1,36 @@
+{
+  "title": "【Mac版】AE特效套装插件 9.01",
+  "slug": "macban-aete-xiao-tao-zhuang-cha-jian-9-01",
+  "author": "大众脸",
+  "post_date": "2014-05-20 11:29",
+  "source_url": "https://www.lookae.com/macbcc9/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac版"
+  ],
+  "content": "Boris Continuum Complete v9.0.1 AE for MacOSX，为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持Open GL 和双 CPU加速。拥有超过200种特效效果（上千种特效预设）：字幕（3D字幕），3D粒子，光线，镜头光晕，烟雾，火等等，还有调色，键控/抠像，遮罩，发光等等一系列风格化工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/BCC9MAC.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "MacOSX",
+  "download_links": [
+    {
+      "name": "【Mac版】AE特效套装插件：BorisFX Boris Continuum Complete 9.01",
+      "url": "https://www.400gb.com/file/64919828"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.borisfx.com/Continuum-Complete/BCC9.php",
+    "new_features": [
+      "操作界面更直观，效率更高",
+      "新加入30种转场特效",
+      "支持Open GL和CUDA显卡加速，运算更快"
+    ],
+    "related_resources": {
+      "win_version": "https://www.lookae.com/bcc901/"
+    }
+  }
+}

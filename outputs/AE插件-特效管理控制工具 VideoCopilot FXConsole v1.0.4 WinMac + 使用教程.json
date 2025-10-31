@@ -1,0 +1,38 @@
+{
+  "title": "AE插件-特效管理控制工具 VideoCopilot FXConsole v1.0.4 Win/Mac + 使用教程",
+  "slug": "aecha-jian-te-xiao-guan-li-kong-zhi-gong-ju-videocopilot-fxconsole-v1-0-4-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/28 11:14",
+  "source_url": "https://www.lookae.com/fxconsole-104/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AK大神",
+    "VideoCopilot",
+    "Win/Mac"
+  ],
+  "content": "VideoCopilot 网站出品了一款强大的 After Effects 特效管理控制工具插件，完全免费。该插件支持通过快捷键快速调用，可高效搜索并应用插件或预设到选定图层；具备画面快照功能，支持预览对比、导出 PNG 静帧、复制图像；还提供特效快捷键创建、特效重置、自定义搜索、颜色采样及图库直接导入等高级功能，显著提升 AE 工作效率。插件界面为可停靠面板，操作便捷，并已支持中文插件搜索。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/FXConsole.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376004173"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1yhrP8PczZDq9dXG5Gpl6-w"
+    }
+  ],
+  "other": {
+    "extract_code": "vkr3",
+    "official_website": "http://www.videocopilot.net/blog/2016/10/new-workflow-plug-in-fx-console-is-now-available/",
+    "quick_shortcut": "Ctrl+空格键",
+    "shop_link": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

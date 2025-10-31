@@ -1,0 +1,55 @@
+{
+  "title": "Win/Mac版：Ae/Pr蓝宝石特效插件 GenArts Sapphire v9.0.21",
+  "slug": "win-macban-ae-prlan-bao-shi-te-xiao-cha-jian-genarts-sapphire-v9-0-21",
+  "author": "大众脸",
+  "post_date": "2016-05-24T11:12:00Z",
+  "source_url": "https://www.lookae.com/sapphire9021/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Genarts Sapphire",
+    "PR插件"
+  ],
+  "content": "GenArts Sapphire 蓝宝石插件是广受后期制作爱好者欢迎的视觉特效插件，支持 Adobe After Effects 与 Premiere Pro。最新版本 v9.0.21 提升了稳定性与性能，修复了在 Premiere CC 2015 中使用 GPU 渲染时的卡顿问题。该插件包含超过 255 个特效模块，涵盖调色、模糊锐化、扭曲、光照、合成、渲染、风格化、时间处理和转场等类别，提供数百种炫酷的视觉效果与转场效果，极大提升创作效率与想象力。新版本新增多项实用功能，如 BokehLights（炫光）、NightSky（夜空）、Aurora（极光）、InfiniteZoom（螺旋）、CutToDissolve（转场）、RepairFrames（修复画面）及 Builder（节点优化）等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/sapphir9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014, CC 2015；Adobe Premiere Pro CS6, CC, CC 2014, CC 2015（v8.1 不支持）",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win/Mac版：Ae/Pr蓝宝石特效插件 GenArts Sapphire v9.0.2 for Adobe",
+      "url": "http://lookae.ctfile.com/fs/iVy151299971"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "Fixed a hang in Premiere CC 2015 when rendering on the GPU.",
+      "New effects added: BokehLights, NightSky, Aurora, InfiniteZoom, CutToDissolve, RepairFrames, Builder."
+    ],
+    "plugin_count": 255,
+    "preset_count": "over 255",
+    "feature_improvements": [
+      "Repackaged and redesigned interface",
+      "Professional preview interface",
+      "Customizable preset saving"
+    ],
+    "related_tags": [
+      "AE插件",
+      "Genarts Sapphire",
+      "PR插件",
+      "After Effects",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/others/",
+      "https://www.lookae.com/qitarjcj/"
+    ]
+  }
+}

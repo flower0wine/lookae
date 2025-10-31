@@ -1,0 +1,65 @@
+{
+  "title": "AE插件-画面颜色选取调色替换修改Composite Brush v1.3 Win/Mac版",
+  "slug": "aecha-jian-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-composite-brush-v1-3-win-macban",
+  "author": "大众脸",
+  "post_date": "2019/01/14 15:29",
+  "source_url": "https://www.lookae.com/compositebrush-13/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Composite Brush 是一款精准且易于使用的 After Effects 颜色选择与修改插件。只需简单绘制几笔即可创建选区，并可直接修改颜色或生成键控效果。插件支持在视频画面上直接选取颜色，并对选定区域进行色彩替换。操作方式为单击拖动选取颜色，按住 Alt 键加鼠标左键可取消选择。该插件可与 Keylight 抠像插件配合使用，使抠像过程更高效、干净。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版插件",
+      "url": "https://lookae.ctfile.com/fs/680462-331101480"
+    },
+    {
+      "name": "Win版插件（百度网盘）",
+      "url": "https://pan.baidu.com/s/10shXfz2-Ybno5d2tX6uNVg"
+    },
+    {
+      "name": "Mac版插件",
+      "url": "https://lookae.ctfile.com/fs/680462-331101475"
+    },
+    {
+      "name": "Mac版插件（百度网盘）",
+      "url": "https://pan.baidu.com/s/11SIJIP9-B0dQuJ4hDbbDtA"
+    },
+    {
+      "name": "使用教程",
+      "url": "https://lookae.ctfile.com/fs/680462-331097985"
+    },
+    {
+      "name": "使用教程（百度网盘）",
+      "url": "https://pan.baidu.com/s/1sd0XkNw_f09V3BXC2_Sxvw"
+    }
+  ],
+  "other": {
+    "official_page": "https://aescripts.com/composite-brush/",
+    "update_log": [
+      "增加 Hair v1.3 选择样式",
+      "增加Matte Invert复选框",
+      "恢复RGB传输模式",
+      "恢复RGBA传输模式",
+      "将Matte Choker的范围扩大到 -1000到1000"
+    ],
+    "notes": "插件由 LookAE大众脸团队 注册，转载请注明。插件仅供测试使用，一切后果请自负，如果喜欢请购买正版！",
+    "categories_in_post": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_urls": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/winmac/"
+    ]
+  }
+}

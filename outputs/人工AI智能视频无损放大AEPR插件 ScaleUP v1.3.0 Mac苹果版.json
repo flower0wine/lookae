@@ -1,0 +1,50 @@
+{
+  "title": "人工AI智能视频无损放大AE/PR插件 ScaleUP v1.3.0 Mac苹果版",
+  "slug": "ren-gong-aizhi-neng-shi-pin-wu-sun-fang-da-ae-prcha-jian-scaleup-v1-3-0-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2022/04/27 09:29",
+  "source_url": "https://www.lookae.com/scaleup-mac-130/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ScaleUP",
+    "无损放大"
+  ],
+  "content": "ScaleUP 是一款基于 AI 技术的高级视频增强工具，可将视频放大至原分辨率的 10 倍，同时最大限度减少图像质量损失。该插件通过神经网络分析大量图像与视频片段的像素信息，替代传统插值方法，有效提升分辨率、保留细节、降低噪点，并改善压缩视频中的块效应。支持 After Effects 与 Premiere Pro 的 GPU 加速，适用于 Mac 和 Windows 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/ScaleUp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/287454578393.mp4"
+  ],
+  "supported_versions": "After Effects: 2022、2021、2020、CC 2019、CC 2018；Premiere: 2022、2021、2020、CC 2019、CC 2018",
+  "supported_os": "Mac、Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-574168678-75c973?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1R7HKGqsoEe6m-76HCBr-Gg?pwd=aldr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9PHxT4GbC7g"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加了两种 AI 模式：Sharp 和 Cartoon",
+      "将 Advance 模式重命名为 Fast 模式"
+    ],
+    "related_links": [
+      "https://www.lookae.com/scaleup-13/"
+    ],
+    "language": "中文",
+    "platform": "Mac 苹果版",
+    "plugin_type": "AE/PR 插件",
+    "version": "v1.3.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-多物体缓动效果同步工具 Ease Sync V1.0 + 使用教程",
+  "slug": "aejiao-ben-duo-wu-ti-huan-dong-xiao-guo-tong-bu-gong-ju-ease-sync-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-03-08",
+  "source_url": "https://www.lookae.com/ease-sync/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Ease Sync",
+    "同步动画",
+    "缓动效果"
+  ],
+  "content": "Ease Sync 是一款适用于 After Effects 的脚本插件，旨在同步动画中的缓动效果。它可以在一个合成内或整个项目中同步多个动画的缓动，使动画过渡更加流畅一致。脚本特征包括：只需单击一下即可同步动画；编辑控制动画曲线的缓和；同步后关键帧仍然可编辑；在一个合成中、整个项目内或在某个层内同步缓和；单个属性可以同步不同的缓动；可以将额外的同步应用于现有的控制缓和；简单且简约的用户界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/Ease-Sync.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/510619253513.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1468424353-304c32?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1pItLgBaXm0NOOMEzvK66-g?pwd=x9sp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Qxw9HAk6nug"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "x9sp"
+  }
+}

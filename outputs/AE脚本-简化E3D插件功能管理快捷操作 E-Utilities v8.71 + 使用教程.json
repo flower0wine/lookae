@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-简化E3D插件功能管理快捷操作 E-Utilities v8.71 + 使用教程",
+  "slug": "aejiao-ben-jian-hua-e3dcha-jian-gong-neng-guan-li-kuai-jie-cao-zuo-e-utilities-v8-71-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/30 21:40",
+  "source_url": "https://www.lookae.com/utilities871/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "E-Utilities是一款专为AE中强大的三维模型插件Element 3D设计的辅助脚本。由于Element 3D功能强大但参数操控繁琐，该脚本整合了E3D常用功能，可以简单快捷地制作各种动画，包括参数关键帧设置等功能。v8.71版本修复了加载错误，增加了在组合物之间传递Element的工具，改进了工具模式和使用体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/09/E-Utilities.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-370157015"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1R4UGXXCUhUS6bcQoxxL17A"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "3e5w",
+    "related_resources": [
+      {
+        "name": "AE插件：E3D三维模型插件 Element 3D v2.2.2.2168 中文汉化版",
+        "url": "https://www.lookae.com/element-3d-2168-ch/"
+      }
+    ],
+    "sponsor_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "赞助LookAE.com网站",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

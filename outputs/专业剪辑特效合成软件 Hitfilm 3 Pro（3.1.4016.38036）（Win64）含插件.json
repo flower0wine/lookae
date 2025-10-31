@@ -1,0 +1,47 @@
+{
+  "title": "专业剪辑/特效合成软件 Hitfilm 3 Pro（3.1.4016.38036）（Win64）含插件",
+  "slug": "zhuan-ye-jian-ji-te-xiao-he-cheng-ruan-jian-hitfilm-3-pro-3-1-4016-38036-win64-han-cha-jian",
+  "author": "大众脸",
+  "post_date": "2015-04-20T10:18:00Z",
+  "source_url": "https://www.lookae.com/hitfilm314/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Hitfilm 3 Pro"
+  ],
+  "content": "Hitfilm 3 Pro 是由 FXhome 公司推出的一款独立专业级剪辑与特效合成软件，支持 Windows 和 Mac 系统。该版本为 Win64 平台，包含注册功能。软件界面全新升级，集成多项高级功能，涵盖3D粒子系统、mocha动态跟踪、3D模型粒子发射、三维空间控制、OFX插件支持等。适用于多轨道剪辑、动画制作、调色、抠像、跟踪、光效模拟（如火、烟、雷电）、特效合成等全流程影视后期工作。此外，压缩包中还附带了兼容 After Effects、Premiere Pro、FCPX、Vegas Pro 的插件版本，共130款，支持GPU加速，具备先进的键控技术、丰富光效及电影级视觉增强能力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Hitfilm-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "3.1.4016.38036",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "专业剪辑/特效合成软件 Hitfilm 3 Pro（3.1.4016.38036）（Win64）含插件",
+      "url": "https://www.400gb.com/file/90951317"
+    }
+  ],
+  "other": {
+    "installation_password": "countryboy",
+    "software_type": "Pro 版本（含插件）",
+    "developer": "FXhome",
+    "features": [
+      "3D粒子模拟与模型纹理发射",
+      "三维摄像机投影",
+      "mocha 跟踪数据支持",
+      "降噪功能",
+      "新增20多种2D特效",
+      "调色工具曲线调节",
+      "性能优化与UI改进",
+      "支持 OFX 插件标准",
+      "130款插件支持 AE/PR/FCPX/Vegas Pro",
+      "GPU 加速",
+      "先进键控/抠像技术",
+      "光效与烟火模拟（火、烟、雷电）",
+      "电影分级与视觉增强"
+    ],
+    "description_en": "HitFilm 3 Pro gives you everything you need to be an editor, VFX artist and colorist. It merges a non-linear editor with advanced 3D compositing and over 180 effects, plus mocha tracking from Imagineer and 130 plugins for your other video software.",
+    "plugin_version": "FXHOME HITFILM PLUGINS V1.0.3716 FOR AE/PR/OFX/Vegas"
+  }
+}

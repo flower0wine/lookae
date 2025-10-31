@@ -1,0 +1,125 @@
+{
+  "title": "Win/Mac版：红巨人调色插件套装 Red Giant Magic Bullet Suite v13.0.0 重大更新 + 使用教程",
+  "slug": "win-macban-hong-ju-ren-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v13-0-0-zhong-da-geng-xin-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/10/28 02:48",
+  "source_url": "https://www.lookae.com/mbs13/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "EDIUS插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Red Giant",
+    "VEGAS插件",
+    "Win/Mac",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant 发布了最新的调色插件套装 Magic Bullet Suite v13.0.0，此次为重大更新，新增 Renoiser 插件并对多个已有插件进行功能增强。支持实时色彩校正、GPU 加速（OpenGL/OpenCL），适用于多种主流视频编辑软件，提升调色效率与视觉表现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13.jpg",
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13sn.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50106864664.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2015.3, Adobe Premiere Pro CS6 – CC 2015.3, Davinci Resolve Studio 11, 12, Apple Final Cut Pro X, Apple Motion 5, Avid Media Composer 7.0, 8.0 或更高版本, Vegas Pro 12, 13, 14（64-bit）, Edius 8",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版本 - 城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/fXp159612970"
+    },
+    {
+      "name": "Win 版本 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1slRaAvz"
+    },
+    {
+      "name": "Mac 版本 - 城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/M3J159612673"
+    },
+    {
+      "name": "Mac 版本 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1o7KeSXG"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "http://lookae.ctfile.com/fs/EOV159613519"
+    },
+    {
+      "name": "教程下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1nu7VFYT"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Magic Bullet Colorista IV 4.0",
+      "Magic Bullet Cosmo II 2.0.0",
+      "Magic Bullet Film 1.2.0",
+      "Magic Bullet Looks 4.0",
+      "Magic Bullet Mojo II 2.0.0",
+      "Magic Bullet Denoiser III 3.0.0",
+      "Magic Bullet Renoiser 1.0.0"
+    ],
+    "update_details": {
+      "Magic Bullet Looks 4.0": [
+        "GPU加速（OpenGL/OpenCL）",
+        "新增更多预设",
+        "Source Tool",
+        "Renoiser Tool",
+        "Mojo Tool",
+        "参考对比预览",
+        "通用强度滑块",
+        "收藏预设功能",
+        "局部调整范围",
+        "保存工作流程",
+        "全新UI"
+      ],
+      "Magic Bullet Colorista IV 4.0": [
+        "GPU加速",
+        "全新调色面板",
+        "引导色彩校正",
+        "支持LUT导入",
+        "色温与色调调节",
+        "RGB点曲线",
+        "日志支持"
+      ],
+      "Magic Bullet Denoiser III 3.0": [
+        "高质量降噪",
+        "GPU加速",
+        "接近实时性能",
+        "全新UI，更易用",
+        "完全重写代码"
+      ],
+      "Magic Bullet Mojo II 2.0.0": [
+        "电影风格更新",
+        "GPU加速",
+        "自定义画面调整",
+        "多种预设",
+        "暗角、曝光、色温、色调调节"
+      ],
+      "Magic Bullet Cosmo II 2.0": [
+        "GPU加速",
+        "效果优化",
+        "皮肤样本采集工具",
+        "视觉反馈增强"
+      ],
+      "Magic Bullet Renoiser 1.0": [
+        "新增插件",
+        "添加胶片噪点与纹理",
+        "16种预设（如16MM、8MM）",
+        "GPU加速，实时预览"
+      ],
+      "Magic Bullet Film 1.2": [
+        "GPU加速"
+      ]
+    },
+    "registration_keys": [
+      "COBK2245921573563861",
+      "COBK2245846563534111"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

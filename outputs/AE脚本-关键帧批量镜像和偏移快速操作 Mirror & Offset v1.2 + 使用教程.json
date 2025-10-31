@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-关键帧批量镜像和偏移快速操作 Mirror & Offset v1.2 + 使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-pi-liang-jing-xiang-he-pian-yi-kuai-su-cao-zuo-mirror-offset-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-01-05 11:00",
+  "source_url": "https://www.lookae.com/mirror-offset/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Mirror＆Offset是一个执行两个操作的简单工具：1.在多个图层上偏移多个关键帧；2.在多个图层上创建所选关键帧的精确镜像副本。该插件不仅可以镜像关键帧，还可以镜像缓动图。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/AE-Mirror-Offset.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-416230475"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1q9vMWfnRzRu10FOVIjEL5Q"
+    }
+  ],
+  "other": {
+    "official_url": "https://aescripts.com/mirror-and-offset/"
+  }
+}

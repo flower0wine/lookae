@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.8 Win/Mac中文版",
+  "slug": "aejiao-ben-er-wei-ren-wu-jiao-se-gu-ge-bang-ding-mgdong-hua-jiao-ben-duik-bassel-2-v16-2-8-win-maczhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2020/03/23 20:38",
+  "source_url": "https://www.lookae.com/duik-1628/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Duik是一款功能强大的动力学和动画工具，开源且免费。它提供多种动画基本工具，可将3D软件中的主要装配工具适配于AE的2D动画，还拥有众多动画及自动化功能，全面且易用，支持多语言。该脚本支持Win/Mac系统，适用于Adobe After Effects CC 2018或更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Duik-Bassel-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/242972619880.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2018或更高版本（其他版本也可用，但官网不推荐，怕有BUG）",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-431386769"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Hx6jPC73-lrsXRyVzA66Yw",
+      "extraction_code": "qdxe"
+    }
+  ],
+  "other": {
+    "教程下载": [
+      {
+        "name": "脚本使用操作教程下载",
+        "url": "https://www.400gb.com/file/122991244"
+      }
+    ],
+    "更新日志": "改进之处：通过“ 弹簧”按钮使用Kleaner时，默认情况下，“ 空间选项”设置为“ 基本”而不是“ 模拟”，以提高性能。“自动父级”工具现在只使用[Alt+Click]作为单独的父级。修正：修复了[提取]（（controller-tools.md）后，控制器无法正确链接的问题（某些控制器重复图层时发生）。"
+  }
+}

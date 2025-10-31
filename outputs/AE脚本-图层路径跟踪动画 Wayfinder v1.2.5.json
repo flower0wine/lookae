@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-图层路径跟踪动画 Wayfinder v1.2.5",
+  "slug": "aejiao-ben-tu-ceng-lu-jing-gen-zong-dong-hua-wayfinder-v1-2-5",
+  "author": "大众脸",
+  "post_date": "2024/10/09 11:47",
+  "source_url": "https://www.lookae.com/wayfinder-125/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "路径跟踪"
+  ],
+  "content": "Wayfinder 是一款强大的 After Effects 脚本，可让任何图形图层沿路径或形状图层（包括复杂或已动画的路径）自动创建路径跟随动画。用户可通过该脚本轻松实现图层沿指定路径运动的效果，适用于多种动态图形设计场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Wayfinder-121.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/485840145649.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1382219503-9fc0f6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1h2phEBijv5yxNaMZn2b8ng?pwd=94mk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/RAzX5QTPUUw"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "94mk"
+    },
+    "update_notes": [
+      "添加了一个小功能来帮助解决一个奇怪的错误。如果您曾经看到 Wayfinder Follower 在为开始、结束、偏移或路径放置设置动画时跳转到一个奇怪的地方，请尝试 Wayfinder Leader 效果上的新精度属性。调整此属性（通常较低）应该有助于解决该错误。",
+      "功能：为 Leader 添加了“精度”属性。",
+      "功能：更新了许可框架",
+      "错误修复：在极少数情况下，当修剪太小并且 AE 不知道如何处理您的图层位置时，精度属性会调整跟随点修剪。"
+    ]
+  }
+}

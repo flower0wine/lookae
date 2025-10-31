@@ -1,0 +1,62 @@
+{
+  "title": "AE插件：特殊编码加速输出渲染插件 Aescripts AfterCodecs v1.2 CE + 使用教程",
+  "slug": "aecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-2-ce-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/09/25 15:16",
+  "source_url": "https://www.lookae.com/aftercodecs12/",
+  "category": "aescripts",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects 设计的编码输出插件，支持输出 H264、H265 和 ProRes 等高质量编码格式。相比 AE 自带的输出功能，该插件渲染速度更快、文件体积更小且画质更佳。插件原生支持 Windows 平台的 ProRes 输出，以及基于 x264 和 x265 的高效视频压缩，适用于需要轻量高质视频输出的专业用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014 – CC 2017",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-221741711"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1c2nhMI8"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/aftercodecs/",
+    "supported_codecs": {
+      "ProRes": [
+        "LT",
+        "Proxy",
+        "Normal",
+        "HQ",
+        "444 (with Alpha Channel)"
+      ],
+      "x264": "Best H264/AVC implementation, outperforms Adobe Media Encoder, QuickTime H264 and AE’s built-in H264",
+      "x265": "30% lighter than x264, supports 8K resolution",
+      "x264_RGB": "Avoids YUV colorspace, ideal for storing separate channels (e.g., UV map, Alphas)"
+    },
+    "version_update_notes": {
+      "version": "1.2",
+      "features": [
+        "Now macOS OS X compatible",
+        "Two new plugins: “AfterCodecs .mp4” and “AfterCodecs .mov”",
+        "Option to choose ProRes 4444 Alpha depth: 16 bits or 8 bits",
+        "Enabled lossless for x265 (99 for 422, 100 for 444)",
+        "Warning for odd width/height instead of generic error",
+        "New shortcuts: ESC to exit dialog, Shift+ESC to reposition to top-left"
+      ],
+      "bug_fixes": [
+        "Slight color shifts in ProRes mostly corrected"
+      ],
+      "warnings": [
+        "Previous project items using AfterCodecs are incompatible with v1.2 and must be reconfigured",
+        "Windows: ProRes 4444 8-bit Alpha cannot be re-imported into AE 16 bpc projects",
+        "macOS: ProRes 422 re-imported into AE CC 2014 and older has color shifts; CC 2015+ is fine"
+      ]
+    }
+  }
+}

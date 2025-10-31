@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-摄像机动画运动控制脚本 MonkeyCam Pro v1.01 + 使用教程",
+  "slug": "aejiao-ben-she-xiang-ji-dong-hua-yun-dong-kong-zhi-jiao-ben-monkeycam-pro-v1-01-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/25 17:03",
+  "source_url": "https://www.lookae.com/monkeycam-101/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "MonkeyCam Pro 是一款用于 After Effects 的程序化摄像机动画工具，可轻松创建复杂的 3D 空间摄像机运动。它具备即时设置功能和突破性的运动算法，有效避免万向节锁（Gimbal Lock）问题。该脚本支持多种插值选项、运动效果以及基于标记的时间控制，便于调整和音频同步。用户可通过多个目标点控制摄像机动画，并调节运动模糊、焦距、抖动等属性。本版本包含视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/MonkeyCam-101.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/41347486.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CC 2014 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368265196"
+    },
+    {
+      "name": "脚本 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1w8TeTxBU_m-NOM6GofG5mQ"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/znS153758935"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1uJ8AZ_GZkh-QXyb4x2dV_Q"
+    }
+  ],
+  "other": {
+    "extract_codes": {
+      "脚本_百度网盘": "yely",
+      "教程_百度网盘": "lsn7"
+    },
+    "official_product_url": "https://aescripts.com/monkeycam-pro/",
+    "changelog": [
+      "更新AE新的JavaScript引擎表达式。",
+      "更新许可框架。"
+    ]
+  }
+}

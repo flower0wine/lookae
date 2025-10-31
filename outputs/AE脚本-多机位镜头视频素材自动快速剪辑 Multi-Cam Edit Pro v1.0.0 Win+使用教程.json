@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-多机位镜头视频素材自动快速剪辑 Multi-Cam Edit Pro v1.0.0 Win+使用教程",
+  "slug": "aejiao-ben-duo-ji-wei-jing-tou-shi-pin-su-cai-zi-dong-kuai-su-jian-ji-multi-cam-edit-pro-v1-0-0-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-27T09:34:00Z",
+  "source_url": "https://www.lookae.com/multi-cam-edit-pro/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "快剪脚本",
+    "自动剪辑"
+  ],
+  "content": "Multi-Cam Edit 使用从 Premiere Pro 导出的文字记录（保存为文本文件）在 After Effects 中自动进行多机位剪辑。根据文字记录中的时间码和发言人姓名，该脚本会自动剪切对应视频图层，帮助用户快速重建多机位剪辑。支持 After Effects 2021 至 2025 版本，兼容 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Multi-Cam-Edit-Pro-for-After-Effects.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/524810360315.mp4"
+  ],
+  "supported_versions": "After Effects 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1522677199-8c0ea7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1SMgOTPMu3C7RV1j0YBIyzA?pwd=xcas"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/GmXHThYiTZP"
+    }
+  ],
+  "other": {
+    "categories_link": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e5%bf%ab%e5%89%aa%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e8%87%aa%e5%8a%a8%e5%89%aa%e8%be%91/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "xcas"
+    }
+  }
+}

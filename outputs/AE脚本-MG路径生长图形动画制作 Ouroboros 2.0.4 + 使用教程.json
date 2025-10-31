@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-MG路径生长图形动画制作 Ouroboros 2.0.4 + 使用教程",
+  "slug": "aejiao-ben-mglu-jing-sheng-chang-tu-xing-dong-hua-zhi-zuo-ouroboros-2-0-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/03/24 09:43",
+  "source_url": "https://www.lookae.com/ouroboros-204/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Ouroboros 是一款可在 After Effects 的单个路径上创建多个笔画的脚本，能够快速生成细节丰富的描边效果，非常适合制作 MG 图形动画。此版本为 2.0.4，包含使用视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Ouroboros.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50010580366.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2019, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://089u.com/f/680462-486714411-2883d8"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1rQSx1BEFPzwSwLrZLVBGVg"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-207746460"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1eRLnDHg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘脚本": "6688",
+      "百度网盘脚本": "7p2i"
+    },
+    "update_notes": [
+      "修复AE 16.0+中Ouroboros尝试打开首选项时崩溃的问题",
+      "修复无法从“文件>脚本”菜单中打开Ouro",
+      "修复新的Ouro图层未与父级的对齐",
+      "修复不必要的“脚本中止”警报",
+      "在AE16上禁用了“Show Ouro strokes”按钮，以避免崩溃"
+    ]
+  }
+}

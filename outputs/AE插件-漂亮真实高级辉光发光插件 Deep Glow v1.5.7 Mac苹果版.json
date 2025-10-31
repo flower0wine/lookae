@@ -1,0 +1,44 @@
+{
+  "title": "AE插件-漂亮真实高级辉光发光插件 Deep Glow v1.5.7 Mac苹果版",
+  "slug": "aecha-jian-piao-liang-zhen-shi-gao-ji-hui-guang-fa-guang-cha-jian-deep-glow-v1-5-7-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2023/11/24 11:23",
+  "source_url": "https://www.lookae.com/deep-glow-mac144/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "Deep Glow 是一款比 AE 自带 Glow 插件效果更真实、过渡更自然的高级辉光发光插件。支持在非线性色彩空间中实时工作，提供物理上准确的发光效果。具备直观的合成控制、GPU 加速性能，并支持高采样与质量调节，可用于实现颗粒感或风格化发光效果。适用于多种 After Effects 版本，兼容 Intel 和 Apple M 芯片。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Deep-Glow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac 苹果版",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-978383218-1ebfa4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17-m-qLT2UBagXUJ-uK8apA?pwd=k5rn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/77KgABjnrJh"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.5.7 更新内容：修复了 0.0 曝光导致发光仍然出现的问题；修复隔行渲染时的问题。",
+    "related_links": [
+      {
+        "title": "中文汉化版-漂亮真实高级辉光发光特效AE插件 Deep Glow v1.5.7 Win",
+        "url": "https://www.lookae.com/deep-glow-154/"
+      }
+    ],
+    "chip_support": "支持 Intel 和 Apple M 芯片",
+    "description": "Generates a beautiful, physically accurate glow. You’ll never want to touch After Effect’s default glow again."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "AE/PR脚本-文件素材智能管理工具 Aescripts Pro IO v2.17.3 + 使用教程",
+  "slug": "ae-prjiao-ben-wen-jian-su-cai-zhi-neng-guan-li-gong-ju-aescripts-pro-io-v2-17-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/04/18 12:00",
+  "source_url": "https://www.lookae.com/pro-io-2173/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本",
+    "Pro IO",
+    "PR脚本",
+    "文件管理",
+    "素材管理"
+  ],
+  "content": "Pro IO 是一款专为 After Effects 和 Premiere Pro 设计的一站式媒体输入输出管理工具，可智能自动分类导入素材，并支持批量导出。通过监视箱功能，用户可将系统目录链接至项目箱，实现资产的实时同步与一键导入，保持项目始终最新且结构清晰。导出预设支持多序列或多伴奏渲染任务排队，可自定义命名规则和目标路径，大幅提升工作效率。该工具有效解决了重复手动查找文件、输入文件名和导航路径的问题，显著节省时间并减少人为错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Pro-IO-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2022, 2021, 2020; Premiere Pro 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-570299097-13744d"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1edNoS6_RMQ-zXKvzcdL0HA?pwd=zgch"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/nva1JzXynp1"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-456060381"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1X9cU_mYH-_j_aKsDjPRprg?pwd=evag"
+    }
+  ],
+  "other": {
+    "homepage": "https://aescripts.com/pro-io/",
+    "update_notes": "v2.17.3更新：首选项路径和 AME 版本修复；添加了对 After Effects 2022 和 Premiere Pro 2022 的支持",
+    "categories": [
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tags_links": {
+      "Aescripts": "https://www.lookae.com/tag/aescripts/",
+      "AE脚本": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "Pro IO": "https://www.lookae.com/tag/pro-io/",
+      "PR脚本": "https://www.lookae.com/tag/pr%e8%84%9a%e6%9c%ac/",
+      "文件管理": "https://www.lookae.com/tag/%e6%96%87%e4%bb%b6%e7%ae%a1%e7%90%86/",
+      "素材管理": "https://www.lookae.com/tag/%e7%b4%a0%e6%9d%90%e7%ae%a1%e7%90%86/"
+    }
+  }
+}

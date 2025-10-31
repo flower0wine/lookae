@@ -1,0 +1,94 @@
+{
+  "title": "BCC视觉特效和转场AE/PR/AVX/达芬奇插件 Continuum 2025.5 v18.5.2 Win",
+  "slug": "bccshi-jue-te-xiao-he-zhuan-chang-ae-pr-avx-da-fen-qi-cha-jian-continuum-2025-5-v18-5-2-win",
+  "author": "大众脸",
+  "post_date": "2025/09/29 10:19",
+  "source_url": "https://www.lookae.com/bcc-1852/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "BCC插件",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "利用 Continuum 插件释放您的视野。BCC插件为您提供令人惊叹的视觉效果和工作流程解决方案，满足任何内容创作需求。易于使用的界面包括 300 多种效果、40 种过渡和 5000 多种预设，并经过优化，可在许多流行的视频编辑和 VFX 应用程序中为您提供快速的性能。使用 AI 驱动的工具来降低噪音和提升图像质量、添加专业电影纹理、应用广播级过渡、快速修复素材、使用 Particle Illusion 的 3D 粒子动画即时生成运动图形元素，甚至使用 Title Studio 构建 2D/3D 矢量标题。这不仅仅是一个插件包 — 这是创作自由。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/BCC-2025.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/490738345095.mp4"
+  ],
+  "supported_versions": "After Effects 2021-2025, Premiere Pro 2021-2025, DaVinci Resolve 17-19+, Nuke 13-15+, Vegas 20-22+, Fusion 17-19+, Avid Media Composer 2021-2024",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "AE/PR插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8442602117-7115b3?p=4431"
+    },
+    {
+      "name": "AE/PR插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1xsBRpF_93Pn382jzhK1MnQ?pwd=ivtn"
+    },
+    {
+      "name": "AE/PR插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/XywU79WNcks"
+    },
+    {
+      "name": "OFX/达芬奇插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8442603455-3463c7?p=4431"
+    },
+    {
+      "name": "OFX/达芬奇插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17k8--AKs450kbelE4P2Eyg?pwd=igns"
+    },
+    {
+      "name": "OFX/达芬奇插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/Ea2XzjnGY4v"
+    },
+    {
+      "name": "AVX系列插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8442602207-4fb115?p=4431"
+    },
+    {
+      "name": "AVX系列插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1mjWYdzG1_JEkX6Xq4fo8zA?pwd=qjru"
+    },
+    {
+      "name": "AVX系列插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/kiNopgtX73q"
+    }
+  ],
+  "other": {
+    "changelog": [
+      "罕见的情况可能会导致项目损坏，从而导致重新打开已保存的项目时失败",
+      "BCC+ Mosaic、BCC+ Witness Protection 和 BCC+ License Plate – GPU/CPU 渲染在某些 Mosaic 设置下彼此不完全匹配",
+      "BCC+ Transitions – 修复覆盖工具提示标签名称",
+      "BCC+ 点选择器工具提示覆盖 – 提高了某些主机的可读性",
+      "BCC+ 工具提示覆盖 – 禁用的参数仍然显示工具提示",
+      "BCC+ FX 编辑器 – 在某些情况下，只有将鼠标悬停在小部件位置上时，覆盖小部件才会显示",
+      "BCC+ FX 编辑器 – 仅使用单个位置点选择器时不显示 BCC+ 过滤器的工具提示",
+      "BCC+ 点选择器覆盖小部件 – 重叠小部件的选择顺序与显示的工具提示顺序相反",
+      "3D 对象（Title Studio、挤压文本、文本输入）- 某些项目中的大型文本对象偶尔会发生崩溃",
+      "Title Studio – 白色文本边缘，带有一些图像着色器选项",
+      "Title Studio – 文本生成窗口中的字体大小与合成窗口中的字体大小不匹配",
+      "Title Studio – 边缘抗锯齿质量的回归",
+      "幻影粒子 – 调整 UI 窗格大小时偶尔出现挂起/崩溃",
+      "幻影粒子 – AE 蒙版/文本路径集成不起作用",
+      "从安装程序中删除旧"
+    ],
+    "related_links": [
+      {
+        "title": "Win中文汉化-视觉特效和转场AE/PR插件 BCC 2025 v18.0.3",
+        "url": "https://www.lookae.com/bcc-2021-ch/"
+      },
+      {
+        "title": "Mac苹果版-BCC视觉特效和转场AE/PR/FCPX/达芬奇/AVID插件 Continuum 2024 v17.0.3",
+        "url": "https://www.lookae.com/bcc-2024-mac/"
+      }
+    ],
+    "passwords": {
+      "城通网盘": "6688"
+    }
+  }
+}

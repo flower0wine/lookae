@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-修剪存档交换项目中使用的媒体文件 Trim N Collect V1.5 + 使用教程",
+  "slug": "aejiao-ben-xiu-jian-cun-dang-jiao-huan-xiang-mu-zhong-shi-yong-de-mei-ti-wen-jian-trim-n-collect-v1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/19 18:00",
+  "source_url": "https://www.lookae.com/trim-n-collect/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是文章内容。Trim N Collect 是一款用于 After Effects 的脚本工具，能够自动修剪项目中实际使用的媒体片段，并将其转码为仅包含使用部分的新文件，随后重新链接到项目中。该脚本特别适用于项目归档或传输场景，有助于显著节省磁盘空间、时间和存储成本。用户可自定义多种处理参数，如手柄长度、图像序列处理方式等，实现高效、灵活的媒体管理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Trim-N-Collect-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-467561051"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1fD08T1PE7NvZ9QPyaeVz6w"
+    }
+  ],
+  "other": {
+    "baidu_pan_code": "fozj",
+    "features": [
+      "自动创建文件夹-新功能！",
+      "转码模板",
+      "添加手柄",
+      "自动合并重叠的媒体-新功能！",
+      "缩小差距",
+      "请勿对全范围媒体进行转码-新功能！",
+      "导出脚本（创建文件夹结构，建立项目位深度等）",
+      "图像序列处理：对图像序列进行转码将对图像序列进行转码（exr文件除外）",
+      "转码OpenEXR序列将使用模板预设来对多通道exr文件的序列进行转码，具体取决于它们具有alpha通道。",
+      "可定制的图像序列扩展-新功能！",
+      "剪辑素材管理",
+      "收集选项：收集C4D文件（无依赖项）",
+      "复制整个图像序列",
+      "复制整个OpenEXR序列",
+      "不收集文件根本不会执行收集操作，而只会修剪素材的已使用部分并将其转码到目标文件夹。"
+    ],
+    "homepage": "https://aescripts.com/trim-n-collect/"
+  }
+}

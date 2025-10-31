@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-图层偏移交错排列工具 Stratify v1.3.8+使用教程",
+  "slug": "aejiao-ben-tu-ceng-pian-yi-jiao-cuo-pai-lie-gong-ju-stratify-v1-3-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/11/26 21:22",
+  "source_url": "https://www.lookae.com/stratify-138/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Stratify",
+    "图层排列"
+  ],
+  "content": "该AE脚本可通过传统方式偏移图层，或使用基于合成位置交错图层的图案提升操作水平，且在紧凑UI中有排序图层选项。同时介绍了脚本特征及v1.3.8更新内容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/Stratify.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/444905814537.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1429693363-aedbb0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Ojq0jJa1U14T2qtiIvI-gA?pwd=25rp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/6vUfSuoh5fv"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

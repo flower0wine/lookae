@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-快速创建MG折纸网格动画脚本 Origamit v1.4.0",
+  "slug": "aejiao-ben-kuai-su-chuang-jian-mgzhe-zhi-wang-ge-dong-hua-jiao-ben-origamit-v1-4-0",
+  "author": "大众脸",
+  "post_date": "2021/11/13 21:16",
+  "source_url": "https://www.lookae.com/origamit-14/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Origamit 是一款专为 After Effects 设计的程序化网格生成与动画工具，可一键创建折纸风格的展开和有机生长类 MG 动画效果。该脚本支持多版本 AE，操作简单，仅需几步即可实现惊艳视觉效果。适用于需要快速制作复杂折纸动画的设计师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Origami-124.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/38839398.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520630915-8acff5"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1icUX2Jpmi0XrUn5iqz8mJQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/F2gAL4v6WFk"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-297761250"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1SSzvcLiWvqKaEIPHxrdz-Q"
+    }
+  ],
+  "other": {
+    "update_notes": "Origamit v1.2.4 更新内容：- AE2020 支持 – 小代码优化",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_pan": "9yn0"
+    },
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ]
+  }
+}

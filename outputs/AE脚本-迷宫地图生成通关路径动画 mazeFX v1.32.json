@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-迷宫地图生成通关路径动画 mazeFX v1.32",
+  "slug": "aejiao-ben-mi-gong-di-tu-sheng-cheng-tong-guan-lu-jing-dong-hua-mazefx-v1-32",
+  "author": "大众脸",
+  "post_date": "2021/11/13 14:35",
+  "source_url": "https://www.lookae.com/mazefx-132/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本mazeFX是Adobe After Effects的工具，专门用于随机创建矢量的迷宫。脚本能够为每个迷宫生成独特的通关路径解决方案，并创建适当的效果控制，以完全控制迷宫的外观。最后，它能够使用蒙版来控制每个迷宫的形状，并且还可以将所有需要的部分放在单个形状图层中，或者为迷宫的每个部分创建单独的形状图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/mazeFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520606804-826f16"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1REMIKmOHqereiwnvrwYxuA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/nCe6BWsWcLt"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "已修复：在 3D 挤压解决方案路径时出现一些故障",
+      "已修复：某些韩国 Windows 系统上的许可问题"
+    ],
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "sphe"
+    }
+  }
+}

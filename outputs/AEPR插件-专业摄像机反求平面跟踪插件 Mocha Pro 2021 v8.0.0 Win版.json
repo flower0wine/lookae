@@ -1,0 +1,47 @@
+{
+  "title": "AE/PR插件-专业摄像机反求平面跟踪插件 Mocha Pro 2021 v8.0.0 Win版",
+  "slug": "ae-prcha-jian-zhuan-ye-she-xiang-ji-fan-qiu-ping-mian-gen-zong-cha-jian-mocha-pro-2021-v8-0-0-winban",
+  "author": "大众脸",
+  "post_date": "2020-11-11",
+  "source_url": "https://www.lookae.com/mocha-2021/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mocha Pro 2021",
+    "PR插件"
+  ],
+  "content": "Mocha Pro 是世界著名的平面跟踪、旋转定位与物体去除工具，曾获奥斯卡与艾美奖。2021 版新增 PowerMesh 变形表面跟踪、AdjustTrack 2.0 及 Python 脚本编辑器，可输出 Alembic 网格，适用于高难度跟踪与 Roto 工作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/MOCHA-2021-Adobe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/311092213068.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014 | Premiere 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/file/680462-470861734"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1p_mXUklEYvLExjOXSsqgxQ"
+    },
+    {
+      "name": "新功能视频教程",
+      "url": "https://www.bilibili.com/video/BV1Xf4y1i7zx/"
+    }
+  ],
+  "other": {
+    "installation": [
+      "安装软件程序，建议默认路径",
+      "复制 mocha.dll 到 C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\\BorisFX\\MochaPro2021\\Resources",
+      "复制 bsc.dll 到 C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\\BorisFX\\MochaPro2021\\Resources\\mochaui\\bin",
+      "复制 bfx-license-tool.exe 到 C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\\BorisFX\\MochaPro2021\\Resources\\mochaui\\bin\\bfx-license-tool",
+      "复制 GenArts 文件夹到 C:\\ProgramData"
+    ],
+    "note": "2020.11.13 再次修复注册",
+    "baidu_extract_code": "w3mv"
+  }
+}

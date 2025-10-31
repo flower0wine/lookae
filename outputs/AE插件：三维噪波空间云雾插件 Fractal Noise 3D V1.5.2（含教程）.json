@@ -1,0 +1,28 @@
+{
+  "title": "AE插件：三维噪波空间云雾插件 Fractal Noise 3D V1.5.2（含教程）",
+  "slug": "aecha-jian-san-wei-zao-bo-kong-jian-yun-wu-cha-jian-fractal-noise-3d-v1-5-2-han-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/05/13 10:56",
+  "source_url": "https://www.lookae.com/noise3d/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "win64"
+  ],
+  "content": "该插件允许你创建基于三维的噪波，受摄影机及灯光影响，并且还具有“遮挡图层”，可根据Depth Map与3D渲染的图像进行合成。适用于Windows平台，压缩包内含使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/fractal-noise-3d.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 - CC 2015",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE插件：三维噪波空间云雾插件 Fractal Noise 3D V1.5.2（含教程）",
+      "url": "https://www.400gb.com/file/93395123"
+    }
+  ],
+  "other": {
+    "shop_link": "https://lookae.taobao.com/"
+  }
+}

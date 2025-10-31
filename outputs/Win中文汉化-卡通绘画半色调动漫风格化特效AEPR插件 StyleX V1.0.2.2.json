@@ -1,0 +1,44 @@
+{
+  "title": "Win中文汉化-卡通绘画半色调动漫风格化特效AE/PR插件 StyleX V1.0.2.2",
+  "slug": "winzhong-wen-yi-hua-qia-tong-hui-hua-ban-se-diao-dong-man-feng-ge-hua-te-xiao-ae-prcha-jian-stylex-v1-0-2-2",
+  "author": "大众脸",
+  "post_date": "2023/12/05 12:36",
+  "source_url": "https://www.lookae.com/stylex-1022/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AI图像",
+    "AI处理",
+    "PR插件",
+    "StyleX",
+    "卡通特效"
+  ],
+  "content": "插件StyleX是一款采用人工智能AI技术的高级视频风格化工具，它不仅可以将素材转换为高质量的卡通片，还可以生成给定图像或视频风格的任意风格化视频。使用此工具，用户可以轻松创建创意风格化效果，例如卡通、绘画、半色调等等。为了提高生成卡通的视觉效果，该插件采用先进的基于人工智能的方法，对数以万计不同风格卡通图像的结构、纹理和颜色进行分析。因此，它可以有效地提取卡通表示，并获得更好的感知质量。得益于创新的神经网络框架，该工具可以有效地处理具有高质量和良好时间一致性的高分辨率视频。此外StyleX 插件为 Adobe After Effects 和 Adobe Premiere Pro 提供 GPU 加速。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/StyleX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/359673645671.mp4"
+  ],
+  "supported_versions": "After Effects: 2024, 2023, 2022, 2021, 2020; Premiere: 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-985018972-ca3c16?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1siIuOxpnhYvNnpy3nVgLFg?pwd=tatt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/PUxKJPBqpY8"
+    }
+  ],
+  "other": {
+    "update_notes": "1.0.2.2更新内容：修复了具有集成和独立GPU的电脑崩溃问题（仅限 Windows）。",
+    "related_link": "https://www.lookae.com/stylex/",
+    "related_title": "中文汉化-卡通绘画半色调动漫风格化特效AE/PR插件 StyleX V1.0.2.1 Win/Mac"
+  }
+}

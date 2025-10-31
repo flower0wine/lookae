@@ -1,0 +1,57 @@
+{
+  "title": "AE脚本-液体飞溅MG动画 Splash v1.03",
+  "slug": "aejiao-ben-ye-ti-fei-jian-mgdong-hua-splash-v1-03-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 22:32",
+  "source_url": "https://www.lookae.com/splash-103/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "最出色的After Effects液体动画脚本，能在图层上创建程序生成的液体痕迹和斑点，提供粒度控制。通过25种以上的属性进行控制，易于生成高度可定制的液体飞溅和斑点。只需选择一个移动层，选择预设，单击启动按钮即可使用。具有随机性、生成控制、粒子属性、物理效果和斑点功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Splash.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520632970-4b43e3"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1w3Xgcm6xwrfIvDfJTMTUbg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/xCtzcwkxzvp"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "城通网盘教程",
+        "url": "https://089u.com/file/680462-467517518"
+      },
+      {
+        "name": "百度网盘教程",
+        "url": "https://pan.baidu.com/s/13a70T16dqXW3p5ls65mcbg"
+      }
+    ],
+    "password": {
+      "百度网盘": "x2pu",
+      "城通网盘": "6688",
+      "百度网盘教程": "tmsh"
+    },
+    "update_info": {
+      "version": "v1.0.3",
+      "changes": [
+        "将默认的'速度阈值'值设置为0，这样无论移动物体的速度如何，都会启用飞溅",
+        "调整了'速度阈值'表达式，使其更能容忍较慢的移动",
+        "更改了'重力角'默认角度以匹配手动模式的'方向'角度"
+      ]
+    }
+  }
+}

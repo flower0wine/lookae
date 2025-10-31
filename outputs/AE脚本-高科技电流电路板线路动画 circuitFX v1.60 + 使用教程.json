@@ -1,0 +1,55 @@
+{
+  "title": "AE脚本-高科技电流电路板线路动画 circuitFX v1.60 + 使用教程",
+  "slug": "aejiao-ben-gao-ke-ji-dian-liu-dian-lu-ban-xian-lu-dong-hua-circuitfx-v1-60-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-06-09T13:51:00Z",
+  "source_url": "https://www.lookae.com/circuitfx-16/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "circuitFX 是一款专为 After Effects 设计的高科技电流电路板线路动画脚本，可随机生成多样化的电路图。支持创建芯片、电阻、电容器、电流器等电子元件，并可将它们统一置于一个图层或分设为多个独立图层。操作简便，适用于制作科技感背景、HUD界面、科幻类动画等场景。该脚本已优化用户界面与性能，提升生成速度并增强多语言兼容性，适用于 Win/Mac 系统下的 AE CS6 至 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/circuitFX-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382267886"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1TOau8WvmCLKX50xjOPpESQ"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-222963204"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bpuBTN5"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "增加：支持 bezier MASK 遮罩，可使用贝塞尔顶点的 MASK",
+      "优化：更紧凑的用户界面",
+      "优化：对 UI 文本字段和滑块进行更多验证检查",
+      "优化：显著更快地生成芯片、电阻器和电容器",
+      "优化：与非英语版 After Effects 更好的兼容性",
+      "优化：稍快的电路生成算法"
+    ],
+    "official_website": "http://aescripts.com/circuitfx/",
+    "installation_guide": "拷贝 .jsxbin 脚本文件到 AE 安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instruction": "在 AE 软件中通过 Window（窗口菜单）找到脚本",
+    "extract_code": "dbxs",
+    "related_links": [
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

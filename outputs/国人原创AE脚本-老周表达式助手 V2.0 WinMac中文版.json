@@ -1,0 +1,47 @@
+{
+  "title": "国人原创AE脚本-老周表达式助手 V2.0 Win/Mac中文版",
+  "slug": "guo-ren-yuan-chuang-aejiao-ben-lao-zhou-biao-da-shi-zhu-shou-v2-0-win-maczhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2021-05-26 12:51",
+  "source_url": "https://www.lookae.com/laozhou2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "中文版",
+    "原创脚本"
+  ],
+  "content": "老周表达式助手 V2.0 是一款国人原创的 After Effects 脚本，将常用动画表达式（抖动、循环、随机、时间、序号、冻结等）可视化，支持批量添加及自定义表达式，让零基础用户也能轻松驾驭复杂动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/laozhou-V2.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01HTdJXH1vSMnvYF3YI_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01T2dxvn1vSMnrsL84r_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN017sxaZY1vSMnr22o3i_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01Z5muE71vSMnu4gq4C_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01BFONwm1vSMnmMlUwo_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01hlQfRL1vSMnmMn6iw_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01MXRNkK1vSMnlouTFM_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://www.bilibili.com/video/BV1Ev41157kE"
+  ],
+  "supported_versions": "After Effects CC 2015 – 2021 或更高版",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-497210319-e9276e"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1NvhBZp3ZtgBgQsoq9bs4cw"
+    }
+  ],
+  "other": {
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "23ik",
+    "V2更新内容": [
+      "新增自定义保存自己的表达式功能",
+      "效果控制器新增英文兼容"
+    ]
+  }
+}

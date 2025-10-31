@@ -1,0 +1,102 @@
+{
+  "title": "Ae/Pr/Ps/Nuke/达芬奇/Vegas/OFX电影胶片模拟调色插件Digital Film Tools Film Stocks 3.0",
+  "slug": "ae-pr-ps-nuke-da-fen-qi-vegas-ofxdian-ying-xiao-pian-mo-ni-diao-se-cha-jian-digital-film-tools-film-stocks-3-0",
+  "author": "大众脸",
+  "post_date": "2017-11-20T11:50:00Z",
+  "source_url": "https://www.lookae.com/film-stocks-3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Digital Film Tools（DFT）出品的Film Stocks 3.0是一款支持AE、PR、PS、Nuke、达芬奇、Vegas和OFX格式的电影胶片模拟调色插件。该插件可模拟329种不同颜色及黑白胶片色调，涵盖电影胶片与复古风格，适用于影视后期特效制作，帮助用户轻松实现专业级视觉效果。插件包含大量预设，支持色彩校正与分层调节，适用于多种主流视频与图像处理软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/FilmStocks.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5+, After Effects CS5+, Premiere Pro CS5+, Avid, Assimilate Scratch v8+, Black Magic Resolve v11+, Sony Vegas v13+, Nuke v8+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-228920682"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kV7pzrp"
+    }
+  ],
+  "other": {
+    "plugin_company": "Digital Film Tools (DFT)",
+    "official_website": "http://www.digitalfilmtools.com/filmstocks/",
+    "update_notes": {
+      "new_presets": 89,
+      "black_and_white_films": [
+        "Polaroid® Polapan®",
+        "Polaroid® Polapan® Blue",
+        "Polaroid® Polapan® Cyan",
+        "Polaroid® Polapan® Pink Blue",
+        "Polaroid® Polapan® Pink Blue Halo",
+        "Polaroid® 55",
+        "Polaroid® 55 Sepia",
+        "Polaroid® 55 Blue"
+      ],
+      "faded_color_presets": [
+        "Super Faded",
+        "Super Faded Cool/Warm",
+        "Faded Warm",
+        "Hi Con Warm",
+        "Low Contrast",
+        "Low Contrast Warm",
+        "Sharp Cool",
+        "Sharp Desaturated",
+        "Sharp Warm",
+        "Soft Blue",
+        "Soft Green",
+        "Soft Yellow"
+      ],
+      "faded_bw_presets": [
+        "Hi Con",
+        "Hi Con Cool/Warm",
+        "Hi Con Sepia",
+        "Faded",
+        "Faded Green"
+      ],
+      "motion_picture_presets": [
+        "BW Hi Con Print 1",
+        "BW Hi Con Print 2",
+        "BW Hi Con Print 3",
+        "Cool 35mm",
+        "Fuji Externa 8573 35mm",
+        "Fuji 8546 35mm",
+        "Fuji 8553 35mm",
+        "Kodak 5201 35mm",
+        "Kodak 5205 35mm",
+        "Kodak 5207 35mm",
+        "Kodak 5218 35mm",
+        "Kodak 5219 35mm",
+        "Kodak 5222 35mm",
+        "Kodak 5229 35mm",
+        "Kodak 5231 35mm",
+        "Sepia 35mm"
+      ],
+      "color_wheels": "新增可视化色彩轮界面，支持对亮度、色调、饱和度进行主控、阴影、中间调、高光的精细调节",
+      "inspired_by_movies": [
+        "2001 A Space Odyssey",
+        "Apocalypse Now",
+        "Blade Runner",
+        "Back to the Future",
+        "Frankenstein",
+        "Gone with the Wind",
+        "King Kong",
+        "Saving Private Ryan",
+        "Titanic"
+      ]
+    }
+  }
+}

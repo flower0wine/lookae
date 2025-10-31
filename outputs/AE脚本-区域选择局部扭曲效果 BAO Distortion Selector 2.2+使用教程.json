@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-区域选择局部扭曲效果 BAO Distortion Selector 2.2+使用教程",
+  "slug": "aejiao-ben-qu-yu-xuan-ze-ju-bu-niu-qu-xiao-guo-bao-distortion-selector-2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/02 21:42",
+  "source_url": "https://www.lookae.com/distortion-selector-2-2/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "BAO Distortion Selector 是一款用于 After Effects 的脚本，可实现对图层的局部扭曲效果控制。用户可通过脚本自由定义扭曲区域的范围、形态和羽化程度，适用于如变形工具（Puppet Tool）和液化（Liquify）等特效。该脚本支持从 AE CS4 到 CC 2019 的多个版本，并兼容 Windows 与 Mac 系统。新版 v2.2 修复了与 Displace 置换效果的兼容性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Distortion.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-371252284"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/12ZPHDHrpG44BTSNnw8hVzw"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/bao-distortion-selector/",
+    "tutorial_included": true,
+    "update_notes": "修复了Displace置换效果的兼容性问题",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "image_alt": "AE脚本-区域选择局部扭曲效果 BAO Distortion Selector 2.2+使用教程-LookAE.com"
+  }
+}

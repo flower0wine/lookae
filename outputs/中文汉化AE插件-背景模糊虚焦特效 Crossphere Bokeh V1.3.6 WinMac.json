@@ -1,0 +1,59 @@
+{
+  "title": "中文汉化AE插件-背景模糊虚焦特效 Crossphere Bokeh V1.3.6 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-bei-jing-mo-hu-xu-jiao-te-xiao-crossphere-bokeh-v1-3-6-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/12/21 11:10",
+  "source_url": "https://www.lookae.com/bokeh-136/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "中文汉化",
+    "模糊特效",
+    "虚焦特效"
+  ],
+  "content": "一个镜头模糊虚焦插件，允许控制虚焦模糊形状和模糊程度。A Lens Blur plugin that allows full parametric control of Bokeh shape with beautiful tonal mapping and HDR highlights。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/Crossphere-Bokeh.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056416440.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win中英文",
+      "url": "https://url70.ctfile.com/f/2827370-578767366-f7205f?p=4431"
+    },
+    {
+      "name": "百度网盘（Win）",
+      "url": "https://pan.baidu.com/s/1_91KkHBz48xWkKGmDFgBLw?pwd=6wrs"
+    },
+    {
+      "name": "阿里云盘（Win）",
+      "url": "https://www.aliyundrive.com/s/LaPVv9gAtdH"
+    },
+    {
+      "name": "Mac仅英文",
+      "url": "https://url70.ctfile.com/f/2827370-751845606-141d98?p=4431"
+    },
+    {
+      "name": "百度网盘（Mac）",
+      "url": "https://pan.baidu.com/s/1oPZbxMwCrnTuMbe_tFBxqw?pwd=xhmp"
+    },
+    {
+      "name": "阿里云盘（Mac）",
+      "url": "https://www.aliyundrive.com/s/gaTcX2VgdGR"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "win_ctfile": "6688",
+      "mac_ctfile": "6688",
+      "baidu_pan_win": "6wrs",
+      "baidu_pan_mac": "xhmp"
+    },
+    "update_log": "V1.3.6更新内容：许可证系统更新；兼容苹果M芯片"
+  }
+}

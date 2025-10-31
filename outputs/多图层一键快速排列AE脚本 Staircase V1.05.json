@@ -1,0 +1,46 @@
+{
+  "title": "多图层一键快速排列AE脚本 Staircase V1.05",
+  "slug": "duo-tu-ceng-yi-jian-kuai-su-pai-lie-aejiao-ben-staircase-v1-05",
+  "author": "大众脸",
+  "post_date": "2023/05/06 09:33",
+  "source_url": "https://www.lookae.com/staircase-105/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Staircase 是一款适用于 After Effects 的工具，可快速对多个图层进行交错、顺序或随机排列。用户可通过图层块大小或标签颜色将图层分组，界面悬停时会高亮显示所选标签。支持对图层进行单独偏移，或在块内/块外统一控制。该脚本还提供基于位置的交错排列、为每个块添加缓动效果，以及块间淡入淡出等高级功能。v1.05 版本新增了设置图层方向顺序的选项。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/Staircase.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50172702035.mp4?_=1"
+  ],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘（脚本）",
+      "url": "https://url70.ctfile.com/f/2827370-851839569-bf354d?p=4431"
+    },
+    {
+      "name": "百度网盘（脚本）",
+      "url": "https://pan.baidu.com/s/1bUaNGCDP96XcFFVQ1uw0ww?pwd=mw6q"
+    },
+    {
+      "name": "阿里云盘（脚本）",
+      "url": "https://www.aliyundrive.com/s/2eJomZ1wbVR"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-295272918"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1dYankzcaUukmaDVdlJ5AHg"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "password_note": "城通网盘访问密码：6688"
+  }
+}

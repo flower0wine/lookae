@@ -1,0 +1,46 @@
+{
+  "title": "AE插件-遮罩MASK路径可视化效果 Path Visualizer v1.0 Win版 + 使用教程",
+  "slug": "aecha-jian-zhe-zhao-masklu-jing-ke-shi-hua-xiao-guo-path-visualizer-v1-0-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-11-06T09:09:00Z",
+  "source_url": "https://www.lookae.com/path-visualizer/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Path Visualizer 是一款专为 After Effects 设计的插件，能够根据文本或遮罩路径自动生成顶点、贝塞尔曲线边框及控制手柄。支持实时动画更新，适用于技术风格或蓝图类视觉设计。插件支持多种顶点样式（圆、菱形、正方形），可自定义手柄的长度、宽度、颜色和笔触，并提供丰富的样式参数以满足不同创作需求。路径可视化工具可按比例缩放，确保在任意放大下仍保持高分辨率。使用时建议在3D模式下预先合成图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Path-Visualizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-406122004"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1LCYiWhVs2ICDiPrCXrt8fA"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://aescripts.com/path-visualizer/",
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ],
+    "plugin_features": [
+      "与文本、形状层和遮罩路径兼容",
+      "动画实时更新",
+      "支持多种顶点类型（圆、菱形、正方形）",
+      "可自定义手柄长度、宽度、颜色、笔划",
+      "易于使用的动画系统",
+      "大量 StyleStc 参数可自定义",
+      "路径可视化工具支持无限缩放且不失真"
+    ],
+    "usage_note": "在3D模式下使用时，需预先合成图层"
+  }
+}

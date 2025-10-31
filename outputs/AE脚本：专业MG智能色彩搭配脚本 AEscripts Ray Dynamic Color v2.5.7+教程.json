@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：专业MG智能色彩搭配脚本 AEscripts Ray Dynamic Color v2.5.7+教程",
+  "slug": "aejiao-ben-zhuan-ye-mgzhi-neng-se-cai-da-pei-jiao-ben-aescripts-ray-dynamic-color-v2-5-7-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/12/25 17:55",
+  "source_url": "https://www.lookae.com/ray-dynamic-257/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Ray Dynamic Color 是一款专为 After Effects 设计的智能色彩搭配脚本，适用于 MG 动态图形制作。它能快速、自由地进行科学高效的配色，提升作品视觉美感。用户可一次性对多个图层进行颜色修改，也可从 Adobe Kuler 导入配色方案，极大简化了后期制作中繁琐的调色流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/04/Ray-Dynamic-Color.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-327475137"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1VKFHde-L6rGsWhMIPGVPAg"
+    },
+    {
+      "name": "脚本使用教程",
+      "url": "https://lookae.ctfile.com/fs/680462-199580871"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/ray-dynamic-color/",
+    "installation_path": "Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本。"
+  }
+}

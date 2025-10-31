@@ -1,0 +1,39 @@
+{
+  "title": "StarPro 2.0 三维星空模拟AE插件（适用于After Effects 64位，Nuke）",
+  "slug": "starpro-2-0-san-wei-xing-kong-mo-ni-aecha-jian-gua-yong-yu-after-effects-64wei-nuke",
+  "author": "大众脸",
+  "post_date": "2013/08/06 11:36",
+  "source_url": "https://www.lookae.com/starpro-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件"
+  ],
+  "content": "StarPro是Maas Digital公司出品的一款模拟三维星空的插件，适用于After Effects（64位）和Nuke，支持三维摄像机动画，能呈现美丽浩瀚的星空，采用卓越的计算分析渲染，拥有高品质图像。插件特性包括3D场景无缝衔接、图像抗锯齿、自身动态模糊、能独立控制多项参数、完全支持高动态范围渲染和无伽马编码。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/08/StarPro2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE 64位 版本：StarPro 2.0",
+      "url": "https://www.400gb.com/file/27037707"
+    },
+    {
+      "name": "Nuke 版本：StarPro 2.0",
+      "url": "https://www.400gb.com/file/27037990"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Nuke",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "官方介绍链接": "http://www.maasdigital.com/starpro/"
+  }
+}

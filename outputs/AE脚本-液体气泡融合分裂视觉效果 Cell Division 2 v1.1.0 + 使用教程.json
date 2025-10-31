@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-液体气泡融合分裂视觉效果 Cell Division 2 v1.1.0 + 使用教程",
+  "slug": "aejiao-ben-ye-ti-qi-pao-rong-he-fen-lie-shi-jue-xiao-guo-cell-division-2-v1-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/03/13 09:57",
+  "source_url": "https://www.lookae.com/cell-division-2110/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Cell Division",
+    "气泡特效"
+  ],
+  "content": "Cell Division 2 是一款用于 After Effects 的视觉特效脚本，可将任意形状的内层和外层转换为透明水滴效果。该版本提供动态且用户友好的界面，支持高度自定义的水滴样式，并包含默认背景以更好地展示设计效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/02/Cell-Division-2.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/507874010669.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1469507953-344466?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1k9qrXgtvhaC_f1ubCcc1vA?pwd=uh8j"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/wECNCu3WgJR"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688"
+    },
+    "version": "v1.1.0",
+    "major_version": "2",
+    "update_notes_v2": [
+      "使用 21 种不同的样式将任意形状的内层和外层转换为透明液滴",
+      "动态且用户友好的界面设计",
+      "水滴样式的数量从 1 种增加到 21 种设计",
+      "添加了默认水滴背景以更好地展示设计",
+      "增加了水滴控制器，以实现更多自定义和设置"
+    ],
+    "update_notes_v1_1_0": "兼容日语、法语和其他语言"
+  }
+}

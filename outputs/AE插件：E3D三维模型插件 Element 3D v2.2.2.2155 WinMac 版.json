@@ -1,0 +1,64 @@
+{
+  "title": "AE插件：E3D三维模型插件 Element 3D v2.2.2.2155 Win/Mac 版",
+  "slug": "aecha-jian-e3dsan-wei-mo-xing-cha-jian-element-3d-v2-2-2-2155-win-mac-ban",
+  "author": "大众脸",
+  "post_date": "2017/02/13 18:23",
+  "source_url": "https://www.lookae.com/e3d-2222155/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "Element 3D",
+    "VideoCopilot",
+    "Win/Mac"
+  ],
+  "content": "VideoCopilot 强大的AE三维模型插件 E3D V2.2.2 版本发布，支持 Win/Mac 系统下的 Adobe After Effects CS5 – CC 2017。新版本不再支持 32位系统和 CS4 及以下版本。此版本新增了直接加载C4D材质和贴图、界面优化、新视图等功能，并修复了多项错误，包括兼容性问题和动画引擎修复。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/E3D222.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载 (Win)",
+      "url": "https://lookae.ctfile.com/fs/gtp171286466"
+    },
+    {
+      "name": "百度云网盘下载 (Win)",
+      "url": "https://pan.baidu.com/s/1dE2SfWd"
+    },
+    {
+      "name": "城通网盘下载 (Mac)",
+      "url": "https://lookae.ctfile.com/fs/Nzu171288870"
+    },
+    {
+      "name": "百度云网盘下载 (Mac)",
+      "url": "https://pan.baidu.com/s/1pL8nA7T"
+    },
+    {
+      "name": "Mac备用版本下载",
+      "url": "https://www.lookae.com/mace3d2222147/"
+    }
+  ],
+  "other": {
+    "official_price": "$199.95",
+    "official_url": "https://www.videocopilot.net/products/element2/",
+    "update_log_url": "https://www.videocopilot.net/products/element2/update/",
+    "installation_notes": "内附安装说明和注册补丁",
+    "troubleshooting": {
+      "error_126": "可能与插件损坏、依赖文件缺失或处理器兼容性有关，建议重新安装或更新插件版本。",
+      "crashes": "多数与显卡驱动相关，请确认显卡支持并更新驱动。"
+    },
+    "installation_steps": [
+      "以管理员身份安装 Element 3D 2.0.7.2008",
+      "将 .aex 文件复制到 AEF/Support Files/Plug-ins/VideoCopilot/ 并替换现有文件",
+      "以管理员身份运行 AEF",
+      "添加 Element 3D 效果并点击安装许可证",
+      "完成"
+    ],
+    "license_warning": "若已拥有正版许可证，使用破解版可能导致许可证损坏，需重新获取。",
+    "backup_advice": "建议备份 C:\\programdata\\videocopilot (Vista/Win7) 或 %AppData%\\videocopilot (XP) 文件夹以便恢复。",
+    "clean_install_advice": "如需清理安装，可删除上述文件夹。"
+  }
+}

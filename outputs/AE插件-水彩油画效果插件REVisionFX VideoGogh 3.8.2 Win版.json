@@ -1,0 +1,37 @@
+{
+  "title": "AE插件-水彩油画效果插件RE:VisionFX VideoGogh 3.8.2 Win版",
+  "slug": "aecha-jian-shui-cai-you-hua-xiao-guo-cha-jian-re-visionfx-videogogh-3-8-2-winban",
+  "author": "大众脸",
+  "post_date": "2019-07-15T11:23:00Z",
+  "source_url": "https://www.lookae.com/videogogh-382/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "VideoGogh 是 RevisionFX 出品的一款用于 Adobe After Effects 的水彩油画效果插件，可将视频或图像转换为喷绘风格的艺术作品。用户只需简单应用并进行少量设置，即可生成具有动态水彩、油画及粉笔效果的动画。该插件支持多种艺术风格组合，实现丰富的视觉表现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/Video-Gogh.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-387733021"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IixPiHiHwIahP_DvGtquhg"
+    }
+  ],
+  "other": {
+    "update_notes": "完美兼容 AE CC 2019；修复了 Windows 上不呈现视频效果的常规错误；修复激活不适用于仅呈现密钥的错误。",
+    "plugin_website": "https://revisionfx.com/products/video_gogh/after-effects/",
+    "related_tags": [
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)",
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ]
+  }
+}

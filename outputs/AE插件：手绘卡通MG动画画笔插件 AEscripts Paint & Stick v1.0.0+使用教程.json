@@ -1,0 +1,49 @@
+{
+  "title": "AE插件：手绘卡通MG动画画笔插件 AEscripts Paint & Stick v1.0.0+使用教程",
+  "slug": "aecha-jian-shou-hui-qia-tong-mgdong-hua-hua-bi-cha-jian-aescripts-paint-stick-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/01/08 11:50",
+  "source_url": "https://www.lookae.com/paintstick/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件"
+  ],
+  "content": "Paint & Stick 是一款功能强大的 After Effects 插件，允许用户直接在合成窗口中绘制手绘风格的 MG 动画。插件支持自定义画笔和 Photoshop 笔刷导入，具备洋葱皮动画辅助功能，并可将绘制内容“粘贴”到 3D 渲染画面上，实现动态贴合效果。其界面直观，操作高效，即使在 4K 分辨率下也能保持流畅性能。相比 AE 内置绘制工具，Paint & Stick 提供更全面、直观且高效的绘制体验，支持实时预览最终效果。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2qLmcjpXXXXXHXpXXXXXXXXXX_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/01/Paint-Stick.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/b/r/brushesforgif_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 - CC2015（官方说明支持 CS6 及以上）",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE插件：手绘卡通MG动画画笔插件 Paint & Stick v1.0.0+使用教程",
+      "url": "http://lookae.ctfile.com/file/140251445"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/paint-and-stick/",
+    "installation_steps": [
+      "安装 Paint & Stick Installer.exe 插件程序",
+      "拷贝 Crack 文件夹内 PaintAndStick.aex 替换原插件（AE插件目录替换）",
+      "打开AE，添加插件到固态层，点击插件界面中 Register，输入任意序列号即可注册。",
+      "更多免费AE插件下载 www.lookae.com"
+    ],
+    "license_options": {
+      "paint_only": "仅绘图功能，使用“Stick”功能时会添加水印",
+      "paint_and_stick": "完整授权，无水印"
+    },
+    "features": {
+      "onion_skinning": true,
+      "photoshop_brush_support": true,
+      "custom_brush_capture": true,
+      "fast_draw_mode": true,
+      "3d_stick_rendering": true,
+      "c4d_maya_exporter": "提供免费 Sticky Pass 导出插件（Maya 版本为测试版）"
+    },
+    "notes": "若安装后 AE 中未显示插件，请手动将插件文件复制到 AE 插件目录。所有试用版或 Paint Only 版本生成的水印均为永久性。"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本：动态贴图快速制作Aescripts Ray Dynamic Texture V1.5.5 + 视频教程",
+  "slug": "aejiao-ben-dong-tai-tie-tu-kuai-su-zhi-zuo-aescripts-ray-dynamic-texture-v1-5-5-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/12/25 17:29",
+  "source_url": "https://www.lookae.com/ray-dynamic-155/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Ray Dynamic Texture脚本可以解决繁琐的图层纹理贴图工作，能够快速方便在AE软件里给图层添加各种纹理贴图，包括图层的设置、应用效果、关键帧和图层样式，表达式等。除此之外，该脚本工具可以存储您最常用的贴图效果预设，点击即可应用到图层上。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/03/Ray-Dynamic-Texture.jpg"
+  ],
+  "video_urls": [
+    "https://lookae.ctfile.com/fs/ABj178093310"
+  ],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-327474759"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1FZG9PHCUR4Pl47A9lTgc7g"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本官网": "http://aescripts.com/ray-dynamic-texture/",
+    "脚本安装": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "脚本使用": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Ae/Pr数字转胶片调色插件 FilmConvert Nitrate 3.05 Win/Mac版",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-nitrate-3-05-win-macban",
+  "author": "大众脸",
+  "post_date": "2019-11-18",
+  "source_url": "https://www.lookae.com/filmconvert-305/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "FilmConvert Nitrate 是一款可将数字摄影机素材色彩转换成胶片色彩的插件，支持 After Effects 与 Premiere Pro。新版 Nitrate 3 引入 Cineon Log 电影仿真、完全自定义曲线控制及高级胶片颗粒控制，可单独调整高光、中间调与阴影的颗粒强度，并支持 3D LUT 导出与 4K 输出。插件内置 8 mm–35 mm 胶片预设，兼容 RED、DSLR、MOV 等素材，操作流程简单，跨平台支持 Win/Mac 系统下的 Adobe CC 2015–2020。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/AEFilmConvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2015–2020",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "Win版 v3.04 城通网盘",
+      "url": "https://tc5.us/file/680462-402178907"
+    },
+    {
+      "name": "Win版 v3.04 百度网盘",
+      "url": "https://pan.baidu.com/s/1GL4_1p1TPBVv2wUOWzh_Vw"
+    },
+    {
+      "name": "Mac版 v3.05 城通网盘",
+      "url": "https://tc5.us/file/680462-407797392"
+    },
+    {
+      "name": "Mac版 v3.05 百度网盘",
+      "url": "https://pan.baidu.com/s/10DhVFlfdYpDeoXGfoQ2M_A"
+    }
+  ],
+  "other": {
+    "home_page": "https://www.filmconvert.com/plugin/adobe",
+    "update_note": "Mac版 v3.05 更新兼容 Premiere Pro 2020"
+  }
+}

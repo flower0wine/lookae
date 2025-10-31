@@ -1,0 +1,36 @@
+{
+  "title": "VC 镜头光晕 Optical Flares 1.3.3 更新版（Win_Mac）附新预设",
+  "slug": "vc-jing-tou-guang-yun-optical-flares-1-3-3-geng-xin-ban-win-mac-fu-xin-yu-she",
+  "author": "大众脸",
+  "post_date": "2012-11-30",
+  "source_url": "https://www.lookae.com/of133/",
+  "category": "aechajian",
+  "tags": [
+    "Mac_Win",
+    "VideoCopilot"
+  ],
+  "content": "Optical Flares 是 VideoCopilot 出品的高效镜头光晕插件，以操作便捷、效果绚丽和渲染迅速著称。1.3.3 更新版修复了若干 OpenGL 与 macOS Quadro 显卡崩溃问题，并提升整体性能，同时附带全新免费预设。插件同时提供 Windows 与 macOS 的 32/64 位版本，覆盖 After Effects 主流系统环境。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/OF135.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS… 及以上",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "镜头光晕 Optical Flares 1.3.3 更新版（Win_Mac）附新预设",
+      "url": "http://www.ctdisk.com/file/12568958"
+    }
+  ],
+  "other": {
+    "installation": {
+      "Windows": "将 OpticalFlares.aex 替换至 C:\\Program Files\\Adobe\\Adobe After Effects CS…\\Support Files\\Plug-ins\\Optical Flares",
+      "macOS": "将 OpticalFlares.plugin 替换至 /Applications/Adobe After Effects CS…/Plug-ins/Optical Flares",
+      "presets": "将新预设拷贝至 C:\\Program Files\\Adobe\\Adobe After Effects CS…\\Support Files\\Plug-ins\\Optical Flares\\Optical Flares Presets\\Lens Flares"
+    },
+    "related_links": [
+      "https://www.lookae.com/optical-flares-v1-2-132-win-zh/",
+      "https://www.lookae.com/mac-aecj/"
+    ]
+  }
+}

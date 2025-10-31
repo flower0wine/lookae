@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本：风吹自由摇曳摆动MG动画  Aescripts AutoSway v1.84 + 使用教程",
+  "slug": "aejiao-ben-feng-chui-zi-you-yao-yi-bai-dong-mgdong-hua-aescripts-autosway-v1-84-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/09/11 12:35",
+  "source_url": "https://www.lookae.com/autosway/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "AutoSway 脚本可以制作风吹自由摇曳摆动MG动画，且完全符合重力学。包含两种模式：图层模式和木偶工具模式，让用户能够轻松实现图层的自然摆动效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/autosway_top.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6/CC/CC2014/CC2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：风吹自由摇曳摆动MG动画  Aescripts AutoSway v1.84 + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/Qt9156387193"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/autosway/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_guide": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

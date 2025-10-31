@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本：文字标题字幕条动画快速生成 Aescripts MonkeyBars v1.04 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-biao-ti-zi-mu-tiao-dong-hua-kuai-su-sheng-cheng-aescripts-monkeybars-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/06 16:13",
+  "source_url": "https://www.lookae.com/monkeybars104/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "MonkeyBars脚本可以快速生成文字标题字幕条动画，风格多样。操作简单，控制直观，带使用教程。这是一款为动态设计师、编辑和制作人设计的新文本动画工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/monkeybars.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202009510"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1cGkpjS"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_website": "http://aescripts.com/monkeybars/",
+    "additional_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "赞助链接",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

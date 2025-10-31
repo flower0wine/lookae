@@ -1,0 +1,54 @@
+{
+  "title": "AE/PR超级慢动作视频变速插件 Twixtor Pro 8.0.4 Win",
+  "slug": "ae-prchao-ji-man-dong-zuo-shi-pin-bian-su-cha-jian-twixtor-pro-8-0-4-win",
+  "author": "大众脸",
+  "post_date": "2024/12/30 10:38",
+  "source_url": "https://www.lookae.com/twixtor-pro-804/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Twixtor Pro",
+    "变速插件",
+    "超级慢动作插件"
+  ],
+  "content": "Twixtor Pro是一款超级慢动作视频变速升格补帧插件，它能够“无极”地减慢、加速或变更连续图像的帧速，带来惊人的视觉效果。支持GPU加速渲染和多帧渲染，可智能地对图像序列进行慢放或加速处理，呈现视觉震撼的效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/Twixtor6.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/408709105329.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025; PR CC 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1442551096-ecc0cf?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/16DeAWSHvrDlHZVD9pRXvlg?pwd=uvcw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/HEvofY8B6Vr"
+    }
+  ],
+  "other": {
+    "version": "8.0.4",
+    "upgrade_notes": [
+      "Twixtor Pro：Inv Mask Shrink 在 DNN 模式下错误变灰",
+      "Twixtor：缓存流在 AE 中被错误地隐藏，在关闭 MFR 的情况下仍然有用",
+      "Twixtor 现在默认使用“最近”模式，Twixtor Pro 默认使用“混合”模式。“最近”模式渲染速度更快，但“混合”模式对于最佳光流来说必不可少。",
+      "非 Beta 版本",
+      "添加DNN模式（深度神经网络）",
+      "Twixtor Pro Vectors 新增：添加智能混合选项",
+      "Twixtor 和 Twixtor Pro：添加全局运动选项",
+      "与旧项目兼容"
+    ],
+    "access_password": {
+      "城通网盘": "6688"
+    }
+  }
+}

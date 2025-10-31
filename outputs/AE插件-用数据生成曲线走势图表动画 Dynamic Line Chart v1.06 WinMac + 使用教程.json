@@ -1,0 +1,62 @@
+{
+  "title": "AE插件-用数据生成曲线走势图表动画 Dynamic Line Chart v1.06 Win/Mac + 使用教程",
+  "slug": "aecha-jian-yong-shu-ju-sheng-cheng-qu-xian-zou-shi-tu-biao-dong-hua-dynamic-line-chart-v1-06-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/02/22 21:10",
+  "source_url": "https://www.lookae.com/line-chart-106/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "动态折线图（DLC）是一个After Effects插件，可立即从数据创建折线图。图表的所有参数和数据本身都可以设置动画。许多参数可以对网格和轴的外观和尺寸进行动画控制，从而可以放大和缩小数据。甚至是动画数据——都可以通过CSV文件（UTF-8编码）导入，也可以从图表图像中重新采样。\n\nBeepee Dynamic Line Chart (DLC) is an After Effects plugin that instantly creates line charts from data. All the parameters of the chart and the data itself can be animated. The many (hundreds!) of parameters give animatable control over the appearance and dimensions of the grid and axes, allowing zooming into and out of data.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Dynamic-Line-Chart-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载-城通网盘",
+      "url": "https://089u.com/f/680462-483546208-a1b8ae"
+    },
+    {
+      "name": "插件下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1qU0MFdezhC7AIOTpm_0WjA"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://089u.com/file/680462-447513096"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/10mE4ZqTOCFfFQbwSMLBbew"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘插件": "6688",
+      "百度网盘插件": "qb26",
+      "城通网盘教程": "",
+      "百度网盘教程": "s3ha"
+    },
+    "update_log": [
+      "重写了内存处理",
+      "修复了防止AME /动态链接渲染的错误",
+      "改进了复制/复制插件实例",
+      "修复了稳定性问题",
+      "添加了动态h轴标签",
+      "已针对MacOS更新",
+      "删除了数字> 1百万的科学计数法"
+    ],
+    "categories_in_post": [
+      "AE插件",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Ae/Pr插件: 鱼眼广角镜头畸变扭曲修复转换插件 REVisionFX Relens 1.2.4 Win/Mac",
+  "slug": "ae-prcha-jian-yu-yan-yan-jiao-jing-tou-ji-bian-niu-qu-xiu-fu-zhuan-huan-cha-jian-revisionfx-relens-1-2-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/08/04 14:03",
+  "source_url": "https://www.lookae.com/relens124/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "RE-Lens是REVisionFX公司新出的一款鱼眼广角镜头畸变扭曲修复转换插件。1.2.4新版修复了在使用球形稳定器时的一些bug，包括跟踪帧范围获取错误、图层入出点更改导致的错误结果和崩溃问题，以及16位通道工作时的崩溃问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/RE-Lens.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 - CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-214578393"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1slAuNs5"
+    }
+  ],
+  "other": {
+    "registration": {
+      "name": "Team AMPED",
+      "serial_number": "CvTXSt82rqHbqxwF"
+    },
+    "official_website": "http://revisionfx.com/products/relens/after-effects/"
+  }
+}

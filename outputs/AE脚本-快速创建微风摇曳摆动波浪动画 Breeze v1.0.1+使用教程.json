@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-快速创建微风摇曳摆动波浪动画 Breeze v1.0.1+使用教程",
+  "slug": "aejiao-ben-kuai-su-chuang-jian-wei-feng-yao-yi-bai-dong-bo-lang-dong-hua-breeze-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-02-19",
+  "source_url": "https://www.lookae.com/breeze-101/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Breeze"
+  ],
+  "content": "快速轻松地创建令人惊叹的波浪摇曳动画！允许您在四个不同方向上创建波浪运动，使您的图层具有动态且引人入胜的外观。告别静态设计，迎接迷人的动画！如果您正在寻找一种快速、简单的方法来为各种对象设置动画，Breeze是您的完美工具。使用Breeze您可以轻松快速地为旗帜、火焰、衣服、角色等制作动画。它是一个令人难以置信的工具，提供简单的界面和高级功能，使您可以快速创建令人惊叹的动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Breeze.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/439915479172.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1461807013-192321?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1CSSpxEKMY2RLykwz4KMQ-w?pwd=hfbs"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Dxsrb1mY7Kr"
+    }
+  ],
+  "other": {
+    "script_features": [
+      "能够在一层面罩上施加多次微风",
+      "在四个方向上创建波浪运动",
+      "包含几个针对不同波浪的预设",
+      "双向微风能力",
+      "有 2 种涂抹模式（蒙版/整体）"
+    ],
+    "update_info": "v1.0.1升级内容：修复了一些小错误",
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "hfbs"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Ae/Pr/Ps/Nuke/达芬奇/Vegas/OFX 电影胶片模拟调色插件Digital Film Tools Film Stocks 2.0v12.1 支持 CC 2018",
+  "slug": "ae-pr-ps-nuke-da-fen-qi-vegas-ofx-dian-ying-xiao-pian-mo-ni-diao-se-cha-jian-digital-film-tools-film-stocks-2-0v12-1-zhi-chi-cc-2018",
+  "author": "大众脸",
+  "post_date": "2017/10/26 17:36",
+  "source_url": "https://www.lookae.com/film-stocks-20121/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CC 2018",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "该插件由Digital Film Tools（DFT）公司出品，是一款独立的AE/PR/Ps/OFX影视特效插件，可模拟288个不同的颜色、黑/白色的胶片色调、电影胶片和复古色调，能在影片中创建专业特殊效果。2.0v12.1新版支持Adobe CC 2018并修复众多错误BUG，插件支持Win系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/FilmStocks.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2.0v12.1",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-225768776"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1nvFXurv"
+    }
+  ],
+  "other": {
+    "官网地址": "http://www.digitalfilmtools.com/filmstocks/",
+    "兼容软件": {
+      "Photoshop": "CS5 and up (64 Bit Only)（兼容 CC 2018）",
+      "Photoshop Elements": "13 and up (Non - app store version)",
+      "Photoshop Lightroom": "3 and up",
+      "After Effects": "CS5 and up（兼容 CC 2018）",
+      "Premiere Pro": "CS5 and up（兼容 CC 2018）",
+      "Avid Editing Systems": "(64 Bit only)",
+      "Assimilate Scratch": "v8 and up",
+      "Black Magic Resolve": "v11 and up 达芬奇调色软件",
+      "Sony Vegas": "v13 and up",
+      "The Foundry’s Nuke": "v8 and up"
+    }
+  }
+}

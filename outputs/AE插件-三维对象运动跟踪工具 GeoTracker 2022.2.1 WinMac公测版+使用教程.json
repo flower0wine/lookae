@@ -1,0 +1,52 @@
+{
+  "title": "AE插件-三维对象运动跟踪工具 GeoTracker 2022.2.1 Win/Mac公测版+使用教程",
+  "slug": "aecha-jian-san-wei-dui-xiang-yun-dong-gen-zong-gong-ju-geotracker-2022-2-1-win-macgong-ce-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/10/06 22:44",
+  "source_url": "https://www.lookae.com/geotracker/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "GeoTracker",
+    "跟踪插件"
+  ],
+  "content": "GeoTracker是一款3D对象跟踪After Effects插件，由KeenTools公司发布，支持在无需复杂匹配移动任务的情况下实现几乎实时的3D物体跟踪。它可重建素材中对象的3D运动，适用于替换、增强、作为粒子发射器等操作，广泛用于运动图形与设计。该插件目前处于公开测试阶段，完全免费，无需注册即可无限制使用30天。支持After Effects 2021(18.2)及以上版本，兼容Win/Mac系统，包括Apple M芯片设备。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/10/KeenTools-GeoTracker.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/379931977273.mp4"
+  ],
+  "supported_versions": "After Effects 2021 (18.2) 或更高版本",
+  "supported_os": "Win / Mac（含 Apple M 芯片）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-689097335-0be7b4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1tnUmzVIkAe-MYHscuFZDWg?pwd=5nni"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/zYD1s953Mq3"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "release_status": "公开测试版（公测版）",
+      "free_trial": "30天无限制免费使用",
+      "official_version": "AE插件-三维对象运动跟踪工具 GeoTracker 2023.1.0 Win正式版",
+      "official_version_url": "https://www.lookae.com/geotracker-2023/"
+    },
+    "features": [
+      "支持加载自定义3D模型并进行跟踪",
+      "内置四种3D基元：立方体、圆柱体、平面、球体",
+      "可导出为3D/2D Null图层，兼容Element 3D、Cinema 4D、粒子生成器等",
+      "可在相机未知情况下估计焦距",
+      "支持通过2D蒙版排除反射或遮挡区域的跟踪"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Mac苹果版-随机生成像素块视觉特效AE/PR插件 Block Swap v1.5.1",
+  "slug": "macping-guo-ban-sui-ji-sheng-cheng-xiang-su-kuai-shi-jue-te-xiao-ae-prcha-jian-block-swap-v1-5-1",
+  "author": "大众脸",
+  "post_date": "2025/01/10 10:45",
+  "source_url": "https://www.lookae.com/block-swap-151/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Mac苹果版",
+    "PR插件"
+  ],
+  "content": "该插件可在AE软件中制作随机打乱图像块效果，适合产生噪波、毛刺干扰小故障和过渡效果，能控制源图像像素块的大小、随机度、数量等参数制作动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Block-Swap.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/503293656262.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018"
+    ],
+    "Premiere": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018"
+    ]
+  },
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1445428259-90dc5b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/10cBeOMswmzLy4Wqp4uO5sg?pwd=rmkm"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/d8MDjAftamc"
+    }
+  ],
+  "other": {
+    "v1.5.1升级内容": [
+      "对齐 – 一种新功能，可找到当前块尺寸的最近值，以在整个图像中创建（如果可能）相同大小的块",
+      "修复了未注册版本的崩溃问题，其合成高度超过 4096 像素（水印错误）",
+      "修复了时间移位功能中的独占模式 – 现在禁用该功能时不起作用",
+      "修复了受调整图层和框架的分辨率差异影响的缩放问题",
+      "After Effects SDK 2023 年 5 月",
+      "装订的 macOS 版本（除了签名和公证）"
+    ],
+    "相关链接": [
+      "中文汉化AE/PR插件-随机生成像素块视觉特效 Block Swap Win：https://www.lookae.com/block-swap-15/"
+    ]
+  }
+}

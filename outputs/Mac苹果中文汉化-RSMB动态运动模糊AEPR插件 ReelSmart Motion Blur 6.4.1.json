@@ -1,0 +1,44 @@
+{
+  "title": "Mac苹果中文汉化-RSMB动态运动模糊AE/PR插件 ReelSmart Motion Blur 6.4.1",
+  "slug": "macping-guo-zhong-wen-yi-hua-rsmbdong-tai-yun-dong-mo-hu-ae-prcha-jian-reelsmart-motion-blur-6-4-1",
+  "author": "大众脸",
+  "post_date": "2024-06-27T11:30:00Z",
+  "source_url": "https://www.lookae.com/rsmb-maczh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "RSMB插件",
+    "中文汉化",
+    "精品资源",
+    "运动模糊"
+  ],
+  "content": "ReelSmart MotionBlur（简称RSMB）是一款专为AE和PR设计的动态运动模糊插件，可自动在运动效果中添加自然真实的运动模糊，无需手动设置。其核心跟踪技术能智能识别运动轨迹并生成逼真的模糊效果，支持自定义模糊强度，也可用于消除运动模糊。插件支持GPU加速渲染与多帧渲染，提升工作效率。适用于Mac平台Intel及Apple M系列芯片系统，兼容AE CC 2021–2024及PR CC 2021–2024版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/06/RSMB-Mac-ZH.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50159754464.mp4?_=1"
+  ],
+  "supported_versions": "AE CC 2021, 2022, 2023, 2024; PR CC 2021, 2022, 2023, 2024",
+  "supported_os": "Mac OS (Intel 和 Apple M 芯片)",
+  "download_links": [
+    {
+      "name": "淘宝购买链接",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=810049616475"
+    },
+    {
+      "name": "Mac英文版免费下载",
+      "url": "https://www.lookae.com/revisionfx-2303/"
+    },
+    {
+      "name": "Win英/中文版下载",
+      "url": "https://www.lookae.com/revisionfx-21-zh/"
+    }
+  ],
+  "other": {
+    "note": "仅提供中文版，一键集成安装；不支持Windows系统；部分参数可能因转译编码存在未汉化或潜在BUG；购买前请确认了解使用方式，本平台仅提供工具，不提供视频教程或使用教学。",
+    "purchase_info": "站内直接购买需支付¥10，登录后可下载隐藏内容"
+  }
+}

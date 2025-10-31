@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-图层素材快速标记剪切排列处理工具 Rapid Reel Composer V1.0+使用教程",
+  "slug": "aejiao-ben-tu-ceng-su-cai-kuai-su-biao-ji-jian-qie-pai-lie-chu-li-gong-ju-rapid-reel-composer-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/09 08:48",
+  "source_url": "https://www.lookae.com/rapid-reel-composer-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE标记",
+    "AE脚本",
+    "剪切视频",
+    "视频剪辑"
+  ],
+  "content": "Rapid Reel Composer 是一款强大的 After Effects 工具，旨在简化视频编辑流程，帮助用户仅通过几下点击即可轻松创建社交媒体卷轴和短视频。该工具无需手动裁剪或分割长素材。只需在所需位置按下键盘上的星号（*）键添加标记，Rapid Reel Composer 将自动在标记点将选中的图层拆分为多个短片段。支持两种工作模式：In-Out 方法与 'Lazy' 方法。此外，该工具还集成多项实用功能，有效节省时间，优化工作流，减少重复操作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Rapid-Reel-Composer.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/480709504100.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1354221968-c76de1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1OSKoT4sGihYcEZzER5TtbQ?pwd=4fx5"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/apr1dUprBRD"
+    }
+  ],
+  "other": {
+    "original_content": "2024/09/09 08:48\n作者：大众脸\n分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)\n[AE标记](https://www.lookae.com/tag/ae%e6%a0%87%e8%ae%b0/)[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)[剪切视频](https://www.lookae.com/tag/%e5%89%aa%e5%88%87%e8%a7%86%e9%a2%91/)[视频剪辑](https://www.lookae.com/tag/%e8%a7%86%e9%a2%91%e5%89%aa%e8%be%91/)",
+    "english_description": "Introducing Rapid Reel Composer, a powerful After Effects tool designed to simplify your video editing process and enable you to effortlessly create social media reels and short videos in just a few clicks. This tool eliminates the need for manually trimming and splitting lengthy footage. To split your video into shorter clips, all you need to do is place markers by pressing the asterisk (*) key on your keyboard at the desired sections of your footage. Rapid Reel Composer will automatically split the selected layer into multiple short clips at the marker locations. You have two methods to choose from: the In-Out method and the ‘Lazy’ method. Rapid Reel Composer is loaded with various other convenient features that will save you time and streamline your workflow, reducing the need for repetitive tasks.",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "4fx5"
+    }
+  }
+}

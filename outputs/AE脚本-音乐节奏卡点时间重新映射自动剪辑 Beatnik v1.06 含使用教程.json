@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-音乐节奏卡点时间重新映射自动剪辑 Beatnik v1.06 含使用教程",
+  "slug": "aejiao-ben-yin-le-jie-zou-qia-dian-shi-jian-zhong-xin-ying-she-zi-dong-jian-ji-beatnik-v1-06-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/09/19 10:07",
+  "source_url": "https://www.lookae.com/beatnik-106/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Beatnik是一款将音频高级峰值检测与时间重新映射相结合的After Effects脚本，可以精确控制基于音频的时间效果。它非常适合音量触发速度斜坡、自动编辑、蒙太奇以及从微妙到极端的各种重定时功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Beatnik.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/534679518625.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8436504856-b3b462?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1RRJ-SB1_5WjcLJAbiFHiXg?pwd=rk5f"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/M4RG7qFCHwn"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368500750"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1jcLGDPzS4iac8zm83Y9UlA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.06更新内容：更新的许可框架",
+    "passwords": {
+      "城通网盘_脚本": "6688",
+      "百度网盘_教程": "5iit"
+    }
+  }
+}

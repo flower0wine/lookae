@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-嵌套多合成中直接预览主合成音乐 Universal Audio v1.6.5+使用教程",
+  "slug": "aejiao-ben-qian-tao-duo-he-cheng-zhong-zhi-jie-yu-lan-zhu-he-cheng-yin-le-universal-audio-v1-6-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/10/08 11:14",
+  "source_url": "https://www.lookae.com/universal-audio-165/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可让用户在嵌套或子合成中直接预览主合成中的音乐，无需返回主合成即可进行音频同步动画调试。特别适用于为语音或音乐制作定时动画时，保持音频参考和标记的一致性。支持多版本After Effects，提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Universal-Audio.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50027492931.mp4"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-401886828"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1KMsCOPEYsk1AbfedLNnPOw"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "script_homepage": "http://aescripts.com/universal-audio/",
+    "update_notes": [
+      "更新了与Mac OS上的zsh许可框架兼容",
+      "当启用“Include visual-包括视觉”时，任何层都是通用的，即引导层现在将正确地显示为参考。",
+      "添加设置以控制视觉参考层的位置和比例",
+      "启用“包含可视参照”后，参照层不再自动缩放到角点"
+    ]
+  }
+}

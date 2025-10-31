@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-超级图形变形MG动画工具 Super Morphings v1.0.5+使用教程",
+  "slug": "aejiao-ben-chao-ji-tu-xing-bian-xing-mgdong-hua-gong-ju-super-morphings-v1-0-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-03T09:41:00Z",
+  "source_url": "https://www.lookae.com/super-morphings-105/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画"
+  ],
+  "content": "Super Morphings 是 After Effects 中最简单的形状变形工具，可实现一个对象到另一个对象的无缝转换。适用于图标之间的变形、场景过渡等常见动画需求。该插件支持一键变形、多对象变形元素、轨迹应用和切片器功能，操作简便且高度可定制。精美的变形效果是高质量动态设计的关键之一。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Super-Morphings.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/283151321076.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1490033732-ce9a57?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1fF-P1l6m0EHVQ25dIXVauw?pwd=ynz7"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/wFQiS9QBDAj"
+    }
+  ],
+  "other": {
+    "update_notes": "1.0.5 版本修复了启动时出现空错误的问题",
+    "featured_features": [
+      "一键变形任何物体",
+      "支持多个对象的多个变形元素",
+      "应用轨迹",
+      "应用切片器",
+      "轻松定制"
+    ],
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/mg%e5%8a%a8%e7%94%bb/"
+    ]
+  }
+}

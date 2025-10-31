@@ -1,0 +1,49 @@
+{
+  "title": "红巨人插件：职业快速套装 Red Giant Shooter Suite 12.5（一键安装）",
+  "slug": "hong-ju-ren-cha-jian-zhi-ye-kuai-su-tao-zhuang-red-giant-shooter-suite-12-5-yi-jian-an-zhuang",
+  "author": "大众脸",
+  "post_date": "2014-08-02T11:57:00Z",
+  "source_url": "https://www.lookae.com/shooter125/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CC 2014",
+    "Red Giant"
+  ],
+  "content": "Red Giant Shooter Suite 12.5 是一套专为影视制作人员设计的高效后期工作流程插件套装，支持在多个主流视频编辑软件中使用。该套装集成了多项专业功能，可显著提升拍摄现场到后期剪辑的效率，尤其适用于多机位拍摄场景。其核心功能包括自动音视频同步、素材备份与导出管理、降噪处理、4K分辨率支持以及色彩管理等，帮助用户实现从现场采集到最终输出的一体化解决方案。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/shoot125.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe CC 2014",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "职业快速套装 Red Giant Shooter Suite 12.5",
+      "url": "https://www.400gb.com/file/69775421"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "BulletProof 1.2 - 专业后期流程软件",
+      "PluralEyes 3.5 - 音视频自动同步插件",
+      "Denoiser II - 降噪插件",
+      "Instant 4K - 高清插件（支持4K）",
+      "Frames 1.1.3 - 转场插件（用于素材上下场）",
+      "LUT Buddy 1.0.1 - 色彩共享系统"
+    ],
+    "supported_software": [
+      "AE",
+      "PR",
+      "VEGAS",
+      "AVID",
+      "DEIUS"
+    ],
+    "installation_note": "一键安装版，安装即可使用，无需输入序列号",
+    "related_links": [
+      "https://www.lookae.com/redgiant619/"
+    ],
+    "demo_video": true,
+    "featured_image_alt": "红巨人插件：职业快速套装 Red Giant Shooter Suite 12.5（一键安装）-LookAE.com"
+  }
+}

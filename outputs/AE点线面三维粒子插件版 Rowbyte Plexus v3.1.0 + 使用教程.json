@@ -1,0 +1,77 @@
+{
+  "title": "AE点线面三维粒子插件版 Rowbyte Plexus v3.1.0 + 使用教程",
+  "slug": "aedian-xian-mian-san-wei-li-zi-cha-jian-ban-rowbyte-plexus-v3-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/06 12:21",
+  "source_url": "https://www.lookae.com/plexus310/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "强大的 Plexus 粒子插件迎来重大更新 Plexus 3，支持制作点、线、面三维粒子效果，渲染速度快，支持3D模型导入（如OBJ格式），可结合路径、文字和灯光创建粒子发射。提供多种自定义特效，包括分形、颜色、球形场和阴影等。Plexus 是一款面向 After Effects 的下一代粒子引擎，支持程序化地创建、操控和可视化数据，允许用户基于不同参数建立粒子之间的复杂关系，工作流程模块化，配置灵活。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5.5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版 Plexus 3.1.0 插件下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202002135"
+    },
+    {
+      "name": "Win 版 Plexus 3.1.0 插件下载",
+      "url": "https://pan.baidu.com/s/1o8v3cl8"
+    },
+    {
+      "name": "Mac 版 Plexus 3.0.13 插件下载",
+      "url": "https://pan.baidu.com/s/1slnlfwp"
+    },
+    {
+      "name": "Mac 版 Plexus 3.0.13 插件下载",
+      "url": "https://lookae.ctfile.com/fs/dSi172186702"
+    },
+    {
+      "name": "高清视频教程下载地址",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "高清视频教程下载地址",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "official_urls": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ],
+    "update_notes": [
+      "修正OBJ在CC 2017的兼容问题",
+      "修正 OBJ文件路径的问题",
+      "修复在渲染农场无法渲染问题",
+      "改进的OBJ支持",
+      "小错误修复"
+    ],
+    "new_features": [
+      "Object based UI 全新定制的UI操控界面",
+      "Depth Map Culling 深度贴图",
+      "Motion Blur 运动模糊",
+      "Sound Effector 音频效果器",
+      "Null Object Performance 空物体控制提升",
+      "Slicer Object 物体切割",
+      "Path Object Improvements 物体路径",
+      "Seamless Beams 无缝线条动画",
+      "Custom Visibility Settings 粒子可视化控制",
+      "Improved OBJ ImportOBJ 导入提升",
+      "Unified Rendering 统一渲染",
+      "Nested Compositions 镶嵌合成模式",
+      "Loop Noise 循环噪波"
+    ],
+    "additional_links": {
+      "taobao_store": "https://lookae.taobao.com/",
+      "sponsor_link": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

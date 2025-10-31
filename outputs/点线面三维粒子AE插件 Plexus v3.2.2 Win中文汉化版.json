@@ -1,0 +1,55 @@
+{
+  "title": "点线面三维粒子AE插件 Plexus v3.2.2 Win中文汉化版",
+  "slug": "dian-xian-mian-san-wei-li-zi-aecha-jian-plexus-v3-2-2-winzhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2021/11/25 11:20",
+  "source_url": "https://www.lookae.com/plexus-322/",
+  "category": "aechajian",
+  "tags": [
+    "Plexus",
+    "三维粒子",
+    "中文汉化",
+    "粒子插件"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。不仅可渲染粒子，还能基于多种参数建立粒子间的复杂关系。其工作流高度模块化，可实现无限多的配置与参数组合。该插件支持3D模型导入（推荐使用OBJ格式），可用于创建点、线、面等三维粒子效果，并可通过路径、文字、灯光生成粒子发射源，操作模式独特，内置多种自定义特效，如分形、颜色控制、球形场、阴影等，渲染速度快，功能强大。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 6 – CC 2019, 2020, 2021, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-521858770-99256b"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1kgwV37gOZahCfpTrW1LuCw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9Cccdf7tNrJ"
+    }
+  ],
+  "other": {
+    "update_notes": "v3.2.2 更新内容：- 多帧渲染 (MFR) 相关错误修正。浮动许可证兼容性更新",
+    "tutorial_links": [
+      "https://lookae.ctfile.com/fs/ZI4154455817",
+      "https://pan.baidu.com/s/1hsvzYvi"
+    ],
+    "related_articles": [
+      "https://www.lookae.com/plexus-3113-mac/"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/plexus/",
+      "https://www.lookae.com/tag/%e4%b8%89%e7%bb%b4%e7%b2%92%e5%ad%90/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "https://www.lookae.com/tag/%e7%b2%92%e5%ad%90%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

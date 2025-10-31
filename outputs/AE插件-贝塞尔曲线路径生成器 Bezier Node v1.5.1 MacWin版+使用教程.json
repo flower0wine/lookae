@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-贝塞尔曲线路径生成器 Bezier Node v1.5.1 Mac/Win版+使用教程",
+  "slug": "aecha-jian-bei-sai-er-qu-xian-lu-jing-sheng-cheng-qi-bezier-node-v1-5-1-mac-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/03 23:31",
+  "source_url": "https://www.lookae.com/bezier-151-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Bezier Node插件简化了制作贝塞尔曲线和其他曲线的过程，可以从A点到B点绘制漂亮的曲线，能够通过滑块控制从直线到曲线的曲率。插件支持控制起始和结束位置、对称模式、附加线条、颜色设置、路径修改、多曲线路径及描边等功能，确保生成的曲线始终完美。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Bezier-Node.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Mac版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-358695579"
+    },
+    {
+      "name": "Mac版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BAlJF-m_UvIWOM_TTDV_DA"
+    },
+    {
+      "name": "Win版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-349261141"
+    },
+    {
+      "name": "Win版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YOmFBzeU6p3Y_VZabICQ_g%20"
+    }
+  ],
+  "other": {
+    "extract_codes": {
+      "mac_baidu": "ygqm",
+      "win_baidu": "r38e"
+    },
+    "official_site": "https://aescripts.com/bezier-node/",
+    "changelog": [
+      "修复单个曲率误差BUG",
+      "创建空值功能现在使用层名称和效果名称，以避免效果的多个实例出现问题。"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：合成标记自动同步脚本 AEscripts Markers Sync+使用教程",
+  "slug": "aejiao-ben-he-cheng-biao-ji-zi-dong-tong-bu-jiao-ben-aescripts-markers-sync-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-08-12T13:26:00Z",
+  "source_url": "https://www.lookae.com/markers-sync/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本可快速自动同步不同合成中的标记，实现标记的自动对齐。支持多层及时间重新映射功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Markers-Sync.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：合成标记自动同步脚本 AEscripts Markers Sync+使用教程",
+      "url": "https://www.400gb.com/file/112245812"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Panels"
+  }
+}

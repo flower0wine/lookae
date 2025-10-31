@@ -1,0 +1,58 @@
+{
+  "title": "人工智能子弹时间插帧流畅慢动作特效AE插件 Bullet Time v1.2.3 Win/Mac+使用教程",
+  "slug": "ren-gong-zhi-neng-zi-dan-shi-jian-cha-zheng-liu-chang-man-dong-zuo-te-xiao-aecha-jian-bullet-time-v1-2-3-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/05/23 09:39",
+  "source_url": "https://www.lookae.com/bullet-time-123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Bullet Time",
+    "子弹时间"
+  ],
+  "content": "Bullet Time 是一款基于AI人工智能的帧插值插件，可实现超流畅的慢动作效果。它能在两个输入帧之间创建平滑的插值，并提升任意素材的帧速率。用户只需定义起始和结束帧，并为时间步长设置动画，插值过程利用最新的人工智能模型，配备多种便捷设置，确保高保真度输出结果。支持 Windows 和 Mac 系统，兼容 After Effects 2025、2024、2023。v1.2.23 版本进行了小幅性能优化，非 CUDA 版本依赖更少的系统库。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/Bullet-Time.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/471718272259.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1506924937-cb3285?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1iX8UwjpvudjchJOtztgeTg?pwd=s9pc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/jHHW7st21Es"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/bullet-time/",
+      "https://www.lookae.com/tag/%e5%ad%90%e5%bc%b9%e6%97%b6%e9%97%b4/"
+    ],
+    "update_notes": "v1.2.23 更新内容：对某些设置进行小幅性能更新；使非 cuda 版本依赖于较少的系统库。",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "s9pc"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "中文汉化AE插件-节点式三维粒子特效星尘粒子插件 Stardust 1.6.0c Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-xing-chen-li-zi-cha-jian-stardust-1-6-0c-win",
+  "author": "大众脸",
+  "post_date": "2024/08/27 11:08",
+  "source_url": "https://www.lookae.com/stardust-zh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust",
+    "中文汉化",
+    "星尘粒子",
+    "精品资源"
+  ],
+  "content": "Stardust 是 Adobe After Effects 的新一代节点式三维粒子插件，支持创建复杂的粒子特效与3D运动图形。具备发射器、粒子、复制、力场、3D模型、文字、Mask 等多种控制模块，拥有数百种预设，支持模块化工作流。新版引入体积渲染功能，可从 VDB 文件或粒子系统生成烟雾效果，并支持导入外部3D软件的VDB数据进行仿真，实现与合成中相机联动的高级渲染。插件采用创新界面设计，整合3D物理引擎、副本动画、材质模板、模型库等功能，极大提升创意表达能力。适用于 AE CC 2020 至 2024 版本，仅支持 Windows 系统。",
+  "image_urls": [
+    "https://gd1.alicdn.com/imgextra/i2/705956171/O1CN01NbRURa1vSMjlQd20E_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01d87Nnb1vSMjeHwhfW_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01bi5OHB1vSMjgwS6yH_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01Zrog4S1vSMjeHyqtG_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01Of2sVe1vSMjl87hJn_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274082902566.mp4"
+  ],
+  "supported_versions": "After Effects CC 2020, 2021, 2022, 2023, 2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "淘宝购买（中文汉化版）",
+      "url": "https://item.taobao.com/item.htm?id=624502198931"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/stardust-160c/"
+    },
+    {
+      "name": "站内直接购买（需登录）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fstardust-zh%"
+    }
+  ],
+  "other": {
+    "note": "提供中文/英文双版本，一键安装；部分参数因技术限制未汉化；插件使用GPU加速，不支持多帧渲染；仅限Windows系统使用。",
+    "update_features": [
+      "体积渲染：支持从VDB文件或粒子系统生成烟雾效果",
+      "新UI界面：优化节点设计与配色",
+      "物理系统增强：支持状态保存、空气密度动画、属性时间采样",
+      "模型功能扩展：支持Null复制、UV重复偏移、OBJ导出",
+      "粒子控制：新增旋转限制功能（如固定90度）",
+      "发射器增强：支持灯光发射器大小设置",
+      "图形功能：新增翻转选项",
+      "材质功能：支持将材质设为模板",
+      "工作室灯光：为工作室相机添加自定义灯光",
+      "修复问题：解决不可见粒子显示异常"
+    ],
+    "preview_images": [
+      "https://img.alicdn.com/imgextra/i2/705956171/O1CN01d87Nnb1vSMjeHwhfW_!!705956171.jpg",
+      "https://img.alicdn.com/imgextra/i3/705956171/O1CN01bi5OHB1vSMjgwS6yH_!!705956171.jpg",
+      "https://img.alicdn.com/imgextra/i4/705956171/O1CN01Zrog4S1vSMjeHyqtG_!!705956171.jpg",
+      "https://img.alicdn.com/imgextra/i4/705956171/O1CN01Of2sVe1vSMjl87hJn_!!705956171.jpg"
+    ],
+    "is_first_independent_panel_chinese_translation": true,
+    "classification": [
+      "AE插件",
+      "After Effects",
+      "精品资源"
+    ]
+  }
+}

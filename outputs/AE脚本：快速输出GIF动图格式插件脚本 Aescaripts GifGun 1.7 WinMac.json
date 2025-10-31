@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本：快速输出GIF动图格式插件脚本 Aescaripts GifGun 1.7 Win/Mac",
+  "slug": "aejiao-ben-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-jiao-ben-aescaripts-gifgun-1-7-win-mac",
+  "author": "大众脸",
+  "post_date": "2018/08/11 10:07",
+  "source_url": "https://www.lookae.com/gifgun17/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "GifGun 是一款专为 Adobe After Effects 设计的脚本插件，可一键将动画序列导出为高质量的 GIF 动图格式。自 AE CS5 起取消了原生支持 GIF 输出功能后，该脚本填补了这一空白。用户可在不依赖外部软件的情况下，在 After Effects 内直接完成 GIF 渲染，适用于展示于 Dribbble、Behance 等平台。支持 Mac 与 Windows 系统，兼容 Adobe After Effects CC 至 CC 2018 版本。脚本提供自定义设置选项，包括图像大小、帧率等参数，以满足不同输出需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/gifguntitle_1.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/GifGun/0_mainInterface_.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2018",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-302892099"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/15tad02i0dc4YMBrRwz8rHg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "Experimental Render Engine for higher quality results",
+      "Updated UI",
+      "Bug and compatibility fixes"
+    ],
+    "discussion_link": "http://aescripts.com/gifgun/#/discussion/embed",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

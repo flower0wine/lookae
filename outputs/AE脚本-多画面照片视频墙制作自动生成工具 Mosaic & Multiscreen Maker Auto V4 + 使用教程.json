@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-多画面照片视频墙制作自动生成工具 Mosaic & Multiscreen Maker Auto V4 + 使用教程",
+  "slug": "aejiao-ben-duo-hua-mian-zhao-pian-shi-pin-qiang-zhi-zuo-zi-dong-sheng-cheng-gong-ju-mosaic-multiscreen-maker-auto-v4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/03/28 13:41",
+  "source_url": "https://www.lookae.com/multiscreen-maker/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款用于 Adobe After Effects 的自动化脚本工具，可快速生成多画面照片或视频墙效果。用户只需导入照片，即可一键自动生成布局，操作简单高效。脚本内含完整工程文件和使用视频教程，支持高度自定义，适用于多种项目场景，无需额外插件，显著提升制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/03/multi-screen-maker-v4.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6及以上版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-433051869"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1LipCvFbbykYwfOW3QjluWg"
+    }
+  ],
+  "other": {
+    "extract_code": "fvgq",
+    "changelog": [
+      "V4.0更新–可以显示马赛克",
+      "V3.0更新–修复了多功能问题",
+      "V2.0更新–教程已更新，过渡得到改善",
+      "V1.6更新–添加了UHD分辨率，元素略有更改",
+      "V1.5更新–添加了5个揭示程序过渡",
+      "V1发布"
+    ],
+    "features": [
+      "After Effects 脚本包括",
+      "自动化多屏制作器",
+      "轻松定制",
+      "可调整大小的分辨率",
+      "无需插件",
+      "节省时间制作数百个屏幕",
+      "在其他项目中可多用"
+    ],
+    "notes": "脚本必须在工程Multi Screen Maker (ver). aep中运行"
+  }
+}

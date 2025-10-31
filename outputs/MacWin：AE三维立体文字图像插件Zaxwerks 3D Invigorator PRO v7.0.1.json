@@ -1,0 +1,44 @@
+{
+  "title": "Mac/Win：AE三维立体文字图像插件Zaxwerks 3D Invigorator PRO v7.0.1",
+  "slug": "mac-win-aesan-wei-li-ti-wen-zi-tu-xiang-cha-jian-zaxwerks-3d-invigorator-pro-v7-0-1",
+  "author": "大众脸",
+  "post_date": "2014/10/08 23:01",
+  "source_url": "https://www.lookae.com/invigoratormac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac",
+    "Zaxwerks 3D"
+  ],
+  "content": "Zaxwerks 3D Invigorator PRO是AE的一款真实3D插件，支持快速渲染。可以快速创建漂亮的三维模型，插件具有强大的独立完整界面，能和AE很好的互通。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/02/Zaxwerks-3D-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 和以上版本,含Adobe CC 2014.1版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Mac 版本下载",
+      "url": "https://www.400gb.com/file/75312016"
+    },
+    {
+      "name": "Win 版本下载",
+      "url": "https://www.lookae.com/invigorator/"
+    }
+  ],
+  "other": {
+    "official_website": "http://zaxwerks.com/invigorator_pro/",
+    "official_introduction": "http://www.zaxwerks.com/invigorator_pro/index.shtml",
+    "related_plugins": [
+      {
+        "name": "AE 三维旗帜动画制作插件：Zaxwerks 3D Flag AE v3.0.2（附汉化）",
+        "url": "https://www.lookae.com/z3d-flag/"
+      },
+      {
+        "name": "AE插件：Zaxwerks 插件套装（CS3-CS6）",
+        "url": "https://www.lookae.com/zaxwerks/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-实时预览修改预合成 PORTAL V1.0.0+使用教程",
+  "slug": "aejiao-ben-shi-shi-yu-lan-xiu-gai-yu-he-cheng-portal-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-10T09:26:00Z",
+  "source_url": "https://www.lookae.com/portal/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "PORTAL 脚本可让您在预合成过程中实时预览主合成内容，确保所有嵌套元素与主合成保持同步。通过一键插入引导层，实现时间线感知的动态更新，无需来回切换视图或猜测效果变化。支持嵌套结构保留、非破坏性操作，适用于复杂项目中的高效工作流。该脚本具备上下文感知能力，即使在时间线上移动也能维持预合成同步，且可随时重新生成门户以更新参考。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/PORTAL.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/526297176054.mp4"
+  ],
+  "supported_versions": "AE 2024, AE 2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1524936085-4871ff?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1P-FQtOARa0tNFgx8QdFZWw?pwd=j68m"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/o4nokn9xV4S"
+    }
+  ],
+  "other": {
+    "original_post_date": "2025/07/10 09:26",
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "related_tags": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ],
+    "description": "PORTAL 弥合了嵌套工作流程与全局视图之间的差距。选择主合成后点击插入门户，即可立即获得完整的时间线感知，无需来回跳转或猜测。修改主合成时，再次点击即可观察每个嵌套合成的变化，实现快速、可靠且直观的上下文驱动设计。",
+    "feature_list": [
+      "一键插入时间重新映射的主合成引导层版本",
+      "上下文感知：即使在时间线上移动，也能保持预合成同步",
+      "轻松更新——只需单击即可重建门户并更新所有参考资料",
+      "支持嵌套组合，保留项目的内部结构",
+      "非破坏性和引导层——对最终渲染安全且易于管理"
+    ]
+  }
+}

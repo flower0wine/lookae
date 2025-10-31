@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-有趣滚动MG动画制作 Roll it! v1.1+使用教程",
+  "slug": "aejiao-ben-you-qu-gun-dong-mgdong-hua-zhi-zuo-roll-it-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/25 21:56",
+  "source_url": "https://www.lookae.com/roll-it/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Roll it 脚本可在 After Effects 中实现任意复杂形状或蒙版的滚动效果，操作简单且功能强大。只需选择一个形状或多个形状，点击脚本按钮，再调整图层变换中的旋转属性，即可看到图形自然滚动。该脚本支持复杂路径，无需担心形状限制（前提是需转换为贝塞尔路径）。特别适用于制作动态图形（MG）动画，提升创作效率与趣味性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Roll-it.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368345726"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1U4rW-T8jP2FOdXGewXTajQ"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "script_website": "https://aescripts.com/roll-it/",
+      "original_category_links": [
+        "https://www.lookae.com/after-effects/aechajian/",
+        "https://www.lookae.com/after-effects/aescripts/",
+        "https://www.lookae.com/after-effects/"
+      ],
+      "tag_links": [
+        "https://www.lookae.com/tag/aescaripts/",
+        "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      ],
+      "download_password": "15wz"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Mac苹果版-场景扫描DOF深度图自动生成AE插件 Depth Scanner 1.8.2",
+  "slug": "macping-guo-ban-chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-aecha-jian-depth-scanner-1-8-2",
+  "author": "大众脸",
+  "post_date": "2024/07/12 11:43",
+  "source_url": "https://www.lookae.com/depth-scanner-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Depth Scanner",
+    "DOF插件",
+    "Mac苹果版"
+  ],
+  "content": "用于自动深度图计算的基于人工智能的插件。可让您从图像和视频创建深度图。生成的深度图可用于各种后期处理任务，例如添加雾、将素材转换为立体3D以及更多图像效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1322864278-c6fe68?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1zK6LdmrGJ1iQTan_h4ORKw?pwd=wers"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/twCnzaPxYCk"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "Win版-场景扫描DOF深度图自动生成AE插件 Depth Scanner 1.14.0",
+        "url": "https://www.lookae.com/depth-scanner-114/"
+      }
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "wers"
+    }
+  }
+}

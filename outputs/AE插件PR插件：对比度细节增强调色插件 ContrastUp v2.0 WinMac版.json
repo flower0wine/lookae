@@ -1,0 +1,34 @@
+{
+  "title": "AE插件/PR插件：对比度细节增强调色插件 ContrastUp v2.0 Win/Mac版",
+  "slug": "aecha-jian-prcha-jian-dui-bi-du-xi-jie-zeng-qiang-diao-se-cha-jian-contrastup-v2-0-win-macban",
+  "author": "大众脸",
+  "post_date": "2019/08/12 21:23",
+  "source_url": "https://www.lookae.com/contrastup-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "ContrastUp 是一款用于增强图像对比度并精细调整阴影、中间色调和高光部分的调色插件。它采用先进的算法提升视频帧和静态图像的画质，操作简单直观，能保持画面自然观感。插件支持 GPU 加速，具备实时预览性能，帮助用户快速实现高质量的色彩调整。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/ContrastUp.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere: CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-392523567"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1UCipe3BUFtcXnLwirc8J-A"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/contrastup/",
+    "update_notes": "v2.0 更新内容：直方图调整滑块的改进可以更好地保持自然度。"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Win/Mac版：AE摄像机反求跟踪插件 FayTeq FayIN v2.4.0",
+  "slug": "win-macban-aeshe-xiang-ji-fan-qiu-gen-zong-cha-jian-fayteq-fayin-v2-4-0",
+  "author": "大众脸",
+  "post_date": "2016/09/11 16:07",
+  "source_url": "https://www.lookae.com/fayin24/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "AE中又一款摄像机信息反求跟踪插件，可很容易地在AE软件中解决跟踪问题。在插件跟踪中可以插入文字、图片等需要跟踪的素材，插件还支持多个跟踪面，并可进行缩放、旋转和角度等属性调整。为了方便学习和使用，附带7个高清操作使用教程下载。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/01/FAYIN.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2014 – CC 2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版下载",
+      "url": "http://lookae.ctfile.com/fs/sjk156396706"
+    },
+    {
+      "name": "Mac 苹果版下载",
+      "url": "http://lookae.ctfile.com/fs/bvA156396673"
+    },
+    {
+      "name": "高清视频教程下载",
+      "url": "http://lookae.ctfile.com/file/141847475"
+    }
+  ],
+  "other": {
+    "related_plugins": [
+      {
+        "title": "AE三维摄相机跟踪插件 The Foundry Camera Tracker 1.0v9（win/Mac）",
+        "url": "https://www.lookae.com/tracker109/"
+      }
+    ],
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_url": "https://www.lookae.com/sponsor/",
+    "official_website": "www.fayteq.com/fayin/"
+  }
+}

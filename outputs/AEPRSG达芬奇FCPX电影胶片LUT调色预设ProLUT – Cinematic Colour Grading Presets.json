@@ -1,0 +1,44 @@
+{
+  "title": "AE/PR/SG/达芬奇/FCPX电影胶片LUT调色预设ProLUT – Cinematic Colour Grading Presets",
+  "slug": "ae-pr-sg-da-fen-qi-fcpxdian-ying-xiao-pian-lutdiao-se-yu-she-prolut-cinematic-colour-grading-presets",
+  "author": "大众脸",
+  "post_date": "2014-11-25",
+  "source_url": "https://www.lookae.com/prolut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUT调色预设",
+    "调色预设",
+    "达芬奇预设"
+  ],
+  "content": "一套电影级别的LUT调色预设，共三大类约150个不同预设，涵盖猩球崛起、300勇士、黑暗骑士、哈利波特等经典电影风格。可快速为画面赋予胶片质感和独特色彩，适用于Mac与Win系统下的主流后期软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/ProLUT.jpg",
+    "http://www.davidhjlindberg.com/wp-content/uploads/2014/09/ProLUT_preview_1280x5365.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6–CC 2014 及以上",
+  "supported_os": "Mac / Windows",
+  "download_links": [
+    {
+      "name": "主下载",
+      "url": "https://www.400gb.com/file/79043195"
+    }
+  ],
+  "other": {
+    "调用插件": {
+      "Premiere Pro CC": "Lumetri",
+      "Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "通用": [
+        "Magic Bullet LUT Buddy",
+        "FCPX软件 LUT 实用颜色工具"
+      ]
+    },
+    "更多LUT预设": "https://www.lookae.com/tag/lut/"
+  }
+}

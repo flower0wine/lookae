@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-智能关键帧浏览导航器 Smart Keyframe Navigator v1.0 + 使用教程",
+  "slug": "aejiao-ben-zhi-neng-guan-jian-zheng-liu-lan-dao-hang-qi-smart-keyframe-navigator-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-01-15",
+  "source_url": "https://www.lookae.com/ae-skn/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本可以使用键盘直观地浏览关键帧。与默认的AE方法相比，智能关键帧导航器提供了更好的导航控件。两个脚本文件绑定到键盘快捷键（建议使用Shift + k和Shift + j）。当时间轴上充满关键帧时，就无法在它们之间快速准确地跳转，Smart Keyframe Navigator解决了这个问题，提供了更精细的导航控制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/AE-SKN.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5",
+  "supported_os": "Win和Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-417840154"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YRGwF8zgfPbp1VNDljh7aQ"
+    }
+  ],
+  "other": {
+    "navigation_features": [
+      "如果未选择任何内容，则考虑所有关键帧，SKN的工作方式将类似于默认的“k”和“j”键",
+      "如果选择了一层或多层，SKN将仅在这些层上导航关键帧",
+      "如果选择了属性，SKN会假装只有这些属性可见。这也适用于多个不同层上的属性"
+    ],
+    "official_url": "https://aescripts.com/smart-keyframe-navigator/"
+  }
+}

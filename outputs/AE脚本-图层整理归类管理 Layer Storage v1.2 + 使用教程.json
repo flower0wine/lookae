@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本-图层整理归类管理 Layer Storage v1.2 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-zheng-li-gui-lei-guan-li-layer-storage-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/04/25 23:19",
+  "source_url": "https://www.lookae.com/layer-storage/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Layer Storage 是一款强大的After Effects脚本，旨在高效管理自定义图层组，彻底改变在AE中的工作流程。它能够对时间线中的图层进行系统整理，创建图层组，并支持单独显示、隐藏、避开、选择乃至隔离组内图层。该脚本有效解决了因图层过多导致的混乱问题，从而提升创造性和工作效率。其组织方式兼具分组的结构性和标签的灵活性，可随意将任意图层纳入不同组别，甚至移动已分组的图层。所有分组信息将直接保存在项目中，确保项目重新打开或移交他人时组别结构依然完整，避免了项目文件的混乱。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/Layer-Storage-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-439757704"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/12IXnL199PvafHQQE0bhCqg"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "9343"
+  }
+}

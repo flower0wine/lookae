@@ -1,0 +1,51 @@
+{
+  "title": "AE插件-画面颜色选取调色替换修改Composite Brush v1.5.2 Mac + 使用教程",
+  "slug": "aecha-jian-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-composite-brush-v1-5-2-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/01/15 11:57",
+  "source_url": "https://www.lookae.com/composite-152/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Composite Brush 是一款适用于 After Effects 的精准且易于使用的颜色选择与修改工具。用户仅需几笔操作即可创建选区，随后可对颜色进行调整或提取键控（key）。该插件支持在视频画面上直接选取颜色，并将选定区域替换为自定义颜色。通过单击并拖动可完成颜色选取，按住 Alt 键并点击鼠标左键可取消选择。此外，该插件可与 Keylight 抠像插件协同使用，提升抠像效果的清晰度和准确性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-479206421"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1j9gnggRSvLBDaAitBsohpQ"
+    },
+    {
+      "name": "使用教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-331097985"
+    },
+    {
+      "name": "使用教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1sd0XkNw_f09V3BXC2_Sxvw"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了与以前项目的兼容性错误。",
+      "更好地适应了不同的线性色彩空间。",
+      "添加了柔和度按钮，用于少量后期处理以平滑边缘。",
+      "添加了优化和软化按钮，通过消除多余处理提升运行速度，并应用关键柔和度参数，未来版本将自动执行此操作。"
+    ],
+    "related_links": [
+      {
+        "title": "中文汉化AE插件-画面颜色选取调色替换修改Composite Brush v1.6.2 Win",
+        "url": "https://www.lookae.com/composite-162/"
+      }
+    ],
+    "download_password": "6z4a"
+  }
+}

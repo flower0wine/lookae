@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本/模板-三维手机App应用界面介绍展示场景动画包 App Promo Builder for Element 3D",
+  "slug": "aejiao-ben-mo-ban-san-wei-shou-ji-appying-yong-jie-mian-jie-shao-zhan-shi-chang-jing-dong-hua-bao-app-promo-builder-for-element-3d",
+  "author": "大众脸",
+  "post_date": "2020-04-15T17:47:00Z",
+  "source_url": "https://www.lookae.com/app-promo-builder/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本"
+  ],
+  "content": "这是一款真实照片级的三维手机应用界面展示动画包，专为Element 3D设计。包含Galaxy S10和iPhone 11 Pro两款最新设备模型，支持134个预设的应用场景，涵盖动画文本、LOGO动画、背景等元素。所有场景均完全可定制，分层清晰，易于使用。适用于展示应用设计、原型、社交网络、媒体、音乐、电商、预订类等多种类型的应用界面。项目可在数分钟内完成，效果专业且独特。支持AE CC 2019及以上版本（含中英文版），依赖VideoCopilot Saber和Element 3D v2插件。模板为aep原版工程，分辨率为1920×1080，不包含背景音乐。提供官方英文视频教程与安装说明。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/App-Promo-Builder-for-Element-3D.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019 及更高版本",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-437731959"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1CXznTe_NRSI5yfe5Z0DFsQ"
+    }
+  ],
+  "other": {
+    "software_requirements": [
+      "VideoCopilot Saber",
+      "Element 3D v2"
+    ],
+    "template_format": "aep 原版工程",
+    "resolution": "1920×1080",
+    "music_included": false,
+    "tutorial_available": "官方英文视频教程",
+    "installation_method": "手动拷贝安装（有安装说明）",
+    "script_size": "约2.4G",
+    "installation_location": "必须安装在系统C盘，不可更改",
+    "note": [
+      "脚本文件较大，未提供一键安装程序。",
+      "需手动安装并遵循说明文档。"
+    ],
+    "related_recommendations": [
+      "AE脚本+模板-165种能量电流发光线条LOGO文字MG运动图形元素动画"
+    ]
+  }
+}

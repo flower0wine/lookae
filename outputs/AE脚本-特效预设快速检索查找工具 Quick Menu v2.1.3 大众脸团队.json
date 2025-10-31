@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-特效预设快速检索查找工具 Quick Menu v2.1.3 大众脸团队",
+  "slug": "aejiao-ben-te-xiao-yu-she-kuai-su-jian-suo-cha-zhao-gong-ju-quick-menu-v2-1-3-da-zhong-lian-tuan-dui",
+  "author": "大众脸",
+  "post_date": "2019-11-19T20:53:00Z",
+  "source_url": "https://www.lookae.com/menu-213/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Quick Menu 是一个智能且直观的启动器，通过用户自定义快捷键调用后浮现在界面之上。它能让你快速查找并启动特效、插件、预设、脚本、表达式、扩展及大多数菜单命令，支持中文搜索，帮助你专注于创作，避免在复杂菜单中浪费时间。该工具适用于 Windows 和 Mac 系统下的多个 After Effects 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Menu-v2.jpg",
+    "http://aescripts.com/media/catalog/product/q/u/quickmenuinaction_1.gif",
+    "http://aescripts.com/media/catalog/product/q/u/quickmenucommands.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/30542827.mp4"
+  ],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-408491983"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1M0u1PrPjBoP9P3ntoQh24Q"
+    }
+  ],
+  "other": {
+    "update_notes": "Quick Menu v2.1.3 更新：代码更新",
+    "project_url": "https://aescripts.com/quick-menu/",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

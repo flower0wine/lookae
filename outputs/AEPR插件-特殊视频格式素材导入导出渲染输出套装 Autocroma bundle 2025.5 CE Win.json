@@ -1,0 +1,79 @@
+{
+  "title": "AE/PR插件-特殊视频格式素材导入导出渲染输出套装 Autocroma bundle 2025.5 CE Win",
+  "slug": "ae-prcha-jian-te-shu-shi-pin-ge-shi-su-cai-dao-ru-dao-chu-xuan-ran-shu-chu-tao-zhuang-autocroma-bundle-2025-5-ce-win",
+  "author": "大众脸",
+  "post_date": "2025/06/10 09:48",
+  "source_url": "https://www.lookae.com/autocroma-20255/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "Autocroma",
+    "PR插件",
+    "输出插件"
+  ],
+  "content": "这是Autocroma插件合集包，一键安装，安装后即可正常使用。包含 AfterCodecs、BRAW Studio、PlumePack 和 Influx 四款插件，支持 AE、PR 及 Media Encoder 的高效导入、编辑与渲染输出，提升工作流效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Autokroma-bundle-2025.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": "After Effects, Media Encoder, Premiere: 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1514660500-533a1d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17YeUbOod1AWOJpXrG_oJ5w?pwd=yiii"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/cPsYkX9W6eC"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "yiii"
+    },
+    "plugins": [
+      {
+        "name": "AfterCodecs",
+        "version": "v1.11.6",
+        "description": "特殊编码加速输出渲染插件，支持 H264、H265 和 ProRes 编码，渲染速度快，压缩文件小，画质佳。"
+      },
+      {
+        "name": "BRAW Studio",
+        "version": "v3.3.8",
+        "description": "支持原生导入 Blackmagic RAW (.braw) 格式，适用于 After Effects、Premiere Pro 和 Media Encoder，提供高级元数据管理和自定义 RAW 设置功能。"
+      },
+      {
+        "name": "PlumePack",
+        "version": "v2.4.5",
+        "description": "用于修剪、存档和整理 Premiere 项目媒体，使项目更轻量化。"
+      },
+      {
+        "name": "Influx",
+        "version": "v1.5.5",
+        "description": "支持直接导入 MKV/MOV/FLV 等格式，无需转码，可在 AE、PR 和 AME 中直接处理和导出。"
+      }
+    ],
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aftercodecs/",
+      "https://www.lookae.com/tag/autocroma/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e8%be%93%e5%87%ba%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

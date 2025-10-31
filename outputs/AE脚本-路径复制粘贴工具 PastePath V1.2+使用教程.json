@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本-路径复制粘贴工具 PastePath V1.2+使用教程",
+  "slug": "aejiao-ben-lu-jing-fu-zhi-nian-tie-gong-ju-pastepath-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/03/17 09:07",
+  "source_url": "https://www.lookae.com/pastepath-12/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款AE脚本-路径复制粘贴工具PastePath V1.2，可在AE中跨蒙版和形状复制粘贴路径，支持关键帧和静态路径。介绍了v1.2更新内容，如添加多个路径复制粘贴功能、改进进度条等；脚本特征包括复制路径、粘贴蒙版、粘贴形状；还说明了脚本用法。该脚本支持Win/Mac系统多个AE版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/PastePath.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/510734935150.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1470855802-ee7dc1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1U7kjNHmiDFjBTFegx1fCAw?pwd=gkcw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/eA2zSuRi3Uv"
+    }
+  ]
+}

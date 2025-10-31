@@ -1,0 +1,71 @@
+{
+  "title": "中文汉化AE/PR插件-画面像素拉伸扭曲变形特效 Pixel Stretch v1.6.0 Win支持多帧渲染",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-hua-mian-xiang-su-la-shen-niu-qu-bian-xing-te-xiao-pixel-stretch-v1-6-0-winzhi-chi-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2023-07-23",
+  "source_url": "https://www.lookae.com/pixelstretch-15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "多帧渲染"
+  ],
+  "content": "Pixel Stretch 是一款用于制作画面像素拉伸扭曲变形特效的插件。它能够根据像素的亮度以亚像素精度进行拉伸，且拉伸对于每一行或每列都是累积的，这意味着一个像素会偏移其行上的所有后续像素，从而产生比简单效果（如“线拉伸”）更有机的图案。其基本效果类似于旧模拟电视上看到的效果，但该滤镜提供的所有旋钮为用户提供了更多可能性。v1.6.0版本更新包括添加了新的过滤通道选项、像素拉伸强度参数以及修复了若干问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/Pixel-Stretch-15.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v1.6.0",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-891437391-fa8c64?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1-5XamjcCtzbrQs7QiQ4NoQ?pwd=9cwi"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Tx5PDqnUtqD"
+    }
+  ],
+  "other": {
+    "supported_software": {
+      "After Effects": [
+        "2022",
+        "2021",
+        "2020",
+        "CC 2019",
+        "CC 2018",
+        "CC 2017",
+        "CC 2015.3",
+        "CC 2015",
+        "CC 2014",
+        "CC",
+        "CS6"
+      ],
+      "Premiere": [
+        "2022",
+        "2021",
+        "2020",
+        "CC 2019",
+        "CC 2018",
+        "CC 2017",
+        "CC 2015.3",
+        "CC 2015",
+        "CC 2014",
+        "CC",
+        "CS6"
+      ]
+    },
+    "update_details": [
+      "除默认亮度外，还添加了七个新的过滤通道选项：RGBA、红色、绿色、蓝色、Alpha、亮度（无 Alpha）、RGB",
+      "添加像素拉伸强度参数以轻松调节滤镜的强度",
+      "修复了边缘情况下的强度层映射（以及可能的崩溃）",
+      "修复了构图高度超过 4096 像素的未注册版本的崩溃问题（水印错误）"
+    ]
+  }
+}

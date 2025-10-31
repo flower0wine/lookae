@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本：二维卡通人物角色动作MG动画绑定控制AEscripts Joystick’n Sliders v1.5+使用教程",
+  "slug": "aejiao-ben-er-wei-qia-tong-ren-wu-jiao-se-dong-zuo-mgdong-hua-bang-ding-kong-zhi-aescripts-joystickn-sliders-v1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-03-27T13:01:00Z",
+  "source_url": "https://www.lookae.com/sliders15/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "AEscripts Joystick'n Sliders 是一个基于 After Effects 的 pose-based 绑定系统，专为 3D 人物面部动画设计。用户只需设置上下左右中五个位置的关键帧，即可在图层上即时创建动画。通过在起始和结束位置设置关键帧，系统可自动生成平滑过渡动画，并支持使用滑块实时控制动画进度。该脚本特别适用于卡通角色制作、MG 动画及其他特殊动画场景，显著提升制作效率。支持在 Win/Mac 系统下的 AE CS6 至 CC 2017 版本。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2h6NFkFXXXXcMXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2v.NWkFXXXXXLXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2k3XikFXXXXbYXpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2KpNJkFXXXXbTXXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：二维卡通人物角色动作MG动画绑定控制AEscripts Joystick'n Sliders v1.5+使用教程",
+      "url": "https://lookae.ctfile.com/fs/wsm185942131"
+    }
+  ],
+  "other": {
+    "script_description": "Joystick controllers are commonly used in 3D character rigging for facial animation. With this tool, you simply set five consecutive keyframes to represent your origin, right, left, top, and bottom extremes. With those layers selected, you can instantly create a joystick controller on the stage that will interpolate between those extremes appropriately.",
+    "official_website": "http://aescripts.com/joystick-n-sliders/",
+    "update_notes": [
+      "全新UI界面布局",
+      "Control your joystick interpolations with EaseBias",
+      "Speed up your path shape rigging with the Path Flipper.",
+      "Move your controllers back to their child comps with Move to Child",
+      "Export your animation to html5 with BodyMovin'"
+    ],
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_guide": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "related_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本",
+      "Win/Mac"
+    ]
+  }
+}

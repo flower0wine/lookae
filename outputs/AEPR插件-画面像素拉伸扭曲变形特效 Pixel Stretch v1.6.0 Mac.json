@@ -1,0 +1,48 @@
+{
+  "title": "AE/PR插件-画面像素拉伸扭曲变形特效 Pixel Stretch v1.6.0 Mac",
+  "slug": "ae-prcha-jian-hua-mian-xiang-su-la-shen-niu-qu-bian-xing-te-xiao-pixel-stretch-v1-6-0-mac",
+  "author": "大众脸",
+  "post_date": "2024-01-25",
+  "source_url": "https://www.lookae.com/pixel-stretch-mac-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Pixel Stretch",
+    "PR插件"
+  ],
+  "content": "Pixel Stretch 可根据像素亮度以亚像素精度进行累积拉伸，生成比“线拉伸”更有机的扭曲图案，类似旧模拟电视效果，但提供多项可调参数，带来更丰富创意可能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/Pixel-Stretch-15.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects / Premiere Pro CC – 2024",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1312171549-c41012?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bAVTv5F1M6VJj-X-oIo9-g?pwd=tbaj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/2avgRH2M7a2"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "tbaj"
+    },
+    "v1.6.0更新内容": [
+      "新增七个过滤通道选项：RGBA、红色、绿色、蓝色、Alpha、亮度（无 Alpha）、RGB",
+      "新增像素拉伸强度参数",
+      "修复边缘强度层映射及可能的崩溃",
+      "修复构图高度超过 4096 像素的未注册版本崩溃"
+    ],
+    "Win版本链接": "https://www.lookae.com/pixelstretch-15/"
+  }
+}

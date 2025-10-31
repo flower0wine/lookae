@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-效果插件脚本预设搜索图层管理表达式操作多功能工具包 REACH v2.1.6",
+  "slug": "aejiao-ben-xiao-guo-cha-jian-jiao-ben-yu-she-sou-suo-tu-ceng-guan-li-biao-da-shi-cao-zuo-duo-gong-neng-gong-ju-bao-reach-v2-1-6",
+  "author": "大众脸",
+  "post_date": "2025/08/20 10:43",
+  "source_url": "https://www.lookae.com/reach-216/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "REACH 是一个包罗万象、适应性强且不断进化的 After Effects 工具集，为用户提供了从基础到高级的一系列创新实用程序。它简化复杂操作，优化繁琐流程，并激发创作灵感。REACH 提供对 AE 内各类功能的便捷访问，包括命令、效果、预设、扩展、插件和脚本，同时内置预写表达式、表达式编辑器、脚本助手及表达式存储功能。其独特工具涵盖图层、关键帧、颜色、音频同步、合成、优化、裁剪、反弹、木偶图钉、相机等管理，并配备响应式界面，集成锚点管理器、对齐工具、缓动滑块和快捷方式等实用组件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/Reach-AEssential-Kit.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01sZTfsg1vSMyLLlEc9_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/415870231520.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8418527842-d49614?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1OPlCLsh09NXy_jRZnUq0Dg?pwd=2jb6"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/bcKTrgbpSn9"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "更多自定义：只保留您想在主用户界面上看到的按钮",
+      "MAC 苹果系统完全兼容",
+      "从设置面板向预设添加自定义路径",
+      "使用 umprecompose 功能修复非 EN 版本 AE 中的本地错误"
+    ],
+    "download_password": {
+      "城通网盘": "6688",
+      "百度网盘": "2jb6"
+    }
+  }
+}

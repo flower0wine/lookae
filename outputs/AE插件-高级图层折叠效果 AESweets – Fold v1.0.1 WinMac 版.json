@@ -1,0 +1,35 @@
+{
+  "title": "AE插件-高级图层折叠效果 AESweets – Fold v1.0.1 Win/Mac 版",
+  "slug": "aecha-jian-gao-ji-tu-ceng-zhe-die-xiao-guo-aesweets-fold-v1-0-1-win-mac-ban",
+  "author": "大众脸",
+  "post_date": "2019/10/09 18:16",
+  "source_url": "https://www.lookae.com/fold-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Fold是After Effects的一款高级折叠插件。您可以通过移动画面上提供的“手柄”使用它来创建2D“折叠纸”效果。还可以控制阴影的类型，颜色，折叠的方向和段数。\n\nFold is an plug-in for After Effects. You can use it to create a 2D “folded paper” effect by moving the provided “handles”. As addition you can control the type of the shadow, its color, the direction of the folds and the number of segments.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Fold.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/236215373536.mp4"
+  ],
+  "supported_versions": "After Effects CS5 – CC 2019 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-402157036"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1vrEomTHdu-EdR1fqzPOPsA"
+    }
+  ],
+  "other": {
+    "plugin_homepage": "http://www.aesweets.com/fold/",
+    "update_log": "v1.0.1 更新内容：修复一些错误BUG。"
+  }
+}

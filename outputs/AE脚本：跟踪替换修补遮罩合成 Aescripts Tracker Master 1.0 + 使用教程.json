@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本：跟踪替换修补遮罩合成 Aescripts Tracker Master 1.0 + 使用教程",
+  "slug": "aejiao-ben-gen-zong-ti-huan-xiu-bu-zhe-zhao-he-cheng-aescripts-tracker-master-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-11-15T22:33:00Z",
+  "source_url": "https://www.lookae.com/tracker-master/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Tracker Master 脚本可将多个跟踪点与Mask遮罩无缝结合，利用跟踪生成关键帧，实现物体的克隆复制、添加、删除及遮罩调节等功能。支持无关键帧视频克隆，简化合成任务。适用于 Windows 和 Mac 系统下的 After Effects CS6 至 CC 2018 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/11/Tracker-Master.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-228404443"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1eShGUrC"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "demo_video_url": "https://aescripts.com/tracker-master/"
+  }
+}

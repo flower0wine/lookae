@@ -1,0 +1,48 @@
+{
+  "title": "AE/PR/OFX插件-视觉特效转场调色字幕磨皮美颜稳定防抖滤镜包 NewBlueFX TotalFX7 7.5.210212 Win",
+  "slug": "ae-pr-ofxcha-jian-shi-jue-te-xiao-zhuan-chang-diao-se-zi-mu-mo-pi-mei-yan-wen-ding-fang-dou-lu-jing-bao-newbluefx-totalfx7-7-5-210212-win",
+  "author": "大众脸",
+  "post_date": "2021/02/18 23:08",
+  "source_url": "https://www.lookae.com/totalfx-75/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "这是 NewBlue 公司出品的插件TotalFX7，用于视频编辑器的完整工具包，将所有的效果，转场和字幕工具都捆绑在一起。有调色，字幕标题，视频特效，稳定防抖，磨皮美颜，抠像，镜头修复，转场过渡等超过177多款插件，约1500个预置效果，支持GPU加速。TotalFX插件工具提供了各种滤镜，风格，效果，转场和文字效果，提供了全面的视频编辑器效果，包含了众多创意效果和使用工具，满足后期的不同需求。TotalFX features over 1,500 presets in 177 effects. This is our most comprehensive suite of titling tools, transitions, filters and video editing plugins. Get the fully-featured Ultimate versions of all NewBlue video effects collections.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/02/TotalFX7.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 或更高版本",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-482737270-3225af"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1UBC6Vy3Pl2wsDFrvfyNnbw"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "99us"
+    },
+    "supported_ofx_apps": [
+      "Vegas Pro (64-bit)",
+      "DaVinci Resolve",
+      "其他 OFX（OpenX）"
+    ],
+    "collections_included": [
+      "Titler Pro 7 Ultimate",
+      "Elements 3 Ultimate",
+      "Essentials 5 Ultimate",
+      "Filters 5 Ultimate",
+      "Transitions 5 Ultimate",
+      "Stylizers 5 Ultimate"
+    ]
+  }
+}

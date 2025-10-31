@@ -1,0 +1,78 @@
+{
+  "title": "AK大神系列AE插件大合集Mac英文版 E3D/Saber/Optical Flares/VC Reflect/Heat Distortion",
+  "slug": "akda-shen-xi-lie-aecha-jian-da-he-ji-macying-wen-ban-e3d-saber-optical-flares-vc-reflect-heat-distortion",
+  "author": "大众脸",
+  "post_date": "2024-09-12T12:42:00Z",
+  "source_url": "https://www.lookae.com/video-copilot-master-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "AK大神",
+    "AK大神系列AE插件大合集",
+    "AK插件",
+    "E3D插件",
+    "Optical Flares 插件",
+    "Saber插件",
+    "精品资源"
+  ],
+  "content": "这是Video Copilot AK系列的AE插件合集，文件大小为347M。插件仅提供英文版，不支持中文版；支持一键集成安装，仅需安装一个程序即可完成全部插件的部署。该合集仅适用于Mac系统，不支持Windows系统。所有插件均来自Video Copilot官方授权版本，适用于AE CC 2021 至 2025 版本，并兼容Intel与Apple M系列芯片的Mac电脑。本合集包含多个高端特效插件，如三维建模、光效、激光、反射、热浪变形等，适合专业影视后期制作使用。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01fGUdFY1vSN6zhD1CW_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01Cp5e121vSN70qhrhl_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Mac (Intel & Apple M Chip)",
+  "download_links": [
+    {
+      "name": "淘宝购买链接",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=834122182985"
+    },
+    {
+      "name": "站内直接购买（支付¥15）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fvideo-copilot-master-mac%"
+    }
+  ],
+  "other": {
+    "description": "插件仅支持Mac系统，不支持Win系统，只有英文版，不是中文版，看准后再购买！如需Win版请点击：https://www.lookae.com/video-copilot-master/。",
+    "note": "单个英文版本也可在网站免费搜索下载，合集作为整理方便大家一键安装，省时省力。",
+    "plugin_list": [
+      {
+        "name": "Element 3D v2.2.3",
+        "description": "E3D三维模型插件"
+      },
+      {
+        "name": "Heat Distortion v1.0.32",
+        "description": "热浪变形失真效果插件"
+      },
+      {
+        "name": "Optical Flare v1.3.8",
+        "description": "镜头光晕光效插件"
+      },
+      {
+        "name": "Saber v1.0.40",
+        "description": "能量激光描边光效插件"
+      },
+      {
+        "name": "VC Reflect v1.0.14",
+        "description": "反射倒影插件"
+      },
+      {
+        "name": "VC Color Vibrance v1.0.7",
+        "description": "快速着色插件"
+      },
+      {
+        "name": "VC ORB v1.0.3",
+        "description": "三维星球地球插件"
+      },
+      {
+        "name": "FX Console v1.0.5",
+        "description": "特效管理控制台"
+      }
+    ],
+    "file_size": "347M",
+    "installation_method": "一键集成选择安装，只需安装一个程序即可完成全部插件安装",
+    "license_note": "我们仅提供工具，不提供任何视频教程和使用教学"
+  }
+}

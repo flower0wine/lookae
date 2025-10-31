@@ -1,0 +1,40 @@
+{
+  "title": "人工智能色彩匹配视频调色AE/PR插件 AI Color Match V1.3.3 Win+使用教程",
+  "slug": "ren-gong-zhi-neng-se-cai-pi-pei-shi-pin-diao-se-ae-prcha-jian-ai-color-match-v1-3-3-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-11-18T12:21:00",
+  "source_url": "https://www.lookae.com/ai-color-match-133/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "色彩匹配"
+  ],
+  "content": "现在所有人都可以进行专业的色彩校正和分级。在Premiere 和 After Effects中轻松对不同镜头进行颜色匹配。只需单击一下即可将一个镜头的色彩外观复制到另一个镜头。借助AI配色，您可以一次性匹配每个镜头的颜色。\n\n插件特性：\n\n* 匹配曝光、对比度、白平衡等。\n* 在您的GPU或CPU上本地运行 – 帧永远不会离开您的计算机。\n* 快速匹配使用不同相机或设置拍摄的素材。\n* 可用于复制您喜爱的场景的颜色分级。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/09/AI-Color-Match.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/426606578902.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022; Premiere 2025, 2024, 2023, 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1427537596-065c1b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1SG6BqYOcBD1LCWIj4rMAJA?pwd=kn4i"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/RucHKJtYed9"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.3.3更新：\n* 修复了 Windows 上罕见的渲染引擎未找到错误\n* 更新了渲染引擎\n* 修复了各种错误并提高了性能",
+    "access_password": "6688"
+  }
+}

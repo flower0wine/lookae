@@ -1,0 +1,50 @@
+{
+  "title": "专业文字标题字幕制作插件 NewBlueFX Titler Pro 6.0.180719 Ultimate中文版",
+  "slug": "zhuan-ye-wen-zi-biao-ti-zi-mu-zhi-zuo-cha-jian-newbluefx-titler-pro-6-0-180719-ultimatezhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2018-09-16",
+  "source_url": "https://www.lookae.com/nb-titler6/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "NewBlueFX Titler Pro 6 是一款专业字幕制作工具，提供独立版与插件版，可快速生成 2D 标题与 3D 动态图形。内置 200+ 预设样式与模板，支持 4K/5K 分辨率，可直接拖拽人名字幕条或导入 EPS/PSD 深度定制。新增多标题管理、关键帧动画、3D 文本、灵活工作区等功能，适合高效完成广播级字幕需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/11/Titler-Pro-6.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50045156661.mp4"
+  ],
+  "supported_versions": "6.0.180719 Ultimate",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-310408093"
+    },
+    {
+      "name": "百度云网盘",
+      "url": "https://pan.baidu.com/s/12K451DP-UA-wZpfXffQenQ"
+    }
+  ],
+  "other": {
+    "官网": "https://www.newbluefx.com/products/titling/titler-pro/",
+    "兼容软件": [
+      "Adobe After Effects CC+",
+      "Adobe Premiere CC+",
+      "Titler Standalone Host",
+      "Avid Media Composer & Symphony 6+",
+      "Grass Valley EDIUS 7 & 8",
+      "DaVinci Resolve 11+",
+      "Magix Vegas Pro 10+ (64-bit OpenX)",
+      "HitFilm Pro 3+"
+    ],
+    "安装说明": "一键自动安装，双击即可；切换中文版需将安装目录下的 titler_cn 重命名为 titler_zh",
+    "备注": "含使用小教程"
+  }
+}

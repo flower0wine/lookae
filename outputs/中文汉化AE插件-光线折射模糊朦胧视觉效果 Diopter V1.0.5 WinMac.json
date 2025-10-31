@@ -1,0 +1,60 @@
+{
+  "title": "中文汉化AE插件-光线折射模糊朦胧视觉效果 Diopter V1.0.5 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-guang-xian-zhe-she-mo-hu-meng-long-shi-jue-xiao-guo-diopter-v1-0-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/03/19 10:16",
+  "source_url": "https://www.lookae.com/diopter-105/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "中文汉化"
+  ],
+  "content": "Diopter 是一款在 After Effects 中添加光学效果（如模糊、失真、调色）的插件。用户可从内置形状中选择镜头形态（掩膜），或使用其他图层作为亮度蒙版（Luma Matte），并可对镜头进行变换。该插件支持快速为视频或图像添加模糊、失真、调色等效果，还可通过自定义形状与其他图层生成光效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/Diopter-105.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50214028960.mp4?_=1"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 中英文 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-667325960-17a520?p=4431"
+    },
+    {
+      "name": "Win 中英文 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1hkJ6jGV87sTS8-0vsNf7PA?pwd=do6w"
+    },
+    {
+      "name": "Win 中英文 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/2L8qPYSdpeX"
+    },
+    {
+      "name": "Mac 仅英文 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-826031783-6f4876?p=4431"
+    },
+    {
+      "name": "Mac 仅英文 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1EjXKAgxI7zlz8vqTsocnDw?pwd=su3v"
+    },
+    {
+      "name": "Mac 仅英文 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XrguUU8APS4"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.0.5 更新内容：为 AE 22 和更新版本添加了 MFR 多帧渲染，兼容 M1/M2 和 Intel 芯片",
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/"
+    ]
+  }
+}

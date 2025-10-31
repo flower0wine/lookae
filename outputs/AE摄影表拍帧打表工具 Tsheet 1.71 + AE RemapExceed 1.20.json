@@ -1,0 +1,41 @@
+{
+  "title": "AE摄影表拍帧打表工具 Tsheet 1.71 + AE RemapExceed 1.20",
+  "slug": "aeshe-ying-biao-pai-zheng-da-biao-gong-ju-tsheet-1-71-ae-remapexceed-1-20",
+  "author": "大众脸",
+  "post_date": "2020/12/31 14:09",
+  "source_url": "https://www.lookae.com/remapexceed/",
+  "category": "aescripts",
+  "tags": [
+    "AE工具"
+  ],
+  "content": "这里包含2种动画律表(摄影表)打表软件: AE_RemapExceed 和 Tsheet 1.71。该软件能够将日式二维动画的摄影表的表格数字，复制进AE的时间轴之中，使得在AE里面的一拍一动画序列帧素材，按照摄影表软件里的数字进行拍帧，达到复合摄影表的速度来播放素材。AE_RemapExceed 和 Tsheet 均为免费软件：https://github.com/bryful/AE_RemapExceed  和 http://www.da-tools.com/。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/RemapExceed.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-477935251"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1iDCChgiFI0EZGsA5TACXoQ",
+      "extra": "提取码：eme1"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

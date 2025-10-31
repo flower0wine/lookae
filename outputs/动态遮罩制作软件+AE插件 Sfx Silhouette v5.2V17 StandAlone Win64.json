@@ -1,0 +1,49 @@
+{
+  "title": "动态遮罩制作软件+AE插件 Sfx Silhouette v5.2V17 StandAlone Win64",
+  "slug": "dong-tai-zhe-zhao-zhi-zuo-ruan-jian-aecha-jian-sfx-silhouette-v5-2v17-standalone-win64",
+  "author": "大众脸",
+  "post_date": "2015-06-22T12:07:00",
+  "source_url": "https://www.lookae.com/silhouette5217/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Sfx Silhouette v5.2V17 是一款功能强大的动态遮罩制作软件，支持独立运行（StandAlone）版本，适用于 Windows 64 位系统。该工具提供完整的视觉特效工作流程，包括剪影、对位、抠像、扭曲、变形及2D-3D转换，支持立体视觉流程。同时提供 AE 插件版本，兼容 After Effects CS5 至 CC 2015。其核心功能涵盖获奖的逐帧描边（rotoscoping）、非破坏性绘画、键控、蒙版、形变、形态转换等，并全面支持立体处理。新版本引入多项增强功能，如裁剪节点、多部分 EXR 支持、点追踪与帧步进联动、Nuke 导出内模糊支持、画笔功能优化、渲染选项反转、脚本扩展能力以及与 RV 播放软件集成等，显著提升工作效率与创作灵活性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/StandAlone.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 - CC 2015 (Plugin), Silhouette v5.2.0 (Standalone)",
+  "supported_os": "Windows 64-bit",
+  "download_links": [
+    {
+      "name": "动态遮罩制作软件+AE插件 Sfx Silhouette v5.2V17 StandAlone Win64",
+      "url": "https://www.400gb.com/file/101442899"
+    }
+  ],
+  "other": {
+    "demo_url": "",
+    "official_website": "http://www.silhouettefx.com/",
+    "release_notes_url": "http://www.silhouettefx.com/press/SFX-v5.2-Press-Release.pdf",
+    "features": [
+      "Crop Node：可自定义裁剪图像和项目区域，节省内存并提升处理速度",
+      "Edit > Duplicate Action：在对象列表中同级复制对象，优于拷贝粘贴",
+      "EXR 2.0 Multi-part Support：支持多部分 EXR 文件加载",
+      "Input/Output > EXR > Use Data Window as Display Window：可覆盖默认显示窗口行为",
+      "Frame Step 和点追踪联动：点追踪遵循查看器帧步进设置",
+      "Nuke Export – Inner Blur Support：导出至 Nuke 时支持内部模糊",
+      "Paint 功能增强：支持立体偏移下的画笔复制，可正向或反向播放画笔路径，重建按画笔顺序执行",
+      "Render > Slap Comp > Invert：渲染选项中新增反转功能",
+      "Scripting：支持脚本扩展，详见官方脚本指南",
+      "Shape > Blur Type Preference：可设置默认模糊类型（中心、内部、外部）",
+      "Tweak Software > RV Integration：支持将渲染结果发送至已安装的 RV 播放软件"
+    ],
+    "classification": [
+      "AE插件",
+      "After Effects",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "image_alt": "动态遮罩制作软件+AE插件 Sfx Silhouette v5.2V17 StandAlone Win64-LookAE.com"
+  }
+}

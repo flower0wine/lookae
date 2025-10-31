@@ -1,0 +1,42 @@
+{
+  "title": "AE/PR动态模糊插件RE:VisionFX ReelSmart MotionBlur Pro v5.1.1",
+  "slug": "ae-prdong-tai-mo-hu-cha-jian-re-visionfx-reelsmart-motionblur-pro-v5-1-1",
+  "author": "大众脸",
+  "post_date": "2015/07/02 11:04",
+  "source_url": "https://www.lookae.com/rsmb511/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "ReelSmart MotionBlur Pro（简称 RSMB）是由 RE:VisionFX 公司出品的一款动态模糊插件，能够自动为运动画面添加自然真实的运动模糊效果。该插件基于先进的像素跟踪技术，无需手动操作即可实现高质量的模糊处理，支持在序列中增加或去除运动模糊，并可通过另一段素材的运动数据来模糊当前画面，创造特殊视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/RSMB5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects：CS5, CS5.5, CS6, CC, CC 2014, CC 2015；Adobe Premiere Pro：CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "一键安装",
+      "url": "https://www.400gb.com/file/103429118"
+    }
+  ],
+  "other": {
+    "original_category_hierarchy": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "official_website": "http://revisionfx.com/products/rsmb/overview/",
+    "update_log": "修复在 AE/PR CC 2015 中的渲染错误；修正已知BUG，提升了计算速率",
+    "plugin_features": [
+      "自动跟踪动画运动的像素",
+      "可控制模糊效果",
+      "添加/删除运动模糊效果",
+      "支持CPU多处理器运行计算"
+    ]
+  }
+}

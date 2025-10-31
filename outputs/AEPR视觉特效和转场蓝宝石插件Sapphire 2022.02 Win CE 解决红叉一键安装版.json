@@ -1,0 +1,65 @@
+{
+  "title": "AE/PR视觉特效和转场蓝宝石插件Sapphire 2022.02 Win CE 解决红叉一键安装版",
+  "slug": "ae-prshi-jue-te-xiao-he-zhuan-chang-lan-bao-shi-cha-jian-sapphire-2022-02-win-ce-jie-jue-hong-cha-yi-jian-an-zhuang-ban",
+  "author": "大众脸",
+  "post_date": "2022-03-21T13:10:00",
+  "source_url": "https://www.lookae.com/sapphire-202202/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "蓝宝石插件"
+  ],
+  "content": "Sapphire 2022 通过主要的新主机简化了工作流程，添加了必备的创意效果，提供了350个令人惊叹的新预设，并提高了工作流程中的性能速度。Sapphire 插件可让您创建任何主机原生效果工具都无法比拟的令人惊叹的有机外观。主要功能包括超过270种效果和3000多种预设、功能强大的效果和过渡生成器，以及与获得奥斯卡奖的Mocha集成的跟踪和遮罩。卓越的图像质量、控制和渲染速度可节省大量时间，使创意人员能够专注于最重要的事情，产生影响力，让观众再次光临。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Sapphire-2022.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337656354070.mp4"
+  ],
+  "supported_versions": "Sapphire 2022.02",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-557235790-075919"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1mgV-F2MDZH7BOih-1MgojQ?pwd=en8j"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Fn9eRCj4Bt3"
+    }
+  ],
+  "other": {
+    "supported_applications": [
+      "After Effects CC 2019",
+      "After Effects CC 2020",
+      "After Effects CC 2021",
+      "After Effects CC 2022",
+      "Premiere Pro CC 2019",
+      "Premiere Pro CC 2020",
+      "Premiere Pro CC 2021",
+      "Premiere Pro CC 2022"
+    ],
+    "new_features": [
+      "新效果！ColorFuse-蓝宝石色熔丝",
+      "新功能！UltraZap中的摩卡样条",
+      "新预设！2022年350多个新的和精选的预设",
+      "改进的LensFlare设计器！拥有5个全新的和超过40个焕发活力的耀斑",
+      "更快的渲染！NVIDIA CUDA 11支持Ampere卡，改进了对After Effects多帧渲染的支持，并优化了Apple M1硬件上的本机处理性能"
+    ],
+    "update_notes": [
+      "Flare Designer：改进了 Flare Designer 中禁用滑块的外观。",
+      "Mocha：更新了 Mocha 库以提高稳定性。",
+      "预设：修复了包含 ColorFuse 或 ColorFuseLooks 的预设之间的互兼容性错误。",
+      "预设浏览器：改进了对有错误的预设的处理。"
+    ],
+    "download_passwords": {
+      "ctfile": "6688",
+      "baidu": "en8j"
+    }
+  }
+}

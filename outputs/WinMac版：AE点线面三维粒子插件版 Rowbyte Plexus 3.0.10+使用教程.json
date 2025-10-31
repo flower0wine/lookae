@@ -1,0 +1,72 @@
+{
+  "title": "Win/Mac版：AE点线面三维粒子插件版 Rowbyte Plexus 3.0.10+使用教程",
+  "slug": "win-macban-aedian-xian-mian-san-wei-li-zi-cha-jian-ban-rowbyte-plexus-3-0-10-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-07-27T22:46:00Z",
+  "source_url": "https://www.lookae.com/plexus3010/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus 3",
+    "Win/Mac"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。不仅可渲染粒子，还能基于多种参数建立粒子间的复杂关系。其工作流高度模块化，允许用户构建无限多的配置与参数组合。该插件适用于制作点、线、面等三维粒子效果，支持3D模型导入（如OBJ格式），并可通过路径、文字、灯光生成粒子发射，操作模式具有独特性。内置多种自定义特效，如分形、颜色控制、球形场、阴影等，具备强大的视觉表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5, CS5.5, CS6, CC, CC 2014, CC 2015, CC 2015.3",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Windows 版插件下载",
+      "url": "http://lookae.ctfile.com/fs/UWQ154455724"
+    },
+    {
+      "name": "Mac 苹果版下载",
+      "url": "http://lookae.ctfile.com/fs/ZRT154455727"
+    },
+    {
+      "name": "使用教程下载",
+      "url": "http://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "Windows 版插件下载",
+      "url": "https://pan.baidu.com/s/1gfAvhGv"
+    },
+    {
+      "name": "Mac 苹果版下载",
+      "url": "https://pan.baidu.com/s/1slRBETR"
+    },
+    {
+      "name": "使用教程下载",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "official_description_url": "http://aescripts.com/plexus/",
+    "tutorial_source": "https://www.lookae.com/plexus3010/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/",
+    "features": [
+      "Object based UI - 全新定制的UI操控界面",
+      "Depth Map Culling - 深度贴图",
+      "Motion Blur - 运动模糊",
+      "Sound Effector - 音频效果器",
+      "Null Object Performance - 空物体控制提升",
+      "Slicer Object - 物体切割",
+      "Path Object Improvements - 物体路径改进",
+      "Seamless Beams - 无缝线条动画",
+      "Custom Visibility Settings - 粒子可视化控制",
+      "Improved OBJ Import - OBJ导入性能提升",
+      "Unified Rendering - 统一渲染",
+      "Nested Compositions - 镶嵌合成模式",
+      "Loop Noise - 循环噪波"
+    ],
+    "installation_steps": [
+      "安装 Plexus Installer.exe 程序",
+      "复制注册补丁文件夹到以下目录覆盖：C:\\Program Files\\Adobe\\Common\\Plug-ins\\XXX\\MediaCore\\Rowbyte\\Plexu 或 AE插件目录内覆盖",
+      "完成注册"
+    ]
+  }
+}

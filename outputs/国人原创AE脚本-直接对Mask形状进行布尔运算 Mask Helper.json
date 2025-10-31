@@ -1,0 +1,51 @@
+{
+  "title": "国人原创AE脚本-直接对Mask形状进行布尔运算 Mask Helper",
+  "slug": "guo-ren-yuan-chuang-aejiao-ben-zhi-jie-dui-maskxing-zhuang-jin-xing-bu-er-yun-suan-mask-helper",
+  "author": "大众脸",
+  "post_date": "2021/07/19 11:24",
+  "source_url": "https://www.lookae.com/mask-helper/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "veleap",
+    "国人原创"
+  ],
+  "content": "VE Mask Helper 是由国内 veleap 团队开发的 After Effects 扩展插件，支持在 AE 中直接对 Mask 形状进行布尔运算，实现类似 Illustrator 路径查找器的功能。该工具提供三大核心功能：路径查找器（支持五种布尔运算）、路径平滑与路径简化，可显著提升复杂遮罩制作效率。适用于闭合的静态 Mask，暂不支持带动画的 Mask。使用方式简单，选中多个 Mask 后点击对应按钮即可生成新路径。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/VE-Mask-Helper.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01r3dX781vSMoejE0ee_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01jFGD1g1vSMoXsMatK_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN018yfTon1vSModJUm5w_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01toqn331vSModJR5O8_!!705956171.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/jLKfbf2rrhw"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-502652911-822d6e"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1FrlxVZX9Ou33lmhW9dgIBg"
+    }
+  ],
+  "other": {
+    "website": "http://veleap.com/page/article_detail?id=104",
+    "note": "访问城通网盘需输入密码：6688；百度网盘提取码：kggt",
+    "features": [
+      "路径查找器（布尔运算）：支持并集、交集、差集、排除重叠、合并等五种操作",
+      "路径平滑：基于线条走势智能平滑，优于原生角点平滑",
+      "路径简化：自动删除冗余锚点，保持原始形状轮廓"
+    ],
+    "limitations": [
+      "仅支持闭合的 Mask",
+      "不支持带有形状动画的 Mask"
+    ]
+  }
+}

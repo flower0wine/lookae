@@ -1,0 +1,47 @@
+{
+  "title": "Ae/Pr视觉特效和转场BCC插件包 2020.5 v13.5.1.1371 Win",
+  "slug": "ae-prshi-jue-te-xiao-he-zhuan-chang-bcccha-jian-bao-2020-5-v13-5-1-1371-win",
+  "author": "大众脸",
+  "post_date": "2020/06/21 15:20",
+  "source_url": "https://www.lookae.com/bcc-202051/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete（BCC）是一款功能强大的视觉特效插件包，专为视频后期制作设计。它包含超过250种效果和4000多种预设，涵盖字幕、3D粒子、老电影、光线、画中画、镜头光晕、烟雾、火焰、调色、键控/抠像、遮罩、跟踪、发光等多种风格化工具，适用于各类影视项目。插件支持OpenGL和双CPU加速，显著提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/213739335488.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2020, Premiere Pro CS6 – CC 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-449907358"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OeOw3MNEpYhBOPDEE_-M6Q"
+    }
+  ],
+  "other": {
+    "extract_code": "gvun",
+    "version": "v13.5.1.1371",
+    "release_name": "Continuum 2020.5",
+    "new_features_2020_5": [
+      "新增崩溃缩放消除过渡：模拟快速缩放，向前或向后",
+      "新增旋转模糊溶解过渡：模拟带有条纹或污点的快速图像旋转",
+      "粒子幻觉增强：新增力场、收藏夹、新发射器和新预设",
+      "Title Studio新增本地复合模式和新的投射阴影着色器",
+      "改进效果：卸妆、投射阴影、粒子错觉的溶解过渡",
+      "支持4K/HighDPI显示器的自定义UI，界面更清晰",
+      "新增两个过渡效果，含数十种专业预设；支持保存常用发射器；Title Studio新增主机原生合成选项"
+    ],
+    "official_product_url": "https://borisfx.com/products/continuum/"
+  }
+}

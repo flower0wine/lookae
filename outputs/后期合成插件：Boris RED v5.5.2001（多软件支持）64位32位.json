@@ -1,0 +1,42 @@
+{
+  "title": "后期合成插件：Boris RED v5.5.2001（多软件支持）64位/32位",
+  "slug": "hou-qi-he-cheng-cha-jian-boris-red-v5-5-2001-duo-ruan-jian-zhi-chi-64wei-32wei",
+  "author": "大众脸",
+  "post_date": "2014-08-27T23:11:00Z",
+  "source_url": "https://www.lookae.com/borisred55/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Boris",
+    "EDIUS插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "Boris RED 是一款集3D合成、字幕、调色、特效并能执行OpenGL于一体的影视后期合成插件，广泛应用于广播级影视与电台制作。具备超级水印功能，支持动画与超链接点击；内置字幕系统，支持srt/ass/ssa格式；提供开放可定制的用户界面及丰富的互动功能与应用模板。拥有独立插件界面与时间轴，操控性强，支持多种视频效果快速添加。适用于Adobe、Apple、Avid、Grass Valley、Media 100、Sony等主流非线性编辑软件。其独立渲染引擎支持3D建模、矢量对象拉伸、真实3D形状与动画、以及业界最全面的图像处理滤镜套件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/Boris-RED.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS4-CC, Premiere Pro CS4-CC, AVID Media Composer 5/6/7, Corel VideoStudio Pro X3/X4/X5, EDIUS 7 (64位), Vegas Pro 10/11/12 (64位)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "本地下载",
+      "url": "https://www.400gb.com/file/72352661"
+    },
+    {
+      "name": "安装程序下载",
+      "url": "http://xfer.borisfx.com/RED552_64Bit.exe"
+    },
+    {
+      "name": "完美补丁下载",
+      "url": "https://www.400gb.com/file/71815173"
+    }
+  ],
+  "other": {
+    "demo_video_note": "插件效果DEMO中提到作者自行为官网宣传视频添加背景音乐，并推荐了相关音乐资源。",
+    "home_page": "http://www.borisfx.com/red/",
+    "download_hint": "安装程序下载地址可复制至迅雷进行下载",
+    "additional_info": "插件支持64位和32位版本，适用于多个视频编辑软件平台"
+  }
+}

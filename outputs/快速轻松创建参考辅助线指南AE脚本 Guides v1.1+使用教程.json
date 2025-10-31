@@ -1,0 +1,45 @@
+{
+  "title": "快速轻松创建参考辅助线指南AE脚本 Guides v1.1+使用教程",
+  "slug": "kuai-su-qing-song-chuang-jian-can-kao-fu-zhu-xian-zhi-nan-aejiao-ben-guides-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-01-07",
+  "source_url": "https://www.lookae.com/guides-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "辅助线插件"
+  ],
+  "content": "Guides 脚本让 After Effects 的参考线操作更高效：可跨合成复制/粘贴、旋转/移动、保存共享，还能一键在图层边缘、中心或等分位置批量生成参考线，并支持网格化与防重复。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/Guides.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/446527461238.mp4"
+  ],
+  "supported_versions": "CC 2019 – 2025",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1444694705-a473ea?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Rq9Hrf3e9tIlPwjc-IZzDA?pwd=jm8s"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/xW2QhKtPHW1"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "jm8s"
+    },
+    "v1.1 新增": [
+      "添加参考线时可把位置值四舍五入为整数像素",
+      "可设置阈值防止在相近位置重复添加参考线"
+    ]
+  }
+}

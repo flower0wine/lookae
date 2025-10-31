@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-多图层中心点移动控制 Anchor Point Gravity v1.0.1",
+  "slug": "aejiao-ben-duo-tu-ceng-zhong-xin-dian-yi-dong-kong-zhi-anchor-point-gravity-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2019/05/28 13:43",
+  "source_url": "https://www.lookae.com/anchor-point/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "通过脚本可以同时选中多个图层，可在三维空间中整体调整中心点位置，可控制深度和位置。Reposition the anchor point based on depth and gravity.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Anchor-Point-Gravity.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376015205"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1XN444q5IHZGzR8_faVFDpA"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/anchor-point-gravity/",
+    "baidu_extraction_code": "34pi",
+    "taobao_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

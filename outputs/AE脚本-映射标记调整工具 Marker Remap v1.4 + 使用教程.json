@@ -1,0 +1,61 @@
+{
+  "title": "AE脚本-映射标记调整工具 Marker Remap v1.4 + 使用教程",
+  "slug": "aejiao-ben-ying-she-biao-ji-diao-zheng-gong-ju-marker-remap-v1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 12:52",
+  "source_url": "https://www.lookae.com/marker-remap-14/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Marker Remap 脚本允许用户通过两个简单步骤，利用分割层标记对合成进行重新计时。只需在时间线上添加标记以标记关键操作点，然后选中父级合成并点击 'ENABLE RETIMING' 即可自动完成重定时。该脚本支持调整、删除、重新排列或重新计时对应命名的图层标记。适用于 Windows 和 Mac 系统，兼容 AE 2022 至 CC 2017 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Marker-Remap.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/211554343831.mp4?_=1"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520601764-f1f99d"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hjrH8C8iMzDN1yzMVb8U6w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/UNFVmtQUeS1"
+    },
+    {
+      "name": "中文字幕教程",
+      "url": "https://www.lookae.com/marker-remap-zh/"
+    }
+  ],
+  "other": {
+    "update_notes_v1_4": [
+      "引入更新的 UI，提升标记设置与管理效率",
+      "支持批量添加标记（逗号分隔如：\"一：10，二：24，三：7\"）",
+      "支持等间距标记设置（用等号分隔如：\"一=二=三：20\"）",
+      "支持通过冒号添加无数字标记（如：\"场景：\"）",
+      "新增 +ALT 快捷键启动自动重映射设置（启用重定时、添加层标记和全长内部时间线标记）",
+      "专用按钮：EXTRACT ALL MARKERS 和 EXTRACT ONE MARKER PANEL",
+      "复制粘贴功能增强：支持按当前时间、工作区或全部复制/粘贴，并可选择替换",
+      "删除功能支持按当前时间、工作区或全部删除，并配有独立选项按钮",
+      "新增 FIT LEFT/BOTH/RIGHT 功能，用于匹配前后标记的入点/出点",
+      "新增 BAKE MARKERS 功能，将标记烘焙为关键帧",
+      "对代码结构和用户体验进行了多项优化",
+      "v1.4 向后兼容 v1.3 版本"
+    ],
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "ae脚本"
+    ]
+  }
+}

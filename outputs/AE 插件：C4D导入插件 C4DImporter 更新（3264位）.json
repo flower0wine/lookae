@@ -1,0 +1,41 @@
+{
+  "title": "AE 插件：C4D导入插件 C4DImporter 更新（32/64位）",
+  "slug": "ae-cha-jian-c4ddao-ru-cha-jian-c4dimporter-geng-xin-32-64wei",
+  "author": "大众脸",
+  "post_date": "2014-03-23T14:51:00Z",
+  "source_url": "https://www.lookae.com/c4dimporter/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "C4DImporter",
+    "C4D插件"
+  ],
+  "content": "C4DImporter 插件已更新，修复了加载失败、无法注册等问题。支持 After Effects 的 C4D 项目导入功能，适用于 C4D、CS5、CS6 及 CC 版本，兼容 Mac 和 Windows 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/03/AE+C4D.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "C4D, CS5, CS6, CC",
+  "supported_os": "MAC, WIN",
+  "download_links": [
+    {
+      "name": "官方下载",
+      "url": "http://www.maxon.net/support/updates/plugins.html"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "C4D插件",
+      "Cinema 4D",
+      "Mac 专区"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/c4dimporter/",
+      "https://www.lookae.com/tag/c4d%e6%8f%92%e4%bb%b6/"
+    ],
+    "post_date_formatted": "2014/03/23 14:51"
+  }
+}

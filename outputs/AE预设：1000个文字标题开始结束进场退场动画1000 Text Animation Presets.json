@@ -1,0 +1,36 @@
+{
+  "title": "AE预设：1000个文字标题开始结束进场退场动画1000 Text Animation Presets",
+  "slug": "aeyu-she-1000ge-wen-zi-biao-ti-kai-shi-jie-shu-jin-chang-tui-chang-dong-hua-1000-text-animation-presets",
+  "author": "大众脸",
+  "post_date": "2019-01-29 10:37",
+  "source_url": "https://www.lookae.com/1000-text-animation/",
+  "category": "aechajian",
+  "tags": [
+    "AE预设"
+  ],
+  "content": "1000个文字标题开始结束进场退场弹跳动画，包含500个进场动画和500个出场动画。使用简单方便，直接拖到文字图层即可应用预设效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/1000-Text-Animation-Presets.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019 或更高版本",
+  "supported_os": "Windows 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-333591742"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OI_UH_mKaowbrkwZEL3uIw"
+    }
+  ],
+  "other": {
+    "preset_format": ".ffx",
+    "preset_size": "6M",
+    "resolution": "不定",
+    "plugin_required": "不需要外置插件",
+    "installation_guide": "图文安装教程",
+    "installation_path": "C:\\Program Files\\Adobe\\Adobe After Effects CC 2017\\Support Files\\Presets"
+  }
+}

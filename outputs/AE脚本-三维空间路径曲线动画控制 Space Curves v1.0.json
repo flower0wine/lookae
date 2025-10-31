@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-三维空间路径曲线动画控制 Space Curves v1.0",
+  "slug": "aejiao-ben-san-wei-kong-jian-lu-jing-qu-xian-dong-hua-kong-zhi-space-curves-v1-0",
+  "author": "大众脸",
+  "post_date": "2019/05/14 19:07",
+  "source_url": "https://www.lookae.com/space-curves/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "【脚本介绍】\n脚本可以在AE中对三维空间上的路径进行曲线调整，就像“Easy Ease”制作缓入缓出一样简单，只需选择一个位置关键帧并选择一种样式即可。\nSpace Curves makes motion paths as simple as “Easy Ease” – Just select a position keyframe and pick a style.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Space-Curves.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-374445347"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Ab9nOY0F9Tnx1Ucc2P2pyw"
+    }
+  ],
+  "other": {
+    "download_links_extra": [
+      {
+        "name": "百度网盘下载",
+        "extract_code": "39qu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-一键快速输出GIF动图格式插件脚本 GifGun 1.7.15 Win/Mac 支持AE 2020",
+  "slug": "aejiao-ben-yi-jian-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-jiao-ben-gifgun-1-7-15-win-mac-zhi-chi-ae-2020",
+  "author": "大众脸",
+  "post_date": "2020/06/30 22:11",
+  "source_url": "https://www.lookae.com/gifgun-1715/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "GifGun脚本可以一键输出GIF动图格式，且操作简单，效果质量高。脚本还可以自定义设置GIF文件的大小，帧数率等属性。这是After Effects和GIF格式的完美结合工具，可以在After Effects内一键渲染动画GIF，适用于Dribbble、Behance等平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GifGun.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/GifGun/0_mainInterface_.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33284810.mp4"
+  ],
+  "supported_versions": "2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-451246625"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/10Nv7_AqSBG2BsUD7ZqRnBg"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "wam0",
+    "update_details": [
+      "修复了批量渲染问题",
+      "修复了Windows上无限循环的实验引擎问题",
+      "修复了旧版Windows的安装程序",
+      "修复了脚本加载问题",
+      "修复了macOS 10.13.6上的引擎错误",
+      "修复了试用模式和默认FPS值",
+      "修复了无限循环问题",
+      "支持 AE 2020"
+    ],
+    "official_website": "http://aescripts.com/gifgun/"
+  }
+}

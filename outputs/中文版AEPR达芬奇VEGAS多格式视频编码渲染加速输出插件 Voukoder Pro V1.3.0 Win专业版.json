@@ -1,0 +1,47 @@
+{
+  "title": "中文版AE/PR/达芬奇/VEGAS多格式视频编码渲染加速输出插件 Voukoder Pro V1.3.0 Win专业版",
+  "slug": "zhong-wen-ban-ae-pr-da-fen-qi-vegasduo-ge-shi-shi-pin-bian-ma-xuan-ran-jia-su-shu-chu-cha-jian-voukoder-pro-v1-3-0-winzhuan-ye-ban",
+  "author": "大众脸",
+  "post_date": "2024/08/02 22:17",
+  "source_url": "https://www.lookae.com/voukoder-pro/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件",
+    "Voukoder Pro",
+    "加速渲染",
+    "输出插件",
+    "达芬奇插件"
+  ],
+  "content": "Voukoder Pro 是 Voukoder 的完全重写专业版本，支持 DaVinci Resolve Studio、Adobe Premiere Pro、After Effects、Media Encoder 以及 Vegas Pro。该插件提供系统级的视频和音频编码服务，支持多种 CPU 和 GPU 编码器（如 H.264、HEVC、ProRes 等），并内置后处理滤镜，显著提升渲染与输出速度。用户可与旧版 Voukoder 同时安装使用。插件界面支持中文，操作便捷。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/Voukoder-9.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01FON1oO1vSMtet5cMA_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297172470493.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6 – 2024, Adobe Media Encoder CS6 – 2024, Adobe After Effects CC 2015 – 2024, DaVinci Resolve 17+, VEGAS Pro 18–22",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1339310683-de07c6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1p55aV5Uvmu6J0AUvGtThTg?pwd=sslx"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/48ETStLC5BA"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "sslx",
+    "homepage": "https://www.voukoder.org/",
+    "note": "点击 Settings 即可选择中文语言"
+  }
+}

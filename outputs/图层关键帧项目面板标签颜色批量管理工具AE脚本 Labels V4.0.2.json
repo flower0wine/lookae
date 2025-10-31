@@ -1,0 +1,41 @@
+{
+  "title": "图层关键帧项目面板标签颜色批量管理工具AE脚本 Labels V4.0.2",
+  "slug": "tu-ceng-guan-jian-zheng-xiang-mu-mian-ban-biao-qian-yan-se-pi-liang-guan-li-gong-ju-aejiao-ben-labels-v4-0-2",
+  "author": "大众脸",
+  "post_date": "2025/01/07 10:53",
+  "source_url": "https://www.lookae.com/labels-402/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "在AE中制作项目的时候，当合成中的图层增多，要快速寻找图层会变得很繁琐。为了给图层区分开，我们一般是给图层贴上颜色标签来区分，这个脚本可以自定义颜色组来管理图层/图层标签颜色，这样就可以在多图层的时候查找和选择想要的图层，让工作变得更容易。适用于关键帧、图层和项目面板项。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/08/Labels-V4.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/374255744376.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1444697642-f34d31?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1K2llnWxMMDsd-hr8vNKNFQ?pwd=5k7n"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/gmu1m28Whyv"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "5k7n"
+    },
+    "update_info": "v4.0.2升级内容：变更许可框架"
+  }
+}

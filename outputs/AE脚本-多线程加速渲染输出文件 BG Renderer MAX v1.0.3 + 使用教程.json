@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本-多线程加速渲染输出文件 BG Renderer MAX v1.0.3 + 使用教程",
+  "slug": "aejiao-ben-duo-xian-cheng-jia-su-xuan-ran-shu-chu-wen-jian-bg-renderer-max-v1-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-06-21T15:14:00Z",
+  "source_url": "https://www.lookae.com/bgr-max-103/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "BG Renderer MAX 是一款专为 After Effects 设计的多线程后台渲染扩展脚本，支持在背景中以最快速度渲染合成项目。该脚本具备批量处理、多线程调度、文件格式转换、自定义输出路径等功能，可显著提升渲染效率，替代传统慢速的 Media Encoder。支持跨平台使用（Win/Mac），兼容 AE CC 2018 及 CC 2019。新增功能包括进度条优化、渲染队列动态调整、EXR 和 DPX 格式支持、网络渲染模式等，并修复多个已知问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/BG-Renderer-MAX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2019",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-383902952"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1E6UMbtYn0dYfgDo8ow1xog"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382928723"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10YiohKtR7foX9pUVqR90RA"
+    }
+  ],
+  "other": {
+    "post_date_raw": "2019/06/21 15:14",
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "related_tags": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ],
+    "script_website": "https://aescripts.com/bg-renderer/",
+    "version": "v1.0.3",
+    "update_notes": [
+      "Render状态进度条已更新",
+      "“保存多处理版本”逻辑已更改：未选中则输出到同一文件夹（适用于多机渲染）；选中则为每个渲染创建独立版本文件夹",
+      "渲染队列中新增 Render time 列",
+      "新增对 EXR 和 DPX 格式的支持（需配合自定义输出模块模板及‘在渲染队列中的As’序列格式）",
+      "Custom文件夹现在不会创建子文件夹并禁用版本控制，适用于网络渲染场景",
+      "修复了 Windows 上的网络位置问题",
+      "修复了渲染队列大小错误调整的问题",
+      "修复了 Postrender 错误",
+      "修复了 ### 不匹配问题",
+      "修复了 '303行' 错误",
+      "添加了渲染队列动态调整大小功能",
+      "修复了一些小错误"
+    ]
+  }
+}

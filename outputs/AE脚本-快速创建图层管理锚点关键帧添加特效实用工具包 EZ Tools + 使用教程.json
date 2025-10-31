@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-快速创建图层管理锚点关键帧添加特效实用工具包 EZ Tools + 使用教程",
+  "slug": "aejiao-ben-kuai-su-chuang-jian-tu-ceng-guan-li-mao-dian-guan-jian-zheng-tian-jia-te-xiao-shi-yong-gong-ju-bao-ez-tools-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-06-10",
+  "source_url": "https://www.lookae.com/ez-tools/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "EZ Tools 将 AE 中最常用的操作（新建/管理图层、设置锚点、关键帧整理、快速添加特效等）集成到同一面板，一键完成原本需要多次点击的步骤，显著节省项目时间。脚本由国外作者免费发布，界面为英文，支持 Win/Mac 平台下的 AE CC–CC 2020。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/EZ-Tools.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC – CC 2020",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "英文版AE-城通网盘",
+      "url": "https://089u.com/file/680462-447995407"
+    },
+    {
+      "name": "英文版AE-百度网盘",
+      "url": "https://pan.baidu.com/s/16J6Dq7lOc96ebUU48Ttd-Q"
+    },
+    {
+      "name": "中文版AE-城通网盘",
+      "url": "https://089u.com/file/680462-448006135"
+    },
+    {
+      "name": "中文版AE-百度网盘",
+      "url": "https://pan.baidu.com/s/133-KnlmRudH0dg6oc40NAw"
+    }
+  ],
+  "other": {
+    "百度网盘提取码": {
+      "英文版": "zh67",
+      "中文版": "osoq"
+    },
+    "注意事项": "脚本不通用，需根据 AE 语言版本选择对应文件下载。"
+  }
+}

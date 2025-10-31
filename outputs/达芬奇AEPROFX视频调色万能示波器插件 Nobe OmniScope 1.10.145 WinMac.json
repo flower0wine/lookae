@@ -1,0 +1,79 @@
+{
+  "title": "达芬奇/AE/PR/OFX视频调色万能示波器插件 Nobe OmniScope 1.10.145 Win/Mac",
+  "slug": "da-fen-qi-ae-pr-ofxshi-pin-diao-se-mo-neng-shi-bo-qi-cha-jian-nobe-omniscope-1-10-145-win-mac",
+  "author": "大众脸",
+  "post_date": "2024/12/01 10:11",
+  "source_url": "https://www.lookae.com/nobe-omniscope-145/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC插件",
+    "PR插件",
+    "示波器插件",
+    "达芬奇插件"
+  ],
+  "content": "Nobe OmniScope 是一款专为达芬奇、After Effects、Premiere Pro 及其他支持 OFX 格式的视频编辑软件设计的全能视频调色示波器插件。它提供强大的实时颜色分析功能，支持 GPU 加速与 HDR 工作流，可实现几乎无延迟的图像监控。插件内置 13 种示波器类型，支持自由布局、保存与加载项目配置。具备直方图范围蒙版生成、色调直方图肤色优化、单独模式放大查看等高级功能，并原生支持 StreamDeck 快捷控制与 NDI® 5 传输。适用于专业调色工作流程，兼容 Windows 与 macOS 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Nobe-OmniScope.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442587104088.mp4"
+  ],
+  "supported_versions": "v1.10.145",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1431738043-d39585?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1KckOoTC19zc_lCN8BjV6Bg?pwd=spgq"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/UDH49qdK4sG"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1431738163-ca4637?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1MJ_gu-_IaLjiDs8SiqOVwQ?pwd=rdi7"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/AaMvwonUnTQ"
+    }
+  ],
+  "other": {
+    "features": [
+      "18 种范围类型",
+      "多种输入支持",
+      "支持杜比视界工作流程",
+      "极快的性能",
+      "12位信号支持",
+      "高度通用且可定制",
+      "先进的质量控制和新的质量控制时间表",
+      "使用 OpenColorIO 进行颜色管理",
+      "原生 StreamDeck 支持",
+      "NDI® 5 支持",
+      "Apple Silicon 就绪（M1 芯片）"
+    ],
+    "update_notes": [
+      "修复 GPU 缓存大小配置选项",
+      "已修复某些系统上的关键性能问题"
+    ],
+    "supported_software": [
+      "DaVinci Resolve",
+      "Scratch",
+      "AE",
+      "PR",
+      "PS",
+      "Lightroom",
+      "Vegas"
+    ],
+    "download_info": "Win 版为 145，Mac 版为 138；城通网盘访问密码：6688；百度网盘提取码分别为：spgq（Win）、rdi7（Mac）"
+  }
+}

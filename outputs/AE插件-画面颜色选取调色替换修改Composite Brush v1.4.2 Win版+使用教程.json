@@ -1,0 +1,50 @@
+{
+  "title": "AE插件-画面颜色选取调色替换修改Composite Brush v1.4.2 Win版+使用教程",
+  "slug": "aecha-jian-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-composite-brush-v1-4-2-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/10/24 21:10",
+  "source_url": "https://www.lookae.com/composite-brush-142/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "该插件可直接在视频画面选取颜色，并对所选部分替换为所需颜色。单击并拖动选取颜色，按住Alt键+鼠标左键可取消选择，还能搭配Keylight抠像插件使用，使抠像更易更干净。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（插件）",
+      "url": "https://tc5.us/file/680462-404008822"
+    },
+    {
+      "name": "百度网盘下载（插件）",
+      "url": "https://pan.baidu.com/s/1TjtlbRg9Z-Sm5yZ1r_oJKw"
+    },
+    {
+      "name": "城通网盘下载（使用教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-331097985"
+    },
+    {
+      "name": "百度网盘下载（使用教程）",
+      "url": "https://pan.baidu.com/s/1sd0XkNw_f09V3BXC2_Sxvw"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "plugin_english_intro": "Composite Brush is an accurate and easy to use color selector and modifier for After Effects. Create a selection with just a few strokes, and modify colors or pull a key with the effect.",
+    "plugin_official_url": "https://aescripts.com/composite-brush/"
+  }
+}

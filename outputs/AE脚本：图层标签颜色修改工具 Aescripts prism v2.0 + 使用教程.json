@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本：图层标签颜色修改工具 Aescripts prism v2.0 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-biao-qian-yan-se-xiu-gai-gong-ju-aescripts-prism-v2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-05-26T11:12:00Z",
+  "source_url": "https://www.lookae.com/prism2/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts Prism 是一款专为 After Effects 设计的图层标签颜色管理与修改工具，支持根据图层属性、父子关系、图层前缀等条件自动分配自定义颜色，提升项目结构清晰度和工作效率。新版 v2.0 增强了对项目元素的颜色标记能力，并优化了用户交互体验。适用于 Windows 与 Mac 系统下的 AE CS6 至 CC 2017 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/Prism.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-204290396"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kVE6WMr"
+    }
+  ],
+  "other": {
+    "script_installation": "将 .jsxbin 脚本文件复制到 AE 安装目录下的 Support Files\\Scripts\\ScriptUI Pane 路径中。",
+    "script_usage": "在 AE 中通过 Window（窗口）菜单即可找到该脚本。",
+    "official_website": "http://aescripts.com/prism/",
+    "new_features_v2_0": [
+      "新增 'Colour Masks' 按钮",
+      "支持为项目项（project items）着色",
+      "每个标签名称旁显示颜色色块",
+      "新增 '跳过锁定图层/遮罩' 开关",
+      "新增 '跳过不匹配图层/遮罩' 开关",
+      "新增针对角色绑定（character rigs）的若干 '按名称着色' 原生行为",
+      "新增循环起始标签颜色选项",
+      "重新排序标签库时使用 Shift+点击可快速移动至顶部或底部",
+      "重置标签时使用 Shift+点击可将所有标签设为激活状态",
+      "修复非英文版 AE 无法加载自定义标签颜色的问题",
+      "其他小范围修复与稳定性提升"
+    ],
+    "description": "Prism 是一款赋予用户更强图层标签控制力的工具，使项目更易于管理并保持有序。"
+  }
+}

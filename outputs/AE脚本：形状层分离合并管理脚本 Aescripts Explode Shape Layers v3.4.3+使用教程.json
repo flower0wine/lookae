@@ -1,0 +1,29 @@
+{
+  "title": "AE脚本：形状层分离合并管理脚本 Aescripts Explode Shape Layers v3.4.3+使用教程",
+  "slug": "aejiao-ben-xing-zhuang-ceng-fen-chi-he-bing-guan-li-jiao-ben-aescripts-explode-shape-layers-v3-4-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/03/27 13:29",
+  "source_url": "https://www.lookae.com/explodeshape343/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "此脚本可以精确分离和合并形状图层，包括AI文件转成形状图层，形状图层合并和分离。当我们将文字或者AI矢量文件转换成图形层时，所有的图形都是在一个图层中，不太好处理，这个AE脚本可以将任意图形层进行分解分组，合并等处理。脚本还可以进行其他属性处理，带视频教程。适用于AE CS 5 – CC 2017版本，支持Win/Mac系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Explode-Shape.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：形状层分离合并管理脚本 Aescripts Explode Shape Layers v3.4.3+使用教程",
+      "url": "https://lookae.ctfile.com/fs/PRa185943232"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

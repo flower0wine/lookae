@@ -1,0 +1,49 @@
+{
+  "title": "AE插件-快速查找工程存放位置 Find My AEP V2.3",
+  "slug": "aecha-jian-kuai-su-cha-zhao-gong-cheng-cun-fang-wei-zhi-find-my-aep-v2-3",
+  "author": "大众脸",
+  "post_date": "2022-09-18T21:39:00Z",
+  "source_url": "https://www.lookae.com/find-aep-23/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "这是一个简单的脚本，用于在 After Effects 软件中快速定位当前打开的 .AEP 项目文件所在的文件夹。Find My AEP 可自动打开系统资源管理器（Windows）或 Finder（macOS），并高亮显示该项目文件。该功能集成于 After Effects 的 '文件' 菜单底部，可通过 File > Reveal Current Project File 调用。通过减少手动查找项目路径的时间，每天可节省约5秒。此插件已升级为原生 AEGP 格式，兼容 AE 2020、2021、2022 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Find-My-AEP-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325526112826.mp4"
+  ],
+  "supported_versions": "AE 2020, 2021, 2022",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-675613623-75f85b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1LC8YF-BLGOBXXHySbIVZpw?pwd=i9ns"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/hkUewUizTFT"
+    }
+  ],
+  "other": {
+    "description": "This is a simple script that will quickly show the folder where the open After Effects project resides in the filesystem, aka a Finder window or Windows Explorer window. While it can be run as a standalone ScriptUI Panel, it shines when integrated with Kbar. Save minutes a day!",
+    "features": [
+      "兼容 Windows 和 OSX",
+      "最大限度地减少浪费时间遍历复杂的文件层次结构",
+      "确切知道您的项目文件在哪里",
+      "V2升级到原生 AEGP 插件",
+      "支持软件：AE 2022, 2021, 2020"
+    ],
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

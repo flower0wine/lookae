@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-父子图层链接随意切换 Good Parents V1.3.1 + 使用教程",
+  "slug": "aejiao-ben-fu-zi-tu-ceng-lian-jie-sui-yi-qie-huan-good-parents-v1-3-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/23 18:00",
+  "source_url": "https://www.lookae.com/good-parents/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "Good Parents 脚本允许用户自由地将一个或多个图层链接或取消链接到一个或多个目标对象上，支持通过关键帧随时切换父子关系，极大提升MG动画制作效率。该脚本适用于 After Effects CS5.5 至 CC 2019 版本，兼容 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Good-Parents.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5.5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367735196"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1eyKQljOqSL2F8mb8qqTXrg"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本",
+      "Win/Mac"
+    ],
+    "script_homepage": "https://aescripts.com/good-parents/",
+    "extract_code": "rgpf"
+  }
+}

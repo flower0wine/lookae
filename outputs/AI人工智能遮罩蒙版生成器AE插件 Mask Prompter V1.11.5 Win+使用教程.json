@@ -1,0 +1,60 @@
+{
+  "title": "AI人工智能遮罩蒙版生成器AE插件 Mask Prompter V1.11.5 Win+使用教程",
+  "slug": "airen-gong-zhi-neng-zhe-zhao-meng-ban-sheng-cheng-qi-aecha-jian-mask-prompter-v1-11-5-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/11/14 13:18",
+  "source_url": "https://www.lookae.com/mask-prompter-1115/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mask Prompter",
+    "人工智能"
+  ],
+  "content": "Mask Prompter 是一款基于 AI 的 AE 插件，可高效生成遮罩蒙版。用户只需通过点和矩形标记目标对象，插件即可自动检测并生成精确蒙版，支持细粒度选择、快速优化与稳定跟踪。适用于 After Effects 2024、2023、2022 的 Windows 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Mask-Prompter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/411928442711.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024, 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-974953525-437b38?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1FdFqQDePlckDgyJaXGocfQ?pwd=ffq8"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/GE8zUTCGb1X"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-926557887-95a34f?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1X1-fgr0Akp5GzQIwmbJ2Yw?pwd=2vbx"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PtcaDWoGWb7"
+    }
+  ],
+  "other": {
+    "update_notes": "1.11.5 更新内容：将安装程序有效负载移至更稳定的服务器。无功能变化。",
+    "categories": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "tag_links": [
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)",
+      "[Mask Prompter](https://www.lookae.com/tag/mask-prompter/)",
+      "[人工智能](https://www.lookae.com/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/)"
+    ]
+  }
+}

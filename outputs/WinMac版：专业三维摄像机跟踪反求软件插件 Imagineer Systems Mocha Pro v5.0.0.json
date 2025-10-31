@@ -1,0 +1,82 @@
+{
+  "title": "Win/Mac版：专业三维摄像机跟踪反求软件/插件 Imagineer Systems Mocha Pro v5.0.0",
+  "slug": "win-macban-zhuan-ye-san-wei-she-xiang-ji-gen-zong-fan-qiu-ruan-jian-cha-jian-imagineer-systems-mocha-pro-v5-0-0",
+  "author": "大众脸",
+  "post_date": "2016/06/08 14:05",
+  "source_url": "https://www.lookae.com/mocha-5/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "mocha 5",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Mocha Pro是一款独立的2D跟踪软件，基于图形独特的2.5平面跟踪系统，具有多种功能，能产生二维立体跟踪能力，可节省时间和金钱。软件为一键式安装，方便快捷。Mocha Pro5增加Adobe和Avid的插件选项，增强跟踪数据的GPU处理能力、Python脚本模块，增加输出C4D等格式选项，修复bug并提升图层处理和工程保存速度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/06/mocha5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac/Linux",
+  "download_links": [
+    {
+      "name": "Windows版本软件下载",
+      "url": "http://lookae.ctfile.com/fs/tKD152047292"
+    },
+    {
+      "name": "Mac苹果版软件下载",
+      "url": "http://lookae.ctfile.com/fs/qbk152047274"
+    },
+    {
+      "name": "Linux版本软件下载",
+      "url": "http://lookae.ctfile.com/fs/Nt6152047220"
+    },
+    {
+      "name": "Windows版本Avid插件下载",
+      "url": "http://lookae.ctfile.com/fs/GPF152047175"
+    },
+    {
+      "name": "Mac苹果版Avid插件下载",
+      "url": "http://lookae.ctfile.com/fs/jIm152047154"
+    },
+    {
+      "name": "Windows版本Adobe（AE,Pr）插件下载",
+      "url": "http://lookae.ctfile.com/fs/KTC152047136"
+    },
+    {
+      "name": "Mac苹果版Adobe（AE,Pr）插件下载",
+      "url": "http://lookae.ctfile.com/fs/8KF152047118"
+    }
+  ],
+  "other": {
+    "classifications": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      },
+      {
+        "name": "Mac专区",
+        "url": "https://www.lookae.com/mac-osx/"
+      },
+      {
+        "name": "其他资源",
+        "url": "https://www.lookae.com/qitarjcj/otherzy/"
+      },
+      {
+        "name": "其他辐射",
+        "url": "https://www.lookae.com/others/"
+      },
+      {
+        "name": "软件/插件",
+        "url": "https://www.lookae.com/qitarjcj/"
+      }
+    ],
+    "mocha_intro_en": "mocha is award winning tracking software developed by Imagineer Systems. Built upon a renowned Planar Tracking image engine, mocha follows “pixel patterns” through the most difficult conditions including objects that go off-screen, objects that are partially obscured, even out of focus footage. This technology drives our products and is licensed to technology partners.",
+    "taobao_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "AE插件：色彩随机切换闪烁插件 Aescripts Color Wiggle V1.2 + 使用教程",
+  "slug": "aecha-jian-se-cai-sui-ji-qie-huan-shan-shuo-cha-jian-aescripts-color-wiggle-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/08 11:41",
+  "source_url": "https://www.lookae.com/color-wiggle/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "一款简单实用的AE插件，可以快速地给图层设置各种颜色闪烁变化，无需繁琐表达式，还可以自定义颜色，并附带视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/Color-Wiggle-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5.5 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202155122"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1i4561a1"
+    }
+  ],
+  "other": {
+    "note": "插件为一键安装版，安装即可使用，无功能限制",
+    "external_link": "http://aescripts.com/color-wiggle/"
+  }
+}

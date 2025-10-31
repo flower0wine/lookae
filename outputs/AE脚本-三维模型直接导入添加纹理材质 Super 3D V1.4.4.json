@@ -1,0 +1,60 @@
+{
+  "title": "AE脚本-三维模型直接导入添加纹理材质 Super 3D V1.4.4",
+  "slug": "aejiao-ben-san-wei-mo-xing-zhi-jie-dao-ru-tian-jia-wen-li-cai-zhi-super-3d-v1-4-4",
+  "author": "大众脸",
+  "post_date": "2025-09-17T08:55:00Z",
+  "source_url": "https://www.lookae.com/super-3d-144/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Super 3D"
+  ],
+  "content": "Super 3D 是一款强大的 After Effects 扩展，可显著增强软件的 3D 功能。用户可通过该脚本快速添加 3D 对象（支持 GLB、GLTF 格式），替换现有图层中的模型或纹理，并支持动画应用。同时可将 3D 图层转换为实体图层以应用各类效果，界面响应式设计，操作便捷。适用于 After Effects 24.1 及以上版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Super-3D.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/458021991181.mp4"
+  ],
+  "supported_versions": "After Effects 24.1 及以上版本（2024.1、2025 或更高）",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8435522249-c7334e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1sfkvGm9uo23TI_OxwfPgNw?pwd=q979"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Q6HwgFBvLqE"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新增自定义材料功能：支持添加和调整 PBR 参数（金属、粗糙度、法线强度、基色）",
+      "修复无法识别 JPG 纹理的自定义材料问题",
+      "修复删除材料时未立即更新 UI 的问题",
+      "修复从‘添加新项目’对话框中删除纹理导致扩展崩溃的问题",
+      "在模型导入和复制后添加对临时模板文件的适当清理"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "Super 3D"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/super-3d/"
+    ],
+    "password_info": {
+      "ctfile": "6688",
+      "baidu": "q979"
+    }
+  }
+}

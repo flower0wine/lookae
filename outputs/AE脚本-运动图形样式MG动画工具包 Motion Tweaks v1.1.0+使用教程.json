@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-运动图形样式MG动画工具包 Motion Tweaks v1.1.0+使用教程",
+  "slug": "aejiao-ben-yun-dong-tu-xing-yang-shi-mgdong-hua-gong-ju-bao-motion-tweaks-v1-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-05-08T17:08:00Z",
+  "source_url": "https://www.lookae.com/motion-tweaks-110/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Motion Tweaks"
+  ],
+  "content": "Motion Tweaks 是一款专为 After Effects 设计的脚本工具，旨在提升动画师的工作效率。该工具集成了多种实用功能，帮助用户更高效地处理动画任务。其核心功能包括3D路径控制、伪3D图层样式快速应用、动画摆动与路径修剪、形状方向修复与波浪路径生成等，显著优化工作流程并节省重复操作时间。适用于 AE 2021 至 2025 版本，支持 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/Motion-Tweaks.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/510540376487.mp4"
+  ],
+  "supported_versions": "AE 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1504004159-59cb09?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1GKBTe2pA_j7ffmqW3rV-qQ?pwd=m996"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/hiRid5q5KvU"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/mg%e5%8a%a8%e7%94%bb/",
+      "https://www.lookae.com/tag/motion-tweaks/"
+    ],
+    "update_notes": {
+      "v1_1_0": [
+        "新增‘旋转第一个顶点’脚本：用于快速更改形状图层路径和蒙版起始顶点。",
+        "用户界面修复和改进：包括灵活网格优化、类别界面改善、图标与文本间距修复、自适应深色/白色主题、紧凑视图中添加图标工具提示。",
+        "摆动脚本修复：支持 Z 轴摆动（位置、锚点、缩放），修复‘null 不是对象’错误，增加属性验证防止不支持表达式属性出错。",
+        "正弦脚本修复：修复按住 Ctrl 键时 Y 轴问题，现在始终使用 XY 变量表达式，并根据按键在三轴控制器间切换。",
+        "修剪路径脚本修复：修复非形状属性选择时报错问题，增强错误处理机制跳过无效属性。",
+        "创建立方体：确保 Classic 渲染引擎激活以支持描边版本。",
+        "创建圆柱体：修复 Alt 版本中‘无法使用此属性设置值’错误。"
+      ]
+    }
+  }
+}

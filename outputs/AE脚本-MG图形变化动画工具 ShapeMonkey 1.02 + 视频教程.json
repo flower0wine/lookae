@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-MG图形变化动画工具 ShapeMonkey 1.02 + 视频教程",
+  "slug": "aejiao-ben-mgtu-xing-bian-hua-dong-hua-gong-ju-shapemonkey-1-02-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/25 16:50",
+  "source_url": "https://www.lookae.com/shapemonkey-102/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "ShapeMonkey脚本可以生成各种复杂的形状层动画，支持Color Swatches配色，是制作MG动画不错的选择，简单易用。Generate an endless variety of complex shape layer animations in seconds. Works with text & vectors too。v1.02新版更新：更新AE的新JavaScript引擎的表达式。更新许可框架。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ShapeMonkey.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘脚本下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368265200"
+    },
+    {
+      "name": "百度网盘脚本下载",
+      "url": "https://pan.baidu.com/s/10gSvD8ycd8tnQLUTPPGIuA"
+    },
+    {
+      "name": "城通网盘教程下载",
+      "url": "https://lookae.ctfile.com/fs/jhy171345326"
+    },
+    {
+      "name": "百度网盘教程下载",
+      "url": "https://pan.baidu.com/s/1eHoNvQDDI3kC4mB1C-CEIg"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": {
+      "script": "i9zf",
+      "tutorial": "ppky"
+    },
+    "official_website": "http://aescripts.com/shapemonkey/",
+    "taobao_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

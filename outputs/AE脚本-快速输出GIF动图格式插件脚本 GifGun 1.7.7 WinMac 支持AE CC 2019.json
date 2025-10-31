@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-快速输出GIF动图格式插件脚本 GifGun 1.7.7 Win/Mac 支持AE CC 2019",
+  "slug": "aejiao-ben-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-jiao-ben-gifgun-1-7-7-win-mac-zhi-chi-ae-cc-2019",
+  "author": "大众脸",
+  "post_date": "2019/04/30 09:18",
+  "source_url": "https://www.lookae.com/gifgun-175/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "GifGun是一款专门为After Effects设计的脚本工具，能够一键快速输出GIF动图格式。该脚本操作简单，效果质量高，支持自定义设置GIF文件的大小、帧率等属性，适用于Dribbble、Behance等平台的展示需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GifGun.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/GifGun/0_mainInterface_.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33284810.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-370026020"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1N2WkDp7E-gPOGTNhbmsJxA"
+    }
+  ],
+  "other": {
+    "extraction_code": "08wu",
+    "update_notes": "1.7.7更新内容：setDate错误已修复；与BGRenderer2的兼容性提高；可设置所需的循环量；Bug默认FPS已修复；微代码更新；添加了像素化模式；为OSX 10.14 Mojave黑暗主题更新的安装程序"
+  }
+}

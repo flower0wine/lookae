@@ -1,0 +1,42 @@
+{
+  "title": "AE/Pr 隔行去场插件 RevisionFX FieldsKit 3.4.2 Win/Mac",
+  "slug": "ae-pr-ge-xing-qu-chang-cha-jian-revisionfx-fieldskit-3-4-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2017-02-13T14:43:00Z",
+  "source_url": "https://www.lookae.com/fieldskit-342/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "FieldsKit 是 RevisionFX 公司专为视频场处理设计的工具，可有效消除因隔行扫描导致的波纹、横纹等水纹现象。该插件包含三个核心滤镜：Deinterlacer（去隔行处理）、Reinterlace（隔行重建）和 Pulldown（帧率下拉变换），支持灵活参数调整与多模式应用，显著提升图像质量。适用于 Adobe After Effects CS6 – CC 2017 与 Premiere Pro CS6 – CC 2017 的 Windows 与 Mac 平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/01/FieldsKit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 – CC 2017, Adobe Premiere Pro CS6 – CC 2017",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE/Pr 隔行去场插件 RevisionFX FieldsKit 3.4.2 Win/Mac",
+      "url": "https://lookae.ctfile.com/fs/LTz171232578"
+    }
+  ],
+  "other": {
+    "post_date_raw": "2017/02/13 14:43",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/winmac/"
+    ],
+    "image_alt": "AE/Pr 隔行去场插件 RevisionFX FieldsKit 3.4.2 Win/Mac-LookAE.com"
+  }
+}

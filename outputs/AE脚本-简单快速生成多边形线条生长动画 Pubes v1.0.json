@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-简单快速生成多边形线条生长动画 Pubes v1.0",
+  "slug": "aejiao-ben-jian-dan-kuai-su-sheng-cheng-duo-bian-xing-xian-tiao-sheng-chang-dong-hua-pubes-v1-0",
+  "author": "大众脸",
+  "post_date": "2019/08/12 11:06",
+  "source_url": "https://www.lookae.com/pubes/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Pubes 是一款用于 After Effects 的脚本，可快速生成多边形线条生长动画。它支持在多边形内部或边缘周围生成无限量的样条线。在‘多边形’模式下，样条线随机分布于形状内部；在‘边缘’模式下，支持均匀、随机、半随机或按指定角度投影等方式分布样条线。适用于多种版本的 After Effects，广泛应用于动态图形设计中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Pubes.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-392476778"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Tb36BNNrUCdjsRFajEBIAg"
+    }
+  ],
+  "other": {
+    "original_post_url": "https://www.lookae.com/pubes/",
+    "script_demo_link": "https://aescripts.com/pubes/",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ]
+  }
+}

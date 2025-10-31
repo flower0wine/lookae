@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本：信息数据图表生成动画脚本 Aescripts Infocharts Creator v1.04 + 使用教程",
+  "slug": "aejiao-ben-xin-xi-shu-ju-tu-biao-sheng-cheng-dong-hua-jiao-ben-aescripts-infocharts-creator-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-12-24T11:37:00Z",
+  "source_url": "https://www.lookae.com/infocharts-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Infocharts Creator 是一款适用于 After Effects 的动画图表生成工具，可快速通过导入 .csv 格式数据或手动输入自定义数据，一键生成动态信息图表。支持 AE CS5 至 CC2015 版本。安装方式为将 .jsxbin 文件复制到 AE 安装目录下的 Support Files/Scripts/ScriptUI Pane 路径中。使用时可通过 Window（窗口）菜单调用脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/Infocharts-Creator.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：信息数据图表生成动画脚本 Aescripts Infocharts Creator v1.04 + 使用教程",
+      "url": "http://lookae.ctfile.com/file/139252633"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/infocharts-creator/",
+    "installation_path": "Support Files\\Scripts\\ScriptUI Pane",
+    "usage_method": "Window 菜单中查找脚本",
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

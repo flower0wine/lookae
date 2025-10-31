@@ -1,0 +1,51 @@
+{
+  "title": "中文汉化AE插件-图层边界自动填充生长动画插件 AutoFill v1.1.1 Mac苹果版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-tu-ceng-bian-jie-zi-dong-tian-chong-sheng-chang-dong-hua-cha-jian-autofill-v1-1-1-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2021/03/18 23:55",
+  "source_url": "https://www.lookae.com/autofill-111mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac版",
+    "中文汉化"
+  ],
+  "content": "AutoFill 是一款革命性的 After Effects 插件，可流畅自动填充图层边界，显著减少蒙版与关键帧的繁琐操作。它支持基于透明度的生长方向控制，适用于动画展示、纹理变化、溶解过渡、循环动画等多种场景。插件采用 GPU 加速，支持实时预览，提供 25 个预设模板，并具备高级动画控制功能，如通过亮度控制速度、多种源选项（点、层源、噪波）调节填充位置与方式。该版本修复了 32bpc 的兼容性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AutoFill.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279977807409.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（中英插件）",
+      "url": "https://089u.com/f/680462-486198492-2c33df"
+    },
+    {
+      "name": "百度网盘（中英插件）",
+      "url": "https://pan.baidu.com/s/1cG3qmtUJg9KonMCc1oIKYw"
+    },
+    {
+      "name": "城通网盘（视频教程）",
+      "url": "https://089u.com/file/680462-461545167"
+    },
+    {
+      "name": "百度网盘（视频教程）",
+      "url": "https://pan.baidu.com/s/18--fk2TQEF4sAtnKyxNhnQ"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/autofill-111/"
+    ],
+    "update_notes": "v1.1.1 更新内容：修复了 32bpc 的错误",
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "sci6",
+      "tutorial_baidu": "gl40"
+    }
+  }
+}

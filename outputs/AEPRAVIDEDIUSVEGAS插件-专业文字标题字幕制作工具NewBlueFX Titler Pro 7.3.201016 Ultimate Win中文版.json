@@ -1,0 +1,59 @@
+{
+  "title": "AE/PR/AVID/EDIUS/VEGAS插件-专业文字标题字幕制作工具NewBlueFX Titler Pro 7.3.201016 Ultimate Win中文版",
+  "slug": "ae-pr-avid-edius-vegascha-jian-zhuan-ye-wen-zi-biao-ti-zi-mu-zhi-zuo-gong-ju-newbluefx-titler-pro-7-3-201016-ultimate-winzhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2020/11/06 13:00",
+  "source_url": "https://www.lookae.com/titler-pro-201016/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "由 NewBlue 公司出品的一款出色的 Titler Pro 字幕工具（独立软件版+插件版），能够制作模拟出很多不一样的字幕文字标题动画效果，非常专业的字幕制作工具，各种文字属性也很完整，能够制作出很多意想不到的文字效果，工具拥有完整独立界面，专业时间线，众多预设等，内置了多个4K&5K分辨率的人名字幕条信息框，可以直接拖拽使用，也可以自己导入EPS或者PSD等文件进行修改制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Titler-Pro-7.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/244637316918.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 或更高版, Adobe Premiere CC 或更高版, Avid Media Composer & Symphony 6+, Grass Valley EDIUS 7, 8 & 9, Magix VEGAS Pro 10+, VEGAS Movie Studio",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-469212372"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1qYNV8m3AbLj26cQ-0Unp_w"
+    }
+  ],
+  "other": {
+    "product_homepage": "https://www.newbluefx.com/products/titling/titler-pro/",
+    "installation_instructions": [
+      "安装NewBlueTitlerPro7Ultimate.exe插件程序",
+      "复制Titler和Common文件夹到以下目录：C:\\Program Files\\NewBlueFX",
+      "完成安装，可使用（无水印）"
+    ],
+    "chinese_language_switch_method": "在路径 C:\\Program Files\\NewBlueFX\\Titler\\Resources\\Translations 中将 titler_cn 修改成 titler_zh 即可。",
+    "features": {
+      "performance_improvements": [
+        "使用新引擎更快地工作",
+        "改进的时间表灵活性",
+        "简化的多标题管理"
+      ],
+      "smart_features": [
+        "简单流畅的积分",
+        "对象跟随",
+        "风格断裂",
+        "循环资产"
+      ],
+      "new_designs": "500多种新设计，模板库升级为数十个新的多功能集合",
+      "real_time_integration": "与 NewBlue Titler Live 完全兼容，支持实时广播与后期制作无缝衔接"
+    },
+    "baidu_pan_password": "3zpm"
+  }
+}

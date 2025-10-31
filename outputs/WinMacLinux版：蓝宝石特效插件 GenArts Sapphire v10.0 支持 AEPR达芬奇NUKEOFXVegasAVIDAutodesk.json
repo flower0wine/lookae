@@ -1,0 +1,72 @@
+{
+  "title": "Win/Mac/Linux版：蓝宝石特效插件 GenArts Sapphire v10.0 支持 AE/PR/达芬奇/NUKE/OFX/Vegas/AVID/Autodesk",
+  "slug": "win-mac-linuxban-lan-bao-shi-te-xiao-cha-jian-genarts-sapphire-v10-0-zhi-chi-ae-pr-da-fen-qi-nuke-ofx-vegas-avid-autodesk",
+  "author": "大众脸",
+  "post_date": "2016/09/26 17:34",
+  "source_url": "https://www.lookae.com/sapphire10/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Genarts Sapphire",
+    "Linux",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "Win/Mac"
+  ],
+  "content": "GenArts Sapphire 是一套广受欢迎的视觉特效插件套装，提供超过250种高质量的视觉效果和转场，适用于影视后期制作。其以卓越的图像质量、高效的渲染速度和直观的用户界面著称，能够显著提升创作效率与表现力。插件支持在用户界面中直接预览效果，并附带HTML和PDF格式的离线帮助文档。新增的Brush、Luna和RomanTile插件进一步扩展了创作可能性，涵盖手绘笔刷、月亮渲染和视频马赛克等功能。此外，S_Effect新增遮罩与背景输入，Builder和预设浏览器也进行了多项优化，提升了整体使用体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/Sapphire10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC / CC 2014 / CC 2015.3; Adobe Premiere Pro CC / CC 2014 / CC 2015.3; The Foundry Nuke 6.3v8 or greater; DaVinci Resolve 10 or greater; Vegas Pro 12 or greater; Avid Media Composer (any version); Autodesk系列等",
+  "supported_os": "Windows, Mac, Linux",
+  "download_links": [
+    {
+      "name": "Windows - AE/PR版",
+      "url": "http://lookae.ctfile.com/fs/40c157126954"
+    },
+    {
+      "name": "Windows - AVID版",
+      "url": "http://lookae.ctfile.com/fs/JmR157127125"
+    },
+    {
+      "name": "Windows - OFX版本",
+      "url": "http://lookae.ctfile.com/fs/VKX157127200"
+    },
+    {
+      "name": "Windows - AE/PR一键安装版",
+      "url": "http://lookae.ctfile.com/fs/LPO157126801"
+    },
+    {
+      "name": "Mac - AE/PR版",
+      "url": "http://lookae.ctfile.com/fs/AfM157126927"
+    },
+    {
+      "name": "Mac - AVID版",
+      "url": "http://lookae.ctfile.com/fs/maz157127032"
+    },
+    {
+      "name": "Mac - OFX版本",
+      "url": "http://lookae.ctfile.com/fs/ltC157127179"
+    },
+    {
+      "name": "Mac - Autodesk 版",
+      "url": "http://lookae.ctfile.com/fs/8mM157126996"
+    },
+    {
+      "name": "Linux - OFX版本",
+      "url": "http://lookae.ctfile.com/fs/rYk157126894"
+    },
+    {
+      "name": "Linux - Autodesk 版",
+      "url": "http://lookae.ctfile.com/fs/Gso157126855"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.genarts.com/sapphire",
+    "registration_guide": "包含详细的离线激活步骤，涉及RLM服务器配置、许可证文件修改与替换、服务重启等操作，最终在AE中验证授权状态。"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "AE视频去闪烁插件 REVision Effects DEFlicker v1.0.3 CE（Win64）",
+  "slug": "aeshi-pin-qu-shan-shuo-cha-jian-revision-effects-deflicker-v1-0-3-ce-win64",
+  "author": "大众脸",
+  "post_date": "2014-02-07T14:19:00",
+  "source_url": "https://www.lookae.com/deflicker/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "REVision",
+    "win64"
+  ],
+  "content": "REVision Effects DEFlicker 是一款专为 Adobe After Effects 设计的视频去闪烁插件，适用于 Win64 系统。该插件通过分析画面的颜色与亮度变化，智能计算并生成平滑的视频图像，有效解决因摄像机与人眼感知差异导致的光闪烁问题，包括光闪烁、延时拍摄闪烁及动态闪烁等常见现象。支持 Adobe After Effects CS5 及以上版本，涵盖所有 Adobe CC 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/02/DEFlicker-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 及以上版本，含 Adobe CC 版本",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE视频去闪烁插件 REVision Effects DEFlicker v1.0.3 CE（Win64）",
+      "url": "https://www.400gb.com/file/56388870"
+    }
+  ],
+  "other": {
+    "official_description_url": "http://www.revisionfx.com/products/deflicker/overview/",
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/revision/",
+      "https://www.lookae.com/tag/win64/"
+    ]
+  }
+}

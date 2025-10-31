@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本：图层物体运动出入动画预设 Action Library Win/Mac",
+  "slug": "aejiao-ben-tu-ceng-wu-ti-yun-dong-chu-ru-dong-hua-yu-she-action-library-win-mac",
+  "author": "大众脸",
+  "post_date": "2018/08/06 13:39",
+  "source_url": "https://www.lookae.com/action-library/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "此脚本包含约200种动画预设，分为9大类（大小、衰减、图案、遮罩、信号损坏、扭曲、颜色变化），多种预设可叠加使用，组合出约1000多种不同的动画效果。适用于图片、文字、LOGO等图层对象，并提供多种参数控制，用户可通过拖动素材的标记点来调整出入动画的时长。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/08/Action-Library.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2yfePA5OYBuNjSsD4XXbSkFXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB20C1lJqmWBuNjy1XaXXXCbXXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2GCYVmBnTBKNjSZPfXXbf1XXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2YX8bcjrguuRjy0FeXXXcbFXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB25y1BAZuYBuNkSmRyXXcA3pXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2W91qA2iSBuNkSnhJXXbDcpXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB27XfVJbuWBuNjSszgXXb8jVXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2xeryA8yWBuNkSmFPXXXguVXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2.yQTJhGYBuNjy0FnXXX5lpXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB21nXacjrguuRjy0FeXXXcbFXa_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50224362014.mp4?_=1"
+  ],
+  "supported_versions": "AE CC 2014.2 – CC 2018（必须使用英文版AE软件）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?id=575040370619"
+    },
+    {
+      "name": "站内支付下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Faction-library%2F"
+    }
+  ],
+  "other": {
+    "resolution": "1080P，4K，9:16，1:1",
+    "requires_plugins": false,
+    "file_size_compressed": "143M",
+    "file_size_uncompressed": "203M",
+    "documentation": "提供大众脸整理的图文PDF安装教程+官网英文使用视频教程",
+    "notes": "脚本使用修改需要一定AE基础，新手请慎重选购，不提供任何修改服务",
+    "special_notes": "不支持 AE CC 2014，仅支持 AE CC 2014.2（版本号 13.2）"
+  }
+}

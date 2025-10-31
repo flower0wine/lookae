@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-图层复制克隆动画特效 Cloners+Effectors v1.2.5 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-dong-hua-te-xiao-cloners-effectors-v1-2-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-11-11",
+  "source_url": "https://www.lookae.com/cloners-125/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Cloners + Effectors 是一款 After Effects 程序式动画系统，可一次性为多个图层生成动画，通过效果器替代逐层关键帧，灵活可控，并附官方视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Cloners-Effectors-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://tc5.us/file/680462-406978420"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1OsabOxuV07QvPY99kMIjsA"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362726808"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1m21eBUKTIRjOM1_3wF8FuA"
+    }
+  ],
+  "other": {
+    "官网地址": "http://aescripts.com/cloners-plus-effectors/",
+    "更新日志": [
+      "修正了错误：路径克隆器现在可用于所有语言",
+      "更新后可用于 macOS Catalina 10.15"
+    ],
+    "教程提取码": "034i"
+  }
+}

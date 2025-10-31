@@ -1,0 +1,59 @@
+{
+  "title": "正版AE插件-像素世界 PixelsWorld V3 国人原创开发插件",
+  "slug": "zheng-ban-aecha-jian-xiang-su-shi-jie-pixelsworld-v3-guo-ren-yuan-chuang-kai-fa-cha-jian",
+  "author": "大众脸",
+  "post_date": "2020/10/10 11:42",
+  "source_url": "https://www.lookae.com/pixelsworld3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PixelsWorld"
+  ],
+  "content": "PixelsWorld（又称：像素世界）是一款在After Effects中通过代码渲染场景的插件，支持使用预设快速构建场景、用类似Processing的绘图语言绘制场景，以及通过高效的GLSL代码构建滤镜或场景特效。即使无编程经验也能体验程序绘图乐趣，官方提供详尽中文文档。此外，插件支持以接近Houdini的SpreadSheet概念构建几何体，并可输出深度和法线通道。适用于After Effects CC2018、CC2019、2020，需Windows 10系统及支持OpenGL 3.3及以上版本的显卡。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01AamXb81vSMkWhtEao_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01N20Nq01vSMkZUBbvB_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01Jazvaj1vSMkU8sXFw_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01gPpavh1vSMkZAQnzu_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/282512535515.mp4"
+  ],
+  "supported_versions": "After Effects CC2018, CC2019, 2020",
+  "supported_os": "Windows 10",
+  "download_links": [
+    {
+      "name": "测试版下载",
+      "url": "https://pan.baidu.com/s/1zhi9ysJA2WZX3kj-O22g3g"
+    }
+  ],
+  "other": {
+    "official_website": "https://milai.tech/products/PixelsWorld/",
+    "purchase_links": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/item.htm?id=605835876131",
+        "note": "不支持发票"
+      },
+      {
+        "platform": "Flashback（日本）",
+        "url": "https://flashbackj.com/product/pixelsworld",
+        "note": "支持发票"
+      },
+      {
+        "platform": "Aescripts（其它国家/地区）",
+        "url": "https://aescripts.com/pixelsworld/",
+        "note": "支持发票"
+      },
+      {
+        "platform": "Gumroad（其它国家/地区）",
+        "url": "https://gumroad.com/l/pixelsworld",
+        "note": "支持发票"
+      }
+    ],
+    "serial_notice_url": "https://pw.yuelili.com/docs/contents/Serial/SerialAttention.html",
+    "documentation_url": "https://pw.yuelili.com/docs/",
+    "poly_documentation_url": "https://pw.yuelili.com/docs/contents/Lua/Poly.html",
+    "demo_project_note": "上图所示奇异几何体的代码可在DEMO工程文件中找到"
+  }
+}

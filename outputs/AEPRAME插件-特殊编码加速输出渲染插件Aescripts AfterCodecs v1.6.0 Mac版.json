@@ -1,0 +1,57 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件Aescripts AfterCodecs v1.6.0 Mac版",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-6-0-macban",
+  "author": "大众脸",
+  "post_date": "2019-03-04",
+  "source_url": "https://www.lookae.com/aftercodecs-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款适用于 After Effects、Premiere Pro 与 Media Encoder 的编码输出插件，支持 ProRes、H.264（x264）、H.265（x265）等高效编码，渲染速度优于软件自带输出，文件体积更小、画质更佳。v1.6.0 新增 VR360 自动标记、实验性 GIF 编码器及多项稳定性改进。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects / Premiere Pro / Media Encoder CC 2015–CC 2019",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "城通网盘（Mac）",
+      "url": "https://lookae.ctfile.com/fs/680462-345993792"
+    },
+    {
+      "name": "百度网盘（Mac）",
+      "url": "https://pan.baidu.com/s/1Dhw3P16sKq1GA52OT9286g"
+    }
+  ],
+  "other": {
+    "提取码": {
+      "百度网盘（Mac）": "j7it"
+    },
+    "Win版下载": [
+      {
+        "name": "城通网盘（Win）",
+        "url": "https://lookae.ctfile.com/fs/680462-344139399"
+      },
+      {
+        "name": "百度网盘（Win）",
+        "url": "https://pan.baidu.com/s/1E6bsuSCvNXrSIfE1-tjTfQ",
+        "提取码": "2pse"
+      }
+    ],
+    "使用教程": [
+      {
+        "name": "城通网盘",
+        "url": "https://www.pipipan.com/fs/680462-221741711"
+      },
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1c2nhMI8"
+      }
+    ],
+    "官方主页": "http://aescripts.com/aftercodecs/"
+  }
+}

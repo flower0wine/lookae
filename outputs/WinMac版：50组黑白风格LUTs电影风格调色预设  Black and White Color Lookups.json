@@ -1,0 +1,51 @@
+{
+  "title": "Win/Mac版：50组黑白风格LUTs电影风格调色预设 Black and White Color Lookups",
+  "slug": "win-macban-50zu-hei-bai-feng-ge-lutsdian-ying-feng-ge-diao-se-yu-she-black-and-white-color-lookups",
+  "author": "大众脸",
+  "post_date": "2016-06-06T12:23:00Z",
+  "source_url": "https://www.lookae.com/bwlookups/",
+  "category": "aechajian",
+  "tags": [
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "多软件支持",
+    "调色预设"
+  ],
+  "content": "本资源包含50组黑白风格的LUTs电影调色预设，支持. cube和.3DL两种格式，适用于多种后期制作软件。通过LUT可快速实现电影胶片质感的色彩效果，提升画面表现力。支持包括DaVinci Resolve、Adobe Premiere Pro、After Effects、Photoshop、Final Cut Pro、Nuke等主流软件。使用简单，只需导入LUT即可获得专业级调色效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/06/BW-Colorlookups.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2p9rbqXXXXXc3XXXXXXXXXXXX_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf",
+    "https://pan.baidu.com/s/1dEdBwA1"
+  ],
+  "supported_versions": "支持 Adobe Premiere CS6 - CC 2016, After Effects CS6 - CC 2016, Photoshop CS6 - CC 2016, DaVinci Resolve (Full & Lite), Final Cut Pro X / 7, Avid MC 7, Shake, Sony Vegas, Edius, Pandora Revolution/Pixi, CineForm Studio Premium, Nuke, SCRATCH, Film Master, Quantel Pablo, BaseLight, Motion 5/4 等",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/dpp151882940"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1slMji5v"
+    }
+  ],
+  "other": {
+    "official_website": "https://creativemarket.com/grasycho/228236-BW-Colorlookups",
+    "related_recommendations": [
+      "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）: https://www.lookae.com/lookaeluts/",
+      "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft: https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158",
+      "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film: https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186",
+      "【大众脸官方淘宝店】: https://lookae.taobao.com/",
+      "点击自愿赞助 LookAE.com 网站 【送精品资源】: https://www.lookae.com/sponsor/"
+    ],
+    "additional_tools": [
+      "Magic Bullet LUT Buddy (适用于大部分软件): https://www.redgiant.com/downloads/free-products/",
+      "FCPX软件 LUT 实用颜色工具: https://www.lookae.com/fcpx-lut/"
+    ],
+    "note": "只要软件能安装最新版的调色插件，即可导入并使用这些LUT。"
+  }
+}

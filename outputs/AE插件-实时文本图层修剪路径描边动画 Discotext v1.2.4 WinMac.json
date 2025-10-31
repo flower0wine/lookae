@@ -1,0 +1,50 @@
+{
+  "title": "AE插件-实时文本图层修剪路径描边动画 Discotext v1.2.4 Win/Mac",
+  "slug": "aecha-jian-shi-shi-wen-ben-tu-ceng-xiu-jian-lu-jing-miao-bian-dong-hua-discotext-v1-2-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/12/19 14:11",
+  "source_url": "https://www.lookae.com/discotext-124/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "Discotext 是一款专为 After Effects 设计的实时文本图层修剪路径描边动画插件，支持对文本图层进行修剪、偏移、交错和克隆操作。其控制方式与形状图层的修剪路径相似，界面友好，符合 AE 用户的操作习惯。插件具备完整的描边控制功能，包括开始/结束/偏移调节、多种帽样式（对接、方形、圆形）、破折号与间隙设置，并支持每个路径和顺序修饰符的独立错开。同时提供强大的克隆与偏移副本功能，兼容大多数文本动画制作器属性，支持 8、16 和 32bpc 色深，拥有全运动模糊控制能力。适用于从 AE CS6 到 2022 的版本，且已适配苹果 M 芯片。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Discotext-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – 2022",
+  "supported_os": "Windows, macOS (含 Apple M1/M2)",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-751070734-7ac370?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1t-PUkALSLxbJUoEMgNXbcw?pwd=52zs"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/eun65PSHbj1"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.2.4 更新内容：修复启用随机偏移时的线程错误；更新许可证框架；增强对苹果 M 芯片的兼容性。",
+    "limitations": [
+      "在 CC2018 以下版本中，带有父级变换的文本层可能无法达到预期效果（取决于父级变换），此问题已在 CC2018 及更高版本中解决。",
+      "3D 文本必须在进行 Z 轴偏移前先进行预合成。"
+    ],
+    "feature_summary": [
+      "开始、结束和偏移控件",
+      "对接、方形、圆形帽样式",
+      "完整的破折号、间隙和偏移选项",
+      "每个路径和顺序修饰符可独立错开",
+      "强大的克隆与偏移副本控制",
+      "兼容多数文本动画制作器属性",
+      "支持 8/16/32bpc 色深",
+      "全运动模糊控制（样本、角度、相位）"
+    ]
+  }
+}

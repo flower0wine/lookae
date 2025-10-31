@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本-图层层级树状视图管理 Aescripts Squirrel V1.5.1 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-ceng-ji-shu-zhuang-shi-tu-guan-li-aescripts-squirrel-v1-5-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-01-12",
+  "source_url": "https://www.lookae.com/squirrel-151/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本可以将图层以层级的方式管理，这可以更容易找到需要的图层，修改和操作更加便捷。Squirrel是一种交互式树状视图编辑器，非常类似于3D平台中的对象管理器或大纲视图。脚本可立即将您当前的comp合成转换为一个基于无需设置的网络树状视图！Squirrel是一种出色的组织工具，可让您的操作易于理解，并且易于查找图层！Squirrel the Layer Tree Browser is a hierarchy editor for After Effects. If you’re dealing with complicated rigs made of pickwhip spaghetti, Squirrel is here to help out. Squirrel is an interactive treeview editor much like an object manager or outliner from a 3D platform. Squirrel instantly converts your current comp into a treeview based on parenting requiring no setup! A great organizational tool, Squirrel makes your rigs easy to understand and your layers easy to find!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/01/Squirrel.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-417305783"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15Do9UVXA1-3jxu5lPAPVVg"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "i3tz",
+    "update_info": "1.5.1 更新内容：已针对Catalina兼容性对许可框架进行了更新，为有颜色默认首选项问题的用户修复了错误。",
+    "official_url": "https://aescripts.com/squirrel/"
+  }
+}

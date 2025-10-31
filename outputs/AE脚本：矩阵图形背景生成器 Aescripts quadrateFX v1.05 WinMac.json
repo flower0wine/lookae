@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本：矩阵图形背景生成器 Aescripts quadrateFX v1.05 Win/Mac",
+  "slug": "aejiao-ben-ju-zhen-tu-xing-bei-jing-sheng-cheng-qi-aescripts-quadratefx-v1-05-win-mac",
+  "author": "大众脸",
+  "post_date": "2018-12-28T11:47:00Z",
+  "source_url": "https://www.lookae.com/quadratefx105/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE插件"
+  ],
+  "content": "quadrateFX 是一款用于 After Effects 的脚本，可生成矢量化矩形的随机模式背景，支持多种参数调节。用户可为矩形添加数值并制作三维效果，模拟数据可视化中的树状图（treemapping）方法。适用于多版本 After Effects，支持在不同平台运行。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/quadrateFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-327752514"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1-ljHsIXUvhnLwXGpWHaTRg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "优化：quadrateFX现在与After Effects CC2019完全兼容",
+      "添加：生成实体图层的选项，其中所有生成的框都作为蒙版",
+      "修复：在2D分离的图层上将文本类型设置为“挤出深度”不再显示错误",
+      "修复：“affect luminosity by size of boxes”被颠倒过来。 它现在按预期工作。",
+      "修复：quadraFX不再使用“Tahoma”字体作为其生成的每个文本图层的默认字体。 它现在将使用After Effects字符面板中生成时选择的任何字体。"
+    ],
+    "original_source": "https://aescripts.com/quadratefx/",
+    "credit": "thanks for **monter4 .**",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

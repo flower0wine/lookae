@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-真实三维立体文字标题排版空间翻转组合动画 TypeMonkey3D v1.0.1+使用教程",
+  "slug": "aejiao-ben-zhen-shi-san-wei-li-ti-wen-zi-biao-ti-pai-ban-kong-jian-fan-zhuan-zu-he-dong-hua-typemonkey3d-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/08/07 09:15",
+  "source_url": "https://www.lookae.com/typemonkey3d-101/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "TypeMonkey3D",
+    "文字排版",
+    "立体文字"
+  ],
+  "content": "TypeMonkey3D 是第一个利用 After Effects 2024 中引入的新高级 3D 渲染器的脚本。只需单击一下，即可将 TypeMonkey 构建转换为 3D。用户可使用预设的照明环境和纹理，也可自定义设置。通过效果控制器，可实时调整几何形状、材质、颜色、透明度、照明、反射和纹理，实现快速简单的动态 3D 排版效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/02/TypeMonkey3D.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/449238423158.mp4"
+  ],
+  "supported_versions": "After Effects 2024、2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8410580469-6b2a0b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1w_HUxD538G8G4uK4JAy_xg?pwd=btj4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/bj8MbdVfMfw"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "update_notes": "v1.01更新内容：自动设置环境光源",
+    "related_link": "https://www.lookae.com/typemonkey-125/",
+    "related_title": "AE脚本-倒鸭子客服抖音常用文字排版翻转动画制作 TypeMonkey v1.25"
+  }
+}

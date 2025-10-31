@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-文字缓入缓出弹性动画制作 Textor v1.1.3 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-huan-ru-huan-chu-dan-xing-dong-hua-zhi-zuo-textor-v1-1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-27T15:25:00Z",
+  "source_url": "https://www.lookae.com/textor-113/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Textor 是一款用于 After Effects 的脚本，可快速创建文字层的出入动画、弹性缓冲和随机动画效果。通过滑块控制，可在几秒内生成精美的文字动画，并可保存应用到任意文字图层。适用于 Windows 和 Mac 系统，支持 AE CC 2018 至 CS6 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Textor-113.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01cV1OiL1vSMdwDs69g_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50028396423.mp4"
+  ],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368652026"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1etqhdHPho0L1EYj6sR5TWA"
+    }
+  ],
+  "other": {
+    "license_info": "更新了许可证系统",
+    "update_notes": [
+      "修复 Bad Animator 的 bug",
+      "更新许可证系统",
+      "小错误修复"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "sponsor_message": "点击自愿赞助 LookAE.com 网站 【送精品资源】"
+  }
+}

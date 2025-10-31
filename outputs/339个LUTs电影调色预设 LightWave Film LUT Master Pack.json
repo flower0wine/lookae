@@ -1,0 +1,94 @@
+{
+  "title": "339个LUTs电影调色预设 LightWave Film LUT Master Pack",
+  "slug": "339ge-lutsdian-ying-diao-se-yu-she-lightwave-film-lut-master-pack",
+  "author": "大众脸",
+  "post_date": "2018-06-26",
+  "source_url": "https://www.lookae.com/lightwave-lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "LightWave Film LUT Master Pack 是一套共 339 种 .cube 格式的电影级调色预设，覆盖 5DIII、BMC、DSLR、GH4、Rec709 等主流拍摄格式，可快速实现富有胶片质感的色彩风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/LightWave-Film-LUT.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2017",
+  "supported_os": "Mac / Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-295961850"
+    },
+    {
+      "name": "百度云网盘",
+      "url": "https://pan.baidu.com/s/1N8nMqDIQR72g28aFh2fFGQ"
+    }
+  ],
+  "other": {
+    "film_stocks": [
+      "Kodak Vision3 50D 5203",
+      "Kodak Vision3 250D 5207",
+      "Kodak Vision3 200T 5213",
+      "Kodak Vision3 500T 5219",
+      "Kodak EXR 50D 5245",
+      "Kodak EXR 200T 5293",
+      "Kodak EXR 500T 5298",
+      "Eastman Kodak Color II 100T 5247",
+      "Eastman Kodak Color II 400T 5294",
+      "FujiFilm Eterna 250D 8563",
+      "FujiFilm Eterna 250T 8553",
+      "FujiFilm Eterna 400T 8583",
+      "FujiFilm Eterna 500T 8573",
+      "FujiFilm Eterna Vivid 250D 8546",
+      "FujiFilm Eterna Vivid 500T 8547"
+    ],
+    "bonus_stocks": [
+      "FujiFilm F series 125T 8530",
+      "FujiFilm F‐Series F‐250D 8560",
+      "FujiFilm Reala 500D 8592",
+      "FujiFilm Super F Series F‐125T 8532",
+      "FujiFilm Super F Series F‐250D 8562",
+      "Eastman Tri‐X 7266 (black and White)"
+    ],
+    "supported_cameras": [
+      "BMPCC: Bmd Film",
+      "BMCC: Bmd Film",
+      "BM4k: Bmd Film",
+      "5DIII, 5DII, 5D: ML Raw and H.264",
+      "GH4: CineV, CineD, VLOG",
+      "DSLR’s: H.264, AVCHD, ETC.",
+      "REC709 FOOTAGE",
+      "REDLog Film IPv4"
+    ],
+    "compatible_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6 – CC 2017",
+      "Adobe After Effects CS6 – CC 2017",
+      "Adobe Photoshop CS6 – CC 2017",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "tutorial_links": {
+      "在线观看视频使用教程": "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf",
+      "高清教程视频文件下载": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  }
+}

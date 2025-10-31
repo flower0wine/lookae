@@ -1,0 +1,41 @@
+{
+  "title": "用数据生成曲线走势图表动画AE插件 Dynamic Line Chart v1.07 Win/Mac",
+  "slug": "yong-shu-ju-sheng-cheng-qu-xian-zou-shi-tu-biao-dong-hua-aecha-jian-dynamic-line-chart-v1-07-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/05/22 12:58",
+  "source_url": "https://www.lookae.com/chart-107/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "动态折线图（DLC）是一个After Effects插件，可立即从数据创建折线图。图表的所有参数和数据本身都可以设置动画。许多参数可以对网格和轴的外观和尺寸进行动画控制，从而可以放大和缩小数据。甚至是动画数据-都可以通过CSV文件（UTF-8编码）导入，也可以从图表图像中重新采样。Beepee Dynamic Line Chart (DLC) is an After Effects plugin that instantly creates line charts from data.All the parameters of the chart and the data itself can be animated. The many (hundreds!) of parameters give animatable control over the appearance and dimensions of the grid and axes, allowing zooming into and out of data。V1.07更新内容：修复内存问题; 修复了参数和文本更新恢复的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Dynamic-Line-Chart-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-859846470-199817?p=4431"
+    },
+    {
+      "name": "插件百度网盘",
+      "url": "https://pan.baidu.com/s/1_paRvqGKlY-7oylQ70vfJw?pwd=z38s"
+    },
+    {
+      "name": "插件阿里云盘",
+      "url": "https://www.aliyundrive.com/s/BnJx9HNWENs"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://089u.com/file/680462-447513096"
+    },
+    {
+      "name": "教程百度网盘",
+      "url": "https://pan.baidu.com/s/10mE4ZqTOCFfFQbwSMLBbew"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "AE脚本-200个迷你可爱彩色实用图标动画 Cute Minimal Icons",
+  "slug": "aejiao-ben-200ge-mi-ni-ke-ai-cai-se-shi-yong-tu-biao-dong-hua-cute-minimal-icons",
+  "author": "大众脸",
+  "post_date": "2021/07/19 18:15",
+  "source_url": "https://www.lookae.com/cute-minimal-icons/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Motion Factory"
+  ],
+  "content": "这是一套专为After Effects设计的200个迷你可爱彩色实用图标动画，适用于视频演示、媒体视频、社交媒体内容等场景。图标支持快速导入、自定义颜色与缩放，且不失真。提供多色和单色两个版本，渲染速度快，操作简便。所有图标均通过Motion Factory脚本集成，可轻松在AE中调用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/Cute-Minimal-Icons.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/319192546626.mp4"
+  ],
+  "supported_versions": "AE CC 2019 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/WGDPpdDwwC8"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-502680672-0ab06b"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Hb1Pbut92oVIj0tpCHolHQ"
+    }
+  ],
+  "other": {
+    "file_info": {
+      "resolution": "不限制",
+      "extension": "Motion Factory 脚本（已包含）",
+      "music": "无音乐",
+      "file_number": "LOOKAE32196607",
+      "help": "安装方法+视频教程",
+      "note": "安装后请勿移动安装文件，否则失效。"
+    },
+    "installation_guide": [
+      "拷贝com.pixflow.motionfactory文件夹到以下位置：\nWin: C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\\nMac: 系统盘/Library（中文叫资源库）/Application Support/Adobe/CEP/extensions",
+      "Win运行Add Keys.reg，Mac运行install-as-admin",
+      "打开AE软件设置，勾选‘允许脚本读写和访问网络’（PR忽略此步）\nWin：编辑–首选项–常规\nMac：After Effects CC-首选项–常规",
+      "在AE/PR顶部window窗口菜单–扩展下打开Motion Factory脚本",
+      "点击 Log In，输入账号密码登录（账号：lookae@lookae.com，密码：lookae）",
+      "在脚本窗口右下角点击 Import – Import Folder，选择安装包中的Minimal Icons预设文件夹打开即可"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486"
+    ],
+    "passwords": {
+      "chengtong_wangpan": "6688",
+      "baidu_wangpan_extract_code": "iwk4"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "AE/PR/VEGAS/达芬奇插件-视觉特效转场调色字幕磨皮美颜稳定防抖滤镜包 NewBlueFX TotalFX7 7.5.210310 Win",
+  "slug": "ae-pr-vegas-da-fen-qi-cha-jian-shi-jue-te-xiao-zhuan-chang-diao-se-zi-mu-mo-pi-mei-yan-wen-ding-fang-dou-lu-jing-bao-newbluefx-totalfx7-7-5-210310-win",
+  "author": "大众脸",
+  "post_date": "2021/03/12 22:53",
+  "source_url": "https://www.lookae.com/totalfx-752/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "这是NewBlue公司出品的插件TotalFX7，是用于视频编辑器的完整工具包，将所有的效果，转场和字幕工具捆绑在一起。有调色，字幕标题，视频特效，稳定防抖，磨皮美颜，抠像，镜头修复，转场过渡等超过177多款插件，约1500个预置效果，支持GPU加速。TotalFX插件工具提供各种滤镜，风格，效果，转场和文字效果，满足后期不同需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/02/TotalFX7.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 或更高版本；Premiere Pro CC 或更高版本",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-485582116-47cdd5"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1T_lY38Df72NkFKHXLjI5HA"
+    }
+  ],
+  "other": {
+    "访问密码": "6688",
+    "提取码": "o2ci",
+    "OFX系列支持": "Vegas Pro (64-bit)；DaVinci Resolve 达芬奇调色软件；其他 OFX（OpenX）",
+    "包含内容": {
+      "Titler Pro 7 Ultimate": "用于视频编辑器的平铺软件的行业标准，以3D动画标题和动态图形提供非凡制作价值，与当今所有领先的NLE集成",
+      "Elements 3 Ultimate": "在21个易于使用的合成插件中创建和完全转换具有200多个预设的场景，组合视觉元素，创建背景，添加阴影等",
+      "Essentials 5 Ultimate": "满足日常后期制作需求，如视频稳定度，皮肤和色彩修饰等，在28种可增强工作流程的视频效果中获得超过275个预设",
+      "Filters 5 Ultimate": "通过一系列独特外观增强视频，使用精确色彩校正等改变镜头色调等，在27种视频效果中获取超过250个预设，包含Colorfast 2",
+      "Transitions 5 Ultimate": "可找到各种转场过渡效果加入镜头并匹配视频设计方向，在65个插件中获得500多个预设，提供先进视频转换",
+      "Stylizers 5 Ultimate": "为镜头添加独特风格，从卡通派等风格到模糊闪烁，在35个富有想象力的插件中获取400多个预设，提供一系列灯光等效果"
+    }
+  }
+}

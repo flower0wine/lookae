@@ -1,0 +1,64 @@
+{
+  "title": "中文汉化AE插件-能量激光描边光效特效Video Copilot Saber 1.0.40 Win/Mac支持2022多帧渲染",
+  "slug": "zhong-wen-yi-hua-aecha-jian-neng-liang-ji-guang-miao-bian-guang-xiao-te-xiao-video-copilot-saber-1-0-40-win-maczhi-chi-2022duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2021/11/22 18:27",
+  "source_url": "https://www.lookae.com/saber-1040/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Saber",
+    "Video Copilot",
+    "中文汉化"
+  ],
+  "content": "Saber 是一款用于 Adobe After Effects 的插件，主要用于创建能量光束、光剑、激光、传送门、霓虹灯、闪电、电流、朦胧等视觉特效。该插件操作直观简单，内置50种高质量光效预设，并提供详细的视频教程。支持对文字和遮罩轮廓应用动态光效，具备高品质辉光衰减、高级核心参数设置、内置扭曲变形效果，并允许多个特效叠加使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/VCSaber.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/35272197.mp4"
+  ],
+  "supported_versions": "AE CS6-2022或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-521561470-e0515c"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/19Watfm6U3DQSuffHsR53RA"
+    },
+    {
+      "name": "英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Mwwab7yPXwu"
+    },
+    {
+      "name": "中文版 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-521617527-847b74"
+    },
+    {
+      "name": "中文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1HKc5SLcjS-YWXq7jcIjL0w"
+    },
+    {
+      "name": "中文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/2eWvnAA6TcA"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688"
+    },
+    "presets_count": 50,
+    "has_video_tutorial": true,
+    "features": [
+      "Create High quality energy & lights beams",
+      "Realistic Glow falloff",
+      "Advanced Core Settings",
+      "Built-in Distortion",
+      "Dynamic Text and Mask Outlines",
+      "Stackable FX"
+    ]
+  }
+}

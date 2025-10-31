@@ -1,0 +1,65 @@
+{
+  "title": "AE脚本-二维卡通人物角色动作MG动画绑定控制 Joysticks n Sliders v1.7.11",
+  "slug": "aejiao-ben-er-wei-qia-tong-ren-wu-jiao-se-dong-zuo-mgdong-hua-bang-ding-kong-zhi-joysticks-n-sliders-v1-7-11",
+  "author": "大众脸",
+  "post_date": "2025-03-12T10:14:00Z",
+  "source_url": "https://www.lookae.com/joysticks-sliders-1711/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "角色绑定"
+  ],
+  "content": "AEscripts Joystick‘n Sliders 脚本是一个基于After Effects的基于姿势（pose-based）的绑定系统，可高效控制3D人物面部动画。用户只需为上下左右中五个位置设置关键帧，即可在图层上即时创建动画控制器，并通过滑块灵活控制动画任意位置。该工具特别适用于卡通角色、MG动画及其他特殊动画制作场景，显著提升动画制作效率。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2h6NFkFXXXXcMXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2v.NWkFXXXXXLXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2k3XikFXXXXbYXpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2KpNJkFXXXXbTXXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/34897947.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/tkSuL4Fi9RX"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1XMVqlHDmQWzGChzQJ75quA?pwd=3hmb"
+    },
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1469326423-d51d4a?p=4431"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-304630671"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1II7S1v4_VA-Pq5u_r5ko6g"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了将父组件操纵杆移动到具有分离尺寸的子组件的问题",
+      "将许可证框架更新至 v4.3.1",
+      "修复了配置许可证服务器时本地许可证激活的问题",
+      "修复了 -38 许可证停用错误",
+      "修复了 -6 激活错误"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "MG动画",
+      "角色绑定"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

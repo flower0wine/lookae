@@ -1,0 +1,67 @@
+{
+  "title": "AE脚本-伪三维等距厚度拉伸立体投影效果 Volume n Tricks V1.1.0",
+  "slug": "aejiao-ben-wei-san-wei-deng-ju-hou-du-la-shen-li-ti-tou-ying-xiao-guo-volume-n-tricks-v1-1-0",
+  "author": "大众脸",
+  "post_date": "2022-06-07T08:56:00Z",
+  "source_url": "https://www.lookae.com/volume-110/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "立体投影效果"
+  ],
+  "content": "该脚本可在不使用3D图层或相机的情况下，为图层赋予漂亮的伪三维体积拉伸效果。支持文本、形状图层及矢量文件（如 .ai、.eps），提供丰富的自定义选项，包括等距投影、倾斜投影、灯光设置、阴影模拟、渐变应用与混合模式调节，实现平滑的光线衰减与可扩展的等距网格。适用于 After Effects 2020、2021、2022，兼容 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Volume-n-Tricks-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/360733391872.mp4"
+  ],
+  "supported_versions": "AE 2020, 2021, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-590294142-cf179c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/16oBl1H8WXrInyO20DW5tiQ?pwd=jqzc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/iRchAELTyN6"
+    }
+  ],
+  "other": {
+    "original_post_date": "2022/06/07 08:56",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "立体投影效果"
+    ],
+    "update_notes": [
+      "新建UI。",
+      "挤压4*更快",
+      "删除FX而不删除其他插件FX",
+      "添加：混合模式以微调体积效果",
+      "“前后模糊”现在位于“效果控制面板”中方向不再是强制性的",
+      "修复撤消不匹配和小错误"
+    ],
+    "features": [
+      "创建 24 个等距投影（3*4 * RTL 和 LTR）+ 8 个倾斜（偏差）投影。",
+      "创建一个可扩展的等距网格。",
+      "对于文本和形状图层，定义具有唯一体积 FX 的拉伸。",
+      "设置灯光及其亮度角度。",
+      "投射（模仿）阴影并管理其属性。",
+      "应用渐变并选择不同的混合模式。",
+      "微调一个非常平滑的光线衰减。",
+      "挤压可用于形状和文本图层，也可用于矢量文件（插图 .ai）和 .eps。",
+      "可以向各个方向投射镜头。",
+      "以及更多…"
+    ],
+    "english_description": "Design from new perspectives and amaze yourself: Give beautiful volume to your layers without using 3D layers or cameras."
+  }
+}

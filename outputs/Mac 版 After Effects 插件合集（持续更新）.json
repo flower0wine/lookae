@@ -1,0 +1,47 @@
+{
+  "title": "Mac 版 After Effects 插件合集（持续更新）",
+  "slug": "mac-ban-after-effects-cha-jian-he-ji-chi-xu-geng-xin",
+  "author": "大众脸",
+  "post_date": "2012-11-19T20:55:00Z",
+  "source_url": "https://www.lookae.com/mac-aecj/",
+  "category": "aechajian",
+  "tags": [
+    "MAC",
+    "苹果电脑"
+  ],
+  "content": "本文整理了适用于苹果电脑（MAC）平台的 After Effects 插件合集，涵盖多个知名插件系列，包括 VideoCopilot、Red Giant、Boris Continuum、Digital Anarchy、GenArts Sapphire、The Foundry、Zaxwerks 3D、Digital Film Tools、RevisionFX 等。插件支持多种版本（如 32 位与 64 位），部分兼容 Windows 平台，并提供教程、预设及汉化资源。所有插件均经过测试，可正常运行。内容旨在为 MAC 用户提供便捷的 AE 插件参考，鼓励用户共享资源。请注意：插件仅限交流学习使用，禁止商业用途，建议下载后 24 小时内删除。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/11/MAC-AECJ.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "适用于 AE CS3 到 CS6 及后续版本，部分插件支持 32 位和 64 位系统",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "After Effects 软件下载",
+      "url": "https://www.lookae.com/adobe/"
+    },
+    {
+      "name": "After Effects 汉化程序下载",
+      "url": "https://www.lookae.com/adobe-chn/"
+    }
+  ],
+  "other": {
+    "additional_resources": [
+      {
+        "title": "MAC版 CINEMA 4D R13 插件合集",
+        "url": "https://www.lookae.com/mac-c4dplugin/"
+      },
+      {
+        "title": "Adobe 公司全系列软件套装/单装（MAC_WIN）",
+        "url": "https://www.lookae.com/adobe/"
+      },
+      {
+        "title": "Adobe 影音程序汉化系列全集",
+        "url": "https://www.lookae.com/adobe-chn/"
+      }
+    ],
+    "donation_link": "https://item.taobao.com/item.htm?spm=a1z10.3.w4002-2793086484.14.NvGtYQ&id=40573952956",
+    "note": "插件仅供交流和学习使用，请于下载24小时内主动删除，严禁用于商业用途，版权归原插件商所有。请自觉支持正版。"
+  }
+}

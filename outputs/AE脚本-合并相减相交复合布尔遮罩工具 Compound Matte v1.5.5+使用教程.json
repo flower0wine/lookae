@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-合并相减相交复合布尔遮罩工具 Compound Matte v1.5.5+使用教程",
+  "slug": "aejiao-ben-he-bing-xiang-jian-xiang-jiao-fu-he-bu-er-zhe-zhao-gong-ju-compound-matte-v1-5-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 11:25",
+  "source_url": "https://www.lookae.com/compound-matte/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "在易于使用的界面中合并、减去、相交和排除遮罩。脚本特征：适用于一切（图像/视频需要预先合成）；轻松地为每个源层设置多个遮罩层；创建和管理无限的遮罩；响应式用户界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Compound-Matte.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336837094344.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520599162-b483c6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1oSaosslHmSnr00WYmOSinw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/eMeRF2DmgrS"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "lb0r"
+    }
+  }
+}

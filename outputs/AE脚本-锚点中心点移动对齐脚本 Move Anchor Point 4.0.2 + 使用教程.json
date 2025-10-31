@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-锚点中心点移动对齐脚本 Move Anchor Point 4.0.2 + 使用教程",
+  "slug": "aejiao-ben-mao-dian-zhong-xin-dian-yi-dong-dui-qi-jiao-ben-move-anchor-point-4-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/02/19 20:42",
+  "source_url": "https://www.lookae.com/point-402/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本可以快速移动并精确对齐一个或多个图层的锚点（中心点），且不会影响其他任何属性，包括关键帧。脚本经过重新设计，新增了更多预设，支持基于所选对象或整体选择进行锚点移动，也可在合成坐标系中操作。作为扩展插件，Move Anchor Point 4 提供了高度可定制的界面，允许隐藏不常用的功能区域，支持自定义网格与 Z 轴预设，并新增搜索匹配功能，便于快速复用自定义移动设置。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/01/Move-Anchor-Point-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014 – CC 2019，2020 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-423213339"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Yd32QL14hHb2b8_nyFk1hA"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.batchframe.com/",
+    "baidu_netdisk_password": "r79w"
+  }
+}

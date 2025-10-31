@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本-表达式语言报错修复工具 ExpressionUniversalizer v3.2.0 + 使用教程",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-gong-ju-expressionuniversalizer-v3-2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/09/29 23:34",
+  "source_url": "https://www.lookae.com/expressionuniversalizer-32/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "我们在网站下载或者从其他渠道得到的一些AE模版/工程，由于地区和个人习惯不同，作者制作的工程模版的AE软件与自己使用的AE软件语言版本可能不同，若作者使用了其软件版本制作的AE表达式，在自己的AE软件中可能因语言不同而报错。该脚本可解决此问题，通过脚本可修复因语言不同而报错的表达式。脚本使用原理为：先用英文版AE软件打开工程模板，再用脚本转换修复成万能通用表达式，工程即可在中文版或其他语言的AE软件中正常使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/ExpressionUniversalizer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50032760914.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-463068833"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OV4cWhH87013E4tPVYi5NA",
+      "extraction_code": "vp8c"
+    }
+  ]
+}

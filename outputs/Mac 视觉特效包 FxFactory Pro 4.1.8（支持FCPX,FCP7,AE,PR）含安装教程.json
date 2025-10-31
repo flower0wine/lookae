@@ -1,0 +1,54 @@
+{
+  "title": "Mac 视觉特效包 FxFactory Pro 4.1.8（支持FCPX,FCP7,AE,PR）含安装教程",
+  "slug": "mac-shi-jue-te-xiao-bao-fxfactory-pro-4-1-8-zhi-chi-fcpx-fcp7-ae-pr-han-an-zhuang-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014/08/19 21:56",
+  "source_url": "https://www.lookae.com/factory418/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "FCPX插件",
+    "FxFactory Pro"
+  ],
+  "content": "FxFactory for Mac是一款非常强大的革命性的视觉特效处理包，它为Final Cut Express和Adobe After Effects 插件提供最大集合，FxFactory 可增强 Final Cut Pro，Motion，Final Cut Express和 Adobe的特效效果。这个是最新的版本 FxFactory Pro 4.1.8，改进了一些功能，新添加了一些特效插件。插件包含有上百种效果，千种预设，仅支持MAC平台上的软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/fxfactory-416.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Final Cut Pro 7, Final Cut Pro X, Motion 4, Motion 5, Adobe After Effects CS5, CS5.5, CS6, CC, CC 2014, Adobe Premiere Pro CS6, CC, CC 2014",
+  "supported_os": "OS X Lion / Mountain Lion / Mavericks 10.7-10.9",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/70544884"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1c0zUaTq"
+    },
+    {
+      "name": "专业完整版下载（一键安装）",
+      "url": "https://item.taobao.com/item.htm?id=42094760365"
+    }
+  ],
+  "other": {
+    "demo": "【效果DEMO】",
+    "installation_video": "应大家的要求，大脸又重新录制了安装教程，加入了如何安装 AE 和 PR 版本。",
+    "uninstall_instruction": "FxFactory Pro 卸载方法：在插件完全窗口选择：Actions – Uninstall FxFactory 即可完成卸载。如果卸载的时候报错，可以直接安装一次软件程序，然后再直接卸载即可。",
+    "official_link": "http://www.noiseindustries.com/fxfactory/",
+    "related_links": [
+      "https://www.lookae.com/tag/fcpx/",
+      "https://www.lookae.com/others/sucaigongcheng/",
+      "https://lookae.taobao.com/"
+    ],
+    "update_log": [
+      "增加地图点线路径插件 Ripple Jumps",
+      "增加数据图标统计插件 Data Pop",
+      "增加标题栏插件 Lower Pop",
+      "增加特效工具包插件 XEffects Toolkit",
+      "增加二级调色插件 Hawaiki Color",
+      "增加图像自动校正插件 Hawaiki AutoGrade",
+      "增加分形动画插件 Hi-Tech"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-多线程加速渲染输出文件 BG Renderer MAX v1.0.24 Win/Mac",
+  "slug": "aejiao-ben-duo-xian-cheng-jia-su-xuan-ran-shu-chu-wen-jian-bg-renderer-max-v1-0-24-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/06/30 09:53",
+  "source_url": "https://www.lookae.com/renderer-1024/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "BG Renderer MAX 是一款用于 After Effects 的扩展脚本，允许用户在后台以最快速度渲染合成。它支持多线程、批量多处理、大量集成以及文件类型转换等功能。脚本提供可调节的多处理功能以控制处理器负载，并支持多种后期渲染选项（如推送通知和文件格式转换），从而优化渲染工作流。该工具旨在替代较慢的 Media Encoder，显著提升渲染效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/BG-Renderer-MAX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/281324034261.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-878951595-e14131?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1d9hHb_v7THitJ6WmVqtBLQ?pwd=deis"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YMThWpKgFzP"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382928723"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10YiohKtR7foX9pUVqR90RA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.24更新内容：支持AE 18.1和18.2新的aerender版本。",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_脚本": "deis",
+      "百度网盘_教程": "nhh6"
+    }
+  }
+}

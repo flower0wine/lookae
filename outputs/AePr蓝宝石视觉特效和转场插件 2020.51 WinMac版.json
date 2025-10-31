@@ -1,0 +1,53 @@
+{
+  "title": "Ae/Pr蓝宝石视觉特效和转场插件 2020.51 Win/Mac版",
+  "slug": "ae-prlan-bao-shi-shi-jue-te-xiao-he-zhuan-chang-cha-jian-2020-51-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/06/30 15:06",
+  "source_url": "https://www.lookae.com/sapphire-1351/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Sapphire"
+  ],
+  "content": "大名鼎鼎的蓝宝石插件主要功能包括270多种效果和3000多种预设，功能强大的特效效果和过渡转场生成器，以及与获得奥斯卡奖的Mocha集成的跟踪和蒙版。蓝宝石出色的图像质量，控制和渲染速度可节省大量时间。蓝宝石插件套装可以提高你的工作效率，增加你的想象力，给你无限的创作空间。支持CPU和GPU加速，受到很多后期爱好者的追捧和喜爱。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Sapphire-2020.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC - CC 2019, 2020; Premiere Pro CC - CC 2019, 2020",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win版(v2020.51) 城通网盘",
+      "url": "https://089u.com/file/680462-451197824"
+    },
+    {
+      "name": "Win版(v2020.51) 百度网盘",
+      "url": "https://pan.baidu.com/s/1TA_OXfBl01nrpZ1yOCr3ww"
+    },
+    {
+      "name": "Mac版(v2020.5) 城通网盘",
+      "url": "https://089u.com/file/680462-446900530"
+    },
+    {
+      "name": "Mac版(v2020.5) 百度网盘",
+      "url": "https://pan.baidu.com/s/1Lh1o3d3Xnw7aVwcMgr-4pg"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": {
+      "win": "u8zt",
+      "mac": "991n"
+    },
+    "update_features": [
+      "改进的LensFlare设计器",
+      "12个专业设计的耀斑和改进的蓝宝石镜片耀斑",
+      "添加S_HyperPull和S_HyperPush过渡转场",
+      "增加了对Blackmagic Fusion Studio 16和Blackmagic Davinci Resolve 16内部集成Fusion的支持",
+      "现在更多的OFX主机支持Sapphire Builder",
+      "改进的摩卡追踪",
+      "多种效果的渲染时间更快"
+    ]
+  }
+}

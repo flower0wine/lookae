@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本-多图层快速父子链接工具 Sticky Web V1.1 + 使用教程",
+  "slug": "aejiao-ben-duo-tu-ceng-kuai-su-fu-zi-lian-jie-gong-ju-sticky-web-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/10 17:48",
+  "source_url": "https://www.lookae.com/sticky-web-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Sticky Web",
+    "图层管理"
+  ],
+  "content": "该工具可直接在合成中为图层添加父级，是一种快速且有趣的使父子级和重新锚定变得无障碍的工具，旨在帮助准备角色以进行装配或动画制作。v1.1版本添加了对德语、法语、意大利语和葡萄牙语的支持，未针对日语、中文、韩语和俄语进行测试，但可能有效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Sticky-Web.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/358302417293.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-578648830-3ae3e6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1MJgJSNhrAL5voGgFchtsZw?pwd=2ti6"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ht6HucnpLxR"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "相关标签链接": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      },
+      {
+        "名称": "Sticky Web",
+        "链接": "https://www.lookae.com/tag/sticky-web/"
+      },
+      {
+        "名称": "图层管理",
+        "链接": "https://www.lookae.com/tag/%e5%9b%be%e5%b1%82%e7%ae%a1%e7%90%86/"
+      }
+    ]
+  }
+}

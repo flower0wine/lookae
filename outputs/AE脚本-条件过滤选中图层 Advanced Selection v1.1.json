@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-条件过滤选中图层 Advanced Selection v1.1",
+  "slug": "aejiao-ben-tiao-jian-guo-lu-xuan-zhong-tu-ceng-advanced-selection-v1-1",
+  "author": "大众脸",
+  "post_date": "2021/04/10 12:44",
+  "source_url": "https://www.lookae.com/advanced-selection-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本用于在 After Effects 中通过多种条件筛选出目标图层，支持图层类型、图层选项、混合模式、名称搜索、标签颜色等过滤器。用户可按需组合条件，并选择使用“与”或“或”逻辑进行筛选。支持 Win/Mac 系统，兼容 After Effects 2020 至 CC 2014 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/Advanced-Selection.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/280929169723.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-489412751-49aa96"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1yH0ovirWamIHIUfiRytgvw"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "update_notes": "v1.1 更新内容：添加了“NOR”模式（或为OR）",
+      "usage_instructions": "在项目窗口中选择一个合成，设置过滤器后，按住 Ctrl/Cmd 多选，选择‘与’或‘或’逻辑，点击‘选择图层’按钮生效。",
+      "categories": [
+        "AE脚本",
+        "After Effects"
+      ],
+      "related_tags": [
+        "AE脚本"
+      ]
+    }
+  }
+}

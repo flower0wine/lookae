@@ -1,0 +1,61 @@
+{
+  "title": "AE插件：真实三维立体制作插件 Zaxwerks 3D Invigorator PRO v8.6.0",
+  "slug": "aecha-jian-zhen-shi-san-wei-li-ti-zhi-zuo-cha-jian-zaxwerks-3d-invigorator-pro-v8-6-0",
+  "author": "大众脸",
+  "post_date": "2015/06/22 12:11",
+  "source_url": "https://www.lookae.com/invigorator86/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Zaxwerks 3D Invigorator PRO 是 Adobe After Effects 中用于创建真实三维立体模型和动画的专业插件。它支持快速渲染、多种材质、3D光晕效果，并具备独立完整的操作界面，与 After Effects 无缝集成。用户可直接在 AE 中完成建模、材质、灯光和动画，无需往返其他软件。插件支持导入外部 3D 对象，提供丰富的建模工具（如自定义倒角）、实例化对象分布、景深效果、法线贴图、基于图像的照明等高级功能，适用于标题、Logo 动画等三维视觉创作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/02/Zaxwerks-3D-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – After Effects CC 2015",
+  "supported_os": "Windows Vista, Windows 7, Windows 8; macOS 10.7 或更高版本（仅限 Intel Mac）",
+  "download_links": [
+    {
+      "name": "AE插件：真实三维立体制作插件 Zaxwerks 3D Invigorator PRO v8.6.0",
+      "url": "https://www.400gb.com/file/101454230"
+    }
+  ],
+  "other": {
+    "official_website": "http://zaxwerks.com/invigorator_pro/",
+    "product_details_url": "http://zaxwerks.com/invigorator_pro/details.shtml",
+    "related_posts": [
+      {
+        "title": "AE 三维旗帜动画制作插件：Zaxwerks 3D Flag AE v3.0.2（附汉化）",
+        "url": "https://www.lookae.com/z3d-flag/"
+      },
+      {
+        "title": "AE插件：Zaxwerks 插件套装（CS3-CS6）",
+        "url": "https://www.lookae.com/zaxwerks/"
+      }
+    ],
+    "notes": [
+      "插件为一键安装版，安装即可使用。",
+      "Wireframe 和 hidden line 渲染样式已不再支持，旧项目中使用这些样式的材质将渲染为纯色，可使用 Grid Shader 作为替代方案。",
+      "感谢 Team V.R"
+    ],
+    "features": [
+      "NO ROUND-TRIPPING! STAY 100% INSIDE OF AE",
+      "RAY-TRACE REFLECTIONS AND REALISTIC SHADOWS",
+      "EASY MODELING WITH CUSTOM BEVELS",
+      "IMPORT OBJECTS FROM OTHER 3D PROGRAMS",
+      "3D STAGE LIGHTING WITH TRUSSES, FIXTURES, AND LIGHT BEAMS",
+      "200+ FREE MATERIALS",
+      "GORGEOUS 3D LENS FLARES",
+      "BEND, TWIST AND DEFORM ANY 3D OBJECT",
+      "Real-Time Rendering with optimized OpenGL and Ray-Traced Renderer",
+      "Auto-Rendering",
+      "Depth of Field",
+      "Instancing with distribution tools and randomization",
+      "Instanced Text (by character, word, or paragraph)",
+      "Normal Maps and realistic material presets",
+      "Image Based Lighting",
+      "Shadow lights (lights that cast shadows without affecting scene illumination)"
+    ]
+  }
+}

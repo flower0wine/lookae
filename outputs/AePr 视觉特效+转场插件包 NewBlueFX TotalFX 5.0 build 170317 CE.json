@@ -1,0 +1,68 @@
+{
+  "title": "Ae/Pr 视觉特效+转场插件包 NewBlueFX TotalFX 5.0 build 170317 CE",
+  "slug": "ae-pr-shi-jue-te-xiao-zhuan-chang-cha-jian-bao-newbluefx-totalfx-5-0-build-170317-ce",
+  "author": "大众脸",
+  "post_date": "2017/04/15 22:41",
+  "source_url": "https://www.lookae.com/totalfx170317/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "NewBlueFX",
+    "PR插件"
+  ],
+  "content": "NewBlue 公司出品的 TotalFX 5.0 是一套功能全面的视频特效插件套装，包含视频特效、转场、文字动画、调色、字幕和稳定防抖等多种工具。该套装提供超过 129 款插件和 1400 多个预置效果，支持 GPU 加速，适用于专业视频编辑工作流。插件集合了 Elements、Essentials、Filters、Stylizers、Transitions 和 Titling 等系列的 Ultimate 版本，并新增了 Titler Pro 5 字幕工具和 Colorfast 2 调色插件，满足后期制作中的多样化创意需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/05/TotalFX3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5, CS5.5, CS6, CC – CC 2017; Adobe Premiere Pro CS6, CC – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/7YO198542408"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1i5gIZUt"
+    }
+  ],
+  "other": {
+    "included_plugins": {
+      "Elements 3 Ultimate": {
+        "effects_count": 21,
+        "presets_count": 250,
+        "description": "简化多步合成任务"
+      },
+      "Essentials 3 Ultimate": {
+        "effects_count": 24,
+        "presets_count": 270,
+        "description": "增强视频效果：稳定、锐化等"
+      },
+      "Filters 3 Ultimate": {
+        "effects_count": 22,
+        "presets_count": 250,
+        "description": "通过独特特效提升视频"
+      },
+      "Stylizers 3 Ultimate": {
+        "effects_count": 23,
+        "presets_count": 250,
+        "description": "光，油漆和艺术效果"
+      },
+      "Transitions": {
+        "effects_count": 37,
+        "presets_count": 400
+      },
+      "Titler Pro 5": {
+        "type": "字幕特效工具",
+        "note": "新加入"
+      },
+      "Colorfast 2": {
+        "type": "专业调色插件",
+        "note": "新加入"
+      }
+    },
+    "official_website": "https://www.newbluefx.com/products/totalfx",
+    "installer_note": "由Team V.R提供一键安装注册，安装即可使用"
+  }
+}

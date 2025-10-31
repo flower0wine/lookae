@@ -1,0 +1,55 @@
+{
+  "title": "更新：Ae/Pr/AVX蓝宝石插件 GenArts Sapphire v8.0 (Win64)",
+  "slug": "geng-xin-ae-pr-avxlan-bao-shi-cha-jian-genarts-sapphire-v8-0-win64",
+  "author": "大众脸",
+  "post_date": "2014/12/22 12:03",
+  "source_url": "https://www.lookae.com/sapphire8/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Genarts Sapphire",
+    "PR插件"
+  ],
+  "content": "大名鼎鼎的AE/PR外置 GenArts 蓝宝石插件拥有几百种非常炫的强力视觉效果和转场效果，可显著提升工作效率与创作空间。因其卓越的图像质量和优秀的渲染速度，深受后期爱好者的喜爱。当前版本已更新至 GenArts Sapphire v8.0，支持 Adobe CC 2014，并包含多项新功能与优化，如增强的预设浏览器和多个全新效果插件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/Sapphire8.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE + PR CS6 – CC2014.2, AVX AVID",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Ae/Pr蓝宝石插件 GenArts Sapphire v8.0 for Adobe (Win64)",
+      "url": "https://www.400gb.com/file/80849795"
+    },
+    {
+      "name": "AVX ADVID 蓝宝石插件GenArts Sapphire AVX v8.0",
+      "url": "https://www.400gb.com/file/80850106"
+    }
+  ],
+  "other": {
+    "plugin_categories": [
+      "Sapphire Adjust",
+      "Sapphire Blur+Sharpen",
+      "Sapphire Builder",
+      "Sapphire Composite",
+      "Sapphire Distort",
+      "Sapphire Lighting",
+      "Sapphire Render",
+      "Sapphire Stylize",
+      "Sapphire Time",
+      "Sapphire Transitions"
+    ],
+    "new_effects": [
+      "LightLeak",
+      "Grunge",
+      "Shake",
+      "DigitalDamage",
+      "Crosshatch"
+    ],
+    "official_website": "http://info.genarts.com/sapphire-8",
+    "installation_note": "插件为一键安装注册，安装即可使用",
+    "preset_browser_enhancement": "支持按效果类别（如“color correction”或“damage”）浏览所有预设，并可直接应用到素材上",
+    "total_plugins_count": "约255个插件，预设效果更多"
+  }
+}

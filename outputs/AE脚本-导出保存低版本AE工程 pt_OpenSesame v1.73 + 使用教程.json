@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-导出保存低版本AE工程 pt_OpenSesame v1.73 + 使用教程",
+  "slug": "aejiao-ben-dao-chu-bao-cun-di-ban-ben-aegong-cheng-pt-opensesame-v1-73-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/06/11 23:57",
+  "source_url": "https://www.lookae.com/opensesame/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可将AE工程处理成完全可编辑的可读文本文件格式，打开After Effects项目格式，能保存导出创建向下兼容的低版本/老版本项目文件，最低到CS3，也可导出项目部分用于电子表格编辑，如文本、素材、属性值和渲染队列等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/OpenSesame.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-382681716"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/177VpmiVtwe3NuGrcsdhAuA",
+      "extra": "提取码：j3tp"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "相关标签链接": [
+      {
+        "名称": "Aescaripts",
+        "链接": "https://www.lookae.com/tag/aescaripts/"
+      },
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      }
+    ],
+    "脚本英文简介": "OpenSesame opens up the After Effects project format with a fully editable, human readable text file format. Create backwards compatible projects that open in any version back to CS3, or export parts of a project for spreadsheet editing, such as text, footage, property values and render queue items. Send text to clients for approval then easily incorporate revisions, or use for version automation."
+  }
+}

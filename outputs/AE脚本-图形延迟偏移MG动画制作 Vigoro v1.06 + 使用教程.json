@@ -1,0 +1,68 @@
+{
+  "title": "AE脚本-图形延迟偏移MG动画制作 Vigoro v1.06 + 使用教程",
+  "slug": "aejiao-ben-tu-xing-yan-chi-pian-yi-mgdong-hua-zhi-zuo-vigoro-v1-06-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/05 16:33",
+  "source_url": "https://www.lookae.com/vigoro-106/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画制作",
+    "Vigoro",
+    "图形延迟偏移"
+  ],
+  "content": "Vigoro是一款功能强大且极易定制的工具，可创建令人惊叹的图形延迟偏移MG动画，传统上需要数小时或数天才能完成设置。用户能快速创建一整套动画，从简单文字标题过渡到完整MG动画，拥有超150个关键帧选项，详细UI面板有助于设置合成，动画完成后可随时保存和调整，也可使用内置变换面板进行变换。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Vigoro.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本城通网盘下载",
+      "url": "https://url70.ctfile.com/f/2827370-577536888-144834?p=4431"
+    },
+    {
+      "name": "脚本百度网盘下载",
+      "url": "https://pan.baidu.com/s/1sImi_kp9B2V3AF7LuPUWMA?pwd=u6cn"
+    },
+    {
+      "name": "脚本阿里云盘下载",
+      "url": "https://www.aliyundrive.com/s/t9pwY5nQwjb"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-369005723"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1yDGpaAa6kIH8_DJH-nzDng"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "v1.06更新内容": "更新的许可框架",
+    "脚本特征": [
+      "偏移： 您可以通过少至2个关键帧来偏移时间，缩放，旋转和其他所有内容，从而制作出流畅，复杂的动画效果！",
+      "颜色： 您可以通过选择顶部和底部颜色来简单地更改图层的颜色，让Vigoro完成剩下的工作。但是，如果您想要更深入一些，可以为填充和描边采样图层。制作复杂的渐变，为它们制作动画，加更多渐变或效果，并使其尽可能详细！",
+      "剪切效果： 想要为动画添加更多功能吗？5种不同的剪切效果可以实现各种各样的外观，每种都有多种选择可供玩耍！",
+      "分布： 轻松分布您的图层！您可以径向或线性偏移，并完全支持3D分布。",
+      "速度修改器： 速度修改器将允许您使用现有关键帧的速度为动画添加其他变换和移动，而无需对它们进行关键帧设置！",
+      "克隆人： 重复得到了一个糟糕的说唱，但有时它可以增加很多！克隆你的形状并抵消克隆，创造出惊人复杂的构图。",
+      "文本图层： 使用文本图层为您的动画注入全新的生命 – 使用分布和剪切，或摆动文本以获得一些非常酷的效果。",
+      "转换图层： 在Vigoro动画中使用precomp，视频，图像或更多内容！",
+      "3D图层： 在Vigoro中，每个图层都已准备好供3D使用，除了灵活的构图外，您还可以添加相机，灯光或其他任何您想要的图层！",
+      "自定义图层控件： 您现在可以单独调整每个图层，以实现更广泛的可能性。想让那一层走到一边吗？或改变颜色？或者将图层排列成图片？没问题！只需选择所需的图层，然后在“效果”面板进行调整。"
+    ]
+  }
+}

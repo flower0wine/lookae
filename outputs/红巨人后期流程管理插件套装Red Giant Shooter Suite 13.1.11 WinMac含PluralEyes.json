@@ -1,0 +1,72 @@
+{
+  "title": "红巨人后期流程管理插件套装Red Giant Shooter Suite 13.1.11 Win/Mac含PluralEyes",
+  "slug": "hong-ju-ren-hou-qi-liu-cheng-guan-li-cha-jian-tao-zhuang-red-giant-shooter-suite-13-1-11-win-machan-pluraleyes",
+  "author": "大众脸",
+  "post_date": "2019-11-24",
+  "source_url": "https://www.lookae.com/shooter-13111/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "PR插件",
+    "VEGAS插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Shooter Suite 13 是一套面向摄影与剪辑人员的后期流程插件套装，包含 PluralEyes、Offload、Instant 4K、Frames 四款工具，可安全、快速、同步地将素材从相机导入剪辑时间线，显著提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/shooter13.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/34647106.mp4"
+  ],
+  "supported_versions": "CC 2014 – CC 2019",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "Win-城通网盘",
+      "url": "https://tc5.us/file/680462-409106457"
+    },
+    {
+      "name": "Win-百度网盘",
+      "url": "https://pan.baidu.com/s/1r8REh-SWyKVUI60-v30EUQ"
+    },
+    {
+      "name": "Win-官网",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/shooter/archive/SSuite_Win_Full_13.1.11.zip"
+    },
+    {
+      "name": "Mac-城通网盘",
+      "url": "https://tc5.us/file/680462-409106095"
+    },
+    {
+      "name": "Mac-百度网盘",
+      "url": "https://pan.baidu.com/s/1x2qxRJGCMmv7GzNhfjJQ4Q"
+    },
+    {
+      "name": "Mac-官网",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/shooter/archive/SSuite_Mac_Full_13.1.11.zip"
+    }
+  ],
+  "other": {
+    "serial_numbers": {
+      "PluralEyes 4": "PFEK1245921362842515",
+      "Frames 1.1": "MBFK1245843484599512",
+      "Instant 4K": "IHDK1245843086124132",
+      "Offload 1.0": "OFLK1245858439487526"
+    },
+    "included_plugins": [
+      "Plural Eyes v4（音视频自动同步，多软件支持）",
+      "Offload v1.0（素材备份工具，仅 AE）",
+      "Instant 4K v1.5（4K 高清插件，仅 AE）",
+      "Frames v1.1（上下场转换，仅 AE）"
+    ],
+    "compatible_software": [
+      "Adobe After Effects CC 2014–CC 2019",
+      "Adobe Premiere Pro CC 2014–CC 2019",
+      "Final Cut Pro X 10.2.3+",
+      "Magix Vegas Pro 14/15/16",
+      "Avid Media Composer 7+"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "达芬奇/AE/PR/OFX视频调色万能示波器插件 Nobe OmniScope 1.10.166 Win/Mac",
+  "slug": "da-fen-qi-ae-pr-ofxshi-pin-diao-se-mo-neng-shi-bo-qi-cha-jian-nobe-omniscope-1-10-166-win-mac",
+  "author": "大众脸",
+  "post_date": "2025/09/05 15:30",
+  "source_url": "https://www.lookae.com/omniscope-110166/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "示波器插件",
+    "达芬奇插件"
+  ],
+  "content": "这是一款功能强大的视频调色万能示波器插件，能让颜色分级变得容易，具备GPU加速、HDR、StreamDeck支持等功能，有13种类型示波器，可自由排列和停靠，还能保存和重新加载布局。Nobe OmniScope亮点众多，v1.10.166有特定更新内容，支持Win/Mac多种系统软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Nobe-OmniScope.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442587104088.mp4"
+  ],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8423649475-6a5f42?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1K8qw_UJXOJUHG3NhJ3gftg?pwd=byyd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/goWPtfPRxLH"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      },
+      {
+        "name": "DaVinci Resolve",
+        "url": "https://www.lookae.com/qitarjcj/resolvezy/"
+      },
+      {
+        "name": "Mac 专区",
+        "url": "https://www.lookae.com/mac-osx/"
+      },
+      {
+        "name": "Nuke",
+        "url": "https://www.lookae.com/qitarjcj/nukezy/"
+      },
+      {
+        "name": "OFX",
+        "url": "https://www.lookae.com/qitarjcj/ofxzy/"
+      },
+      {
+        "name": "Premiere",
+        "url": "https://www.lookae.com/qitarjcj/premierezy/"
+      },
+      {
+        "name": "Vegas",
+        "url": "https://www.lookae.com/qitarjcj/vegaszy/"
+      },
+      {
+        "name": "软件/插件",
+        "url": "https://www.lookae.com/qitarjcj/"
+      }
+    ],
+    "plugin_features": [
+      "GPU加速、HDR、StreamDeck 支持，利用 GPU 加速的优势并实时监控图像，几乎没有延迟",
+      "具有13种类型的示波器，可以在工作区中自由排列和停靠，然后可以根据您的项目设置保存和重新加载布局",
+      "使用直方图范围快速制作蒙版，色调直方图可让您选择正确的色调范围以获得完美的肤色范围，单独模式可让您最大化所选范围并更详细地查看图表",
+      "使用 StreamDeck 快捷方式在范围之间切换，而无需离开分级软件"
+    ],
+    "nobe_omni_scope_highlights": [
+      "18种范围类型",
+      "多种输入支持",
+      "支持杜比视界工作流程",
+      "极快的性能",
+      "12位信号支持",
+      "高度通用且可定制",
+      "先进的质量控制和新的质量控制时间表",
+      "使用 OpenColorIO 进行颜色管理",
+      "原生 StreamDeck 支持",
+      "NDI® 5 支持",
+      "Apple Silicon 就绪（M1 芯片）"
+    ],
+    "v1.10.166_update": [
+      "修复了 Windows 安装程序的问题（WMI 错误）",
+      "添加了禁用 NDI 发现的选项，以防止使用防火墙时应用程序崩溃"
+    ],
+    "supported_software": [
+      "DaVinci Resolve",
+      "Scratch",
+      "AE",
+      "PR",
+      "PS",
+      "Lightroom",
+      "Vegas",
+      "OFX程序"
+    ]
+  }
+}

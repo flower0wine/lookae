@@ -1,0 +1,30 @@
+{
+  "title": "AE 智能抠像插件 DFT Power Matte v2.0.1.3（Win版64位）Z汉化",
+  "slug": "ae-zhi-neng-kou-xiang-cha-jian-dft-power-matte-v2-0-1-3-winban-64wei-zyi-hua",
+  "author": "大众脸",
+  "post_date": "2013/08/21 09:58",
+  "source_url": "https://www.lookae.com/dft-powermatte/",
+  "category": "aechajian",
+  "tags": [
+    "64位插件",
+    "汉化插件"
+  ],
+  "content": "Power Matte 是一个易于使用的交互式图像抠图工具，能够提取图像中的几乎任何物体，即使处理的是毛发细节、烟雾或反射。该工具在提取过程中会创建蒙板：白色表示被提取的区域，黑色表示未被提取的区域，灰色则代表中间的透明级别。提取蒙板后，可将前景对象无缝合成到新背景，并在蒙板区域内应用滤镜和图像校正。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/08/DFT-Power-Matte.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5, CS5.5, CS6, CC",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE 智能抠像插件 DFT Power Matte v2.0.1.3（Win版64位）",
+      "url": "https://www.400gb.com/file/27977503"
+    }
+  ],
+  "other": {
+    "original_and_chinese_version": true,
+    "chinese_localization_by": "Z",
+    "official_website": "http://www.digitalfilmtools.com/powermatte/"
+  }
+}

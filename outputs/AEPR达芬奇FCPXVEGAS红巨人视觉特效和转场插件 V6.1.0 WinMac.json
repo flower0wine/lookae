@@ -1,0 +1,69 @@
+{
+  "title": "AE/PR/达芬奇/FCPX/VEGAS红巨人视觉特效和转场插件 V6.1.0 Win/Mac",
+  "slug": "ae-pr-da-fen-qi-fcpx-vegashong-ju-ren-shi-jue-te-xiao-he-zhuan-chang-cha-jian-v6-1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-07-05T11:10:00Z",
+  "source_url": "https://www.lookae.com/universe-61/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "VEGAS插件",
+    "红巨人插件",
+    "达芬奇插件"
+  ],
+  "content": "Universe 是一个集成了89个GPU加速插件的视觉特效与转场工具集合，专为视频编辑师和运动图形艺术家设计。Universe 6.1.0 版本新增了1个过渡工具、1个模糊工具和2个风格化工具，并包含70多个新预设，帮助用户以创意且直观的方式快速实现高质量视觉效果。该插件支持多种主流视频制作软件，涵盖AE、PR、FCPX、DaVinci Resolve、VEGAS等平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Universe-6-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/357815199015.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2019 及以上, Adobe Premiere Pro CC 2019 及以上, Apple Final Cut Pro X 10.5 及以上, Apple Motion 5.5 及以上, Avid Media Composer 8.2 及以上, Magix VEGAS Pro 14 及以上, DaVinci Resolve 14 及以上",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608400165-f59ad6?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1cDd-B_szQmtBo5DS4eD8_g?pwd=0ush"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/HeLiShSMCoX"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608405557-1681a2?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1HGqQr15W9oSJNNOh-4GK5A?pwd=yjgd"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7JuWi9zn9MS"
+    }
+  ],
+  "other": {
+    "plugin_summary": "包含九大类共97个插件，每类均有多个预设：RG 发生器（5）、RG 字幕（8）、RG 实用程序（6）、RG 扭曲（4）、RG 模糊（4）、RG 转场（33）、RG 辉光（7）、RG 运动图形（6）、RG 风格化（24）。",
+    "update_notes": [
+      "UP-6802、UP-6786：改进对 AMD 显卡的支持",
+      "UP-7192：纹理化运动在调整纹理速度时崩溃问题修复",
+      "UP-5114：保存含撇号名称的预设时创建空白缩略图问题修复",
+      "UP-7017：使用带换行符的 Type On 会冻结 Adobe 主机问题修复",
+      "UP-7080：剪辑在 PPro 中应用 Logo Motion 后重新定位变为空白问题修复",
+      "UP-6973：闪烁剪切过渡无法正常工作问题修复",
+      "UP-7018：黑客文本在 Windows Resolve 上使用某些设置时预览空白问题修复"
+    ],
+    "installation_notes": [
+      "Win版安装步骤：1. 安装 Maxon_App_Win.exe（无需注册登录）；2. 安装插件程序；3. 安装 RedGiant Activation Service Unlocker.exe，完成即激活，无需注册码或账号，无水印。",
+      "Mac版使用注册码激活。",
+      "注意：Avid Media Composer 不支持 Prism Displacement、Compound Blur 和画中画功能；不支持 Mac App Store 版 DaVinci Resolve。"
+    ]
+  }
+}

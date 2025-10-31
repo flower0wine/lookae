@@ -1,0 +1,43 @@
+{
+  "title": "视频人像磨皮润肤美颜AE/PR插件 Beauty Box 4.2.3 Mac中文汉化版",
+  "slug": "shi-pin-ren-xiang-mo-pi-run-fu-mei-yan-ae-prcha-jian-beauty-box-4-2-3-maczhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2021/04/27 21:43",
+  "source_url": "https://www.lookae.com/beauty-box-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "Beauty Box 是一款优秀的人像磨皮润肤美容美颜视频插件，使用简单且自动。插件可自动识别皮肤色调并创建遮罩，仅在皮肤区域应用平滑效果。只需应用插件，设置平滑选项，即可轻松完成皮肤修饰。支持GPU加速，并提供大量预设供用户选择。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/Beauty-Box-Mac-.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01hnX0MG1vSMnT75FUL_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/211731022272.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, CC 2018, CC 2019, 2020, 2021; PR CC 2015, 2017, CC 2018, CC 2019, 2020, 2021",
+  "supported_os": "Mac苹果系统（不支持M1，不支持Win系统）",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?id=643983851781"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fbeauty-box-mac%"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/beautybox-423/"
+    }
+  ],
+  "other": {
+    "plugin_compatibility_notes": "提供英文和中文版，一键集成安装；仅支持Mac版，不支持Win版；由于技术限制和疏漏，极少部分参数可能未做汉化；转译编码的特殊性，可能存在潜在BUG；预设名未汉化；购买前请充分了解工具功能，仅提供工具，不提供视频教程和使用教学。",
+    "installation_hint": "建议在购买前确认系统兼容性与使用需求，避免因平台或版本问题导致无法使用。",
+    "purchase_info": "隐藏内容：支付¥9可下载"
+  }
+}

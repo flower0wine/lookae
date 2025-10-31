@@ -1,0 +1,50 @@
+{
+  "title": "中文AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.16 Win/Mac",
+  "slug": "zhong-wen-aejiao-ben-er-wei-ren-wu-jiao-se-gu-ge-bang-ding-mgdong-hua-jiao-ben-duik-bassel-2-v16-2-16-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/08/03 15:46",
+  "source_url": "https://www.lookae.com/duik-16216/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Duik 是一款功能强大且开源免费的动力学与动画工具，专为 After Effects 设计。它支持反向动力学（IK）、骨骼变形器、自动骨骼绑定、控制器管理、关键帧插值、摆动、弹簧、滚轮等自动化动画功能，可实现类似3D软件中的高级角色装配与动画技术。该脚本适用于2D动画创作，支持多语言界面，用户可在设置中切换为中文，提升使用便捷性。其全面的工具集被广泛应用于全球影视项目中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Duik-Bassel-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/242972619880.mp4"
+  ],
+  "supported_versions": "After Effects CC 2018 及更高版本（其他版本也可用，但官方不推荐）",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.16 Win/Mac英文中文版",
+      "url": "https://089u.com/file/680462-455995171"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-450137231"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1pLL9FIGMEM2-sVAW6wybhg"
+    }
+  ],
+  "other": {
+    "language_support": "多国语言（含中文）",
+    "official_website": "https://rainboxlab.org/tools/duik/",
+    "update_log": [
+      "修复：IK / FK 开关在特定情况下控制器无法使用的问题。",
+      "骨骼现已正确与先进引擎和3D图层创建兼容。",
+      "改进：考虑效应器层比例以计算效果。",
+      "路径约束优化：更好地处理层的父子关系。",
+      "内部表达式构建方式重构，便于未来升级，可能暂时引入少量bug。"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "After Effects",
+      "Mac 专区"
+    ]
+  }
+}

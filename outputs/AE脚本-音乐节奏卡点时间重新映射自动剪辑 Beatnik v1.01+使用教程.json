@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-音乐节奏卡点时间重新映射自动剪辑 Beatnik v1.01+使用教程",
+  "slug": "aejiao-ben-yin-le-jie-zou-qia-dian-shi-jian-zhong-xin-ying-she-zi-dong-jian-ji-beatnik-v1-01-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/12 18:14",
+  "source_url": "https://www.lookae.com/beatnik-101/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Beatnik是一款将音频高级峰值检测与时间重新映射相结合的After Effects脚本，可以精确控制基于音频的时间效果。它非常适合音量触发速度斜坡、自动编辑、蒙太奇以及从微妙到极端的各种重定时功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Beatnik.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-413226003"
+    },
+    {
+      "name": "脚本 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1C05YyjiTxQdAW99QEenYag"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368500750"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jcLGDPzS4iac8zm83Y9UlA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.01更新内容：兼容苹果10.15系统",
+    "baidu_netdisk_code": "5iit",
+    "external_link": "https://aescripts.com/beatnik/"
+  }
+}

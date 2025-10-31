@@ -1,0 +1,133 @@
+{
+  "title": "红巨人粒子特效套装插件 Red Giant Trapcode Suite 14.1.2 Win/Mac",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-cha-jian-red-giant-trapcode-suite-14-1-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2018/06/19 12:21",
+  "source_url": "https://www.lookae.com/trapcode1412/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Particular 3",
+    "PR插件",
+    "trapcode",
+    "Win/Mac"
+  ],
+  "content": "著名而强大的红巨人粒子特效套装插件 Red Giant Trapcode Suite 大更新到14.版本。此次更新是一次较大的升级，多个插件获得新版，性能大幅提升，并新增大量预设。该套装包含多种视觉特效插件，广泛应用于After Effects和Premiere Pro中，用于创建粒子、光效、3D路径等高级视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/Trapcode-14.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50015460899.mp4?_=1"
+  ],
+  "supported_versions": "AE CC 2014 - CC 2018, Premiere Pro CC 2014 - CC 2018",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 系统版下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-295208712"
+    },
+    {
+      "name": "Win 系统版下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1YYXMJHMYpz8zufh5cZe4Tg"
+    },
+    {
+      "name": "Mac 苹果版下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-295208787"
+    },
+    {
+      "name": "Mac 苹果版下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1mEoZiu-jCejTQ1Cm7YMxlA"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "Trapcode Tao",
+        "version": "1.2.2",
+        "description": "三维几何图形插件"
+      },
+      {
+        "name": "Trapcode Particular",
+        "version": "3.1.0",
+        "description": "超炫粒子插件"
+      },
+      {
+        "name": "Trapcode Form",
+        "version": "3.1.0",
+        "description": "三维空间粒子插件"
+      },
+      {
+        "name": "Trapcode Mir",
+        "version": "2.2.0",
+        "description": "三维图形插件"
+      },
+      {
+        "name": "Trapcode Shine",
+        "version": "2.0.4",
+        "description": "放射光插件"
+      },
+      {
+        "name": "Trapcode Lux",
+        "version": "1.4.1",
+        "description": "聚光灯插件"
+      },
+      {
+        "name": "Trapcode 3D Stroke",
+        "version": "2.7.0",
+        "description": "3D路径描边插件"
+      },
+      {
+        "name": "Trapcode Echospace",
+        "version": "1.1.11",
+        "description": "三维立体拖尾延迟插件"
+      },
+      {
+        "name": "Trapcode Starglow",
+        "version": "1.7.4",
+        "description": "星光插件"
+      },
+      {
+        "name": "Trapcode Sound Keys",
+        "version": "1.4.1",
+        "description": "音频关键帧插件"
+      },
+      {
+        "name": "Trapcode Horizon",
+        "version": "1.1.11",
+        "description": "无限场景（天空）插件"
+      }
+    ],
+    "update_notes": "修复安装问题",
+    "registration_methods": [
+      {
+        "method": "套装序列号注册",
+        "description": "使用一个序列号注册所有插件",
+        "serial": "TCBK2245868172939255",
+        "instructions": "默认安装插件程序，然后在安装结束界面上点击 Enter Licensing Info… 输入序列号，点击 Submit 和确定即可完成注册。"
+      },
+      {
+        "method": "单个序列号注册",
+        "description": "每个插件单独输入对应序列号",
+        "plugins_serials": {
+          "Trapcode Tao 1.2": "90509642123479776933",
+          "Trapcode Mir 2.1": "85079585234586664989",
+          "Trapcode Particular 3.0.0": "92608846345644048269",
+          "Trapcode Shine 2.0": "92338513256767241817",
+          "Trapcode 3D Stroke 2.6": "91588738256767692766",
+          "Trapcode Form 3.0.0": "TCBK2245868172939255",
+          "Trapcode EchoSpace v1.1": "91769344123491994523",
+          "Trapcode Horizon v1.1": "87419480123494067600",
+          "Trapcode Lux v1.4": "87689194123456089091",
+          "Trapcode Sound Keys v1.4": "88419208123489637676",
+          "Trapcode StarGlow v1.7": "86068670256777585702"
+        },
+        "instructions": "默认安装后，在AE中将插件（RG Trapcode）加入图层，在参数面板点击 Licensing… 填入对应序列号并确认。"
+      }
+    ],
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "additional_links": {
+      "taobao_store": "https://lookae.taobao.com/",
+      "sponsor_site": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

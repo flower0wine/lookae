@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：多种网格参考线脚本 Aescripts GridGuide v1.0.0 + 使用教程",
+  "slug": "aejiao-ben-duo-chong-wang-ge-can-kao-xian-jiao-ben-aescripts-gridguide-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-05-06T15:57:00",
+  "source_url": "https://www.lookae.com/gridguide/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "GridGuide 是一款为 After Effects 设计的高效脚本，可生成多种间隔、多种方向的网格参考线，弥补了 AE 内置参考线功能的局限性。支持自动布局、可吸附的参考线与可编辑的形状图层参考线，极大提升动态设计中的排版效率和精准度。适用于从 After Effects CS4 到 CC 2017 的所有版本，兼容 Windows 与 Mac 系统。附带视频使用教程，便于快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GridGuide2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 4 – CC 2017",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202009060"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1c2pbPHQ"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "original_description": "Automatic layouts, snappable guides grids and modifiable shape layer guides – because motion design isn’t static.\nhttp://aescripts.com/gridguide-for-after-effects/",
+    "source_site": "LookAE.com"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Win/Mac版：AE插件：E3D三维模型插件 Element 3D v2.2.2.2147 版",
+  "slug": "win-macban-aecha-jian-e3dsan-wei-mo-xing-cha-jian-element-3d-v2-2-2-2147-ban",
+  "author": "大众脸",
+  "post_date": "2016/08/11 09:58",
+  "source_url": "https://www.lookae.com/e3d2222147/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "Element 3D",
+    "VideoCopilot",
+    "Win/Mac"
+  ],
+  "content": "videocopilot强大的AE三维模型插件E3D V2.2.2出完美版，最新版本号为Video Copilot Element 3D v2.2.2 build 2147，支持Win/Mac系统下Adobe After Effects CS5 – CC 2014，CC 2015.3 ，不再支持32位电脑系统和CS4及以下版本，新版本添加众多新功能和改进，官方售价$199.95（约人民币1230元），官网地址：https://www.videocopilot.net/products/element2/ 。Element 3D v2.2.2 build 2147版本有动画引擎修复、CS5兼容性修复等更新。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/E3D222.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2014，CC 2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/zkj151784816"
+    },
+    {
+      "name": "Win版百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1qYOSWGG"
+    },
+    {
+      "name": "Mac版城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/a2H155126458"
+    },
+    {
+      "name": "Mac版百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bpuValL"
+    }
+  ],
+  "other": {
+    "model_material_texture_light_package_download": "[Video Copilot – Motion Design 2, Backlight, Pro Shaders 2（Mac/Win）](https://www.lookae.com/e3dv2mx/)",
+    "problem_reference": [
+      {
+        "title": "AE报错：could not be loaded (126)：无法加载增效工具（48：46）",
+        "description": "报错信息说明：After Effects错误：位于X:\\Program Files\\Adobe\\Adobe After Effects \\Support Files\\Plug - ins\\VideoCopilot\\Element.aex的一个插件无法加载。报错的可能原因：此插件可能已经被损坏，因此不能在初始化的过程中被作为有效的元素进行加载。有些第三方插件也采用了包含实际例程的二级结构，这种插件只是为了使用主程序才与其挂钩的，这种插件众所周知的例子有Magic Bullet Looks插件、Sapphire蓝宝石插件和Silhoutte Roto插件，所有的这些插件都使用的是外部的数据库（例如Windows上的DLL文件）。当这些辅助部件中的一个没有找到或者被损坏了，那么插件的使用也将失败。另一个原因是，一些插件不支持某些处理器类型或多线程。在音频面板中有一个非常明显的依赖于操作系统的音频功能，所以如果有什么地方不对劲的话，它可能就无法初始化。建议解决方法：大多数情况下，完整清理掉以前安装的版本，重新安装插件或安装插件的较新版本才能解决这个问题。"
+      },
+      {
+        "title": "程序出现崩溃",
+        "description": "大多数情况下与显卡有关，请确认显卡知否支持插件，或者更新显卡驱动"
+      }
+    ],
+    "installation_instructions": "1. Install Element 3D 2.0.7.2008 (As Administrator)\n2. Copy .aex file to your AEF/Support Files/Plug - ins/VideoCopilot/… and REPLACE the EXISTING files\n3. Run AEF (As Administrator)\n4. Add Element 3D Effect and click Install License (from Element 3D auth form)\n5. Enjoy\nDo not install this if your Element is already legally licensed, it can damage your existing license and you’ll need to get a new one…\nIf you still want to use cracked version over legal one at your own risk backup videocopilot folder from:\nC:\\programdata\\videocopilot (for Vista and Win7)\n%AppData%\\videocopilot (for XP)\nand use cracked version, when you want to restore it just replace back the folder\nIn case you have trouble with license or you bought the plugin and want a clean install you can try to delete the following:\nfolder: C:\\programdata\\videocopilot (for Vista and Win7)\nfolder: %AppData%\\videocopilot (for XP)\nCrashes might be related to your videocard drivers, check the google and VideoCopilot support forum for fixes.\nCredits to MrStock and donors and spider853."
+  }
+}

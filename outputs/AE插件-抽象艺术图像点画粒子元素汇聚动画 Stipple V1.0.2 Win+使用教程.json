@@ -1,0 +1,61 @@
+{
+  "title": "AE插件-抽象艺术图像点画粒子元素汇聚动画 Stipple V1.0.2 Win+使用教程",
+  "slug": "aecha-jian-chou-xiang-yi-zhu-tu-xiang-dian-hua-li-zi-yuan-su-hui-ju-dong-hua-stipple-v1-0-2-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/08/03 10:00",
+  "source_url": "https://www.lookae.com/stipple-102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "粒子动画"
+  ],
+  "content": "Stipple 是一款基于物理模拟的 After Effects 插件，用于创建时间连贯的图像点画图案。它通过素材驱动，实现由小点构成的抽象艺术效果，具有高度视觉吸引力和动态一致性。该插件适用于视频与动画项目，确保点在帧之间移动可预测，保持视觉连贯性。其核心优势在于采用蓝色噪声生成方式，相比传统抖动的白色噪声，呈现出更干净、更美观的阴影效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/Stipple-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/467167582765.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘 (插件)",
+      "url": "https://url70.ctfile.com/f/2827370-1339351361-af2b25?p=4431"
+    },
+    {
+      "name": "百度网盘 (插件)",
+      "url": "https://pan.baidu.com/s/1kOnhXRhyDJtLv7suVzkO1Q?pwd=fq3y"
+    },
+    {
+      "name": "阿里云盘 (插件)",
+      "url": "https://www.alipan.com/s/vYqRiRNCAXm"
+    },
+    {
+      "name": "城通网盘 (使用教程)",
+      "url": "https://url70.ctfile.com/f/2827370-1320371911-90d65b?p=4431"
+    },
+    {
+      "name": "百度网盘 (使用教程)",
+      "url": "https://pan.baidu.com/s/1SaGCJh5tgJWDPq6zPBFZtA?pwd=zqrh"
+    },
+    {
+      "name": "阿里云盘 (使用教程)",
+      "url": "https://www.alipan.com/s/PTm93zpyeVD"
+    }
+  ],
+  "other": {
+    "v1_0_2_update": "修复了16位颜色项目中‘获取颜色’的问题。",
+    "what_is_stippling": "点画是一种使用小点重现图像或图案的艺术技巧，点的密度可调以表现阴影细节。在数字领域，点画是抖动的高级形式，能产生更具视觉美感的蓝色噪声效果。",
+    "stippling_vs_dithering": "抖动使用随机像素图案，导致视觉嘈杂；点画则通过有序排列的小点生成更清晰、更优雅的阴影，避免白色噪声问题。",
+    "physics_simulation": "Stipple 采用物理模拟机制，使点在时间轴上运动具有可预测性和连续性，点与图像映射之间相互作用，确保动画过程中视觉一致。",
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "tags_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "粒子动画": "https://www.lookae.com/tag/%e7%b2%92%e5%ad%90%e5%8a%a8%e7%94%bb/"
+    }
+  }
+}

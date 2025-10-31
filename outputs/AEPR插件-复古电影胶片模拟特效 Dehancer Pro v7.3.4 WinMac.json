@@ -1,0 +1,63 @@
+{
+  "title": "AE/PR插件-复古电影胶片模拟特效 Dehancer Pro v7.3.4 Win/Mac",
+  "slug": "ae-prcha-jian-fu-gu-dian-ying-xiao-pian-mo-ni-te-xiao-dehancer-pro-v7-3-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2025-10-11T11:59:00Z",
+  "source_url": "https://www.lookae.com/dehancer-pro-734/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "电影胶片"
+  ],
+  "content": "Dehancer Pro v7.3.4 是一款专为 After Effects 和 Premiere Pro 打造的复古电影胶片模拟特效插件，支持真实摄影与电影胶片的数字模拟。提供数十种胶片类型，涵盖胶片颗粒、光晕（Halation）、灼烧光效、噪点、刮痕等复古视觉效果，并完全原生支持 ACES 色彩管道。适用于制作具有电影质感的画面，可实现胶片边框、暗角、去边、覆盖、编织等多种高级特效。该插件支持 8、16、35、65 mm 胶片格式工具轮廓，包含 63 个带打印选项的胶片配置文件，以及 Kodak 2383、Fujifilm 3513 等经典胶片模拟。内置多种专业功能如输入相机配置文件、Cineon Film Log 支持、胶片显影与压缩、CMY 彩色头、LUT 生成器、监视器（伪色、剪裁）等，广泛应用于影视后期调色与创意特效制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/Dehancer-Pro-Adobe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/365427639240.mp4"
+  ],
+  "supported_versions": "Premiere Pro 2022 及以上；After Effects 2021 及以上",
+  "supported_os": "Windows & Mac（Mac 仅支持 Apple M 芯片）",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8429782928-aa1f9d?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1pJgRJ9LrV2O4a_PpLGlFYg?pwd=ttp5"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/Nt3mzmDB3my"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8436083683-e985a6?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1ZIcyVZA4whL2GP2qVA5FaQ?pwd=ts4w"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/uwkgY1pjWHB"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "description": "Dehancer 是一款基于真实胶片特性的电影模拟插件，通过模拟胶片颗粒、光晕、显影过程等物理光学现象，实现高度真实的电影画面质感。",
+      "features": [
+        "63 个胶片配置文件（含打印选项）",
+        "支持 8、16、35、65 mm 胶片格式",
+        "胶片损坏、颗粒、编织、去边、暗角等特效",
+        "支持 Cineon Film Log 和相机配置文件输入",
+        "集成 LUT 生成器与监视器工具（伪色、剪裁）",
+        "完全兼容 ACES 色彩管道"
+      ],
+      "note": "Mac 版仅支持 Apple M 系列芯片设备"
+    }
+  }
+}

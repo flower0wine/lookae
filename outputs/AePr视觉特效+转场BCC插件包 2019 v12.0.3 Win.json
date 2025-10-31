@@ -1,0 +1,41 @@
+{
+  "title": "Ae/Pr视觉特效+转场BCC插件包 2019 v12.0.3 Win",
+  "slug": "ae-prshi-jue-te-xiao-zhuan-chang-bcccha-jian-bao-2019-v12-0-3-win",
+  "author": "大众脸",
+  "post_date": "2019-03-29T13:54:00Z",
+  "source_url": "https://www.lookae.com/bcc-1203/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete（BCC）是专为Adobe After Effects和Premiere Pro设计的全面视觉特效与转场插件包。该版本支持从CS6到CC 2019的多个Adobe软件版本，提供超过百种特效效果，涵盖3D字幕、粒子系统、老电影风格、光线、镜头光晕、烟雾、火焰等视觉效果，并包含调色、键控抠像、遮罩、跟踪及发光等高级工具。2019版本引入了全新功能：重生的Particle Illusion幻影粒子插件、Title Studio文字处理着色器（支持发光、射线、模糊）、Mocha Essentials工作区及多项新工具，实现更快的跟踪与遮罩操作，整体支持GPU加速。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/213739335488.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019, Premiere Pro CS6 – CC 2019",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-357315298"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/123_vVYoXVNr37Lv9sQxjCA"
+    }
+  ],
+  "other": {
+    "official_website": "https://borisfx.com/products/continuum/",
+    "update_notes": "Continuum 2019 is the latest major upgrade for the most comprehensive plug-in collection on the market. Key features include the rebirth of Particle Illusion, the famed motion graphics generator, new Title Studio image-processing shaders such as glows, rays, and blurs for visually-stunning titles and lower thirds, new Mocha Essentials workspace with 4 new spline tools like magnetic edge snapping and geometric shapes for faster tracking and masking, new point-driven parameter tracking powered by Mocha, and overall GPU-acceleration.",
+    "installation_instructions": [
+      "卸载旧版本，然后安装Continuum_2019_Adobe_12_0_3_Windows.exe插件程序，安装过程中选择No License",
+      "复制注册补丁文件夹里面的4个dll文件到C:\\Program Files\\BorisFX\\ContinuumAE\\12\\lib 完成替换注册",
+      "完成安装，打开软件使用插件"
+    ],
+    "download_password": "8gkg"
+  }
+}

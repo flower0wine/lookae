@@ -1,0 +1,40 @@
+{
+  "title": "AE插件：三维FBX文件导入AE软件 FBX to AE",
+  "slug": "aecha-jian-san-wei-fbxwen-jian-dao-ru-aeruan-jian-fbx-to-ae",
+  "author": "大众脸",
+  "post_date": "2015/06/28 20:02",
+  "source_url": "https://www.lookae.com/fbxtoae/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "这是一款由Valerio Carnevale开发团队设计的免费AE插件，可将FBX三维文件直接导入到AE软件中，实现三维软件和AE软件间的摄像机动画信息互通等。官网信息：http://www.timecore.org/fbx-to-ae/。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/FBX-104.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014，After Effects CC 2015",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE插件：三维FBX文件导入AE软件 FBX to AE",
+      "url": "https://www.400gb.com/file/102633362"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "fbx_export_support": {
+      "3ds_max": "Autodesk 3ds Max FBX Export (2012, 2013, 2014, 2015)",
+      "maya": "Autodesk Maya FBX Export (versions tested 2014) 可能支持"
+    }
+  }
+}

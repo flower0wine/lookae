@@ -1,0 +1,41 @@
+{
+  "title": "AE/PR脚本-170组复古老电影胶片转场过渡预设 Film Transitions",
+  "slug": "ae-prjiao-ben-170zu-fu-gu-lao-dian-ying-xiao-pian-zhuan-chang-guo-du-yu-she-film-transitions",
+  "author": "大众脸",
+  "post_date": "2023/10/22 10:39",
+  "source_url": "https://www.lookae.com/film-transitions-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MYFX",
+    "PR脚本",
+    "电影胶片"
+  ],
+  "content": "电影胶片过渡包是为各种技能水平的人创建的。即使您是初学者，也可以轻松使用它。包中的所有过渡预设都是MOGRT文件，是在 After Effects 中使用其原生效果创建的。这意味着您将在中获得所有具有高端效果的过渡效果，例如光学、镜头、发光、失真、相机模糊、平铺、色差等等！使用MYFX脚本调用预设，可视化预览，需要什么直接点击即可加载到时间线。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/10/48737776-48738030.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/432700940090.mp4"
+  ],
+  "supported_versions": "AE CC 2019 或更高版本 和 PR CC 2021 或更高版本",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-962795886-e0e967?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1n95h7N45i8nxM-0ISrdF5g?pwd=rwh4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/hEZGqeCBNiu"
+    }
+  ],
+  "other": {
+    "file_size": "1.1G",
+    "additional_notes": "使用插件：不需要外置第三方插件；调用扩展：MYFX 3.1.2 (已包含)；使用辅助：安装方法+视频教程"
+  }
+}

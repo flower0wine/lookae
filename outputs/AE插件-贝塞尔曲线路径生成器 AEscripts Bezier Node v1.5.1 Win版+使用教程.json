@@ -1,0 +1,33 @@
+{
+  "title": "AE插件-贝塞尔曲线路径生成器 AEscripts Bezier Node v1.5.1 Win版+使用教程",
+  "slug": "aecha-jian-bei-sai-er-qu-xian-lu-jing-sheng-cheng-qi-aescripts-bezier-node-v1-5-1-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/03/10 12:22",
+  "source_url": "https://www.lookae.com/bezier-151/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件"
+  ],
+  "content": "Bezier Node插件简化了制作贝塞尔曲线曲线和其他曲线的过程，可以从A点到B点绘制漂亮的曲线，能够控制从直线到曲线的曲率。控制开始和结束的位置、对称模式以及附加线、添加颜色、修改路径、多曲线路径、描边等，通过插件可以让你的曲线很完美。1.5.1版本修复了单个曲率误差BUG，创建空值功能现在使用层名称和效果名称，以避免效果的多个实例出现问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Bezier-Node.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-349261141"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YOmFBzeU6p3Y_VZabICQ_g"
+    }
+  ],
+  "other": {
+    "extraction_code": "r38e",
+    "update_details": "修复单个曲率误差BUG，创建空值功能现在使用层名称和效果名称，以避免效果的多个实例出现问题。"
+  }
+}

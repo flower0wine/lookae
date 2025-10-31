@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-无限循环物理随机动画 LOOPRAN v1.0.106 +使用教程",
+  "slug": "aejiao-ben-wu-xian-xun-huan-wu-li-sui-ji-dong-hua-loopran-v1-0-106-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/10/19 11:56",
+  "source_url": "https://www.lookae.com/loopran/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "无限循环",
+    "物理动画"
+  ],
+  "content": "创建无尽的物理随机动画。它还具有启动器功能，允许您单击一次执行 35 种不同的任务，例如合成创建。此外，您可以使用 40 多种设置灵活地自定义其行为，从而实现更高效的工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/LOOPRAN.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/488371111349.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1387553761-a79c35?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1HIz_1rLyB6DQ9T7RmEJcSw?pwd=4jqg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/N6DifaEduaN"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "4jqg"
+    },
+    "features": [
+      "只需单击一下即可应用8种高质量、复杂的基于物理的动画",
+      "动画会无限持续，每次的图案都会随机变化",
+      "自定义重力、速度、循环次数、随机范围以及大约20种其他高级设置",
+      "8种物理动画：弹跳、弹跳碰撞、落下、抛骰子、侧抛、侧抛碰撞、海浪、零重力"
+    ]
+  }
+}

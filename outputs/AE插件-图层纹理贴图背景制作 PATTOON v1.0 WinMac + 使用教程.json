@@ -1,0 +1,44 @@
+{
+  "title": "AE插件-图层纹理贴图背景制作 PATTOON v1.0 Win/Mac + 使用教程",
+  "slug": "aecha-jian-tu-ceng-wen-li-tie-tu-bei-jing-zhi-zuo-pattoon-v1-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-07-26",
+  "source_url": "https://www.lookae.com/pattoon/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件"
+  ],
+  "content": "PATTOON 是一款 After Effects 插件，可为图层快速添加纹理背景，并附带额外功能、纹理与预设，满足多种设计需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Patton-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v1.0",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-389998942"
+    },
+    {
+      "name": "插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1v7fNVeh4awtcE_lXdTOtSg"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-389994598"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1wiIucKyFlwU5UQKChU4XrQ"
+    }
+  ],
+  "other": {
+    "baidu_extract_code": {
+      "插件": "cazn",
+      "教程": "iesf"
+    },
+    "official_site": "https://aescripts.com/pattoon/"
+  }
+}

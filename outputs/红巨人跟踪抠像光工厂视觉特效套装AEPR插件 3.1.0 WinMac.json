@@ -1,0 +1,91 @@
+{
+  "title": "红巨人跟踪抠像光工厂视觉特效套装AE/PR插件 3.1.0 Win/Mac",
+  "slug": "hong-ju-ren-gen-zong-kou-xiang-guang-gong-han-shi-jue-te-xiao-tao-zhuang-ae-prcha-jian-3-1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/07/04 11:47",
+  "source_url": "https://www.lookae.com/hjrv310/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "在After Effects中完成抠像、跟踪、清理和视觉效果合成。新加入Real Lens Flares插件：基于模拟光学模型和光线跟踪光创建逼真的镜头光斑，以获得真实的摄影效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/HJRV3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356297456534.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022; Premiere Pro CC 2019, 2020, 2021, 2022（部分插件支持）",
+  "supported_os": "Windows 10/11, macOS",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608398635-438dc3?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1UnnR-cn9U_LVjdq7t-BcBA?pwd=fd4g"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/jmoxvfAu5MV"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608404552-4b9156?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1A9Jwonl38diGNM8uedC8ig?pwd=isru"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/bSmrAy933z1"
+    },
+    {
+      "name": "Win中文版 - V3.0.0汉化版",
+      "url": "https://www.lookae.com/hjrvfxch3/"
+    }
+  ],
+  "other": {
+    "vfx_suite_plugins": [
+      "Bang V3.1.0 - 3D枪口闪光插件",
+      "Chromatic Displacement V3.1.0 - 色差置换插件",
+      "Lens Distortion Matcher V3.1.0 - 镜头失真变形",
+      "Knoll Light Factory v3.1.2 - 光工厂镜头光晕插件",
+      "King Pin Tracker V3.1.0 - 平面跟踪插件",
+      "Optical Glow V3.1.0 - 智能辉光插件",
+      "Primatte Keyer V6.0.6 - 专业抠像插件",
+      "Shadow V3.1.0 - 投影插件",
+      "Reflection V3.1.0 - 反射插件",
+      "Real Lens Flares V3.1.0 - 真实镜头光斑（新插件）",
+      "Spot Clone Tracker V3.1.0 - 物体移除替换克隆跟踪插件",
+      "Supercomp V3.1.0 - 超强特效合成插件"
+    ],
+    "v3_1_0_fixes": [
+      "Real Lens Flares 的大量性能、稳定性和错误修复",
+      "VFX-5659 修复了旧款 MacBook 上的 Flare 渲染被破坏（AE 和 Designer）的问题",
+      "VFX-5658 修复了 Real Lens Flare Designer 无法渲染或工作的问题",
+      "VFX-5618 修复了 VFX Real Lens Flare – Gate Flare 蓝色方块不一致并在 AE 预览中变形的问题",
+      "VFX-5611 修复了镜头窗格中的光线未在图像平面会聚的问题",
+      "VFX-5610 修复了核心投影缩略图在设计师重新启动或重置后不渲染的问题",
+      "VFX-5608 修复了 Gate Flare 绘图导致 AE 预览出现问题的问题",
+      "VFX-5535 修复了 Win: Heavy Rendering 在 Mercury cuda 上的崩溃 AE 中使用 RLF 的问题",
+      "VFX-5521 修复了闸门眩光相交尺寸未正确缩放分辨率的问题",
+      "VFX-5515 修复了保存预设和其他对话框存在窗口缩放问题并被切断的问题",
+      "VFX-5514 修复了门闪光中闪烁的问题",
+      "VFX-5491 修复了在 Real Lens Flare 设计师预览中除 Square 以外的像素纵横比被挤压的问题",
+      "VFX-5475 修复了 VFX Real Lens Flare – MacBook Pro 在尝试渲染时崩溃的问题",
+      "VFX-5472 修复了 Real Lens Flare 的问题：Halo Sparkle Size 参数反转",
+      "VFX-5436 修复了真实镜头光晕的问题：从浏览器中删除自定义预设不会从自定义目录中删除缩略图",
+      "VFX-5420 修复了 Win: Real Lens Flare Quality Setting Typo 或 ECW 中显示错误的问题",
+      "VFX-5419 修复了在 Designer 中重置耀斑不会渲染某些核心投影缩略图的问题",
+      "VFX-5406 修复了重命名镜头光晕预设时 Apple Funk 声音的问题",
+      "VFX-5312 修复了 Mac 在 AE 2022 中渲染 4k Primatte 剪辑时系统内存不足的问题",
+      "VFX-5260 修复了光源尺寸指南不在光源中心的问题 – Mac",
+      "VFX-5225 修复了 Supercomp 引发错误消息“ItemH 不能为 NULL 5027::20”"
+    ],
+    "城通网盘密码": "6688"
+  }
+}

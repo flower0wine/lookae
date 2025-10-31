@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本-文字分割分离成单独图层 TextExploder v2.0.003+使用教程",
+  "slug": "aejiao-ben-wen-zi-fen-ge-fen-chi-cheng-dan-du-tu-ceng-textexploder-v2-0-003-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/09/26 11:05",
+  "source_url": "https://www.lookae.com/textexploder-20003/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "这是 AE 脚本 TextExploder v2.0.003 的使用教程。该脚本可以将一整段文字按照单个字母、单词或句子分离成独立的文字层，便于对每个文字进行单独控制。支持精确保留每个字符的位置，并附带视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Text-Exploder.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50027194666.mp4"
+  ],
+  "supported_versions": "After Effects CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载地址（城通网盘）",
+      "url": "https://tc5.us/file/680462-399487705"
+    },
+    {
+      "name": "脚本下载地址（百度云网盘）",
+      "url": "https://pan.baidu.com/s/10mJT7xNmePiZINDHPDwnGQ"
+    },
+    {
+      "name": "使用教程下载（城通网盘）",
+      "url": "https://www.pipipan.com/fs/680462-220389175"
+    },
+    {
+      "name": "使用教程下载（百度云网盘）",
+      "url": "https://pan.baidu.com/s/1miMJgOK"
+    }
+  ],
+  "other": {
+    "tutorial_password": "1su3",
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "http://aescripts.com/textexploder/"
+    ],
+    "sponsors": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "自愿赞助 LookAE.com",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "update_log": [
+      "修正了方框文字有时会导致最后一行被跳过的问题"
+    ]
+  }
+}

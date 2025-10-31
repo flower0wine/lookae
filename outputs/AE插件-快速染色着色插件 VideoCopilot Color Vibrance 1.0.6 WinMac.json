@@ -1,0 +1,35 @@
+{
+  "title": "AE插件-快速染色着色插件 VideoCopilot Color Vibrance 1.0.6 Win/Mac",
+  "slug": "aecha-jian-kuai-su-ran-se-zhao-se-cha-jian-videocopilot-color-vibrance-1-0-6-win-mac",
+  "author": "大众脸",
+  "post_date": "2016-02-23",
+  "source_url": "https://www.lookae.com/colorvibrance106/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Video Copilot",
+    "Win/Mac"
+  ],
+  "content": "VideoCopilot 出品的免费 AE 插件，可快速对明暗不一致的图形进行鲜艳着色，自动生成 Alpha 通道，支持羽化与颜色衰减，让调色更简单高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Color-Vibrance-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5–CC 2019",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://tc5.us/file/680462-399523491"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bMaFIK_8aNEF0y6TTg_Gww"
+    }
+  ],
+  "other": {
+    "official_intro": "http://www.videocopilot.net/blog/2014/05/new-plug-in-color-vibrance/",
+    "tutorial_assets": "https://www.lookae.com/vcmotionpulse/",
+    "related_shop": "https://lookae.taobao.com/"
+  }
+}

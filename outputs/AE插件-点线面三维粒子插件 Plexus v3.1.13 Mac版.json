@@ -1,0 +1,65 @@
+{
+  "title": "AE插件-点线面三维粒子插件 Plexus v3.1.13 Mac版",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-plexus-v3-1-13-macban",
+  "author": "大众脸",
+  "post_date": "2020/08/24 10:41",
+  "source_url": "https://www.lookae.com/plexus-3113-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，允许用户以程序化方式创建、操控和可视化数据。不仅支持粒子渲染，还能基于多种参数在粒子之间建立丰富的关系。其模块化工作流可实现无限配置组合。\n\n该插件特别适用于制作点、线、面构成的三维粒子效果，渲染速度快，并支持导入 OBJ 格式的 3D 模型作为粒子发射器。此外，还支持通过路径、文字和灯光创建粒子发射源，并内置多种自定义特效，如分形、颜色控制、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC/CC2014/CC2015/CC2017/CC2018/CC2019/2020",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（Mac版）",
+      "url": "https://089u.com/file/680462-458555189"
+    },
+    {
+      "name": "百度网盘下载（Mac版）",
+      "url": "https://pan.baidu.com/s/1dmGnMcZouoiF3bINgOwmlw"
+    },
+    {
+      "name": "Win版下载",
+      "url": "https://www.lookae.com/plexus-3113/"
+    }
+  ],
+  "other": {
+    "official_website": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ],
+    "update_notes": "更新了浮动许可，兼容10.15系统",
+    "new_features_plexus3": [
+      "Object based UI",
+      "Depth Map Culling",
+      "Motion Blur",
+      "Sound Effector",
+      "Null Object Performance",
+      "Slicer Object",
+      "Path Object Improvements",
+      "Seamless Beams",
+      "Custom Visibility Settings",
+      "Improved OBJ Import",
+      "Unified Rendering",
+      "Nested Compositions",
+      "Loop Noise"
+    ],
+    "tutorial_links": [
+      {
+        "name": "使用教程 - 城通网盘",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "name": "使用教程 - 百度云网盘",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      }
+    ]
+  }
+}

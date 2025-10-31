@@ -1,0 +1,48 @@
+{
+  "title": "中文汉化-画面颜色选取调色替换修改AE插件 Composite Brush v1.6.7 Mac/Win",
+  "slug": "zhong-wen-yi-hua-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-aecha-jian-composite-brush-v1-6-7-mac-win",
+  "author": "大众脸",
+  "post_date": "2022-11-21",
+  "source_url": "https://www.lookae.com/composite-brush-167/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "中文汉化"
+  ],
+  "content": "Composite Brush 是一款精准且易用的 After Effects 颜色选取与替换插件。只需简单几笔即可建立选区，随后可随意修改颜色或进行抠像。插件支持直接在画面上点选颜色，Alt+左键可取消选择，可与 Keylight 配合使用，让抠像更干净。v1.6.7 修复 32 位负值崩溃并兼容苹果芯片。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-729340729-75f0c9?p=4431"
+    },
+    {
+      "name": "插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1JHs8wKh5iHNQVxDSlj8m2g?pwd=w8vj"
+    },
+    {
+      "name": "插件-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/dcYmkAPbbzf"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-331097985"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1sd0XkNw_f09V3BXC2_Sxvw"
+    }
+  ],
+  "other": {
+    "网盘访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "w8vj"
+    }
+  }
+}

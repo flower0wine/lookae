@@ -1,0 +1,42 @@
+{
+  "title": "BlenderAe插件-将3D对象和场景数据从Blender连接选择导出到AE软件 BlenderAe V1.0.0 Win/Mac",
+  "slug": "blenderaecha-jian-jiang-3ddui-xiang-he-chang-jing-shu-ju-cong-blenderlian-jie-xuan-ze-dao-chu-dao-aeruan-jian-blenderae-v1-0-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/09/07 11:42",
+  "source_url": "https://www.lookae.com/blenderae/",
+  "category": "aechajian",
+  "tags": [
+    "BlenderAe",
+    "Blender插件"
+  ],
+  "content": "BlenderAe 是一款用于将 Blender 中的 3D 对象和场景数据连接、选择并导出到 Adobe After Effects 的插件。用户只需在 Blender 中安装该插件，点击“连接”到 After Effects，选择所需对象或几何元素，即可一键导出。插件支持在对象模式下导出相机、灯光、对象变换为 Null 或形状层；在编辑模式下支持将选定顶点导出为 Null，或将选定平面导出为预合成形状层。使用时需注意当前不支持非平面几何体，大量数据导出可能耗时较长，部分修饰符可能影响导出结果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/BlenderAe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325084112211.mp4",
+    "https://www.bilibili.com/video/BV1Nq4y1U7KQ/"
+  ],
+  "supported_versions": "After Effects: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Blender: 2.9",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-512096359-5b8285"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1UHlYCIpVXRWuZyUXbAcK6w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/H4cUwbdgSgB"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "l5sy"
+    }
+  }
+}

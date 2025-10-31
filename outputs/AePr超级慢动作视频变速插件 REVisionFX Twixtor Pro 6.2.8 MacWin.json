@@ -1,0 +1,31 @@
+{
+  "title": "Ae/Pr超级慢动作视频变速插件 RE:VisionFX Twixtor Pro 6.2.8 Mac/Win",
+  "slug": "ae-prchao-ji-man-dong-zuo-shi-pin-bian-su-cha-jian-re-visionfx-twixtor-pro-6-2-8-mac-win",
+  "author": "大众脸",
+  "post_date": "2017/02/13 17:18",
+  "source_url": "https://www.lookae.com/twixtor628/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Twixtor Pro 是 Vision Effects 公司开发的一款广受欢迎的视频变速插件，能够实现无级变速，平滑地减慢、加速或更改视频帧率，从而生成高质量的慢动作或快动作视觉效果。该插件适用于 Adobe After Effects 和 Premiere Pro，支持 Mac 与 Windows 平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/twixtor6.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017, Adobe Premiere Pro CS5 – CC 2017",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "Ae/Pr超级慢动作视频变速插件 RE:VisionFX Twixtor Pro 6.2.8 Mac/Win",
+      "url": "https://lookae.ctfile.com/fs/2vM171241578"
+    }
+  ],
+  "other": {
+    "version": "6.2.8",
+    "changelog": "Fixes a crashing bug. (Developer note: in premult/straight conversions)",
+    "official_url": "http://revisionfx.com/products/twixtor/overview/"
+  }
+}

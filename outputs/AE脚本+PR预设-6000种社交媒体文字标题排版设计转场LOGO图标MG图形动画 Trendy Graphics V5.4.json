@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本+PR预设-6000种社交媒体文字标题排版设计转场LOGO图标MG图形动画 Trendy Graphics V5.4",
+  "slug": "aejiao-ben-pryu-she-6000chong-she-jiao-mei-ti-wen-zi-biao-ti-pai-ban-she-ji-zhuan-chang-logotu-biao-mgtu-xing-dong-hua-trendy-graphics-v5-4",
+  "author": "大众脸",
+  "post_date": "2021/07/19 10:33",
+  "source_url": "https://www.lookae.com/trendy-graphics-54/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "PR模板",
+    "PR预设"
+  ],
+  "content": "Trendy Graphics 包是一个完美的动态图形集合，用于为各种观众创建任何类型的幻灯片、开场白、社交媒体故事或标题序列、视频网站、电视等等。超过6000个元素将使您的视频制作更上一层楼。它非常易于使用，任何具有任何经验的用户都可以做到从刚开始创建视频博客到提高效率的视频编辑专业人士。AE是通过AtomX脚本调用预设，可视化预览，直接使用于时间线。PR是直接使用Mogrt预设。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/6000-Graphics-Pack.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/319139922391.mp4"
+  ],
+  "supported_versions": "AE CC 2018和更高，PR CC 2019.1和更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/s8HDjTQA4UC"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-502631637-029c2c"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1eQVPfiBPw5_Sou_lZNwCKQ"
+    }
+  ],
+  "other": {
+    "file_size": "3.75G",
+    "file_id": "24321544",
+    "audio_info": "无音乐, 有转场音效",
+    "installation_notes": "安装后请勿移动安装文件，否则失效。",
+    "included_script": "AtomX 3.0.5 脚本（已包含）",
+    "resolution": "不限制",
+    "mogrt_installation_methods": [
+      "关闭PR软件，复制预设文件夹到指定系统目录后在【窗口】-【基本图形】中使用",
+      "在Premiere中通过【窗口】-【基本图形】窗口右下角+号直接添加.mogrt文件"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "rr0q"
+    },
+    "related_music_link": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486"
+  }
+}

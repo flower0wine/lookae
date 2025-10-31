@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-多个文字层动态链接在一起操作工具 Text Chain v2.0 +使用教程",
+  "slug": "aejiao-ben-duo-ge-wen-zi-ceng-dong-tai-lian-jie-zai-yi-qi-cao-zuo-gong-ju-text-chain-v2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 22:40",
+  "source_url": "https://www.lookae.com/text-chain-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本可动态链接不同文本图层，并约束字符串特定宽度。还能在一行文本需在一定宽度内时，设置最大宽度值约束文本。V2.0更新修复了缺少Psuedo参考、许可问题，实现Catalina兼容，降低对CC 2019和2020的兼容性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Text-Chain.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520633158-09bb03"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1-52PpGbC2ul_KRmWbb2_sQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/JFWA36354SV"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

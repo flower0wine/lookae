@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-三维视差图层透视变化动画 Animate Parallax v1.2.0+使用教程",
+  "slug": "aejiao-ben-san-wei-shi-chai-tu-ceng-tou-shi-bian-hua-dong-hua-animate-parallax-v1-2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/06/24 14:26",
+  "source_url": "https://www.lookae.com/animate-parallax-120/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Animate Parallax",
+    "视差动画"
+  ],
+  "content": "作者受到 Adob​​e Animate 图层深度功能的启发。AnimateParallax 为 After Effects 提供了直观的可视化界面来创建和管理视差效果。用户不再需要为每个图层编写复杂的表达式或手动为多个图层设置关键帧。只需直观地调整图层的 Z 轴位置，然后点击“应用”即可完成。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/AnimateParallax.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/521943660894.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2023，2024，2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1521948145-486d42?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cwmPUeygHKahHAMQnhEx1w?pwd=dc21"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/SLLJfE8iPVo"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "v1.2.0更新内容": {
+      "新增": [
+        "新增了同时选择和编辑多个图层的支持。注意：这适用于手动调整 Z 值。“分布”、“随机”、“应用”和“烘焙”等按钮将继续影响所有加载的图层，无论选择哪个图层。",
+        "启用了在深度视图面板上使用鼠标滚轮滚动图层列表的功能。"
+      ],
+      "修复": [
+        "解决了在面板打开时关闭 After Effects 时可能出现的稳定性问题。",
+        "更新了帮助。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-多个文字图层批量修改样式 Dojo Text Updater v1.0",
+  "slug": "aejiao-ben-duo-ge-wen-zi-tu-ceng-pi-liang-xiu-gai-yang-shi-dojo-text-updater-v1-0",
+  "author": "大众脸",
+  "post_date": "2019/08/12 10:30",
+  "source_url": "https://www.lookae.com/dojo-text-updater/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Dojo Text Updater 是一款 After Effects 脚本，允许您将合成或项目中的多个文字图层批量更新为与另一个文字图层相同的文本样式。该脚本提供多种选项，可灵活控制哪些属性需要更新、哪些保持不变，从而让快速文本样式编辑变得轻松高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Dojo-Text-Updater.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-392470158"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Y6PNOYFi0QlqBi_YhMGeJA"
+    }
+  ],
+  "other": {
+    "original_english_description": "Dojo Text Updater is an After Effects script that allows you to update multiple text layers in your compositions or projects to match the text style of another text layer. This script makes rapid text style edits a breeze with various options to control what gets updated and what doesn’t.",
+    "official_store_url": "https://creativedojo.net/store/dojo-text-updater-script/"
+  }
+}

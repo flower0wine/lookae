@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本：专业MG智能色彩搭配脚本 AEscripts Ray Dynamic Color v2.0.2（附教程）",
+  "slug": "aejiao-ben-zhuan-ye-mgzhi-neng-se-cai-da-pei-jiao-ben-aescripts-ray-dynamic-color-v2-0-2-fu-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/08/25 10:48",
+  "source_url": "https://www.lookae.com/ray202/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "该脚本是一款专业MG智能色彩搭配脚本，在后期制作中可快速自由配色，符合视觉美学且科学高效，还能从Adobe Kuler导入色彩搭配。教程适用于MG动态图形制作，可解决制作MG效果时众多图层后续配色繁琐问题，能自定义颜色，一次性修改多个选中图层颜色。v2新版有新UI操作界面设计，颜色控制无需表达式。官网地址为http://aescripts.com/ray-dynamic-color/ ，适用于AE CS5 – CC2015.3。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/04/Ray-Dynamic-Color.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015.3",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：专业MG智能色彩搭配脚本 AEscripts Ray Dynamic Color v2.0.2（附教程）",
+      "url": "http://lookae.ctfile.com/fs/Enr155639836"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本安装": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "Ray Dynamic Color v2新版功能": [
+      "新的UI操作界面设计",
+      "颜色控制无需表达式",
+      "Fixed ‘Bad argument-Expected’ error on Windows",
+      "Fixed issue when scanning multiple comps",
+      "New UI Design that is responsive and takes up less space.",
+      "Color without Expression links.",
+      "Link and Unlink colors from a palette.",
+      "Ability to Rename color palettes without breaking expression links",
+      "Add colors to a palette without leaving you comp."
+    ]
+  }
+}

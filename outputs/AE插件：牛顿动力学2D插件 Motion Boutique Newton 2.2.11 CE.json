@@ -1,0 +1,51 @@
+{
+  "title": "AE插件：牛顿动力学2D插件 Motion Boutique Newton 2.2.11 CE",
+  "slug": "aecha-jian-niu-dun-dong-li-xue-2dcha-jian-motion-boutique-newton-2-2-11-ce",
+  "author": "大众脸",
+  "post_date": "2017-05-24T19:37:00Z",
+  "source_url": "https://www.lookae.com/newton2211/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Motion Boutique Newton 是 After Effects 的首款动力学插件，可将 2D 图层视为在真实环境中相互作用的刚体。支持重力、碰撞、摩擦等物理属性控制，提供关节连接（如距离关节、枢轴关节、活塞关节、弹簧关节）、磁力系统、固定旋转、凸包简化等功能，显著提升动画真实感与性能表现。插件通过模拟后生成标准关键帧，无缝集成于 AE 工作流中。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2wgn8t5lnpuFjSZFgXXbi7FXa_!!705956171.gif",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/distance-joints.gif",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/pivot-joint.gif",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/piston-joints.gif",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/spring-joints.gif",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/magnet.gif",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/fixed-rotation.gif",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/convex_hull.png",
+    "http://www.motionboutique.com/wp-content/uploads/2012/10/gravity-scale.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 – CC 2017",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-204082565"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1nuNadJz"
+    }
+  ],
+  "other": {
+    "plugin_location": "Composition – Newton",
+    "installation_type": "一键安装版，无功能限制",
+    "official_website": "http://www.motionboutique.com/newton/",
+    "tutorial_download": "http://www.ctdisk.com/file/8779528",
+    "related_mac_version": "https://www.lookae.com/newton/",
+    "features": [
+      "支持多种关节类型（距离、枢轴、活塞、弹簧）",
+      "内置磁力系统实现吸引/排斥效果",
+      "固定旋转属性防止物体旋转",
+      "使用凸包简化复杂形状以优化性能",
+      "每物体可自定义重力比例",
+      "全新操作界面与高级物理控制"
+    ]
+  }
+}

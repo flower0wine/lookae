@@ -1,0 +1,28 @@
+{
+  "title": "AE插件 镜头畸变与色彩偏离插件 ft-Lens Distortion v7.5（Z汉化）",
+  "slug": "aecha-jian-jing-tou-ji-bian-yu-se-cai-pian-chi-cha-jian-ft-lens-distortion-v7-5-zyi-hua",
+  "author": "大众脸",
+  "post_date": "2015/11/03 11:13",
+  "source_url": "https://www.lookae.com/ft-lens/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "AE插件ft-Lens Distortion 可以快速制作镜头畸变扭曲，同时生成视频边缘RGB色彩分离效果。插件基于Syntheyes cubic lens distortion算法，让您能够在After Effects中管理所有畸变步骤，无需在不同应用程序之间来回切换。除了基本的镜头畸变校正功能外，还可以为最终合成应用色差等后期效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/ft-Lens.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2015",
+  "supported_os": "Win 系统",
+  "download_links": [
+    {
+      "name": "AE插件：镜头畸变与色彩偏离插件 ft-Lens Distortion v7.5（Z汉化） +使用教程",
+      "url": "http://page62.400gb.com/file/128897795"
+    }
+  ],
+  "other": {
+    "language": "英文原版和中文汉化版",
+    "has_tutorial": true
+  }
+}

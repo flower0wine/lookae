@@ -1,0 +1,50 @@
+{
+  "title": "AE/PR脚本-复古怀旧8mm老胶片边框纹理噪点光效叠加效果 ROLLBACK8 Pro",
+  "slug": "ae-prjiao-ben-fu-gu-huai-jiu-8mmlao-xiao-pian-bian-kuang-wen-li-zao-dian-guang-xiao-die-jia-xiao-guo-rollback8-pro",
+  "author": "大众脸",
+  "post_date": "2024-04-19T10:07:00Z",
+  "source_url": "https://www.lookae.com/rollback8-pro/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本",
+    "Super 8mm",
+    "电影胶片"
+  ],
+  "content": "ROLLBACK8 Pro 是一款专为 After Effects 和 Premiere Pro 设计的脚本，可一键生成 Super 8mm 复古怀旧老电影风格效果。支持颗粒、光晕、胶片纹理等参数的直观调节，提供真实感极强的胶片模拟体验。内置使用教程，便于用户快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/FredPelle-ROLLBACK8-Pro.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/458248608019.mp4"
+  ],
+  "supported_versions": "After Effects 2021-2024 及以上版本；Premiere Pro 2021 v15.1 - 2024 及以上版本",
+  "supported_os": "Windows / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1058247308-822842?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dZi3oOkfuDzy7-AOTG9HGQ?pwd=7aum"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/DdZV1uddKz1"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "7aum"
+    },
+    "description": "支持一键生成复古8mm胶片风格，包含边框、纹理、噪点和光效叠加，适用于影视后期调色与氛围营造。",
+    "features": [
+      "一键生成 Super 8mm 胶片效果",
+      "可自定义颗粒度、光晕、胶片类型",
+      "界面友好，易于操作",
+      "附带详细使用教程"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本+模板：平面图片转三维摄像机空间映射视频动画 Simple Photo Animator",
+  "slug": "aejiao-ben-mo-ban-ping-mian-tu-pian-zhuan-san-wei-she-xiang-ji-kong-jian-ying-she-shi-pin-dong-hua-simple-photo-animator",
+  "author": "大众脸",
+  "post_date": "2017/02/26 22:12",
+  "source_url": "https://www.lookae.com/simple-photo-animator/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE模板",
+    "AE脚本"
+  ],
+  "content": "这是一个AE脚本和模板，能够将平面图片转换为三维摄像机空间映射视频动画。无需外置插件，支持AE CS 3至CC 2017及更高版本，分辨率为1920*1080。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/Simple-Photo-Animator.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 3 – CC 2017 或更高版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本+模板：平面图片转三维摄像机空间映射视频动画 Simple Photo Animator",
+      "url": "https://lookae.ctfile.com/fs/Hb0172898470"
+    }
+  ],
+  "other": {
+    "file_size": "204M",
+    "file_formats": [
+      ".aep",
+      ".jsxbin"
+    ],
+    "resolution": "1920*1080",
+    "template_id": "19115801",
+    "has_tutorial": true,
+    "has_music": false,
+    "plugin_required": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "After Effects CC 2017 内置插件完整中文汉化",
+  "slug": "after-effects-cc-2017-nei-zhi-cha-jian-wan-zheng-zhong-wen-yi-hua",
+  "author": "大众脸",
+  "post_date": "2017/04/06 21:05",
+  "source_url": "https://www.lookae.com/ae-2017-cn/",
+  "category": "aechajian",
+  "tags": [],
+  "content": "Adobe公司的After Effects软件自CC版本开始官方推出简体中文版本，到AE CC 2017中文界面翻译更专业，但安装后部分插件未汉化，此次汉化对这些插件进行完整中文汉化。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/AE-2017-CN.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2017",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/JvH195113892"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1jIJWdG6"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE教程",
+      "AE模板",
+      "After Effects"
+    ],
+    "汉化简介": "以下内容由大脸编辑。Adobe公司的After Effects软件自CC版本开始官方就推出了简体中文版本，发展到目前的AE CC 2017中文界面翻译也越来越专业，但是安装中文版本软件后，部分插件未汉化，这些插件基本是Adobe公司后来收购的第三方插件，如CC插件，C4D插件，抠像插件等。这次汉化将这些插件进行了完整中文汉化，希望对工作和学习带来帮助。",
+    "大脸说闲话": "CC插件（全名：CycoreFX）：在AE CS4之前以第三方身份出现在软件中，需外置安装，分标清版和高清版，插件多，效果不错，后被Adobe收购并入AE自带插件；在CC之前AE软件无官方中文版，由视觉玩偶老师制作软件汉化，也汉化了自带插件，CC开始推出官方中文版软件后，视觉玩偶老师淡出汉化工作，内置的CC插件从此时开始没有汉化版。C4D插件（MAXON CINEWARE AE）：允许直接将C4D工程文件导入AE，无需渲染，实时更新，建立CINEMA 4D与After Effects间实时三维流程通道，简化工作流程，缩短渲染时间。",
+    "中文汉化内置插件列表": "CycoreFXHD    CC插件高清版；Keylight   抠像插件；EXtractoR       通道提取器；IDentifier      通道标识符；MAXON CINEWARE AE       C4D插件",
+    "注意事项": "1.汉化程序默认路径为C盘，若电脑AE软件安装在其他盘，请手动指定路径到AE插件目录，如：……\\Adobe After Effects CC 2017\\Support Files\\Plug - ins；2.插件汉化后，不能再还原为原版英文，如有必要请提前备份好英文插件；3.未经许可，不得将汉化作品用于直接或间接商业用途。如确需使用，请直接汉化作者联系。",
+    "放弃汉化担保声明": "一、本人所做汉化版只是在原英文版基础上进行简体汉化，仅对原版软件显示和提示信息作汉化修改，未对软件原有功能作任何改动。 二、本人汉化作品翻译尽可能与原作保持一致，但不能保证翻译意思表述与原作完全一致，对因翻译引起的歧意先说声抱歉，请自行对照原作使用。 三、在使用汉化版时，汉化人没有承但任何赔偿的义务。 四、对汉化版若有好的建议，欢迎用电子邮件等方式发给我；对于软件使用问题，本人仅能提供有限帮助，请与原开发者联系。",
+    "投稿与下载提供": "此汉化由陌途汉化投稿，LookAE.com提供下载",
+    "相关链接": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助LookAE.com网站【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

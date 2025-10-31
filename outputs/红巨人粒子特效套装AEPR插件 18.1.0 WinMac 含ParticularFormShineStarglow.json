@@ -1,0 +1,81 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件 18.1.0 Win/Mac 含Particular/Form/Shine/Starglow",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-18-1-0-win-mac-han-particular-form-shine-starglow",
+  "author": "大众脸",
+  "post_date": "2022-07-04T12:11:00Z",
+  "source_url": "https://www.lookae.com/hjrtc18/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "粒子插件"
+  ],
+  "content": "红巨人粒子特效套装是专为 Adobe After Effects 和 Premiere Pro 打造的高级视觉特效插件集合，包含多个核心粒子与三维图形工具。最新版本 18.1.0 支持 M1 芯片原生运行，全面提升性能表现，并新增时间驱动图层映射功能，适用于高端动态设计创作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/TRAPCODE-SUITE-18.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/326996465763.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022; Premiere Pro CC 2019, 2020, 2021, 2022",
+  "supported_os": "Windows 10 及以上, macOS (M1 支持)",
+  "download_links": [
+    {
+      "name": "Win 英文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608399197-6c6ef6?p=4431"
+    },
+    {
+      "name": "Win 英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1CsurK8oOEqf4_9X-Bsqp_g?pwd=2o4a"
+    },
+    {
+      "name": "Win 英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/CqhRXgwaKfa"
+    },
+    {
+      "name": "Mac 英文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608404857-afa7b4?p=4431"
+    },
+    {
+      "name": "Mac 英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1fcbsR9tO2mbyqmU99q_yBA?pwd=80v1"
+    },
+    {
+      "name": "Mac 英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TJA3dgB9472"
+    },
+    {
+      "name": "Win 中文版 - 汉化版",
+      "url": "https://www.lookae.com/hjrtc18ch/"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "特别添加基于时间的图层映射功能",
+      "M1 原生支持已添加到 Grow Bounds 工具",
+      "修复 Particular TC-7312：调整关键帧后预览不更新",
+      "修复 Particular TC-7243：图层映射忽略关键帧",
+      "修复 Particular TC-7086：旧项目迁移改进",
+      "修复 Particular TC-6920：调整寿命曲线点可能导致 AE 崩溃",
+      "修复 Particular TC-7185：M1 上以 Rosetta 模式使用 GPU 加速时空白渲染异常",
+      "修复 Form TC-6920：调整寿命曲线点可能导致 AE 崩溃",
+      "修复 Form TC-7185：M1 上以 Rosetta 模式使用 GPU 加速时，含相机合成出现异常",
+      "修复 3D Stroke TC-6685：降低预览分辨率下描边发生偏移"
+    ],
+    "included_plugins": [
+      "Tao v18.1.0 - 三维几何图形插件",
+      "Particular v18.1.0 - 超炫粒子插件",
+      "Form v18.1.0 - 三维空间粒子插件（仅限 Windows）",
+      "Mir v18.1.0 - 三维图形插件",
+      "Shine v18.1.0 - 放射光插件",
+      "Lux v18.1.0 - 聚光灯插件",
+      "3D Stroke v18.1.0 - 3D路径描边插件",
+      "Echospace v18.1.0 - 三维立体拖尾延迟插件",
+      "Targlow v18.1.0 - 星光插件",
+      "Sound Keys v18.1.0 - 音频关键帧插件",
+      "Horizon v18.1.0 - 无限场景（天空）插件"
+    ],
+    "system_requirements": "最低需 Windows 10 系统支持",
+    "notes": "部分插件在 Premiere Pro 中支持有限，建议优先在 After Effects 中使用"
+  }
+}

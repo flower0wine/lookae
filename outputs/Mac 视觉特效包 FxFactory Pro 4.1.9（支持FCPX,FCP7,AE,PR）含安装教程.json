@@ -1,0 +1,66 @@
+{
+  "title": "Mac 视觉特效包 FxFactory Pro 4.1.9（支持FCPX,FCP7,AE,PR）含安装教程",
+  "slug": "mac-shi-jue-te-xiao-bao-fxfactory-pro-4-1-9-zhi-chi-fcpx-fcp7-ae-pr-han-an-zhuang-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014/09/28 16:09",
+  "source_url": "https://www.lookae.com/fxfactory419/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "fcp",
+    "FCPX",
+    "FCPX插件",
+    "FxFactory",
+    "MAC"
+  ],
+  "content": "FxFactory for Mac是一款强大的视觉特效处理包，为Final Cut Express和Adobe After Effects插件提供最大集合，可增强Final Cut Pro等软件的特效效果。此为最新版本FxFactory Pro 4.1.9，改进了功能，新增一些特效插件，包含众多视觉效果，支持GPU加速，涵盖多种插件类型。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/fxfactory-416.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "FxFactory Pro v4.1.9 improves support for OS X Yosemite and performance when stacking multiple Nodes 2 effects in the same timeline.",
+  "supported_os": "OS X Lion / Mountain Lion / Mavericks 10.7 - 10.9",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/74531264"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1jGmlRJg"
+    },
+    {
+      "name": "专业完整版下载（一键安装）",
+      "url": "https://item.taobao.com/item.htm?id=42094760365"
+    }
+  ],
+  "other": {
+    "software_requirements": "Final Cut Pro 7, Final Cut Pro X, Motion 4, 5, Adobe After Effects CS5, CS5.5, CS6, CC, CC 2014, Adobe Premiere Pro CS6, CC, CC 2014",
+    "uninstall_method": "在插件完全窗口选择：Actions – Uninstall FxFactory 即可完成卸载。如果卸载报错，可先安装软件程序，再直接卸载。",
+    "video_installation_tutorial": "应要求重新录制安装教程，加入AE和PR版本安装方法。",
+    "website": "http://fxfactory.com/",
+    "registration_limitations": "新版本插件注册机不支持10.9.5和10.10系统",
+    "related_links": [
+      {
+        "name": "更多免费Final Cut Pro X系列插件下载",
+        "url": "https://www.lookae.com/tag/fcpx/"
+      },
+      {
+        "name": "更多精品Final Cut Pro X插件下载",
+        "url": "https://lookae.taobao.com/category-766045292.htm"
+      },
+      {
+        "name": "更多精品素材下载",
+        "url": "https://www.lookae.com/others/sucaigongcheng/"
+      },
+      {
+        "name": "高速通道下载精品素材",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助LookAE.com网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

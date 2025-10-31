@@ -1,0 +1,84 @@
+{
+  "title": "红巨人粒子特效套装AE插件 Red Giant Trapcode Suite 15.0.0 Win/Mac",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-aecha-jian-red-giant-trapcode-suite-15-0-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2018-10-30T21:11:00Z",
+  "source_url": "https://www.lookae.com/trapcode-15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Particular",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Trapcode Suite 15.0.0 是一款功能强大的粒子特效插件套装，适用于 Adobe After Effects 和 Premiere Pro。该版本对 Particular、Form、Mir 等核心插件进行了重大更新，引入了流体动力学模拟、新预设、文本发射器（Text emitters）和遮罩发射器（Mask emitters）等功能，显著提升了粒子系统的灵活性与视觉表现力。支持跨平台使用，兼容 Windows 与 Mac 系统，并可在多个版本的 CC 软件中运行。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Trapcode-15.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/212168328083.mp4?_=1"
+  ],
+  "supported_versions": "CC 2014, CC 2015, CC 2017, CC 2018, CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win 系统版 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-317174059"
+    },
+    {
+      "name": "Win 系统版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1aMDVHMZq2RkFvdwHc_Khmg"
+    },
+    {
+      "name": "Mac 苹果版 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-317174052"
+    },
+    {
+      "name": "Mac 苹果版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1zDk2GwIJS-2d2CCAWZDheA"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Trapcode Tao 1.2.3 - 三维几何图形插件",
+      "Trapcode Particular 4.0.0 - 超炫粒子插件（大更新）",
+      "Trapcode Form 4.0.0 - 三维空间粒子插件（大更新）",
+      "Trapcode Mir 3.0.0 - 三维图形插件（大更新）",
+      "Trapcode Shine 2.0.4 - 放射光插件",
+      "Trapcode Lux 1.4.1 - 聚光灯插件",
+      "Trapcode 3D Stroke 2.7.3 - 3D路径描边插件",
+      "Trapcode Echospace 1.1.10 - 三维立体拖尾延迟插件",
+      "Trapcode Starglow 1.7.4 - 星光插件",
+      "Trapcode Sound Keys 1.4.1 - 音频关键帧插件",
+      "Trapcode Horizon 1.1.11 - 无限场景（天空）插件"
+    ],
+    "update_notes": {
+      "Particular_4": [
+        "界面UI变化",
+        "添加流体动力学",
+        "新增预设",
+        "支持Text emitters",
+        "支持Mask emitters"
+      ],
+      "Form_4": [
+        "界面UI变化",
+        "添加流体动力学",
+        "新增预设",
+        "支持Text forms",
+        "支持Mask forms"
+      ],
+      "Mir_3": [
+        "新增模型库和材质",
+        "支持导入OBJ模型作为Mir曲面"
+      ]
+    },
+    "registration": {
+      "serial_number": "TCBK2245868172939255",
+      "registration_method": "在安装完成后点击 Enter Licensing Info… 输入序列号并提交，即可完成全部插件注册",
+      "note": "一个注册号仅限于一台电脑在局域网内使用，多设备共用将导致注册失效"
+    },
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "official_store": "https://lookae.taobao.com/"
+  }
+}

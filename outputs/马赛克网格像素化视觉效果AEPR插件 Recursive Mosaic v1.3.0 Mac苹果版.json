@@ -1,0 +1,84 @@
+{
+  "title": "马赛克网格像素化视觉效果AE/PR插件 Recursive Mosaic v1.3.0 Mac苹果版",
+  "slug": "ma-sai-ke-wang-ge-xiang-su-hua-shi-jue-xiao-guo-ae-prcha-jian-recursive-mosaic-v1-3-0-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2024-06-20 10:26",
+  "source_url": "https://www.lookae.com/recursive-mosaic-130/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "Recursive Mosaic 是一款可将图像递归细分为网格并保留/丢弃任意细节的像素化插件，适用于 After Effects 与 Premiere Pro。通过控制网格宽度、高度、最大迭代次数及通道选择，实现从大块马赛克到精细像素化的自由过渡，同时支持用外部图层作为强度源，轻松模拟 JPEG 压缩伪影或创造新颖视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Recursive-Mosaic.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v1.3.0",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1312170586-46fe6b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XeBNn7vmGrRcUYfCwzfGnQ?pwd=hxov"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/PmtQvEUHDUQ"
+    }
+  ],
+  "other": {
+    "win_download_link": "https://www.lookae.com/mosaic-12/",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "hxov"
+    },
+    "compatible_software": {
+      "After Effects": [
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "CC 2019",
+        "CC 2018",
+        "CC 2017",
+        "CC 2015",
+        "CC 2014",
+        "CC",
+        "CS6"
+      ],
+      "Premiere Pro": [
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "CC 2019",
+        "CC 2018",
+        "CC 2017",
+        "CC 2015",
+        "CC 2014",
+        "CC",
+        "CS6"
+      ]
+    },
+    "v1.3_changelog": [
+      "曲线相位分割（仅限 RGB 过滤）- R/B 分量的额外曲线相移",
+      "修复了构图高度超过 4096 像素的未注册版本的崩溃问题（水印错误）",
+      "Aescripts 框架 v4.0.7 – 改进了许可证检查的稳定性"
+    ],
+    "plugin_parameters": [
+      "通道选择：亮度 / RGB / 红 / 绿 / 蓝 / Alpha",
+      "马赛克强度：0 保留原图，1 最大块化",
+      "强度源：可用外部图层/轨道控制效果",
+      "网格宽度：初始水平细分数",
+      "网格高度：初始垂直细分数",
+      "最大迭代次数：控制递归深度"
+    ]
+  }
+}

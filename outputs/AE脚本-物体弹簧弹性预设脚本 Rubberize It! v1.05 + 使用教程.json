@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-物体弹簧弹性预设脚本 Rubberize It! v1.05 + 使用教程",
+  "slug": "aejiao-ben-wu-ti-dan-huang-dan-xing-yu-she-jiao-ben-rubberize-it-v1-05-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-11-20 21:36",
+  "source_url": "https://www.lookae.com/rubberize-105/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一个AE脚本，可以将图形层中的元素模拟成具有弹簧弹性效果，使其更符合力学。脚本能够控制众多属性，并包含视频操作教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Rubberize-It-1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（脚本）",
+      "url": "https://089u.com/file/680462-471994058"
+    },
+    {
+      "name": "百度网盘下载（脚本）",
+      "url": "https://pan.baidu.com/s/1E363aJFt3gQa_jx91IpjEw"
+    },
+    {
+      "name": "城通网盘下载（教程）",
+      "url": "https://tc5.us/file/680462-413451513"
+    },
+    {
+      "name": "百度网盘下载（教程）",
+      "url": "https://pan.baidu.com/s/1v9tSCtLE8SQLXoyNLyteJA"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "vjd9",
+    "update_description": "v1.05更新内容：更新许可证框架",
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本。"
+  }
+}

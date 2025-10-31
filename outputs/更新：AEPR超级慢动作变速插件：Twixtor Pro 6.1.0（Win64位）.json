@@ -1,0 +1,43 @@
+{
+  "title": "更新：AE/PR超级慢动作变速插件：Twixtor Pro 6.1.0（Win64位）",
+  "slug": "geng-xin-ae-prchao-ji-man-dong-zuo-bian-su-cha-jian-twixtor-pro-6-1-0-win64wei",
+  "author": "大众脸",
+  "post_date": "2014/06/15 22:18",
+  "source_url": "https://www.lookae.com/twixtor610/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Twixtor",
+    "win64"
+  ],
+  "content": "Twixtor Pro 是 Vision Effects 公司开发的一款广受欢迎的视频变速插件，能够无级地减慢、加速或变更连续图像的帧速率，从而实现流畅且高质量的慢动作或快动作视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/twixtor6.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/66646878"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bnpf5G7"
+    }
+  ],
+  "other": {
+    "demo_section": "【效果DEMO】",
+    "official_link": "http://revisionfx.com/products/twixtor/overview/",
+    "changelog": "修正已知BUG，提升了计算速率。",
+    "related_posts": [
+      "https://www.lookae.com/twixtor-601/",
+      "https://www.lookae.com/twixtor6/",
+      "https://www.lookae.com/twixtor-52/",
+      "https://www.lookae.com/twixtor515/",
+      "https://www.lookae.com/fcpx-twixtor54/"
+    ]
+  }
+}

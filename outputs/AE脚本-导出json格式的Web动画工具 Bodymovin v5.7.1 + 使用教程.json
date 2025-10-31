@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-导出json格式的Web动画工具 Bodymovin v5.7.1 + 使用教程",
+  "slug": "aejiao-ben-dao-chu-jsonge-shi-de-webdong-hua-gong-ju-bodymovin-v5-7-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/08/05 21:39",
+  "source_url": "https://www.lookae.com/bodymovin-571/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款用于导出Web动画的After Effects扩展，动画可导出为.json文件，并使用随插件附带的bodymovin.js播放器。能在svg、canvas和html上在浏览器中渲染动画，也可通过Lottie在iOS和Android上本地播放。V5.7.0有报告改进、表达式相关修复及支持褶皱和膨胀等新特性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Bodymovin.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（脚本）",
+      "url": "https://089u.com/file/680462-456228170"
+    },
+    {
+      "name": "百度网盘下载（脚本）",
+      "url": "https://pan.baidu.com/s/1dcvQp5rg-Rv6KLkwcI0-xA",
+      "extraction_code": "ghz4"
+    },
+    {
+      "name": "城通网盘下载（使用教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-382843706"
+    },
+    {
+      "name": "百度网盘下载（使用教程）",
+      "url": "https://pan.baidu.com/s/1qGkQJb27DRqeeOMZ-73uKg",
+      "extraction_code": "tm91"
+    }
+  ],
+  "other": {
+    "script_introduction": "用于导出Web动画的After Effects扩展。 动画导出为.json文件，使用随插件附带的bodymovin.js播放器。 您可以在svg，canvas和html上在浏览器中渲染动画。 它支持After Effects功能的子集。 动画也可以通过Lottie在iOS和Android上本地播放，带脚本使用视频教程。An After Effects extension to export animations for web. Animations are exported as .json files that use the bodymovin.js player that comes along with the plugin. You can render animations in the browser on svg, canvas and html. It supports a subset of After Effects features. Animations can also be played natively on iOS and Android through Lottie",
+    "v5_7_0_new_features": "-报告：改进的动画报告  -修复：表达式分离标注  -修复：表达式的propertyGroup（支持Duik骨骼）  -特点：支持褶皱和膨胀"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Win/Mac版：AE插件：玻璃大眼珠动画特效 Video Copilot Glass Eyes 1.0.6",
+  "slug": "win-macban-aecha-jian-bo-li-da-yan-zhu-dong-hua-te-xiao-video-copilot-glass-eyes-1-0-6",
+  "author": "大众脸",
+  "post_date": "2016-04-02",
+  "source_url": "https://www.lookae.com/glasseyes/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AK",
+    "Video Copilot",
+    "Win/Mac"
+  ],
+  "content": "Video Copilot 发布的免费 AE 插件，可快速生成逼真的玻璃眼球动画。支持自定义瞳孔大小、颜色、转动速度及高光阴影，只需添加到固态层并跟踪眼部即可。适用于恐怖、婚礼或创意场景特效。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2cJwSmXXXXXcQXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2c6QZmXXXXXbMXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2_3wJmXXXXXX7XpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2BuwYmXXXXXb7XXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/36648221.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS5 – CC 2015",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "Windows 城通网盘",
+      "url": "http://lookae.ctfile.com/fs/7FS147332845"
+    },
+    {
+      "name": "Mac 城通网盘",
+      "url": "http://lookae.ctfile.com/fs/yPE147332800"
+    },
+    {
+      "name": "Windows 官网直链",
+      "url": "http://vcproducts.s3.amazonaws.com/free/googlie/GlassEyesInstall_1.0.6_Win.zip"
+    },
+    {
+      "name": "Mac 官网直链",
+      "url": "http://vcproducts.s3.amazonaws.com/free/googlie/GlassEyesInstall_1.0.6_Mac.zip"
+    }
+  ],
+  "other": {
+    "官网介绍页": "http://www.videocopilot.net/blog/2016/04/another-new-plug-in/",
+    "主要用途": [
+      "创建令人毛骨悚然的视频",
+      "特殊婚礼视频",
+      "提高你最喜欢的电影场景",
+      "增加个性"
+    ],
+    "特点": [
+      "自定义属性",
+      "瞳孔大小控制",
+      "瞳孔颜色",
+      "转动的速度和数量",
+      "高光"
+    ]
+  }
+}

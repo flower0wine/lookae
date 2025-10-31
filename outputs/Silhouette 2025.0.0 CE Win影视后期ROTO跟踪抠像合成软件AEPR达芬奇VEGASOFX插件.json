@@ -1,0 +1,62 @@
+{
+  "title": "Silhouette 2025.0.0 CE Win影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/VEGAS/OFX插件",
+  "slug": "silhouette-2025-0-0-ce-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-vegas-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2025-06-03T09:05:00Z",
+  "source_url": "https://www.lookae.com/silhouette-2025/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ROTO抠像",
+    "Silhouette 2025",
+    "后期合成",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 2025.0.0 CE 是一款专为影视后期制作设计的高端动态描画与合成工具，广泛应用于电影、电视及广告领域。该版本由视觉特效艺术家打造，曾获奥斯卡与艾美奖认可，被用于《死侍与金刚狼》《叛逆之月》《芭比娃娃》《沙丘》《三体问题》等大片中。其核心功能包括强大的节点式合成系统（支持400+视觉特效节点）、3D场景处理能力、机器学习驱动的深度图与遮罩优化、智能变形与修复技术，以及对主流剪辑与调色软件的全面兼容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Silhouette-2025.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/521612748646.mp4"
+  ],
+  "supported_versions": "Silhouette 2025.0.0 CE, After Effects CC 2019–2025+, Premiere 2020–2025+, 支持 OFX 系列软件（如 Vegas、DaVinci Resolve、Nuke、Fusion）",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1510788556-b6444c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wqgI1eDrgdGvYgFowqPOyA?pwd=ak6g"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/upTTStrknX2"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "3D场景：支持导入 Alembic/FBX，可在3D感知环境中进行稳定、绘制与合成。",
+      "Matte Refine ML：将硬边遮罩自动转换为平滑自然的半透明过渡，保留头发、毛皮等细节。",
+      "深度图机器学习：通过AI即时生成深度图，实现基于深度的模糊控制、色彩校正与遮罩创建。",
+      "PowerMesh 变形：利用 Mocha 亚平面网格跟踪，在关键帧间生成逼真变形效果。",
+      "取消投影/重新投影：在锁定3D序列上绘画后恢复原始运动轨迹。",
+      "复合节点：可将多个节点合并为一个模块化节点，便于参数共享与复用。",
+      "车架固定器 ML：使用AI修复闪光帧与损坏镜头，生成干净替代画面。",
+      "更新了 Sapphire、Mocha Pro、Particle Illusion 节点至 2025 版本，包含新创意效果与预设。"
+    ],
+    "related_resources": [
+      {
+        "title": "中文汉化版 Silhouette 2024.5.3 Win",
+        "url": "https://www.lookae.com/silhouette-ch/"
+      }
+    ],
+    "license_type": "CE 一键安装版",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "ak6g"
+    }
+  }
+}

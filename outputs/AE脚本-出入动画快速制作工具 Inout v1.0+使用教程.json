@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-出入动画快速制作工具 Inout v1.0+使用教程",
+  "slug": "aejiao-ben-chu-ru-dong-hua-kuai-su-zhi-zuo-gong-ju-inout-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-28T12:11:00Z",
+  "source_url": "https://www.lookae.com/inout/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "出入动画"
+  ],
+  "content": "InOut 是一款专为 After Effects 设计的脚本工具，可实现任意属性（如位置、比例、旋转、不透明度等）在入点（In）和出点（Out）处的自动动画效果，无需手动添加关键帧。其动画逻辑基于图层的 inPoint 和 outPoint，用户可在时间轴上自由调整持续时间和位置，所有动画将自动跟随变化。通过简洁的界面，可轻松自定义动态过渡效果，支持完全可调节的值、动画和插值方式。该工具无需复杂表达式，直接从效果面板控制转换过程，是制作模板和基础属性动画的理想选择。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/Inout-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/528265999073.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1546121911-409854?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1BYkgHkn7KOxjnJRVpLzWTA?pwd=bvwj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/yQpRDpcKfp7"
+    }
+  ],
+  "other": {
+    "original_post_date": "2025/07/28 12:11",
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e5%87%ba%e5%85%a5%e5%8a%a8%e7%94%bb/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "bvwj"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "摄像机反求跟踪摩卡AE/PR/OFX/达芬奇/AVX插件 Mocha Pro 2024 v11.5.0 CE Win",
+  "slug": "she-xiang-ji-fan-qiu-gen-zong-mo-qia-ae-pr-ofx-da-fen-qi-avxcha-jian-mocha-pro-2024-v11-5-0-ce-win",
+  "author": "大众脸",
+  "post_date": "2024-07-27T23:17:00Z",
+  "source_url": "https://www.lookae.com/mocha-115/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mocha Pro",
+    "OFX插件",
+    "PR插件",
+    "摩卡跟踪",
+    "达芬奇插件"
+  ],
+  "content": "Mocha Pro 是一款世界知名的软件和插件，用于平面运动跟踪、3D 跟踪、动态观察、对象移除、图像稳定和 PowerMesh 有机扭曲跟踪。得益于集成 SynthEyes 核心 3D 跟踪算法的强大功能，Mocha Pro 可以以极快的速度自动检测、分析和解决摄像机问题。其屡获殊荣的 UI 和平面跟踪技术，支持无缝的 3D 合成、动画与动态图形创作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/03/Mocha-Pro-2024.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/453683423300.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014 – 2024, Premiere CC 2014 – 2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1337192521-64c4a0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/14kszVR9bzy1skfE8LZFceg?pwd=1k2t"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/oA4bpW912Nv"
+    }
+  ],
+  "other": {
+    "mocha_pro_updates": [
+      "新的 3D 模块：具有工作区视图和导航控件。",
+      "3D 相机解算器：基于 SynthEyes 核心技术。",
+      "基于平面的求解：能够将平面和 PowerMesh 轨迹与特征点相结合，以获得强大的解决方案。",
+      "Roto-Spline 工作流程：平面跟踪样条线可减少 3D 相机求解的遮挡。",
+      "PowerMesh 工作流程：合并到 3D 解算器中以构建可导出的 3D 网格。",
+      "3D 跟踪和摄像机求解：用于合成、动画和运动图形创建的简化匹配动作。",
+      "高级跟踪和 Roto 工具：通过跳过或跨帧等选项更有效地处理任务。",
+      "更快的性能：通过大幅提高渲染速度并提高跟踪精度，节省大量时间。",
+      "按照您想要的方式工作：USD 导出和更大的 AE 主机集成。"
+    ],
+    "compatible_software": {
+      "adobe_series": [
+        "After Effects CC 2014 – 2024",
+        "Premiere CC 2014 – 2024"
+      ],
+      "ofx_series": [
+        "Silhouette",
+        "NUKE",
+        "Fusion",
+        "达芬奇DaVinci Resolve",
+        "VEGAS Pro",
+        "HitFilm Pro"
+      ],
+      "avx_plugin": "Avid Media Composer v8 – 2022 或更高",
+      "standalone": "可作为独立程序单独使用（暂无）"
+    },
+    "related_links": [
+      "https://www.lookae.com/tag/mocha%e4%b8%ad%e6%96%87/"
+    ],
+    "download_passwords": {
+      "chengtong": "6688",
+      "baidu": "1k2t"
+    }
+  }
+}

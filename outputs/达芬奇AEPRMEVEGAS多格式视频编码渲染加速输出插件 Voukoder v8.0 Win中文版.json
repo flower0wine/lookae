@@ -1,0 +1,64 @@
+{
+  "title": "达芬奇/AE/PR/ME/VEGAS多格式视频编码渲染加速输出插件 Voukoder v8.0 Win中文版",
+  "slug": "da-fen-qi-ae-pr-me-vegasduo-ge-shi-shi-pin-bian-ma-xuan-ran-jia-su-shu-chu-cha-jian-voukoder-v8-0-winzhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2021-05-25T09:57:00Z",
+  "source_url": "https://www.lookae.com/voukoder-8/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件",
+    "Voukoder",
+    "达芬奇插件"
+  ],
+  "content": "Voukoder 是一款免费开源的 Windows 系统级视频与音频编码服务，可显著提升媒体编码效率。支持多种基于 CPU 与 GPU 的编码器（如 H.264、HEVC/H.265、ProRes 等），并提供一系列后处理滤镜。若显卡具备硬件编码能力，编码速度最高可达实时的 4-8 倍。目前已兼容 Adobe Premiere CS6–2020、After Effects CS6–2020、Media Encoder CS6–2020、DaVinci Resolve 17（新增接口）、VEGAS Pro 12–18 及 VirtualDub2。支持主流格式如 MP4、MOV，并新增对 Opus、Vorbis、FFV1（RGBA 8/16位）等格式的支持，同时优化了时间码嵌入与帧大小一致性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Voukoder-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01rMqTBm1vSMmOVwY7c_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297172470493.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6 – 2020, After Effects CS6 – 2020, Media Encoder CS6 – 2020, DaVinci Resolve 17, VEGAS Pro 12–18, VirtualDub2",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-486119413-55dba2"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1C-eFG5oLgc6WmWkA5tfj7Q"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了视频仅从原始帧大小裁剪出较小视频的错误",
+      "修复了音频帧大小不一致的错误",
+      "向 MP4 格式添加了 Opus 和 Vorbis 支持",
+      "添加了 MOV 和 MP4 格式（TIM, TSC, TSZ）的时间码信息",
+      "向 FFV1 编码器添加了 RGBA 像素格式（8位和16位）",
+      "更新了 FFmpeg 核心"
+    ],
+    "additional_resources": [
+      {
+        "name": "达芬奇接口（额外下载）",
+        "links": [
+          {
+            "name": "城通网盘",
+            "url": "https://089u.com/f/680462-496612509-cc255c",
+            "password": "6688"
+          },
+          {
+            "name": "百度网盘",
+            "url": "https://pan.baidu.com/s/1aWa1m8HdVRIvXl47jX8cWQ",
+            "password": "tv2j"
+          }
+        ]
+      }
+    ],
+    "official_website": "https://www.voukoder.org/",
+    "language_support": "支持中文（点击 Settings 即可切换）"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "更新：AE/PR特效套装插件 9.01",
+  "slug": "geng-xin-ae-prte-xiao-tao-zhuang-cha-jian-9-01",
+  "author": "大众脸",
+  "post_date": "2014-05-05T22:34:00Z",
+  "source_url": "https://www.lookae.com/bcc901/",
+  "category": "aechajian",
+  "tags": [
+    "Adobe64",
+    "AE插件",
+    "Win64位"
+  ],
+  "content": "Boris Continuum Complete 9.01 是 BorisFX 公司推出的适用于 Adobe 软件的视频特效插件套装，支持 After Effects 和 Premiere Pro 的 64 位版本。该版本包含超过 200 种特效效果及上千种预设，涵盖 3D 字幕、粒子、光线、镜头光晕、烟雾、火焰、调色、键控抠像、遮罩、发光等专业功能。新版本优化了操作界面，提升工作效率，并新增 30 种转场特效，支持 OpenGL 与 CUDA 显卡加速，显著提高运算性能。适用于 Adobe Premiere Pro CS5 至 CC 以及 After Effects CS5 至 CC 的 64 位系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/BCC9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5 - CC",
+  "supported_os": "Win64位",
+  "download_links": [
+    {
+      "name": "AE/PR特效套装插件：BorisFX Boris Continuum Complete 9.01 （BCC9）",
+      "url": "https://www.400gb.com/file/64137643"
+    }
+  ],
+  "other": {
+    "demo_link": "【效果DEMO】",
+    "official_website": "http://www.borisfx.com/Continuum-Complete/BCC9.php",
+    "related_mac_version": {
+      "name": "Mac版本：Boris Continuum Complete 8.11（BBC-8.11）",
+      "url": "http://www.ctdisk.com/file/11312833"
+    },
+    "company": "Boris FX 是视频特效领域的领先开发商之一，其产品线包括 Boris Continuum Complete (BCC)、Final Effects Complete (FEC)、Boris RED、Boris Graffiti 等。",
+    "features": [
+      "操作界面更直观，效率更高",
+      "新增30种转场特效",
+      "支持Open GL和CUDA显卡加速"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-图片描边视觉特效文字标题动画调色预设 Photo Animator Effects",
+  "slug": "aejiao-ben-tu-pian-miao-bian-shi-jue-te-xiao-wen-zi-biao-ti-dong-hua-diao-se-yu-she-photo-animator-effects",
+  "author": "大众脸",
+  "post_date": "2022/01/19 15:53",
+  "source_url": "https://www.lookae.com/photo-effects/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX"
+  ],
+  "content": "Photo Animator Effects 是一套专为 After Effects 设计的视觉特效脚本，可实现图片描边、动态文字标题动画与调色预设。该工具通过 AtomX 脚本驱动，支持快速创建生动的照片动画效果，适用于视频宣传、活动发布和情感表达。内置文字排版元素与色彩校正预设，可显著提升作品的专业感。使用简单：选择效果 → 添加照片 → 绘制蒙版 → 完成输出。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/34858726.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/346353647261.mp4"
+  ],
+  "supported_versions": "AE CC 2019 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-538381609-a3c1df"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1QRAmiGZ5-5dmy6qSeZ7XGA?pwd=n4pr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ZK7KPSVShcj"
+    }
+  ],
+  "other": {
+    "file_info": {
+      "resolution": "不限制",
+      "extension": "AtomX 3.0.5 脚本（已包含，亲测可用）",
+      "audio": "无音乐，有转场音效",
+      "file_size": "738M",
+      "installation_note": "安装后请勿移动安装文件，否则失效。",
+      "help": "安装方法 + 视频使用教程"
+    },
+    "related_links": [
+      "https://www.lookae.com/tag/atomx/"
+    ],
+    "music_reference": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "AE插件：变形3D网格插件套装 Mettle Bundle V1.76 CE",
+  "slug": "aecha-jian-bian-xing-3dwang-ge-cha-jian-tao-zhuang-mettle-bundle-v1-76-ce",
+  "author": "大众脸",
+  "post_date": "2015-09-25T10:51:00Z",
+  "source_url": "https://www.lookae.com/mettlebundle176/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle公司是Adobe After Effects的重要插件提供商，其插件虽不多但品质精良。本套件为最新版本V1.76 CE，包含多款高效3D网格变形与环境贴图工具，适用于创建复杂动画效果，如液态金属文字、3D立体文字、全景环境反射等。插件支持多个After Effects版本，提供一键安装，即装即用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/Mettle-Bundle.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS4, CS5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Win版",
+  "download_links": [
+    {
+      "name": "AE插件：变形3D网格插件套装 Mettle Bundle V1.76 CE",
+      "url": "https://www.400gb.com/file/119962910"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "Mac/Win版：AE插件：变形3D网格插件套装 Mettle Bundle V1.75",
+        "url": "https://www.lookae.com/mettlebundle175/"
+      },
+      {
+        "title": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "title": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "title": "官网地址",
+        "url": "http://www.mettle.com/"
+      }
+    ],
+    "plugins_included": [
+      {
+        "name": "FreeForm V2.1",
+        "description": "网格变形插件（普通版），可用于创建圆柱、曲线、折痕、地形、隧道、水流动画等。"
+      },
+      {
+        "name": "FreeForm Pro v1.76",
+        "description": "3D网格变形插件（专业版），支持制作液态金属标志动画，被《3D Artist Magazine》专题介绍。"
+      },
+      {
+        "name": "ShapeShifter v7.76",
+        "description": "3D立体文字插件，可在After Effects中直接设计和动画化3D Logo，支持背景、3D形变等。"
+      },
+      {
+        "name": "SkyBox v2.02",
+        "description": "360°环境贴图反射插件，可利用常用AE插件生成全景环境与反射贴图，是高效的生产工具。"
+      }
+    ],
+    "note": "本文提及的版本为1.76 CE，但部分功能描述参考了1.75版本内容。"
+  }
+}

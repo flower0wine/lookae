@@ -1,0 +1,92 @@
+{
+  "title": "更新：AE插件：Element 3D 1.6.1 完美版（Win&Mac）（附插件汉化补丁）",
+  "slug": "geng-xin-aecha-jian-element-3d-1-6-1-wan-mei-ban-win-mac-fu-cha-jian-yi-hua-bu-ding",
+  "author": "大众脸",
+  "post_date": "2013-07-23T16:32:00",
+  "source_url": "https://www.lookae.com/e3d161/",
+  "category": "aechajian",
+  "tags": [
+    "AK",
+    "VideoCopilot"
+  ],
+  "content": "VideoCopilot Element 3D更新至1.6.1 版本。性能上有了很大的提升，修复多个BUG，支持 AE CC。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/07/E3D161.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC",
+  "supported_os": "Windows, MacOSX",
+  "download_links": [
+    {
+      "name": "Windows 完美版",
+      "url": "https://www.400gb.com/file/25832484"
+    },
+    {
+      "name": "MacOSX 安装版",
+      "url": "https://www.400gb.com/file/25829624"
+    },
+    {
+      "name": "Win 版 E3D 1.6.1 插件中文汉化版",
+      "url": "https://www.400gb.com/file/26830631"
+    }
+  ],
+  "other": {
+    "changes": [
+      "Fixed incorrect World Position Null when using downsampling.",
+      "Fixed Matte materials when using Supersampling.",
+      "Fixed slowdown when using 3D Object replicator.",
+      "Fixed crashes when using Generate 3D Position.",
+      "Fixed crash when using Multi Processor rendering.",
+      "Fixed environment map not relinking properly.",
+      "Changed Default settings of Extrude tool.",
+      "Added AE CC directory to installer."
+    ],
+    "related_links": [
+      {
+        "title": "MAC版： Element 3D v 1.6",
+        "url": "https://www.lookae.com/mac-e3d16/"
+      },
+      {
+        "title": "更新：AE插件 Element3d v1.6（仅windows）",
+        "url": "https://www.lookae.com/e3d16/"
+      },
+      {
+        "title": "更新：AE插件 Element3d_1.5.409",
+        "url": "https://www.lookae.com/e3d-15/"
+      },
+      {
+        "title": "AE插件Element 3D MAC完美版（CS3-CS6）(附安装教程)",
+        "url": "https://www.lookae.com/mac-e3d/"
+      },
+      {
+        "title": "AK插件Element 3d 1.0.345-英文/中文完美版 – WIN 版本",
+        "url": "https://www.lookae.com/e3d-chn/"
+      },
+      {
+        "title": "更新：AK插件 Element 3D 实例教程",
+        "url": "https://www.lookae.com/e3d-jc2/"
+      },
+      {
+        "title": "Element3D PC+MAC 体验版（附安装说明）",
+        "url": "https://www.lookae.com/element3d-pcmac/"
+      },
+      {
+        "title": "videocopilot 最新插件Element 3D操作教程",
+        "url": "https://www.lookae.com/videocopilot-element-3d/"
+      },
+      {
+        "title": "Element 3D工作流程教程【中文字幕】",
+        "url": "http://115.com/file/benporas#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集--英文原版",
+        "url": "http://115.com/file/benmepto#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集--中文字幕",
+        "url": "http://115.com/file/beno9lkj#"
+      }
+    ],
+    "translator": "米松"
+  }
+}

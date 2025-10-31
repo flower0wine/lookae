@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本：关键帧缓入缓出曲线调节脚本AEscripts Flow v1.4.0b Win/Mac 支持 CC 2019",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-qu-xian-diao-jie-jiao-ben-aescripts-flow-v1-4-0b-win-mac-zhi-chi-cc-2019",
+  "author": "大众脸",
+  "post_date": "2019-01-12 22:09",
+  "source_url": "https://www.lookae.com/flow14/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "脚本拥有一个简单的操作界面，能够自定义动画曲线的效果，而不需要触摸图形编辑器。包含 25 种关键帧曲线效果，可自定义修改编辑，还可自定义保存自己调整的预设。带官方视频操作使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/Flow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015.2 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-330748063"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1fegHQQcsIE3xZUHCtGcTKw"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "official_website": "http://aescripts.com/flow/",
+    "changelog": [
+      "“读取值”现在尝试选择相应的Flow库项（如果存在）。",
+      "具有Flow表达式的属性上的“读取值”现在尝试识别应用的原始曲线。",
+      "将曲线应用于未分离的“位置”属性现在会提示您分隔尺寸。",
+      "SHIFT + CTRL 可应用反向缓动。（＃144）",
+      "为表达式添加一些生活质量改进。",
+      "更新AE CC 2019 16.0兼容性的表达式。",
+      "修复Scale的“读取值”返回不正确值。"
+    ],
+    "description_english": "Flow brings an easy interface to After Effects for customizing animation curves without needing to touch the graph editor."
+  }
+}

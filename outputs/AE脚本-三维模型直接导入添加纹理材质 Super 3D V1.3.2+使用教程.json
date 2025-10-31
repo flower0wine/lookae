@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-三维模型直接导入添加纹理材质 Super 3D V1.3.2+使用教程",
+  "slug": "aejiao-ben-san-wei-mo-xing-zhi-jie-dao-ru-tian-jia-wen-li-cai-zhi-super-3d-v1-3-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/12/19 13:12",
+  "source_url": "https://www.lookae.com/super-3d-132/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Super 3D"
+  ],
+  "content": "Super 3D是一款强大的After Effects扩展脚本，可以增强After Effects中的3D功能。您可以使用脚本自带的模型，或轻松添加一些基础的外置三维模型对象，进行模型替换、添加纹理材质等操作。该脚本具有响应式用户界面，支持将3D图层转换为实体图层以应用效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Super-3D.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/458021991181.mp4"
+  ],
+  "supported_versions": "After Effects 2024.1、2025 或更高版本",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1438963217-f95cda?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qTiCY5JbaIR0xjiFMFMErw?pwd=17yu"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/bfGz8AipWxc"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.3.2更新内容：修复了 After Effects 2025 支持、修复了向空 GLTF 文件添加材质的问题、修复了重复模型操作、修复了 GLTF 空材质索引的问题",
+    "features": [
+      "单击即可添加 3D 对象（支持GLB、GLTF格式模型）",
+      "替换现有图层上的模型或纹理，甚至使用动画",
+      "将 3D 图层转换为实体图层以应用效果",
+      "响应式用户界面"
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "17yu"
+    }
+  }
+}

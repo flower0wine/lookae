@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-从蒙版路径轻松创建螺旋图案动画 Spiral Maker v1.0.1 + 使用教程",
+  "slug": "aejiao-ben-cong-meng-ban-lu-jing-qing-song-chuang-jian-luo-xuan-tu-an-dong-hua-spiral-maker-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/19 10:21",
+  "source_url": "https://www.lookae.com/spiral-maker/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Spiral Maker 是一款 After Effects 脚本，可让您通过蒙版路径快速生成螺旋图案动画。该脚本支持一键创建螺旋、添加笔触与填充、选择是否烘烤、控制多个遮罩路径的开启与关闭，并可反转路径方向。适用于 Win/Mac 系统，兼容 After Effects 2020、CC 2019、CC 2018。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Spiral-Maker-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-467514711"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1xKiuH7RJXGbsyd-oczZJqg"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_link": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+    "script_demo_url": "https://aescripts.com/spiral-maker/",
+    "download_extract_code": "h5so"
+  }
+}

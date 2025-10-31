@@ -1,0 +1,45 @@
+{
+  "title": "更新：AE幻影粒子插件 Particle Illusion 1.041（Win/Mac）（含粒子库）",
+  "slug": "geng-xin-aehuan-ying-li-zi-cha-jian-particle-illusion-1-041-win-mac-han-li-zi-ku",
+  "author": "大众脸",
+  "post_date": "2013/10/22 22:21",
+  "source_url": "https://www.lookae.com/pi-104/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "GenArts",
+    "particleIllusion",
+    "Win/Mac",
+    "Win版32/64位",
+    "粒子插件"
+  ],
+  "content": "著名插件厂商GenArts收购wondertouch推出幻影粒子particleIllusion AE版本，目前支持After Effects所有版本。此插件在AE中相当于发射器，调用强大粒子库做动画，虽制作自定义粒子较被动，但库中粒子类型丰富，涵盖火焰、植物等。渲染速度提升，新版本增加对Windows 8.1的兼容支持。插件适用Win/Mac平台的After Effects CS4,CS5,CS6,CC。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/10/PI104.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS4,CS5,CS6,CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 完美版（含粒子库）",
+      "url": "https://www.400gb.com/file/32726588"
+    },
+    {
+      "name": "Mac 安装版（含粒子库）",
+      "url": "https://www.400gb.com/file/32592873"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "Mac 完美版",
+        "url": "https://www.lookae.com/mac-aecj/"
+      },
+      {
+        "name": "AE幻影粒子插件 particleIllusion_v1.0.2（32&64Bit）（含粒子库）",
+        "url": "https://www.lookae.com/piae102/"
+      }
+    ]
+  }
+}

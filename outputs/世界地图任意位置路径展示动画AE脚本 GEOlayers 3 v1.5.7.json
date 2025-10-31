@@ -1,0 +1,44 @@
+{
+  "title": "世界地图任意位置路径展示动画AE脚本 GEOlayers 3 v1.5.7",
+  "slug": "shi-jie-di-tu-ren-yi-wei-zhi-lu-jing-zhan-shi-dong-hua-aejiao-ben-geolayers-3-v1-5-7",
+  "author": "大众脸",
+  "post_date": "2023/05/17 13:36",
+  "source_url": "https://www.lookae.com/geolayers-157/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "地图工具"
+  ],
+  "content": "GEOlayers 3 使您可以直接在 After Effects 中设计和设置地图动画。它从不同的在线数据源为您呈现自定义地图，并提供对世界地理空间特征的广泛数据库的直接访问。您可以轻松地将建筑物绘制到 After Effects 形状图层上，突出显示国家边界、街道、湖泊、河流、地点、区域，为行驶路线设置动画以及拉伸建筑物。世界上任何具有地理数据的东西都可以在 After Effects 中集成为可编辑资产。GEOlayers 3 带有大量的默认地图样式，还支持一键根据构图、图像或 Adobe Swatch 文件创建配色方案，并可从常见的基于图像的 tileserver（如 Mapbox）检索底图。注意：加载部分地区地图可能需要网络代理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/GEOlayers-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-857920287-c51e90?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1RDGsuCGAZZHSylUK432vRQ?pwd=1hhf"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/zEgDQ1hftZ9"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-406328396"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1qOCA8Fg3qYw9N9Zk9T1nbA"
+    }
+  ],
+  "other": {
+    "update_notes": "修复预览地图为空的BUG"
+  }
+}

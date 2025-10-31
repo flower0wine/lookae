@@ -1,0 +1,68 @@
+{
+  "title": "中文汉化AE插件-静态图片局部流动循环动画特效 loopFlow v1.3.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jing-tai-tu-pian-ju-bu-liu-dong-xun-huan-dong-hua-te-xiao-loopflow-v1-3-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/11/19 10:47",
+  "source_url": "https://www.lookae.com/loopflow-13/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "loopFlow",
+    "中文汉化",
+    "循环动画"
+  ],
+  "content": "loopFlow 是一款 After Effects 插件，可将静止图像转换为循环动画视频。通过两个遮罩定义动画区域与流动方向，支持水流、烟雾、粒子、火焰等连续流体效果，也可用于头发、毛皮、织物或图案的动态表现。动画基于两遮罩之间生成的网格滑动图像区域，实现无缝循环。支持正向与反向播放，混合方式包括线性、柔和噪波和擦除，且可独立控制双层曲线。还提供可选扭曲和速度渐变功能，增强自然感。适用于 After Effects 2023 至 CC 2014 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/loopFlow-11.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356262399652.mp44"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win - 中英文版",
+      "url": "https://url70.ctfile.com/f/2827370-976793347-af1425?p=4431"
+    },
+    {
+      "name": "Win - 百度网盘",
+      "url": "https://pan.baidu.com/s/18sDBlus4unDI2yQRVSjrfg?pwd=zzzl"
+    },
+    {
+      "name": "Win - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/dk2pYBH6yrw"
+    },
+    {
+      "name": "Mac - 仅英文版",
+      "url": "https://url70.ctfile.com/f/2827370-1465769074-5cc17d?p=4431"
+    },
+    {
+      "name": "Mac - 百度网盘",
+      "url": "https://pan.baidu.com/s/1vKsPTjAucUiYd7-lbB4a9w?pwd=amh5"
+    },
+    {
+      "name": "Mac - 阿里云盘",
+      "url": "https://www.alipan.com/s/WAGGp6foSqR"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.3.1 更新内容：提高与 Intel HD GPU 的兼容性",
+    "usage_instructions": [
+      "1. 将静止图像添加到合成中",
+      "2. 在图像层上绘制2个蒙版（建议相同方向）",
+      "3. 将 loopFlow 效果应用到图层，分配 Mask1 和 Mask2",
+      "4. 完成！（默认循环时长为3秒，可在动画部分调整）"
+    ],
+    "plugin_features": [
+      "动画区域由两个蒙版定义",
+      "支持无缝循环动画，可启动或停止循环",
+      "动画可向前或向后移动",
+      "混合方式包括线性、柔和噪波、擦除",
+      "可单独控制双图层的混合过渡曲线",
+      "支持可选扭曲，使动画更自然",
+      "支持 Speed Ramp 动态调节流速"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Mac 版：Ae/Pr 视觉特效插件包 v10.0.1 BCC",
+  "slug": "mac-ban-ae-pr-shi-jue-te-xiao-cha-jian-bao-v10-0-1-bcc",
+  "author": "大众脸",
+  "post_date": "2016-04-06 11:15:00",
+  "source_url": "https://www.lookae.com/macbcc1001/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "强大的 BCC（Boris Continuum Complete ）视觉特效插件包 v10.0.1，为视频图像合成、处理、键控、着色、变形等提供全面的解决方案。支持 Open GL 和双 CPU 加速，包含超过百种特效效果，如 3D 字幕、3D 粒子、老电影、光线、画中画、镜头光晕、烟雾、火等，以及调色、键控/抠像、遮罩、跟踪、发光等一系列风格化工具。支持 Mac 系统下的 Adobe After Effects 和 Premiere Pro CS5 – CC 2015。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/BCC10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5 – CC 2015",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/Nn4147584022"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1nvvPYYX"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "Win 版：Ae/Pr 视觉特效插件包 Boris Continuum Complete AE v10.0.1 BCC",
+        "url": "https://www.lookae.com/bcc1001/"
+      },
+      {
+        "title": "AVID 视觉特效插件包 Boris Continuum Complete AVX v10 BCC",
+        "url": "http://page62.400gb.com/file/128904812"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-图层顺序随机分组排列工具 Random Roller v1.1.0+使用教程",
+  "slug": "aejiao-ben-tu-ceng-shun-xu-sui-ji-fen-zu-pai-lie-gong-ju-random-roller-v1-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/08/20 09:15",
+  "source_url": "https://www.lookae.com/random-roller-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层排列"
+  ],
+  "content": "Random Roller 主要功能是为图层或属性生成随机动画。它允许用户以可控的方式随机化关键帧、位置、旋转、缩放等属性，常用于制作自然、动态且富有变化的动画效果。\n\nSelect a random subset of selected layers, sort a selection of layers randomly into groups, or rearrange selected layers into a random order. Bend chaos to your will。\n\n脚本特点：\n\n* 一键生成：快速为多个图层添加随机动画。\n* 参数控制：可调节随机范围、速度、缓动等。\n* 批量处理：适合处理多个元素的随机运动，如标题、形状、图标等。\n* 非破坏性：可随时调整或删除随机效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/Random-Roller.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/528446032861.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8418500605-4544b0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1BcU70NoMPMH6cXS538B-rw?pwd=5riz"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/RiLhvanE9rk"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "5riz"
+    },
+    "update_log": "v1.1.0更新内容：添加了“随机选择顺序”功能（用于 After Effects 中的新快速偏移功能）。",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e5%9b%be%e5%b1%82%e6%8e%92%e5%88%97/"
+    ]
+  }
+}

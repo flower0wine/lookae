@@ -1,0 +1,68 @@
+{
+  "title": "中文汉化AE/PR插件-镜头景深虚焦模糊曲线调色发光特效合集 Frischluft bundle 2023.6 CE Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-jing-tou-jing-shen-xu-jiao-mo-hu-qu-xian-diao-se-fa-guang-te-xiao-he-ji-frischluft-bundle-2023-6-ce-win",
+  "author": "大众脸",
+  "post_date": "2023-07-26T11:51:00",
+  "source_url": "https://www.lookae.com/frischluft-bundle/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "Frischluft bundle 是一款适用于 After Effects 和 Premiere Pro 的插件合集，包含多款高质量视觉效果工具。该合集涵盖辉光发光、曲线调色、镜头景深模糊以及深度图处理等功能，广泛应用于后期制作中，提升视觉表现力与工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/07/Frischluft-bundle.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "英文版下载-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-897383877-9799c1?p=4431"
+    },
+    {
+      "name": "英文版下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1b-HRv8aWI6F3Jk-wNLhVXw?pwd=gemx"
+    },
+    {
+      "name": "英文版下载-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YWvmTrLC8sM"
+    },
+    {
+      "name": "中文版下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ffrischluft-bundle%2F"
+    }
+  ],
+  "other": {
+    "plugin_details": [
+      {
+        "name": "Flair",
+        "version": "v1.2.12",
+        "description": "辉光发光特效，支持闪耀、发光、辉光和闪光效果，具备16位和多CPU支持。"
+      },
+      {
+        "name": "Fresh Curves",
+        "version": "v1.1.6",
+        "description": "曲线调色工具，提供更精确的色彩校正控制，弥补原生After Effects曲线功能的不足。"
+      },
+      {
+        "name": "Lenscare",
+        "version": "v1.5.1",
+        "description": "镜头景深虚焦模糊插件，实现高质量相机模糊效果，适用于2D后期处理，减少3D渲染时间。"
+      },
+      {
+        "name": "Taronites ZbornToy",
+        "version": "v1.1.0",
+        "description": "深度图效果处理插件，可从深度图像中提取信息，支持照明、纹理、折射及焦散反射等高级效果。"
+      }
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "gemx"
+    },
+    "chinese_version_price": "8元"
+  }
+}

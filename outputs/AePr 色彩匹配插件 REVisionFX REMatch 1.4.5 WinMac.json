@@ -1,0 +1,43 @@
+{
+  "title": "Ae/Pr 色彩匹配插件 RE:VisionFX REMatch 1.4.5 Win/Mac",
+  "slug": "ae-pr-se-cai-pi-pei-cha-jian-re-visionfx-rematch-1-4-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2017-02-13T16:00:00Z",
+  "source_url": "https://www.lookae.com/rematch-145/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "RE:Match 是一组用于视频或电影画面色彩匹配的插件，可使不同拍摄条件下的图像序列在视觉上看起来像是由同一相机和设置拍摄的。适用于多机位拍摄、单机多镜头、以及3D立体影片的色彩一致性处理。它能匹配整体色彩外观，并同步反射、镜面高光、镜头眩光等细节。支持在不同时间或视角下拍摄的素材进行色彩校正，提升视觉统一性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/03/REVisionFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017, Adobe Premiere Pro CS5 – CC 2017",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Ae/Pr 色彩匹配插件 RE:VisionFX REMatch 1.4.5 Win/Mac",
+      "url": "https://lookae.ctfile.com/fs/gy8171240898"
+    }
+  ],
+  "other": {
+    "plugin_introduction_en": "RE:Match is a set of plug-ins to match one view of video or film to another so that it looks as if it was shot with the same camera and settings. RE:Match assumes that both image sequences are taken roughly at the same location but perhaps were not shot at the same time or from the same point-of-view.",
+    "official_website": "http://revisionfx.com/products/rematch/",
+    "update_notes": "修复已知问题，增加环境变量",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/winmac/"
+    ]
+  }
+}

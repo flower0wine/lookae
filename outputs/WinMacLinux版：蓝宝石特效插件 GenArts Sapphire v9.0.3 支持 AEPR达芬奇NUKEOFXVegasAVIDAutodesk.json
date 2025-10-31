@@ -1,0 +1,111 @@
+{
+  "title": "Win/Mac/Linux版：蓝宝石特效插件 GenArts Sapphire v9.0.3 支持 AE/PR/达芬奇/NUKE/OFX/Vegas/AVID/Autodesk",
+  "slug": "win-mac-linuxban-lan-bao-shi-te-xiao-cha-jian-genarts-sapphire-v9-0-3-zhi-chi-ae-pr-da-fen-qi-nuke-ofx-vegas-avid-autodesk",
+  "author": "大众脸",
+  "post_date": "2016-09-05T17:23:00Z",
+  "source_url": "https://www.lookae.com/sapphire903/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "Win/Mac",
+    "达芬奇插件"
+  ],
+  "content": "GenArts Sapphire 蓝宝石插件是广受后期制作爱好者欢迎的视觉特效插件，支持 Adobe After Effects、Premiere Pro、DaVinci Resolve、Nuke、OFX、Vegas、Avid Media Composer 及 Autodesk 系列软件。最新版本 v9.0.3 在性能和功能上均有优化，新增多种高级特效，并修复多项关键问题，提升渲染稳定性与兼容性。插件提供 Windows、Mac 和 Linux 多平台支持，涵盖数百种预设效果，适用于影视后期、广告制作等专业场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/sapphir9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC / CC 2014 / CC 2015.3\nAdobe Premiere Pro CC / CC 2014 / CC 2015.3\nAssimilate Scratch 6.0+\nBlackmagic Design DaVinci Resolve 10+\nBlackmagic Design Fusion Studio 7+\nChina Digital Video DX or EX\nDigital Vision Nucoda/Phoenix 2011.2.058+\nSAM Pablo Rio 2.1 rev4\nSGO Mamba FX any version\nThe Foundry Nuke 6.3v8+\nVegas Pro 12+\nAvid Media Composer any version\nAvid Media Composer Meridien v9+\nSymphony any version\nXpress Pro any version\nXpress DV any version\nXpress v2+\nNewscutter v3+\nAutodesk 系列软件",
+  "supported_os": "Windows, Mac, Linux",
+  "download_links": [
+    {
+      "name": "Windows版 - AE/PR版",
+      "url": "http://lookae.ctfile.com/fs/QKe156111661"
+    },
+    {
+      "name": "Windows版 - AVID版",
+      "url": "http://lookae.ctfile.com/fs/cg4156112057"
+    },
+    {
+      "name": "Windows版 - OFX版本",
+      "url": "http://lookae.ctfile.com/fs/cvL156113206"
+    },
+    {
+      "name": "Mac版 - AE/PR版",
+      "url": "http://lookae.ctfile.com/fs/OoV156111649"
+    },
+    {
+      "name": "Mac版 - AVID版",
+      "url": "http://lookae.ctfile.com/fs/gQM156111997"
+    },
+    {
+      "name": "Mac版 - OFX版本",
+      "url": "http://lookae.ctfile.com/fs/bPt156113089"
+    },
+    {
+      "name": "Mac版 - Autodesk 版",
+      "url": "http://lookae.ctfile.com/fs/F0E156111856"
+    },
+    {
+      "name": "Linux版 - OFX版本",
+      "url": "http://lookae.ctfile.com/fs/c38156112627"
+    },
+    {
+      "name": "Linux版 - Autodesk 版",
+      "url": "http://lookae.ctfile.com/fs/RdO156111760"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "http://lookae.ctfile.com/fs/E0R151411295"
+    ],
+    "new_features": [
+      "BokehLights - 漂亮炫光插件",
+      "NightSky - 夜晚星空插件",
+      "Aurora - 抽象极光背景插件",
+      "InfiniteZoom - 螺旋效果插件",
+      "CutToDissolve - 转场插件",
+      "RepairFrames - 画面损坏修复插件",
+      "Builder - 节点优化工具"
+    ],
+    "plugin_count": 255,
+    "update_notes": [
+      "Fixed a hang in Premiere CC 2015 when rendering on the GPU.",
+      "Temporarily disabled Expand Borders/Soft Borders in Premiere to fix a conflict with HDR support introduced in Sapphire 9.02.",
+      "Improved loading of old v6 projects containing ZFogLinear and ZFogExponential when Z Near and Z Far were set to default values.",
+      "Fixed a crash in BokehLights with size set to zero and color fringing turned on.",
+      "Fixed a bug where S_Grain would go from color to monochrome after 524,000+ frames.",
+      "Fixed a memory leak in LensFlare, NightSky, and BokehLights when rendering on the GPU.",
+      "Fixed a bug that caused some presets for multi-effect plugins to be saved with the wrong effect.",
+      "Fixed a bug that caused interlaced frames to look squashed in the Preset Browser.",
+      "Fixed a bug that displayed an error message when opening the Preset Browser on an adjustment layer.",
+      "Fixed a bug in Effect Builder where moving a node to a disconnected edge does not work correctly.",
+      "Fixed a few bugs that could hang AE CC 2015.",
+      "Removed erroneous warnings about a missing Reprise directory.",
+      "Fixed a crash in background renders with no license.",
+      "Licenses can now be activated off-line using command line tools.",
+      "When activating licenses offline, support can now see which machines are activated.",
+      "Put the name of the license in use in the help dialog to help debug floating licenses with multiple licenses.",
+      "Fixed a bug that sometimes caused the 'More Help' button in the help dialog to open the wrong documentation.",
+      "Removed uninstall shortcut from Windows 10 Start Menu due to unpredictable behavior, please use Add/Remove Programs in the Control Panel instead.",
+      "Fixed a bug that sometimes caused point params to shift when using S_Effect."
+    ],
+    "plugin_directory": [
+      "Sapphire Adjust",
+      "Sapphire Blur+Sharpen",
+      "Sapphire Builder",
+      "Sapphire Composite",
+      "Sapphire Distort",
+      "Sapphire Lighting",
+      "Sapphire Render",
+      "Sapphire Stylize",
+      "Sapphire Time",
+      "Sapphire Transitions"
+    ]
+  }
+}

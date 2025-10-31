@@ -1,0 +1,42 @@
+{
+  "title": "使用键盘快捷键设置添加删除路径关键帧AE插件Set Path Keyframes v1.0 Win/Mac",
+  "slug": "shi-yong-jian-pan-kuai-jie-jian-she-zhi-tian-jia-shan-chu-lu-jing-guan-jian-zheng-aecha-jian-set-path-keyframes-v1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/04/11 09:37",
+  "source_url": "https://www.lookae.com/set-path-keyframes/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "路径关键帧",
+    "键盘快捷键"
+  ],
+  "content": "直接从键盘添加和删除路径关键帧。忘记无休止地切换时间轴中的形状属性以添加路径关键帧。使用快捷方式立即设置它们。此插件将功能扩展到形状层，以在当前时间指示器快速添加或删除所有路径属性的关键帧。\n\n每个Transform变换属性都有一个本机键盘快捷键（P、A、R、T、S）。您可以使用⌥ +P在时间轴中快速设置位置关键帧，使用⌥ +S缩放关键帧，甚至使用⌥ +M 设置蒙版路径关键帧。但是形状图层上的路径属性丢失了……直到现在！\n\n插件特征：\n\n* 在当前时间为所选图层上的所有路径属性创建新关键帧\n* 如果当前所有 Path 属性都已经有关键帧，则移除那些关键帧\n* 映射到任何键盘快捷键（例如：CTRL + ALT + Q或 ⌥ + Q）\n* 内含视频使用教程",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Set-Path-Keyframes.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/405884599340.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-837634362-f15a5f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cWZ4ZJRtSdg6dDNbc32LfQ?pwd=2qnz"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/u1PYzJX3eBX"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "2qnz"
+    }
+  }
+}

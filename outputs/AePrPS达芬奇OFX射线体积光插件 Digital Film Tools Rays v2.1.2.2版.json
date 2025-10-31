@@ -1,0 +1,50 @@
+{
+  "title": "Ae/Pr/PS/达芬奇/OFX射线体积光插件 Digital Film Tools Rays v2.1.2.2版",
+  "slug": "ae-pr-ps-da-fen-qi-ofxshe-xian-ti-ji-guang-cha-jian-digital-film-tools-rays-v2-1-2-2ban",
+  "author": "大众脸",
+  "post_date": "2018-10-20 11:38",
+  "source_url": "https://www.lookae.com/dft-rays-2122/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "PS插件"
+  ],
+  "content": "Rays 是由 Digital Film Tools 公司出品的一款射线体积光插件，能够快速、轻松地创建令人惊叹的逼真的光线效果。这种戏剧性的效果在计算机图形中被称为体积照明，在大气光学中称为黄昏光线。由于光线只添加在高光区域，因此能产生穿透物体的效果，并增强画面的三维感。可以用于创建穿过云层的光束、森林树冠间的光线、雾夜中的光柱，或从文字中放射出的光线，显著提升图像的视觉表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Rays.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5+, Premiere Pro CS5+, Photoshop CS5+, Nuke v8+, DaVinci Resolve v11+, Sony Vegas v13+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-315677913"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1QjkBff6NF8P6hb3iJ4olCA"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/rays/",
+    "installation_note": "插件为一键安装注册版，安装后即可直接使用",
+    "additional_categories": [
+      "After Effects",
+      "DaVinci Resolve",
+      "Nuke",
+      "OFX",
+      "Photoshop",
+      "Premiere",
+      "Vegas",
+      "其他资源",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "photoshop_compatibility": "Photoshop CS5 and up (64 Bit Only)（兼容 CC 2019）; Photoshop Elements 13 and up (Non-app store version); Photoshop Lightroom 3 and up",
+    "avid_systems": "Avid Editing Systems (64 Bit only)",
+    "assimilate_scratch": "Assimilate Scratch v8 and up"
+  }
+}

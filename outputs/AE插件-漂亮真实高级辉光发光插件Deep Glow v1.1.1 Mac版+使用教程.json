@@ -1,0 +1,63 @@
+{
+  "title": "AE插件-漂亮真实高级辉光发光插件Deep Glow v1.1.1 Mac版+使用教程",
+  "slug": "aecha-jian-piao-liang-zhen-shi-gao-ji-hui-guang-fa-guang-cha-jian-deep-glow-v1-1-1-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/02/11 11:51",
+  "source_url": "https://www.lookae.com/deep-glow-111/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "Deep Glow 是一款比 After Effects 自带 Glow 插件效果更真实、过渡更自然的高级辉光插件。即使在非线性色彩空间中工作，也能提供实时即用的最佳效果。插件具备直观的合成控制，支持 GPU 加速，并提供高采样和质量控制功能，可用于实现颗粒状或风格化的发光效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Deep-Glow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "Mac版插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-335638737"
+    },
+    {
+      "name": "Mac版插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/14jNiJx_bgSRnjQ7ewR34iQ"
+    },
+    {
+      "name": "使用教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-328767396"
+    },
+    {
+      "name": "使用教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1JDjE2_TJ_7Ebph8iWY2emw"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/deep-glow/",
+    "version": "1.1.1",
+    "changelog": [
+      "添加了“Smooth Blending-平滑混合”功能来模拟真实的辉光效果",
+      "添加色彩的特性",
+      "添加了自定义抖动的控件",
+      "修复 16bpc 的BUG错误"
+    ],
+    "features": [
+      "物理精确的基于反平方的衰减",
+      "GPU加速",
+      "8,16和32bpc兼容",
+      "HDR阈值处理",
+      "阈值平滑（减少时间闪烁）",
+      "伽马校正（即使在非线性色彩空间中工作也会产生线性结果）",
+      "合成控件",
+      "发光宽高比",
+      "发光传播",
+      "色差",
+      "多采样质量控制",
+      "模糊质量控制",
+      "查看控件：发光源或最终渲染",
+      "Unmult去黑底（对文本有用）"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-媒体资源项目模板素材预览管理应用工具 AEviewer V2.0 free 免费版",
+  "slug": "aejiao-ben-mei-ti-zi-yuan-xiang-mu-mo-ban-su-cai-yu-lan-guan-li-ying-yong-gong-ju-aeviewer-v2-0-free-mian-fei-ban",
+  "author": "大众脸",
+  "post_date": "2021-07-29 15:47",
+  "source_url": "https://www.lookae.com/aeviewer-v2free/",
+  "category": "aescripts",
+  "tags": [
+    "AEViewer",
+    "AE脚本",
+    "媒体资源",
+    "项目管理"
+  ],
+  "content": "强大的AEviewer脚本更新到V2版，且提供了一个免费版(仅支持一部分文件格式)。它可以一键预览、应用和导入项目和媒体文件。Revolutionary media browser for After Effects and Premiere Pro. Preview, apply, and import projects and media files in one click.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/AEVIEWER-2.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01UPlqiy1vSMolccHBC_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/319621452116.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://alywp.net/2t7FRm"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-503936258-db38e2"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Y1csD3XGW9qudsq98e8UKA"
+    }
+  ],
+  "other": {
+    "download_password": {
+      "城通网盘": "6688",
+      "百度网盘": "2bi0"
+    },
+    "note": "免费版仅支持一部分文件格式，如果想兼容完整格式，可以暂用AEViewer v1.7.1专业版"
+  }
+}

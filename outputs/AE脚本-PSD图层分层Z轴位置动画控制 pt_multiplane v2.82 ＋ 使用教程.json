@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-PSD图层分层Z轴位置动画控制 pt_multiplane v2.82 ＋ 使用教程",
+  "slug": "aejiao-ben-psdtu-ceng-fen-ceng-zzhou-wei-zhi-dong-hua-kong-zhi-pt-multiplane-v2-82-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/05 22:19",
+  "source_url": "https://www.lookae.com/multiplane/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以将分层的Photoshop或Illustrator分层文件转换为3D多平面图层。它添加了一些表达式，让您可以在z轴上自由移动图层，而无需改变原始摄像机位置的镜头外观，从而可以轻松地控制图层和在场景中体验深度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/pt_Multiplane.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 4 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372610787"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1duVKqtgAaxv8yscnJTSDfg"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_code": "obrj"
+  }
+}

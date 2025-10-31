@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-轻松复制多个图层设置动画效果 Layer Repeater v2.5 + 使用教程",
+  "slug": "aejiao-ben-qing-song-fu-zhi-duo-ge-tu-ceng-she-zhi-dong-hua-xiao-guo-layer-repeater-v2-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/10/09 10:14",
+  "source_url": "https://www.lookae.com/layer-repeater/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Layer Repeater v2.5 是一款用于 After Effects 的脚本，可帮助用户轻松复制多个相同图层，并自由设置各图层在空间中的位移、旋转以及时间上的偏移和延迟动画效果。该脚本适用于多版本的 After Effects，极大提升动画制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Layer-Repeater.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-402068994"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/149l9Gi3xJUpo-OyjcYcWkw"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "script_demo_url": "https://aescripts.com/layer-repeater/"
+  }
+}

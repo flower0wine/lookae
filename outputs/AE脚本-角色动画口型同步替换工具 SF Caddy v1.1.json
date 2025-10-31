@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本-角色动画口型同步替换工具 SF Caddy v1.1",
+  "slug": "aejiao-ben-jiao-se-dong-hua-kou-xing-tong-bu-ti-huan-gong-ju-sf-caddy-v1-1",
+  "author": "大众脸",
+  "post_date": "2020/11/20 22:20",
+  "source_url": "https://www.lookae.com/sf-caddy/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "SF-Caddy 是一款用于 After Effects 的快速替换工具，特别适用于角色动画和口型同步。用户只需选择要替换的项目，点击“LOAD ITEMS – 加载项目”，即可在面板中通过单击切换项目，并自动在时间轴上添加关键帧，极大提升动画制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/SF-Caddy-v1.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01rw45A11vSMl2Gk6kt_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-471995000"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Qb2ncnkAGvaa-iahbEGTTA"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_code": "r6o9",
+    "official_homepage": "https://aescripts.com/sf-caddy/"
+  }
+}

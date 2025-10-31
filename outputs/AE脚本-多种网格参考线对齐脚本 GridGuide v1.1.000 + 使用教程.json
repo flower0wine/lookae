@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-多种网格参考线对齐脚本 GridGuide v1.1.000 + 使用教程",
+  "slug": "aejiao-ben-duo-chong-wang-ge-can-kao-xian-dui-qi-jiao-ben-gridguide-v1-1-000-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-11",
+  "source_url": "https://www.lookae.com/gridguide-11/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "GridGuide脚本可以生成各种间隔和方向的网格参考线，解决了AE内置参考线和网格的局限性，大大方便了后期的排版参考和制作。该脚本包含使用视频教程，适用于After Effects CS 5至CC 2019版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GridGuide2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 5 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载(脚本)",
+      "url": "https://lookae.ctfile.com/fs/680462-364755144"
+    },
+    {
+      "name": "百度网盘下载(脚本)",
+      "url": "https://pan.baidu.com/s/10AkcOE9EzYKopXj7GZ7mjQ"
+    },
+    {
+      "name": "城通网盘下载(教程)",
+      "url": "https://lookae.ctfile.com/fs/680462-202009060"
+    },
+    {
+      "name": "百度网盘下载(教程)",
+      "url": "https://pan.baidu.com/s/1c2pbPHQ"
+    }
+  ],
+  "other": {
+    "extraction_code": "hfx5",
+    "official_taobao": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "update_details": [
+      "使用新的AE CC 16.1脚本功能来创建指南 – 无需启动Photoshop，因此在新的Ae版本上创建指南要快得多。",
+      "修复了对齐在其锚点上具有表达式的图层问题",
+      "修复了长期comps的'将网格转换为指南'功能中的错误（错误消息'无法设置工作区持续时间）"
+    ],
+    "original_description": "在使用AE内置的参考线和网格的时候，有很多时候有局限性，可参考性不强，那么 GridGuide 这个脚本可以生成各种间隔，各种方向的网格参考线，大大方便了后期的排版参考和制作，含脚本使用视频教程，可供学习。Automatic layouts, snappable guides grids and modifiable shape layer guides – because motion design isn’t static."
+  }
+}

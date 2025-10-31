@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本：MASK形状遮罩图层路径倒角预设脚本 AEscripts Vertex Tool v1.0.1",
+  "slug": "aejiao-ben-maskxing-zhuang-zhe-zhao-tu-ceng-lu-jing-dao-jiao-yu-she-jiao-ben-aescripts-vertex-tool-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2015-11-27T18:03:00Z",
+  "source_url": "https://www.lookae.com/vertex/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "一款适用于After Effects的高效脚本工具，可对已绘制的形状遮罩图层路径进行顶点倒角处理。支持12种圆角算法，用户可自定义倒角参数，实现平滑的图形变形与动画生成。特别适合用于MG动画设计中的路径美化与动态效果创建。通过一键操作即可完成圆形化处理，提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/Vertex.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/32636813.mp4"
+  ],
+  "supported_versions": "AE CS4/CS5/CS6/CC/CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：MASK形状遮罩图层路径倒角预设脚本 AEscripts Vertex Tool v1.0.1",
+      "url": "https://lookae.400gb.com/file/134799110"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

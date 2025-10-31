@@ -1,0 +1,30 @@
+{
+  "title": "Mac/Win版： Ae/Pr超级慢动作视频变速插件：RE:VisionFX Twixtor Pro v6.2.7",
+  "slug": "mac-winban-ae-prchao-ji-man-dong-zuo-shi-pin-bian-su-cha-jian-re-visionfx-twixtor-pro-v6-2-7",
+  "author": "大众脸",
+  "post_date": "2016/12/21 13:48",
+  "source_url": "https://www.lookae.com/twixtor627/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Twixtor Pro 插件又更新啦，AE/PR超级慢动作插件：Twixtor Pro 6.2.7。Twixtor Pro变速插件是Vision Effects公司比较有名的比较流行的一款变速插件，它能够'无极'的减慢、加速或变更连续图像的帧速，来带给你惊人的视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/twixtor6.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017, Adobe Premiere Pro CS5 – CC 2017",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "Mac/Win版： Ae/Pr超级慢动作变速插件：RE:VisionFX Twixtor Pro v6.2.7",
+      "url": "https://lookae.ctfile.com/fs/9MZ164354800"
+    }
+  ],
+  "other": {
+    "new_features": "6.2.7版本新功能：更新支持 Adobe CC 2017，Added an update checker for future version updating. The update check runs on the local machine, and must be manually run.",
+    "official_link": "http://revisionfx.com/products/twixtor/overview/"
+  }
+}

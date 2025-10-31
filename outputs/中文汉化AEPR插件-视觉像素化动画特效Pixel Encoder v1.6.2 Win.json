@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE/PR插件-视觉像素化动画特效Pixel Encoder v1.6.2 Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-shi-jue-xiang-su-hua-dong-hua-te-xiao-pixel-encoder-v1-6-2-win",
+  "author": "大众脸",
+  "post_date": "2022/04/16 10:31",
+  "source_url": "https://www.lookae.com/pixelencoder-162/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "视觉特效"
+  ],
+  "content": "适用于Adobe After Effects和Premiere Pro的模块化效果插件，轻松创建引人注目的像素动画。插件提供用户友好的界面，支持7种模块化预设，可自定义颜色、图案大小、垂直/水平细节等，并兼容After Effects和Premiere Pro。v1.6.2版本新增对MFR和原生Apple Silicon的支持，同时修复了部分平台上的入口点错误并改进了浮动许可证与在线验证的处理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/Pixel-Encoder-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/309120611084.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-568779361-8eb32d"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bGijD1LYzlWmev9Y4sXOrQ?pwd=1xoa"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/mdQvaMzknGw"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "1xoa"
+    },
+    "update_notes": [
+      "添加了对 MFR 的支持",
+      "添加了原生 Apple Silicon 支持",
+      "添加了对 After Effects 和 Premiere Pro 2022 的支持",
+      "修复了某些平台上的入口点错误",
+      "改进了对浮动许可证和在线验证的处理"
+    ],
+    "bug_fixes": [
+      "修复了影响 8 位项目中透明层的错误"
+    ]
+  }
+}

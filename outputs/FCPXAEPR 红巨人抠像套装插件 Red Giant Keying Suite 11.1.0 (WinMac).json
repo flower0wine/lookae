@@ -1,0 +1,51 @@
+{
+  "title": "FCPX/AE/PR 红巨人抠像套装插件 Red Giant Keying Suite 11.1.0 (Win/Mac)",
+  "slug": "fcpx-ae-pr-hong-ju-ren-kou-xiang-tao-zhuang-cha-jian-red-giant-keying-suite-11-1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2014-08-19T22:18:00Z",
+  "source_url": "https://www.lookae.com/keying1110/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX插件",
+    "Red Giant"
+  ],
+  "content": "Red Giant Keying Suite 11.1.0 是一套专为视频抠像设计的专业插件套件，支持 Adobe After Effects、Premiere Pro、Final Cut Pro X 和 Motion 5。该套件包含 Primatte Keyer 5.1、Key Correct 1.2.1 与 Red Giant Warp 1.1.1 三个核心插件，适用于 Windows 与 Mac 平台。插件具备快速渲染、高精度抠像、边缘细节优化、色度溢出去除、阴影与反射模拟等功能，广泛应用于影视后期合成中。特别地，Primatte Keyer 5.1 现已正式支持 FCPX 与 Motion 5，显著提升非线性剪辑工作流效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Keying1110.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 - CC2014, Premiere Pro CS5 - CC2014, Final Cut Pro X, Motion 5",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版本",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Keying/KSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac版本",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/keying/KSuite_Mac_Full.zip"
+    },
+    {
+      "name": "完（xu）美（lie）效（hao）果下载",
+      "url": "https://www.400gb.com/file/70980601"
+    }
+  ],
+  "other": {
+    "plugin_includes": [
+      "Primatte Keyer 5.1 超级抠像插件",
+      "Key Correct 1.2.1 抠像修正插件",
+      "Red Giant Warp 1.1.1 扭曲变形插件"
+    ],
+    "features": [
+      "支持 FCPX 与 Motion 5",
+      "兼容 After Effects、Premiere Pro、FCPX",
+      "提升渲染速度与抠像精度",
+      "支持低光照、杂乱画面等复杂场景",
+      "提供自动计算、智能采样、混合蒙版等高级功能",
+      "支持阴影、反射、发光、角点扭曲等特效处理"
+    ],
+    "official_website": "http://www.redgiantsoftware.com/products/all/keying-suite/",
+    "release_notes": "• Primatte Keyer 现支持 After Effects、Premiere Pro 与 FCPX\n• 更新界面并提升渲染速度\n• 新增 Red Giant Warp 1.1\n• 包含 Key Correct：专业绿屏辅助工具"
+  }
+}

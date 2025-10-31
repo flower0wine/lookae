@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-制作从右向左显示多行动画文字工具 Fade Up RTL v1.0",
+  "slug": "aejiao-ben-zhi-zuo-cong-you-xiang-zuo-xian-shi-duo-xing-dong-hua-wen-zi-gong-ju-fade-up-rtl-v1-0",
+  "author": "大众脸",
+  "post_date": "2021/05/05 21:27",
+  "source_url": "https://www.lookae.com/fade-up-rtl/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Fade Up RTL 脚本可创建一个文本层表达式，支持逐字符或逐词从右向左显示多行文本。其功能类似于 After Effects 内置的‘淡入字符’或‘淡入单词’预设，但专为从右到左书写的语言设计，适用于阿拉伯语、希伯来语等方向性文本动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/Fade-Up-RTL.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/308770258711.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-494993335-6d3033"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dB9QUOnvrj9emXoMVc1K6w"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "6gon"
+    },
+    "description_en": "Fade Up RTL script creates a text layer expression that can display multi-line right-to-left text one character at a time or one word at a time. Essentially, this expression works like the native Fade Up Characters or Fade Up Words text preset, but only for right-to-left texts."
+  }
+}

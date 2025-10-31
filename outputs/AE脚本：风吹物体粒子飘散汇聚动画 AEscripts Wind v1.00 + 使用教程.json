@@ -1,0 +1,30 @@
+{
+  "title": "AE脚本：风吹物体粒子飘散汇聚动画 AEscripts Wind v1.00 + 使用教程",
+  "slug": "aejiao-ben-feng-chui-wu-ti-li-zi-piao-san-hui-ju-dong-hua-aescripts-wind-v1-00-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/02 13:08",
+  "source_url": "https://www.lookae.com/aescripts-wind/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "通过脚本可以在AE软件中快速将文本、矢量图形、视频、形状层等制作成模拟风吹物体粒子飘散或汇聚的动画效果。一次可处理数百个图层，无需复杂设置，点击按钮并应用即可。该脚本充分利用After Effects原生3D空间，操作简便高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AEscript-Wind.jpg",
+    "http://aescripts.com/media/catalog/product/c/h/chinese_symbol_peices_out_web_3_1_1_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：风吹物体粒子飘散汇聚动画 AEscripts Wind v1.00 + 使用教程",
+      "url": "https://lookae.ctfile.com/fs/680462-201526218"
+    }
+  ],
+  "other": {
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_guide": "在AE软件中点击 Window（窗口菜单）即可找到脚本。"
+  }
+}

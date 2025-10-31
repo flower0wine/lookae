@@ -1,0 +1,54 @@
+{
+  "title": "AE插件-众多图片文字汇聚成自定义图形 Pastiche v2.0 Mac苹果版",
+  "slug": "aecha-jian-zhong-duo-tu-pian-wen-zi-hui-ju-cheng-zi-ding-yi-tu-xing-pastiche-v2-0-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2021/04/04 11:07",
+  "source_url": "https://www.lookae.com/pastiche2-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Pastiche v2.0 是一款功能强大的 After Effects 插件，可将大量图片、文字、图标、图形、Logo 等图层元素一键汇聚成自定义图形或文字样式。支持上百个图层处理，提供丰富的参数控制，包括粒子排列方式、大小、旋转、透明度等。支持与 Newton 牛顿插件联动，实现创意碰撞效果，并可实现图形间的动态转换（如 A-B）。插件还支持动画循环、颜色映射和多种空间插值方式，适用于各类拼贴动画创作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Pastiche2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/295496486458.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件下载",
+      "url": "https://089u.com/f/680462-488153009-457d87"
+    },
+    {
+      "name": "百度网盘 - 插件下载",
+      "url": "https://pan.baidu.com/s/1K_BpuR-x8YbvK4tW-vRyTw"
+    },
+    {
+      "name": "城通网盘 - 教程下载",
+      "url": "https://089u.com/file/680462-479295508"
+    },
+    {
+      "name": "百度网盘 - 教程下载",
+      "url": "https://pan.baidu.com/s/1_kX9UUltV9VDNz5XHxAAiA"
+    }
+  ],
+  "other": {
+    "new_features": [
+      "点画：新的分配方法，支持基于 alpha 或亮度将图层推向最暗/最不透明区域，提升分布规则性；可调节精度。",
+      "应用颜色：可按来源设置形状图层的填充、轮廓颜色，支持随机或预设颜色，增强动画表现力。",
+      "循环：新增 Use First Value 选项，简化动画循环设置。",
+      "新的动画样式：新增‘步骤’（沿轴移动）和‘弹性’（增加运动弹性）两种空间插值方式。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/pastiche2/"
+    ],
+    "passwords": {
+      "plugin_ct": "6688",
+      "tutorial_ct": "377826",
+      "tutorial_baidu": "a46x"
+    }
+  }
+}

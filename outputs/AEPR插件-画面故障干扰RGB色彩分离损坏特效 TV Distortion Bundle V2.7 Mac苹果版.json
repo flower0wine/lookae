@@ -1,0 +1,70 @@
+{
+  "title": "AE/PR插件-画面故障干扰RGB色彩分离损坏特效 TV Distortion Bundle V2.7 Mac苹果版",
+  "slug": "ae-prcha-jian-hua-mian-gu-zhang-gan-rao-rgbse-cai-fen-chi-sun-pi-te-xiao-tv-distortion-bundle-v2-7-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2022/01/13 11:57",
+  "source_url": "https://www.lookae.com/tvdistortion-270/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac版",
+    "PR插件"
+  ],
+  "content": "TV Distortion Bundle 是一套包含五个故障失真插件的合集，适用于 After Effects 和 Premiere，可帮助数字媒体艺术家轻松创建模拟失真、数字图像与卫星失真、数字像素模拟以及色差（Chromatic Aberration）等特效，模拟从模拟电视时代到现代数字压缩时代的观看体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/TV-Distortion-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-536280348-b86a18"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1oCeFSoDFZzpk5gENNpISXg?pwd=9xbm"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/dwJrDFUB6Yb"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      {
+        "name": "Bad TV",
+        "version": "v2.6.0",
+        "description": "坏电视效果"
+      },
+      {
+        "name": "Data Glitch",
+        "version": "v2.7.0",
+        "description": "信号干扰破损效果"
+      },
+      {
+        "name": "Dot Pixel",
+        "version": "v2.7.0",
+        "description": "点阵像素效果"
+      },
+      {
+        "name": "Separate RGB",
+        "version": "v2.7.0",
+        "description": "RGB色彩分离效果"
+      },
+      {
+        "name": "TVPixel",
+        "version": "v2.7.0",
+        "description": "电视像素损坏效果"
+      }
+    ],
+    "update_notes": [
+      "修复在 Premiere 中的 BUG",
+      "插件整体更新到新版本号",
+      "After Effects 中的 MFR 支持",
+      "Apple Silicon 支持 Premiere"
+    ],
+    "related_link": "https://www.lookae.com/tv-distortion-27/"
+  }
+}

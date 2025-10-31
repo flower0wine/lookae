@@ -1,0 +1,60 @@
+{
+  "title": "AE插件：三维星球特效插件VideoCopilot ORB Win/Mac + AK第168期使用教程/6K地图贴图",
+  "slug": "aecha-jian-san-wei-xing-qiu-te-xiao-cha-jian-videocopilot-orb-win-mac-akdi-168qi-shi-yong-jiao-cheng-6kdi-tu-tie-tu",
+  "author": "大众脸",
+  "post_date": "2018-09-19T15:58:00Z",
+  "source_url": "https://www.lookae.com/oeb/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "VideoCopilot",
+    "Win/Mac"
+  ],
+  "content": "VideoCopilot 推出的免费三维星球特效插件 ORB，可创建真实行星效果。支持颜色设置、大气层、贴图、反射、环境、灯光、阴影等参数调节，并具备GPU加速功能。适用于 After Effects CS6 至 CC 2018，支持 Windows 与 Mac 系统。插件提供物理渲染、环境反射、运动模糊、高级UV设置、亮度阴影遮罩、昼夜切换、基于亮度调节、内置灯光控制、360全景渲染及无限星空背景等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/orb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-310901896"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1qX0-9VELZICWXrnsgqOK8Q"
+    }
+  ],
+  "other": {
+    "plugin_name": "ORB",
+    "developer": "VideoCopilot",
+    "official_website": "https://www.videocopilot.net/orb/",
+    "features": [
+      "真实的物理渲染效果",
+      "环境反射贴图",
+      "运动模糊",
+      "高级UV贴图设置",
+      "亮度阴影遮罩设置",
+      "随意切换白天和夜晚",
+      "基于亮度调节",
+      "亮度设置",
+      "支持AE内置灯光控制",
+      "360全景渲染",
+      "无限星空环境背景",
+      "GPU加速"
+    ],
+    "description_en": "Video Copilot has announced a new plugin for After Effects called Orb. It started life as a simple replacement for CC Sphere but has become a complete generator for generating 3D planets including physically based shaders, the ability to design the atmosphere, custom terrain bump maps, environment reflections, automatic shadow illumination, GPU acceleration and more.",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "VideoCopilot": "https://www.lookae.com/tag/videocopilot/",
+      "Win/Mac": "https://www.lookae.com/tag/winmac/"
+    }
+  }
+}

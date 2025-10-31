@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-平面图片投射三维空间摄像机视差动画 Projection 3D v2.02 + 使用教程",
+  "slug": "aejiao-ben-ping-mian-tu-pian-tou-she-san-wei-kong-jian-she-xiang-ji-shi-chai-dong-hua-projection-3d-v2-02-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/19 17:13",
+  "source_url": "https://www.lookae.com/projection-3d-202/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "用于After Effects中的摄像机投影映射和照片视差动画的高级工具，可以在AE软件中将静态的二维图片转换制作成带真实三维空间的摄像机动画。该脚本自带8种基本模式，支持导入低精度的三维OBJ文件，包含11个视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Projection-3D-2.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN019SmDdV1vSMhVDq7Pu_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/248131198326.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-467559769"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1TQeifp0oqn5XGtufAJn5Ig"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://tc5.us/file/680462-413859997"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Fhwg7CzwgGM3si9VUNDqBg"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "zfez",
+    "new_features": "更方便的用户使用界面、将图像直接导入到所选位置、创建和导入3d对象的速度提高了10倍、导出Wavefront obj文件格式、导出相机动画、组对象、添加了两个新的基元、所有工具都可以当场创建3d对象、新工具-球体化，沿路径挤出，从点生成平面、拉伸工具中的新增功能：挤出多个遮罩、拉伸工具的新增功能：添加了减法和扭曲功能、新实用程序菜单、新实用程序-添加持续时间，边缘模糊、新的“重新定位锚点”窗口、单独层，启用/禁用层、快速摄像机视图",
+    "v2_02_update": "重新设计的帮助UI、挤出工具在某些设备上无法正常工作的错误已修复"
+  }
+}

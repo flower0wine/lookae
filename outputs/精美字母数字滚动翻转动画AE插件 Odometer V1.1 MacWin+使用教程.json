@@ -1,0 +1,65 @@
+{
+  "title": "精美字母数字滚动翻转动画AE插件 Odometer V1.1 Mac/Win+使用教程",
+  "slug": "jing-mei-zi-mu-shu-zi-gun-dong-fan-zhuan-dong-hua-aecha-jian-odometer-v1-1-mac-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-04-14T11:15:00Z",
+  "source_url": "https://www.lookae.com/odometer/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "Odometer 是一款用于 After Effects 的精美字母数字滚动翻转动画插件，可实现类似里程表的动态效果，适用于数字、文本和符号的流畅滚动与翻转。支持多种版本的 AE，并提供多平台（Win/Mac）兼容版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/12/odometer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/390255479283.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-756031594-165f9e?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Dlgc_5lJqOJmj4h9Pi4sAw?pwd=cy8a"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/2mkSkUSJ2Pe"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-839779071-cb248d?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/12Rkvo3WkVimK3Zea6wlbjA?pwd=ce2t"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PKS2zjthKbA"
+    }
+  ],
+  "other": {
+    "description": "Beautifully animate numbers, text and symbols. Count anything with Odometer.",
+    "update_notes": [
+      "添加了5个顺序修改器：反转、随机、递增、内外、内外",
+      "旋转方向参数现在可以设置关键帧",
+      "修复强制最小旋转和旋转方向向下时的方向错误",
+      "修复数字大于1百万的滑块参数错误"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "AE插件M1": "https://www.lookae.com/tag/aem1/"
+    }
+  }
+}

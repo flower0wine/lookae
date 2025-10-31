@@ -1,0 +1,55 @@
+{
+  "title": "AE脚本-表达式语言报错修复工具 ExpressionUniversalizer v4.3.2+使用教程",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-gong-ju-expressionuniversalizer-v4-3-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-11-22T11:11:00",
+  "source_url": "https://www.lookae.com/expressionuniversalizer-432/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "表达式修复",
+    "表达式报错"
+  ],
+  "content": "我们在网站下载或者从其他渠道得到的一些AE模版/工程，由于地区和个人习惯不同，可能作者制作的工程模版的AE软件与自己使用的AE软件语言版本不同，这样要是作者使用了他软件版本制作的AE表达式，可能在自己的AE软件中会因为语言不同而报错，这个时候这个脚本将会帮你解决这个头痛的问题，通过脚本可以修复因为语言不同而报错的表达式，这样使用的中文版（或其他版）AE再也不怕英文（或者其他语言间）表达式错误弹窗了！压缩包内含脚本和使用教程。\n\n脚本使用原理：先用英文版AE软件打开工程模板，再用脚本转换修复成万能通用表达式，这样工程就可以在中文版或其他语言的AE软件中正常使用。\n\nConverts the expressions in your projects so that they are compatible with After Effects running in any language. Now with batch processing。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/07/Expression-Universalizer-4.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50032760914.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1428633850-2af11f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Fsj0mLG1rOVV10ga1OiXYQ?pwd=y6w1"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/9ag9mTgLxXG"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "y6w1"
+    },
+    "version_features_v4": [
+      "ExpressionUniversalizer 4具有全新的基于c ++的表达式解析引擎。这意味着它的速度和准确性提高了约10-20％。",
+      "支持所有After Effects本地语言：英语，西班牙语，法语，德语，意大利语，日语，韩语，葡萄牙语，俄语和中文",
+      "支持数据层引用（JSON，CSV等）"
+    ],
+    "update_log_4_3_2": [
+      "更新许可证框架至 v4.2.0",
+      "修复 -38 许可证停用错误",
+      "现在默认跳过Duik表达式，因为Duik表达式不需要通用化，一些Duik表达式非常大，在处理它们时会导致 AE 崩溃。",
+      "无论如何都添加了处理 Duik 表达式的首选项",
+      "修复了 thisLayer.parent 表达式的问题",
+      "改进了对变量名称中 thisLayer 的支持"
+    ]
+  }
+}

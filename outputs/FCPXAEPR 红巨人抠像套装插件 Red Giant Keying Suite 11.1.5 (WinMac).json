@@ -1,0 +1,43 @@
+{
+  "title": "FCPX/AE/PR 红巨人抠像套装插件 Red Giant Keying Suite 11.1.5 (Win/Mac)",
+  "slug": "fcpx-ae-pr-hong-ju-ren-kou-xiang-tao-zhuang-cha-jian-red-giant-keying-suite-11-1-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2015/07/18 22:05",
+  "source_url": "https://www.lookae.com/keying1115/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "motion",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant 公司出品的一套抠像插件 Keying Suite 11.1.5，正式支持 Adobe CC 2015，插件渲染更快、效果更强，主要用于视频抠像，抠像操作强大且不繁琐，有 Mac 和 Win 两个平台版本，其中Primatte Keyer 5.1 抠像插件正式支持 MAC 平台下的 Final Cut Pro X 和 Motion5。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Keying1110.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC2015、Adobe Premiere Pro CS5 CC2015、Final Cut Pro X、Motion 5",
+  "supported_os": "Win、Mac",
+  "download_links": [
+    {
+      "name": "Win版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/keying/KSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/keying/KSuite_Mac_Full.zip"
+    },
+    {
+      "name": "完美序列号下载",
+      "url": "https://www.400gb.com/file/70980601"
+    }
+  ],
+  "other": {
+    "官网": "http://www.redgiantsoftware.com/products/all/keying-suite/",
+    "相关教程": [
+      "https://www.mfcpx.com/primattekeyer/"
+    ]
+  }
+}

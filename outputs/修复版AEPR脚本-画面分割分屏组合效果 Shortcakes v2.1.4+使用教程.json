@@ -1,0 +1,54 @@
+{
+  "title": "修复版AE/PR脚本-画面分割分屏组合效果 Shortcakes v2.1.4+使用教程",
+  "slug": "xiu-fu-ban-ae-prjiao-ben-hua-mian-fen-ge-fen-ping-zu-he-xiao-guo-shortcakes-v2-1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/12/19 13:17",
+  "source_url": "https://www.lookae.com/shortcakes/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本",
+    "视频分屏"
+  ],
+  "content": "使用脚本可以在 Premiere Pro 和 After Effects 中快速创建分屏效果。可将时间线上选定剪辑的屏幕按指定数量分割为每条视频轨道。它支持各种剪辑大小和序列大小。还可以添加边框和数字。Shortcakes is an Extension for Premiere Pro and After Effects that splits the screen of selected clips on the timeline by a specified number for each video track. It supports various clip sizes and sequence sizes. There is also the ability to add borders and numbers.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Shortcakes.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/482686909802.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2024",
+      "2023"
+    ],
+    "Premiere": [
+      "2024",
+      "2023",
+      "2022"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1438963688-a00eb4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RpvOndbeQ8BXTyc7yPeAQw?pwd=77fh"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/vGFWZwLPh6k"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

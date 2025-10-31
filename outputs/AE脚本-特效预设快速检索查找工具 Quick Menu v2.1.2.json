@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-特效预设快速检索查找工具 Quick Menu v2.1.2",
+  "slug": "aejiao-ben-te-xiao-yu-she-kuai-su-jian-suo-cha-zhao-gong-ju-quick-menu-v2-1-2",
+  "author": "大众脸",
+  "post_date": "2019-04-02T15:59:00Z",
+  "source_url": "https://www.lookae.com/quick-menu-212/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Quick Menu 是一个智能且直观的启动器，通过用户自定义快捷键调用后浮现在 UI 上方，可快速查找并执行特效、插件、预设、脚本、表达式、扩展及大多数菜单命令。支持中文搜索，帮助用户保持创作专注，避免在复杂菜单中浪费时间。该工具支持多国语言检索，具备隐藏式用户界面、双屏支持、菜单命令编辑器等功能，并能自动创建调整层应用于所选图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Menu-v2.jpg",
+    "http://aescripts.com/media/catalog/product/q/u/quickmenuinaction_1.gif",
+    "http://aescripts.com/media/catalog/product/q/u/quickmenucommands.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/30542827.mp4"
+  ],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-358123854"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1yENhCZWNkw09waUU0uC5Aw"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "兼容 AE CC 2019",
+      "修正了启动QM时的小卡顿",
+      "自动创建要应用效果的调整层（Alt/Option+Shift）",
+      "自动创建的图层现在放置在所选图层上方，若未选择则置于顶部",
+      "修复了“联Online Help”按钮链接地址",
+      "效果将应用于所有选定的层",
+      "自动创建应用效果的图层",
+      "搜索引擎匹配命令名的任何部分",
+      "已从搜索引擎中删除区分大小写",
+      "隐藏式用户界面",
+      "可在第二个显示器上的用户界面",
+      "启动扩展",
+      "新建菜单命令编辑器（添加、删除、禁用菜单命令）",
+      "菜单命令功能支持多国语言检索",
+      "修复BUG错误"
+    ],
+    "original_source": "https://aescripts.com/quick-menu/",
+    "disclaimer": "from MONTER GROUP©, Thank you."
+  }
+}

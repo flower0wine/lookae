@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-MG卡通弹跳动画制作工具 SpringyFX v1.1 + 使用教程",
+  "slug": "aejiao-ben-mgqia-tong-dan-tiao-dong-hua-zhi-zuo-gong-ju-springyfx-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/06/19 13:10",
+  "source_url": "https://www.lookae.com/springyfx-11/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "SpringyFX 是一个用于制作 MG 弹跳动画的 After Effects 脚本工具包，能够轻松创建有趣的 MG 图形动画。该工具包包含 9 个不同的动画工具：弹跳、溶解、弯曲、挤压、拉伸、抖动、膨胀、扭转、流体以及一个自定义工具，适用于制作时尚的卡通动画或为现有动画添加微妙的重叠动作效果。脚本基于关键帧变换属性生成次级运动，操作直观高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Springy-FX.jpg",
+    "http://aescripts.com/media/catalog/product/g/i/gif-1---parent-constraint.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-2---bend-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-3---shear-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-4---squashnstretch.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-5---jiggle-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-6---bulge-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-7---twist-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-8---liquid-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-9---custom-effect.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-383546568"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1C_w0N7WudIzj7kj0VL6Uww"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-202011487"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1slrtkct"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "脚本及其表达式现在完全兼容AE CC2019版本",
+      "不再需要繁琐的安装，除了CS6用户（如果每次弹出的“缺少效果”错误消息使他们感到恼火）",
+      "修复了弹性旋转的错误（涉及扭曲变形器和父子约束）",
+      "为CS6用户修复了错误"
+    ],
+    "tutorial_included": true,
+    "installation_video_included": true,
+    "official_store_url": "https://lookae.taobao.com/",
+    "sponsor_url": "https://www.lookae.com/sponsor/"
+  }
+}

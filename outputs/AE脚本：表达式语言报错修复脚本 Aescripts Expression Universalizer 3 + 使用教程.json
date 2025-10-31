@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本：表达式语言报错修复脚本 Aescripts Expression Universalizer 3 + 使用教程",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-jiao-ben-aescripts-expression-universalizer-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/10/11 19:04",
+  "source_url": "https://www.lookae.com/universalizer3/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可修复因AE软件语言不同导致的表达式报错问题，使中文版或其他语言版本的AE能够兼容英文等其他语言编写的表达式。支持批量处理，适用于多种版本的After Effects。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ExpressionUniversalizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-223725905"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1c53DZC"
+    },
+    {
+      "name": "大众脸官方淘宝店",
+      "url": "https://lookae.taobao.com/"
+    },
+    {
+      "name": "自愿赞助 LookAE.com 网站",
+      "url": "https://www.lookae.com/sponsor/"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/expressionuniversalizer/",
+    "description": "Converts the expressions in your projects so that they are compatible with After Effects running in any language. Now with batch processing.",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本",
+      "After Effects"
+    ],
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

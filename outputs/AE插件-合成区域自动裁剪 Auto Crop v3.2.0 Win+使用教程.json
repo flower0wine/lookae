@@ -1,0 +1,46 @@
+{
+  "title": "AE插件-合成区域自动裁剪 Auto Crop v3.2.0 Win+使用教程",
+  "slug": "aecha-jian-he-cheng-qu-yu-zi-dong-cai-jian-auto-crop-v3-2-0-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/08/24 11:05",
+  "source_url": "https://www.lookae.com/auto-crop-320/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Auto Crop",
+    "自动裁剪"
+  ],
+  "content": "该插件脚本允许用户立即裁剪合成内容的大小，可在当前帧处裁剪合成，或分析整个合成的内容和裁剪，且不会切断任何动画。Auto Crop 3现在甚至支持在不预合成的情况下裁剪当前合成，最新版本已重建为本机插件，以提供新功能和更好的结果，还能够根据合成透明信息剪裁成适合的大小。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Auto-Crop.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After EffectsCC 2024, 2023, 2022, 2021, 2020, 2019, CC 2018, 2017, 2015, 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1345185196-987c73?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1t3cs2QATahjNfuNMI0apKA?pwd=vzo6"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/98qfARCgeC9"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE插件",
+        "链接": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

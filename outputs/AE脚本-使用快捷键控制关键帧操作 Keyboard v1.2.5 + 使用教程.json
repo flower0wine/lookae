@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-使用快捷键控制关键帧操作 Keyboard v1.2.5 + 使用教程",
+  "slug": "aejiao-ben-shi-yong-kuai-jie-jian-kong-zhi-guan-jian-zheng-cao-zuo-keyboard-v1-2-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/10/19 14:06",
+  "source_url": "https://www.lookae.com/keyboard-125/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "KEYboard 脚本为 After Effects 提供了一套通过自定义快捷键控制关键帧操作的功能，显著提升动画制作效率。支持设置关键帧缓动、克隆键、镜像键、移位键和随机键等常用操作，所有功能均可通过键盘快捷键完成，避免繁琐的菜单操作。脚本适用于 Win/Mac 系统，兼容 AE 2021 至 CC 2014 版本。附带高清视频教程，帮助用户快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/KEYboard.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518155213-77c463"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/14hfsU6VCP1AO8RHNgCTabA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YB1RMWAYcpS"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "如果启用该选项，键盘窗口将出现在最后打开的位置。",
+      "如果启用该选项，克隆键或镜像键可以选择新复制的关键帧。",
+      "QuickVal 添加约束比例模式。",
+      "数字行中的自定义 EaseInOut 可以为传入和传出速度键入 2 个不同的值。"
+    ],
+    "tutorial_available": true,
+    "guide_page_link": "https://www.lookae.com/keyboard-125/",
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

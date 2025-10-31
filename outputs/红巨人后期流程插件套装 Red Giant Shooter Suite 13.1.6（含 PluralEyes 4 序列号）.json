@@ -1,0 +1,60 @@
+{
+  "title": "红巨人后期流程插件套装 Red Giant Shooter Suite 13.1.6（含 PluralEyes 4 序列号）",
+  "slug": "hong-ju-ren-hou-qi-liu-cheng-cha-jian-tao-zhuang-red-giant-shooter-suite-13-1-6-han-pluraleyes-4-xu-lie-hao",
+  "author": "大众脸",
+  "post_date": "2018-04-11",
+  "source_url": "https://www.lookae.com/shooter1316/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Shooter Suite 13 是一套面向摄影机与音频媒体工作流程的四合一套装插件，可确保素材安全、音画同步并快速到达剪辑时间线。13.1.6 版本新增 Adobe CC 2018 支持并修复已知问题，包含 PluralEyes 4、Offload、Instant 4K 与 Frames 四款工具，适用于 AE、PR、FCPX、Avid 等主流剪辑平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/shooter13.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "13.1.6",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-243785840"
+    },
+    {
+      "name": "Win 百度云",
+      "url": "https://pan.baidu.com/s/1K1rqJcqro0nDe-CzRp_BvA"
+    },
+    {
+      "name": "Mac 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-243785765"
+    },
+    {
+      "name": "Mac 百度云",
+      "url": "https://pan.baidu.com/s/1JQCvV2zsUgjWGlcxvdqePg"
+    }
+  ],
+  "other": {
+    "serial_numbers": {
+      "PluralEyes 4": "PFEK1245921362842515",
+      "Frames 1.1": "MBFK1245843484599512",
+      "Instant 4K": "IHDK1245843086124132",
+      "Offload 1.0": "OFLK1245858439487526"
+    },
+    "included_plugins": [
+      "PluralEyes v4.1.1",
+      "Offload v1.0.2",
+      "Instant 4K v1.5.2",
+      "Frames v1.1.5"
+    ],
+    "compatible_host_apps": [
+      "Adobe After Effects CS5–CC2018",
+      "Adobe Premiere Pro CS5–CC2018",
+      "Final Cut Pro 6/7/X",
+      "Avid Media Composer 7+"
+    ]
+  }
+}

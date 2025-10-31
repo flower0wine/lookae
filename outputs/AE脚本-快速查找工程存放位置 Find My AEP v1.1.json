@@ -1,0 +1,57 @@
+{
+  "title": "AE脚本-快速查找工程存放位置 Find My AEP v1.1",
+  "slug": "aejiao-ben-kuai-su-cha-zhao-gong-cheng-cun-fang-wei-zhi-find-my-aep-v1-1",
+  "author": "大众脸",
+  "post_date": "2021/09/10 09:41",
+  "source_url": "https://www.lookae.com/find-aep/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一个简单的脚本，可以快速显示打开的 After Effects 项目在文件系统中所在的文件夹，也就是 Finder 窗口或 Windows 资源管理器窗口。该脚本支持 OSX 和 Windows 系统，兼容 Kbar 工具，具备响应式 UI，可大幅减少在复杂文件结构中寻找项目文件的时间，帮助用户精准定位项目所在位置。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/Find-My-AEP.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325526112826.mp4"
+  ],
+  "supported_versions": "After Effects 2021, 2020",
+  "supported_os": "OSX, Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-513139431-0742a6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ksq6JC7opKlZOAOKVafZag"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9aJqoEsokmP"
+    }
+  ],
+  "other": {
+    "description": "While it can be run as a standalone ScriptUI Panel, it shines when integrated with Kbar. Save minutes a day!",
+    "features": [
+      "适用于 OSX 和 Windows",
+      "Kbar 兼容，并包括默认图标",
+      "响应式 UI 允许您创建一个巨大的按钮",
+      "最大限度地减少在复杂的文件层次结构中浪费的时间",
+      "确切知道您的项目文件在哪里",
+      "支持 After Effects 2021, 2020"
+    ],
+    "original_title": "AE脚本-快速查找工程存放位置 Find My AEP v1.1",
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "tags_links": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "c66v"
+    }
+  }
+}

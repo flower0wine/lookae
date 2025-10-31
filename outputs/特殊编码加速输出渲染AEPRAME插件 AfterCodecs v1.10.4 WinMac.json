@@ -1,0 +1,80 @@
+{
+  "title": "特殊编码加速输出渲染AE/PR/AME插件 AfterCodecs v1.10.4 Win/Mac",
+  "slug": "te-shu-bian-ma-jia-su-shu-chu-xuan-ran-ae-pr-amecha-jian-aftercodecs-v1-10-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2021-06-23T15:19:00Z",
+  "source_url": "https://www.lookae.com/aftercodecs-1104/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Media Encoder 打造的插件，支持多种高效编解码器，显著提升视频输出速度与质量。它可在 Windows 和 Mac 系统上运行，提供对 ProRes、H264（x264/x265）、HAP、x264 RGB 等编码格式的支持，并具备优化的工作流程功能，如批量导出标记、进度条显示、自定义参数设置等。特别适用于需要快速输出高质量视频或处理高分辨率项目（如 8K）的用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AfterCodecs-197.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": "After Effects: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nPremiere: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nMedia Encoder: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-500138910-c03981"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1KKmR05Pij1A81gXJNcdSqw"
+    }
+  ],
+  "other": {
+    "update_notes": "1.10.4 更新内容：许可错误修复；优化安装文件大小。",
+    "related_links": [
+      {
+        "title": "视频使用教程 - 城通网盘下载",
+        "url": "https://tc5.us/file/680462-406407782"
+      },
+      {
+        "title": "视频使用教程 - 百度网盘下载",
+        "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+      },
+      {
+        "title": "AfterCodecs v2.2.0beta1 Mac/Win 测试版",
+        "url": "https://www.lookae.com/aftercodecs-22/"
+      }
+    ],
+    "codec_support": {
+      "mov_prores": [
+        "422 LT",
+        "代理服务器",
+        "普通",
+        "HQ",
+        "4444",
+        "XQ",
+        "422 Ultra (非官方)",
+        "4444 Light (非官方)"
+      ],
+      "hap_gpu": [
+        "Hap",
+        "Hap Alpha",
+        "Hap Q",
+        "Hap Q Alpha"
+      ],
+      "x264": "最佳 H264 / AVC 实现，优于 Adobe Media Encoder 和 QuickTime H264，含 YouTube 上传配置文件",
+      "x265": "相同质量下比 x264 文件小 25%，但编码较慢",
+      "x264_rgb": "避免 YUV 色彩空间，适合存储单独通道（如 UV、Alpha、3D 通道），适合高级用户"
+    },
+    "key_features": [
+      "填补编解码器空白，无需 QuickTime 即可实现多格式导出",
+      "支持 ProRes、HAP、H264/H265 等高性能编码",
+      "支持在 Premiere 中批量导出的 MultiRender Markers",
+      "渲染时任务栏图标显示进度条",
+      "可设置目标文件大小、10 bpc、完整范围、色彩采样等进阶参数",
+      "支持 8K 渲染，适配旧版本 AE 及 Windows 平台"
+    ],
+    "feedback_link": "请在此表格上给我们您对 AfterCodecs 的反馈、需求和想法！"
+  }
+}

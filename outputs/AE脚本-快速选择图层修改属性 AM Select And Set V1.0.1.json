@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-快速选择图层修改属性 AM Select And Set V1.0.1",
+  "slug": "aejiao-ben-kuai-su-xuan-ze-tu-ceng-xiu-gai-shu-xing-am-select-and-set-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2021/08/02 09:24",
+  "source_url": "https://www.lookae.com/select-set-101/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层修改",
+    "快速选择"
+  ],
+  "content": "您是否曾经尝试过根据不同的属性值来选择图层？从时间轴中的数十个图层中搜索特定的一组图层？并经历了一个一个地选择它们的麻烦？现在给您的快速解决方案：使用AM Select And Set，您可以轻松地根据图层的大多数属性（例如图层类型，图层名称，索引，标签，混合模式等）选择图层。选择完成后，您也可以立即更改图层属性。v1.0.1更新：添加选择引导层和环境层",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/AM-Select-And-Set.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/308076400028.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-504462127-8ffaf7"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cQSmSKWkPNzyQWhHJcXvQA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/KVYygcUhj3K"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "qaup"
+    }
+  }
+}

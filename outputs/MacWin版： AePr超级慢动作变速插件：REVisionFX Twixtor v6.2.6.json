@@ -1,0 +1,46 @@
+{
+  "title": "Mac/Win版： Ae/Pr超级慢动作变速插件：RE:VisionFX Twixtor v6.2.6",
+  "slug": "mac-winban-ae-prchao-ji-man-dong-zuo-bian-su-cha-jian-re-visionfx-twixtor-v6-2-6",
+  "author": "大众脸",
+  "post_date": "2016-10-07 20:19",
+  "source_url": "https://www.lookae.com/twixtor626/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Twixtor",
+    "Win/Mac"
+  ],
+  "content": "Twixtor Pro 是 RE:VisionFX 公司推出的一款广受欢迎的视频变速插件，支持在 Adobe After Effects 和 Premiere Pro 中实现无极慢动作、加速或帧率变换，可生成流畅自然的视觉效果。该插件适用于多种版本的 AE 与 PR，支持 Mac 与 Windows 平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/twixtor6.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5, CS5.5, CS6, CC, CC 2014, CC 2015, CC 2015.3\nAdobe Premiere Pro CS5, CS5.5, CS6, CC, CC 2014, CC 2015, CC 2015.3",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Win 版本下载",
+      "url": "http://lookae.ctfile.com/fs/tAv157948018"
+    },
+    {
+      "name": "Mac 苹果版本下载",
+      "url": "http://lookae.ctfile.com/fs/AnH157947550"
+    }
+  ],
+  "other": {
+    "version": "v6.2.6",
+    "features": [
+      "Added an update checker for future version updating. The update check runs on the local machine, and must be manually run."
+    ],
+    "official_link": "http://revisionfx.com/products/twixtor/overview/",
+    "related_posts": [
+      "https://www.lookae.com/twixtor-601/",
+      "https://www.lookae.com/twixtor6/",
+      "https://www.lookae.com/twixtor-52/",
+      "https://www.lookae.com/twixtor515/",
+      "https://www.lookae.com/fcpx-twixtor54/"
+    ],
+    "note": "含注册序列号"
+  }
+}

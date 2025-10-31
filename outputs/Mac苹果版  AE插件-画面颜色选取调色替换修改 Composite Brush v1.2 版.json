@@ -1,0 +1,40 @@
+{
+  "title": "Mac苹果版 : AE插件-画面颜色选取调色替换修改 Composite Brush v1.2 版",
+  "slug": "macping-guo-ban-aecha-jian-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-composite-brush-v1-2-ban",
+  "author": "大众脸",
+  "post_date": "2018/12/15 21:44",
+  "source_url": "https://www.lookae.com/composite-12-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "Composite Brush 是一款精准且易于使用的 After Effects 颜色选择与修改插件。用户只需在画面上单击并拖动即可选取颜色，并对所选区域进行颜色替换或调色。按住 Alt 键加鼠标左键可取消选择。该插件可与 Keylight 抠像插件配合使用，使抠像效果更加干净、高效。V1.2 版本新增了“Previous Effect”和“Replace Alpha”传输模式，并用“Matte Choke”替代了原有的“Alpha Minimax”功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "Mac 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-325469938"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1sn1VyJ6dvskfxIoQvJeEbQ"
+    },
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-322137706"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1WhtFlWWHkyUsmthsN9UeSw"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/composite-brush/"
+  }
+}

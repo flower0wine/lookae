@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本：快速修改图形层 Aescripts Shape Layer Toolbar v1.0.1 + 使用教程",
+  "slug": "aejiao-ben-kuai-su-xiu-gai-tu-xing-ceng-aescripts-shape-layer-toolbar-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/09/11 21:01",
+  "source_url": "https://www.lookae.com/shape-layer/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以在AE软件中快速修改图形层的一些属性或添加多种调整参数、表达式、渐变等，支持批量处理。Shape Layer Toolbar 提供了对图形层元素和表达式控件的快速访问按钮，用户可以为每个元素设置首选参数，包括表达式和渐变。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Shape-Layer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-309184636"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1cXcciNQjfBNn-hlZog4VDw"
+    }
+  ],
+  "other": {
+    "original_title_link": "https://aescripts.com/shape-layer-toolbar/"
+  }
+}

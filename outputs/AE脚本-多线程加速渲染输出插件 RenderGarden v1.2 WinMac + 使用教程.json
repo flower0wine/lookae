@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-多线程加速渲染输出插件 RenderGarden v1.2 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-duo-xian-cheng-jia-su-xuan-ran-shu-chu-cha-jian-rendergarden-v1-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/05/20 22:18",
+  "source_url": "https://www.lookae.com/rendergarden/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "RenderGarden是一款多线程渲染插件，能够显著提高After Effects的输出速度。该脚本通过将合成分成指定数量的片段（种子），然后在多个背景命令行窗口（园丁）中并行渲染，从而最大化CPU核心利用率。用户可以在后台渲染时继续在After Effects中工作，支持网络渲染、渲染监视等功能，是AE用户的必备工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/RenderGarden.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/310946942848.mp4"
+  ],
+  "supported_versions": "AE 2021，2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://089u.com/f/680462-496610192-dbe654"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1SCo_11g2E7ifoBW9CsMyCQ"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://089u.com/f/680462-496612141-6a5917"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1iCtOgK-eBSuuGA4HvEl2HA"
+    }
+  ],
+  "other": {
+    "extraction_codes": {
+      "城通网盘": "6688",
+      "百度网盘脚本": "d607",
+      "百度网盘教程": "vc7u"
+    }
+  }
+}

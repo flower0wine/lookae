@@ -1,0 +1,83 @@
+{
+  "title": "Nobe OmniScope 1.10.123 Win/Mac达芬奇/AE/PR/OFX视频调色万能示波器插件",
+  "slug": "nobe-omniscope-1-10-123-win-macda-fen-qi-ae-pr-ofxshi-pin-diao-se-mo-neng-shi-bo-qi-cha-jian",
+  "author": "大众脸",
+  "post_date": "2024-04-16T09:46:00Z",
+  "source_url": "https://www.lookae.com/omniscope-110123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Nobe OmniScope",
+    "PR插件",
+    "示波器插件",
+    "达芬奇插件"
+  ],
+  "content": "Nobe OmniScope 是一款功能强大的视频调色万能示波器插件，支持多种主流视频编辑与调色软件。具备18种范围类型、多输入支持、杜比视界工作流程支持，以及12位信号处理能力。插件采用GPU加速技术，实现低延迟实时监控，支持在工作区自由排列和停靠的13种示波器类型，并可保存和加载项目布局。内置直方图范围快速蒙版生成、色调直方图辅助肤色精准调整，支持单独模式深入分析图表。同时原生支持 StreamDeck 快捷操作、NDI® 5 传输协议及 OpenColorIO 颜色管理，兼容 Apple Silicon（M1芯片）系统，适用于达芬奇、After Effects、Premiere Pro、Photoshop、Lightroom、Vegas 等 OFX 支持平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Nobe-OmniScope.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442587104088.mp4"
+  ],
+  "supported_versions": "1.10.123",
+  "supported_os": "Windows, macOS (包括 Apple Silicon M1 芯片)",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1055958622-331384?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1ByN6d_vj0ckzN2jbgCaKwA?pwd=l7wk"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/NPM1Gqkbkgb"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1055958820-bb29e4?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Ptcg-UAklZ9OM1guDm-oFg?pwd=eur1"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/Vd8ECCU95J1"
+    }
+  ],
+  "other": {
+    "features": [
+      "18 种范围类型",
+      "多种输入支持",
+      "支持杜比视界工作流程",
+      "极快的性能",
+      "12位信号支持",
+      "高度通用且可定制",
+      "先进的质量控制和新的质量控制时间表",
+      "使用 OpenColorIO 进行颜色管理",
+      "原生 StreamDeck 支持",
+      "NDI® 5 支持",
+      "Apple Silicon 就绪（M1 芯片）"
+    ],
+    "supported_software": [
+      "DaVinci Resolve",
+      "Scratch",
+      "AE",
+      "PR",
+      "PS",
+      "Lightroom",
+      "Vegas",
+      "其他 OFX 程序"
+    ],
+    "passwords": {
+      "win_ctfile": "6688",
+      "win_baidu": "l7wk",
+      "mac_ctfile": "6688",
+      "mac_baidu": "eur1"
+    },
+    "image_alt": "Nobe OmniScope 1.10.123 Win/Mac达芬奇/AE/PR/OFX视频调色万能示波器插件"
+  }
+}

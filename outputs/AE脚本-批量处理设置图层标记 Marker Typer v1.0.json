@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-批量处理设置图层标记 Marker Typer v1.0",
+  "slug": "aejiao-ben-pi-liang-chu-li-she-zhi-tu-ceng-biao-ji-marker-typer-v1-0",
+  "author": "大众脸",
+  "post_date": "2019/04/23 13:43",
+  "source_url": "https://www.lookae.com/marker-typer/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "After Effects的Marker Typer脚本可以从文本中创建一批图层标记，然后批量同时给多个图层添加多个标记；自动按字母、文字、单词或逗号分割。这在标记触发动画或一般项目组织中非常有用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Marker-Typer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367669127"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OTvqhUii-kfcpHQzR817Yw"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_code": "yqcx"
+  }
+}

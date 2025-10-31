@@ -1,0 +1,48 @@
+{
+  "title": "Ae/Pr/Ps/OFX风格影印叠加滤镜插件Digital Film Tools PhotoCopy 2.0v9.1 支持 CC 2018",
+  "slug": "ae-pr-ps-ofxfeng-ge-ying-yin-die-jia-lu-jing-cha-jian-digital-film-tools-photocopy-2-0v9-1-zhi-chi-cc-2018",
+  "author": "大众脸",
+  "post_date": "2017/10/26 19:12",
+  "source_url": "https://www.lookae.com/photocopy2091/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "达芬奇插件"
+  ],
+  "content": "Digital Film Tools PhotoCopy 是一款用于分析照片亮度、颜色、色调及多种电影、绘画、摄影和历史影像工艺质感的插件。它能将这些图像的视觉特征（如色彩、色调、亮度）复制并应用到用户自己的图像上，同时模拟其纹理、颗粒与细节。用户可创建、保存并应用自定义预设，使任何图像（无论质量好坏）转化为具有艺术感的新作品。插件适用于静态图像与动态影像，操作简单，效果独特。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/PhotoCopy.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2018 及以上（部分软件从 CS5 起支持）",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-225774017"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kUQABkj"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/photocopy/",
+    "installation_note": "插件为一键安装版，安装后即可直接使用",
+    "supported_applications": [
+      "Photoshop CS5 and up (64 Bit Only)",
+      "Photoshop Elements 13 and up (Non-app store version)",
+      "Photoshop Lightroom 3 and up",
+      "After Effects CS5 and up",
+      "Premiere Pro CS5 and up",
+      "Avid Editing Systems (64 Bit only)",
+      "Assimilate Scratch v8 and up",
+      "Black Magic Resolve v11 and up",
+      "Sony Vegas v13 and up",
+      "The Foundry’s Nuke v8 and up"
+    ]
+  }
+}

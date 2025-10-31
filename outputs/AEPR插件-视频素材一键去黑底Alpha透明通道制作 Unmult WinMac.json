@@ -1,0 +1,33 @@
+{
+  "title": "AE/PR插件-视频素材一键去黑底Alpha透明通道制作 Unmult Win/Mac",
+  "slug": "ae-prcha-jian-shi-pin-su-cai-yi-jian-qu-hei-di-alphatou-ming-tong-dao-zhi-zuo-unmult-win-mac",
+  "author": "大众脸",
+  "post_date": "2019/12/19 22:18",
+  "source_url": "https://www.lookae.com/unmult/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Unmult 是由 Red Giant（红巨人）公司免费出品的一款插件，用于在 After Effects 或 Premiere Pro 中一键去除视频素材的黑色背景，生成 Alpha 透明通道。相比使用混合模式（如滤色或屏幕）去除黑底，Unmult 在处理单个图层或特殊情况下效果更佳、操作更便捷。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/AE-Unmult.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2020, Premiere Pro CS6 – CC 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://url62.ctfile.com/f/680462-414484805-81fa54?p=6688"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1iT5Lnypdf5Swimm1UaV2Gw"
+    }
+  ],
+  "other": {
+    "access_password": "6688"
+  }
+}

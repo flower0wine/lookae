@@ -1,0 +1,45 @@
+{
+  "title": "AE/PR插件-粗糙复古8bit比特像素效果 RetroDither v1.10 Win",
+  "slug": "ae-prcha-jian-cu-cao-fu-gu-8bitbi-te-xiang-su-xiao-guo-retrodither-v1-10-win",
+  "author": "大众脸",
+  "post_date": "2025/01/13 09:33",
+  "source_url": "https://www.lookae.com/retrodither-110/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "RetroDither"
+  ],
+  "content": "这款RetroDither插件能在AE中模拟出粗糙比特像素画面效果，包含众多预设，支持GPU加速，可用于为动态图形或镜头添加复古感。v1.8更新内容包括修复许可证故障、支持MFR多帧渲染、修复AE 2025崩溃问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/RetroDither.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/503707152925.mp4"
+  ],
+  "supported_versions": "After Effects: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017,CC 2015,CC 2014; Premiere: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017,CC 2015,CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1446468893-f28b65?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ZJISzNmJnsf0dnEWpQQi8Q?pwd=ykw2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/xqpPAATRveb"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "plugin_introduction": "RetroDither is a GPU accelerated plugin for Adobe After Effects which allows to create stylized images with dithering and color schemes from retro game consoles and home computer platforms. You could call it ‘save GIF for web’ on steroids on first sight, but in fact RetroDithering is capable to do so much more, having more than 10 different ordered and errordiffusion dithering algorithms and color palettes varying from several adaptive to classic hardware ones, such as ZX spectrum, CGA, MSX and many more."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-抽象多低变形图形组合特效 Geometrize v1.0.1 + 使用教程",
+  "slug": "aejiao-ben-chou-xiang-duo-di-bian-xing-tu-xing-zu-he-te-xiao-geometrize-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/29 22:06",
+  "source_url": "https://www.lookae.com/geometrize/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可在AE软件中将静态图片制作成抽象多低变形图形组合效果，组合图形可为矩形、三角形和椭圆形，会生成数百个随机形状，并通过特殊优化方法反复变异，几何化算法会对形状排序，选取最适合的用于最终图像。v1.0.1版增加了多语言AE支持，支持Win/Mac系统：AE CC 2019, CC 2018。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Geometrize.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-369454358"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1dzaDe039kKvXdQu3s3M3Cg",
+      "extra": "提取码：xuqd"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

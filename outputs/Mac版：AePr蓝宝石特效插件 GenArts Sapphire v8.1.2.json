@@ -1,0 +1,63 @@
+{
+  "title": "Mac版：Ae/Pr蓝宝石特效插件 GenArts Sapphire v8.1.2",
+  "slug": "macban-ae-prlan-bao-shi-te-xiao-cha-jian-genarts-sapphire-v8-1-2",
+  "author": "大众脸",
+  "post_date": "2015/08/24 13:07",
+  "source_url": "https://www.lookae.com/sapphiremac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件",
+    "苹果插件"
+  ],
+  "content": "大名鼎鼎的AE/PR外置 GenArts 蓝宝石插件拥有几百种非常炫的强力视觉效果和转场效果。蓝宝石插件套装可以提高工作效率，增加想象力，提供无限的创作空间，因卓越的图像质量和优秀的渲染速度，受到众多后期爱好者的追捧和喜爱。新版本重新进行了包装和创新，不仅优化了插件，还加入了一些新效果，如 LightLeak（炫光）、Grunge（纹理）、Shake（抖动）、DigitalDamage（信号故障）和 Crosshatch（线条素描）。效果预览界面更加专业，并支持自定义保存预设。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/Sapphire.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe AE + PR CS6 – CC2014, CC 2015",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "Mac版：Ae/Pr蓝宝石特效插件 GenArts Sapphire v8.1.2 for Adobe",
+      "url": "https://www.400gb.com/file/114450410"
+    },
+    {
+      "name": "GenArts系列辅助注册机下载",
+      "url": "https://www.400gb.com/file/114482264"
+    }
+  ],
+  "other": {
+    "plugin_categories": [
+      "Sapphire Adjust",
+      "Sapphire Blur+Sharpen",
+      "Sapphire Builder",
+      "Sapphire Composite",
+      "Sapphire Distort",
+      "Sapphire Lighting",
+      "Sapphire Render",
+      "Sapphire Stylize",
+      "Sapphire Time",
+      "Sapphire Transitions"
+    ],
+    "changelog": [
+      "更好的兼容 Adobe CC 2015 软件",
+      "修复FilmRoll插件的BUG错误",
+      "提高性能预览",
+      "After updating to this release, S_Effect instances containing Beauty, LightLeak, Grunge, or others may have a color parameter reset.",
+      "Fixed a bug in S_Effect that could corrupt AE projects on some machines.",
+      "Reduced intensity of some Swish3D presets to speed up renders and avoid Windows GPU driver issues.",
+      "Builder: fixed a bug where saved presets sometimes did not show up in the Preset Browser.",
+      "Fixed license activation problems on Mac.",
+      "VintageColor2Strip: improved results when Red Filter or Bluegreen Filter is set to black.",
+      "Fixed a memory leak in Builder.",
+      "FlickerMchMatteColor: fixed Set Hold Level button for certain types of match inputs.",
+      "GradientMulti now handles pixel aspect ratio correctly.",
+      "BleachBypass: Fixed incorrect renders when GrainAmpRed was set to zero.",
+      "Caustics: fixed artifacts at the edge of the image when using a custom Bumps pattern"
+    ],
+    "official_website": "http://info.genarts.com/sapphire-8",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

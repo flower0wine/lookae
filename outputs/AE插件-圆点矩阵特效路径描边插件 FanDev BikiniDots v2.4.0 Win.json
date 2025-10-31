@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-圆点矩阵特效路径描边插件 FanDev BikiniDots v2.4.0 Win",
+  "slug": "aecha-jian-yuan-dian-ju-zhen-te-xiao-lu-jing-miao-bian-cha-jian-fandev-bikinidots-v2-4-0-win",
+  "author": "大众脸",
+  "post_date": "2024/08/25 12:33",
+  "source_url": "https://www.lookae.com/bikinidots-240/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BikiniDots",
+    "圆点矩阵特",
+    "路径描边"
+  ],
+  "content": "Bikinidots是一个插件包，包含两个Adobe After Effects插件b_dots和b_stroke。这两个插件都具有Z深度位移功能，可根据亮度、饱和度或色调值在Z深度中位移每个点/笔划，点/笔划大小也可通过这些值调节，且插件具有完整的相机感知和3D功能。b_stroke是路径描边插件，可在X、Y或Z方向描边路径；b_dots是点阵生成器插件，能创建圆圈（点）矩阵，点的颜色值来自源图像对应区域平均采样像素值。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/BikiniDots-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 或更高版",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1345352992-cf8474?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/10gVLapqY3XxOQ6YPK_ebSA?pwd=qaun"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/hLrxXvh5qcm"
+    }
+  ],
+  "other": {
+    "分类链接": [
+      {
+        "分类": "AE插件",
+        "链接": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "分类": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "英文介绍": "Bikinidots is a plug-in package containing two plug-ins for Adobe After Effects, b_dots and b_stroke. b_stroke is a path stroke plug-in with a Z-depth displacement feature, which lets you to stroke your paths in all directions: X, Y or Z. b_dots is a dot matrix generator plug-in that creates a matrix of circles (dots). The color value of each dot is the average sampled pixel value of that area from the source image. Both plugins has a Z-depth displacement feature, you can displace each dot/stroke in Z-depth depending on its lightness, saturation or hue value. The size of each dot/stroke can also be modulated by the lightness, saturation or hue value. The Bikinidots plug-ins has full camera awareness and 3D functionality."
+  }
+}

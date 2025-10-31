@@ -1,0 +1,51 @@
+{
+  "title": "木偶图钉工具高级绑定控制AE脚本 Voodoo V1.0 + 使用教程",
+  "slug": "mu-ou-tu-ding-gong-ju-gao-ji-bang-ding-kong-zhi-aejiao-ben-voodoo-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/03/31 10:07",
+  "source_url": "https://www.lookae.com/voodoo/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图钉工具",
+    "绑定工具"
+  ],
+  "content": "Voodoo 是一款专为 After Effects 设计的高级绑定与木偶图钉控制工具，支持流线型引脚跟踪和控制器自动生成。该工具可显著提升动画创作效率，实现无缝的木偶动画控制，增强 After Effects 的工作流程并释放创作自由。适用于 Windows 和 Mac 系统，兼容 After Effects 2020 至 2023 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/voodoo.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/403647953729.mp4"
+  ],
+  "supported_versions": "After Effects 2020, 2021, 2022, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-833832456-22e274?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1-driNBEbbXcWxvjDScYEhg?pwd=5jrp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/rGojeE2S7Wm"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e5%9b%be%e9%92%89%e5%b7%a5%e5%85%b7/",
+      "https://www.lookae.com/tag/%e7%bb%91%e5%ae%9a%e5%b7%a5%e5%85%b7/"
+    ],
+    "description": "用于无缝木偶工具控制和高级绑定的After Effects工具。使用Voodoo的流线型引脚跟踪和控制器生成，增强您的After Effects体验并释放创作自由。",
+    "english_description": "The After Effects Tool for Seamless Puppet Tools Control and advanced parenting. Enhance your After Effects experience and unlock creative freedom using Voodoo’s streamlined pin tracking and controller generation."
+  }
+}

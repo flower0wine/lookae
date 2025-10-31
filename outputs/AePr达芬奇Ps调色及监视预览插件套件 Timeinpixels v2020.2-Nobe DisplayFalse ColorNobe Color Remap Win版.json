@@ -1,0 +1,43 @@
+{
+  "title": "Ae/Pr/达芬奇/Ps调色及监视预览插件套件 Timeinpixels v2020.2-Nobe Display/False Color/Nobe Color Remap Win版",
+  "slug": "ae-pr-da-fen-qi-psdiao-se-ji-jian-shi-yu-lan-cha-jian-tao-jian-timeinpixels-v2020-2-nobe-display-false-color-nobe-color-remap-winban",
+  "author": "大众脸",
+  "post_date": "2020/02/18 16:41",
+  "source_url": "https://www.lookae.com/timeinpixels/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "PS插件",
+    "Timeinpixels",
+    "达芬奇插件"
+  ],
+  "content": "Timeinpixels Plug-ins Bundle v2020.2 调色及监视预览套件，包含三个专业插件：Nobe Color Remap色彩映射插件，比3D LUT Creator更方便更流畅的操作；False Color伪色预监插件，提供了市面上绝大部分硬件监视器的伪色预监；Nobe Display预览监视器插件，可以直接将DaVinci画面输出到Nobe Display窗口，并放置于任意位置。该套件简化了后期制作流程，提供更清晰、更精确的结果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/02/timeinpixels.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/252644020829.mp4"
+  ],
+  "supported_versions": "DaVinci Resolve 14, 15 and 16 或更高版本；Adobe After Effects CC 或更高版本；Adobe Photoshop CC 或更高版本；Adobe Premiere Pro CC 或更高版本",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-423061679"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OfOWpP8fjQaw9NrUxghIhw"
+    }
+  ],
+  "other": {
+    "baidu_download_password": "h4w0",
+    "plugins_included": [
+      "False Color v3.73",
+      "Nobe Color Remap v1.73",
+      "Nobe Display v1.42"
+    ],
+    "official_website": "https://timeinpixels.com/"
+  }
+}

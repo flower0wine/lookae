@@ -1,0 +1,91 @@
+{
+  "title": "红巨人降噪磨皮调色插件套装Red Giant Magic Bullet Suite v13.0.12 Win/Mac支持 2020",
+  "slug": "hong-ju-ren-jiang-zao-mo-pi-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v13-0-12-win-maczhi-chi-2020",
+  "author": "大众脸",
+  "post_date": "2019/10/25 11:43",
+  "source_url": "https://www.lookae.com/mbsuite-13012/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant 发布了最新的降噪磨皮调色插件套装 Magic Bullet Suite v13，提供实时色彩校正，并支持 OpenGL 和 OpenCL，所有工具均基于 GPU 加速以实现最大处理速度。该套装包含多个专业插件，适用于视频调色、磨皮润肤、降噪及添加电影感效果，广泛用于影视后期制作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13.jpg",
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13sn.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50106864664.mp4"
+  ],
+  "supported_versions": "Adobe CC 2018 – 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版本 - 城通网盘",
+      "url": "https://tc5.us/file/680462-404163107"
+    },
+    {
+      "name": "Win 版本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1DPlvpX_LpgLMjIKbyCcjYg"
+    },
+    {
+      "name": "Win 版本 - 官网",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/magicbullet/archive/MBSuite_Win_Full_13.0.12.zip"
+    },
+    {
+      "name": "Mac 版本 - 城通网盘",
+      "url": "https://tc5.us/file/680462-404163058"
+    },
+    {
+      "name": "Mac 版本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/197eWbo_azPwKpod7DR2D4A"
+    },
+    {
+      "name": "Mac 版本 - 官网",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/magicbullet/archive/MBSuite_Mac_Full_13.0.12.zip"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Magic Bullet Colorista IV 4.0.4",
+      "Magic Bullet Cosmo II 2.0.1",
+      "Magic Bullet Film 1.2.2",
+      "Magic Bullet Looks 4.0.3",
+      "Magic Bullet Mojo II 2.0.2",
+      "Magic Bullet Denoiser III 3.0.1",
+      "Magic Bullet Renoiser 1.0.2"
+    ],
+    "supported_software": [
+      "Adobe After Effects CS6 – CC 2019",
+      "Adobe Premiere Pro CS6 – CC 2019",
+      "Davinci Resolve Studio 11, 12",
+      "Apple Final Cut Pro X",
+      "Apple Motion 5",
+      "Avid Media Composer 7.0, 8.0+",
+      "Vegas Pro 12, 13, 14 (64-bit)",
+      "Edius 8",
+      "HitFilm Pro"
+    ],
+    "serial_numbers": [
+      "COBK2245921573563861",
+      "COBK2245846563534111"
+    ],
+    "tutorial_links": [
+      {
+        "name": "教程 - 城通网盘",
+        "url": "http://lookae.ctfile.com/fs/EOV159613519"
+      },
+      {
+        "name": "教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1nu7VFYT"
+      }
+    ],
+    "additional_links": {
+      "official_store": "https://lookae.taobao.com/",
+      "sponsor_page": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

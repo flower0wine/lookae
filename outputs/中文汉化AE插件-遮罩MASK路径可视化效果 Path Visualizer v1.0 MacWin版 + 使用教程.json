@@ -1,0 +1,62 @@
+{
+  "title": "中文汉化AE插件-遮罩MASK路径可视化效果 Path Visualizer v1.0 Mac/Win版 + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-zhe-zhao-masklu-jing-ke-shi-hua-xiao-guo-path-visualizer-v1-0-mac-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/08/11 23:12",
+  "source_url": "https://www.lookae.com/path-visualizer-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "中文汉化"
+  ],
+  "content": "Path Visualizer 是一款用于 Adobe After Effects 的插件，可根据文本或遮罩路径自动生成顶点、贝塞尔曲线和控制手柄。支持实时动画更新，适用于技术风格或蓝图类视觉效果。插件支持多种顶点样式（圆、菱形、正方形），可自定义手柄长度、宽度、颜色和描边，并提供丰富的样式参数以适配不同设计需求。在3D模式下使用时需预先合成图层。该插件兼容文本层、形状层及遮罩路径，且路径可视化会根据缩放比例动态调整，确保无限缩放不丢失分辨率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Path-Visualizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, 2020",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Mac版 - 英文版",
+      "url": "https://089u.com/file/680462-456699434"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1XaPO7h5g5wxW4PWKqb4WhA"
+    },
+    {
+      "name": "Win版 - 英文版",
+      "url": "https://tc5.us/file/680462-406122004"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1LCYiWhVs2ICDiPrCXrt8fA"
+    },
+    {
+      "name": "Win版 - 中文汉化版",
+      "url": "https://089u.com/file/680462-456763089"
+    },
+    {
+      "name": "Win版 - 中文汉化版 百度网盘",
+      "url": "https://pan.baidu.com/s/1Ze_uJS18YDmeVv-oVsKN0Q"
+    }
+  ],
+  "other": {
+    "original_source": "https://www.lookae.com/path-visualizer-mac/",
+    "plugin_website": "https://aescripts.com/path-visualizer/",
+    "extract_code_mac": "k6ox",
+    "extract_code_win": "elws",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "related_tags": [
+      "AE插件",
+      "MAC",
+      "中文汉化"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本：快速创建刻度标尺图形动画脚本 Aescripts easyRulers v1.5",
+  "slug": "aejiao-ben-kuai-su-chuang-jian-ke-du-biao-chi-tu-xing-dong-hua-jiao-ben-aescripts-easyrulers-v1-5",
+  "author": "大众脸",
+  "post_date": "2016/09/05 13:32",
+  "source_url": "https://www.lookae.com/easyrulers15/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts easyRulers 脚本可以很轻松的创建带有数字刻度标尺的图形效果支持，能够快速简单的创建众多类型的图形测量标尺，易于操作控制简单。它非常适合创建仪表盘、示波器、速度计、图形均衡器、HUD、UI元素、历史时间线、仪器布局、信息图等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/easyruler_-_example_9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6/CC/CC2014/CC2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：快速创建刻度标尺图形动画脚本 Aescripts easyRulers v1.5",
+      "url": "http://lookae.ctfile.com/fs/9T2156097834"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "version_1.5_updates": [
+      "更简单的界面，操作更加简洁",
+      "“Create Ruler – 创建标尺”按钮会显示一个加号",
+      "改变了“mirror – 镜像”选项设置。上/外，下/内或两者镜像",
+      "增加标尺线形状选择：无标尺线的形状，条纹，圆点",
+      "增加尺基线三个选项：无，仅底部，多个",
+      "增加重置默认设置按钮"
+    ],
+    "official_website": "http://aescripts.com/easyrulers/",
+    "additional_links": [
+      {
+        "name": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

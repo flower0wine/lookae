@@ -1,0 +1,60 @@
+{
+  "title": "AE插件-场景扫描DOF深度图自动生成 Depth Scanner 1.16.19 Win",
+  "slug": "aecha-jian-chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-depth-scanner-1-16-19-win",
+  "author": "大众脸",
+  "post_date": "2025-04-23T10:56:00Z",
+  "source_url": "https://www.lookae.com/depth-scanner-11616/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Depth Scanner",
+    "DOF深度图"
+  ],
+  "content": "Depth Scanner 是一款基于人工智能的 AE 插件，可自动从图像和视频中生成深度图。生成的深度图可用于多种后期处理任务，如添加雾效、将素材转换为立体3D，以及其他图像特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1500221944-b659d4?p=4431"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/14gk3DwBJJnENBWIyseRk2g?pwd=whrt"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.alipan.com/s/fkG1uivv2pf"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+    },
+    {
+      "name": "视频教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ],
+  "other": {
+    "update_notes": "1.16.19 版本修复了导致 GPU 内存填满的错误。",
+    "categories_link": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/depth-scanner/",
+      "https://www.lookae.com/tag/dof%e6%b7%b6%e5%ba%a6%e5%9b%be/"
+    ]
+  }
+}

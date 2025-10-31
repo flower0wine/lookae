@@ -1,0 +1,46 @@
+{
+  "title": "Win/Mac版：AE脚本：人物角色骨骼绑定脚本 Duduf Duik v15.08 + 使用教程",
+  "slug": "win-macban-aejiao-ben-ren-wu-jiao-se-gu-ge-bang-ding-jiao-ben-duduf-duik-v15-08-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/06/17 13:24",
+  "source_url": "https://www.lookae.com/duik1508/",
+  "category": "aechajian",
+  "tags": [
+    "Aescript",
+    "AE脚本"
+  ],
+  "content": "Duik是DuDuF出品的动力学和动画工具，其基本工具包含反向动力学、骨骼变形器等，让创建动画变得更简单，支持Win/Mac系统下的Adobe After Effects。Duik 15.08新版更新了修改错误BUG。此脚本还具备反向运动学、骨骼和傀儡工具、自适应操控、操控工具、动画工具等功能，且支持多语言切换为中文。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2WgYJfVXXXXb4XXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE脚本：人物角色骨骼绑定脚本 Duik 15.08",
+      "url": "http://lookae.ctfile.com/fs/r7P152532623"
+    },
+    {
+      "name": "脚本使用操作教程下载",
+      "url": "https://www.400gb.com/file/122991244"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "script_english_introduction": "Duik has been conceived to be as simple and user friendly as possible. However, rigging can be a complex work, and we are aware of that.DuDuF IK & Animation Tools. The essential tools for the animation on After Effects: Autorig, Cinématique inverse (IK), Bones, Morphers, Dynamics……https://www.indiegogo.com/projects/duik-15–2#/"
+  }
+}

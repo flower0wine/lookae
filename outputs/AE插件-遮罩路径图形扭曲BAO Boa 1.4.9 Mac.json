@@ -1,0 +1,46 @@
+{
+  "title": "AE插件-遮罩路径图形扭曲BAO Boa 1.4.9 Mac",
+  "slug": "aecha-jian-zhe-zhao-lu-jing-tu-xing-niu-qu-bao-boa-1-4-9-mac",
+  "author": "大众脸",
+  "post_date": "2022-03-20 21:40",
+  "source_url": "https://www.lookae.com/bao-boa-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "BAO Boa 是一款 After Effects 插件，可沿 MASK 遮罩路径对图层进行扭曲变形，是制作路径扭曲动画最简单、最精确、最快速的方法。支持 3D 拉伸、轮廓、摄影机与灯光交互，具备超快渲染与完全原生集成。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/BAO-Boa.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556955051-d0a2d1"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1SzBp7OPedoZwB68uHVfpdw?pwd=eh45"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ThcwJh4KSXA"
+    }
+  ],
+  "other": {
+    "update_notes": "1.4.9 更新内容：修复了脚本警告问题。",
+    "tutorial_links": [
+      {
+        "name": "城通网盘教程",
+        "url": "https://lookae.ctfile.com/fs/680462-395367140"
+      },
+      {
+        "name": "百度网盘教程",
+        "url": "https://pan.baidu.com/s/1cvahGasOL717SFmriVcwUw"
+      }
+    ],
+    "related_post": "https://www.lookae.com/boa-149/"
+  }
+}

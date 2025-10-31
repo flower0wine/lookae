@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-形状图形路径偏移混合动画制作 AE Shapes Blender 1.2.0+使用教程",
+  "slug": "aejiao-ben-xing-zhuang-tu-xing-lu-jian-pian-yi-hun-he-dong-hua-zhi-zuo-ae-shapes-blender-1-2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/11/18 11:56",
+  "source_url": "https://www.lookae.com/shapes-blender-120/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "利用脚本可以在After Effects中轻松混合形状图形，并具有许多出色的功能。以您希望的方式控制脊椎路径，轻松混合和偏移路径。创建漂亮的循环并为其设置动画。只需选择2个或更多形状路径，单击按钮即可创建混合。您可以选择高级属性和简单属性来控制混合。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/AE-Shapes-Blender-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/350019902521.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1427535088-dc7861?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1P0-dtnRXWBuD-jfRvHbsew?pwd=zxtt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/UnnB4ZmddA9"
+    }
+  ],
+  "other": {
+    "update_content": "v1.2.0更新内容：UI变得更加紧凑；将附加实用程序移至其自己的对话框中；一些附加实用程序现在具有编辑选定路径的默认行为；自动检测并更新表达式引擎；错误修复和代码结构改进。",
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "zxtt"
+    }
+  }
+}

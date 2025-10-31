@@ -1,0 +1,51 @@
+{
+  "title": "真实玻璃折射视觉效果AE/PR插件 Glasswork v1.1.2 Win",
+  "slug": "zhen-shi-bo-li-zhe-she-shi-jue-xiao-guo-ae-prcha-jian-glasswork-v1-1-2-win",
+  "author": "大众脸",
+  "post_date": "2024/03/23 21:52",
+  "source_url": "https://www.lookae.com/glasswork-112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "视觉特效"
+  ],
+  "content": "Glasswork 是一款专为 After Effects 和 Premiere 设计的高级视觉特效插件，能够实现高度真实的玻璃折射与反射效果。通过无缝的 GPU 渲染技术，用户可轻松为视频素材添加丰富的图案和风格化视觉元素。其直观的操作界面支持对大量参数进行精细调节，帮助创作者快速实现理想中的视觉表现。适用于广告、宣传片、影视后期等需要高质量玻璃质感的场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Glasswork.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/439302607053.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022; Premiere 2024, 2023, 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1040315443-7c0758?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1xu6JuTdW7mFaKTvmat9iPg?pwd=sg8s"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/DWdfSoSzxC4"
+    }
+  ],
+  "other": {
+    "update_notes": "1.1.2 版本修复了应用于调整图层或文本图层时的崩溃问题。",
+    "description_en": "The ultimate video filter that brings unparalleled realism to your glass effects! With seamless GPU rendering, you can effortlessly infuse your footage with a myriad of patterns and styles. But that’s not all—our intuitive interface gives you full control with a plethora of settings, making it a breeze to achieve the perfect aesthetic. Elevate your visuals and let your creativity shatter all limitations!",
+    "related_tags": [
+      "AE插件",
+      "PR插件",
+      "视觉特效"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "AE随机切片动画脚本 Slice it Up v1.0 (Aescripts) 附教程",
+  "slug": "aesui-ji-qie-pian-dong-hua-jiao-ben-slice-it-up-v1-0-aescripts-fu-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014-05-13T21:54:00Z",
+  "source_url": "https://www.lookae.com/sliceitup/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Slice it Up 是一款用于 After Effects 的脚本工具，可将指定图层快速切割为任意数量的切片，并为每个切片添加位置、旋转等可控制参数。用户只需选择目标图层，输入切片数量，通过复选框控制随机化行为，选择容器模式后点击执行，即可实现动态随机切片动画。该脚本支持重新随机化已有数据，提供灵活的动画控制能力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Slice-it-Up.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE随机切片动画脚本 Slice it Up v1.0 (Aescripts) 附教程",
+      "url": "https://www.400gb.com/file/64625401"
+    }
+  ],
+  "other": {
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/aescripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "original_image_link": "https://www.lookae.com/wp-content/uploads/2014/05/Slice-it-Up.jpg"
+  }
+}

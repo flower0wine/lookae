@@ -1,0 +1,58 @@
+{
+  "title": "中文汉化AE插件-动态线条路径描边绘制生长动画 Volna V2.0.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-dong-tai-xian-tiao-lu-jing-miao-bian-hui-zhi-sheng-chang-dong-hua-volna-v2-0-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/03/11 21:23",
+  "source_url": "https://www.lookae.com/volna-201/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Volna 是一款高级笔画插件，它使用蒙版来绘制笔画。插件可以使用一或两个蒙版并将它们混合成具有多个笔触的新形状。每个笔画都可以用渐变填充，并通过柏林噪声或正弦函数进行扭曲。笔画粗细可通过坡度控制进行调整，支持线型或点型笔画，末端还可添加参数化的箭头。插件还提供多种随机控制选项，帮助为设计增添独特外观。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/volna-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334216310237.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-554060555-ec4334"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1ccI8z7_01gaayzp6c0R5SQ?pwd=1kyg"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/1ru7bkHZsLR"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-554125490-9a2522"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1JrboCGhaj9l7HYBjzotQhQ?pwd=0jri"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/nZRC2zMgpq1"
+    }
+  ],
+  "other": {
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": {
+      "Win版": "1kyg",
+      "Mac版": "0jri"
+    },
+    "v2_0更新内容": [
+      "修复了 16 位颜色模式混合问题。",
+      "修复了仅渲染许可证问题。"
+    ]
+  }
+}

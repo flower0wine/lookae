@@ -1,0 +1,53 @@
+{
+  "title": "AE/PR插件-复古电影胶片灼烧光效噪点颗粒视觉特效 Dehancer Pro v2.0.0 CE Win一键安装",
+  "slug": "ae-prcha-jian-fu-gu-dian-ying-xiao-pian-zhuo-shao-guang-xiao-zao-dian-ke-li-shi-jue-te-xiao-dehancer-pro-v2-0-0-ce-winyi-jian-an-zhuang",
+  "author": "大众脸",
+  "post_date": "2023/10/28 20:04",
+  "source_url": "https://www.lookae.com/dehancer-131/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "复古特效"
+  ],
+  "content": "Dehancer 是一款用于模拟真实摄影与电影胶片的视觉特效插件，支持数十种真实胶片材质，提供胶片颗粒、光晕（Bloom）和光效（Halation）等效果，可实现高度真实的复古视觉风格。完全原生支持 ACES 管道，适用于 After Effects 与 Premiere Pro。用户可在项目中轻松添加胶片边框、灼烧光效、噪点与刮痕等细节，打造具有电影质感的视觉呈现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Dehancer-Adobe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/365427639240.mp4"
+  ],
+  "supported_versions": "Dehancer Pro v2.0.0 CE",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-964300431-a752c0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1rIqXPm3fHQi_n4oLe7xcRQ?pwd=6hh4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/hGpe3aqbuHy"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "6hh4"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "PR插件": "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "复古特效": "https://www.lookae.com/tag/%e5%a4%8d%e5%8f%a4%e7%89%b9%e6%95%88/"
+    }
+  }
+}

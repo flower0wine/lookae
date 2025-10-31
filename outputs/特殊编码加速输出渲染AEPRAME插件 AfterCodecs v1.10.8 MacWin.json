@@ -1,0 +1,73 @@
+{
+  "title": "特殊编码加速输出渲染AE/PR/AME插件 AfterCodecs v1.10.8 Mac/Win",
+  "slug": "te-shu-bian-ma-jia-su-shu-chu-xuan-ran-ae-pr-amecha-jian-aftercodecs-v1-10-8-mac-win",
+  "author": "大众脸",
+  "post_date": "2022/03/20 21:48",
+  "source_url": "https://www.lookae.com/aftercodecs-1108/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "渲染插件",
+    "输出插件"
+  ],
+  "content": "AfterCodecs 是一款用于 After Effects、Premiere Pro 和 Adobe Media Encoder 的编码输出插件。它支持输出 H264、H265 和 ProRes 等特殊编码，渲染输出速度比软件自带输出更快，压缩文件更小且画质更佳。插件提供了丰富的参数设置，包括 ProRes 的多个配置文件、HAP GPU 加速编解码器、x264/x265 编码等，并优化了工作流程，如批量导出、进度显示等功能。v1.10.8 更新主要改进了 Premiere Pro 的 MultiRender 标记功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AfterCodecs-197.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": "After Effects: 2022,2021,2020,CC2019, CC2018, CC2017, CC2015.3, CC2015, CC2014 | Premiere: 2022,2021,2020,CC2019, CC2018, CC2017, CC2015.3, CC2015, CC2014 | Media Encoder: 2022,2021,2020,CC2019, CC2018, CC2017, CC2015, CC2014",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Win版 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-519035361-93a2f0"
+    },
+    {
+      "name": "Win版 百度网盘",
+      "url": "https://pan.baidu.com/s/1h08rVa7PM5lcFN34qjL8Pg"
+    },
+    {
+      "name": "Win版 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/u7RZjT5JFnX"
+    },
+    {
+      "name": "Mac版 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556956307-f476c9"
+    },
+    {
+      "name": "Mac版 百度网盘",
+      "url": "https://pan.baidu.com/s/1-hC9CyqTZklLdRtuLV2SBQ?pwd=fnnq"
+    },
+    {
+      "name": "Mac版 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/BfJiLkBnPQ3"
+    }
+  ],
+  "other": {
+    "video_tutorial_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://tc5.us/file/680462-406407782"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "AfterCodecs v2.2.0beta1 Mac/Win 测试版",
+        "url": "https://www.lookae.com/aftercodecs-22/"
+      }
+    ],
+    "extraction_codes": {
+      "win_ctfile": "6688",
+      "win_baidu": "mvin",
+      "mac_baidu": "fnnq"
+    }
+  }
+}

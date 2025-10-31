@@ -1,0 +1,65 @@
+{
+  "title": "视觉特效包 – FxFactory Pro 4.1（支持FCPX,FCP7,AE,PR）",
+  "slug": "shi-jue-te-xiao-bao-fxfactory-pro-4-1-zhi-chi-fcpx-fcp7-ae-pr",
+  "author": "大众脸",
+  "post_date": "2013-10-09T22:31:00Z",
+  "source_url": "https://www.lookae.com/fxfactory-41/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "FCPX插件",
+    "FxFactory"
+  ],
+  "content": "FxFactory Pro 4.1 是一款强大的视觉特效包，支持 Final Cut Pro、Final Cut Pro X、Motion、After Effects 和 Premiere Pro 等主流视频编辑软件。该版本包含上百种视觉效果，涵盖调色、转场、文字、音频、粒子、边界、摄影蒙太奇等多种类型插件，适用于 macOS 平台。插件功能全面，适合专业影视后期制作，是视觉创意的重要工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/10/FXFactory-4.1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "FxFactory Pro 4.1",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "视觉特效包-FxFactory Pro 4.1（支持FCP,FCP7,AE,PR）",
+      "url": "https://www.400gb.com/file/31531665"
+    },
+    {
+      "name": "专业完整版下载（一键安装）",
+      "url": "https://item.taobao.com/item.htm?id=42094760365"
+    }
+  ],
+  "other": {
+    "related_posts": [
+      {
+        "title": "视觉特效包 – FxFactory Pro 4.0.6（支持FCP,FCP7,AE,PR）（一键完美）",
+        "url": "https://www.lookae.com/fxfactory405/"
+      }
+    ],
+    "official_website": "http://www.noiseindustries.com/fxfactory/",
+    "plugin_series": [
+      "FxFactory Pro 4.0.5",
+      "Ripple Timelines",
+      "Shape Pop",
+      "Editor Essentials",
+      "Squid FX Borders",
+      "Noise Industries Photo Montage",
+      "Yanobox Moods",
+      "idustrial revolution ParticleMetrix 1.0.5",
+      "idustrial revolution VOLUMETRIX",
+      "XEffects 3D",
+      "XEffects Tech",
+      "XEffects Camera Transitions",
+      "Luca effects Lo fi look",
+      "Luca Visual FX Light Kit 1.0.2",
+      "Yanobox Nodes 1.2.6",
+      "SupaWipe",
+      "Ripple Train Tools",
+      "sprocket slip",
+      "Sugar viewfinder HUD",
+      "Sugar Movie credits",
+      "Nattress bounce",
+      "Nattress Shatter",
+      "Phyx Stylist"
+    ],
+    "note": "FxFactory Pro 4.1 新增部分插件未在列表中详细列出"
+  }
+}

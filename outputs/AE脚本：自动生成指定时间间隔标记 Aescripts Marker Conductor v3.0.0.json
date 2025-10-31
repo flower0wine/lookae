@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本：自动生成指定时间间隔标记 Aescripts Marker Conductor v3.0.0",
+  "slug": "aejiao-ben-zi-dong-sheng-cheng-zhi-ding-shi-jian-jian-ge-biao-ji-aescripts-marker-conductor-v3-0-0",
+  "author": "大众脸",
+  "post_date": "2017/02/13 20:53",
+  "source_url": "https://www.lookae.com/marker-conductor/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Marker Conductor 脚本可以根据时间或者间隔自动生成时间线标记，或根据BPM选项来生成标记，在制作节奏视频的时候很有用。脚本自动在指定的时间间隔或BPM处放置标记。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/Marker-Conductor.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5.5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：自动生成指定时间间隔标记 Aescripts Marker Conductor v3.0.0",
+      "url": "https://lookae.ctfile.com/fs/CwV171352098"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/marker-conductor/",
+    "taobao_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本，带视频使用教程"
+  }
+}

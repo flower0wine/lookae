@@ -1,0 +1,45 @@
+{
+  "title": "AE插件-人体骨骼IK绑定联动插件 BAO Bones V1.5.7 Win/Mac版+使用教程",
+  "slug": "aecha-jian-ren-ti-gu-ge-ikbang-ding-lian-dong-cha-jian-bao-bones-v1-5-7-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/07/11 19:12",
+  "source_url": "https://www.lookae.com/bones-157/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "BAO Bones 是一款专为 After Effects 设计的人体骨骼IK绑定联动插件，支持 Win/Mac 系统。用户仅需三步即可完成人物角色的骨骼绑定与动画设置，操作简单高效。该插件极大简化了在 AE 中进行角色动画的工作流程，是实现快速绑定与逆向运动学（IK）动画的理想工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/BAO-Bones.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056438817.mp4"
+  ],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-387160080"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1qxKA5RMCJ1D2lJGB-EYZOw"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-231219493"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1hr822US"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/bao-bones/",
+    "update_notes": "更新注册许可代码",
+    "extract_code": "hksg",
+    "demo_video": "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056438817.mp4"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.6.0 Win版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v1-6-0-winban",
+  "author": "大众脸",
+  "post_date": "2020/11/30 23:12",
+  "source_url": "https://www.lookae.com/lockdown-16/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Lockdown是一款革命性的After Effects插件，能够直接跟踪运动物体上扭曲不平的表面，非常适合用于美容修饰、物体移除清理以及其他复杂的跟踪合成特效制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/289750451578.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-474148273"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Qb0f9SY4yKf22B3sr-vIqg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加了基于四边形的网格平滑。",
+      "添加了调整点优化（集成到“全部跟踪”）。",
+      "新的跟踪模式-精确1.6。",
+      "Lockdown现在创建一个基于四边形网格的单击和拖动。",
+      "当三角测量时，超长的连接会被忽略。",
+      "现在可以从视图中禁用边。",
+      "调整点现在总是被保留，即使在烘焙操作期间也是如此。",
+      "其他质量改进。"
+    ],
+    "tutorials": [
+      {
+        "title": "V1.4新版教程",
+        "links": [
+          {
+            "name": "城通网盘下载",
+            "url": "https://089u.com/file/680462-445330945"
+          },
+          {
+            "name": "百度网盘下载",
+            "url": "https://pan.baidu.com/s/1YeFG07kBTePKT1C7wm_rZg",
+            "password": "ts3a"
+          }
+        ]
+      },
+      {
+        "title": "英文视频教程",
+        "links": [
+          {
+            "name": "城通网盘下载",
+            "url": "https://tc5.us/file/680462-402524782"
+          },
+          {
+            "name": "百度网盘下载",
+            "url": "https://pan.baidu.com/s/1ziayuRTOWWrlxu9HAsDzgQ"
+          }
+        ]
+      },
+      {
+        "title": "中文字幕教程",
+        "author": "月离",
+        "links": [
+          {
+            "name": "城通网盘下载",
+            "url": "https://tc5.us/file/680462-403009657"
+          },
+          {
+            "name": "百度网盘下载",
+            "url": "https://pan.baidu.com/s/1VIpX0gl6zw2GL4iBy5YX-w&shfl=sharepset"
+          }
+        ]
+      }
+    ],
+    "related_links": [
+      {
+        "title": "Lockdown v1.5.4 Mac版下载",
+        "url": "https://www.lookae.com/lockdown-154/"
+      }
+    ],
+    "official_website": "https://aescripts.com/lockdown/",
+    "download_note": "含中文版和英文版",
+    "baidu_password": "f9ci"
+  }
+}

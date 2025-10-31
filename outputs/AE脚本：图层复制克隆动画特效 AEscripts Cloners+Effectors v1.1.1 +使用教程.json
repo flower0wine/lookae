@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：图层复制克隆动画特效 AEscripts Cloners+Effectors v1.1.1 +使用教程",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-dong-hua-te-xiao-aescripts-cloners-effectors-v1-1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/06 16:29",
+  "source_url": "https://www.lookae.com/clonerseffectors-111/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Cloners+Effectors是After Effects的程序化动画系统，在同时为多个图层制作动画时特别有用。它允许您使用效果器而不是为每个图层设置关键帧来制作动画。效果灵活多变，完全可自定义操控，支持创建音频频谱动画和复制克隆系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Cloners-Effectors-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202010093"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1jIfwmxS"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "update_features": [
+      "Duplicate effector（重复效应）",
+      "Works with windows and HiDPI panels",
+      "可以创建音频频谱动画",
+      "复制克隆系统",
+      "Can bake without keeping the ability to unbake",
+      "修复小错误，可以重新定位克隆层"
+    ],
+    "official_website": "http://aescripts.com/cloners-plus-effectors/"
+  }
+}

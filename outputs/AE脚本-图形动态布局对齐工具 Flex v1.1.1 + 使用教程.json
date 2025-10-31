@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-图形动态布局对齐工具 Flex v1.1.1 + 使用教程",
+  "slug": "aejiao-ben-tu-xing-dong-tai-bu-ju-dui-qi-gong-ju-flex-v1-1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-05-05 16:11",
+  "source_url": "https://www.lookae.com/flex-111/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "动态布局",
+    "对齐工具"
+  ],
+  "content": "Flex 是一款 After Effects 扩展脚本，用于在单行/单列（Flex Line Rigs）或多行多列（Flex Grid Rigs）布局中动态重新对齐图层。v1.1.1 新增错误提示并修复行/列按钮描述及图层添加问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/Aescripts-Flex.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/310669506410.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577536192-025ecb?p=4431"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1Zbl3wmsDFUZJIJpBjeCYSg?pwd=jkue"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/CDhHD4u7GDZ"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://089u.com/f/680462-496415740-7d1785"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1nTLSAsBlgxmxo0y_4xhNBQ"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘脚本": "jkue",
+      "百度网盘教程": "leuj"
+    }
+  }
+}

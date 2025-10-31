@@ -1,0 +1,60 @@
+{
+  "title": "中文汉化AE插件-高级华丽真实阴影拖尾投影 Shadow Studio 3 v1.0.8 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-gao-ji-hua-li-zhen-shi-yin-ying-tuo-wei-tou-ying-shadow-studio-3-v1-0-8-win-mac",
+  "author": "大众脸",
+  "post_date": "2025-05-19T14:14:00Z",
+  "source_url": "https://www.lookae.com/shadow-studio-31058/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "中文汉化",
+    "阴影插件"
+  ],
+  "content": "Shadow Studio 3 是一款专为 After Effects 打造的高级阴影模拟插件，可生成逼真的光线追踪阴影效果。基于 Alpha 通道工作，虽非真正 3D 渲染，但视觉效果极为出色，足以以假乱真。支持柔和阴影、全局照明、内置挤压与斜角功能，显著提升设计质感。适用于多种 AE 版本，并持续优化性能与稳定性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Shadow-Studio-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/437857438343.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1506064843-56e4fa?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1r9ILNDqavREmcJeIjUSHuQ?pwd=4wj9"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/3qVN9G3gTnB"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "多线程性能改进",
+      "改进渐变 UI 处理",
+      "修复 AE 2025 上的渐变 UI 颜色",
+      "大大改进了错误处理和日志记录",
+      "修复使用外部层纹理时的情况缓冲区截止问题",
+      "修复 AE25.2 崩溃问题",
+      "修复渲染隔行扫描时的错误"
+    ],
+    "note": "Win 为中英文版，Mac 仅英文版",
+    "classification": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "https://www.lookae.com/tag/%e9%98%b4%e5%bd%b1%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

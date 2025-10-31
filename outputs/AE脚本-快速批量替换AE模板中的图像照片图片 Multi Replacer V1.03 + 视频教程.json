@@ -1,0 +1,57 @@
+{
+  "title": "AE脚本-快速批量替换AE模板中的图像照片图片 Multi Replacer V1.03 + 视频教程",
+  "slug": "aejiao-ben-kuai-su-pi-liang-ti-huan-aemo-ban-zhong-de-tu-xiang-zhao-pian-tu-pian-multi-replacer-v1-03-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/23 19:01",
+  "source_url": "https://www.lookae.com/multi-replacer/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE插件"
+  ],
+  "content": "我们在使用有些多图片的AE模板，需要手动替换几十上百的图片，非常的费时，使用Multi Replacer脚本只需单击一下，即可替换，插入和调整多个图像（片段），并节省大量无聊的工作时间。此脚本适合正在使用现成模板，尤其是幻灯片，视频墙，屏幕墙，照片库这类AE模板的用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Multi-Replacer.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01UQnjsi1vSMdqXBAGp_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367739732"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/16udMJu2t20KAGTdRQLpFDw",
+      "extraction_code": "6ylb"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "related_tags": [
+      {
+        "name": "Aescaripts",
+        "url": "https://www.lookae.com/tag/aescaripts/"
+      },
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+      }
+    ]
+  }
+}

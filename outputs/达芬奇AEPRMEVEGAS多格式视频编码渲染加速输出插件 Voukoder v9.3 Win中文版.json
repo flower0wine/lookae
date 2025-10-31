@@ -1,0 +1,58 @@
+{
+  "title": "达芬奇/AE/PR/ME/VEGAS多格式视频编码渲染加速输出插件 Voukoder v9.3 Win中文版",
+  "slug": "da-fen-qi-ae-pr-me-vegasduo-ge-shi-shi-pin-bian-ma-xuan-ran-jia-su-shu-chu-cha-jian-voukoder-v9-3-winzhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2021/07/25 22:09",
+  "source_url": "https://www.lookae.com/voukoder-93/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件",
+    "Voukoder",
+    "视频编码",
+    "达芬奇插件"
+  ],
+  "content": "免费开源的Voukoder是Windows的系统范围内的视频和音频编码服务，可改善您的媒体编码体验。它支持各种编码器（基于CPU和GPU），如H.264、HEVC (H.265)、ProRes等，还提供了一组后处理过滤器。Voukoder非常快！如果您的视频卡具有硬件编码功能，则编码速度可能比实时速度快4-8倍（取决于您的项目）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/Voukoder-9.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01rMqTBm1vSMmOVwY7c_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297172470493.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6 – 2020,2021; Adobe Media Encoder CS6 – 2020,2021; Adobe After Effects CS6 – 2020,2021; 达芬奇 17+; VEGAS Pro 12-18; VirtualDub2",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/KArjqn7G97W"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-503545564-90d5b3"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15yUNYxbUWwCDtxII0AXgsQ"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "确保为您的应用程序使用最新的连接器。使用 NVENC (SDK 9.1) 编码器驱动程序版本436.15或更高版本是必需的。",
+      "修复了声音同步问题"
+    ],
+    "passwords": [
+      {
+        "source": "城通网盘",
+        "password": "6688"
+      },
+      {
+        "source": "百度网盘",
+        "password": "qwc8"
+      }
+    ],
+    "language_setting": "点击Settings即可选择中文语言",
+    "official_homepage": "https://www.voukoder.org/"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "AE脚本：SubRip/SRT字幕导入脚本 pt_ImportSubtitles 1.41 (AEscripts )",
+  "slug": "aejiao-ben-subrip-srtzi-mu-dao-ru-jiao-ben-pt-importsubtitles-1-41-aescripts",
+  "author": "大众脸",
+  "post_date": "2015/04/09 09:37",
+  "source_url": "https://www.lookae.com/importsubtitles/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "pt_ImportSubtitles 1.41 是一个非常实用的 After Effects 脚本，能够将 SubRip（.srt）或 Encore Text 格式的字幕文件直接导入 AE 中，生成带透明通道的字幕视频，便于在 Final Cut Pro X、EDIUS、VEGAS、Premiere Pro 等非线性编辑软件中使用。用户可通过动态链接将 AE 工程实时同步至 Premiere Pro。脚本支持自定义字体、大小、对齐方式等文本样式，并提供字幕背景框、自动缩放、安全字幕区域对齐等高级功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/04/pt_importsubtitles_lg.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 – CC 2014",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：SubRip/SRT字幕导入脚本 pt_ImportSubtitles 1.41 (AEscripts )",
+      "url": "https://www.400gb.com/file/90056163"
+    }
+  ],
+  "other": {
+    "changelog": [
+      {
+        "version": "1.41",
+        "date": "Sep 2, 2014",
+        "changes": [
+          "AE CC/CC2014 compatibility",
+          "Fixed licensing issue",
+          "Fix for subtitle timing errors",
+          "Fix for drifting SRT subtitles at certain frame rates",
+          "Fix for tab separated Encore subtitles"
+        ]
+      },
+      {
+        "version": "1.4",
+        "date": "Apr 2013",
+        "changes": [
+          "Add box behind text option",
+          "Auto-scale to longest subtitle option",
+          "Auto-align to title safe option",
+          "Recreates color tags in SRT files",
+          "Bug fixes"
+        ]
+      },
+      {
+        "version": "1.3",
+        "date": "Jan 2012",
+        "changes": [
+          "CS5.5 compatibility",
+          "Recreates italic and bold style tags in SRT files",
+          "Bottom alignment option",
+          "Use vertical or paragraph style text",
+          "Fixes some timing errors"
+        ]
+      },
+      {
+        "version": "1.2",
+        "date": "Dec 2010",
+        "changes": [
+          "Support for the SubRip format",
+          "RightToLeft languages support",
+          "Vertical text alignment"
+        ]
+      },
+      {
+        "version": "1.1",
+        "date": "May 2010",
+        "changes": [
+          "Added CS5 compatibility"
+        ]
+      },
+      {
+        "version": "1.0",
+        "date": "Dec 2009",
+        "changes": [
+          "Initial release"
+        ]
+      }
+    ],
+    "installation_path": "\\Adobe After Effects CC\\Scripts\\ScriptUI Panels",
+    "credit": "此脚本由国外 monter4 大神分享，thanks for monter4!",
+    "usage_notes": [
+      "创建新合成并设置好输出格式",
+      "先创建一个示例文本层以设置字体、大小和对齐方式，之后可删除",
+      "运行脚本，选择字幕格式并导入文件",
+      "如需修改样式，调整 Character/Paragraph 面板后需重新导入",
+      "将字幕层置于合成底部，可参考安全字幕区域参考线",
+      "支持三种使用方式：渲染带 Alpha 通道视频导入剪辑软件；在 AE 中叠加视频后渲染；通过动态链接直接拖入 Premiere Pro"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "AE/PR插件：DigiEffects系列视觉插件合集 DigiEffects Suite v3.0.0",
+  "slug": "ae-prcha-jian-digieffectsxi-lie-shi-jue-cha-jian-he-ji-digieffects-suite-v3-0-0",
+  "author": "大众脸",
+  "post_date": "2014/12/12 17:13",
+  "source_url": "https://www.lookae.com/digieffects3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "DigiEffects",
+    "PR插件"
+  ],
+  "content": "DigiEffects Suite v3.0.0是DigiEffects系列最新插件合集，分类为Aura（调色/光晕）、Damage（老电影/破坏）、Phenomena（模拟自然现象）、Tweak（微调），共41类插件，可制作电视故障、画面失真、云、烟雾、雪花、光晕等效果及调色功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/DigiEffects-Suite.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro、After Effects CS6及以上版本",
+  "supported_os": "WIN 64位",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/80287840"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1eQ8GvBk"
+    }
+  ],
+  "other": {
+    "home_page": "http://www.digieffects.com/products/damage-phenomena-tweak-aura",
+    "installation_note": "插件为一键安装版，安装即可使用"
+  }
+}

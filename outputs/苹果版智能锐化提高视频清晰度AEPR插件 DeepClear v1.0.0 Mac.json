@@ -1,0 +1,52 @@
+{
+  "title": "苹果版智能锐化提高视频清晰度AE/PR插件 DeepClear v1.0.0 Mac",
+  "slug": "ping-guo-ban-zhi-neng-rui-hua-ti-gao-shi-pin-qing-xi-du-ae-prcha-jian-deepclear-v1-0-0-mac",
+  "author": "大众脸",
+  "post_date": "2024/07/06 18:42",
+  "source_url": "https://www.lookae.com/deepclear-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Mac版",
+    "PR插件",
+    "清晰插件"
+  ],
+  "content": "DeepClear 是一款基于AI技术的先进视频增强工具，能够通过提升图像细节、减少噪点和增强对比度来显著提高视频清晰度。该插件采用多种深度学习算法，对大量图像与剪辑像素进行分析，实现高质量图像修复与优化。其核心功能包括去模糊、降噪和对比度增强。去模糊功能可有效处理失焦与运动模糊，适用于图像、肖像、文本及卡通等类型，避免伪影或光晕；降噪功能在保留细节的同时消除弱光或高ISO环境下产生的噪声；对比度增强则利用先进的直方图均衡算法，在保持自然视觉效果的前提下提升画面清晰感。适用于 Mac 平台的 After Effects 和 Premiere Pro 多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/09/DeepClear.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/427456997882.mp4"
+  ],
+  "supported_versions": "After Effects 2020-2024, Premiere 2020-2024",
+  "supported_os": "Mac苹果系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1319932927-e2c1ef?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wj26bR-Go7a0B9Ic4Zul2A?pwd=dymx"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/th9AuRm3BgD"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "dymx"
+    },
+    "related_links": [
+      "https://www.lookae.com/deepclear/"
+    ],
+    "language": "中文",
+    "version": "v1.0.0",
+    "platform": "Mac",
+    "type": "AE/PR 插件",
+    "feature_summary": "AI驱动的去模糊、降噪、对比度增强三合一视频清晰化工具"
+  }
+}

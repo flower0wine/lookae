@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-MG路径生长图形动画制作 Ouroboros 2.0.3 + 使用教程",
+  "slug": "aejiao-ben-mglu-jing-sheng-chang-tu-xing-dong-hua-zhi-zuo-ouroboros-2-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-16",
+  "source_url": "https://www.lookae.com/ouroboros-203/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Ouroboros 脚本可在 After Effects 的单个路径上快速创建多条描边，生成精细的 MG 图形生长动画效果，并附带完整视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Ouroboros.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50010580366.mp4"
+  ],
+  "supported_versions": "CS6 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-366251819"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1P-KsBpWtfSnzBC1arEW9dg"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-207746460"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1eRLnDHg"
+    }
+  ],
+  "other": {
+    "installation": "拷贝 .jsxbin 到 AE/Support Files/Scripts/ScriptUI Panels",
+    "update_log": [
+      "修复表达式以支持 AE 16.0（CC2019）新 JS 引擎",
+      "修复延迟与点模块添加错误",
+      "修复自定义形状名称表达式问题",
+      "修复形状属性不在索引 1 时的表达式错误",
+      "修复无法识别组内多个形状",
+      "增加对文本中形状层的支持"
+    ],
+    "official_site": "http://aescripts.com/ouroboros-2/"
+  }
+}

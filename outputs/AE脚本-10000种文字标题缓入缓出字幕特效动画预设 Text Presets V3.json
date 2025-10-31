@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-10000种文字标题缓入缓出字幕特效动画预设 Text Presets V3",
+  "slug": "aejiao-ben-10000chong-wen-zi-biao-ti-huan-ru-huan-chu-zi-mu-te-xiao-dong-hua-yu-she-text-presets-v3",
+  "author": "大众脸",
+  "post_date": "2024-08-30",
+  "source_url": "https://www.lookae.com/text-presets-v3/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "Text Presets",
+    "文字动画",
+    "文字预设",
+    "缓入缓出"
+  ],
+  "content": "这套预设是在After Effects中创建令人惊叹的文本动画的强大工具。凭借10000多个预设和Atomx扩展支持，文本预设简化了动画过程并提供了广泛的功能。新版V2更新内容：添加复制、粘贴和删除预设，将结构编辑为许多新功能，缩短表达式以加快处理速度，编辑效果和其他错误。使用AtomX脚本调用预设，可视化预览，双击即可直接使用于时间线，使用非常简单。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/45231394.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1349532257-6521d9?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1sZp5Cqra84xsY_AiHbjdqA?pwd=cbvi"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/6f4joTYZfWG"
+    }
+  ],
+  "other": {
+    "file_size": "1.2G",
+    "preset_breakdown": {
+      "缓入缓出动画": 9510,
+      "效果预设": 972,
+      "风格预设": 68
+    },
+    "included_script": "AtomX 3.0.9 脚本（已包含）",
+    "notes": "安装后请勿移动安装文件，否则失效。提供安装方法+使用视频教程。无背景音乐。"
+  }
+}

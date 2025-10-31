@@ -1,0 +1,47 @@
+{
+  "title": "更新：红巨人调色插件合集 Red Giant Color Suite 11.0.4（MAC/WIN）",
+  "slug": "geng-xin-hong-ju-ren-diao-se-cha-jian-he-ji-red-giant-color-suite-11-0-4-mac-win",
+  "author": "大众脸",
+  "post_date": "2013/12/18 16:48",
+  "source_url": "https://www.lookae.com/rgcs1104/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "Mac&Win",
+    "Red Giant"
+  ],
+  "content": "2013年12月16日，著名的Red Giant（红巨人）公司更新了Color Suite调色插件套装至11.0.4版本。Color Suite是一套广受后期制作人员喜爱的调色软件合集，以其简单快速的操作著称。该套装包含六种插件工具，涵盖降噪、润肤、高级调色、快速调色等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/12/rgcs1104.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC, CS6, CS5, CS4, CS3; Adobe Premiere Pro CC, CS6, CS5; Apple Final Cut Pro X, 7（部分插件支持）; Apple Motion 5, 4, 3（部分插件支持）",
+  "supported_os": "Mac, Windows",
+  "download_links": [
+    {
+      "name": "MAC 版本",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Color/Archive/CSuite_Mac_Full_11.0.4.zip"
+    },
+    {
+      "name": "WIN 版本",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Color/Archive/CSuite_Win_Full_11.0.4.zip"
+    },
+    {
+      "name": "SN序列号",
+      "url": "https://www.400gb.com/file/47164897"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Colorista II v1.0.9 调色师2",
+      "Cosmo v1.0.2 润肤插件",
+      "Denoiser II v1.4.2 降噪插件",
+      "LUT Buddy v1.0.1 LUT颜色工具",
+      "Magic Bullet Looks v2.1.2 LOOKS调色插件（多预设）",
+      "Mojo v1.2.4 快速调色插件"
+    ],
+    "architecture": "32位和64位"
+  }
+}

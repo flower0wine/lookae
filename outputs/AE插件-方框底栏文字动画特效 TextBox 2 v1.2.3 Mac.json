@@ -1,0 +1,44 @@
+{
+  "title": "AE插件-方框底栏文字动画特效 TextBox 2 v1.2.3 Mac",
+  "slug": "aecha-jian-fang-kuang-di-lan-wen-zi-dong-hua-te-xiao-textbox-2-v1-2-3-mac",
+  "author": "大众脸",
+  "post_date": "2022/03/20 20:50",
+  "source_url": "https://www.lookae.com/textbox-123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "TextBox 是一款原生插件，可在文本后快速创建尺寸完美、可自定义形状的方框底栏，无需繁琐设置和表达式。适用于制作MG文本切换过渡、字幕条和标题。支持自动更新并直接应用于文本图层，无需父级绑定、遮罩或表达式。具备多边形模式、边缘圆角、渐变选项、边框样式、8/16/32bpc兼容性及更好的旋转机制，兼容运动模糊。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/TextBox2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556950349-6385e3"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ffiLdE5tuYiom7T0FKbIOw?pwd=kbq7"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Zi5DwSXzkRa"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "related_tags": [
+      "AE插件"
+    ],
+    "image_alt": "AE插件-方框底栏文字动画特效 TextBox 2 v1.2.3 Mac-LookAE.com",
+    "plugin_description_en": "TextBox is a native plugin that creates a perfectly sized, customisable shape behind your text that updates automatically and is applied directly to the text layer so no need for parenting, mattes or expressions."
+  }
+}

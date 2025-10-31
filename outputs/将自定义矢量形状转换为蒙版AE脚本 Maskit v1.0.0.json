@@ -1,0 +1,49 @@
+{
+  "title": "将自定义矢量形状转换为蒙版AE脚本 Maskit v1.0.0",
+  "slug": "jiang-zi-ding-yi-shi-liang-xing-zhuang-zhuan-huan-wei-meng-ban-aejiao-ben-maskit-v1-0-0",
+  "author": "大众脸",
+  "post_date": "2023/05/24 10:35",
+  "source_url": "https://www.lookae.com/maskit/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "只需单击，即可将自定义矢量形状转换为蒙版！MASKit 会在任何选定的形状图层上转换、对齐和标记一组新的图层蒙版。无需在组内设置单独的路径，它会一次性将它们全部转换！非常适合当您不想制作轨道遮罩时。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Maskit.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/411637290449.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-860589246-909f3e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1rcXn8tMFaH_VoGR4SKAFfw?pwd=if99"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/dsBKC95A4dm"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "if99"
+    },
+    "usage_steps": [
+      "将自定义矢量图形导入 After Effects",
+      "将矢量文件添加到合成中",
+      "右键单击矢量图层并转到“创建”>“从矢量图层创建形状”",
+      "选择新创建的形状图层",
+      "如果需要，调整位置、比例和/或旋转（如果调整了位置，请勿使用 CENTERit 按钮）",
+      "单击 MASKit 生成您的新掩码",
+      "如果要调整新蒙版的方向以匹配原始形状结构，请单击 SNAPit"
+    ]
+  }
+}

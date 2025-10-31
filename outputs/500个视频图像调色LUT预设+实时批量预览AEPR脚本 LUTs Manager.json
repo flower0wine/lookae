@@ -1,0 +1,70 @@
+{
+  "title": "500个视频图像调色LUT预设+实时批量预览AE/PR脚本 LUTs Manager",
+  "slug": "500ge-shi-pin-tu-xiang-diao-se-lutyu-she-shi-shi-pi-liang-yu-lan-ae-prjiao-ben-luts-manager",
+  "author": "大众脸",
+  "post_date": "2024-12-10T09:57:00Z",
+  "source_url": "https://www.lookae.com/luts-manager/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "LUT",
+    "PR脚本",
+    "调色预设"
+  ],
+  "content": "专业调色包，包含500个适用于视频和图像的通用LUT，支持独立.cube格式文件，兼容所有主流编辑软件。配套提供可实时批量预览的AE/PR脚本工具，适用于电影、广告、视频博客及摄影创作，助力快速实现高质量调色效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/12/55741724.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/497953025297.mp4"
+  ],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "版本01 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1434959143-3f4255?p=4431"
+    },
+    {
+      "name": "版本01 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1n3S2Wf-fJP6CRETpXc7hsg?pwd=xyfb"
+    },
+    {
+      "name": "版本01 - 阿里云盘",
+      "url": "https://www.alipan.com/s/pyjHgoXsTuy"
+    },
+    {
+      "name": "版本02 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1461991927-9ea82e?p=4431"
+    },
+    {
+      "name": "版本02 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1LYKX5y1G38OyG0gG5tRw9w?pwd=mbdb"
+    },
+    {
+      "name": "版本02 - 阿里云盘",
+      "url": "https://www.alipan.com/s/hczgrLXoNXv"
+    }
+  ],
+  "other": {
+    "resource_features": [
+      "与所有主流编辑软件具有通用兼容性",
+      "85 种颜色滤镜类别",
+      "总共包含 500 多个 .cube LUT",
+      "每种风格有 5 种外观变化",
+      "所有 LUT 均适用于任何视频或图像 (Rec. 709)",
+      "准确保留自然肤色",
+      "针对性能和更快渲染进行了优化",
+      "包括技术日志相机配置文件"
+    ],
+    "note": "两个版本内容一致，请选择可用的版本下载使用",
+    "passwords": {
+      "version_01": "6688",
+      "version_02": "6688"
+    },
+    "extract_codes": {
+      "version_01": "xyfb",
+      "version_02": "mbdb"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-专业3D网格变形扭曲特效 FreeForm Pro v1.99.8 Win/Mac",
+  "slug": "aecha-jian-zhuan-ye-3dwang-ge-bian-xing-niu-qu-te-xiao-freeform-pro-v1-99-8-win-mac",
+  "author": "大众脸",
+  "post_date": "2025/03/27 08:25",
+  "source_url": "https://www.lookae.com/freeform-1998/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "FreeForm Pro",
+    "网格变形"
+  ],
+  "content": "FreeForm Pro是一款专业的3D网格变形插件，功能和效果非常强大，能模拟制作出一些意想不到的效果。可以将After Effects图层转换为地形、变形有机形状、基元数组、水模拟等，也适合角色动画。主要功能包括网格扭曲、置换贴图和渲染基本体，并与GEOLayers2插件兼容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/FreeForm-Pro.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件",
+      "url": "https://url70.ctfile.com/f/2827370-1486441561-a3ee1a?p=4431"
+    },
+    {
+      "name": "百度网盘 - 插件",
+      "url": "https://pan.baidu.com/s/1YbRr3kdhBpzE8k2bG-pEPA?pwd=gh6y"
+    },
+    {
+      "name": "阿里云盘 - 插件",
+      "url": "https://www.alipan.com/s/GntiEQVTH66"
+    },
+    {
+      "name": "城通网盘 - 教程",
+      "url": "https://lookae.ctfile.com/fs/680462-396956236"
+    },
+    {
+      "name": "百度网盘 - 教程",
+      "url": "https://pan.baidu.com/s/1YQwO0jX9e68ffP7Ew8f9LQ"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.99.7更新内容：增加了 2025 兼容性；解决了 Gmail 帐户的许可证问题。",
+    "access_password": "6688",
+    "baidu_extract_code": "gh6y"
+  }
+}

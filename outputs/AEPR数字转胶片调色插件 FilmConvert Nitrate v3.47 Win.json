@@ -1,0 +1,57 @@
+{
+  "title": "AE/PR数字转胶片调色插件 FilmConvert Nitrate v3.47 Win",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-nitrate-v3-47-win",
+  "author": "大众脸",
+  "post_date": "2024-04-03T09:56:00Z",
+  "source_url": "https://www.lookae.com/filmconvert-347/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FilmConvert",
+    "PR插件",
+    "数字转胶片",
+    "调色插件"
+  ],
+  "content": "FilmConvert Nitrate v3.47 是一款专为 After Effects 和 Premiere Pro 设计的数字转胶片调色插件，可将数字摄影机素材（如 RED、DSLR、MOV 等）真实还原为胶片质感。支持 4K 输出，提供多种胶片预设，内置 8MM-35MM 镜头噪点设置，支持曝光、色温、颗粒、颜色三色轮及二级调色等参数调节。具备完整的自定义曲线控制和高级胶片颗粒独立调节功能，支持导出与保存 3D LUT 预设文件，适用于创意影视制作中追求电影感的色彩风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/FilmConvert-Nitrate-344.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018 – 2024, Premiere Pro CC 2018 – 2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1047346810-d26c87?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/11OsnI8YFLR5VMLpTd_Uzzg?pwd=sub5"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/hKM5vPZgQ7K"
+    }
+  ],
+  "other": {
+    "feature_notes": [
+      "支持 Cineon Log 电影仿真，可自定义调整胶片对比度与饱和度，保持真实胶片原色。",
+      "提供完全自定义曲线控制，支持从头设计胶片预设，保留完整动态范围。",
+      "高级胶片颗粒控制，可在高光、中间调、阴影中分别调节颗粒外观。",
+      "支持 3D LUT 预设导出与保存，提升工作流效率。"
+    ],
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/filmconvert/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e6%95%b0%e5%ad%97%e8%bd%ac%e8%83%b6%e7%89%87/",
+      "https://www.lookae.com/tag/%e8%b0%83%e8%89%b2%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

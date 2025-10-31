@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-关键帧动态属性复制粘贴 EaseCopy V1.7.2+使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-dong-tai-shu-xing-fu-zhi-nian-tie-easecopy-v1-7-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/05/24 21:03",
+  "source_url": "https://www.lookae.com/easecopy-172/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本EaseCopy允许您在复制/粘贴关键帧时，选择不覆盖参数值或不覆盖缓动效果。该脚本支持分别复制/粘贴缓动曲线和数值，提升动画调整效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/EaseCopy.jpg"
+  ],
+  "video_urls": [
+    "https://www.lookae.com/easecopy-zh/"
+  ],
+  "supported_versions": "AE 2021、2020，CC 2019，CC 2018，CC 2017，CC 2015.3，CC 2015，CC 2014，CC，CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-497038940-e3d507"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1-5q2LkQ6P1I2mM46dPxOFw"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.7.2更新内容：修补程序更新",
+    "access_password": {
+      "城通网盘": "6688",
+      "百度网盘": "21of"
+    }
+  }
+}

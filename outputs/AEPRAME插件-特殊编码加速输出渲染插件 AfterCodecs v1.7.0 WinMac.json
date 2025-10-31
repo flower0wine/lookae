@@ -1,0 +1,49 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.7.0 Win/Mac",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-7-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2019-06-28T10:29:00Z",
+  "source_url": "https://www.lookae.com/aftercodecs-17/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac/Win",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款专为 After Effects、Premiere Pro 和 Media Encoder 打造的高性能编码输出插件，支持 H264、H265 与 ProRes 等多种编码格式，显著提升渲染速度并减小文件体积，同时保持更优画质。适用于 Windows 与 macOS 系统，广泛用于专业视频制作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2019; Premiere CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2019; Media Encoder CC 2018, CC 2017, CC 2015, CC 2019",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-384870463"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YSXpepgpO0WCBLJNZxxd3w"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新的“用户指南”选项卡位于顶部，显示Autokroma.com信息，以帮助您使用AfterCodecs！",
+      "苹果版：修复了多屏幕bug",
+      "苹果版：修复了退出弹出窗口时的5秒延迟"
+    ],
+    "supported_codecs": [
+      "ProRes: LT / Proxy / Normal / HQ and even 444 that supports Alpha Channel",
+      "x264: best H264/AVC implementation, outperforming both Adobe Media Encoder, QuickTime H264 and AE’s built-in H264",
+      "x265: files are 30% lighter than x264 and it also supports 8K resolution",
+      "x264 RGB: same as x264 but avoids YUV colorspace, best for storing separate channels in one video (UV map, Alphas…) for power users only"
+    ],
+    "tutorial_links": [
+      "https://www.pipipan.com/fs/680462-221741711",
+      "https://pan.baidu.com/s/1c2nhMI8"
+    ],
+    "plugin_website": "http://aescripts.com/aftercodecs/"
+  }
+}

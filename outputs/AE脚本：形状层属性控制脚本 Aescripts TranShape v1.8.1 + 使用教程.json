@@ -1,0 +1,25 @@
+{
+  "title": "AE脚本：形状层属性控制脚本 Aescripts TranShape v1.8.1 + 使用教程",
+  "slug": "aejiao-ben-xing-zhuang-ceng-shu-xing-kong-zhi-jiao-ben-aescripts-transhape-v1-8-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/07/02 16:40",
+  "source_url": "https://www.lookae.com/transhape/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "【脚本介绍】\n通过脚本可以直接访问AE形状图层属性，比直接在图层中控制更加的快捷方便，\nTranShape is a shape layer inspector for After Effects. It allows fast and convenient access to the otherwise tedious shape layer properties.\n【脚本安装】\n将jsxbin脚本文件拷贝到以下目录：\n…..\\Adobe After Effects 版本号\\Support Files\\Scripts\\ScriptUI Panels\\",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/TranShape.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015,CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：形状层属性控制脚本 Aescripts TranShape v1.8.1 + 使用教程",
+      "url": "https://www.400gb.com/file/103538453"
+    }
+  ],
+  "other": {}
+}

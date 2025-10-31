@@ -1,0 +1,60 @@
+{
+  "title": "Win/Mac版：AE脚本：快速输出GIF动图格式插件脚本 Aescaripts GifGun",
+  "slug": "win-macban-aejiao-ben-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-jiao-ben-aescaripts-gifgun",
+  "author": "大众脸",
+  "post_date": "2015/12/21 12:03",
+  "source_url": "https://www.lookae.com/gifgun/",
+  "category": "aescripts",
+  "tags": [
+    "AE插件",
+    "AE脚本"
+  ],
+  "content": "还记得以前AE能直接输出GIF动画格式，但软件更新到 AE CS5 后就取消了直接输出GIF的功能。其实很多时候还是会用到输出GIF格式的这个格式。GifGun 脚本可以一键输出GIF动图格式，且操作简单，效果质量高。脚本还可以自定义设置GIF文件的大小，帧数率等属性。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2Boy5iFXXXXbUXXXXXXXXXXXX_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2015/12/gifguntitle_1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE脚本：快速输出GIF动图格式插件脚本 Aescaripts GifGun",
+      "url": "http://lookae.ctfile.com/file/139079413"
+    }
+  ],
+  "other": {
+    "installation_instructions": {
+      "windows": [
+        "拷贝Win文件夹中的(gifGun)，gifGun.jsxbin，install_gifGun.bat三个文件到X:\\Program Files\\Adobe\\Adobe After Effects CC 2015\\Support Files\\Scripts\\ScriptUI Panels",
+        "运行install_gifGun.bat",
+        "拷贝替换文件夹中的gifGun.jsxbin到该目录替换",
+        "打开AE,在Window窗口下拉菜单可以看到gifGun，使用时输入序列号即可"
+      ],
+      "mac": [
+        "运行Mac文件夹中的GifGun_1.0.4_Dev_ID.pkg，完成安装",
+        "拷贝替换文件夹中的gifGun.jsxbin到该目录替换",
+        "打开AE,在Window窗口下拉菜单可以看到gifGun，使用时输入序列号即可"
+      ]
+    },
+    "serial_number": "NSGG*CG*PERSIA*9031667SUL1",
+    "categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

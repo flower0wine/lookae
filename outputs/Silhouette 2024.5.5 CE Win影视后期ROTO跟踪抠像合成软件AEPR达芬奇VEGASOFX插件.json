@@ -1,0 +1,60 @@
+{
+  "title": "Silhouette 2024.5.5 CE Win影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/VEGAS/OFX插件",
+  "slug": "silhouette-2024-5-5-ce-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-vegas-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2025/02/21 09:42",
+  "source_url": "https://www.lookae.com/silhouette-202455/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ROTO插件",
+    "Silhouette",
+    "VEGAS插件",
+    "抠像插件",
+    "达芬奇插件"
+  ],
+  "content": "业界领先的动态描写和绘画工具包含主要的合成功能。Silhouette 提供 400 多个 VFX 节点，分为颜色、合成、扩散、滤镜、胶片实验室、图像、键、光、蓝宝石、剪影、特殊效果、时间、色调、变换、变形和OFX组等，还包括 Boris FX Sapphire、Mocha Pro 和 Particle Illusion。十五年来，顶级艺术家一直依靠 Silhouette 制作好莱坞最热门的影片。这款由视觉效果艺术家创建的奥斯卡和艾美奖获奖工具包最近在《死侍与金刚狼》、《叛逆之月》、《芭比娃娃》、《沙丘》和《三体问题》中大放异彩。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/06/Silhouette-2024.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/465845497543.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022, 2023, 2024, 2025或更高版；Premiere 2020, 2021, 2022, 2023, 2024, 2025或更高版",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1462541176-94110f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1YPavWvHXAAw1ZNK6NyzO2A?pwd=ch6r"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/oAMnhsWUQVn"
+    }
+  ],
+  "other": {
+    "2024版升级更新内容": [
+      "遮罩辅助 ML：通过单一遮罩创建快速动画遮罩。",
+      "降噪器 ML：新的 2 倍速度去噪模型涵盖了更多类型的素材。",
+      "光流机器学习追踪器：创建可用于追踪形状、物体或点追踪器的光流数据。",
+      "增强功能：使用 GPU 节点进行更快的处理、在 roto 节点上使用更少的内存、改进缓存等等！",
+      "重新定时机器学习：产生原始的时间扭曲，包括动画渐变。",
+      "Photoshop 笔刷及其他：支持 Photoshop 画笔、最新版本的 Mocha、Sapphire 和 Particle Illusion 等等。"
+    ],
+    "支持OFX系列软件": [
+      "Vegas",
+      "达芬奇",
+      "Nuke",
+      "Fusion"
+    ],
+    "其他相关": {
+      "中文汉化版": "https://www.lookae.com/silhouette-ch/",
+      "中文汉化版标题": "版 Silhouette 2024.5.3 Win (专业ROTO软件+AE/PR/VEGAS/达芬奇插件)"
+    }
+  }
+}

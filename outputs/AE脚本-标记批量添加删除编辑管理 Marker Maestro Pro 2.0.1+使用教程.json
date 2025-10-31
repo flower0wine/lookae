@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-标记批量添加删除编辑管理 Marker Maestro Pro 2.0.1+使用教程",
+  "slug": "aejiao-ben-biao-ji-pi-liang-tian-jia-shan-chu-bian-ji-guan-li-marker-maestro-pro-2-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-24T14:53:00Z",
+  "source_url": "https://www.lookae.com/marker-maestro-pro/",
+  "category": "aescripts",
+  "tags": [
+    "AE标记",
+    "AE脚本",
+    "标记处理"
+  ],
+  "content": "Marker Maestro Pro 是一款专为 After Effects 设计的脚本，可将合成中所有时间线和图层上的标记以电子表格形式集中展示。用户可对每个标记的字段进行编辑，并通过按下 Return 或 Tab 键快速更新单个标记。支持批量操作，提升标记管理效率。该脚本已全面重构，兼容 AE 2021 至 2025 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Marker-Maestro-Pro.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/524427461868.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1521952879-76415a?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ZfanQI_e5QG5HlZnvZvlpw?pwd=6ye1"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/V8z3RN2Bvpt"
+    }
+  ],
+  "other": {
+    "categories_link": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%a0%87%e8%ae%b0/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e6%a0%87%e8%ae%b0%e5%a4%84%e7%90%86/"
+    ],
+    "post_date_formatted": "2025/06/24 14:53"
+  }
+}

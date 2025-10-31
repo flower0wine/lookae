@@ -1,0 +1,53 @@
+{
+  "title": "AE插件：点线面三维粒子插件Rowbyte Plexus v3.1.6 Win版 + 使用教程",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-6-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/09/15 11:04",
+  "source_url": "https://www.lookae.com/plexus316/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "粒子插件"
+  ],
+  "content": "强大的 Plexus 粒子插件终于迎来了一次重大更新 Plexus 3，增加和改进了众多功能，制作点线面三维粒子效果非常的方便，渲染速度快，支持3D模型导入。你可以将3D模型，存储为兼容性高的OBJ格式，导入AE可作为粒子发射器。你还可以借助路径，和文字以及灯光创建粒子发射，操作模式有违常规。同时直接提供多种自定义特效，分形，颜色，球形场和阴影……Plexus is a next-gen particle engine for After Effects that lets you create, manipulate and visualize data in a procedural manner. Not only you can render the particles, but also create all sorts of interesting relationships between them based on various parameters. The workflow for Plexus is very modular allowing you to create truly infinite set of configurations and parameters。Plexus 3新版特性包括：Object based UI全新定制的UI操控界面、Depth Map Culling深度贴图、Motion Blur运动模糊、Sound Effector音频效果器、Null Object Performance空物体控制提升、Slicer Object物体切割、Path Object Improvements物体路径、Seamless Beams无缝线条动画、Custom Visibility Settings粒子可视化控制、Improved OBJ ImportOBJ导入提升、Unified Rendering统一渲染、Nested Compositions镶嵌合成模式、Loop Noise循环噪波。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版插件v3.1.6-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-310253166"
+    },
+    {
+      "name": "Win版插件v3.1.6-百度云网盘",
+      "url": "https://pan.baidu.com/s/1sAhSFy90JkTzxRc5vO0Hhw"
+    },
+    {
+      "name": "Mac版插件v3.1.5-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-297411540"
+    },
+    {
+      "name": "Mac版插件v3.1.5-百度云网盘",
+      "url": "https://pan.baidu.com/s/1-7tKHOkBMsskEolNPz3D6w"
+    },
+    {
+      "name": "视频教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "视频教程-百度云网盘",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "official_intro_urls": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ]
+  }
+}

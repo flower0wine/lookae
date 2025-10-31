@@ -1,0 +1,34 @@
+{
+  "title": "Aoduobi/OFX版：细节锐化增强插件 Digital Film Tools: reFine v2.0v8 CE",
+  "slug": "aoduobi-ofxban-xi-jie-rui-hua-zeng-qiang-cha-jian-digital-film-tools-refine-v2-0v8-ce",
+  "author": "大众脸",
+  "post_date": "2016/08/17 13:20",
+  "source_url": "https://www.lookae.com/refine208/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "reFine是Digital Film Tools出品的细节锐化增强插件，支持选择性锐化、细节增强、边缘平滑、卡通铅笔效果等功能；采用高品质边缘保持滤波技术，可将图像分解为粗、中、细三层细节分别操作，支持8/16/32位图像处理及多处理器加速，相比现有方法有速度提升和内存节省。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/reFine.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5及以上（64位）、Photoshop Elements13及以上、Lightroom3及以上、After Effects CS5及以上、Premiere Pro CS5及以上、Avid 64位系统、Assimilate Scratch v8及以上、Black Magic Resolve v11及以上、Sony Vegas v13及以上、The Foundry Nuke v8及以上",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "细节锐化增强插件 Digital Film Tools: reFine v2.0v8 CE",
+      "url": "http://lookae.ctfile.com/fs/s8F155362861"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/refine/"
+  }
+}

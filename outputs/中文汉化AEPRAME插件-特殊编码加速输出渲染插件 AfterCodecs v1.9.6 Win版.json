@@ -1,0 +1,96 @@
+{
+  "title": "中文汉化AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.9.6 Win版",
+  "slug": "zhong-wen-yi-hua-ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-9-6-winban",
+  "author": "大众脸",
+  "post_date": "2020-08-05T16:27:00Z",
+  "source_url": "https://www.lookae.com/aftercodecs-196/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Media Encoder 设计的第三方输出渲染插件，支持多种高效编解码器，显著提升视频导出速度并优化文件体积与画质。该插件特别适用于需要输出 H264、H265、ProRes 等特殊编码格式的用户，尤其在 Windows 平台上弥补了原生支持不足的问题。支持多平台和多版本软件，提供丰富的自定义参数设置，并具备批量导出标记、进度显示等实用功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nPremiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nMedia Encoder: 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-456164904"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WDea4z-TD8StFTwnxF3yiQ"
+    },
+    {
+      "name": "中文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-458562106"
+    },
+    {
+      "name": "中文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1yDp-uNlI_qH8eXwiSsKxkQ"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://tc5.us/file/680462-406407782"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "* 多重渲染：\n  - 修正了带有禁止的文件名字符（<>:\"/|?*）的错误，现在有一种保护措施可以在导出器和MultiRender面板中删除它们\n  - 如果您处于试用模式，则只会询问许可证一次",
+      "* 错误修复"
+    ],
+    "codec_support": {
+      "MOV_ProRes": [
+        "422 LT",
+        "代理服务器",
+        "普通",
+        "HQ",
+        "4444",
+        "XQ",
+        "422 Ultra (非官方)",
+        "4444 Light (非官方)"
+      ],
+      "MOV_HAP": [
+        "Hap",
+        "Hap Alpha",
+        "Hap Q",
+        "Hap Q Alpha"
+      ],
+      "MP4_x264": [
+        "最佳的H264 / AVC实施",
+        "特殊YTB Upload配置文件",
+        "支持高分辨率及8K渲染"
+      ],
+      "MP4_x265": [
+        "相同质量下文件比x264轻25%",
+        "编码速度较慢"
+      ],
+      "MP4_x264_RGB": [
+        "避免使用YUV色彩空间",
+        "适合存储单独通道如UV贴图、alpha、3D通道等（高级用户）"
+      ]
+    },
+    "key_features": [
+      "填补编解码器空白，无需QuickTime即可在Windows上使用ProRes",
+      "支持所有Vidvox HAP编解码器，且性能更优无分辨率限制",
+      "支持多轨导出、自定义帧率、快速子分辨率按钮等Premiere功能",
+      "提供高效的H264/H265压缩，支持低比特率高质量输出",
+      "内置YouTube上传专用配置文件，符合平台建议",
+      "可直接在AE渲染队列中使用，无需命令行或Media Encoder",
+      "支持进阶设置：文件大小目标、10 bpc、完整范围、YUV 4:2:2/4:4:4、自定义档位等",
+      "支持批量导出标记（MultiRender Markers）",
+      "渲染时在任务栏显示进度条"
+    ],
+    "website": "http://aescripts.com/aftercodecs/"
+  }
+}

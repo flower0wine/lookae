@@ -1,0 +1,43 @@
+{
+  "title": "AE插件：专业三维摄像机跟踪反求插件 Mocha Pro Plugin v5.2.1 Win/Mac",
+  "slug": "aecha-jian-zhuan-ye-san-wei-she-xiang-ji-gen-zong-fan-qiu-cha-jian-mocha-pro-plugin-v5-2-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/01/13 12:04",
+  "source_url": "https://www.lookae.com/mocha-adobe521/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mocha Pro",
+    "Win/Mac"
+  ],
+  "content": "Mocha Pro是一款独立的2D跟踪软件，基于图形独特的2.5平面跟踪系统，作为低成本有效跟踪解决方案具备多种功能。该插件为一键式安装，方便快捷。官网地址为https://www.imagineersystems.com/features/plug-in-option/。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/06/mocha5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版本插件下载",
+      "url": "https://lookae.ctfile.com/fs/JnB167346542"
+    },
+    {
+      "name": "Mac版本插件下载",
+      "url": "https://lookae.ctfile.com/fs/nLz167346430"
+    }
+  ],
+  "other": {
+    "Mocha Pro5新特性": "增加Adobe和Avid的插件选项，可以在AE CC/Pr CC/Avid中对跟踪好的数据进行处理；增强跟踪数据的GPU处理能力；增强Python脚本模块；增加输出C4D/Fusion/Silhouette FX/MochaBlend的格式选项；bug错误修复，图层处理和工程保存速度的提升",
+    "相关链接": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助LookAE.com网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

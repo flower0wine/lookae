@@ -1,0 +1,27 @@
+{
+  "title": "AE插件：变形扭曲（变脸）插件 REVisionFX RE-Flex v5.2.0 CE（Win64）",
+  "slug": "aecha-jian-bian-xing-niu-qu-bian-lian-cha-jian-revisionfx-re-flex-v5-2-0-ce-win64",
+  "author": "大众脸",
+  "post_date": "2015/05/18 11:19",
+  "source_url": "https://www.lookae.com/flex52/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "REVisionFX RE-Flex v5.2.0 CE是适用于Win64的AE变形扭曲插件，可制作复杂变形扭曲效果动画（如变脸特效），支持AE CS5-CC2014、CC2015版本。更新内容包括增加RVL NOGUI LIC和RVL QUIT LIC渲染支持，修复AE CC2014渲染错误，修正已知BUG并提升计算速率。该插件使用宿主程序自带的绘图和遮罩工具，无需学习新界面，操作直观。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/07/RE-Flex.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5-CC2014, CC2015",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE插件：变形扭曲（变脸）插件 REVisionFX RE-Flex v5.2.0",
+      "url": "https://www.400gb.com/file/94422821"
+    }
+  ],
+  "other": {
+    "official_url": "http://www.revisionfx.com/products/reflex/"
+  }
+}

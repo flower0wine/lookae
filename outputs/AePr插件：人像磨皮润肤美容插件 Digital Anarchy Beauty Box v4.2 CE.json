@@ -1,0 +1,51 @@
+{
+  "title": "Ae/Pr插件：人像磨皮润肤美容插件 Digital Anarchy Beauty Box v4.2 CE",
+  "slug": "ae-prcha-jian-ren-xiang-mo-pi-run-fu-mei-rong-cha-jian-digital-anarchy-beauty-box-v4-2-ce",
+  "author": "大众脸",
+  "post_date": "2018-02-13",
+  "source_url": "https://www.lookae.com/beautybox42/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Beauty Box 采用先进人脸检测与平滑算法，可自动识别肤色并去除瑕疵，像数字化妆一样实现高清/4K 视频人像快速磨皮润肤，无需逐帧手绘遮罩，保留面部细节，广泛用于广告、MV、电影等制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/Beauty-Box.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2018",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Win 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-237397202"
+    },
+    {
+      "name": "Win 百度云",
+      "url": "https://pan.baidu.com/s/1bqmXRzD"
+    },
+    {
+      "name": "Mac 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/wol171191174"
+    },
+    {
+      "name": "Mac 百度云",
+      "url": "https://pan.baidu.com/s/1dE6VPRj"
+    }
+  ],
+  "other": {
+    "官网": "http://digitalanarchy.com/beautyVID/main.html",
+    "注册方式": {
+      "Win": "一键安装注册",
+      "Mac": "序列号注册"
+    },
+    "相关推荐": [
+      "磨皮降噪插件 Digital Anarchy Beauty Box v3.0.5（MAC/WIN）",
+      "更多免费 Final Cut Pro X 系列插件下载",
+      "更多精品 Final Cut Pro X 插件下载"
+    ],
+    "赞助链接": "https://www.lookae.com/sponsor/",
+    "淘宝店": "https://lookae.taobao.com/"
+  }
+}

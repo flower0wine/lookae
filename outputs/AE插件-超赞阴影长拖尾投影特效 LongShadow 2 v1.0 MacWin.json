@@ -1,0 +1,71 @@
+{
+  "title": "AE插件-超赞阴影长拖尾投影特效 LongShadow 2 v1.0 Mac/Win",
+  "slug": "aecha-jian-chao-zan-yin-ying-chang-tuo-wei-tou-ying-te-xiao-longshadow-2-v1-0-mac-win",
+  "author": "大众脸",
+  "post_date": "2022-03-20T10:39:00Z",
+  "source_url": "https://www.lookae.com/longshadow-210/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "LongShadow 2 是一款功能全面的 After Effects 阴影插件，支持 GPU 加速，可高效创建高质量阴影效果。用户可精细控制阴影的各个参数，适用于制作专业级视觉图像。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/LongShadow2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/348934496902.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-550351907-014d38"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1-Vp2VrFeL_OgexkT-U5IGQ?pwd=d4fu"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/W1CjrdC3yF7"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556941316-b022af"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/12l7XGdzXSsMS9CwO07waoQ?pwd=ryi7"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/JdoCwXZjAFY"
+    }
+  ],
+  "other": {
+    "description": "插件具备多种高级功能：神奇的阴影抗锯齿、支持1D/2D纹理模式精确控制颜色与透明度、新增软阴影功能、后平滑算法，以及专为简化操作设计的SoftShadow插件。",
+    "features": [
+      "神奇的阴影抗锯齿",
+      "阴影纹理支持（1D/2D纹理模式）",
+      "Extra Brute-Force Directional 阴影模式",
+      "新的软阴影功能",
+      "后平滑算法",
+      "专用SoftShadow插件（简化控制，柔和阴影外观）"
+    ],
+    "passwords": {
+      "win_ctfile": "6688",
+      "win_baidu": "d4fu",
+      "mac_ctfile": "6688",
+      "mac_baidu": "ryi7"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "related_tags": [
+      "ae插件"
+    ]
+  }
+}

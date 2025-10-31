@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-769个二维动漫能量电流火焰烟雾图形标题背景转场MG特效动画",
+  "slug": "aejiao-ben-769ge-er-wei-dong-man-neng-liang-dian-liu-huo-yan-yan-wu-tu-xing-biao-ti-bei-jing-zhuan-chang-mgte-xiao-dong-hua",
+  "author": "大众脸",
+  "post_date": "2023-09-07T14:04:00Z",
+  "source_url": "https://www.lookae.com/2dfx-generator/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "FXMonster",
+    "MG特效动画",
+    "动漫卡通",
+    "精品资源"
+  ],
+  "content": "本项目为一套强大的2DFX动画脚本，包含超过769个二维MG动画元素，涵盖场景文字、标题、LOGO片头、图形背景、转场效果、音效、工具及能量电流、火焰、线条、流体、烟雾、闪光等视觉特效。所有动画可通过FXMonster插件可视化预览并一键加载至合成中，支持颜色、大小、位置调整，文字与LOGO均可自定义修改，支持中文输入。元素可自由组合，创造多样化动画内容。适用于需要高效制作动态图形的设计师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/2DFX-Generator-.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01fXJfQe1vSMqkW3gdK_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01bctZGG1vSMqkW4I7Z_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/340804300494.mp4"
+  ],
+  "supported_versions": "AE CC 2018 或更高版本",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=665071091392"
+    },
+    {
+      "name": "站内直接购买（支付¥18）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2F2dfx-generator%2F"
+    }
+  ],
+  "other": {
+    "file_size": "575M (Zip压缩包，解压后1.04G)",
+    "installation_method": "大脸整理的PDF中文图文安装方法（严格测试，保证可用）",
+    "tutorial": "英文视频教程",
+    "notes": "脚本使用需要一定AE基础，新手请慎重选购，不提供任何修改服务",
+    "update_note": "2023/9/7更新：修复无法在线激活的问题！！！",
+    "plugin_required": "不需要外置第三方插件",
+    "extension_used": "FXMonster (已包含)",
+    "resolution_support": "可调整大小"
+  }
+}

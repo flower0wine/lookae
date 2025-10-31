@@ -1,0 +1,38 @@
+{
+  "title": "Mac苹果版：Ae/Pr数字转胶片调色插件 FilmConvert Pro 2.39a",
+  "slug": "macping-guo-ban-ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-pro-2-39a",
+  "author": "大众脸",
+  "post_date": "2017/07/17 11:07",
+  "source_url": "https://www.lookae.com/macfilmconvert239/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "Rubber Monkey FilmConvert Pro 是一款将数字摄影机拍摄的素材色彩转换成胶片色彩的工具，可作为独立程序，也可以作为第三方插件。插件可调整曝光，色温，添加颗粒等，颜色三色轮，二级调色等其他属性。支持LUT预设文件导出和保存预设，适用素材 RED,DSLR，MOV等，内置多种胶片预设，8MM-35MM 镜头噪点设置，操作流程简单，支持4K输出。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/AEFilmConvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015–CC 2017, Premiere Pro CC 2015–CC 2017",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-212091879"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1eR2YvsQ"
+    }
+  ],
+  "other": {
+    "camera_profiles": {
+      "download_link": "https://www.filmconvert.com/download/camera-profile"
+    },
+    "official_website": "https://www.filmconvert.com/plugin/adobe",
+    "taobao_store": "https://lookae.taobao.com/",
+    "windows_version": "https://www.lookae.com/filmconvert239/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Ae/Pr蓝宝石特效插件 GenArts Sapphire v9.0.21 CE 一键",
+  "slug": "ae-prlan-bao-shi-te-xiao-cha-jian-genarts-sapphire-v9-0-21-ce-yi-jian",
+  "author": "大众脸",
+  "post_date": "2016-05-25T22:30:00Z",
+  "source_url": "https://www.lookae.com/sapphire9021ce/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Genarts Sapphire",
+    "PR插件"
+  ],
+  "content": "GenArts Sapphire 是一款广受后期爱好者欢迎的 AE/PR 外置视觉特效插件，支持数百种炫酷的视觉效果与转场效果。该插件以卓越的图像质量与高效的渲染速度著称，显著提升创作效率并拓展创意空间。最新版本 v9.0.21 提升了稳定性，修复了 Premiere CC 2015 中 GPU 渲染的卡顿问题，并新增多个实用特效，如 BokehLights、NightSky、Aurora、InfiniteZoom、CutToDissolve、RepairFrames 和 Builder 等。适用于 Adobe After Effects 及 Premiere Pro 多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/sapphir9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014, CC 2015; Adobe Premiere Pro CS6, CC, CC 2014, CC 2015 (v8.1 不支持)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Ae/Pr蓝宝石特效插件 GenArts Sapphire v9.0.21 for Adobe 一键注册",
+      "url": "http://lookae.ctfile.com/fs/E0R151411295"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "支持数百种视觉效果与转场",
+      "优化的预览界面，支持自定义保存预设",
+      "新加入效果：BokehLights（炫光）、NightSky（星空）、Aurora（极光）、InfiniteZoom（螺旋）、CutToDissolve（转场）、RepairFrames（修复画面）、Builder（节点优化）",
+      "插件目录包含：Adjust、Blur+Sharpen、Builder、Composite、Distort、Lighting、Render、Stylize、Time、Transitions 等模块"
+    ],
+    "note": "由 Team V.R 提供一键安装注册版本，安装后即可使用",
+    "update_notes": [
+      "Fixed a hang in Premiere CC 2015 when rendering on the GPU"
+    ],
+    "total_plugins_count": 255,
+    "previews": "专业级效果预览界面，支持预设自定义"
+  }
+}

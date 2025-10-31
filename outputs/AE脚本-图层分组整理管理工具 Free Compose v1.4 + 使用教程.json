@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-图层分组整理管理工具 Free Compose v1.4 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-fen-zu-zheng-li-guan-li-gong-ju-free-compose-v1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/10/19 12:42",
+  "source_url": "https://www.lookae.com/free-compose/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Free Compose 是一款专为 After Effects 设计的脚本工具，用于高效整理和管理杂乱的图层。它允许用户将多个图层快速分组，而不会破坏原有的表达式、父子关系或裁剪设置。功能类似于预合成（pre-compose），但可以在同一层堆栈中展开查看，极大提升复杂项目中的图层组织效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/Free-Compose-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/332544263732.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518145789-110b06"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/18mZ-a4HpEg-_XeSzFfJjoQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ZKgUHuykQM6"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "8tnh"
+    }
+  }
+}

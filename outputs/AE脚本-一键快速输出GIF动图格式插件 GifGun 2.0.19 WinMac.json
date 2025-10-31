@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-一键快速输出GIF动图格式插件 GifGun 2.0.19 Win/Mac",
+  "slug": "aejiao-ben-yi-jian-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-gifgun-2-0-19-win-mac",
+  "author": "大众脸",
+  "post_date": "2024-09-10T18:15:00Z",
+  "source_url": "https://www.lookae.com/gifgun-2019/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "GifGun",
+    "GIF插件"
+  ],
+  "content": "GifGun 2 是一款专为 After Effects 设计的脚本插件，支持一键快速导出 GIF 动图。该插件操作简便、质量高，并支持自定义设置如文件大小、帧率等参数。其核心理念保持原始的一键式工作流，同时集成压缩、批量渲染和丰富配置功能。新版支持导出 .mp4 和 .webm 格式，具备渲染预设共享（JSON 格式）、智能压缩优化（平均节省 15% 文件体积）及目标尺寸优化功能。未来还将推出独立 Web 应用版本，无需依赖 AE 且不上传数据至云端。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/GifGun-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1354574821-ef9de2?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12SscYV6BAP6IDHeU70tYDA?pwd=p4xc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/37dDniPg1MJ"
+    }
+  ],
+  "other": {
+    "update_notes": "2.0.19 更新内容：修复 macOS 上的权限问题",
+    "features": [
+      "支持导出 .gif、.mp4、.webm 格式",
+      "渲染预设可导出为 JSON 文件共享",
+      "GIF 压缩优化（平均节省 15%）",
+      "目标尺寸优化（实验性功能）",
+      "即将推出独立 Web 应用程序，无须 After Effects，本地运行，隐私安全"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "GifGun",
+      "GIF插件"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

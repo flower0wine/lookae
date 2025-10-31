@@ -1,0 +1,88 @@
+{
+  "title": "中文汉化AE插件-众多图片文字汇聚成自定义图形 Pastiche v2.1.13 Mac/Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-zhong-duo-tu-pian-wen-zi-hui-ju-cheng-zi-ding-yi-tu-xing-pastiche-v2-1-13-mac-win",
+  "author": "大众脸",
+  "post_date": "2022/12/21 10:27",
+  "source_url": "https://www.lookae.com/pastiche-2113/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Pastiche",
+    "中文汉化"
+  ],
+  "content": "Pastiche 是一款功能强大的 After Effects 插件，能够轻松将大量图标、图形、文字、图片、Logo 等图层元素一键汇聚成用户自定义的图形、Logo 或文字样式。插件支持处理上百个图层，并允许在参数中调整粒子的排列方式、大小、旋转、透明度等属性。此外，Pastiche 还可与 Newton（牛顿）插件配合使用，实现更具创意的碰撞汇聚效果，并支持不同图形之间的转换（如 A 到 B）。压缩包内包含安装说明和高清视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Pastiche2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/295496486458.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "Win中英文 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-609675958-c20ead?p=4431"
+    },
+    {
+      "name": "Win中英文 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1hazlDsb1VER50MKg8MHi2w?pwd=gc4z"
+    },
+    {
+      "name": "Win中英文 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/WnQAQz3no24"
+    },
+    {
+      "name": "Mac仅英文 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-751836173-8211d1?p=4431"
+    },
+    {
+      "name": "Mac仅英文 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1NwbzWnJyApWgpGVW2O0dDg?pwd=wsr2"
+    },
+    {
+      "name": "Mac仅英文 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/zJQLy7j5UbW"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-479295508"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1_kX9UUltV9VDNz5XHxAAiA"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "win_chengtong": "6688",
+      "mac_chengtong": "6688",
+      "tutorial_chengtong": "377826"
+    },
+    "pastiche2_features": {
+      "pointillism": {
+        "description": "一种新的分配方法，可将图层推向最暗或最不透明的区域，使拼贴上的图层更加规则自然地分布。",
+        "modes": [
+          "基于alpha",
+          "亮度"
+        ],
+        "adjustable": "分布精度"
+      },
+      "apply_color": {
+        "description": "可根据来源设置形状图层的颜色（填充、轮廓或两者），支持随机颜色或预定义颜色。"
+      },
+      "loop": {
+        "description": "通过选择 Transform 参数中的 'Use First Value' 选项，轻松实现动画循环。"
+      },
+      "new_animation_styles": {
+        "interpolation_methods": [
+          "步骤（沿水平和垂直轴移动）",
+          "弹性（为运动增加弹性）"
+        ]
+      }
+    },
+    "version_update_notes": "v2.1.11 修复了关键帧过程中的时间问题",
+    "unsupported_versions": "不再支持 After Effects 2021 以下版本"
+  }
+}

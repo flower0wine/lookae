@@ -1,0 +1,57 @@
+{
+  "title": "抽象艺术图像点画粒子元素汇聚动画AE插件 Stipple V1.0.1 Win+使用教程",
+  "slug": "chou-xiang-yi-zhu-tu-xiang-dian-hua-li-zi-yuan-su-hui-ju-dong-hua-aecha-jian-stipple-v1-0-1-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/07/09 09:09",
+  "source_url": "https://www.lookae.com/stipple/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "图像点画",
+    "粒子汇聚"
+  ],
+  "content": "Stipple 是一款非常有趣的 After Effects 插件，使用物理模拟创建由素材驱动的时间连贯的图像点画图案。点画是一种使用小点重现图像或图案的艺术技巧，这些点可密集或分散排列以实现所需阴影效果。与抖动不同，点画产生更干净、美观的视觉效果，呈现蓝色噪声而非白色噪声。该插件通过物理模拟确保点在时间轴上帧与帧之间可预测地移动，使点之间以及与图像映射相互作用，从而在视频或动画素材中保持视觉一致性与连贯性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/Stipple-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/467167582765.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1320371644-484743?p=4431"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1aGgj25u5E9ep9W29tMMYEA?pwd=id7s"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.alipan.com/s/3J93jW3dKKv"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1320371911-90d65b?p=4431"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1SaGCJh5tgJWDPq6zPBFZtA?pwd=zqrh"
+    },
+    {
+      "name": "使用教程 - 阿里云盘",
+      "url": "https://www.alipan.com/s/PTm93zpyeVD"
+    }
+  ],
+  "other": {
+    "access_passwords": {
+      "城通网盘": "6688"
+    },
+    "baidu_netdisk_passwords": {
+      "插件下载": "id7s",
+      "使用教程": "zqrh"
+    }
+  }
+}

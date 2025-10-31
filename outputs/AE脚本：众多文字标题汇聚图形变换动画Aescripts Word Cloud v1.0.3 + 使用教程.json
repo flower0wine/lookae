@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本：众多文字标题汇聚图形变换动画Aescripts Word Cloud v1.0.3 + 使用教程",
+  "slug": "aejiao-ben-zhong-duo-wen-zi-biao-ti-hui-ju-tu-xing-bian-huan-dong-hua-aescripts-word-cloud-v1-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/01/20 11:08",
+  "source_url": "https://www.lookae.com/word-cloud-103/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE插件",
+    "AE脚本"
+  ],
+  "content": "脚本可以将众多文字标题汇聚成各种形态的图形变换动画，多种属性可控制。Word Clouds 是对词频的图形化表示，出现频率越高的词在视觉上越大、越突出。该算法通过使用词的权重、字体和颜色主题，在不重叠的前提下将词语填充到指定形状中。通过为文本图层添加状态（State），并使用带状态编号的标记（Marker），即可在不同状态之间创建动画过渡。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Word-Cloud.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-332022123"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1r8W8UczmfuiQElb9e5d9dQ"
+    }
+  ],
+  "other": {}
+}

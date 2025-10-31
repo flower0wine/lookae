@@ -1,0 +1,55 @@
+{
+  "title": "中文汉化AE插件-静态图片局部流动循环动画特效 loopFlow v1.1.1 Win/Mac + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jing-tai-tu-pian-ju-bu-liu-dong-xun-huan-dong-hua-te-xiao-loopflow-v1-1-1-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/04/28 09:00",
+  "source_url": "https://www.lookae.com/loopflow-110/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "loopFlow",
+    "中文汉化",
+    "局部循环动画"
+  ],
+  "content": "loopFlow 是一款 After Effects 插件，可将静止图像转换为循环动画视频。通过两个遮罩定义动画区域与流动方向，支持无缝循环动画，可正向或反向播放。动画基于图像在两遮罩间生成的网格上滑动实现，适用于模拟水流、烟雾、火焰、粒子飞散、头发、毛皮、织物及图案等连续流动效果。支持线性、噪波或擦除式混合，并可分别控制双层混合曲线。提供可选扭曲增强自然感，支持动态速度调节（Speed Ramp）。适用于 Windows 与 Mac 系统，兼容 After Effects CC 2014 至 2022 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/loopFlow-11.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356262399652.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-575223591-992784?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12efGlgbc-BqSyn-AwKwkMA?pwd=dl8u"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/iTE9nzM5rhq"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.1.1 更新内容：更新的许可框架；浮动许可错误已解决；增加了跨速度渐变",
+    "usage_instructions": [
+      "将静止图像添加到合成中",
+      "在图像层上绘制2个蒙版（建议相同方向）",
+      "将 loopFlow 效果应用到图层，并分配 Mask1 和 Mask2",
+      "完成！（默认循环时长3秒，可在动画部分调整）"
+    ],
+    "plugin_features": [
+      "动画区域由两个蒙版定义",
+      "带有循环的无缝动画，支持启动/停止循环",
+      "动画可向前或向后移动",
+      "混合方式包括线性、柔和噪波或擦除",
+      "可单独控制双层混合曲线",
+      "支持可选扭曲，提升动画自然感",
+      "支持 Speed Ramp 动态调节流速"
+    ]
+  }
+}

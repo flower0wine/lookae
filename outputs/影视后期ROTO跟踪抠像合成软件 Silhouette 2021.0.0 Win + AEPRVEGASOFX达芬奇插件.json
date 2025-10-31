@@ -1,0 +1,55 @@
+{
+  "title": "影视后期ROTO跟踪抠像合成软件 Silhouette 2021.0.0 Win + AE/PR/VEGAS/OFX/达芬奇插件",
+  "slug": "ying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-silhouette-2021-0-0-win-ae-pr-vegas-ofx-da-fen-qi-cha-jian",
+  "author": "大众脸",
+  "post_date": "2021-04-30",
+  "source_url": "https://www.lookae.com/silhouette-2021/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Silhouette 2021",
+    "Silhouette Paint",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 2021 是同类产品中最佳的视觉效果工具，具有行业最强大的无损修补和旋转摄影工作流程，可用于故事片和电视的后期制作。现在可作为独立应用程序和功能齐全的多主机插件使用。插件 Silhouette Paint 是业界第一个绘画和跟踪工具，提供绘画、擦除、修补、修复等功能，为编辑和效果应用程序带来了同类最佳的 32 位高动态范围绘画工具。自 2005 年以来，Silhouette 参与了《阿凡达》《复仇者联盟：终局之战》《权力的游戏》《怪奇物语》《曼达洛人》等好莱坞大片的制作，并因其对影视行业的贡献获得了奥斯卡奖和艾美奖。2021 版本新增多主机插件支持、镜头校正节点、改进的 roto 形状编辑和关键帧工具、审核和批准说明、改进的用户界面及 GStreamer 支持的电影文件等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/Silhouette-2021-new.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/308728690015.mp4"
+  ],
+  "supported_versions": "2021.0.0",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-494972456-2921a6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1HcDRlydpKs1Ml32_SWhLCg"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "2fov"
+    },
+    "支持宿主软件": [
+      "After Effects",
+      "Adobe Premiere Pro 2020",
+      "Foundry Nuke",
+      "达芬奇 Resolve and Fusion",
+      "Autodesk Flame",
+      "VEGAS Pro",
+      "Silhouette 2021 独立软件"
+    ],
+    "节点数量": 154,
+    "获奖情况": [
+      "奥斯卡奖",
+      "艾美奖"
+    ]
+  }
+}

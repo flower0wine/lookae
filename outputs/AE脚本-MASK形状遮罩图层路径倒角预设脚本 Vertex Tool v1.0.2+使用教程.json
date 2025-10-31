@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-MASK形状遮罩图层路径倒角预设脚本 Vertex Tool v1.0.2+使用教程",
+  "slug": "aejiao-ben-maskxing-zhuang-zhe-zhao-tu-ceng-lu-jing-dao-jiao-yu-she-jiao-ben-vertex-tool-v1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-06-05T10:49:00Z",
+  "source_url": "https://www.lookae.com/vertex-102/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Vertex Tool 是一款专为 After Effects 设计的脚本，可一键对已绘制的 MASK 形状遮罩图层路径进行顶点倒角处理。支持 12 种圆角算法，可自定义倒角参数，适用于 MG 动画制作，并能自动生成图形动画效果。该脚本兼容从 AE CS4 到 CC 2019 的多个版本，最新版 1.0.2 已支持 AE CC 2019。安装方式为将 .jsx 文件放入 AE 安装目录下的 Support Files/Scripts/ScriptUI Pane 路径中，使用时通过窗口菜单调用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/Vertex.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/32636813.mp4"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-377767258"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Zcf4a2rQQkGMJu2XvpH0Aw"
+    }
+  ],
+  "other": {
+    "extract_code": "z960",
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "script_description_en": "Round mask/shape layer corners with a click! Vertex Tool applies rounding algorithms to a shape by placing two (in some cases more) new vertices in place of original one at selected corner, based on a specified line length. There are 12 corner rounding algorithms to choose from.",
+    "script_homepage": "https://aescripts.com/vertex-tool/"
+  }
+}

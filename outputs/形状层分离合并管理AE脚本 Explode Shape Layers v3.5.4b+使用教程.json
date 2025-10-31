@@ -1,0 +1,44 @@
+{
+  "title": "形状层分离合并管理AE脚本 Explode Shape Layers v3.5.4b+使用教程",
+  "slug": "xing-zhuang-ceng-fen-chi-he-bing-guan-li-aejiao-ben-explode-shape-layers-v3-5-4b-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-12-20 09:19",
+  "source_url": "https://www.lookae.com/explode-shape-354/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Explode Shape Layers 脚本可一键将复杂形状层拆分为独立图层，也可反向合并多个形状层，方便对 AI 导入或文字转形状后的图形进行精细控制。v3.5.4b 新增安装清单、支持 macOS Monterey 及以上系统，并修复多项 explode/convert 错误，附带中文视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Explode-Shape.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/28847805.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1439251487-4b2cab?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Tggg89edL9JNNE7aHQsNPQ?pwd=2mwd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/CEHPZvHrZjD"
+    }
+  ],
+  "other": {
+    "tutorial_download": {
+      "城通网盘": "https://lookae.ctfile.com/fs/680462-393730235",
+      "百度网盘": "https://pan.baidu.com/s/13vFLxecCyleiaPhvkFzthA"
+    },
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "2mwd"
+    }
+  }
+}

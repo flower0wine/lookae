@@ -1,0 +1,59 @@
+{
+  "title": "Ae/Pr/达芬奇/Nuke/Vegas/OFX特效合成套装插件 FXhome Ignite Pro 4.0.8528.10801",
+  "slug": "ae-pr-da-fen-qi-nuke-vegas-ofxte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-ignite-pro-4-0-8528-10801",
+  "author": "大众脸",
+  "post_date": "2019-02-01",
+  "source_url": "https://www.lookae.com/ignite-4/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "FXhome Ignite Pro 是一套跨平台 OFX 特效合成插件包，内置 170 余种专业级特效与预设，涵盖调色、抠像、粒子、光效、扭曲、枪火、闪电、镜头修复等模块，支持 GPU 加速，可在 After Effects、Premiere Pro、DaVinci Resolve、Nuke、Vegas 及任意兼容 OFX 的软件中直接调用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXhome-Ignite-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-333916681"
+    },
+    {
+      "name": "百度云网盘",
+      "url": "https://pan.baidu.com/s/1HCKXdqGycJsfeVwYiwn9Rg"
+    }
+  ],
+  "other": {
+    "官网": "http://hitfilm.com/ignite-pro",
+    "插件总数": 173,
+    "支持AE插件数": 154,
+    "支持PR插件数": 143,
+    "特效分类": [
+      "360° video",
+      "Blurs",
+      "Channel",
+      "Color correction",
+      "Color grading",
+      "Stylize",
+      "Temporal",
+      "Distort",
+      "Generate",
+      "Grunge",
+      "Scene",
+      "Gradients & fills",
+      "Keying",
+      "Lights & flares",
+      "Matte enhancement",
+      "Particles & simulation",
+      "Video clean-up",
+      "Warp"
+    ]
+  }
+}

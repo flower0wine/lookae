@@ -1,0 +1,47 @@
+{
+  "title": "引用AI人工智能生成个性化视频AE插件 Diffusae v1.2.1 Win",
+  "slug": "yin-yong-airen-gong-zhi-neng-sheng-cheng-ge-xing-hua-shi-pin-aecha-jian-diffusae-v1-2-1-win",
+  "author": "大众脸",
+  "post_date": "2023-05-16T09:43:00Z",
+  "source_url": "https://www.lookae.com/diffusae/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "人工智能"
+  ],
+  "content": "Diffusae 是一个将 Stable Diffusion 强大功能引入 After Effects 的插件，使用户能够在最熟悉的软件中直接探索和交互生成式 AI。该插件提供简化的工作流程，支持在本地计算机上安装与运行开源软件，无需担心生成图像数量限制，且无使用费用或订阅计划。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Diffusae.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/410427474753.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-857577453-1f2e14?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1GGCfnSm5cPs2VBVM_-RbpQ?pwd=gza1"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/STzUEq2kWSj"
+    }
+  ],
+  "other": {
+    "original_post_date": "2023/05/16 09:43",
+    "categories": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "tag_links": [
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)",
+      "[人工智能](https://www.lookae.com/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/)"
+    ],
+    "description_en": "Diffusae is a plugin that brings the power of Stable Diffusion to After Effects. Explore and interact with generative AI directly in your favorite application! No usage fees or monthly subscription plans. Diffusae provides a simplified workflow to install and run open-source software on your computer. You run it locally with no limitations on how many images can be generated."
+  }
+}

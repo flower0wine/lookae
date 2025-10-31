@@ -1,0 +1,68 @@
+{
+  "title": "Ae/Pr特效合成套装插件 FXhome Ignite Pro 4.1.9221 Win",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-ignite-pro-4-1-9221-win",
+  "author": "大众脸",
+  "post_date": "2019/08/23 13:20",
+  "source_url": "https://www.lookae.com/fxhome-419/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FXHOME 公司出品的 HitFilm 插件套装，能够在 After Effects 和 Premiere Pro 中直接使用 HitFilm 的特效。该套装包含约173款特效，涵盖调色、抠像、变形扭曲、粒子、光晕光效、特效合成等功能。插件支持 GPU 加速，提供先进的键控技术、丰富的光效、烟火模拟、电影级调色与视觉增强功能。其中包含曾经广受欢迎的 Fxhome MuzzlePlug 枪火插件（现为 Gunfire），已集成在 Particles & Simulation 类别中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXhome-Ignite-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019, Premiere Pro CS6 – CC 2019",
+  "supported_os": "Win 8, Win 10 或更高系统（不支持 Win 7）",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-394212124"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1-f_JC8gueziqcid1_Zwiug"
+    }
+  ],
+  "other": {
+    "official_website": "http://hitfilm.com/ignite-pro",
+    "plugin_counts": {
+      "total_plugins": 158,
+      "ae_supported": 154,
+      "pr_supported": 143
+    },
+    "plugin_categories": [
+      "360° video",
+      "Blurs",
+      "Channel",
+      "Color correction",
+      "Color grading",
+      "Stylize",
+      "Temporal",
+      "Distort",
+      "Generate",
+      "Grunge",
+      "Scene",
+      "Gradients & fills",
+      "Keying",
+      "Lights & flares",
+      "Matte enhancement",
+      "Particles & simulation",
+      "Video clean-up",
+      "Warp"
+    ],
+    "notable_features": [
+      "3D muzzle flashes",
+      "Distortion and warp effects",
+      "3D extrusion",
+      "Rolling shutter correction",
+      "Temporal manipulation",
+      "Organic particle arrays with fractal shape controls",
+      "Professional chroma key with spill suppression",
+      "Procedural lens flares and volumetric light rays",
+      "Gunfire particle effect (legacy MuzzlePlug)"
+    ]
+  }
+}

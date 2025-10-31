@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-高级mask遮罩编辑控制工具 Advanced Mask Editor 2.1+使用教程",
+  "slug": "aejiao-ben-gao-ji-maskzhe-zhao-bian-ji-kong-zhi-gong-ju-advanced-mask-editor-2-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-08-02T21:15:00Z",
+  "source_url": "https://www.lookae.com/mask-editor/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Advanced Mask Editor 是一个功能强大的 After Effects 遮罩编辑工具，支持设置路径起点、合并遮罩、镜像、翻转、旋转、弯曲、复制、转换为形状、单独显示遮罩、保存/加载遮罩以及应用遮罩特效。内置50种动画预设，适用于 Win/Mac 系统，兼容 Adobe After Effects CS6 至 CC 2019。v2.1 版本新增了 'CUT-剪切' 功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Advanced-Mask-Editor-.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/p/r/presets_1.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/m/e/merge.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/c/u/curvature.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/m/i/mirror.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-391153987"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jsMHgfr9BxuhJVaXCx5EVQ"
+    }
+  ],
+  "other": {
+    "script_official_url": "http://aescripts.com/advanced-mask-editor/",
+    "update_notes": "v2.1 版本新增 'CUT-剪切' 按钮",
+    "presets_count": 50,
+    "features": [
+      "Set First Vertex",
+      "Merge",
+      "Move to Center",
+      "Mirror",
+      "Flip",
+      "Rotate 90°",
+      "Duplicate",
+      "Convert to Shape",
+      "Solo Mask",
+      "Curvature",
+      "Mask Save & Load",
+      "Mask FX"
+    ]
+  }
+}

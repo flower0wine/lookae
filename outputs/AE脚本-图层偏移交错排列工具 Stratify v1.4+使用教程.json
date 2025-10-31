@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-图层偏移交错排列工具 Stratify v1.4+使用教程",
+  "slug": "aejiao-ben-tu-ceng-pian-yi-jiao-cuo-pai-lie-gong-ju-stratify-v1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/06/13 09:08",
+  "source_url": "https://www.lookae.com/stratify-14/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Stratify 是一款用于 After Effects 的图层偏移交错排列工具，支持以传统方式或基于合成位置的模式对图层进行偏移。其紧凑的用户界面提供了多种排序和偏移选项，帮助用户高效地创建动态错落效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/Stratify.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/444905814537.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1515497452-57891c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1nSbxCgopHnp8KB9JKzgm8A?pwd=4f71"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/8ueezDNSZ3t"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "4f71"
+    },
+    "features": [
+      "上升 – 从底部图层到最上面的选定图层，每次单击增加一帧偏移",
+      "下降 – 从最上面的图层到底部选定图层，每次单击增加一帧偏移",
+      "随机 – 通过设置最小和最大帧数随机偏移图层",
+      "顺序 – 按选择顺序对图层排序",
+      "CTRL/CMD：反转步进方向（适用于上升、下降和模式）",
+      "SHIFT：将偏移量增加十帧（适用于上升、下降和模式）"
+    ],
+    "v1.4_updates": [
+      "全新随机偏移引擎",
+      "支持随机偏移整个图层、仅入点或仅出点",
+      "新增默认随机分布方法“强制范围”，确保偏移值唯一"
+    ]
+  }
+}

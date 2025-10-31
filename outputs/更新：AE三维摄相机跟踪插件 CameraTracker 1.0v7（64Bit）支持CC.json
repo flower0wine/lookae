@@ -1,0 +1,56 @@
+{
+  "title": "更新：AE三维摄相机跟踪插件 CameraTracker 1.0v7（64Bit）支持CC",
+  "slug": "geng-xin-aesan-wei-she-xiang-ji-gen-zong-cha-jian-cameratracker-1-0v7-64bit-zhi-chi-cc",
+  "author": "大众脸",
+  "post_date": "2013/07/16 10:13",
+  "source_url": "https://www.lookae.com/camera-10v7/",
+  "category": "aechajian",
+  "tags": [
+    "64位",
+    "AE插件"
+  ],
+  "content": "CAMERATRACKER 是 After Effects 的三维摄相机跟踪插件，让您在 After Effects 内就能进行三维相机轨道反求和动向匹配。通过分析实拍素材，提取原始相机的镜头和轨迹参数，从而以正确的相机数据进行二维和三维素材的合成。该插件支持在 After Effects 的 2.5D 环境中完成动向匹配，适用于创建镜头内标题、插入动画设计素材、匹配虚拟延伸场景、运动纹理投影对位等任务。此前此类三维动向跟踪技术仅在 Foundry 的高端合成软件 NUKEX 中提供，现在用户可直接在 Adobe After Effects 中使用。此版本对 AE CS6 具有更好的兼容性，并同样适用于 CS5、CS5.5、CS6 和 CC 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/07/CameraTracker1.0v7.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "CameraTracker 1.0v7（64Bit）",
+      "url": "https://www.400gb.com/file/25210355"
+    }
+  ],
+  "other": {
+    "previous_versions": [
+      {
+        "name": "CameraTracker 1.0v6（64Bit）",
+        "url": "http://www.ctdisk.com/file/15448223"
+      },
+      {
+        "name": "CameraTracker 1.0v2 AE CS4",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "name": "CameraTracker 1.0v2 AE CS5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "name": "CameraTracker 1.0v2 AE CS5.5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "name": "The Foundry Camera Tracker 1.0v3 （64位）",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "CameraTracker 官方教程",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      }
+    ],
+    "official_product_page": "http://www.thefoundry.co.uk/products/cameratracker/"
+  }
+}

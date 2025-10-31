@@ -1,0 +1,46 @@
+{
+  "title": "AE插件：特效合成工具插件包 Aescripts BS Compositing Bundle V2.2 + 使用教程",
+  "slug": "aecha-jian-te-xiao-he-cheng-gong-ju-cha-jian-bao-aescripts-bs-compositing-bundle-v2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/10/20 16:53",
+  "source_url": "https://www.lookae.com/bs-compositing/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件"
+  ],
+  "content": "Aescripts 出品的一套特效合成工具插件包，包含三款原生插件，旨在提升 After Effects 中的合成工作流程，无需预合成即可组合遮罩、纯色层和图层。插件包内附使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/BS_CompositingBundle-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE插件：特效合成工具插件包 Aescripts BS Compositing Bundle V2.2 + 使用教程",
+      "url": "https://www.400gb.com/file/125922314"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/bs_compositingbundle/",
+    "plugins": [
+      {
+        "name": "bs_SmartSetMatte",
+        "description": "提取另一个图层的信息并将其转换为当前图层的 Alpha 通道。"
+      },
+      {
+        "name": "bs_MixColor",
+        "description": "使用多种混合模式将纯色层的颜色混合到图像中。"
+      },
+      {
+        "name": "bs_MixLayer",
+        "description": "使用多种混合模式将另一个图层混合到图像中，并可在混合前调整输入图层。"
+      }
+    ],
+    "additional_categories": [
+      "AE教程",
+      "After Effects"
+    ]
+  }
+}

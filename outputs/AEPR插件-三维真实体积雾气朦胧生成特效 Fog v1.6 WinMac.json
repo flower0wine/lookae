@@ -1,0 +1,42 @@
+{
+  "title": "AE/PR插件-三维真实体积雾气朦胧生成特效 Fog v1.6 Win/Mac",
+  "slug": "ae-prcha-jian-san-wei-zhen-shi-ti-ji-wu-qi-meng-long-sheng-cheng-te-xiao-fog-v1-6-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/11/16 13:39",
+  "source_url": "https://www.lookae.com/fog-16/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Prosya Fog 是一款专为高级用户设计的插件，适用于需要重新打光场景、为照片制作动画以及营造氛围和粒子视觉特效的场景。该插件无需深度贴图即可在图像中生成雾、薄雾和扩散效果，节省视觉特效制作和创意调色的时间。它内置智能算法，可自动估算场景深度，无需用户手动创建深度图。相比其他仅能生成雾形的插件，Prosya Fog 还支持扩散、散射、分散、可变密度以及辉光/光晕效果，从而实现更完整的视觉幻觉。该插件兼容任意2D视频和照片，因此同时支持 Premiere Pro 和 After Effects。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/FOG-16.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337304010463.mp4"
+  ],
+  "supported_versions": "After Effects: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015; Premiere: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520905254-b566b1"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1oIVQdh4UNCy7QIA04JNk7Q"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/8XMkbcQGUeb"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "0bvo"
+    },
+    "update_notes": "v1.6更新内容：添加了耶稣光；改进体积光。"
+  }
+}

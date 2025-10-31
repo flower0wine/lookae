@@ -1,0 +1,43 @@
+{
+  "title": "AE/PR脚本-创建编辑导入导出专业字幕脚本 Subtitle Pro 2.8.0 + 使用教程",
+  "slug": "ae-prjiao-ben-chuang-jian-bian-ji-dao-ru-dao-chu-zhuan-ye-zi-mu-jiao-ben-subtitle-pro-2-8-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-12-27",
+  "source_url": "https://www.lookae.com/subtitle-pro/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本"
+  ],
+  "content": "Subtitle Pro 是一款面向 After Effects 与 Premiere Pro 的专业字幕插件，支持在软件内直接创建、编辑、导入与导出字幕。可一键导入 .srt 等常见字幕格式，也可手动输入文本；提供一键翻译、一键时间同步、动画模板预览、标记控制、快速搜索、自动保存及多编码支持等功能，并可用于制作低三动画等更多动态文字效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/Subtitle-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2020, CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://089u.com/file/680462-477403769"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1Bw39VIro1K0CLgfdmsKvhg"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://089u.com/file/680462-477403931"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1f5We4fWaKGGxaPk9uWSWsg"
+    }
+  ],
+  "other": {
+    "baidu_extract_code": {
+      "脚本": "0xkq",
+      "教程": "4dp8"
+    }
+  }
+}

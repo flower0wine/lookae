@@ -1,0 +1,77 @@
+{
+  "title": "视频无损放大画质修复软件+达芬奇/AE插件 Topaz Video AI v5.0.3 Win",
+  "slug": "shi-pin-wu-sun-fang-da-hua-zhi-xiu-fu-ruan-jian-da-fen-qi-aecha-jian-topaz-video-ai-v5-0-3-win",
+  "author": "大众脸",
+  "post_date": "2024-05-14T12:01:00Z",
+  "source_url": "https://www.lookae.com/topaz-video-503/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Topaz Video AI",
+    "画质修复",
+    "视频无损放大",
+    "达芬奇插件"
+  ],
+  "content": "Topaz Video AI v5.0.3 是一款基于先进人工智能模型的视频处理工具，能够智能提升视频视觉质量。经过数百万视频帧训练，可将素材放大并增强至最高16K分辨率，保留真实细节与运动一致性。支持视频放大、去隔行、运动插值和抖动稳定，适用于本地工作站优化。提供独立软件版本、达芬奇插件版和After Effects插件版。曾用名：Topaz Video Enhance AI。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/05/Topaz-Video-AI-v5.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/462655831580.mp4"
+  ],
+  "supported_versions": "After Effects 2024 或更高版本；DaVinci Resolve Studio 18 或更高版本",
+  "supported_os": "Windows 10 或 11（推荐最新版本）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1245622538-f3dd22?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JAhBvWYeTrW8v9y1TtFR6A?pwd=nvqg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/JGFbnDKNj66"
+    }
+  ],
+  "other": {
+    "tool_name": "Topaz Video AI",
+    "former_name": "Topaz Video Enhance AI",
+    "features": [
+      "视频无损放大至16K分辨率",
+      "真实细节还原与运动一致性保持",
+      "支持去隔行、运动插值、抖动稳定",
+      "兼容独立软件、AE插件、达芬奇插件"
+    ],
+    "compatibility_notes": {
+      "after_effects": [
+        "仅支持增强和运动去模糊模型",
+        "升级到4倍时性能和UI响应可能下降"
+      ],
+      "davinci_resolve": [
+        "仅支持增强和运动去模糊模型",
+        "所有模型以1倍比例运行",
+        "需使用DaVinci Resolve Studio，免费版不支持"
+      ]
+    },
+    "minimum_requirements": {
+      "os": "Windows 10/11 (推荐最新版本)",
+      "cpu": "支持AVX2指令集的Intel或AMD处理器",
+      "ram": "16 GB (推荐32 GB或更多)",
+      "gpu_nvidia": "NVIDIA GTX 900系列或更高，6GB VRAM",
+      "gpu_amd": "AMD Radeon 500系列或更高，6GB VRAM",
+      "gpu_intel": "Intel ARC A750",
+      "cpu_year": "2016年或更新"
+    },
+    "recommended_requirements": {
+      "ram": "32 GB或更多",
+      "gpu_nvidia": "NVIDIA RTX 3000系列或更高，8GB VRAM",
+      "gpu_amd": "AMD Radeon RX 5000系列或更高，8GB VRAM"
+    },
+    "download_passwords": {
+      "ctfile": "6688",
+      "baidu_pan": "nvqg"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE/PR插件-画面像素破损信号干扰色彩分离失真插件 TV Distortion Bundle V1.1 Win/Mac版",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-hua-mian-xiang-su-po-sun-xin-hao-gan-rao-se-cai-fen-chi-shi-zhen-cha-jian-tv-distortion-bundle-v1-1-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/08/12 18:00",
+  "source_url": "https://www.lookae.com/tv-distortion-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "TV Distortion Bundle 是一套专为 After Effects 和 Premiere 设计的五款失真效果插件合集，可轻松模拟从模拟时代到数字压缩时代的电视观看体验。支持创建模拟失真、信号干扰、像素破损、RGB色彩分离等视觉特效。适用于多种版本的 AE 与 PR，且已更新兼容 macOS 10.15 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/TV-Distortion-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Premiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（英文版）",
+      "url": "https://089u.com/file/680462-456672256"
+    },
+    {
+      "name": "百度网盘下载（英文版）",
+      "url": "https://pan.baidu.com/s/1wu4FpVAZR8kLumcDu7g9Fg"
+    },
+    {
+      "name": "城通网盘下载（中文汉化版）",
+      "url": "https://089u.com/file/680462-456757387"
+    },
+    {
+      "name": "百度网盘下载（中文汉化版）",
+      "url": "https://pan.baidu.com/s/1eJ4nnPyRUQgfR3WkfVezWw"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "Bad TV v2.1.6 - 坏电视效果",
+      "Data Glitch v2.0.10 - 信号干扰破损效果",
+      "Dot Pixels v2.5.5 - 点阵像素效果",
+      "Separate RGB v3.0.5 - RGB色彩分离效果",
+      "TVPixel v1.0.6 - 电视像素损坏效果"
+    ],
+    "original_source": "https://www.rowbyte.com/tv-distortion-bundle",
+    "extract_code": {
+      "english_version": "ikul",
+      "chinese_mod_version": "llv9"
+    },
+    "description": "该插件包提供丰富的复古电视风格特效，适合用于影视后期、广告制作和创意视频中营造怀旧或故障艺术风格。"
+  }
+}

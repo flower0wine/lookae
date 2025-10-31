@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-不同电脑场景合成图层复制粘贴操作 Network Clipboard 2.0",
+  "slug": "aejiao-ben-bu-tong-dian-nao-chang-jing-he-cheng-tu-ceng-fu-zhi-nian-tie-cao-zuo-network-clipboard-2-0",
+  "author": "大众脸",
+  "post_date": "2019/04/23 23:00",
+  "source_url": "https://www.lookae.com/network-clipboard/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE插件"
+  ],
+  "content": "脚本允许您只需单击按钮即可在网络中的项目之间复制和粘贴元素。只需选择要复制的内容，然后按“复制”即可。然后你工作室的其他任何人都可以直接粘贴到他们的场景中。图层，合成，灯光，几何图形，摄像机，节点，动画或静态等均和复制粘贴。Collaborate more efficiently. No more saving out reduced projects in order to share with your team.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Network-Clipboard-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2017 -CC 2019， Houdini 17",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367855826"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/14J0vrlTEebnLKEa5xhg5vA"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "cs8z"
+  }
+}

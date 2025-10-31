@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-像素破损撕拉花屏效果 Datamosh 2.6.1+使用教程",
+  "slug": "aejiao-ben-xiang-su-po-sun-si-la-hua-ping-xiao-guo-datamosh-2-6-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-09 09:52",
+  "source_url": "https://www.lookae.com/datamosh-261/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Datamosh",
+    "故障特效"
+  ],
+  "content": "Datamosh 2是After Effects故障处理的最新版本，可让您以无数种方式破坏视频画面。Datamosh 2带来了60多种moshing算法、16倍的精度、6个新参数和新的标记工作流程。从其他剪辑中删除帧、劫持动作和交换动作。Datamosh 2推出了新功能 Mosh地图！只需添加一个新的地图标记，将其放在您的地图图层上，然后使用灰度值来控制mosh强度区域。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Datamosh-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404463793049.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1YpcG6jGmtaHKrQdj3I-EHA?pwd=7crc"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1495233256-52cb54?pwd=4431"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/tHTvCm9TpSe"
+    }
+  ],
+  "other": {
+    "update_content": "v2.6.1更新内容：改进了通知和错误报告，修复了启动温度期间失败的问题"
+  }
+}

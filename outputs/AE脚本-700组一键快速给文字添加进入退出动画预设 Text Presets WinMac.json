@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-700组一键快速给文字添加进入退出动画预设 Text Presets Win/Mac",
+  "slug": "aejiao-ben-700zu-yi-jian-kuai-su-gei-wen-zi-tian-jia-jin-ru-tui-chu-dong-hua-yu-she-text-presets-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/07/02 13:56",
+  "source_url": "https://www.lookae.com/text-presets-atom/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Atom",
+    "AtomX",
+    "精品资源"
+  ],
+  "content": "此扩展脚本提供700组文字进入退出动画预设，可一键式快速给文字层添加动作动画预设。能直观在脚本中预览文字动画，点击可给文字添加进入动画、退出动画或同时添加，拖动图层标记点可控制持续时间，预设还可组合使用制作更多文字动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Atom-Text-Animation-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01O7pa991vSMjJyVi1g_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01qi0hQg1vSMjMa9DQM_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01rIty8R1vSMjOU042S_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/270931782336.mp4"
+  ],
+  "supported_versions": "AE CC 2017，2018，2019，2020或更高版本（支持中文和英文版AE软件）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "支付¥15下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ftext-presets-atom%2F"
+    },
+    {
+      "name": "AE脚本-700组一键快速给文字添加进入退出动画预设 Text Presets",
+      "url": "https://item.taobao.com/item.htm?spm=a2126o.success.0.0.7d7548314vUiPh&id=621713332550"
+    }
+  ],
+  "other": {
+    "分辨率": "不限制",
+    "使用插件": "不需要外置第三方插件",
+    "调用扩展": "Atom (已提供)",
+    "文件大小": "43M",
+    "安装方法": "大脸整理的PDF中文图文安装方法（严格测试，保证可用）",
+    "使用教程": "英文视频教程",
+    "音乐音效": "没有",
+    "提醒注意": "脚本使用需要一定AE基础，新手请慎重选购，我们不提供任何修改服务"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Win中文汉化版-点线面三维粒子特效AE插件 Plexus v3.2.10 Win",
+  "slug": "winzhong-wen-yi-hua-ban-dian-xian-mian-san-wei-li-zi-te-xiao-aecha-jian-plexus-v3-2-10-win",
+  "author": "大众脸",
+  "post_date": "2025/09/18 08:54",
+  "source_url": "https://www.lookae.com/plexus-chn/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus中文版",
+    "中文汉化",
+    "粒子插件"
+  ],
+  "content": "Plexus 粒子插件拥有众多功能，制作点线面三维粒子效果非常方便，渲染速度快，支持3D模型导入。用户可将3D模型存储为兼容性高的OBJ格式并导入AE作为粒子发射器，也可借助路径、文字及灯光创建粒子发射。插件提供多种自定义特效，包括分形、颜色、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/02/Plexus-ZH-.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN011CybJ11vSN9nQFFBY_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01QNfD5L1vSN9pzRDN7_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2015, 2017, CC 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=891546194581"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/plexus-3210/"
+    },
+    {
+      "name": "站内支付下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fplexus-chn%2F"
+    }
+  ],
+  "other": {
+    "file_size": "10M",
+    "notes": "提供中文和英文版，一键集成选择安装；仅支持Win版，不支持Mac版；由于技术限制和疏漏极少部分参数可能未做汉化；面板无法汉化，保留英文；转译编码的特殊性，可能存在潜在BUG；在购买之前希望你对此工具有所了解，我们仅提供工具，不提供任何视频教程和使用教学。"
+  }
+}

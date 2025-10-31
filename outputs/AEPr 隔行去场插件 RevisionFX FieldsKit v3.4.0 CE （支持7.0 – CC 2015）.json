@@ -1,0 +1,56 @@
+{
+  "title": "AE/Pr 隔行去场插件 RevisionFX FieldsKit v3.4.0 CE （支持7.0 – CC 2015）",
+  "slug": "ae-pr-ge-xing-qu-chang-cha-jian-revisionfx-fieldskit-v3-4-0-ce-zhi-chi-7-0-cc-2015",
+  "author": "大众脸",
+  "post_date": "2016/01/15 00:01",
+  "source_url": "https://www.lookae.com/fieldskit34/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FieldsKit是Revisionfx公司专门针对视频场处理而开发的工具，能够有效处理视频因场的问题导致的波纹横纹效果，可去掉场水纹。插件包含FieldsKit Deinterlacer、FieldsKit Reinterlace、FieldsKit Pulldown三个重要滤镜，分别用于去隔行处理、隔行扫描重建及帧率下拉变换。插件支持Win系统，适用于Adobe After Effects 7.0至CC 2015及Adobe Premiere Pro CS4至CC 2015 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/01/FieldsKit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects 7.0, CS4, CS5, CS5.5, CS6, CC, CC 2014 and CC 2015；Adobe Premiere Pro CS4, CS5, CS5.5, CS6, CC, CC 2014 and CC 2015",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "AE/Pr 隔行去场插件 RevisionFX FieldsKit v3.4.0 CE （支持7.0 – CC 2015）",
+      "url": "http://lookae.ctfile.com/file/140777798"
+    }
+  ],
+  "other": {
+    "官网地址": "http://revisionfx.com/products/fieldskit/",
+    "FieldsKit包含内容": [
+      "FieldsKit Deinterlacer",
+      "FieldsKit Reinterlacer",
+      "FieldsKit Pulldown"
+    ],
+    "FieldsKit特性": [
+      "8和16位每通道处理（Final Cut Pro中仅支持8位每通道）。After Effects 7.0及以上版本支持浮点图像",
+      "支持多处理器",
+      "所有插件适用于任意分辨率（包括高清）",
+      "Deinterlacer和Reinterlacer适用于PAL和NTSC素材"
+    ],
+    "FieldsKit Deinterlacer特性": [
+      "通过查看周边区域构建更好看的帧以重建更好的边缘",
+      "使用运动估计去隔行",
+      "仅在场景中有运动的地方执行去隔行（对固定摄像机拍摄有用）",
+      "在垂直方向模糊以减少或消除闪烁或爬行伪影",
+      "后期锐化以恢复去隔行帧时丢失的一些细节"
+    ],
+    "FieldsKit Reinterlacer特性": [
+      "使用运动估计从逐行素材创建隔行素材",
+      "对逐行序列的帧进行隔行处理。这对于不支持隔行帧显示的应用程序（如After Effects）通常很有用",
+      "组合和混合场以帮助减少隔行素材中的伪影"
+    ],
+    "FieldsKit Pulldown特性": [
+      "去除和创建下拉",
+      "支持传统的3:2和3:2 PA下拉",
+      "为原始素材中具有多个节奏的素材设置下拉菜单相位动画"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "30组GoPro运动相机专用LUTs电影调色预设 30 GoPro LUTs Color Grading Pack",
+  "slug": "30zu-goproyun-dong-xiang-ji-zhuan-yong-lutsdian-ying-diao-se-yu-she-30-gopro-luts-color-grading-pack",
+  "author": "大众脸",
+  "post_date": "2016/11/10 09:15",
+  "source_url": "https://www.lookae.com/gopro-lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "GoPro",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "30 GoPro LUTs Color Grading Pack 是一套专为 GoPro 运动相机设计的专业级 LUTs 调色预设，同时也适用于其他类型的画面素材。该预设包提供 3DL 和 CUBE 双格式，兼容各类主流后期图像处理软件，能够快速实现富有创意的电影级色彩效果。LUTs 可显著简化调色流程，赋予画面丰富的动态色彩和胶片质感，用户只需在此基础上进行微调即可获得出色的视觉风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/GOPRO-LUT.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2016, Adobe After Effects CS6-CC 2016, Adobe Photoshop CS6-CC 2016, Final Cut Pro X, Final Cut Pro 7",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/L0d160680847"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1gfbUImJ"
+    },
+    {
+      "name": "大众脸LookAE官方淘宝店资源.doc",
+      "url": "https://pan.baidu.com/s/1qXDpS1Q"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "recommended_resources": [
+      {
+        "title": "几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      }
+    ],
+    "official_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "赞助 LookAE.com 网站",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "lut_usage_tools": [
+      {
+        "name": "Magic Bullet LUT Buddy",
+        "url": "https://www.redgiant.com/downloads/free-products/"
+      },
+      {
+        "name": "FCPX软件 LUT 实用颜色工具",
+        "url": "https://www.lookae.com/fcpx-lut/"
+      },
+      {
+        "name": "Vegas Pro LUTS插件",
+        "url": "https://www.lookae.com/ofxlut/"
+      }
+    ],
+    "additional_resources": {
+      "free_luts": "https://www.lookae.com/tag/lut/"
+    }
+  }
+}

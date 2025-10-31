@@ -1,0 +1,40 @@
+{
+  "title": "AE插件-快速染色着色插件VideoCopilot Color Vibrance 1.0.7 Win/Mac支持2022多帧渲染",
+  "slug": "aecha-jian-kuai-su-ran-se-zhao-se-cha-jian-videocopilot-color-vibrance-1-0-7-win-maczhi-chi-2022duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2021/11/22 18:02",
+  "source_url": "https://www.lookae.com/color-vibrance-107/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "VideoCopilot"
+  ],
+  "content": "VideoCopilot 出品的快速染色/着色插件 Color Vibrance，完全免费。该插件可快速对明暗不一致的图形进行着色，效果明暗突出、层次分明，简化了传统使用曲线或色相饱和度的繁琐操作。插件还支持创建 Alpha 通道，并提供颜色衰减与羽化设置，适用于多种视频素材，提升合成控制能力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Color-Vibrance-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6-2022 或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-521558515-caeb57"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/16DSOI7J1xz0Iml5F5jOdqw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/RJqjxryfeyi"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "eoyr"
+    },
+    "update_notes": "V1.07 更新：支持AE2022和多帧渲染"
+  }
+}

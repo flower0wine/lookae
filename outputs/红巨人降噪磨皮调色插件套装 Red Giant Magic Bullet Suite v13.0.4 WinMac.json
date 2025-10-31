@@ -1,0 +1,73 @@
+{
+  "title": "红巨人降噪磨皮调色插件套装 Red Giant Magic Bullet Suite v13.0.4 Win/Mac",
+  "slug": "hong-ju-ren-jiang-zao-mo-pi-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v13-0-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/08/15 12:07",
+  "source_url": "https://www.lookae.com/rgmb1304/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "Red Giant 发布了最新的降噪磨皮调色插件套装 Magic Bullet Suite v13.0.4，提供实时色彩校正，并支持 OpenGL 和 OpenCL，所有工具均基于 GPU 加速以实现最大运行速度。该套装适用于多种主流视频剪辑与调色软件，涵盖 Adobe After Effects、Premiere Pro、Final Cut Pro X、Avid Media Composer、Vegas Pro、Edius 及 DaVinci Resolve 等平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13.jpg",
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13sn.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 – CC 2017, Adobe Premiere Pro CS6 – CC 2017, DaVinci Resolve Studio 11, 12, Apple Final Cut Pro X, Apple Motion 5, Avid Media Composer 7.0, 8.0+, Vegas Pro 12, 13, 14 (64-bit), Edius 8, HitFilm Pro",
+  "supported_os": "Mac / Win",
+  "download_links": [
+    {
+      "name": "Win 版本下载 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-215613753"
+    },
+    {
+      "name": "Win 版本下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1c24G124"
+    },
+    {
+      "name": "Mac 版本下载 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-215616281"
+    },
+    {
+      "name": "Mac 版本下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1i5DtE1R"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "http://lookae.ctfile.com/fs/EOV159613519"
+    },
+    {
+      "name": "教程下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1nu7VFYT"
+    }
+  ],
+  "other": {
+    "plugin_updates": [
+      "修正了在使用批量许可时在 Premiere Pro 中使用水银加速引擎时可能引起水印的问题",
+      "修复 Renoiser 插件不正常运行显示的问题"
+    ],
+    "plugin_list": [
+      "Magic Bullet Colorista IV 4.0.4 - 调色师4（支持Lut）",
+      "Magic Bullet Cosmo II 2.0.1 - 润肤磨皮插件",
+      "Magic Bullet Film 1.2.2 - 电影质感调色",
+      "Magic Bullet Looks 4.0.3 - 调色插件（多预设、支持Lut）",
+      "Magic Bullet Mojo II 2.0.2 - 快速调色",
+      "Magic Bullet Denoiser III 3.0.1 - 降噪插件",
+      "Magic Bullet Renoiser 1.0.2 - 噪波颗粒插件（新加入）"
+    ],
+    "registration_keys": [
+      "COBK2245921573563861",
+      "COBK2245846563534111"
+    ],
+    "official_store": "https://lookae.taobao.com/",
+    "donation_link": "https://www.lookae.com/sponsor/",
+    "additional_info": "套装注册序列号可注册所有插件"
+  }
+}

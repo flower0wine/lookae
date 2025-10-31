@@ -1,0 +1,63 @@
+{
+  "title": "AE脚本-自定义调色板快速应用工具 ColorFlow v.1.4.0+使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-diao-se-ban-kuai-su-ying-yong-gong-ju-colorflow-v-1-4-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-15T09:57:00Z",
+  "source_url": "https://www.lookae.com/colorflow-140/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "ColorFlow",
+    "调色板"
+  ],
+  "content": "ColorFlow 是一款专为 After Effects 设计的脚本工具，帮助用户轻松管理颜色与标签。支持创建自定义调色板，快速将颜色应用于各类图层（如实体、形状、文本层、素材等），并提供高效的标签组织功能和直观快捷键操作，显著提升工作流程效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/ColorFlow-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/524572504250.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1531225033-b88684?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Eg5iL5YqoAYIut4ORikAmQ?pwd=r1ab"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/UrjsV1onqeX"
+    }
+  ],
+  "other": {
+    "features": [
+      "即时颜色变化：单击即可应用源颜色或添加填充效果。",
+      "通用兼容性：支持实体、形状、文本层、素材等图层类型。",
+      "高级标签管理：通过专用面板高效组织图层标签。",
+      "智能快捷键：支持 Ctrl+点击颜色选择图层、Shift+点击更改描边、右键添加填充、Ctrl+点击标签选择对应图层、Shift+点击切换害羞模式。",
+      "无缝调色板导入：可将调色板直接导入合成，作为颜色样本或带控制的空对象。",
+      "高级色彩和谐：支持自动生成三色、类似色、互补色和色调变化。",
+      "图像颜色提取：从任意图像中提取主色并一键导入调色板。",
+      "右键排除标签颜色：在标签流中可排除特定颜色以快速隔离图层。",
+      "修复与优化：修复保存/编辑调色板的小错误，提升性能。"
+    ],
+    "update_notes_v1_4_0": [
+      "新增图像颜色提取功能，可从图片中自动提取主色并添加至调色板。",
+      "支持将调色板直接导入合成，生成颜色样本及带控制的空对象。",
+      "右键单击标签颜色可将其从当前选择中排除，便于大型时间线管理。",
+      "修复调色板保存与编辑中的小问题，并优化整体性能。"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "ColorFlow",
+      "调色板",
+      "After Effects",
+      "色彩管理",
+      "工作流优化"
+    ]
+  }
+}

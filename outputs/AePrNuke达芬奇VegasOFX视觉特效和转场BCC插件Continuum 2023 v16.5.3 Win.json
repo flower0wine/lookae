@@ -1,0 +1,81 @@
+{
+  "title": "Ae/Pr/Nuke/达芬奇/Vegas/OFX视觉特效和转场BCC插件Continuum 2023 v16.5.3 Win",
+  "slug": "ae-pr-nuke-da-fen-qi-vegas-ofxshi-jue-te-xiao-he-zhuan-chang-bcccha-jian-continuum-2023-v16-5-3-win",
+  "author": "大众脸",
+  "post_date": "2023-10-05T17:15:00Z",
+  "source_url": "https://www.lookae.com/bcc-1652/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Continuum 插件是满足内容创作需求的一站式工具集，涵盖300多种效果、40多种转场和5000多种预设。支持 Adobe 多帧渲染与原生 Apple M1 GPU 加速，并集成 Mocha 遮罩技术，实现高级平面跟踪与复杂蒙版控制。适用于 After Effects、Premiere Pro、DaVinci Resolve、Nuke 及 Vegas 等主流视频制作软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/BCC-16.5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Continuum 2023.5 v16.5.3.874",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR 版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-953029506-5e5c44?p=4431"
+    },
+    {
+      "name": "AE/PR 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1DCGfZa0Hz-84vt50jgakhg?pwd=gv4o"
+    },
+    {
+      "name": "AE/PR 版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Ztyrd11rNtL"
+    },
+    {
+      "name": "OFX系列 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-953029602-2f41d7?p=4431"
+    },
+    {
+      "name": "OFX系列 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1oxI6O3scvV7hn8zqOt6Kyw?pwd=iqz6"
+    },
+    {
+      "name": "OFX系列 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/SZnzMqTNj9F"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新增效果和过渡：BCC+ Super LED、BCC+Smoke and Fog、BCC+ Light Flicker、BCC+ Orbs、BCC+ Flutter Cut。",
+      "更多Mocha功能：支持在 BCC+ Lens Flare、BCC+ Super LED 和 BCC+ Light 中进行参数和角针跟踪。",
+      "幻影粒子：新增遮罩、轨迹、渐变预设、3D 偏转器、力湍流等高级功能。",
+      "Beat Reactor：已集成至40个BCC+效果中，可实现效果与音乐同步。",
+      "新增150多个专业设计的附加预设。"
+    ],
+    "supported_software": {
+      "adobe": [
+        "After Effects CC 2020, 2021, 2022, 2023",
+        "Premiere Pro CC 2020, 2021, 2022, 2023"
+      ],
+      "ofx": [
+        "DaVinci Resolve 和 Studio 17.x, 18.x",
+        "Nuke 12, 13",
+        "Vegas 19, 20"
+      ]
+    },
+    "related_links": [
+      "https://www.lookae.com/bcc-2021-ch/",
+      "Win中文汉化-视觉特效和转场AE/PR插件 BCC 2023 v16.5"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": {
+        "ae_pr": "gv4o",
+        "ofx": "iqz6"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-表达式错误查找修改脚本 pt_ExpressEdit 2.5 ＋使用教程",
+  "slug": "aejiao-ben-biao-da-shi-cuo-wu-cha-zhao-xiu-gai-jiao-ben-pt-expressedit-2-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/08/26 09:10",
+  "source_url": "https://www.lookae.com/expressedit-25/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以在工程项目中查找、应用、编辑、修改表达式。还可以查找工程中出现的错误表达式并尽可能自动修复它。Search, apply and edit expressions throughout your project. Expressions can be saved, or instantly applied to one or more properties. It can also check for broken expressions, re-enabling them automatically where possible.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/ExpressEdit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-394931773"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/12Se-AD1r1J4x1wAvPIYBAw"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加了排序选项",
+      "启动之间保留搜索设置",
+      "修复了与主属性相关的问题",
+      "许可证更新"
+    ],
+    "external_link": "https://aescripts.com/pt_expressedit/"
+  }
+}

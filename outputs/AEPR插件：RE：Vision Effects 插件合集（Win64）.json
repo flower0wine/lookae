@@ -1,0 +1,56 @@
+{
+  "title": "AE/PR插件：RE：Vision Effects 插件合集（Win64）",
+  "slug": "ae-prcha-jian-re-vision-effects-cha-jian-he-ji-win64",
+  "author": "大众脸",
+  "post_date": "2014-06-09T15:41:00Z",
+  "source_url": "https://www.lookae.com/revisionfx/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "win64"
+  ],
+  "content": "RE：Vision Effects 是一家以出品高质量视频处理插件而闻名的公司，其最知名的插件为 Twixtor Pro 变速插件。本合集包含该公司多个核心插件，适用于 Windows 系统下的 Adobe After Effects 与 Premiere Pro（支持 CS5、CS5.5、CS6、CC 版本）。所有插件均为官网最新版本，采用自动安装方式，即装即用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/REVisionFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC",
+  "supported_os": "Windows (Win64)",
+  "download_links": [
+    {
+      "name": "AE/PR插件：RE：Vision Effects 插件合集（Win64）",
+      "url": "https://www.400gb.com/file/66263470"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "Mac 版：RE：Vision Effects 插件合集",
+        "url": "https://www.lookae.com/mac-aecj/"
+      }
+    ],
+    "plugin_list": [
+      {
+        "name": "超级变速插件",
+        "plugin": "REVisionFX Twixtor Pro AE v6.0.9"
+      },
+      {
+        "name": "色彩匹配插件",
+        "plugin": "REVisionFX.RE-Match.v1.3.4"
+      },
+      {
+        "name": "专业降噪插件",
+        "plugin": "REVisionFX DE:Noise v2.2.3"
+      },
+      {
+        "name": "去闪烁插件",
+        "plugin": "REVisionFX DE:Flicker v1.1.2"
+      },
+      {
+        "name": "动态模糊插件",
+        "plugin": "REVisionFX ReelSmart Motion Blur Pro v5.0.3"
+      }
+    ]
+  }
+}

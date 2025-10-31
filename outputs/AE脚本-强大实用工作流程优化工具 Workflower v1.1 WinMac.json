@@ -1,0 +1,132 @@
+{
+  "title": "AE脚本-强大实用工作流程优化工具 Workflower v1.1 Win/Mac",
+  "slug": "aejiao-ben-qiang-da-shi-yong-gong-zuo-liu-cheng-you-hua-gong-ju-workflower-v1-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-04-05T21:48:00Z",
+  "source_url": "https://www.lookae.com/workflower-110/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Workflower 是一款专为 After Effects 设计的强大实用工作流程优化脚本，适用于 Win/Mac 系统。它能帮助用户高效管理复杂的合成项目，通过创建图层组、自动调整图层、克隆、遮罩合并等功能显著提升工作效率。支持 AE 2022、2021、2020、CC 2019、CC 2018 等版本，具备丰富的自定义功能与性能优化，是专业动画师和后期制作人员的理想工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Workflower.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355133255678.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘 - 脚本下载",
+      "url": "https://url70.ctfile.com/f/2827370-563416075-00af37"
+    },
+    {
+      "name": "百度网盘 - 脚本下载",
+      "url": "https://pan.baidu.com/s/19UnAa0AOLHE44e9eck4Qfg?pwd=8omp"
+    },
+    {
+      "name": "阿里云盘 - 脚本下载",
+      "url": "https://www.aliyundrive.com/s/TUc382E3cJH"
+    },
+    {
+      "name": "城通网盘 - 教程下载",
+      "url": "https://url62.ctfile.com/f/680462-520634784-41200a"
+    },
+    {
+      "name": "百度网盘 - 教程下载",
+      "url": "https://pan.baidu.com/s/1dljmp0JE8CzG7VVmwubheg?pwd=x02h"
+    },
+    {
+      "name": "阿里云盘 - 教程下载",
+      "url": "https://www.aliyundrive.com/s/Ds7j7Eb4ciG"
+    }
+  ],
+  "other": {
+    "update_notes": {
+      "v1_1": {
+        "note": "在 v1.1 或更新版本中创建的项目不完全向后兼容！可通过‘设置 > 布局 > 将项目转换为旧 WF 版本’降级。",
+        "improvements": [
+          "‘刷新布局’速度大幅提升（约快 2-4 倍）",
+          "‘Solo Group’、‘Enable / Disable Group’、‘Select Group’及快捷方式面板响应速度提升",
+          "优化了‘快速刷新克隆连接’性能，尤其适用于大量图层的‘组克隆’"
+        ],
+        "new_features": [
+          "组不透明度表达式支持与滑块控制",
+          "组标题添加掩码与效果支持",
+          "父层到组的组标题自动居中于锚点平均位置",
+          "新增‘中心组标题’功能",
+          "创建组时可自定义标签颜色",
+          "支持创建空组（无选图层）",
+          "自动剪线功能：自动修剪入点/出点至子图层",
+          "免除图层修剪功能（通过标记或菜单）",
+          "‘消光’功能：临时取消遮罩隐藏（‘Unshy Layers’快捷键）",
+          "‘预组合’替代原生预合成，支持属性继承",
+          "自动添加/删除组遮罩与效果（无需手动刷新连接）",
+          "自动将表达式转为关键帧以提升性能",
+          "复制组时自动更新效果、命名、标签颜色",
+          "免除图层名称变更（主菜单快捷操作）",
+          "自定义缩进图标用于表达模式",
+          "自定义‘组克隆’、‘组链接调整层’、‘组遮罩’默认名称",
+          "批量转换布局样式时可选择另存为副本",
+          "新增‘展开/折叠所有子组’功能",
+          "进度条显示长时间操作耗时",
+          "支持从形状/文本图层及启用折叠的合成中创建克隆",
+          "支持 KBar 按钮标记指定颜色组/层",
+          "快捷方式面板支持重置单个功能快捷键",
+          "支持模拟回车跳过面板（需开启）",
+          "Windows 支持外部文件方式计算鼠标位置（解决对话框无法弹出问题）",
+          "支持记录脚本活动日志（可配合客户支持使用）",
+          "支持外部禁用更新检查（防止脚本无法启动）",
+          "更新至 AEScripts 许可框架 v4.0.3"
+        ],
+        "changes": [
+          "释放图层后父级自动移除",
+          "可选择任意组图层执行‘选择组’",
+          "解散组时移动至下一个同级组而非直接解散",
+          "删除‘Group Matte’图层后自动清理相关‘Matte Merge’图层",
+          "复制组后仅选择组标题",
+          "3D 组标题上方隐藏层禁用以保留空间相交",
+          "3D 组标题创建的效果默认为 3D",
+          "复制‘Precomp Clone’后获得新克隆合成",
+          "移出组的‘组克隆’自动变为常规‘预压缩克隆’",
+          "‘Matte Merge’遮罩混合模式默认为‘Stencil Alpha’",
+          "已存在‘Matte Collection Group’的图层加入后变为‘Invisible Matte’",
+          "打开旧项目时提示升级通知",
+          "Mac 和单独脚本模式下快捷方式按优先级应用",
+          "新增默认快捷方式：‘Precompose’（Win: Ctrl+F1, Mac: macControl+C）、‘Ungroup Layer/s’（Win+Mac: Shift+H）"
+        ],
+        "fixed_bugs": [
+          "创建含大量子组的组时图层错误移动",
+          "意外导致组标题被害羞",
+          "解散组时自动删除‘组遮罩’、‘组调整层’、‘组克隆’",
+          "‘链接调整层’刷新连接后撤消/重做异常",
+          "创建‘组链接调整层’时相机/灯光冲突",
+          "创建‘组遮罩’时意外解锁图层",
+          "在已有‘组遮罩调整层’的组上创建‘组遮罩’出错",
+          "‘快速刷新连接’未刷新‘图层样式’",
+          "‘快速刷新连接’未更新形状/文本图层可见性"
+        ]
+      }
+    },
+    "system_requirements": {
+      "windows": {
+        "mouse_position_fix": "需在 AE 脚本与表达式首选项中禁用‘执行文件时警告用户’以确保多显示器高 DPI 缩放下正确显示面板"
+      },
+      "macos": {
+        "shortcut_priority": "在单独脚本模式下，快捷方式按优先级而非索引应用"
+      }
+    },
+    "passwords": {
+      "ctfile": {
+        "script": "6688",
+        "tutorial": "6688"
+      },
+      "baidu": {
+        "script": "8omp",
+        "tutorial": "x02h"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：表达式语言报错修复脚本 Aescripts Expression Universalizer V2.5.11+使用教程",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-jiao-ben-aescripts-expression-universalizer-v2-5-11-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/12/02 16:38",
+  "source_url": "https://www.lookae.com/expression-2511/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "我们从网络中下载或者从其他渠道得到的一些AE模板/工程，由于地区和个人习惯不同，可能作者制作的工程模板所使用的AE软件语言版本与自己不同。如果作者使用了特定语言环境下的表达式，那么在自己的AE软件中可能会因为语言不一致而报错。这个脚本可以帮助用户自动修复因语言差异导致的表达式错误，使中文版或其他非英文版After Effects也能正常运行含英文表达式的项目。只需一键运行，即可确保项目在任何语言环境下兼容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/Universalizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本文件下载",
+      "url": "http://lookae.ctfile.com/fs/n4w162522202"
+    },
+    {
+      "name": "使用教程下载",
+      "url": "http://lookae.ctfile.com/file/141196712"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "official_website": "http://aescripts.com/expressionuniversalizer/",
+    "description_en": "Automatically converts the expressions in your projects so that they are compatible with After Effects running in any language. If you are an After Effects template author or create projects for international clients you’ve certainly ran into the situation where your expressions break on your client’s machine. This is where ExpressionUniversalizer will come to the rescue! Just run it with one click on your projects before you post or send them and they will be guaranteed to work!"
+  }
+}

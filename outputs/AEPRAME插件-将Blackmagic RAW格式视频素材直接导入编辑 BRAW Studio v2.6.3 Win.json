@@ -1,0 +1,62 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材直接导入编辑 BRAW Studio v2.6.3 Win",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-zhi-jie-dao-ru-bian-ji-braw-studio-v2-6-3-win",
+  "author": "大众脸",
+  "post_date": "2022/01/10 21:00",
+  "source_url": "https://www.lookae.com/braw-263/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "BRAW Studio 是一款 Adobe CC 原生支持 Blackmagic RAW（.braw）格式的插件，允许用户直接在 After Effects、Premiere Pro 和 Media Encoder 中导入并编辑 .braw 视频素材，并支持对相关参数进行调整。该插件提升了工作流程效率，尤其适用于使用 Blackmagic 摄影机拍摄的 RAW 素材后期处理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Media Encoder: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-534444232-736d5c"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1GWvuUY8gWF6qHE5Eaz8p0Q?pwd=z6rj"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/n1BqAzUSdCi"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘_插件": "6688",
+      "百度网盘_插件": "z6rj",
+      "百度网盘_教程": "n67x"
+    },
+    "update_notes": {
+      "Premiere修复": [
+        "PR CC 2020 导入程序通用错误",
+        "切换到元数据选项卡时 PR CC 2018.1 之前的面板版本",
+        "PR 2020 – 出现“JSX SetValue Bad Argument”错误时使用面板",
+        "PR BRAW Studio 面板 – 使用不同的源设置但来自同一个 .BRAW 文件的多个 .BRAW 剪辑一次保存边车时出错",
+        "PR BRAW Studio 面板 – 如果所选剪辑的 Gamma 不同，则在多个 .BRAW 剪辑选择模式中更改色彩科学时出错"
+      ],
+      "After Effects改进": [
+        "当项目设置“Video Rendering and Effects”下拉菜单设置为GPU时，图层设置现在默认使用GPU加速（Metal/CUDA/OpenCL）。之前需在“设置和许可证”弹出窗口中手动启用，现在可在出错时从该处禁用"
+      ]
+    }
+  }
+}

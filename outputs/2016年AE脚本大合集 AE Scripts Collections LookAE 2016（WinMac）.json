@@ -1,0 +1,35 @@
+{
+  "title": "2016年AE脚本大合集 AE Scripts Collections LookAE 2016（Win/Mac）",
+  "slug": "2016nian-aejiao-ben-da-he-ji-ae-scripts-collections-lookae-2016-win-mac",
+  "author": "大众脸",
+  "post_date": "2016-07-03T12:03:00Z",
+  "source_url": "https://www.lookae.com/aescripts2016/",
+  "category": "aechajian",
+  "tags": [
+    "Aescript",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "2016年7月整理的一套 AE脚本大合集，基本涵盖当时流行的各类AE脚本。脚本主要来自 aescripts 和 videohive，适用于 Windows 与 Mac 系统下的 Adobe After Effects 软件。所有脚本均已和谐或提供注册信息，共约一百多种。安装方法为将脚本文件复制到 \\Adobe After Effects CC\\Scripts\\ScriptUI Panels 路径下，重启 AE 后在窗口菜单中即可调用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/03/2015AEScripts-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 及以上版本",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "2016年AE脚本大合集 AE Scripts Collections LookAE 2016（Win/Mac）",
+      "url": "http://lookae.ctfile.com/fs/wYp153422851"
+    }
+  ],
+  "other": {
+    "author_url": "https://www.lookae.com/author/大众脸/",
+    "related_categories": [
+      "After Effects",
+      "Mac 专区"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

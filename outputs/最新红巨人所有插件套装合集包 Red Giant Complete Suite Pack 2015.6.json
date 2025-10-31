@@ -1,0 +1,67 @@
+{
+  "title": "最新红巨人所有插件套装合集包 Red Giant Complete Suite Pack 2015.6",
+  "slug": "zui-xin-hong-ju-ren-suo-you-cha-jian-tao-zhuang-he-ji-bao-red-giant-complete-suite-pack-2015-6",
+  "author": "大众脸",
+  "post_date": "2015-06-03T16:42:00Z",
+  "source_url": "https://www.lookae.com/rgpack2015/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant Complete Suite Pack 2015.6 是一套包含红巨人所有插件的完整合集，适用于多种后期制作软件。该版本于2015年6月3日更新，涵盖调色、特效、抠像、后期流程及粒子系统等全套工具，支持32位与64位系统，附带序列号，便于安装使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/RGPACK2015.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015; Premiere Pro CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015; Photoshop CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015; Avid Media Composer 5.5, 6, 6.5 or later; Sony Vegas Pro 12, 13; Davinci Resolve 11, 12; EDIUS",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "所有红巨人插件套装合集 Red Giant Complete Suite Pack 2015.6",
+      "url": "https://www.400gb.com/file/97538216"
+    },
+    {
+      "name": "大众脸官方淘宝店",
+      "url": "https://lookae.taobao.com/"
+    },
+    {
+      "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+      "url": "https://www.lookae.com/sponsor/"
+    }
+  ],
+  "other": {
+    "plugin_summary": {
+      "color_suite": {
+        "version": "11.1.4",
+        "description": "调色套装，包含 Colorista II（二级调色）、Cosmo（润肤）、Denoiser II（降噪）、LUT Buddy（色彩共享）、Magic Bullet Looks 2（多预设调色）"
+      },
+      "effects_suite": {
+        "version": "11.1.4",
+        "description": "效果套装（光工厂系列），包含 Composite Wizard、Holomatrix、Image Lounge、Knoll Light Factory、PlaneSpace、Psunami、Text Anarchy、ToonIt、Warp"
+      },
+      "keying_suite": {
+        "version": "11.1.3",
+        "description": "抠像套装，包含 Key Correct、Primatte Keyer、Warp"
+      },
+      "magic_bullet_suite": {
+        "version": "12.0.4",
+        "description": "MB调色套装，包含 Looks 3.0、Colorista III、Film 1.0、Mojo 2.0、Cosmo 2.0、Denoiser II、LUT Buddy"
+      },
+      "shooter_suite": {
+        "version": "12.6.4",
+        "description": "后期套装，包含 BulletProof、PluralEyes 3.5.8（音视频同步）、Denoiser II、Instant 4K（支持4K）、Frames（转场插件）、LUT Buddy、Offload（素材备份）"
+      },
+      "trapcode_suite": {
+        "version": "12.1.7",
+        "description": "特效套装（粒子系列），包含 3D Stroke、Echospace、Form、Horizon、Lux、Mir、Particular、Shine、Sound Keys、Starglow"
+      }
+    },
+    "note": "部分插件名称中提及 'LookAE.com' 为原发布网站标识，非插件功能或版本信息"
+  }
+}

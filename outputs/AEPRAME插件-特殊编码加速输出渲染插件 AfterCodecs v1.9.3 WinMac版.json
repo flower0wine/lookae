@@ -1,0 +1,89 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.9.3 Win/Mac版",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-9-3-win-macban",
+  "author": "大众脸",
+  "post_date": "2020-05-25T11:02:00Z",
+  "source_url": "https://www.lookae.com/aftercodecs-193/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Media Encoder 设计的高效编码输出插件，支持 H264、H265 与 ProRes 等多种主流编解码器。该插件可显著提升渲染速度，压缩文件更小且画质更优，适用于高分辨率（包括8K）视频导出。支持 Windows 和 Mac 系统，兼容多版本 AE、PR 和 Media Encoder。插件具备丰富的参数设置，包括自定义帧率、色彩空间、比特率目标等，并集成多项工作流优化功能，如批量导出标记、进度条显示及 YouTube 上传专用配置文件。最新版本 v1.9.3 修复了导出中断、重复执行等问题，提升了稳定性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nPremiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nMedia Encoder: 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘",
+      "url": "https://089u.com/file/680462-445232999"
+    },
+    {
+      "name": "Win 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1OstBQ7p59eYU7n-dBcdbNQ"
+    },
+    {
+      "name": "Mac 版 - 城通网盘",
+      "url": "https://089u.com/file/680462-445233003"
+    },
+    {
+      "name": "Mac 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1XNRY4xv3fXGM_Srwyq_nXQ"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      "https://tc5.us/file/680462-406407782",
+      "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+    ],
+    "plugin_website": "http://aescripts.com/aftercodecs/",
+    "update_notes": "1. 安装程序合并：OSX Premiere Pro Panel 已与 AfterCodecs 合并，仅需一个复选框。\n2. PR 面板新增功能：支持从音频剪辑添加标记；新增‘为第一个视频轨道添加标记’按钮。\n3. 修复随机停止导出的问题。\n4. 修复 Adobe Bug 导致标记重复执行。\n5. 提升插件整体稳定性。",
+    "features": [
+      "支持 ProRes (Windows 和旧版 AE)",
+      "支持 HAP GPU 加速编解码器（含 Alpha 通道）",
+      "x264 / x265 编码，质量优于原生工具",
+      "YouTube 上传专用配置文件",
+      "支持 8K 渲染",
+      "无需命令行或 Media Encoder 即可直接在渲染队列中导出",
+      "进阶功能：文件大小目标、10 bpc、完整范围、YUV 4:2:2/4:4:4、自定义配置档",
+      "支持多轨音频独立导出、自定义帧率、任务栏进度显示",
+      "支持在 Premiere Pro 中批量导出（MultiRender Markers）"
+    ],
+    "codec_support": {
+      "MOV_ProRes": [
+        "422 LT",
+        "代理服务器",
+        "普通",
+        "HQ",
+        "4444",
+        "XQ",
+        "422 Ultra (非官方)",
+        "4444 Light (非官方)"
+      ],
+      "MOV_HAP": [
+        "Hap",
+        "Hap Alpha",
+        "Hap Q",
+        "Hap Q Alpha"
+      ],
+      "MP4_x264": [
+        "最佳实现，优于 Adobe Media Encoder 与 QuickTime",
+        "支持 YTB Upload 配置文件"
+      ],
+      "MP4_x265": [
+        "文件体积比 x264 小 25%",
+        "编码速度较慢"
+      ],
+      "MP4_x264_RGB": [
+        "避免使用 YUV 色彩空间",
+        "适合存储单独通道（如 UV、Alpha、3D 通道）",
+        "高级用户推荐"
+      ]
+    }
+  }
+}

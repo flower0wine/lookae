@@ -1,0 +1,46 @@
+{
+  "title": "抽象线条轮廓描边视觉特效AE/PR插件 Curve Tracer v1.0.2 Win",
+  "slug": "chou-xiang-xian-tiao-lun-kuo-miao-bian-shi-jue-te-xiao-ae-prcha-jian-curve-tracer-v1-0-2-win",
+  "author": "大众脸",
+  "post_date": "2022/12/21 11:22",
+  "source_url": "https://www.lookae.com/curve-tracer-102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "从铅笔画到抽象素描 – 用轮廓追踪您的素材，并为您的创作带来手绘风格的有机感觉。Curve Tracer 插件模拟艺术家用铅笔创作的过程。绘图是另一个全彩色图像或动画的抽象再现。艺术家会先画一些“草图”曲线，作为对最终图纸形状的粗略估计。然后他们将继续使用主要的 – 更详细的 – 曲线，这些曲线也可能被着色以传达一种深度感。过滤器通过分析输入图像的边缘/轮廓并将它们转换为样条（曲线）的集合来工作。然后这些曲线在向量空间中被平滑或抽取，最后呈现为连续的线段。后处理步骤添加了颜色和轻微的“绽放”效果，以提高真实感。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Curve-Tracer-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347637156528.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": "2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+    "Premiere": "2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6"
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-751845825-b1d7a0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Hl5s51gQBoOSflxDKvxW8A?pwd=jp7r"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/T55tgqhXUEN"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "jp7r"
+    },
+    "update_log": "v1.0.2更新内容：注册程序升级。兼容苹果M芯片"
+  }
+}

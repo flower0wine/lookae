@@ -1,0 +1,54 @@
+{
+  "title": "AE插件：三维枪口火焰闪光火花枪火特效 AEscripts – Bang v1.0.3 + 使用教程",
+  "slug": "aecha-jian-san-wei-qiang-kou-huo-yan-shan-guang-huo-hua-qiang-huo-te-xiao-aescripts-bang-v1-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-09-11T22:08:00Z",
+  "source_url": "https://www.lookae.com/bang/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Bang 是一款专为 After Effects 设计的三维枪口火焰闪光火花特效插件，可快速生成逼真的枪火效果。支持多类型闪光形态、颜色、位置与空间属性调整，并兼容三维摄像机系统。具备模块化设计，支持最多四个不同类型的闪光和每层十六个实例，还包含 Bang Relighter 模块用于模拟真实环境照明。适用于军事枪战类影片制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Bang.jpg",
+    "https://aescripts.com/media/wysiwyg/qp/Bang/ez_aim_demo.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_45_magnum.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_generic_9mm_pistol.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_silenced_pistol.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_m16a1_des_troy.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_m4_5_petal.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_generic_assault_rifle.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_minigun.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_electro.gif",
+    "https://aescripts.com/media/wysiwyg/qp/preset_green_alien_blaster.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50273056769.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-309262210"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1iuevmdMBJrIrqIU2RDjcVw"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/bang/",
+    "registration_key": "QPB*CG*Persia*298394516728034SUL5",
+    "installation_instructions": [
+      "复制Bang文件夹到AE的插件目录，如：…\\Adobe After Effects CC\\Support Files\\Plug-ins\\",
+      "复制Bang Presets预设文件夹到AE预设文件夹，如：…..\\Adobe After Effects CC\\Support Files\\Presets\\",
+      "打开软件，使用插件，填入序列号注册"
+    ],
+    "preset_categories": [
+      "PISTOLS & HANDGUNS",
+      "RIFLES & ASSAULT WEAPONS",
+      "WEIRD & WONDERFUL"
+    ]
+  }
+}

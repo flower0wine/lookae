@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本：二维卡通人物角色动作MG动画绑定控制AEscripts Joystick’n Sliders v1.6.6+使用教程",
+  "slug": "aejiao-ben-er-wei-qia-tong-ren-wu-jiao-se-dong-zuo-mgdong-hua-bang-ding-kong-zhi-aescripts-joystickn-sliders-v1-6-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/08/19 11:41",
+  "source_url": "https://www.lookae.com/joystick166/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "AEscripts Joystick‘n Sliders 脚本是一个基于 After Effects 软件的 pose-based 绑定系统，可高效控制二维卡通角色或 MG 动画中的动作绑定。用户只需设置上下左右中五个关键帧姿态，即可通过虚拟摇杆或滑块实时控制角色动画过渡。该工具特别适用于卡通角色制作、MG 动画及其他需要高效绑定控制的动画项目。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2h6NFkFXXXXcMXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2v.NWkFXXXXXLXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2k3XikFXXXXbYXpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2KpNJkFXXXXbTXXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-304630671"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1II7S1v4_VA-Pq5u_r5ko6g"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/joystick-n-sliders/",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "changelog": {
+      "version": "1.6.6",
+      "changes": [
+        "修复BUG错误",
+        "更新支持 CC 2018"
+      ]
+    }
+  }
+}

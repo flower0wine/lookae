@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-一键快速输出GIF动图格式插件 GifGun 1.7.23 Win/Mac",
+  "slug": "aejiao-ben-yi-jian-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-gifgun-1-7-23-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/05/17 08:07",
+  "source_url": "https://www.lookae.com/gifgun-1723/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "GifGun",
+    "GIF插件"
+  ],
+  "content": "GifGun 是一款专为 Adobe After Effects 设计的脚本工具，用于一键快速输出高质量 GIF 动图。自从 After Effects CS5 起官方移除了直接导出 GIF 的功能，GifGun 填补了这一空白，提供直观的界面和丰富的自定义选项，如调整 GIF 尺寸、帧率等参数，适用于 Dribbble、Behance 等平台的动图发布。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GifGun.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/GifGun/0_mainInterface_.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33284810.mp4"
+  ],
+  "supported_versions": "2022,2021,2020,CC 2019,CC 2018,CC 2017,CC 2015.3,CC 2015,CC 2014,CC,CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-580648892-3307e6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1VeunqYm3B1rltTXWuby-JQ?pwd=cxlt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/cyfr9Bjzz2g"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "cxlt",
+    "update_notes": [
+      "修复了启动时的严重错误",
+      "CC 2022 Apple M1 修复"
+    ]
+  }
+}

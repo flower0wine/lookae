@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-圆环矩阵排列循环运动跟随MG动画脚本 AutoCircularMotion v1.03",
+  "slug": "aejiao-ben-yuan-huan-ju-zhen-pai-lie-xun-huan-yun-dong-gen-sui-mgdong-hua-jiao-ben-autocircularmotion-v1-03",
+  "author": "大众脸",
+  "post_date": "2021/10/14 22:58",
+  "source_url": "https://www.lookae.com/autocircularmotion-103/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "AutoCircularMotion 脚本允许用户轻松创建循环运动效果。它可以将多个文字或图层链接起来并安排其运动路径，同时支持摆动、反弹等附加运动类型。通过控制 Z 轴，用户还能调节运动的浅度或深度，从而增强动画的立体感。该脚本还支持应用于包含形状组的单个形状图层，便于批量处理复杂图形。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/AutoCircularMotion.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/249975663065.mp4"
+  ],
+  "supported_versions": "After Effects CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://url62.ctfile.com/f/680462-517657128-097ef7"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1eR1ihLJdR8072QgyKzZdGQ"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘下载": "6688",
+      "百度网盘": "muh8"
+    },
+    "update_notes": "v1.03更新：在选项菜单中实现了帮助功能，点击左下角的“？”按钮即可显示。"
+  }
+}

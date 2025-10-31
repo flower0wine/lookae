@@ -1,0 +1,53 @@
+{
+  "title": "更新：Red Giant Magic Bullet Suite 11.4.2 （调色这套）（MAC_WIN）",
+  "slug": "geng-xin-red-giant-magic-bullet-suite-11-4-2-diao-se-zhe-tao-mac-win",
+  "author": "大众脸",
+  "post_date": "2013/03/23 15:06",
+  "source_url": "https://www.lookae.com/mbs1142/",
+  "category": "aechajian",
+  "tags": [
+    "Red Giant",
+    "套装"
+  ],
+  "content": "Red Giant 调色插件套件 Magic Bullet Suite 已更新至 11.4.2 版本。该版本包含多个专业调色、降噪、润肤、转场及高清增强插件，适用于多种主流视频编辑与后期制作软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/03/mbs1142.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5.5, CS5, CS4, CS3, 7, 6.5; Adobe Premiere Pro CS5.5, CS5, CS4, CS3, 7, 6.5; Avid; Sony Vegas Pro",
+  "supported_os": "MAC_WIN",
+  "download_links": [
+    {
+      "name": "Windows 版本（32位_64位）",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/MagicBullet/MBSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac 版本（32位_64位）",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/MagicBullet/MBSuite_Mac_Full.zip"
+    },
+    {
+      "name": "序列号下载",
+      "url": "http://www.ctdisk.com/file/18382744"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "Magic Bullet Colorista II 1.0.6 （调色师）",
+      "Magic Bullet Cosmo 1.0 （润肤插件）",
+      "Magic Bullet Denoiser II 1.4 （降噪插件）",
+      "Magic Bullet Frames 1.1 （转场插件）",
+      "Magic Bullet Grinder 1.5 （转码插件）（仅Mac使用）",
+      "Magic Bullet Instant HD 1.2 （高清插件）",
+      "Magic Bullet Looks 2.0.9 （调色插件）",
+      "Magic Bullet Mojo 1.2 （调色插件）",
+      "Magic Bullet PhotoLooks 2.0 （PS调色插件）"
+    ],
+    "update_highlights": [
+      "Denoiser 降噪插件更新到1.4版本，性能提升，支持显卡OpenCL加速",
+      "Looks 调色插件修正很多BUG，更加稳定",
+      "Looks 2 和 Mojo 完美支持 Final Cut Pro X 和 Motion 5",
+      "Looks 2 同样完美支持 Sony Vegas Pro 和 Avid Media Composer"
+    ],
+    "related_link": "https://www.lookae.com/red-giant-magic-bullet-suite11-3-chs/"
+  }
+}

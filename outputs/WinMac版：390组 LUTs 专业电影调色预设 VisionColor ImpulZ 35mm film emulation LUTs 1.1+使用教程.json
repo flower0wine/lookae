@@ -1,0 +1,99 @@
+{
+  "title": "Win/Mac版：390组 LUTs 专业电影调色预设 VisionColor ImpulZ 35mm film emulation LUTs 1.1+使用教程",
+  "slug": "win-macban-390zu-luts-zhuan-ye-dian-ying-diao-se-yu-she-visioncolor-impulz-35mm-film-emulation-luts-1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/12/29 11:39",
+  "source_url": "https://www.lookae.com/35mmluts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "多软件支持",
+    "调色预设"
+  ],
+  "content": "VisionColor ImpulZ 35mm film emulation LUTs 是一套专业电影调色预设，包含390组 .cube 格式的 LUTs，旨在通过数字方式精准还原35mm胶片的色彩与质感。这些 LUTs 并非一键美化工具，而是为调色师提供一个模拟胶片流程的“模拟框架”，帮助去除数字影像的生硬感，并实现更深层次的色彩处理。该套件支持将负片与正片色彩分别模拟（Ultimate 版本），适用于从独立制作到高端影视的各种需求。ImpulZ 提供 Basic、Pro 和 Ultimate 三个版本，可根据预算和需求灵活选择。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/35mm-film-emulation-LUTs.jpg"
+  ],
+  "video_urls": [
+    "https://pan.baidu.com/s/1dEdBwA1"
+  ],
+  "supported_versions": "1.1",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/file/139687742"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1dDQJYOp"
+    }
+  ],
+  "other": {
+    "official_websites": [
+      "http://www.colorgradingcentral.com/impulz",
+      "http://www.vision-color.com/impulz/"
+    ],
+    "lut_categories": [
+      "03 ImpulZ – BMCC 2 5k – 64组",
+      "05 ImpulZ – BMPC 4k – 64组",
+      "15 ImpulZ – Canon VisionColor – 64组",
+      "21 ImpulZ – Nikon Standard – 64组",
+      "23 ImpulZ – GoPro Hero 3 – 64组",
+      "26 ImpulZ – Sony S-LOG – 64组",
+      "31 ImpulZ – Cineon Conversions – 6组"
+    ],
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2015",
+      "Adobe After Effects CS6-CC 2015",
+      "Adobe Photoshop CS6-CC 2015",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "usage_instructions": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "DaVinci Resolve": "直接使用或导入",
+      "通用工具": "Magic Bullet LUT Buddy（适用于大部分软件）",
+      "FCPX专用": "FCPX软件 LUT 实用颜色工具"
+    },
+    "changelog_1_1": [
+      "修复了 Resolve 中的插值问题，将 *P* 密度从 17³ 提升至 64³ 和 32³",
+      "修复了文件编码相关 bug，避免 Final Cut Pro X 加载 Color Implosion LUTs 时崩溃",
+      "采用新的通用 .cube 语法，兼容更多应用（如 LUT Buddy），并将 64³ 补丁的压缩率提升约 70%",
+      "新增 Blackmagic Production Camera（固件 1.8）的输入配置文件校准",
+      "新增 Vision 2383 模拟，并重新调整打印机灯光以改善中间调的色度线性",
+      "完全重新扫描胶片颗粒：消除压缩伪影和色彩偏移",
+      "2.5k 颗粒现在覆盖 BMCC 画面的整个帧",
+      "更新产品文档，增加关于相机设置、输入/输出配置文件及工作流示例的详细说明"
+    ],
+    "related_resources": [
+      "https://www.lookae.com/lookaeluts/",
+      "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/",
+      "https://www.lookae.com/tag/lut/"
+    ]
+  }
+}

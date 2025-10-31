@@ -1,0 +1,62 @@
+{
+  "title": "AE/PR/AVX/OFX/达芬奇视频智能锐化清晰插件 Samurai Sharpen v1.2.14 Win",
+  "slug": "ae-pr-avx-ofx-da-fen-qi-shi-pin-zhi-neng-rui-hua-qing-xi-cha-jian-samurai-sharpen-v1-2-14-win",
+  "author": "大众脸",
+  "post_date": "2025-07-30",
+  "source_url": "https://www.lookae.com/samurai-1214/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX插件",
+    "PR插件",
+    "Samurai Sharpen",
+    "清晰插件",
+    "达芬奇插件",
+    "锐化插件"
+  ],
+  "content": "Samurai Sharpen 是一款视频智能锐化清晰插件，能够轻松提高视频素材的锐化度，支持GPU加速渲染。该插件采用智能的边缘感知锐化过滤技术，可以增强眼睛等重要细节，同时不会影响皮肤等区域。内置的遮罩工具可以保护阴影和高光区域不被锐化，允许用户快速隔离镜头的特定区域，仅对特定区域进行锐化处理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Samurai-CHN.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/346122435548.mp4"
+  ],
+  "supported_versions": "v1.2.14",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8389629691-c39225?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1FDfZbUt7WaO0s3Wc7DOySw?pwd=kwmw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/rkw6AhYepiT"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "After Effects CC 2015 – 2025",
+      "Premiere Pro CC 2015 – 2025",
+      "Davinci Resolve 达芬奇",
+      "Assimilate Scratch",
+      "Nuke",
+      "Sony Vegas 12/higher",
+      "other OpenFX",
+      "AVX2、AVID"
+    ],
+    "additional_tags": [
+      "After Effects",
+      "DaVinci Resolve",
+      "Nuke",
+      "OFX",
+      "Premiere",
+      "Vegas",
+      "其他资源",
+      "软件/插件"
+    ]
+  }
+}

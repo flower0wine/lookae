@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本：三维透视多画面视频墙扭曲变形画轴效果 AEscripts Transformer v2.0+视频教程",
+  "slug": "aejiao-ben-san-wei-tou-shi-duo-hua-mian-shi-pin-qiang-niu-qu-bian-xing-hua-zhou-xiao-guo-aescripts-transformer-v2-0-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/07/07 11:54",
+  "source_url": "https://www.lookae.com/transformer2/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Transformer脚本为一款强大的画面转换和动画工具，可以将图层扭曲变形，制作多画面视频墙效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/03/transformer.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2EDxujR0lpuFjSszdXXcdxFXa_!!705956171.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/b/y/bymask_2.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/s/c/screenwall_2.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/b/e/bend_2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-297629865"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IbFbP13eNWC-JFdODq4Gpw"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane\\",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "v2.0_updates": [
+      "增加新特性",
+      "保存并加载多个转换属性",
+      "调整多个层的大小",
+      "计算路径长度",
+      "随机位置",
+      "预置浏览器",
+      "2个新序列"
+    ],
+    "official_website": "http://aescripts.com/transformer/"
+  }
+}

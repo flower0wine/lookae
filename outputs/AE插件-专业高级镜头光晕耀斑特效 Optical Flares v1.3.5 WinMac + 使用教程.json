@@ -1,0 +1,59 @@
+{
+  "title": "AE插件-专业高级镜头光晕耀斑特效 Optical Flares v1.3.5 Win/Mac + 使用教程",
+  "slug": "aecha-jian-zhuan-ye-gao-ji-jing-tou-guang-yun-yao-ban-te-xiao-optical-flares-v1-3-5-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/01/14 15:36",
+  "source_url": "https://www.lookae.com/optical-flares/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Optical Flares 是一款功能强大、操作便捷、效果绚丽的高级镜头光晕耀斑特效AE插件。支持制作动画效果逼真的镜头耀斑灯光特效，具备完整的独立界面，可自定义保存预设。插件安装包内提供大量预设，可直接使用。其渲染速度快，深受用户喜爱。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/AK-Optical-Flares.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274013701666.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-479093732"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1CWjlxChDynQnA-lN_tsC9Q"
+    },
+    {
+      "name": "Mac版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-479093741"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1KwyE8AnYomO5zGIuV7kQRA"
+    },
+    {
+      "name": "Optical Flares 官方15集视频教程（中文字幕）- 城通网盘下载",
+      "url": "https://089u.com/file/680462-9963544"
+    },
+    {
+      "name": "Optical Flares 官方15集视频教程（中文字幕）- 百度网盘",
+      "url": "https://pan.baidu.com/s/1iTJOe-T79_dk2u8-s7yoGQ"
+    }
+  ],
+  "other": {
+    "installation_path": "效果-VideoCopilot-Optical Flares",
+    "notes": "由于插件为旧版打包，此次整理简化了安装流程，提升使用便捷性。",
+    "related_links": [
+      "https://www.lookae.com/optical-flares-preview/"
+    ],
+    "extract_codes": {
+      "Win版": "icap",
+      "Mac版": "463q",
+      "教程": "vm47"
+    }
+  }
+}

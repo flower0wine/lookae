@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本：三维书本滚动翻页动画效果 Aescripts 3D Flip Book V1.3+使用教程",
+  "slug": "aejiao-ben-san-wei-shu-ben-gun-dong-fan-ye-dong-hua-xiao-guo-aescripts-3d-flip-book-v1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/09/19 10:43",
+  "source_url": "https://www.lookae.com/book13/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "3D Flip Book 脚本可以在AE软件中一键快速生成书本翻页滚动动画效果，同时支持控制翻页的弯曲度等属性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/01/3d_flip_book.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-220279905"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1boQiRPt"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/3d-flip-book/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "official_taobao_store": "https://lookae.taobao.com/"
+  }
+}

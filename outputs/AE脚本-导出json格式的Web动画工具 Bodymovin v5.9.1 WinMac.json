@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-导出json格式的Web动画工具 Bodymovin v5.9.1 Win/Mac",
+  "slug": "aejiao-ben-dao-chu-jsonge-shi-de-webdong-hua-gong-ju-bodymovin-v5-9-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/03/06 10:00",
+  "source_url": "https://www.lookae.com/bodymovin-591/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Bodymovin 是一款用于导出 Web 动画的 After Effects 扩展。动画以 .json 格式导出，并配合插件自带的 bodymovin.js 播放器使用。支持在浏览器中通过 SVG、Canvas 和 HTML 渲染动画，并兼容 After Effects 的部分功能。此外，导出的动画可通过 Lottie 在 iOS 和 Android 平台上原生播放。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Bodymovin.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（脚本）",
+      "url": "https://url70.ctfile.com/f/2827370-552473511-ea5f1b"
+    },
+    {
+      "name": "百度网盘（脚本）",
+      "url": "https://pan.baidu.com/s/1YCDwhDWGr7gNThFSC2dzDg?pwd=vzwr"
+    },
+    {
+      "name": "阿里云盘（脚本）",
+      "url": "https://www.aliyundrive.com/s/jEidfQnWTwN"
+    },
+    {
+      "name": "城通网盘（使用教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-382843706"
+    },
+    {
+      "name": "百度网盘（使用教程）",
+      "url": "https://pan.baidu.com/s/1qGkQJb27DRqeeOMZ-73uKg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘（脚本）": "6688",
+      "百度网盘（脚本）": "vzwr",
+      "百度网盘（使用教程）": "tm91"
+    },
+    "changelog": [
+      "修复：SSR 的导航器验证",
+      "功能：添加了对使用形状作为动画角色的支持",
+      "修复：将表达式使用的方法添加到数组以防止 treeshaking",
+      "开发：将代码迁移到导入",
+      "开发：使用汇总进行构建过程"
+    ]
+  }
+}

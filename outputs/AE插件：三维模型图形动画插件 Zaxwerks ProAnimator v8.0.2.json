@@ -1,0 +1,30 @@
+{
+  "title": "AE插件：三维模型图形动画插件 Zaxwerks ProAnimator v8.0.2",
+  "slug": "aecha-jian-san-wei-mo-xing-tu-xing-dong-hua-cha-jian-zaxwerks-proanimator-v8-0-2",
+  "author": "大众脸",
+  "post_date": "2014/10/22 21:30",
+  "source_url": "https://www.lookae.com/proanimator802/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "win64",
+    "Zaxwerks"
+  ],
+  "content": "ProAnimator是一款杰出的视频编辑软件，可轻松创建高质量的3D标题和商标动画。它让视频编辑者能够快速加入精美的3D动画元素，而无需掌握复杂的3D建模技能。该插件支持GPU加速、实时渲染，并具备景深、灯光、贴图等功能，专为动态图形设计优化，大幅降低学习成本和制作时间。官方宣称用户通过入门视频即可快速产出可商用的作品。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/ProAnimator8.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5, CS5.5, CS6, CC, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE插件：三维模型图形动画插件 Zaxwerks ProAnimator v8.0.2",
+      "url": "https://www.400gb.com/file/76578043"
+    }
+  ],
+  "other": {
+    "home_url": "http://zaxwerks.com/proanimatorae/index.shtml",
+    "installation_note": "插件为自动安装版，安装即可完美使用，无功能限制"
+  }
+}

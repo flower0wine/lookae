@@ -1,0 +1,60 @@
+{
+  "title": "AE三维运动图形插件 Trapcode Mir V2 Beta 公测版（Mac/Win）",
+  "slug": "aesan-wei-yun-dong-tu-xing-cha-jian-trapcode-mir-v2-beta-gong-ce-ban-mac-win",
+  "author": "大众脸",
+  "post_date": "2014/12/29 20:53",
+  "source_url": "https://www.lookae.com/mir2beta/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "trapcode",
+    "Win/Mac"
+  ],
+  "content": "Trapcode MIR 是 Red Giant Trapcode Suite（粒子套装）中的一款插件，与 Particular、Form、Shine 同属一个套装。它能够快速创建并渲染具有三维属性的运动图形，支持分形噪声、失真、流体、纹理映射、重复几何、光合成和多边形网格等3D功能。MIR 可生成对象阴影、流动有机元素、抽象景观、星云结构以及精美的灯光和深度效果。插件采用 OpenGL 加速，适用于 Adobe After Effects CS5 – CC 2014，支持 Windows 和 macOS 平台。当前发布的 V2.12 Beta 版本为免费公测版，旨在收集用户反馈以完善正式版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/TRAPCODE-MIR-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2014",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Windows 64位版本",
+      "url": "https://pan.baidu.com/s/1hq3nakO"
+    },
+    {
+      "name": "Mac OSX 版本",
+      "url": "https://pan.baidu.com/s/1c0AMLSc"
+    }
+  ],
+  "other": {
+    "mir_v2_new_features": [
+      "改善优化插件在 Mac OSX 中内存 BUG 问题",
+      "增加了显存数量",
+      "添加无缝循环的分形噪声",
+      "增加新的分形类型（Regular, Multi, SmoothRidge, Multi SmoothRidge）",
+      "提高纹理采集和纹理细节",
+      "添加物体表面纹理过滤器",
+      "优化了 MAC 和 WIN 的显存数量",
+      "解决发现闪烁问题（分形 > 平滑法线）",
+      "渲染速度提高三倍以上",
+      "能够 Z 景深控制",
+      "线框图控制",
+      "提供多边图形（Found under Geometry > Tesselation）"
+    ],
+    "notes": [
+      "因为插件为公测版，很多功能或者性能不是太完善，所以公测版插件仅供学习和交流使用，请勿用于商业用途或者用于项目制作，以免造成不必要的麻烦！",
+      "下载插件直接将插件拷贝到 AE 插件目录即可，如以前安装过 MIR 插件，请备份好原插件。"
+    ],
+    "related_links": [
+      {
+        "title": "AE粒子特效套装插件 Red Giant Trapcode Suite 12.1.6（Win/Mac）",
+        "url": "https://www.lookae.com/trapcode1216/"
+      },
+      {
+        "title": "SN序列号下载",
+        "url": "https://www.400gb.com/file/26701927"
+      }
+    ]
+  }
+}

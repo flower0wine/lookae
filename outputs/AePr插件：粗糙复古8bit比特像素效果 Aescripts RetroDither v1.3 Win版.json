@@ -1,0 +1,35 @@
+{
+  "title": "Ae/Pr插件：粗糙复古8bit比特像素效果 Aescripts RetroDither v1.3 Win版",
+  "slug": "ae-prcha-jian-cu-cao-fu-gu-8bitbi-te-xiang-su-xiao-guo-aescripts-retrodither-v1-3-winban",
+  "author": "大众脸",
+  "post_date": "2018/12/31 21:04",
+  "source_url": "https://www.lookae.com/retrodither-13/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Aescripts RetroDither 是一款支持 GPU 加速的 Adobe After Effects 插件，可模拟复古游戏主机与家用电脑平台的像素化画面效果。它提供超过 10 种有序抖动和误差扩散算法，以及多种色彩调色板（如 ZX Spectrum、CGA、MSX 等），适用于为动态图形或视频添加真实感的复古风格。该插件特别适合用于制作具有 80 后怀旧情怀的视觉内容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/RetroDither.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5；Premiere CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-328330302"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OaknxZ_EfYBkLisMG3j3Jg"
+    }
+  ],
+  "other": {
+    "plugin_website": "http://aescripts.com/retrodither/",
+    "related_link": "https://lookae.taobao.com/",
+    "description_en": "RetroDither is a GPU accelerated plugin for Adobe After Effects which allows to create stylized images with dithering and color schemes from retro game consoles and home computer platforms. It supports over 10 different dithering algorithms and multiple classic hardware color palettes such as ZX Spectrum, CGA, MSX, etc.",
+    "note": "插件可用于实现类似 'save GIF for web' 的效果，但功能远超其范畴，尤其在复古风格创作中表现突出。"
+  }
+}

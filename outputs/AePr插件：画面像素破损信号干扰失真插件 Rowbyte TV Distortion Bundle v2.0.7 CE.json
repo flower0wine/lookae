@@ -1,0 +1,66 @@
+{
+  "title": "Ae/Pr插件：画面像素破损信号干扰失真插件 Rowbyte TV Distortion Bundle v2.0.7 CE",
+  "slug": "ae-prcha-jian-hua-mian-xiang-su-po-sun-xin-hao-gan-rao-shi-zhen-cha-jian-rowbyte-tv-distortion-bundle-v2-0-7-ce",
+  "author": "大众脸",
+  "post_date": "2017-05-06T13:35:00Z",
+  "source_url": "https://www.lookae.com/distortion207/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "TV Distortion Bundle 是一套专为 After Effects 和 Premiere 设计的五款失真效果插件集合，可轻松模拟从模拟电视时代到现代数字压缩时代的各种视觉干扰效果。包括坏电视、信号干扰、点阵像素、RGB色彩分离及电视像素损坏等特效，适用于影视后期中营造复古或故障艺术风格。支持 Windows 系统下的 AE CS5 至 CC 2017（部分插件兼容 PR）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/TV-Distortion-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 - CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202002715"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1pKJ7rjd"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "Bad TV v2.1.3",
+        "description": "坏电视效果"
+      },
+      {
+        "name": "Data Glitch v2.0.7",
+        "description": "信号干扰破损效果"
+      },
+      {
+        "name": "Dot Pixels v2.5.2",
+        "description": "点阵像素效果"
+      },
+      {
+        "name": "Separate RGB v3.0.2",
+        "description": "RGB色彩分离效果"
+      },
+      {
+        "name": "TVPixel v1.0.2",
+        "description": "电视像素损坏效果"
+      }
+    ],
+    "official_website": "https://www.rowbyte.com/tv-distortion-bundle",
+    "installation_note": "插件为一键安装版，安装即可使用，无功能限制",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "PR插件": "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

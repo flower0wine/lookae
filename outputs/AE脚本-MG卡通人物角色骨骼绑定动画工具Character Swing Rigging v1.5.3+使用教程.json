@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-MG卡通人物角色骨骼绑定动画工具Character Swing Rigging v1.5.3+使用教程",
+  "slug": "aejiao-ben-mgqia-tong-ren-wu-jiao-se-gu-ge-bang-ding-dong-hua-gong-ju-character-swing-rigging-v1-5-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/05 14:48",
+  "source_url": "https://www.lookae.com/rigging-153/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以在AE中制作MG卡通人物角色骨骼绑定动画，为头发、衣服、毛皮、耳朵、舌头等创造更快捷更高级的二级角色动画。v1.5.3更新内容：完全支持After Effects 2019的木偶工具和图层，一些速度改进，使用非英文版AE时修复puppet pin工具的错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Character-Swing-Rigging.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-372436256"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/10xRXeMnIUcBVJK5hI3e8fg"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-312050622"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1zhaxrkQSv64W4jwVsvtjeQ"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "gwxz",
+    "official_website": "https://aescripts.com/character-swing-rigging/",
+    "installation_path": "Support Files\\Scripts\\ScriptUI Pane\\",
+    "usage_location": "Window（窗口菜单）"
+  }
+}

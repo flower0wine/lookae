@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-人物角色骨骼动作绑定控制工具 Rigomator v1.0.2 + 使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-gu-ge-dong-zuo-bang-ding-kong-zhi-gong-ju-rigomator-v1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/23 00:27",
+  "source_url": "https://www.lookae.com/rigomator-102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Rigomator 是一款用于 After Effects 的角色动画绑定控制脚本，允许用户从包含完整动画的角色中提取并保存任意动画片段，并将这些动画模板应用于任何其他角色或其部分，无论其尺寸或比例如何。该工具操作简单、高效，可帮助用户快速为角色添加动画，并构建个性化的动画库。完全兼容 Duik Bassel、Rubber Hose V2、Limber v1.5 和 Joysticks’n Sliders 等主流角色绑定系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Rigomator-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-414731156"
+    },
+    {
+      "name": "脚本 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1TzrGoBtwa95y9rLqeTk1QA"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-333123543"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1WKAx8_rDpnCidfvqVkGNqA"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/rigomator/",
+    "update_notes": "v1.0.2 更新内容：兼容 Mac 10.15 系统",
+    "installation_guide": [
+      "复制 RIGOMATOR.jsxbin 文件到 AE 脚本目录：",
+      "Win：…Adobe After Effects CC\\Support Files\\Scripts\\ScriptUI Panels\\",
+      "Mac：应用程序\\Adobe After Effects CC\\Scripts\\ScriptUI Panels\\",
+      "打开 AE 软件设置，勾选“允许脚本读写和访问网络”：",
+      "Win：编辑 - 首选项 - 常规",
+      "Mac：After Effects CC - 首选项 - 常规",
+      "在软件顶部 window 窗口菜单下即可看到 RIGOMATOR 脚本"
+    ]
+  }
+}

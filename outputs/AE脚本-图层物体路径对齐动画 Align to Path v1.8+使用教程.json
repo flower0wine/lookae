@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-图层物体路径对齐动画 Align to Path v1.8+使用教程",
+  "slug": "aejiao-ben-tu-ceng-wu-ti-lu-jing-dui-qi-dong-hua-align-to-path-v1-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/10 23:08",
+  "source_url": "https://www.lookae.com/align-to-path-18/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "路径动画"
+  ],
+  "content": "该教程介绍的AE脚本Align to Path v1.8+，可将图层对齐到单个或多个运动路径，十分实用。介绍了使用方法、界面选项、控制及注意事项等内容，1.8版本修复了脚本无法与位置属性分离的图层一起使用的错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Align-to-Path.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/247780762664.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1354591870-2ad473?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15uS6LoDryUOzOrEDsK4Omw?pwd=itde"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/1HuPnumxxju"
+    }
+  ]
+}

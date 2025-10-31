@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-三维模型直接导入添加纹理材质 Super 3D V1.4.1",
+  "slug": "aejiao-ben-san-wei-mo-xing-zhi-jie-dao-ru-tian-jia-wen-li-cai-zhi-super-3d-v1-4-1",
+  "author": "大众脸",
+  "post_date": "2025/02/19 22:48",
+  "source_url": "https://www.lookae.com/super-3d-141/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Super 3D",
+    "三维插件"
+  ],
+  "content": "使用脚本 Super 3D 可以增强 After Effects 中的 3D 功能。您可以使用脚本自带的模型，或轻松添加一些基础的外置三维膜模型对象，进行模型替换、添加纹理材质等操作。其功能包括：单击即可添加 3D 对象（支持 GLB、GLTF 格式模型）；替换现有图层上的模型或纹理，甚至使用动画；将 3D 图层转换为实体图层以应用效果；拥有响应式用户界面。v1.4.1 更新内容包括修复创建 3D 肢体严重错误、修复跳过动画序列预合成的第一层、添加了对创建的 GLTF 文件的验证。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Super-3D.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/458021991181.mp4"
+  ],
+  "supported_versions": "After Effects 24.1及更新版本",
+  "supported_os": "Win/Mac系统：After Effects 2024.1、2025 或更高版本",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1461937867-605f33?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1KA_rejG66EGu5HkNvxrV3w?pwd=f4b7"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Tkfprp2sHyM"
+    }
+  ],
+  "other": {
+    "分类链接": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "标签链接": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/super-3d/",
+      "https://www.lookae.com/tag/%e4%b8%89%e7%bb%b6%e6%8f%92%e4%bb%b6/"
+    ],
+    "图片描述": "AE脚本-三维模型直接导入添加纹理材质 Super 3D V1.4.1-LookAE.com"
+  }
+}

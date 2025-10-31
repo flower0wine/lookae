@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-删除素材中的重复帧 Duplicate Frame Remover 3.1 + 使用教程",
+  "slug": "aejiao-ben-shan-chu-su-cai-zhong-de-zhong-fu-zheng-duplicate-frame-remover-3-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-07-28T19:55:00Z",
+  "source_url": "https://www.lookae.com/frame-remover/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本用于删除视频素材中的重复帧，采用与Magnum相同的引擎，通过分析图层的时间重映射通道来识别并移除冗余帧。适用于游戏录制、旋转动画等场景中因下拉动作导致的帧重复问题，也可用于任何需要清理重复帧的剪辑任务。支持在处理后使用内置重新定时工具（如像素运动和帧混合）将素材恢复至原始长度，并提升50%的处理速度。兼容Windows和Mac系统，支持After Effects 2023、2022、2021、2020及CC 2019版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/Duplicate-Frame-Remover-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/331270176578.mp4"
+  ],
+  "supported_versions": "2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-899299800-3cb1f0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1STCY11kZs_6r-_qesCuXsg?pwd=s6vk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/gq7xQCuhCtZ"
+    }
+  ],
+  "other": {
+    "update_notes_v3_1": "新增首选项以关闭引导提示并自动删除ROI图层",
+    "features": [
+      "Keyframable Region of Interest 功能，可指定检测区域",
+      "可选使用AE内置重新定时工具（像素运动和帧混合）恢复原始长度",
+      "处理速度提升50%",
+      "支持多版本After Effects及跨平台运行"
+    ],
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

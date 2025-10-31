@@ -1,0 +1,35 @@
+{
+  "title": "AE/PR 磨皮降噪美肤插件 Digital Anarchy Beauty Box v4.0.8（Win64）",
+  "slug": "ae-pr-mo-pi-jiang-zao-mei-fu-cha-jian-digital-anarchy-beauty-box-v4-0-8-win64",
+  "author": "大众脸",
+  "post_date": "2016-03-11T13:04:00Z",
+  "source_url": "https://www.lookae.com/beauty408/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Digital Anarchy 推出的 Beauty Box 是一款专为 After Effects 和 Premiere Pro 打造的高效磨皮、降噪与美肤插件。该插件通过先进的面部识别与平滑算法，实现高质量的后期数字化妆效果，适用于高清及 4K 视频中皮肤瑕疵的智能修复。支持实时渲染（特定 GPU），显著提升工作流效率，无需手动绘制遮罩或逐帧修图。广泛应用于影视、广告、音乐视频等领域，被 Park Road Post Production、NBC、Universal Music 等知名公司采用。插件可自动识别肤色并去除瑕疵，同时保留面部关键细节清晰度，使人物外观自然真实，避免过度修饰带来的模糊感。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/11/beautybox-305.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5.5 - CS6 & AE CC 2014, AE CC 2015\nPremiere Pro CS6 - CS6 & PR CC 2014, PR CC 2015",
+  "supported_os": "Windows (Win64)",
+  "download_links": [
+    {
+      "name": "AE/PR磨皮降噪插件 Digital Anarchy Beauty Box v4.0.8（Win）",
+      "url": "http://lookae.ctfile.com/fs/1QA145541263"
+    }
+  ],
+  "other": {
+    "plugin_version": "v4.0.8",
+    "update_notes": "Realtime Rendering 提升渲染速度，支持实时预览；优化计算性能，提升处理效率",
+    "official_website": "http://digitalanarchy.com/beautyVID/main.html",
+    "installation_type": "一键安装版",
+    "thanks": "thanks for Team VR",
+    "related_links": [
+      "https://www.lookae.com/beautybox-305/"
+    ]
+  }
+}

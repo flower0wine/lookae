@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-蒙版快速操作管理工具 MaskPro v1.0+使用教程",
+  "slug": "aejiao-ben-meng-ban-kuai-su-cao-zuo-guan-li-gong-ju-maskpro-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/07/17 12:04",
+  "source_url": "https://www.lookae.com/maskpro/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MaskPro",
+    "蒙版工具"
+  ],
+  "content": "MaskPro是一款先进的 UI 面板，旨在通过强大的蒙版操作工具简化 After Effects 中的工作流程。使用 MaskPro，您可以轻松选择、复制、粘贴（带或不带关键帧）和删除图层上的蒙版。您可以根据蒙版或边界框快速预合成图层，并轻松冻结或解冻蒙版。该面板还允许您将形状转换为蒙版，反之亦然，从而创建无缝的设计流程。您可以围绕图层生成遮罩，将蒙版拆分为单独的图层以进行更全面的控制，并充分利用直观的一键式操作来提高效率。无论是处理复杂的合成还是简化工作流程，MaskPro 都能提供无与伦比的灵活性和控制力，满足您所有的蒙版需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/MaskPro-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/527035007408.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1534116775-5478f6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JZ6KDiTNGLeAkZRVxJs7MA?pwd=mhfj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/teB3j3VNYMd"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "mhfj"
+  }
+}

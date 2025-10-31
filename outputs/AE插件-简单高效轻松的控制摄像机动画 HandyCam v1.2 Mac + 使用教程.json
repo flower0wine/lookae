@@ -1,0 +1,38 @@
+{
+  "title": "AE插件-简单高效轻松的控制摄像机动画 HandyCam v1.2 Mac + 使用教程",
+  "slug": "aecha-jian-jian-dan-gao-xiao-qing-song-de-kong-zhi-she-xiang-ji-dong-hua-handycam-v1-2-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/03/03 17:28",
+  "source_url": "https://www.lookae.com/handycam-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "这款摄像机插件的灵感来自三维MAYA软件，插件HandyCam尽可能轻松的精心制作AE摄像机动画，简化了AE摄像机动画的各个方面。轻松的轨道控制，仿真手持机芯+ DoF摆动，创造漂亮的相机移动，在世界空间中移动时定位图层，你还可以很容易地将项目发送到另一个动画，并打开它不具备Handycam的计算机上使用。v1.2 更新内容：重复装备功能现在可以智能地重命名图层；修复了BUG错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/HandyCam.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-484498245-b2c17b"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1EP3w3F90a8qepHF00OZzNA"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "6z7m"
+    },
+    "related_link": {
+      "text": "中文汉化AE插件-简单高效轻松的控制摄像机动画 HandyCam v1.2 Win",
+      "url": "https://www.lookae.com/handycam-12/"
+    }
+  }
+}

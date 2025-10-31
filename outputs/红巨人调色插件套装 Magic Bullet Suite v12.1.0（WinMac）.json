@@ -1,0 +1,59 @@
+{
+  "title": "红巨人调色插件套装 Magic Bullet Suite v12.1.0（Win/Mac）",
+  "slug": "hong-ju-ren-diao-se-cha-jian-tao-zhuang-magic-bullet-suite-v12-1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2015-09-24T13:57:00Z",
+  "source_url": "https://www.lookae.com/mb1210/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "PR插件",
+    "Red Giant",
+    "插件",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant 红巨人调色插件套装 Magic Bullet Suite v12.1.0 更新，新增并全面升级了多个核心插件，包括 Colorista III、Looks 3.0、Mojo 2.0、Cosmo 2.0 等，显著提升了调色效率与视觉表现力。该版本支持达芬奇调色软件，并在 Premiere Pro 中实现 GPU 加速。插件系列涵盖调色、降噪、滤镜、色彩预设共享等多功能，适用于主流视频剪辑与后期制作平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/02/MBS12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Davinci Resolve 11, 12; Adobe Premiere Pro C6 – CC 2015; Adobe Photoshop C5 – CC 2015; Adobe After Effects C6 – CC 2015; Avid Media Composer; Vegas Pro; Motion 4, 5; Final Cut Pro X, 7",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/magicbullet/MBSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/magicbullet/MBSuite_Mac_Full.zip"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Magic Bullet Colorista III 1.0.4 - 调色师3",
+      "Magic Bullet Cosmo 2.0 - 润肤磨皮插件",
+      "Magic Bullet Film 1.0.4 - 电影质感调色",
+      "Magic Bullet Looks 3.0.5 - 调色插件（多预设）",
+      "Magic Bullet Mojo 2.0.3 - 快速调色",
+      "Red Giant Denoiser II 1.4.6 - 降噪插件",
+      "Red Giant LUT Buddy - 色彩共享系统"
+    ],
+    "update_notes": [
+      "Looks, Film, Mojo, and Cosmo 支持达芬奇调色软件",
+      "Looks 插件重新定制外观界面",
+      "Colorista III 在 Premiere Pro 中支持 GPU 加速"
+    ],
+    "registration_keys": {
+      "Magic Bullet Colorista III": "CL3K1245864582715611",
+      "Magic Bullet Cosmo 2.0": "MBOK1245884249899024",
+      "Magic Bullet Film 1.0": "FILK1245884461501298",
+      "Magic Bullet Looks 3.0": "MBLK1245875960562349",
+      "Magic Bullet Mojo 2.0": "MBMK1245868236810616",
+      "Red Giant Denoiser II": "MBNK1245865095746168",
+      "Red Giant LUT Buddy": "免费"
+    },
+    "original_source": "此文章内容为 www.LookAE.com 原创内容，转载请著名出处"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本：搜索调用管理插件表达式工具 Aescripts Tool Launcher v1.3.0",
+  "slug": "aejiao-ben-sou-suo-diao-yong-guan-li-cha-jian-biao-da-shi-gong-ju-aescripts-tool-launcher-v1-3-0",
+  "author": "大众脸",
+  "post_date": "2017/05/06 15:06",
+  "source_url": "https://www.lookae.com/toollauncher13/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "通过这个脚本可以在AE软件中搜索到已安装的插件，脚本，表达式等，能够将效果快速应用到图层上。Run scripts, menu commands and apply expressions, from a searchable list or custom toolbars. Open script interfaces from anywhere in pre-docked panels.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/Tool-Launcher.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202006241"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mhETHQK"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_website": "http://aescripts.com/tool-launcher/",
+    "related_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

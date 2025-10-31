@@ -1,0 +1,57 @@
+{
+  "title": "中文汉化AE/PR插件-时间映射帧混合紊乱扭曲视觉特效Time Bend V1.0.1 Mac/Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-shi-jian-ying-she-zheng-hun-he-wen-luan-niu-qu-shi-jue-te-xiao-time-bend-v1-0-1-mac-win",
+  "author": "大众脸",
+  "post_date": "2023/08/04 10:35",
+  "source_url": "https://www.lookae.com/time-bend/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "Time Bend",
+    "中文汉化",
+    "视觉特效"
+  ],
+  "content": "Time Bend 插件通过组合相对于当前帧的不同时间的相同素材的多个帧来扭曲素材。可将参数分为时间轴上的帧、映射源的转换和混合选项三大部分，轻松制作混乱扭曲视觉特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/10/Time-Bend.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/381192559810.mp4"
+  ],
+  "supported_versions": "After Effects & Premiere Pro CC 2014 – 2024",
+  "supported_os": "Windows / macOS（Intel & Apple M 芯片）",
+  "download_links": [
+    {
+      "name": "Win v1.0.1 中英文版 – 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-905857128-2acad2?p=4431"
+    },
+    {
+      "name": "Win v1.0.1 中英文版 – 百度网盘",
+      "url": "https://pan.baidu.com/s/1FPIP1w5DmVH9ZjS6T7LWGg?pwd=t7qx"
+    },
+    {
+      "name": "Win v1.0.1 中英文版 – 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/sDTqJCTs8MD"
+    },
+    {
+      "name": "Mac v1.0.1 英文版 – 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1352523335-635d32?p=4431"
+    },
+    {
+      "name": "Mac v1.0.1 英文版 – 百度网盘",
+      "url": "https://pan.baidu.com/s/106CEWEMsY87dRl7ugf86pw?pwd=64zz"
+    },
+    {
+      "name": "Mac v1.0.1 英文版 – 阿里云盘",
+      "url": "https://www.alipan.com/s/T4RCiW2RQ4A"
+    }
+  ],
+  "other": {
+    "网盘访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "t7qx（Win）/ 64zz（Mac）"
+    }
+  }
+}

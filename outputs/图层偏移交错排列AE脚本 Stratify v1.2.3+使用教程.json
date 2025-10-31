@@ -1,0 +1,50 @@
+{
+  "title": "图层偏移交错排列AE脚本 Stratify v1.2.3+使用教程",
+  "slug": "tu-ceng-pian-yi-jiao-cuo-pai-lie-aejiao-ben-stratify-v1-2-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/07/17 22:48",
+  "source_url": "https://www.lookae.com/stratify-123/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层排列"
+  ],
+  "content": "以传统方式偏移图层，或使用可根据合成位置交错图层的图案将其提升到一个新的水平。包括在紧凑的 UI 中对所有图层进行排序的选项。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/Stratify.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/444905814537.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1323784141-525e81?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1-LOk1GR_3o84qqGgMJyYOQ?pwd=gasv"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/VsfA9QscEvo"
+    }
+  ],
+  "other": {
+    "update_log": "v1.2.3 更新内容：按图层类型排序不再将可见的轨道遮罩视为轨道遮罩组的一部分。",
+    "script_features": [
+      "上升– 从底部图层到最上面的选定图层，每次单击都会增加图层偏移一帧。",
+      "下降– 从最上面的图层到底部选定的图层，每次单击都会增加图层偏移一帧。",
+      "随机– 通过输入图层应偏移的最小和最大帧数来随机偏移图层。",
+      "顺序– 按选择的顺序对图层进行排序。",
+      "CTRL/CMD：反转步进方向。（支持的模式 – 上升、下降和模式）。",
+      "SHIFT：将偏移量增加十帧（支持的模式 – 上升、下降和模式）。"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "gasv"
+    }
+  }
+}

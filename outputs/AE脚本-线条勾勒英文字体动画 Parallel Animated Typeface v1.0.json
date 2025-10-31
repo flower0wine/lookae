@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-线条勾勒英文字体动画 Parallel Animated Typeface v1.0",
+  "slug": "aejiao-ben-xian-tiao-gou-le-ying-wen-zi-ti-dong-hua-parallel-animated-typeface-v1-0",
+  "author": "大众脸",
+  "post_date": "2019/05/05 16:24",
+  "source_url": "https://www.lookae.com/parallel/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可以把英文字母字符、阿拉伯数字制作成线条动画，可修改颜色、宽度和动画等参数。（注：不支持中文汉字）Parallel是一款带集成可停靠用户界面的动画字体，允许构建和自定义动画字体。支持Win/Mac系统：AE CS3 - CC 2019",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Parallel.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS3 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372472262"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1157KOUMitPgOY8b5IQ5E8Q",
+      "extra": "提取码：1f94"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "相关链接": [
+      "https://aescripts.com/parallel-animated-typeface/"
+    ]
+  }
+}

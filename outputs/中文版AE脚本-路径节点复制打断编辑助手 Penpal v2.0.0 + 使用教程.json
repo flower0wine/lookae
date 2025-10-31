@@ -1,0 +1,42 @@
+{
+  "title": "中文版AE脚本-路径节点复制打断编辑助手 Penpal v2.0.0 + 使用教程",
+  "slug": "zhong-wen-ban-aejiao-ben-lu-jing-jie-dian-fu-zhi-da-duan-bian-ji-zhu-shou-penpal-v2-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/04/26 22:18",
+  "source_url": "https://www.lookae.com/penpal-v2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "中文版"
+  ],
+  "content": "Penpal允许您以After Effects不具备的方式编辑路径，比如整体镜像翻转、节点打断、平均分布、吸附、部分节点复制粘贴等。Penpal将贝塞尔曲线的强大功能和精确度带入AE，使您的工作流程免于过多的规划和与Illustrator的艰难往返。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Penpal-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/407813410439.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-843961338-578f02?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1SOm6rioq_TWdvJFyA1y5Za?pwd=gxyu"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/1NFa75ch38M"
+    }
+  ],
+  "other": {
+    "language_support": "中文、德文、意大利文、日文、葡萄牙文、俄文和西班牙文",
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "gxyu"
+    }
+  }
+}

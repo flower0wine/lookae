@@ -1,0 +1,60 @@
+{
+  "title": "AE三维摄相机跟踪插件 CameraTracker 1.0v9（win/Mac）支持 CC 2014",
+  "slug": "aesan-wei-she-xiang-ji-gen-zong-cha-jian-cameratracker-1-0v9-win-mac-zhi-chi-cc-2014",
+  "author": "大众脸",
+  "post_date": "2014/07/25 14:21",
+  "source_url": "https://www.lookae.com/cameratracker109/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CC 2014",
+    "MAC",
+    "Mac&Win"
+  ],
+  "content": "CAMERATRACKER是After Effects的三维摄相机跟踪插件，能在After Effects内做三维相机轨道反求和动向匹配，通过分析实拍素材提取原相机的镜片和轨迹参数，用于二维和三维素材的合成，还能在After Effects的2.5D环境中进行动向匹配。该插件以前只在NUKEX中可用，现在AE也能使用，功能强大，此版本更好兼容AE CC 2014，也适用于Win和Mac系统（CS5,CS5.5,CS6,CC）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/12/camera-10v8.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2014, CS5, CS5.5, CS6, CC",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "AE三维摄相机跟踪插件 CameraTracker 1.0v9（win/Mac）",
+      "url": "https://www.400gb.com/file/69150900"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "CameraTracker 1.0v7（64Bit）（附安装说明）",
+        "url": "https://www.lookae.com/camera-10v7/"
+      },
+      {
+        "name": "CameraTracker 1.0v6（64Bit）",
+        "url": "http://www.ctdisk.com/file/15448223"
+      },
+      {
+        "name": "CameraTracker 官方教程",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "name": "CameraTracker 1.0v2 AE CS4",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "name": "CameraTracker 1.0v2 AE CS5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "name": "CameraTracker 1.0v2 AE CS5.5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "name": "The Foundry Camera Tracker 1.0v3 （64位）",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      }
+    ],
+    "note": "插件包含Win/Mac两个版本，Mac只有1.0v6的（暂无最新V9）"
+  }
+}

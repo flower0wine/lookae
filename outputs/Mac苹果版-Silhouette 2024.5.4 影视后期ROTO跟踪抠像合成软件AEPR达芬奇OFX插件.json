@@ -1,0 +1,60 @@
+{
+  "title": "Mac苹果版-Silhouette 2024.5.4 影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/OFX插件",
+  "slug": "macping-guo-ban-silhouette-2024-5-4-ying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2025-03-26T10:00:00Z",
+  "source_url": "https://www.lookae.com/silhouette-202454-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac苹果版",
+    "PR插件",
+    "ROTO抠像",
+    "Silhouette",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 是业界领先的动态描画与绘画工具，内置超过400个VFX节点，涵盖颜色、合成、滤镜、光效、变形、时间处理、色调调整等多类功能，并集成 Boris FX Sapphire、Mocha Pro、Particle Illusion 等第三方插件。该工具由视觉效果艺术家打造，曾获奥斯卡与艾美奖，广泛应用于《死侍与金刚狼》、《叛逆之月》、《芭比娃娃》、《沙丘》及《三体问题》等大片制作中。其强大的机器学习能力支持遮罩辅助、降噪器、光流追踪、重新定时等功能，显著提升工作效率与画面质量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/06/Silhouette-2024.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/465845497543.mp4"
+  ],
+  "supported_versions": "Silhouette 2024.5.4, After Effects CC 2021-2025+, Premiere Pro CC 2021-2025+",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1444736171-3f95d7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1MUb-BT3j7wnEINGlQUehpg?pwd=32gr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/7Hte5vq4Q5H"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "遮罩辅助 ML：通过单一遮罩快速创建动画遮罩。",
+      "降噪器 ML：采用2倍速度的去噪模型，支持更多类型素材。",
+      "光流机器学习追踪器：生成可用于形状、物体或点追踪的光流数据。",
+      "增强功能：支持GPU加速处理，减少roto节点内存占用，优化缓存机制。",
+      "重新定时机器学习：支持原始时间扭曲与动画渐变。",
+      "兼容性扩展：支持Photoshop笔刷、最新版Mocha、Sapphire和Particle Illusion。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/silhouette-202456/"
+    ],
+    "supported_software": [
+      "After Effects CC 2021, 2022, 2023, 2024, 2025+",
+      "Premiere Pro CC 2021, 2022, 2023, 2024, 2025+",
+      "DaVinci Resolve",
+      "Nuke",
+      "Fusion",
+      "其他OFX兼容软件"
+    ]
+  }
+}

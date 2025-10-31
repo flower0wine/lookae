@@ -1,0 +1,49 @@
+{
+  "title": "Mac苹果版-抽象几何形状视觉化效果AE/PR插件 Geometric Filte v1.2.1",
+  "slug": "macping-guo-ban-chou-xiang-ji-he-xing-zhuang-shi-jue-hua-xiao-guo-ae-prcha-jian-geometric-filte-v1-2-1",
+  "author": "大众脸",
+  "post_date": "2025-09-19T09:26:00Z",
+  "source_url": "https://www.lookae.com/geometric-filte-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "Geometric Filte 插件可将源图像转换为大量几何形状，以逼近原始图像的轮廓与区域特征。其采用自定义邻近匹配算法，赋予输出类似手绘风格的视觉效果，并支持高度可调参数。用户可使用20种内置预设，也可自定义创建专属预设。适用于音乐视频、可视化创作及VJ艺术等场景，实现独特的抽象几何视觉呈现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Geometric-Filter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/366158470408.mp4"
+  ],
+  "supported_versions": "After Effects: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015; Premiere: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "macOS (已打包，含签名和公证)",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8436488674-aae72f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1xgoCre5yhcCTKgfDP819aw?pwd=hv8x"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/P1LQqV5FA6k"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加“滤镜强度”参数，轻松调节滤镜强度",
+      "修复在窄分辨率下使用大形状尺寸时崩溃的问题",
+      "‘保留原始图像’复选框重命名为‘原始图像上合成’",
+      "After Effects SDK 2023 年 5 月",
+      "打包的 macOS 版本（除签名和公证外）"
+    ],
+    "related_links": [
+      "https://www.lookae.com/geometric-12/"
+    ],
+    "related_title": "中文汉化-抽象几何形状视觉化效果AE/PR插件 Geometric Filte v1.2 Win"
+  }
+}

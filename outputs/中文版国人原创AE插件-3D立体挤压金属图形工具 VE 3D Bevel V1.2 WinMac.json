@@ -1,0 +1,44 @@
+{
+  "title": "中文版国人原创AE插件-3D立体挤压金属图形工具 VE 3D Bevel V1.2 Win/Mac",
+  "slug": "zhong-wen-ban-guo-ren-yuan-chuang-aecha-jian-3dli-ti-ji-ya-jin-shu-tu-xing-gong-ju-ve-3d-bevel-v1-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-03-09T11:46:00Z",
+  "source_url": "https://www.lookae.com/ve-3dbevel/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "VE 3D Bevel V1.2 是一款由国人原创的 After Effects 插件，专用于创建 3D 金属质感图形。该插件可将图形边缘轮廓进行立体挤压，通过调整切角、边缘、渲染参数、贴图类型和灯光设置，实现多种金属材质效果。用户可根据需求选择不同渲染质量以平衡视觉效果与性能。支持 Windows 和 Mac 系统，兼容 After Effects CC 2019 及更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/VE-3D-Bevel.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/350044868838.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019 及更高版本",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-553378365-8ae68c"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ifyvwikya8axIO1rxjLcFA?pwd=xs2p"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/5z8SfxUiEAh"
+    }
+  ],
+  "other": {
+    "plugin_origin": "VELeap社区原创",
+    "promotion_platform": "LOOKAE代宣",
+    "official_website": "http://veleap.com/",
+    "download_passwords": {
+      "ctfile": "6688",
+      "baidu": "xs2p"
+    }
+  }
+}

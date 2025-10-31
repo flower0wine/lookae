@@ -1,0 +1,70 @@
+{
+  "title": "红巨人粒子特效套装AE插件 Red Giant Trapcode Suite 15.1.1 Win/Mac（Particular Form Starglow Shine）中文汉化版",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-aecha-jian-red-giant-trapcode-suite-15-1-1-win-mac-particular-form-starglow-shine-zhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2019/03/13 11:02",
+  "source_url": "https://www.lookae.com/trapcode-1511/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "著名而强大的红巨人粒子特效套装插件 Red Giant Trapcode Suite 更新，在 v15 中插件 Particular 4、Form 4、Mir 3 均为大更新，粒子插件添加了流体动力学，增加更多预设。该套装包含多个专业视觉特效插件，适用于创建粒子、光线、三维几何图形、音频驱动动画等高级视觉效果。部分插件现已支持 Adobe Premiere Pro。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Trapcode-15.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/212168328083.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CC 2014, CC 2015, CC 2017, CC 2018, CC 2019; Adobe Premiere Pro CC 2014, CC 2015, CC 2017, CC 2018, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 系统版 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-350341083"
+    },
+    {
+      "name": "Win 系统版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Gm1SVyIwMhE0xuVp-cTalg"
+    },
+    {
+      "name": "Win 15.1.0中文版 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-350950362"
+    },
+    {
+      "name": "Win 15.1.0中文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1SYMdBoWQPhouJZCOQ27-RA"
+    },
+    {
+      "name": "Mac 苹果版 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-350339574"
+    },
+    {
+      "name": "Mac 苹果版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1qRW0g8PZynx38bIe0khYBw"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "Trapcode Tao 1.2.3",
+      "Trapcode Particular 4.1",
+      "Trapcode Form 4.1",
+      "Trapcode Mir 3.0.0",
+      "Trapcode Shine 2.0.4",
+      "Trapcode Lux 1.4.1",
+      "Trapcode 3D Stroke 2.7.3",
+      "Trapcode Echospace 1.1.10",
+      "Trapcode Starglow 1.7.4",
+      "Trapcode Sound Keys 1.4.1",
+      "Trapcode Horizon 1.1.11"
+    ],
+    "update_notes": "改进插件性能和一些BUG错误修复",
+    "license_key": "TCBK2245868172939255",
+    "registration_instructions": "默认安装插件程序，然后在安装结束界面上点击 Enter Licensing Info…，在弹出窗口中输入序列号，点击 Submit 和确定，最后关闭界面即可完成所有插件注册。",
+    "license_limitation": "一个注册号在一个局域网内只能用于一台电脑，否则会导致注册冲突失效。",
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

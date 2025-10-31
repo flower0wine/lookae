@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-随机切片分割动画脚本 Slice it Up v2 + 使用教程",
+  "slug": "aejiao-ben-sui-ji-qie-pian-fen-ge-dong-hua-jiao-ben-slice-it-up-v2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-10-15T15:19:00Z",
+  "source_url": "https://www.lookae.com/sliceitup2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Slice it Up v2 是一款用于 After Effects 的脚本工具，可将视频素材按任意数量切分为多个片段，并为每个切片添加可控制的位置、旋转等参数。通过复制图层并应用随机宽度的遮罩，生成的碎片被组合成一个完整图像，且保持无畸变。支持设置每个切片在 X、Y、Z 轴上的随机或线性偏移，以及调整掩膜的扩展和旋转角度。该工具适用于创建动态分镜、视觉特效等创意效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Slice-it-Up-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/282392320091.mp4"
+  ],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-467093649"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1l9XdsxSrTgb6lSHRIXdUFw"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "extract_code": "knwv",
+    "homepage": "https://aescripts.com/slice-it-up/"
+  }
+}

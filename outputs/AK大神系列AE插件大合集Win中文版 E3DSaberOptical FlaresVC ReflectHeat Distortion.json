@@ -1,0 +1,56 @@
+{
+  "title": "AK大神系列AE插件大合集Win中文版 E3D/Saber/Optical Flares/VC Reflect/Heat Distortion",
+  "slug": "akda-shen-xi-lie-aecha-jian-da-he-ji-winzhong-wen-ban-e3d-saber-optical-flares-vc-reflect-heat-distortion",
+  "author": "大众脸",
+  "post_date": "2024-07-08 11:08",
+  "source_url": "https://www.lookae.com/video-copilot-master/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AK大神",
+    "AK大神系列AE插件大合集",
+    "VC插件",
+    "中文汉化",
+    "插件合集",
+    "精品资源"
+  ],
+  "content": "Video Copilot AK 系列 AE 插件一键安装合集，Win 64 位专用，提供中英双语界面。集成 8 款热门插件，涵盖三维模型、光效、反射、热浪变形、快速着色与特效管理，兼容 AE CC 2014–2025 及更高版本。安装包 328 MB，开箱即用，适合需要高效视觉特效流程的 Windows 用户。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01iUaQxh1vSN5mb29IV_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01hwzQw51vSN5e01YP2_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01OqmTDD1vSMo6WK7Xg_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01EcFzYb1vSMqdilwaK_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01g5f7X91vSMnSMJ2en_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 或更高版",
+  "supported_os": "Windows 64 位（不支持 32 位与 macOS）",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?id=813615612909"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fvideo-copilot-master%2F"
+    }
+  ],
+  "other": {
+    "file_size": "328 MB",
+    "included_plugins": [
+      "Element 3D v2.2.3",
+      "Heat Distortion v1.0.32",
+      "Optical Flares v1.3.8",
+      "Saber v1.0.40",
+      "VC Reflect v1.0.14",
+      "VC Color Vibrance v1.0.7",
+      "VC ORB v1.0.3",
+      "FX Console v1.0.5"
+    ],
+    "notes": [
+      "极少部分参数可能未汉化",
+      "转译编码特殊性，可能存在潜在 BUG",
+      "不提供视频教程与使用教学"
+    ]
+  }
+}

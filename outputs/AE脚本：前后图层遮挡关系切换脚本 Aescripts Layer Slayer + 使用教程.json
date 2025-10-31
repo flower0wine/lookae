@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本：前后图层遮挡关系切换脚本 Aescripts Layer Slayer + 使用教程",
+  "slug": "aejiao-ben-qian-hou-tu-ceng-zhe-dang-guan-xi-qie-huan-jiao-ben-aescripts-layer-slayer-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-05-18T12:09:00",
+  "source_url": "https://www.lookae.com/layer-slayer/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Layer Slayer 是一款专为 After Effects 设计的脚本工具，可一键切换图层之间的前后遮挡关系。在复杂合成中，用户无需手动复制、剪切和粘贴图层即可实现内容同步显示。通过创建一个与原始图层（Master）完全同步的副本（称为“Slayer”），可在时间线上任意位置灵活使用，且保持视觉一致性。支持为单个主图层创建多个副本，操作仅需一键完成，大幅提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/05/Layer-Slayer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：前后图层遮挡关系切换脚本 Aescripts Layer Slayer + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/y8q151067249"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/layer-slayer/",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescripts",
+      "AE脚本"
+    ]
+  }
+}

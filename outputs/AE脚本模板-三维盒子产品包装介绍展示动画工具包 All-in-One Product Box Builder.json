@@ -1,0 +1,57 @@
+{
+  "title": "AE脚本/模板-三维盒子产品包装介绍展示动画工具包 All-in-One Product Box Builder",
+  "slug": "aejiao-ben-mo-ban-san-wei-he-zi-chan-pin-bao-zhuang-jie-shao-zhan-shi-dong-hua-gong-ju-bao-all-in-one-product-box-builder",
+  "author": "大众脸",
+  "post_date": "2020-08-13T11:46:00Z",
+  "source_url": "https://www.lookae.com/product-box-builder/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本"
+  ],
+  "content": "这是一款功能强大且用户友好的 After Effects 脚本/模板工具包，专为创建三维盒子产品包装展示动画而设计。适用于杂志、书籍、食品、药品、比萨饼、卡片盒、礼物、谷物、果汁、口香糖、巧克力、咖啡等多种产品的包装视觉呈现。通过丰富的自定义选项和直观的预览功能，用户可在几分钟内生成高质量的产品模型动画，提升作品的专业感与吸引力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/08/Product-Box-Builder.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/275995083436.mp4"
+  ],
+  "supported_versions": "After Effects CS6 及更高版本（使用 Premium Builder 扩展需 AE CC2019 及更高版本）",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-456799490"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1yfR-IpMuGlz3qjcWmd5KVA"
+    }
+  ],
+  "other": {
+    "featured_features": [
+      "支持最高 4K（3840×2160）分辨率",
+      "包含 30 个预制产品应用和 300 个现成的盒子场景",
+      "100% 纯 AE 制作，完全可调的关键帧与定时",
+      "色彩控制与通用表达式，兼容多语言环境",
+      "附带 6 个带旁白的视频教程",
+      "支持动画徽标、背景、过渡效果等"
+    ],
+    "controls": [
+      "箱子尺寸（x, y, z）",
+      "皮革质地不透明度",
+      "阴影不透明度及底座开关",
+      "产品反射不透明度",
+      "地板反射与深度调节",
+      "框内颜色/平铺开关",
+      "盒子内部与外部颜色",
+      "瓷砖颜色、大小、旋转、不透明度调整",
+      "盒座尺寸设置"
+    ],
+    "related_links": [
+      "更多精品AE模板下载: https://www.lookae.com/after-effects/other-after-effects/",
+      "AE模板精选音乐合集下载: https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486"
+    ],
+    "extract_code": "rto8"
+  }
+}

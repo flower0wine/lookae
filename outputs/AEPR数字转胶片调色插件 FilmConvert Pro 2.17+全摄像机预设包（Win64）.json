@@ -1,0 +1,52 @@
+{
+  "title": "AE/PR数字转胶片调色插件 FilmConvert Pro 2.17+全摄像机预设包（Win64）",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-pro-2-17-quan-she-xiang-ji-yu-she-bao-win64",
+  "author": "大众脸",
+  "post_date": "2014-10-22T21:37:00Z",
+  "source_url": "https://www.lookae.com/filmconvert217/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "win64"
+  ],
+  "content": "FilmConvert Pro 是一款专为数字摄影机素材提供胶片色彩转换的调色工具，支持作为独立程序或第三方插件使用。适用于 After Effects 与 Premiere Pro，兼容 Win 系统下的 CS5.5、CS6、CC 及 CC 2014 版本。内置 19 种胶片预设，支持 8MM 至 35MM 镜头噪点模拟，操作简便，支持 4K 输出。该插件可将数字画面还原出富有质感的胶片视觉效果，弥补数字素材在原始画质上的不足。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/09/filmconvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5.5, CS6, CC, CC 2014.1; Premiere Pro CS5.5, CS6, CC, CC 2014.1",
+  "supported_os": "Windows (Win64)",
+  "download_links": [
+    {
+      "name": "AE/PR数字转胶片调色插件 FilmConvert Pro 2.17 下载",
+      "url": "https://www.400gb.com/file/76578208"
+    },
+    {
+      "name": "全摄像机预设包下载",
+      "url": "http://www.filmconvert.com/Download/download_file.aspx?software_id=5"
+    }
+  ],
+  "other": {
+    "plugin_description": "将数字摄影机素材色彩转换为胶片风格，支持多种摄像机类型与胶片模拟效果。",
+    "features": [
+      "支持 19 种胶片预设",
+      "支持 8MM-35MM 镜头噪点模拟",
+      "支持 4K 输出",
+      "支持 3D LUT 导出",
+      "支持隔行序列处理",
+      "改进的相机选择界面",
+      "支持插件内保存自定义色彩设置为 LUT"
+    ],
+    "official_website": "www.filmconvert.com/default.aspx",
+    "update_notes": [
+      "Added support for interlaced sequences.",
+      "Added 3D LUT size options.",
+      "Fixed bug in LUT “Save As” dialog.",
+      "Added the ability to export a 3D lut of all the color changes made in the plugin.",
+      "Added improvements to the camera chooser UI."
+    ],
+    "release_date": "2014.10.22",
+    "usage_notes": "插件已完美集成，安装后即可直接使用。"
+  }
+}

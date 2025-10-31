@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-框选区域文字标题排版动画制作Animated Textblock v1.61 + 使用教程",
+  "slug": "aejiao-ben-kuang-xuan-qu-yu-wen-zi-biao-ti-pai-ban-dong-hua-zhi-zuo-animated-textblock-v1-61-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-14",
+  "source_url": "https://www.lookae.com/animated-textblock/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "在AE中使用这个脚本可以在一个固定的框选区域内制作文字标题排版动画，可控制文字的大小/对齐/间隔等属性。Create an Animated TextBlock with fixed width text layouts.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Animated-TextBlock.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/223530637469.mp4"
+  ],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-365505410"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1EbNlgzyCX0zVyf3jHaB-_g"
+    }
+  ],
+  "other": {
+    "extraction_code": "vksi",
+    "official_url": "https://aescripts.com/animated-textblock/"
+  }
+}

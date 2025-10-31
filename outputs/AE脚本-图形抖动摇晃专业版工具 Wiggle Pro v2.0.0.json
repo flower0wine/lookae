@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-图形抖动摇晃专业版工具 Wiggle Pro v2.0.0",
+  "slug": "aejiao-ben-tu-xing-dou-dong-yao-huang-zhuan-ye-ban-gong-ju-wiggle-pro-v2-0-0",
+  "author": "大众脸",
+  "post_date": "2025/10/17 10:06",
+  "source_url": "https://www.lookae.com/wiggle-pro/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "抖动插件",
+    "抖动效果"
+  ],
+  "content": "Wiggle Pro v2.0.0 是一款专为 After Effects 设计的高级抖动摇晃动画脚本，支持位置、旋转、缩放等属性的随机抖动效果。该版本在基础功能上增强了实时预览、自定义预设、轴向独立控制及表达式导入能力，提升动画制作效率与可控性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/10/Wiggle-Pro-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/538166576109.mp4"
+  ],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8453390125-4a0a1d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1F_f3dHXwUyUQKqEtfp24rg?pwd=vp5s"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/nQUpxczjwHG"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "preview_features": [
+        "实时预览动画效果",
+        "支持循环 wiggle",
+        "X/Y/Z 轴独立控制",
+        "自定义预设与导入",
+        "加载已有表达式编辑",
+        "Radius 可视化辅助",
+        "自适应面板界面与自定义预览图"
+      ],
+      "description": "Wiggle – Pro Edition 通过精准的实时预览、预设保存、自定义预览表情等功能，使 wiggle 效果的创作更加直观高效。",
+      "license": "访问密码：6688（城通网盘）；提取码: vp5s（百度网盘）"
+    }
+  }
+}

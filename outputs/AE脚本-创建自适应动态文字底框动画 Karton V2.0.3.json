@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-创建自适应动态文字底框动画 Karton V2.0.3",
+  "slug": "aejiao-ben-chuang-jian-zi-gua-ying-dong-tai-wen-zi-di-kuang-dong-hua-karton-v2-0-3",
+  "author": "大众脸",
+  "post_date": "2025-06-17T22:03:00Z",
+  "source_url": "https://www.lookae.com/karton-203/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Karton 是一款专为 After Effects 设计的脚本，可一键创建自适应动态文字底框动画。它通过生成带有自定义效果的新形状图层，实现无需多余图层、无杂乱效果的简洁工作流。适用于快速制作专业级文本视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/Karton-121.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/473999538354.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1518003652-b0b815?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1TQWH4nuPg_zIPX-0V-2JOg?pwd=7n3k"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/SexV2YCgYS2"
+    }
+  ],
+  "other": {
+    "description_en": "The most intuitive and easy way to create dynamic text boxes. Create a ready-to-use text box with a single click. Karton generates a new Shape Layer with a custom effect — no extra layers, no clutter.",
+    "update_notes": [
+      "修复了时间计算无法正确进行的问题",
+      "修复了在 macOS 上导出预设不起作用的错误",
+      "修复了将形状附加到带有上升部和下降部的文本时对齐不正确的问题",
+      "修复了父级错误",
+      "修复了创建形状和文本父级时的表达式错误"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ]
+  }
+}

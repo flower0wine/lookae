@@ -1,0 +1,47 @@
+{
+  "title": "AE插件-三维合成控制处理插件 Pixel Cloud v1.7 Win/Mac版+使用教程",
+  "slug": "aecha-jian-san-wei-he-cheng-kong-zhi-chu-li-cha-jian-pixel-cloud-v1-7-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/23 16:01",
+  "source_url": "https://www.lookae.com/pixel-cloud-17/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Pixel Cloud 是一款专为 After Effects 设计的三维合成控制处理插件，能够重新点亮3D生成的图像，实现3D感知的选择或在3D空间中位移像素。通过结合位置通道（Position Pass）和法线通道（Normal Pass）与 AE 的3D灯光和相机系统，可灵活调整合成3D图形的光照效果，提升视觉表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Pixel-Cloud-17.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/377202383625.mp4"
+  ],
+  "supported_versions": "AE CS 5.5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367703474"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/16-kFHW7BW83F2T-5Pkqqrg"
+    }
+  ],
+  "other": {
+    "tutorial_download": {
+      "name": "插件操作教程下载（附工程和脚本）",
+      "url": "http://www.ctdisk.com/file/9054367",
+      "extract_code": "14nj"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/winmac/"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "文字分割分离成单独图层AE脚本 TextExploder v3.0.000+使用教程",
+  "slug": "wen-zi-fen-ge-fen-chi-cheng-dan-du-tu-ceng-aejiao-ben-textexploder-v3-0-000-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/08/24 10:35",
+  "source_url": "https://www.lookae.com/textexploder-v3/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "TextExploder",
+    "文字分割"
+  ],
+  "content": "TextExploder v3.0.000 是一款用于 After Effects 的脚本，可将文本图层轻松拆分为字符、单词、行等独立图层。每个字符的位置均被精确保留，无需使用表达式或文本动画技巧。支持多种自定义拆分方式，包括正则表达式，适用于复杂文本处理需求。该版本新增对多文本样式的支持（如不同颜色、字体），需 After Effects 24.3 及以上版本。同时优化了性能并修复了部分错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/TextExploder-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/478511203810.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（脚本）",
+      "url": "https://url70.ctfile.com/f/2827370-1345162072-ef457d?p=4431"
+    },
+    {
+      "name": "百度网盘（脚本）",
+      "url": "https://pan.baidu.com/s/1jmKQNk_EKp43yg0kOK6rSQ?pwd=2yjo"
+    },
+    {
+      "name": "阿里云盘（脚本）",
+      "url": "https://www.alipan.com/s/ipRKd2rGvE1"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://www.pipipan.com/fs/680462-220389175"
+    },
+    {
+      "name": "百度云网盘（教程）",
+      "url": "https://pan.baidu.com/s/1miMJgOK"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "update_notes": [
+        "引入每个字符的文本样式支持（需 AE 24.3+）",
+        "性能改进",
+        "错误修复"
+      ],
+      "features": [
+        "拆分成字符",
+        "拆分成单词",
+        "按行分割",
+        "隔离自定义单词",
+        "支持正则表达式自定义拆分",
+        "精准保留字符位置",
+        "生成干净的独立文本层"
+      ],
+      "passwords": {
+        "ctfile": "6688",
+        "baidu_disk_tutorial": "2yjo"
+      }
+    }
+  }
+}

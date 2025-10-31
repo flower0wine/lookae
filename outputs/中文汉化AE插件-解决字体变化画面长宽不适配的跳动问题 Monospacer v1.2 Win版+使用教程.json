@@ -1,0 +1,52 @@
+{
+  "title": "中文汉化AE插件-解决字体变化画面长宽不适配的跳动问题 Monospacer v1.2 Win版+使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jie-jue-zi-ti-bian-hua-hua-mian-chang-kuan-bu-gua-pei-de-tiao-dong-wen-ti-monospacer-v1-2-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/09/15 14:10",
+  "source_url": "https://www.lookae.com/monospacer-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Monospacer 是一款用于解决在 After Effects 中使用可变宽度字体（variable-width fonts）进行动画时，因字符宽度变化导致画面跳动问题的插件。该插件通过将字符强制对齐为等宽形式，使动画更加平滑稳定。推荐与 Digit Fiddler 插件配合使用以获得更佳效果。v1.2 版本新增了缓冲区扩展功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Monospacer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Monospacer v1.2 Win版 - 城通网盘",
+      "url": "https://089u.com/file/680462-461387442"
+    },
+    {
+      "name": "Monospacer v1.2 Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1u0GtWRiOcqA3SZ0cO-vhAQ"
+    },
+    {
+      "name": "使用视频教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-357913677"
+    },
+    {
+      "name": "使用视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/16PlLhImLaA5qwZMROb14QA"
+    }
+  ],
+  "other": {
+    "related_downloads": [
+      {
+        "name": "Monospacer v1.1.3 Mac版 - 城通网盘",
+        "url": "https://089u.com/file/680462-456699432"
+      },
+      {
+        "name": "Monospacer v1.1.3 Mac版 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1F--YRx266si_bSPtAwxk1g"
+      }
+    ],
+    "original_plugin_url": "https://aescripts.com/monospacer/",
+    "recommended_plugin": "Digit Fiddler",
+    "recommended_plugin_url": "https://www.lookae.com/digit-fiddler-11/"
+  }
+}

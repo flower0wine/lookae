@@ -1,0 +1,100 @@
+{
+  "title": "50个Instagram风格电影视频调色LUTs预设（FCPX/PR/PS/AE/达芬奇）Instagrading 50 Color Grading Filters",
+  "slug": "50ge-instagramfeng-ge-dian-ying-shi-pin-diao-se-lutsyu-she-fcpx-pr-ps-ae-da-fen-qi-instagrading-50-color-grading-filters",
+  "author": "大众脸",
+  "post_date": "2019/04/10 12:05",
+  "source_url": "https://www.lookae.com/50-instagrading/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "这套LUTs调色预设可使您的视频素材看起来很棒。通过强大的色彩调整平衡您的镜头。不同的过滤器使您的视频富有时尚和创意。项目包括40个原始颜色分级调色和10个额外颜色预设。Instagrading gives you everything you need to make your footage look great. Balance out your shots with powerful color adjustments. Different filters make your video stylish and creative. Project included 40 original color grading filters and 10 bonus color presets. You can use them both as LUT and LOOK.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/50-Instagrading-.jpg",
+    "https://c1.staticflickr.com/5/4813/45703638832_b5c4df5289_o.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/223290427538.mp4",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2019, Adobe After Effects CS6-CC 2019, Adobe Photoshop CS6-CC 2019, Final Cut Pro X, Final Cut Pro 7",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-362864992"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/13h3AA8ya60jr7GtI01NNuQ"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "fcpx_lut_plugin_recommendations": [
+      {
+        "name": "LUT Gallery",
+        "url": "https://www.lookae.com/lut-gallery/"
+      },
+      {
+        "name": "FCPX LUT Loader",
+        "url": "https://www.lookae.com/lut-loader-15s/"
+      },
+      {
+        "name": "FCPX软件 LUT 实用颜色工具",
+        "url": "https://www.lookae.com/fcpx-lut/"
+      }
+    ],
+    "lut_usage_guides": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Vegas Pro": "需安装 LUTS 插件（https://www.lookae.com/ofxlut/）",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "DaVinci Resolve": "直接使用或导入",
+      "通用方案": "Magic Bullet LUT Buddy（https://www.redgiant.com/downloads/free-products/），适用于大部分软件；只要软件能安装 Looks 新版的调色插件，就能使用 Looks 导入 LUT 使用"
+    },
+    "related_resources": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      }
+    ],
+    "extract_code": "qwhv",
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "free_luts_collection": "https://www.lookae.com/tag/lut/"
+  }
+}

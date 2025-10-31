@@ -1,0 +1,38 @@
+{
+  "title": "AE插件-遮罩路径图形扭曲 BOA Boa 1.3 Win版 + 使用教程",
+  "slug": "aecha-jian-zhe-zhao-lu-jing-tu-xing-niu-qu-boa-boa-1-3-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-11-23T20:10:00",
+  "source_url": "https://www.lookae.com/boa-boa/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Boa 是一款专为 After Effects 打造的插件，可用于沿遮罩路径对图层进行扭曲动画效果。适用于从 After Effects CS6 到 CC 2019 的 Windows 系统版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/BAO-Boa.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-321490524"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1ciK-mEvWTwmRlrzsP2Yq7Q"
+    }
+  ],
+  "other": {
+    "plugin_description": "又一款AE插件，用于制作沿着MASK遮罩路径扭曲的图层动画。Boa is a plugin for After Effects built to distort layers along mask paths.",
+    "official_website": "https://aescripts.com/bao-boa/",
+    "note": "插件在我们的测试平台上会偶尔闪退，若你们遇见这问题，请给我们留言！方便我们解决问题。",
+    "categories": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "AE脚本-高科技电流电路板线路动画 circuitFX v1.90+使用教程",
+  "slug": "aejiao-ben-gao-ke-ji-dian-liu-dian-lu-ban-xian-lu-dong-hua-circuitfx-v1-90-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/18 08:55",
+  "source_url": "https://www.lookae.com/circuitfx-190/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "circuitFX",
+    "电路板效果"
+  ],
+  "content": "circuitFX 是 AE 软件中一款高科技电流电路板线路动画脚本，能够随机生成各种电路图，脚本还可以创建CPU、电阻、电容器、芯片等元件。用户可以将这些部件放在同一个电路图层中，也可以为每个部件创建单独的图层，操作简单直接，适用于制作HUD高科技背景动画以及其他科技类动画项目。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/circuitFX-19.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/482241432333.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019 – 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1357736203-c2c695?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/14gcOjVeZEzdWSltfIuY8gA?pwd=4t3e"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/qSHUWZcNBVd"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-222963204"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bpuBTN5"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加：种子值字段 + 随机种子复选框。您现在可以设置静态种子值并生成完全相同的电路（当所有其他值保持不变时）",
+      "优化：电路预计算功能现在更快了！",
+      "优化：更具信息性的加载/保存设置对话框",
+      "修复：未正确加载“掩码偏移”值的问题",
+      "修复：在“中心向外”模式与“向外”方向结合时忽略“最小顶点数”值的问题",
+      "修复：一些 UI 按钮问题",
+      "删除：支持 CS6"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "4t3e"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-条形折线图信息数据图表生成制作 Chartist v1.6 含使用教程",
+  "slug": "aejiao-ben-tiao-xing-zhe-xian-tu-xin-xi-shu-ju-tu-biao-sheng-cheng-zhi-zuo-chartist-v1-6-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/09/05 09:47",
+  "source_url": "https://www.lookae.com/chartist-v16/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "使用脚本可以制作惊艳的条形图和折线图。轻松构建，速度飞快，性能卓越！配备7条条柱和4条线预设，可让您快速启动并运行。支持为条形或折线图添加多种高级动画效果，包括从任意方向入场、多种形状样式、位置动画以及三种不同的折线图动画方式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/04/Chartist.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/515455050366.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8423582231-c9f088?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1K2NqusNSzIY6X6k99dQDiA?pwd=d5pw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/MYCRsVXzcnV"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.6更新内容：\n新功能\n自定义纹理\n使用任意图像、视频或合成图作为条形图的纹理\n\n自定义条形图。\n使用任意对象创建条形图：\n形状图层\n合成图\n图像/视频\n文本\n\n可在“条形图”选项卡/“自定义”子选项卡中找到。\n选择对象，保存并创建由该对象组成的条形图。\n下一版本将支持自定义纹理。"
+  }
+}

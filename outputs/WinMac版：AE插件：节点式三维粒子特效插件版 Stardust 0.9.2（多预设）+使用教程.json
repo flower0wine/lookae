@@ -1,0 +1,47 @@
+{
+  "title": "Win/Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.2（多预设）+使用教程",
+  "slug": "win-macban-aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-ban-stardust-0-9-2-duo-yu-she-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/11/24 21:33",
+  "source_url": "https://www.lookae.com/stardust092/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust",
+    "WIN",
+    "粒子插件"
+  ],
+  "content": "Stardust 是一款为 Adobe After Effects 开发的模块化三维粒子系统插件，采用直观的节点式操作界面，内置大量预设，能够快速创建复杂而精美的视觉效果。插件支持多种粒子控制方式，包括发射器、力场、辅助发射器、3D模型、文字、遮罩、路径等，并提供空间变形器、样条动画、粒子复制等高级功能，适用于在球体、盒子或自定义3D模型中封装或发射粒子。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/Stardust-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2WUUecH1K.eBjSsphXXcJOXXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2017",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "http://lookae.ctfile.com/fs/EKh161877109"
+    },
+    {
+      "name": "Win版 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1nv0LO73"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "http://lookae.ctfile.com/fs/r88161067043"
+    },
+    {
+      "name": "Mac版 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1c14lmkK"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/stardust/",
+    "mac_version_number": "0.9.1",
+    "win_version_number": "0.9.2"
+  }
+}

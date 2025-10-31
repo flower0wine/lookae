@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-路径节点复制打断编辑助手 Penpal v1.2.0 + 使用教程",
+  "slug": "aejiao-ben-lu-jing-jie-dian-fu-zhi-da-duan-bian-ji-zhu-shou-penpal-v1-2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 21:26",
+  "source_url": "https://www.lookae.com/penpal/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Penpal 是一款专为 After Effects 设计的路径编辑辅助脚本，能够弥补 AE 原生路径编辑功能的不足。它通过 HTML 面板实现对路径的可视化操作，支持路径、节点与切线的精细控制。用户可轻松完成路径翻转、点位对齐、切线复制粘贴、沿图层轴精确移动等复杂操作，具备超过40项高级功能，甚至超越 Illustrator 的部分能力。该脚本适用于 Windows 和 Mac 系统，兼容 AE 2022 至 CC 2018 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Penpal-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336920998068.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520631265-a205a6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1W2zL6V59rUiQae16a5SnVQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/GzhpYuepNHK"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects",
+      "AE脚本"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "n5lw"
+    }
+  }
+}

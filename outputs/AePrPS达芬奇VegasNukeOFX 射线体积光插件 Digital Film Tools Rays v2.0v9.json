@@ -1,0 +1,37 @@
+{
+  "title": "Ae/Pr/PS/达芬奇/Vegas/Nuke/OFX 射线体积光插件 Digital Film Tools Rays v2.0v9",
+  "slug": "ae-pr-ps-da-fen-qi-vegas-nuke-ofx-she-xian-ti-ji-guang-cha-jian-digital-film-tools-rays-v2-0v9",
+  "author": "大众脸",
+  "post_date": "2016-11-02T13:09:00Z",
+  "source_url": "https://www.lookae.com/dft-rays209/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "达芬奇"
+  ],
+  "content": "Rays 是由 Digital Film Tools 公司出品的一款射线体积光插件，可快速、轻松地创建逼真的光线效果。该插件支持多种主流视频与图像处理软件，适用于营造黄昏光线、穿透树冠的光束、雾夜中的光流以及从文本中射出的光线等戏剧性视觉效果。其核心功能为体积照明（volumetric lighting），能增强画面的立体感和氛围感，广泛用于影视后期制作中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Rays.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5+, Photoshop Elements 13+, Lightroom 3+, After Effects CS5+, Premiere Pro CS5+, Avid Editing Systems (64位), Assimilate Scratch v8+, Black Magic Resolve v11+, Sony Vegas v13+, Nuke v8+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "射线体积光插件 Digital Film Tools: Rays v2.0v9",
+      "url": "http://lookae.ctfile.com/fs/Gjv160026706"
+    }
+  ],
+  "other": {
+    "plugin_company": "Digital Film Tools",
+    "official_website": "http://www.digitalfilmtools.com/rays/",
+    "effect_type": "Volumetric Lighting / Crepuscular Rays",
+    "description_en": "Create stunning and realistic light ray effects quickly and easily. Known as volumetric lighting in computer graphics or crepuscular rays in atmospheric optics, this dramatic effect adds polish and style. Since the rays are only added to highlight areas, they have the effect of passing through objects and add a third dimensional quality. Add shafts of light streaming through clouds, rays filtering through a forest canopy, beams of light on a foggy night or rays shooting out from text. Rays adds a striking and dramatic quality to any image.",
+    "additional_info": "兼容 CC 2015.3 至 CC 2015.5 版本，仅支持 64 位系统"
+  }
+}

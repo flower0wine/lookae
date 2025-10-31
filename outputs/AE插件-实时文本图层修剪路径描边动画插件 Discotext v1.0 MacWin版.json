@@ -1,0 +1,39 @@
+{
+  "title": "AE插件-实时文本图层修剪路径描边动画插件 Discotext v1.0 Mac/Win版",
+  "slug": "aecha-jian-shi-shi-wen-ben-tu-ceng-xiu-jian-lu-jing-miao-bian-dong-hua-cha-jian-discotext-v1-0-mac-winban",
+  "author": "大众脸",
+  "post_date": "2020/07/01 23:31",
+  "source_url": "https://www.lookae.com/discotext-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "新插件Discotext是用于实时文本图层的修剪路径描边插件，可控件修剪，偏移，交错和克隆文本图层等。灵感来源于形状图层的修剪路径控制，Discotext允许您修剪、偏移、交错和克隆文本图层，其控制方式对每个After Effects用户来说都很熟悉。功能包括：开始、结束和偏移控件；对接、方形和圆形帽样式；完整的破折号、间隙和偏移选项；每个路径和顺序修饰符控件错开；借助强大的转换控件克隆和偏移副本；与大多数文本动画制作器属性兼容；兼容8、16和32bpc；全运动模糊控制，包括样本、角度和相位。局限性：在CC2018以下的AE版本中，具有父级转换的文本层可能无法达到预期的效果（取决于父级转换），这是CC2018和更高版本中已解决的技术限制；3D文本必须在Z中偏移之前进行预合成。插件支持Win/Mac系统：After Effects 2020，CC 2019，CC 2018，CC 2017，CC 2015.3，CC 2015，CC 2014，CC，CS6。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Discotext-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020，CC 2019，CC 2018，CC 2017，CC 2015.3，CC 2015，CC 2014，CC，CS6",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Win版+教程 (城通网盘)",
+      "url": "https://tc5.us/file/680462-411013956"
+    },
+    {
+      "name": "Win版+教程 (百度网盘)",
+      "url": "https://pan.baidu.com/s/14TNYw5LyYrq8FUA4m2in7Q"
+    },
+    {
+      "name": "Mac版 (城通网盘)",
+      "url": "https://089u.com/file/680462-451413146"
+    },
+    {
+      "name": "Mac版 (百度网盘)",
+      "url": "https://pan.baidu.com/s/1kONO_fX2iiGwDcmLJZXOcw"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "ts98"
+  }
+}

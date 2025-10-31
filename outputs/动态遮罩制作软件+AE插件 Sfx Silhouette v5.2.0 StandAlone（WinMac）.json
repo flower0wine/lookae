@@ -1,0 +1,46 @@
+{
+  "title": "动态遮罩制作软件+AE插件 Sfx Silhouette v5.2.0 StandAlone（Win/Mac）",
+  "slug": "dong-tai-zhe-zhao-zhi-zuo-ruan-jian-aecha-jian-sfx-silhouette-v5-2-0-standalone-win-mac",
+  "author": "大众脸",
+  "post_date": "2014-08-04 15:31",
+  "source_url": "https://www.lookae.com/silhouette520/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "silhouettefx",
+    "软件"
+  ],
+  "content": "在后期的视觉特效制作中，动态遮罩制作 Sfx Silhouette v5.2.0 StandAlone 工具能给你带来不一样的制作体验。拥有一个完整的工作流程：剪影，对位，抠像，扭曲，变形，以及2D-3D转换，支持立体声，工具包括软件版和 AE 插件版 ，插件支持AE CS5-CC 2014，Win 和 Mac系统。新版本v5.2.0增加了多项功能，如Crop节点、EXR 2.0多部分文件支持、Nuke导出内模糊支持、Paint工具增强、与RV播放软件的集成等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/StandAlone.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5-CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://www.400gb.com/file/70075982"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "https://www.400gb.com/file/70075983"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "其他资源",
+      "软件/插件"
+    ],
+    "new_features": [
+      "Crop Node: 裁剪图像和会话到用户定义的大小",
+      "EXR 2.0 Multi-part Support: 支持EXR 2.0多部分文件",
+      "Nuke Export – Inner Blur Support: 形状导出到Nuke时支持内模糊",
+      "Paint: 增强的画笔功能，支持从一视图复制笔划到另一视图",
+      "Tweak Software > RV Integration: 与RV播放软件集成"
+    ]
+  }
+}

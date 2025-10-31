@@ -1,0 +1,80 @@
+{
+  "title": "AE插件：点线面三维粒子插件 Rowbyte Plexus v3.1.2 + 使用教程",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/09/12 12:20",
+  "source_url": "https://www.lookae.com/plexus312/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。用户不仅能渲染粒子，还能基于多种参数建立粒子间的复杂关系。其工作流高度模块化，可实现无限的配置组合。该插件支持3D模型导入（如OBJ格式），可用于粒子发射器；可通过路径、文字、灯光生成粒子效果，并提供分形、颜色、球形场、阴影等多种自定义特效。新版Plexus 3.1.2修复了部分OBJ容器问题、提升了旧项目升级兼容性并解决了一些合成中的内部验证错误。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5.5 – CC 2017",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件Plexus v3.1.2下载 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-219453851"
+    },
+    {
+      "name": "插件Plexus v3.1.2下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1hr7H3nQ"
+    },
+    {
+      "name": "高清视频教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "高清视频教程下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    },
+    {
+      "name": "Win版Plexus 3.1.0下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-202002135"
+    },
+    {
+      "name": "Win版Plexus 3.1.0下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1o8v3cl8"
+    },
+    {
+      "name": "Mac版Plexus 3.0.13下载 - 城通网盘",
+      "url": "https://pan.baidu.com/s/1slnlfwp"
+    },
+    {
+      "name": "Mac版Plexus 3.0.13下载 - 百度云网盘",
+      "url": "https://lookae.ctfile.com/fs/dSi172186702"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/plexus/",
+    "developer_site": "https://www.rowbyte.com/plexus/",
+    "tutorial_source": "https://www.lookae.com/sponsor/",
+    "shop_link": "https://lookae.taobao.com/",
+    "features": [
+      "Object based UI",
+      "Depth Map Culling",
+      "Motion Blur",
+      "Sound Effector",
+      "Null Object Performance",
+      "Slicer Object",
+      "Path Object Improvements",
+      "Seamless Beams",
+      "Custom Visibility Settings",
+      "Improved OBJ Import",
+      "Unified Rendering",
+      "Nested Compositions",
+      "Loop Noise"
+    ],
+    "update_notes": [
+      "Fixed container issues on some OBJs.",
+      "Improved Plexus 2 project upgrades.",
+      "Fixed ‘internal verification error’ in some comps."
+    ]
+  }
+}

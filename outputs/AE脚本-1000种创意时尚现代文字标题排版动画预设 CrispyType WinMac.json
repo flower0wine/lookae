@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-1000种创意时尚现代文字标题排版动画预设 CrispyType Win/Mac",
+  "slug": "aejiao-ben-1000chong-chuang-yi-shi-shang-xian-dai-wen-zi-biao-ti-pai-ban-dong-hua-yu-she-crispytype-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/12/01 17:26",
+  "source_url": "https://www.lookae.com/crispytype/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "精品资源"
+  ],
+  "content": "这套预设包提供了1000种创意时尚现代文字标题排版动画预设，涵盖风格化、粒子、干净毛刺、HUD、颜色抖动、复古、VHS、标签、弹出窗口、简洁迷你、字幕条、设备、运动、报价、标注、大标题、字幕、活动、商务会议、婚礼、圣诞节、社交媒体等多种风格。使用AtomX脚本扩展调用预设，支持可视化操作，只需单击即可应用，可自由修改文字、颜色等属性，并支持自适应大小。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/CrispyType-.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN012F4gM71vSMlLsmr7T_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/289549990282.mp4"
+  ],
+  "supported_versions": "AE CC 2019，2020或更高版本（支持中文和英文版AE软件）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.10.4737a311f3MJtt&id=633470059015"
+    },
+    {
+      "name": "站内支付下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fcrispytype%2F"
+    }
+  ],
+  "other": {
+    "resolution": "不限制",
+    "plugins_required": "不需要外置第三方插件",
+    "atomx_version": "AtomX 3.0 (已包含)",
+    "file_size": "298M",
+    "installation_guide": "大脸整理的PDF中文图文安装方法（严格测试，保证可用）",
+    "tutorial": "英文视频教程",
+    "note": "脚本使用需要一定AE基础，新手请慎重选购，我们不提供任何修改服务"
+  }
+}

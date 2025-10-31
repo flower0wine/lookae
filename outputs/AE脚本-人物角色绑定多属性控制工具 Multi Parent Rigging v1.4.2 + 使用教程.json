@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-人物角色绑定多属性控制工具 Multi Parent Rigging v1.4.2 + 使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-bang-ding-duo-shu-xing-kong-zhi-gong-ju-multi-parent-rigging-v1-4-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/22 21:21",
+  "source_url": "https://www.lookae.com/rigging-142/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Multi Parent Rigging 是一款专为 After Effects 设计的模块化动画脚本，支持将位置、旋转、缩放、不透明度等变换属性连接至任意图层。无论目标图层是2D/3D、隐藏、锁定或已存在父子关系，均可实现平滑的属性继承与控制。通过全局滑块或独立滑块进行高级设置，可灵活组合来自不同图层或同一图层在不同时段的父级属性，极大提升角色绑定与动画效率。适用于复杂角色动画中多属性协同控制需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/MultiParentRigging.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375434392"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1rDr78ACVkWzYSUJeyFAfAw"
+    }
+  ],
+  "other": {
+    "original_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://aescripts.com/multi-parent-rigging/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "update_notes": [
+      "修复了一个小的UI错误，导致一些用户无法正常显示。",
+      "使用非高级设置时，更新scale属性中发生的表达式错误。"
+    ],
+    "download_password": "89j9"
+  }
+}

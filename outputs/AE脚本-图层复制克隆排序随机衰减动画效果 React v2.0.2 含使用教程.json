@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-图层复制克隆排序随机衰减动画效果 React v2.0.2 含使用教程",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-pai-xu-sui-ji-shuai-jian-dong-hua-xiao-guo-react-v2-0-2-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-10-10T09:43:00Z",
+  "source_url": "https://www.lookae.com/react-202/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "React 是一款专为 After Effects 设计的脚本，用于通过衰减、随机和步进效应器创建网格、径向或线性中继器，并实现图层的高效控制。该工具提供强大的重复器与效应器管理功能，支持多属性灵活应用，适用于复杂动画设计。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/12/React-2.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/498376988089.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8449540177-2f1169?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1O_2hJugvyORWII9eIAlMcg?pwd=fffs"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/iJszhV71JLM"
+    }
+  ],
+  "other": {
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ],
+    "v2_features": [
+      "速度更快、响应更快",
+      "几乎可以向任何属性添加效应器，包括颜色",
+      "新的排序功能 – 将图层排序为迭代、聚类、随机、行或列",
+      "新的跟踪器功能 – 在图层之间创建线条和网格",
+      "全新的效应器 – 支持在多个属性上使用多个效应器，可通过刷新按钮更新属性",
+      "随机演化 – 在随机值之间平滑过渡"
+    ],
+    "update_notes": "v2.0.2 更新内容：修复了网格模式下追踪器的错误。",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "fffs"
+    }
+  }
+}

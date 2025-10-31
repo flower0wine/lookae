@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-遮罩图形自由变换控制 Mask Transformer v1.0.8",
+  "slug": "aejiao-ben-zhe-zhao-tu-xing-zi-you-bian-huan-kong-zhi-mask-transformer-v1-0-8",
+  "author": "大众脸",
+  "post_date": "2021/11/13 14:05",
+  "source_url": "https://www.lookae.com/mask-108/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本可以在AE中对MASK遮罩图形进行自由变换控制制作动画，而不需要繁琐的关键帧。Enable masks transformations, with real values input, and motion paths.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Mask-Transformer-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520606039-66bdd0"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1pmwpWT2nAL3IgsU4a9RWyA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/C6AzGLJScGF"
+    }
+  ],
+  "other": {
+    "update_info": "V1.0.8新版更新：修复了在没有关键帧的情况下应用转换时的脚本错误",
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "yazv"
+    },
+    "tutorial_links": [
+      {
+        "name": "城通网盘教程下载",
+        "url": "https://089u.com/file/680462-465077662"
+      },
+      {
+        "name": "百度网盘教程下载",
+        "url": "https://pan.baidu.com/s/11mOXUYEA3wUI5pE4RzzXvw",
+        "password": "54kg"
+      }
+    ]
+  }
+}

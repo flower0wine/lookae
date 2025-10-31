@@ -1,0 +1,76 @@
+{
+  "title": "灰猩猩出品100种 LUTs 电影调色预设 GreyScaleGorilla – Grade LUTs",
+  "slug": "hui-xing-xing-chu-pin-100chong-luts-dian-ying-diao-se-yu-she-greyscalegorilla-grade-luts",
+  "author": "大众脸",
+  "post_date": "2017/03/20 21:01",
+  "source_url": "https://www.lookae.com/gsg-grade-luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "GreyScaleGorilla – Grade LUTs 提供超过100种电影级调色预设，包含 .cube、.3dl 和 .look 三种格式。这些3D LUT专为sRGB色彩空间设计，适用于各类后期制作流程，能快速赋予画面富有创意的胶片质感色彩。适用于3D渲染、实拍素材乃至手机拍摄的照片，帮助用户轻松提升作品的视觉表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/03/GSG-Grade-LUTs.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2016, Adobe After Effects CS6-CC 2016, Adobe Photoshop CS6-CC 2016, Final Cut Pro 7/X, DaVinci Resolve (Full & Lite), Avid MC 7, Sony Vegas, Edius, Motion 4/5 等",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/BQD179370146"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1slezxSD"
+    }
+  ],
+  "other": {
+    "home_url": "https://greyscalegorilla.com/downloads/gorillla-grade-luts/",
+    "lut_formats": [
+      ".cube",
+      ".3dl",
+      ".look"
+    ],
+    "color_space": "sRGB Look LUTs（不适用于LOG）",
+    "usage_tutorials": {
+      "high_quality_video_download": "https://pan.baidu.com/s/1dEdBwA1",
+      "software_instructions": {
+        "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+        "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+        "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+        "Vegas Pro": "需安装 LUTS 插件（https://www.lookae.com/ofxlut/）",
+        "Nuke": "Vectorfield",
+        "SCRATCH": "Color Scraffolds",
+        "Final Cut Pro X": "需使用 FCPX LUT Loader（https://www.lookae.com/lut-loader-15s/）",
+        "DaVinci Resolve": "直接使用或导入",
+        "通用方案": "Magic Bullet LUT Buddy（https://www.redgiant.com/downloads/free-products/）或 Looks 插件"
+      }
+    },
+    "related_resources": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      },
+      {
+        "title": "上万种LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ],
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

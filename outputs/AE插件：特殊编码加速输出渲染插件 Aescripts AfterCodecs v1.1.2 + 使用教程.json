@@ -1,0 +1,53 @@
+{
+  "title": "AE插件：特殊编码加速输出渲染插件 Aescripts AfterCodecs v1.1.2 + 使用教程",
+  "slug": "aecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/23 13:02",
+  "source_url": "https://www.lookae.com/aftercodecs112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects 设计的编码输出插件，支持输出 H264、H265 和 ProRes 等高质量编码格式。相比 AE 自带的输出功能，该插件渲染速度更快，生成的文件体积更小，同时保持更佳画质。它特别适用于需要高效输出专业视频格式的用户，例如支持带 Alpha 通道的 ProRes 444，以及针对高分辨率优化的 x264/x265 编码。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-203855898"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1gfzfSNh"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/aftercodecs/",
+    "update_notes": [
+      "Crash bug fix",
+      "ProRes bugs fixes",
+      "Added a “AfterCodecs AV Muxing” Dialog at the end of the render",
+      "Added encoder metadata to ProRes with AfterCodecs’ and ffmpeg’ version (e.g., “ProRes HQ (AFC 1.1.2 3.2.2)”), visible in AE and Premiere Pro",
+      "Added fast decode for x264 / x265 when resolution > HD",
+      "Preview text under “Format Options” now shows a brief description of chosen encoding parameters (e.g., “x264 Q75 (Streaming)”)",
+      "The encoding window is no longer always on top",
+      "Prevents overwriting files with the same name before rendering, prompting user to rename, overwrite, or cancel"
+    ],
+    "supported_codecs": {
+      "ProRes": [
+        "LT",
+        "Proxy",
+        "Normal",
+        "HQ",
+        "444 (with Alpha Channel)"
+      ],
+      "x264": "Best H264/AVC implementation, outperforming Adobe Media Encoder, QuickTime H264, and AE’s built-in H264",
+      "x265": "Files are 30% lighter than x264 and support 8K resolution",
+      "x264 RGB": "Avoids YUV colorspace; ideal for storing separate channels (e.g., UV map, Alphas); for power users only"
+    }
+  }
+}

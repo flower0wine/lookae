@@ -1,0 +1,29 @@
+{
+  "title": "AE脚本：画面分割旋转动画脚本 Videohive – Masker v1.0",
+  "slug": "aejiao-ben-hua-mian-fen-ge-xuan-zhuan-dong-hua-jiao-ben-videohive-masker-v1-0",
+  "author": "大众脸",
+  "post_date": "2016/08/08 15:41",
+  "source_url": "https://www.lookae.com/masker1/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Masker v1.0 是一款图层分割脚本，可将画面分割成多种矩形排列，支持控制宽度或高度，并提供灵活的控制系统。该脚本允许用户自定义分割方式，矩形的尺寸也可随机化，分割后的元素具备灵活的控制能力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Masker-v1.0.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：画面分割旋转动画脚本 Videohive – Masker v1.0",
+      "url": "http://lookae.ctfile.com/fs/D4p155012659"
+    }
+  ],
+  "other": {
+    "official_url": "https://videohive.net/item/masker-v10/11614542",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane"
+  }
+}

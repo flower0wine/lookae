@@ -1,0 +1,78 @@
+{
+  "title": "中文汉化AE脚本-MG运动图形高级工具脚本 Motion v3.30 修复闪屏 支持AE2022",
+  "slug": "zhong-wen-yi-hua-aejiao-ben-mgyun-dong-tu-xing-gao-ji-gong-ju-jiao-ben-motion-v3-30-xiu-fu-shan-ping-zhi-chi-ae2022",
+  "author": "大众脸",
+  "post_date": "2022-07-10T11:28:00Z",
+  "source_url": "https://www.lookae.com/motion-chn/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画脚本",
+    "Motion V3",
+    "中文汉化",
+    "墨忆江南汉化"
+  ],
+  "content": "Motion V3 是由 Mt. Mograph 推出的一款功能强大的 Adobe After Effects 脚本，提供超过45种独特工具和100多种自定义控件，广泛应用于高端运动图形制作。该脚本支持自定义UI界面，具备曲线调节、颜色控制、中心点对齐、滑块控制等多种高效快捷操作功能，被全球专业人士广泛使用。本版本为中文汉化版，已修复闪屏问题，并支持在无FQ环境下正常运行，适用于 After Effects CC 2018 至 2022 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Motion-3.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01PeHDQg1vSMjujZpei_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01oUP5ak1vSMhc2QyEq_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018, 2019, 2020, 2021, 2022",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-452328083"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1VAu72lkLBl8FbE96QBzLHw"
+    },
+    {
+      "name": "中文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-611566194-ac48ff?p=4431"
+    },
+    {
+      "name": "中文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1JtP8el51Aek3OnShY4T3RQ?pwd=xmke"
+    },
+    {
+      "name": "中文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/vWQuhV5DGWx"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-415312953"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1e3WgrgrEwtFV3PNDIy28zg"
+    }
+  ],
+  "other": {
+    "original_author": "@墨忆江南",
+    "license": "经作者同意，免费分享于 LOOKAE",
+    "installation_notes": [
+      "拷贝 com.mtmograph.motion-next 文件夹至 C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\（Windows）或 /Library/Application Support/Adobe/CEP/extensions（Mac）",
+      "Windows 运行 Add Keys.reg，Mac 运行 install-as-admin",
+      "在 AE 首选项中启用脚本读写与网络访问权限",
+      "通过 Window > Extensions 打开插件",
+      "首次使用需输入安装包内文本并回车加载，不建议更新以避免注册失效"
+    ],
+    "additional_info": [
+      "首次打开插件可能需要等待约1分钟，取决于电脑性能",
+      "若 AE 2022 无法启动，请升级到最新内核版本",
+      "进入插件后请关闭自动插件功能",
+      "首次进入会自动下载最新版，但不要安装以免影响汉化与激活"
+    ],
+    "changelog": [
+      "优化设置文本内容",
+      "修改 Motion3 服务器验证机制",
+      "国内无需 FQ 即可正常访问",
+      "修复稀奇古怪情况下的闪屏问题",
+      "修复断网模式下无法使用的问题"
+    ]
+  }
+}

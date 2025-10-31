@@ -1,0 +1,29 @@
+{
+  "title": "AE插件：专业快速抠像插件Aescripts Screen Equalizer v1.0.0（含教程）",
+  "slug": "aecha-jian-zhuan-ye-kuai-su-kou-xiang-cha-jian-aescripts-screen-equalizer-v1-0-0-han-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014-04-30 17:55",
+  "source_url": "https://www.lookae.com/screen-equalizer/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "win64",
+    "抠像插件"
+  ],
+  "content": "Aescripts 出品的 Screen Equalizer v1.0.0 是一款专为 Adobe After Effects 设计的抠像辅助插件。它利用干净的背景板自动平衡绿幕中的褶皱、缺陷或光线不均，使背景更纯净，从而大幅简化抠像流程，节省大量逐帧修补或多通道抠像时间。部分场景下，只需添加该插件即可一键完成高质量抠像，让用户把精力投入到画面精修而非反复调试键控参数。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/Screen-Equalizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE（仅 Windows 64 位）",
+  "supported_os": "Windows 64-bit",
+  "download_links": [
+    {
+      "name": "Screen Equalizer v1.0.0 含教程",
+      "url": "https://www.400gb.com/file/63726471"
+    }
+  ],
+  "other": {
+    "homepage": "http://aescripts.com/screen-equalizer/"
+  }
+}

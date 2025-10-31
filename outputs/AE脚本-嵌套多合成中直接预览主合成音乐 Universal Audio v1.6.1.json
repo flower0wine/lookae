@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-嵌套多合成中直接预览主合成音乐 Universal Audio v1.6.1",
+  "slug": "aejiao-ben-qian-tao-duo-he-cheng-zhong-zhi-jie-yu-lan-zhu-he-cheng-yin-le-universal-audio-v1-6-1",
+  "author": "大众脸",
+  "post_date": "2019/04/29 21:39",
+  "source_url": "https://www.lookae.com/universal-161/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本解决了在 After Effects 中处理嵌套合成时无法直接预览主合成音乐的问题。通常，用户需要在主合成中试听音乐以配合动画效果，但当使用多个子合成或嵌套结构时，频繁切换回主合成非常繁琐。Universal Audio 脚本允许用户在任意子合成或嵌套合成中直接听到主合成中的音频，从而提升动画与语音（VO）或音乐同步的工作效率。只需一键操作，即可让音频贯穿整个项目，无论当前处于哪个合成，都能获得音频参考和标记，便于动画制作与编辑。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Universal-Audio.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50027492931.mp4"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-369452207"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1NJCu1o2Vp-gfgNgnKnKDHg"
+    }
+  ],
+  "other": {
+    "extract_code": "bbho",
+    "official_store_url": "https://lookae.taobao.com/",
+    "sponsor_url": "https://www.lookae.com/sponsor/",
+    "aescripts_url": "http://aescripts.com/universal-audio/",
+    "changelog": [
+      "启用包含视觉参考时，参考图层不再自动缩放到角落",
+      "修正了在某些情况下UA层变为独奏的问题",
+      "错误修复和更新许可",
+      "错误修复有关循环引用的错误",
+      "增加了单一补偿模式",
+      "添加了UA颜色选项",
+      "标记在CC 2019中保留其标签颜色",
+      "增加了对浮动许可证的支持"
+    ]
+  }
+}

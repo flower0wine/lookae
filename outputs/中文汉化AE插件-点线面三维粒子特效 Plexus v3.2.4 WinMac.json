@@ -1,0 +1,67 @@
+{
+  "title": "中文汉化AE插件-点线面三维粒子特效 Plexus v3.2.4 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-dian-xian-mian-san-wei-li-zi-te-xiao-plexus-v3-2-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/12/24 16:14",
+  "source_url": "https://www.lookae.com/plexus-324/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "中文汉化",
+    "粒子插件"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。不仅可渲染粒子，还能基于多种参数建立粒子之间的复杂关系。其工作流高度模块化，允许用户构建无限多的配置与参数组合。该插件支持点、线、面等三维粒子效果制作，渲染速度快，并支持导入3D模型（如OBJ格式）作为粒子发射器。此外，可通过路径、文字、灯光等方式生成粒子发射，操作方式具有创新性。内置多种自定义特效，包括分形、颜色控制、球形场、阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/Plexus-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/341819600475.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014 – 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版v3.2.4 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-530456987-eb60a6"
+    },
+    {
+      "name": "Win版v3.2.4 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Z7CWvLxwv8QBZXcmD6wlOA"
+    },
+    {
+      "name": "Win版v3.2.4 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/hEhq7Vj13YC"
+    },
+    {
+      "name": "Mac版v3.2.3 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-530456947-5a5a86"
+    },
+    {
+      "name": "Mac版v3.2.3 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17yNfdW4O0MJixKbxpU8Hbw"
+    },
+    {
+      "name": "Mac版v3.2.3 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/3HFScCSSyxd"
+    }
+  ],
+  "other": {
+    "update_notes": "v3.2.4 更新内容：修正了一些BUG小错误",
+    "tutorial_links": [
+      "https://lookae.ctfile.com/fs/ZI4154455817",
+      "https://pan.baidu.com/s/1hsvzYvi"
+    ],
+    "related_tags": [
+      "AE插件",
+      "Plexus",
+      "中文汉化",
+      "粒子插件"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ]
+  }
+}

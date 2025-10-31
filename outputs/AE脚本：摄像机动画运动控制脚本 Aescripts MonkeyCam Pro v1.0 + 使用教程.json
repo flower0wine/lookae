@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本：摄像机动画运动控制脚本 Aescripts MonkeyCam Pro v1.0 + 使用教程",
+  "slug": "aejiao-ben-she-xiang-ji-dong-hua-yun-dong-kong-zhi-jiao-ben-aescripts-monkeycam-pro-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-07-12",
+  "source_url": "https://www.lookae.com/monkeycam/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "MonkeyCam Pro 是一款用于After Effects的程序化摄像机动画工具，可以在3D空间中轻松创建复杂的摄像机移动。该脚本具有即时设置功能和突破性的运动算法，可消除万向节锁定问题。MonkeyCam Pro是Monkey Tools系列中的最新产品，旨在完美平衡功能强大性和操作简便性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/MonkeyCam.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2014 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Aescripts MonkeyCam Pro v1.0",
+      "url": "http://lookae.ctfile.com/fs/znS153758935"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "features": [
+      "在AE中容易地控制和设置摄像机动画",
+      "支持摄像机动画制作多个目标点控制",
+      "可调节运动模糊、焦距、抖动等属性",
+      "包含多种插值选项和基于标记的时间控制"
+    ]
+  }
+}

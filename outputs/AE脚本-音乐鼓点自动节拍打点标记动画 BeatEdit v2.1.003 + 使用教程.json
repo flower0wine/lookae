@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-音乐鼓点自动节拍打点标记动画 BeatEdit v2.1.003 + 使用教程",
+  "slug": "aejiao-ben-yin-le-gu-dian-zi-dong-jie-pai-da-dian-biao-ji-dong-hua-beatedit-v2-1-003-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/10/14 23:19",
+  "source_url": "https://www.lookae.com/beatedit-21003/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "自动节拍插件"
+  ],
+  "content": "BeatEdit将更改After Effects中的音乐动画方式。它可以自动检测音乐曲目中的节拍，并允许您对它们进行任何操作：创建节拍标记，为滑块设置动画效果，为图层设置动画效果，重复关键帧等等。\n\nBeatEdit will change the way you animate to music in After Effects. It auto-detects beats in a music track and allows you to do anything you like with them: create beat markers, animate sliders, animate layers, repeat keyframes, and much more.\n\n**脚本特征：**\n\n* 节拍检测： BeatEdit具有由波尔图（葡萄牙）和维多利亚（加拿大）的大学开发的高精度节拍检测器。这款节拍跟踪器超越了简单的峰值检测，它结合了多种方法和大量专业知识，即使在节拍不明显的歌曲中也可以获得准确的结果。\n* 标记：将节拍可视化为乐曲中的标记。您还可以轻松地复制，粘贴和移动标记。\n* Beat Wiggle：无论您是要对滑块，2D或3D图层进行动画处理，还是要对素材进行时间重映射**-Beat Wiggle**都能完成。无限的可能性，完全的控制和大量的预设。它甚至支持节拍模式，因此每个节拍的动画表现都不同。\n* 重复关键帧： BeatEdit当然可以与节拍同步重复关键帧动画，但是它还具有强大的*连续模式*，该*模式*可以抵消每次重复，从而使它精确地从上一个结束处开始。\n* 交错层和关键帧：希望您的文本随节拍逐步显示，还是将关键帧与音乐同步？我们交错的功能是您最好的朋友！\n* 节拍选择： BeatEdit使您可以完全控制动画对节拍的反应-您可以选择仅每四个节拍选择一次，随机选择节拍或细分节拍。BeatEdit甚至可以对音乐中与节奏有关的其他点做出反应，以创造更多变化。\n\nv2.1.003更新：- 用于改进节拍检测的新量化功能；- 修复了复制/粘贴问题",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/AE-BeatEdit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-517658751-cba974"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/155BKlwC39V6fZ5_8u8uT1Q"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://089u.com/file/680462-472705814"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/13cIbfklpOY_czKgTZc5J4A"
+    }
+  ],
+  "other": {}
+}

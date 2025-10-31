@@ -1,0 +1,57 @@
+{
+  "title": "红巨人跟踪抠像光工厂视觉特效套装AE/PR插件VFX v2.1.0 Win/Mac",
+  "slug": "hong-ju-ren-gen-zong-kou-xiang-guang-gong-han-shi-jue-te-xiao-tao-zhuang-ae-prcha-jian-vfx-v2-1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/12/08 15:55",
+  "source_url": "https://www.lookae.com/vfxsuite-21/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "这是一款红巨人跟踪抠像光工厂视觉特效套装AE/PR插件VFX v2.1.0，可在Win和Mac系统使用。v2.1更新包含对多个VFX套件工具的改进，添加对阴影和反射的Metal支持，部分工具针对Apple芯片优化，Bang优化了模糊和发光效果计算以提升性能，并修复了各种错误。该套装可在After Effects中完成抠像、跟踪等视觉效果合成，新加入Bang插件用于创建3D枪口闪光，还升级了Primatte Keyer以兼容Apple Metal GPU加速。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/VFXSuite-21.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/326995793203.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022；Premiere Pro CC 2019, 2020, 2021, 2022部分插件支持",
+  "supported_os": "Win10/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-527563883-3694b7"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1TZE-xnct60JAVwZ4ugk4xg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/yR4YQ9xK1Dp"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "软件/插件"
+    ],
+    "VFX Suite v2.1.0包含插件": [
+      "Bang V2.0.0 3D枪口闪光插件 (新加入插件)",
+      "Chromatic Displacement v1.0.4 色差置换插件",
+      "Lens Distortion Matcher v1.0.2 镜头失真变形",
+      "Knoll Light Factory v3.1.2 光工厂镜头光晕插件",
+      "King Pin Tracker v1.5.1 平面跟踪插件",
+      "Optical Glow v1.5.2 智能辉光插件",
+      "Primatte Keyer v6.0.3 专业抠像插件",
+      "Shadow v1.5.1 投影插件",
+      "Reflection v1.5.1 反射插件",
+      "Spot Clone Tracke v1.0.5 物体移除替换克隆跟踪插件",
+      "Supercomp v1.5.4 超强特效合成插件"
+    ]
+  }
+}

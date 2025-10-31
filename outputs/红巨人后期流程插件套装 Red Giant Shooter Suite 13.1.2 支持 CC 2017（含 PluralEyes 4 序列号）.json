@@ -1,0 +1,55 @@
+{
+  "title": "红巨人后期流程插件套装 Red Giant Shooter Suite 13.1.2 支持 CC 2017（含 PluralEyes 4 序列号）",
+  "slug": "hong-ju-ren-hou-qi-liu-cheng-cha-jian-tao-zhuang-red-giant-shooter-suite-13-1-2-zhi-chi-cc-2017-han-pluraleyes-4-xu-lie-hao",
+  "author": "大众脸",
+  "post_date": "2016/11/05 17:26",
+  "source_url": "https://www.lookae.com/shooter-1312/",
+  "category": "aechajian",
+  "tags": [
+    "Adobe CC 2017",
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Shooter Suite 13.1.2 是专为摄影师和编辑人员设计的后期流程插件套装，支持从摄像机和音频设备获取的媒体素材处理。该套件包含四款工具，确保视频与音频在拍摄后能安全、准确地同步进入剪辑时间线。适用于 Adobe After Effects、Premiere Pro、Final Cut Pro X、Avid Media Composer 等主流剪辑软件。本版本更新支持 Adobe CC 2017，并修复了 Plural Eyes v4 无响应的问题。插件涵盖音视频自动同步、素材备份、4K高清处理及转场功能，显著提升后期工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/shooter13.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://pan.baidu.com/s/1dFbsEid"
+    },
+    {
+      "name": "Mac OSX 苹果版下载",
+      "url": "https://pan.baidu.com/s/1jHL9yuy"
+    }
+  ],
+  "other": {
+    "plugin_intro_url": "http://www.redgiant.com/products/shooter-suite/",
+    "plugin_updates": "支持 Adobe CC 2017，修复 Plural Eyes v4 无响应问题",
+    "plugins_included": [
+      "Plural Eyes v4.1.1 - 音视频自动同步插件",
+      "Offload v1.0.2 - 素材备份工具",
+      "Instant 4K v1.5.2 - 高清插件（支持4K）",
+      "Frames v1.1.5 - 转场插件（用于素材上下场）"
+    ],
+    "registration_codes": {
+      "PluralEyes 4": "PFEK1245921362842515",
+      "Frames 1.1": "MBFK1245843484599512",
+      "Instant 4K": "IHDK1245843086124132",
+      "Offload 1.0": "OFLK1245858439487526"
+    },
+    "support_software": [
+      "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015.3, CC 2017",
+      "Adobe Premiere Pro CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015.3, CC 2017",
+      "Final Cut Pro 6, 7, Final Cut Pro X",
+      "Avid Media Composer 7 or later"
+    ]
+  }
+}

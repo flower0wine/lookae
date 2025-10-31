@@ -1,0 +1,73 @@
+{
+  "title": "Win/Mac版：80组LUTs好莱坞电影胶片调色预设 80 LUTs Color Grading Pack",
+  "slug": "win-macban-80zu-lutshao-lai-wu-dian-ying-xiao-pian-diao-se-yu-she-80-luts-color-grading-pack",
+  "author": "大众脸",
+  "post_date": "2016-02-25",
+  "source_url": "https://www.lookae.com/80luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "这是一套包含80组的专业电影调色预设，采用.cube格式，包含LOG、Rec.709、Utilities三种模式。LUT能够快速完成画面调色，提供丰富的动态色彩，使画面呈现电影胶片质感。该预设包基于最著名的电影风格制作，适用于多种主流后期软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/80LUTs.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2ANxFkFXXXXX_XpXXXXXXXXXX_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+  ],
+  "supported_versions": "CS6-CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/file/143543960"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1qWT2TrQ"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "AE模板",
+      "After Effects",
+      "LUTs",
+      "Mac 专区",
+      "其他辐射",
+      "素材",
+      "软件/插件"
+    ],
+    "official_website": "http://luts.iwltbap.com/",
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere",
+      "Adobe After Effects",
+      "Adobe Photoshop",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ]
+  }
+}

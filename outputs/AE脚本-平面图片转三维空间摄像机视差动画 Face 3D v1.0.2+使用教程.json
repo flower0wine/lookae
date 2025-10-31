@@ -1,0 +1,61 @@
+{
+  "title": "AE脚本-平面图片转三维空间摄像机视差动画 Face 3D v1.0.2+使用教程",
+  "slug": "aejiao-ben-ping-mian-tu-pian-zhuan-san-wei-kong-jian-she-xiang-ji-shi-chai-dong-hua-face-3d-v1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/10/15 08:19",
+  "source_url": "https://www.lookae.com/face-3d-102/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Face 3D",
+    "视差动画"
+  ],
+  "content": "让您的照片栩栩如生！一款功能强大的 3D 肖像和照片动画工具，使用起来非常简单、速度快，并且由 AI 提供支持。它可以将照片变成可以完全动画化的真实 3D 模型！\n\nBring your photos to life! A powerful 3D portrait and photo animation tool that is incredibly easy to use, fast and powered by AI. It turns photos into real 3D models that can be fully animated!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Face-3D.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/478477485024.mp4"
+  ],
+  "supported_versions": "After Effects v24.2 及以上版本",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1384310101-e52bfa?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1FyjFhJhh08OsjOUbali81Q?pwd=m9v9"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/Jph25dsNjNV"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1345507579-a43474?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1ZWVcZbsMW9QagrcbdHiprA?pwd=92q7"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.alipan.com/s/w5qKu14u3Qg"
+    }
+  ],
+  "other": {
+    "important_requirements": "此插件使用 Blender 进行后台处理。要使其工作，您需要为您的操作系统安装完全免费的 Blender 软件下载：https://www.lookae.com/blender-42/",
+    "update_log": [
+      "修复了 Mac OS 上用户尝试更改项目路径时出现的错误",
+      "如果 After Effects 版本低于 24.2，用户会收到警告",
+      "如果显卡不支持高级 3D 渲染器，用户会收到警告",
+      "修复了 Mac OS 上标准用户帐户出现的错误"
+    ],
+    "passwords": {
+      "城通网盘访问密码": "6688",
+      "百度网盘提取码": "m9v9, 92q7"
+    }
+  }
+}

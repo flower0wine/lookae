@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-图层混合和分散属性工具 Blend Scatter v1.5+使用教程",
+  "slug": "aejiao-ben-tu-ceng-hun-he-he-fen-san-shu-xing-gong-ju-blend-scatter-v1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/11/18 12:13",
+  "source_url": "https://www.lookae.com/blend-scatter-15/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "在 After Effects 中轻松混合和分散属性。Blend Scatter is a tool for After Effects that blends and scatters properties. Easy to use! 插件特征：* 复制图层并自动混合或分散属性。* 轻松为所有选定的图层选择相同的属性。* 支持几乎所有属性，包括颜色、3D 和效果。* 不使用表达式并可以添加关键帧。* 简单的用户界面面板。* 工作非常快。v1.5更新内容：简化撤消操作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/Blend-Scatter.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/493163159509.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1427536990-75586f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1vUJ86TFtKYkwWuWSrwLiEA?pwd=m226"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/7a4vGPWsV61"
+    }
+  ],
+  "other": {
+    "additional_categories": [
+      "After Effects"
+    ]
+  }
+}

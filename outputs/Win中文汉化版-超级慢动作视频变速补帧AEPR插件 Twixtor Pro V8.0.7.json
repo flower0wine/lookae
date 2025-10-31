@@ -1,0 +1,44 @@
+{
+  "title": "Win中文汉化版-超级慢动作视频变速补帧AE/PR插件 Twixtor Pro V8.0.7",
+  "slug": "winzhong-wen-yi-hua-ban-chao-ji-man-dong-zuo-shi-pin-bian-su-bu-zheng-ae-prcha-jian-twixtor-pro-v8-0-7",
+  "author": "大众脸",
+  "post_date": "2025/06/27 09:45",
+  "source_url": "https://www.lookae.com/twixtor-752/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Twixtor Pro",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "Twixtor Pro是一款超级慢动作视频变速升格补帧插件，能够无极地减慢、加速或变更连续图像的帧速，带来惊人的视觉效果。支持GUP加速渲染和多帧渲染。提供中文和英文版，一键集成选择安装，仅支持Win版，不支持Mac版。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/Twixtor6.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/408709105329.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025; PR CC 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Win 64位（不支持32位系统，不支持Mac苹果系统）",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=667865599364"
+    }
+  ],
+  "other": {
+    "price": "¥8",
+    "features": [
+      "支持GUP加速渲染",
+      "支持多帧渲染",
+      "中文汉化版",
+      "无极变速补帧"
+    ],
+    "notes": [
+      "由于技术限制和疏漏极少部分参数可能未做汉化",
+      "转译编码的特殊性，可能存在潜在BUG",
+      "仅提供工具，不提供任何视频教程和使用教学"
+    ]
+  }
+}

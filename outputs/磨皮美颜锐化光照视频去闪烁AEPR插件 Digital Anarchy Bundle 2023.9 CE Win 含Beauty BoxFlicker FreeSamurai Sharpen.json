@@ -1,0 +1,68 @@
+{
+  "title": "磨皮美颜锐化光照视频去闪烁AE/PR插件 Digital Anarchy Bundle 2023.9 CE Win 含Beauty Box/Flicker Free/Samurai Sharpen",
+  "slug": "mo-pi-mei-yan-rui-hua-guang-zhao-shi-pin-qu-shan-shuo-ae-prcha-jian-digital-anarchy-bundle-2023-9-ce-win-han-beauty-box-flicker-free-samurai-sharpen",
+  "author": "大众脸",
+  "post_date": "2023/10/16 23:00",
+  "source_url": "https://www.lookae.com/digital-anarchy-20239/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "磨皮插件"
+  ],
+  "content": "包含Digital Anarchy插件的合集，拥有该公司多个常用插件，支持Windows系统的Premiere Pro和After Effects软件。插件由Team V.R提供，支持一键安装使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/Digital-Anarchy-2021-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015 – 2024, Premiere Pro CC 2015 – 2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-960409557-cea43e?p=4431"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1LH4wXGNIwPgp8dnWG8HqpA?pwd=cjab"
+    },
+    {
+      "name": "英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/aMxWv8w3zPW"
+    },
+    {
+      "name": "中文版 - LookAE",
+      "url": "https://www.lookae.com/digital-anarchy-202111/"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      {
+        "name": "Beauty Box",
+        "version": "v5.0.10",
+        "description": "人像磨皮润肤美颜视频插件"
+      },
+      {
+        "name": "Flicker Free",
+        "version": "v2.2.3",
+        "description": "视频去闪烁插件"
+      },
+      {
+        "name": "Light Wrap",
+        "version": "v1.2.6",
+        "description": "扣像边缘模拟真实光照插件"
+      },
+      {
+        "name": "Power Search",
+        "version": "v3.0.1",
+        "description": "元数据搜索工具（仅支持PR）"
+      },
+      {
+        "name": "Samurai",
+        "version": "v1.2.6",
+        "description": "视频智能锐化清晰插件"
+      }
+    ],
+    "password": "6688"
+  }
+}

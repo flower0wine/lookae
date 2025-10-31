@@ -1,0 +1,49 @@
+{
+  "title": "MG图形变化动画工具AE脚本 ShapeMonkey v1.05+视频教程",
+  "slug": "mgtu-xing-bian-hua-dong-hua-gong-ju-aejiao-ben-shapemonkey-v1-05-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/10/06 21:47",
+  "source_url": "https://www.lookae.com/shapemonkey-105/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "ShapeMonkey"
+  ],
+  "content": "ShapeMonkey脚本可以生成各种复杂的形状层动画，支持Color Swatches配色，是制作MG动画不错的选择，简单易用。Generate an endless variety of complex shape layer animations in seconds. Works with text & vectors too。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ShapeMonkey.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-953595423-647b2d?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Ot3FuTcQgQdrtAo6TyuVdQ?pwd=y9fk"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/27D51oksn77"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/jhy171345326"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1eHoNvQDDI3kC4mB1C-CEIg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘_脚本": "6688",
+      "百度网盘_脚本": "y9fk",
+      "百度网盘_教程": "ppky"
+    },
+    "update_notes": "v1.05更新内容：更新许可证框架"
+  }
+}

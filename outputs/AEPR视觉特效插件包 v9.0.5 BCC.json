@@ -1,0 +1,61 @@
+{
+  "title": "AE/PR视觉特效插件包 v9.0.5 BCC",
+  "slug": "ae-prshi-jue-te-xiao-cha-jian-bao-v9-0-5-bcc",
+  "author": "大众脸",
+  "post_date": "2015-08-11T16:16:00Z",
+  "source_url": "https://www.lookae.com/bcc905/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC",
+    "PR插件"
+  ],
+  "content": "BCC（Boris Continuum Complete 9 FxPlug）是一款强大的视觉特效插件，适用于 Adobe After Effects 和 Premiere Pro。它提供超过230种滤镜与转场效果，包含3000多个预设，支持3D粒子、镜头光晕、图像修复、键控抠像、遮罩跟踪、发光、体积光照等高级功能。插件支持 Open GL 和双 CPU 加速，兼容 Adobe Premiere Pro CS5 至 CC 2015 以及 Adobe After Effects CS5 至 CC 2015。BCC 9 是影视后期制作中广泛使用的专业级特效解决方案。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/BCC905.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro CS5 – CC 2015, Adobe After Effects CS5 – CC 2015",
+  "supported_os": "Windows, macOS (Mac版另提供)",
+  "download_links": [
+    {
+      "name": "Win版：AE/PR视觉特效插件包 Boris Continuum Complete v9.0.5 BCC",
+      "url": "https://www.400gb.com/file/111984134"
+    },
+    {
+      "name": "Mac 苹果版下载（v9.0.4）",
+      "url": "https://www.400gb.com/file/104417696"
+    }
+  ],
+  "other": {
+    "product_highlights": [
+      "230+ filters and transitions",
+      "3000+ presets included FREE",
+      "FX Browser™",
+      "3D Particle Effects",
+      "Image Restoration",
+      "Keys & Mattes",
+      "True 3D Lens Flares",
+      "Extrusions",
+      "Volumetric Lighting Effects",
+      "Time-Based Effects",
+      "Blurs & Glows",
+      "Cinematic Effects"
+    ],
+    "developer": "Boris FX",
+    "description": "Boris FX 是 VFX 领域领先的软件与插件开发商，其产品线包括 Boris Continuum Complete (BCC)、Final Effects Complete (FEC)、Boris RED、Boris Graffiti 等。",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "related_tags": [
+      "AE插件",
+      "BCC",
+      "PR插件"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/others/",
+      "https://www.lookae.com/qitarjcj/"
+    ]
+  }
+}

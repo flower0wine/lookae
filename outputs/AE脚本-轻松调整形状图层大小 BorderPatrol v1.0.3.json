@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-轻松调整形状图层大小 BorderPatrol v1.0.3",
+  "slug": "aejiao-ben-qing-song-diao-zheng-xing-zhuang-tu-ceng-da-xiao-borderpatrol-v1-0-3",
+  "author": "大众脸",
+  "post_date": "2021-10-14",
+  "source_url": "https://www.lookae.com/borderpatrol-103/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "BorderPatrol 是一款 After Effects 脚本，可在保持笔触宽度与圆角不变的前提下，通过调整 shape layer 的 scale 属性快速改变形状大小；支持参数化与贝塞尔曲线路径，可灵活重新定位锚点或启用“折叠行程”选项将形状缩至零。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/BorderPatrol.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/281211650115.mp4"
+  ],
+  "supported_versions": "After Effects 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-517659745-26cfc6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jTqI0CFQu3TL5DHjAVRk6w"
+    }
+  ],
+  "other": {
+    "访问密码": "6688",
+    "提取码": "1qzv",
+    "更新日志": "1.0.3 修复了在将 BorderPatrol 应用于具有父级的形状图层时，形状图层位置会随机改变的错误。"
+  }
+}

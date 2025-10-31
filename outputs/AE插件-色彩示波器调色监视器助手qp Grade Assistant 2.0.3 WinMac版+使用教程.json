@@ -1,0 +1,33 @@
+{
+  "title": "AE插件-色彩示波器调色监视器助手qp Grade Assistant 2.0.3 Win/Mac版+使用教程",
+  "slug": "aecha-jian-se-cai-shi-bo-qi-diao-se-jian-shi-qi-zhu-shou-qp-grade-assistant-2-0-3-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/12/14 21:32",
+  "source_url": "https://www.lookae.com/grade-assistant/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Grade Assistant 是一款超级强大且实用的AE色彩示波器插件，在AE调色中必不可少的工具。虽然现在AE自带了示波器（在【窗口】-【Lumetri Scopes】），但是这个插件还是有优越和先进之处。插件能多方面直观的展示色彩信息，具有矢量和亮度示波器，以及其他，能够辅助色彩校正和颜色管理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/qp-Grade.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-325240375"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Vmi2N1-nDb94u-o6Iq8zZg"
+    }
+  ],
+  "other": {
+    "original_description": "Written completely from scratch as a native 64-bit plugin, qp Grade Assistant 2 provides the next generation of scopes and monitoring for compositing and grading in After Effects.",
+    "official_url": "https://aescripts.com/qp-grade-assistant/"
+  }
+}

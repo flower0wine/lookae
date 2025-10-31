@@ -1,0 +1,47 @@
+{
+  "title": "图层素材批量重命名AE脚本 AE Global Renamer v2.3.8+使用教程",
+  "slug": "tu-ceng-su-cai-pi-liang-zhong-ming-ming-aejiao-ben-ae-global-renamer-v2-3-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/05/24 08:58",
+  "source_url": "https://www.lookae.com/global-renamer-238/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "AE Global Renamer 是一款用于 After Effects 的批量重命名工具，支持对预合成、图层、文字层、属性名称、表达式、效果插件名称以及输出文件等进行批量重命名，并可为名称添加前后缀，非常适合管理包含大量图层的项目。该脚本具有极简的用户界面，并在 v2.3.8 版本中进行了许可更新。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/07/Global-Renamer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/331434366984.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 - 脚本",
+      "url": "https://url70.ctfile.com/f/2827370-860565636-8cbf1a?p=4431"
+    },
+    {
+      "name": "百度网盘 - 脚本",
+      "url": "https://pan.baidu.com/s/1qM9k786rp2P7LZFzxWWJIg?pwd=jccr"
+    },
+    {
+      "name": "阿里云盘 - 脚本",
+      "url": "https://www.aliyundrive.com/s/9PUg8XfKSuM"
+    },
+    {
+      "name": "城通网盘 - 使用教程",
+      "url": "https://lookae.ctfile.com/fs/680462-314558688"
+    },
+    {
+      "name": "百度网盘 - 使用教程",
+      "url": "https://pan.baidu.com/s/1O-wwK970Y1PRY9wyWmvkvA"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688"
+    }
+  }
+}

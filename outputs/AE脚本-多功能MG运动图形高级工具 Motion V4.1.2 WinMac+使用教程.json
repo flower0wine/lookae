@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-多功能MG运动图形高级工具 Motion V4.1.2 Win/Mac+使用教程",
+  "slug": "aejiao-ben-duo-gong-neng-mgyun-dong-tu-xing-gao-ji-gong-ju-motion-v4-1-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/06/12 17:07",
+  "source_url": "https://www.lookae.com/motion-v412/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画"
+  ],
+  "content": "Motion 4 是专为 After Effects 动画设计师打造的高级扩展工具，提供强大的功能和流畅的现代用户界面。它集成了超过 50 种工具和数百个控件，涵盖曲线调节、颜色控制、中心点对齐、关键帧管理、滑块与图层控制，以及多种用于快速制作 MG 动画的便捷操作。该工具被全球专业动画师广泛用于创建高端运动图形内容。最新 v4.1.2 版本新增了 Motion Poll、Stagger 和 Trim to Keys 等功能，并包含大量增强特性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/08/Motion4.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01ehAhRh1vSMthGAL1m_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2021, 2022, 2023",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-869073963-5d87a5?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17s6KJVaYbnfW8xLVIXDnUw?pwd=hlmw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YRft3opsG4Z"
+    }
+  ],
+  "other": {
+    "installation_note": "如果安装过旧版 Motion，请先删除旧版再安装新版，否则脚本可能无法正常显示。",
+    "original_english_description": "The most helpful Extension for motion designers using Adobe After Effects. Power through projects with a tour de force of tools and controls for professional animators. Motion v4.1.2 update and new Motion Poll, Stagger and Trim to Keys tools + tons of extras for M⁴"
+  }
+}

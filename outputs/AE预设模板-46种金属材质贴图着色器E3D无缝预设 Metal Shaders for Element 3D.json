@@ -1,0 +1,58 @@
+{
+  "title": "AE预设模板-46种金属材质贴图着色器E3D无缝预设 Metal Shaders for Element 3D",
+  "slug": "aeyu-she-mo-ban-46chong-jin-shu-cai-zhi-tie-tu-zhao-se-qi-e3dwu-feng-yu-she-metal-shaders-for-element-3d",
+  "author": "大众脸",
+  "post_date": "2020/04/13 13:49",
+  "source_url": "https://www.lookae.com/metal-shaders/",
+  "category": "aechajian",
+  "tags": [
+    "AE模板",
+    "AE预设"
+  ],
+  "content": "Metal Shaders 是 Element 3D 的金属材质包，包含 46 种不同的无缝金属预设，适用于 VideoCopilot 的 Element 3D 插件。这些材质可用于创建电影风格的标题或应用于 3D 对象，支持全高清分辨率（1920×1080）。该资源包包含完整的项目文件、3D 对象以及详细的视频教程，帮助用户快速上手并复现预览效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/46-Metal-Shaders.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 或更高版本（项目在 CS5 中创建，但材质适用于所有 After Effects 版本）",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-436911899"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Wvwj4K_4Hq4HFnO1XjbnEw"
+    }
+  ],
+  "other": {
+    "template_id": "4652664",
+    "resolution": "1920×1080",
+    "required_plugins": [
+      "Element 3D v1",
+      "Element 3D v2",
+      "Element 3D Pro Shaders"
+    ],
+    "template_format": "aep 原版工程",
+    "music_included": false,
+    "music_reference_link": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+    "duration": "none",
+    "package_versions": [
+      "具有预渲染光斑的项目文件",
+      "光学耀斑插件所有者的项目文件",
+      "Red Giant的Magic Bullet外观项目"
+    ],
+    "tutorials": [
+      "01.入门",
+      "02.使用E3D着色器创建标题",
+      "03.预览视频概述"
+    ],
+    "related_links": {
+      "more_templates": "https://www.lookae.com/after-effects/other-after-effects/",
+      "music_collection": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "sponsor": "https://www.lookae.com/sponsor/"
+    },
+    "baidu_netdisk_password": "5jif"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-实时预览修改预合成 PORTAL V1.1+使用教程",
+  "slug": "aejiao-ben-shi-shi-yu-lan-xiu-gai-yu-he-cheng-portal-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/09/01 09:06",
+  "source_url": "https://www.lookae.com/portal-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "合成修改"
+  ],
+  "content": "PORTAL 脚本可让您在预合成过程中实时查看主合成，确保内容同步。通过一键插入引导层，实现上下文感知的动态预览，无需来回跳转或猜测。修改主合成后，再次点击即可观察变化在所有嵌套合成中的传播。支持嵌套结构，非破坏性操作，对最终渲染安全且易于管理。适用于 AE 2024 及 2025 版本，兼容 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/PORTAL.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/526297176054.mp4"
+  ],
+  "supported_versions": "AE 2024, AE 2025",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8421361881-49d004?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1DEAznaLaUTH62vaXWWik8A?pwd=shqt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/YjwTFPsPg1d"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.1 更新：完美支持主合成的位置、旋转和比例在任意深度预合成中的转换，确保始终显示正确上下文。",
+    "related_tags": [
+      "AE脚本",
+      "合成修改"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "image_alt": "AE脚本-实时预览修改预合成 PORTAL V1.1+使用教程-LookAE.com"
+  }
+}

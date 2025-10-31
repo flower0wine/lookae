@@ -1,0 +1,52 @@
+{
+  "title": "更新：Ae/Pr/PS/OFX/达芬奇插件：射线体积光插件 DFT Rays v2.0",
+  "slug": "geng-xin-ae-pr-ps-ofx-da-fen-qi-cha-jian-she-xian-ti-ji-guang-cha-jian-dft-rays-v2-0",
+  "author": "大众脸",
+  "post_date": "2014/11/13 13:50",
+  "source_url": "https://www.lookae.com/dftrays2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "DFT",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "达芬奇插件"
+  ],
+  "content": "快速、轻松地创建令人惊叹的逼真光线效果。该插件可生成计算机图形中常见的体积照明效果，如黄昏时分穿过大气的光线。光线仅添加于高光区域，能产生穿透物体的视觉效果，并增强图像的第三维质感。支持从坐标点生成穿过森林树冠、云层、雾夜或文本发出的光束。适用于多种主流视频与图像处理软件，显著提升画面戏剧性与视觉冲击力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/08/DFT-Rays.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5, CS5.5, CS6, CC; Adobe Premiere Pro CS5, CS5.5, CS6, CC; Avid Symphony, Media Composer, Newscutter, Xpress Pro; Adobe Photoshop CS6 (64 Bit); OFX（Nuke, Resolve（达芬奇）, Scratch, Vegas）",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "射线体积光插件 DFT Rays v2.0",
+      "url": "https://www.400gb.com/file/78229346"
+    }
+  ],
+  "other": {
+    "official_description_url": "http://www.digitalfilmtools.com/rays/",
+    "additional_tags": [
+      "AE插件",
+      "DFT",
+      "OFX",
+      "PR插件",
+      "PS插件",
+      "达芬奇插件"
+    ],
+    "categories_linked": [
+      "AE插件",
+      "After Effects",
+      "DaVinci Resolve",
+      "Nuke",
+      "OFX",
+      "Photoshop",
+      "Premiere",
+      "Vegas",
+      "其他辐射",
+      "软件/插件"
+    ]
+  }
+}

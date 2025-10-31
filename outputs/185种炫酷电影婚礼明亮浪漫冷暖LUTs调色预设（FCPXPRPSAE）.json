@@ -1,0 +1,75 @@
+{
+  "title": "185种炫酷电影婚礼明亮浪漫冷暖LUTs调色预设（FCPX/PR/PS/AE）",
+  "slug": "185chong-xuan-ku-dian-ying-hun-li-ming-liang-lang-man-leng-nuan-lutsdiao-se-yu-she-fcpx-pr-ps-ae",
+  "author": "大众脸",
+  "post_date": "2019/01/17 11:55",
+  "source_url": "https://www.lookae.com/neo-great-luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUTS",
+    "调色预设"
+  ],
+  "content": "一套完整而专业的LUTs调色预设，有各种不同用途的类别。包含185个调色文件，适用于电影、婚礼、浪漫、恐怖等多种风格。.CUBE格式，兼容大多数后期处理软件，支持快速调色与色彩分级，帮助实现电影胶片质感的视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Neo-Great-LUTs-Pack-161419.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/218205749081.mp4?_=1",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2018, Adobe After Effects CS6-CC 2018, Adobe Photoshop CS6-CC 2018, Final Cut Pro X, DaVinci Resolve (Full & Lite), Avid MC 7, Shake, Sony Vegas, Edius, Pandora Revolution/Pixi, CineForm Studio Premium, Nuke, SCRATCH, Film Master, Quantel Pablo, BaseLight, Motion 5/4",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-331575600"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1iOiWgNcWe-KMIgs8bMB_Lg"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE模板",
+      "After Effects",
+      "FCPX资源",
+      "LUTs",
+      "Mac 专区",
+      "其他辐射",
+      "素材",
+      "素材/工程",
+      "软件/插件"
+    ],
+    "related_links": [
+      "https://www.lookae.com/lookaeluts/",
+      "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158",
+      "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/",
+      "https://www.lookae.com/tag/lut/"
+    ],
+    "usage_instructions": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Vegas Pro": "LUTS插件下载: https://www.lookae.com/ofxlut/",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "调用插件: FCPX LUT Loader (https://www.lookae.com/lut-loader-15s/)",
+      "DaVinci Resolve": "直接使用或导入",
+      "General Note": "只要软件能安装 Looks 新版的调色插件，就能使用Looks导入LUT使用",
+      "Recommended Tools": [
+        "Magic Bullet LUT Buddy (https://www.redgiant.com/downloads/free-products/)",
+        "FCPX软件 LUT 实用颜色工具 (https://www.lookae.com/fcpx-lut/)"
+      ]
+    },
+    "important_note": "FCPX 请使用这个插件调用LUTs预设：LUT Gallery (https://www.lookae.com/lut-gallery/)"
+  }
+}

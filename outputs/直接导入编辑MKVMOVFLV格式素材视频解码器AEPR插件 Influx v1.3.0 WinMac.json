@@ -1,0 +1,75 @@
+{
+  "title": "直接导入编辑MKV/MOV/FLV格式素材视频解码器AE/PR插件 Influx v1.3.0 Win/Mac",
+  "slug": "zhi-jie-dao-ru-bian-ji-mkv-mov-flvge-shi-su-cai-shi-pin-jie-ma-qi-ae-prcha-jian-influx-v1-3-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/05/22 12:46",
+  "source_url": "https://www.lookae.com/influx-125/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "视频解码器"
+  ],
+  "content": "Influx v1.3.0 是一款支持直接导入和编辑 MKV、MOV、FLV 等多种格式视频的 AE/PR 插件，无需外部转码即可在 After Effects 和 Premiere Pro 中使用。该插件集成 FFmpeg 引擎，支持广泛视频与音频编解码器，提升工作流效率。适用于 Windows 和 macOS 系统，兼容多个版本的 Adobe 软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Influx-Mac.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334057662148.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020, CC 2019; Audition 2023, 2022, 2021, 2020; Media Encoder 2023, 2022, 2021, 2020, CC 2019; Premiere 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Windows, macOS (最低支持版本 11.0 / 10.16 Big Sur)",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-859846179-0c37a3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1BWYYORL-aCc7gRKm4WyJAQ?pwd=6gwp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/t2WTxQHLiHM"
+    }
+  ],
+  "other": {
+    "formats_supported": [
+      ".MKV",
+      ".WebM",
+      ".FLV",
+      ".OGV",
+      ".BIK",
+      ".AVI",
+      ".MOV",
+      ".WMV",
+      ".VOB"
+    ],
+    "video_codecs_supported": [
+      "FFV1",
+      "VP8",
+      "VP9",
+      "Canopus HQ",
+      "H.264",
+      "H.265"
+    ],
+    "audio_codecs_supported": [
+      ".FLAC",
+      ".OPUS",
+      ".OGG Vorbis",
+      ".MKA",
+      ".WMA"
+    ],
+    "update_notes": [
+      "修复无法导入元数据中无持续时间的文件问题（感谢 Charwin）",
+      "修复 After Effects 中 alpha 通道丢失问题（感谢 Peter）",
+      "修复音频整合时导致 Influx 无响应的问题（感谢 Benson）",
+      "修复‘未知像素格式’解码错误（感谢 Etan）",
+      "修复超过 8 个音频通道的音频流解码问题",
+      "更新至 ffmpeg v5.1 库，新增对 QOI、JPEG XL、MSN Siren、GEM Raster、Speex 的支持（仅限 .influx 后缀导入）",
+      "macOS 最低支持版本更新为 11.0 / 10.16 (Big Sur)",
+      "修复多种错误及内存泄漏"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "中文汉化版-E3D三维模型AE插件Video Copilot Element 3D v2.2.2.2168 Win秋枫汉化",
+  "slug": "zhong-wen-yi-hua-ban-e3dsan-wei-mo-xing-aecha-jian-video-copilot-element-3d-v2-2-2-2168-winqiu-feng-yi-hua",
+  "author": "大众脸",
+  "post_date": "2019/04/23 13:58",
+  "source_url": "https://www.lookae.com/element-3d-2168-ch/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "Element 3D",
+    "Video Copilot",
+    "中文汉化"
+  ],
+  "content": "这是目前支持AE的最新中文版E3D插件，由秋枫汉化，亲测已完美可用。videocopilot推出的这款强大的AE三维模型插件功能强大，新版本支持直接加载C4D的材质和贴图，界面更美观实用，并新增了视图功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/E3D222.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 最新版（具体以实际兼容性为准）",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367671713"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jVyNBCluUU-3VMaR7_Zj1Q"
+    }
+  ],
+  "other": {
+    "original_install_guide": "先安装原版：https://www.lookae.com/e3d-2222168/，再将汉化文件夹中的 Element.aex 替换到AE插件目录。",
+    "plugin_price": "$199.95（约人民币1230元）",
+    "official_website": "https://www.videocopilot.net/products/element2/",
+    "baidu_pan_code": "no22"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "AI与AE实时交互MG动画制作神器AE脚本 Overlord v1.27 Win/Mac+使用教程",
+  "slug": "aiyu-aeshi-shi-jiao-hu-mgdong-hua-zhi-zuo-shen-qi-aejiao-ben-overlord-v1-27-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-11-01 15:37",
+  "source_url": "https://www.lookae.com/overlord-127/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Overlord"
+  ],
+  "content": "Overlord是一个扩展面板，当它们都打开时，可在Illustrator和After Effects之间创建一个门户。允许在AE和AI两个软件之间直接传输您需要图形形状，包括动画；而无需文件组织，导入，转换为形状图层或重绘。这是您在使用Adobe公司软件创建应用时最理想的矢量工作流程。也可以使用更强大的绘图工具将Ae形状图层转移回Illustrator软中进行编辑。可以将其视为使用Illustrator作为After Effects的插件。使用的是图形形状而不是文件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/Overlord-v1.24.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015 – 2024 或更高版本",
+  "supported_os": "Win/MAC",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-967206544-0c2dbd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cn2WF7NDMQsO8GQzwh0EPQ?pwd=75ts"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ssaqQ4Dn4fg"
+    }
+  ],
+  "other": {
+    "update_info": [
+      "脚本已经中文汉化，解决了在某种情况下在窗口打开后不正常显示的Bug",
+      "解决了在某种情况下打开插件窗口后，里面不显示工具的Bug",
+      "解决了在某种情况下无法输入激活码激活插件的Bug",
+      "高级设置页面全汉化，并隐藏一些菜单",
+      "修复兼容支持 AE 2022",
+      "修复颜色渐变出现断层的问题"
+    ]
+  }
+}

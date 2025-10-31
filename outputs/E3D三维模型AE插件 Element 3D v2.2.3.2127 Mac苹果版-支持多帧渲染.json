@@ -1,0 +1,55 @@
+{
+  "title": "E3D三维模型AE插件 Element 3D v2.2.3.2127 Mac苹果版-支持多帧渲染",
+  "slug": "e3dsan-wei-mo-xing-aecha-jian-element-3d-v2-2-3-2127-macping-guo-ban-zhi-chi-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2022/04/12 09:24",
+  "source_url": "https://www.lookae.com/mac-e3d223/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "E3D插件",
+    "Element 3D"
+  ],
+  "content": "Element 3D 是 After Effects 中强大的三维模型插件，基于 OpenGL 接口，支持显卡加速运算，具备实时渲染（real time rendering）能力，可在制作过程中直接预览渲染效果，显著提升 CG 制作效率。该插件可实现完整的 3D 渲染特性，无需额外处理摄像机同步、光影匹配、阴影、变形、反射贴图等复杂问题，大幅简化 3D 合成流程。配合 AE 内置的 Camera Tracker 功能，可完成高精度的 3D 后期合成特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/08/E3D-2169.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015, 2017, 2018, 2019, 2020, 2021, 2022 及更高版本",
+  "supported_os": "Mac 苹果系统 10.13.x - 12.x 或更高版本，支持 M1 芯片",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-567454634-3a34c4"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/14GK6qgELPKUmMbhlcDsTrA?pwd=2yr1"
+    },
+    {
+      "name": "英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Sx7D2xb7pxP"
+    },
+    {
+      "name": "中文汉化版 - Mac 苹果版",
+      "url": "https://www.lookae.com/e3d-maczh/"
+    },
+    {
+      "name": "中文汉化版 - Win 版本",
+      "url": "https://www.lookae.com/e3d-zh/"
+    }
+  ],
+  "other": {
+    "update_notes": "v2.2.3 更新内容：支持 AE 2022 多帧渲染；兼容 4K 显示器上的 UI 缩放；支持中文路径模型文件导入。",
+    "related_categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "E3D插件": "https://www.lookae.com/tag/e3d%e6%8f%92%e4%bb%b6/",
+      "Element 3D": "https://www.lookae.com/tag/element-3d/"
+    }
+  }
+}

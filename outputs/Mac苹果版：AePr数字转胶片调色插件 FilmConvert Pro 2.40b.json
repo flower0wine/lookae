@@ -1,0 +1,47 @@
+{
+  "title": "Mac苹果版：Ae/Pr数字转胶片调色插件 FilmConvert Pro 2.40b",
+  "slug": "macping-guo-ban-ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-pro-2-40b",
+  "author": "大众脸",
+  "post_date": "2018/10/31 20:31",
+  "source_url": "https://www.lookae.com/filmconvert240/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "FilmConvert Pro 是一款专业的数字转胶片调色插件，能够将数字摄影机拍摄的素材色彩转换成胶片色彩。它可作为独立程序使用，也可作为插件集成到Adobe系列软件中。插件支持调整曝光、色温、添加颗粒感，并提供颜色三色轮、二级调色等多种属性调整功能。支持LUT预设文件导出和保存预设，支持GPU和CPU加速，兼容RED、DSLR、MOV等多种素材格式，内置多种胶片预设（8MM-35MM镜头噪点设置），操作流程简单，并支持4K输出。V2.40版本主要修复了Premiere中OpenCL无法正常使用的问题，并新增了对Adobe CC 2019的支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/AEFilmConvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015–CC 2019, Premiere Pro CC 2015–CC 2019",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-317314222"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kWU9p_bEL5byd_Eg-e1i3g"
+    }
+  ],
+  "other": {
+    "author_info": "大众脸",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "related_links": {
+      "camera_presets_download": "https://www.filmconvert.com/download/camera-profile",
+      "taobao_store": "https://lookae.taobao.com/",
+      "win_version": "https://www.lookae.com/filmconvert239/"
+    },
+    "plugin_homepage": "https://www.filmconvert.com/plugin/adobe"
+  }
+}

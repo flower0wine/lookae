@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-脚本表达式代码编辑开发工具 MoCode v1.3.9 + 使用教程",
+  "slug": "aejiao-ben-jiao-ben-biao-da-shi-dai-ma-bian-ji-kai-fa-gong-ju-mocode-v1-3-9-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 17:47",
+  "source_url": "https://www.lookae.com/mocode-139/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "MoCode在After Effects中为初学者和专家带来了一个完整的开发环境和一个工具栏。它不仅是代码编辑器，还是一种全新的方式，可以快速轻松地编写表达式和脚本，进行保存、分类和再次使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/MoCode.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021、2020、CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520619127-2ad196"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13JlI3MJOh7IxgnakFG-_ww"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/f8AGWRM1svZ"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-465077520"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1R2LUfellO0TenPdAHnGfcg"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.3.4更新内容：\n– 改进的自动补全行为\n– 添加到自动补全的文本表达式",
+    "passwords": {
+      "城通网盘_脚本": "6688",
+      "百度网盘_脚本": "xs1o",
+      "百度网盘_教程": "75mf"
+    }
+  }
+}

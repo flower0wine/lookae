@@ -1,0 +1,36 @@
+{
+  "title": "Win版：Ae/Pr 视觉特效+转场BCC插件包 2019 v12",
+  "slug": "winban-ae-pr-shi-jue-te-xiao-zhuan-chang-bcccha-jian-bao-2019-v12",
+  "author": "大众脸",
+  "post_date": "2018/11/15 10:40",
+  "source_url": "https://www.lookae.com/bcc-2019/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "WIN"
+  ],
+  "content": "强大的 BCC 视觉特效插件包 Boris Continuum Complete 为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持Open GL 和双 CPU加速。BCC 10 拥有超过百种特效效果：字幕（3D字幕），3D粒子，老电影，光线，画中画，镜头光晕，烟雾，火等等，还有调色，键控/抠像，遮罩，跟踪，发光等等一系列风格化工具。BCC 10 包括多种视频特效和多种视频转场，支持AE和PR软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/BCC-2019.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/213739335488.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019, Premiere Pro CS6 – CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-319979392"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1dZn-d4Cc3aphCaZZPAR6mw"
+    }
+  ],
+  "other": {
+    "mac_version_url": "https://www.lookae.com/mac-bcc12/",
+    "official_website": "https://borisfx.com/products/continuum/"
+  }
+}

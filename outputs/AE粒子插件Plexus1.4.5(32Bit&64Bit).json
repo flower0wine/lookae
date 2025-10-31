@@ -1,0 +1,50 @@
+{
+  "title": "AE粒子插件Plexus1.4.5(32Bit&64Bit)",
+  "slug": "aeli-zi-cha-jian-plexus1-4-5-32bit-64bit",
+  "author": "大众脸",
+  "post_date": "2012/06/03 16:04",
+  "source_url": "https://www.lookae.com/plexus1-4-5-32bit64bit/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "插件"
+  ],
+  "content": "Plexus是aescripts发布的AE 3D粒子插件，类似FORM，优势在于渲染速度快，并支持3D模型导入。用户可将3D模型保存为OBJ格式并导入AE作为粒子发射器，也可通过路径、文字和灯光创建粒子发射，操作方式独特。插件内置六种自定义特效，包括分形、颜色、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/06/plexusPUL.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6（仅64位版本）",
+  "supported_os": "Windows & Mac",
+  "download_links": [
+    {
+      "name": "Plexus For AE 32Bit (Win&Mac)",
+      "url": "http://www.ctdisk.com/file/8779323"
+    },
+    {
+      "name": "Plexus-For-AE-64Bit",
+      "url": "http://www.ctdisk.com/file/8779324"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "Plexus-完整教程(中文字幕)",
+        "url": "https://www.lookae.com/plexus-full-tutorial/"
+      },
+      {
+        "title": "Plexus作品：释放你的手指第一季Unleash Your Fingers 01",
+        "url": "https://www.lookae.com/unleash-your-fingers-01/"
+      },
+      {
+        "title": "释放你的手指第一季Unleash Your Fingers 01 AE制作教程",
+        "url": "https://www.lookae.com/unleash-your-fingers-tutorial/"
+      },
+      {
+        "title": "Plexus作品：释放你的手指第二季Unleash Your Fingers 02",
+        "url": "https://www.lookae.com/unleash-your-fingers-tutorial/"
+      }
+    ],
+    "official_url": "http://aescripts.com/plexus/"
+  }
+}

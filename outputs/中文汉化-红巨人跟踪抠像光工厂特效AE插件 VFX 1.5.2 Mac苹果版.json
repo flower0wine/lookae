@@ -1,0 +1,102 @@
+{
+  "title": "中文汉化-红巨人跟踪抠像光工厂特效AE插件 VFX 1.5.2 Mac苹果版",
+  "slug": "zhong-wen-yi-hua-hong-ju-ren-gen-zong-kou-xiang-guang-gong-han-te-xiao-aecha-jian-vfx-1-5-2-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2021-06-16T17:56:00Z",
+  "source_url": "https://www.lookae.com/vfxsuite-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "红巨人出品的 VFX Suite 视觉特效套装插件，提供包括光工厂、辉光、抠像、跟踪等在内的10个功能强大的特效插件。支持在 After Effects 和 Premiere Pro 中使用，特别适用于创建逼真的视觉合成效果。插件支持光与大气互动、镜头失真匹配、阴影反射生成等功能。本版本为 Mac 苹果系统专用，兼容 10.12 至 10.15 系统，支持 AE CC 2018–2021 及 PR CC 2018–2021。已提供中文汉化版本，便于快速识别功能与参数；其中 Supercomp 插件因兼容性问题保留英文原版。插件包含完整安装包及图文教程，支持一键安装与中英文语言切换。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/06/VFX-152-MAC-.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01l3AjiQ1vSMoEftyad_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01Ps5Rz91vSMo6qj6UP_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/314079796492.mp4"
+  ],
+  "supported_versions": "VFX 1.5.2",
+  "supported_os": "Mac OS X (不支持 Windows)",
+  "download_links": [
+    {
+      "name": "淘宝购买链接",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=647914177220"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/vfx-152/"
+    },
+    {
+      "name": "Win系统中文汉化版",
+      "url": "https://www.lookae.com/vfx-suite-ch/"
+    },
+    {
+      "name": "站内直接购买（支付¥10）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fvfxsuite-mac%2F"
+    }
+  ],
+  "other": {
+    "plugin_count": 10,
+    "plugins": [
+      "Chromatic Displacement v1.0.2 (支持AE和PR)",
+      "Lens Distortion v1.0.1 (仅支持AE)",
+      "Knoll Light Factory v3.1.2 (支持AE和PR)",
+      "King Pin Tracker v1.5.0 (仅支持AE)",
+      "Optical Glow v1.5.0 (支持AE和PR)",
+      "Primatte Keyer v6.0.2 (支持AE和PR)",
+      "Shadow v1.5.0 (仅支持AE)",
+      "Reflection v1.5.0 (仅支持AE)",
+      "Spot Clone Tracker v1.0.3 (仅支持AE)",
+      "Supercomp v1.5.2 (仅支持AE，无汉化)"
+    ],
+    "compatibility": {
+      "macos_versions": [
+        "10.12",
+        "10.13",
+        "10.14",
+        "10.15"
+      ],
+      "not_supported": [
+        "11.x 及以上版本"
+      ],
+      "ae_compatible": [
+        "CC 2018",
+        "CC 2019",
+        "2020",
+        "2021"
+      ],
+      "pr_compatible": [
+        "CC 2018",
+        "CC 2019",
+        "2020",
+        "2021"
+      ],
+      "pr_only_4_plugins": [
+        "Chromatic Displacement",
+        "Lens Distortion",
+        "Knoll Light Factory",
+        "Optical Glow",
+        "Primatte Keyer"
+      ]
+    },
+    "note": [
+      "安装补丁可随时切换中英文语言",
+      "部分参数可能未汉化（技术限制）",
+      "转译编码可能导致潜在BUG",
+      "光工厂界面汉化后文字过小",
+      "不提供使用教学或视频教程",
+      "Supercomp 插件因汉化后乱码/无法使用，故保留英文原版"
+    ],
+    "installation": "一键安装，自动识别插件目录",
+    "included": [
+      "英文原版程序完整包",
+      "中文汉化补丁",
+      "中文图文安装教程"
+    ]
+  }
+}

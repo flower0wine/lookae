@@ -1,0 +1,63 @@
+{
+  "title": "AE脚本-轻松快速显示渲染动画的图层边界运动路径 Cyclops v3.0.3",
+  "slug": "aejiao-ben-qing-song-kuai-su-xian-shi-xuan-ran-dong-hua-de-tu-ceng-bian-jie-yun-dong-lu-jing-cyclops-v3-0-3",
+  "author": "大众脸",
+  "post_date": "2024-10-24T14:17:00Z",
+  "source_url": "https://www.lookae.com/cyclops-303/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Cyclops 是 After Effects 的一个扩展脚本，可快速、轻松地显示动画图层的空图层、运动路径和图层边界框，适用于渲染演示动画。相比屏幕录制软件无法保证准确捕获，手动截图拼接又慢且易出错（如漏帧或重复帧），Cyclops 能实现像素级精确捕捉，并保留额外视觉信息，是制作高质量动画演示的首选工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Cyclops.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/478480349831.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1390045225-4e136d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1yVlEXtd40lyhtUPtG3VTOQ?pwd=m2hv"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/cin7D1nxJo5"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "[错误修复] 取消按钮现在实际上会取消当前渲染",
+      "[新功能] 改进了 macOS 上的安装体验",
+      "[新功能] 提高合成检测速度",
+      "[新功能] 与 AE 2025 及更早版本保持一致的 UI"
+    ],
+    "capture_types": [
+      "仅渲染活动构图",
+      "整个 After Effects 应用程序"
+    ],
+    "perfect_pixel": "独眼巨人很聪明，每次都能帮助创建完美的渲染。",
+    "render_types": [
+      "渲染普通视图",
+      "仅显示线框"
+    ],
+    "customizable_preferences": "自定义您的 Cyclops 首选项、提醒、警告等，以适合您的工作流程。",
+    "render_formats": [
+      "JPG",
+      "PNG",
+      "TIFF"
+    ],
+    "tutorial": {
+      "language": "中文",
+      "type": "字幕教程",
+      "platform": "B站",
+      "url": "https://www.bilibili.com/video/BV1ny4y1H7aV?p=2"
+    }
+  }
+}

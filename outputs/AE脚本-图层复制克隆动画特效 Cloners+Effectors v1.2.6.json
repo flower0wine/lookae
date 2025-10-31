@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-图层复制克隆动画特效 Cloners+Effectors v1.2.6",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-dong-hua-te-xiao-cloners-effectors-v1-2-6",
+  "author": "大众脸",
+  "post_date": "2021/10/15 00:21",
+  "source_url": "https://www.lookae.com/cloners-126/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Cloners + Effectors 是一个用于 After Effects 的程序化动画系统，特别适用于同时对多个图层进行动画制作。它允许用户通过效果器（Effectors）来驱动动画，而无需为每个图层单独设置关键帧。该工具灵活多变，完全可自定义，并附带官方使用视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Cloners-Effectors-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（脚本）",
+      "url": "https://url62.ctfile.com/f/680462-517665042-e706be"
+    },
+    {
+      "name": "百度网盘（脚本）",
+      "url": "https://pan.baidu.com/s/1r-QrEHdnqaRNLN6FEd3bMg"
+    },
+    {
+      "name": "阿里云盘（脚本）",
+      "url": "https://www.aliyundrive.com/s/qg9F9Fkw9rY"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-362726808"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1m21eBUKTIRjOM1_3wF8FuA"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘（脚本）": "6688",
+      "百度网盘（脚本）": "9ez2",
+      "百度网盘（教程）": "034i"
+    },
+    "changelog": "v1.2.6 更正错误：复制克隆器时“ReferenceError：函数 adjustClonerSettingsLayout 未定义”"
+  }
+}

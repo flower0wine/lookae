@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：文字代码语法快速高亮彩色显示ASH Syntax Highlighter v1.0.1b Win/Mac + 使用教程",
+  "slug": "aejiao-ben-wen-zi-dai-ma-yu-fa-kuai-su-gao-liang-cai-se-xian-shi-ash-syntax-highlighter-v1-0-1b-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-05-05T18:45:00Z",
+  "source_url": "https://www.lookae.com/highlighter/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "ASH Syntax Highlighter 是一款专为 After Effects 设计的脚本，可自动对文本层中的代码进行语法高亮显示。用户只需选择一个包含代码的文本层，指定语言和主题，脚本将自动识别并以不同颜色高亮显示关键字、字符串、注释等代码元素，极大提升制作代码演示视频的效率。适用于 AE CS6 至 CC 2017 版本，支持 Windows 与 Mac 系统。脚本基于成熟的语法高亮库实现，确保准确性和视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/07/ASH-Syntax-Highlighter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 - CC 2017",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372548507"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1tHeqC5777PUX1eb-fLtuFw"
+    }
+  ],
+  "other": {
+    "update_notes": "修复脚本不能在Mac系统下使用的问题",
+    "installation_guide": "拷贝.jsxbin和(ash)文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_tutorial": "含视频使用教程",
+    "project_link": "http://aescripts.com/ash-syntax-highlighter/",
+    "download_password": "kssm"
+  }
+}

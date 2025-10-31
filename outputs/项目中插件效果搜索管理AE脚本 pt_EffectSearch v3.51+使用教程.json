@@ -1,0 +1,36 @@
+{
+  "title": "项目中插件效果搜索管理AE脚本 pt_EffectSearch v3.51+使用教程",
+  "slug": "xiang-mu-zhong-cha-jian-xiao-guo-sou-suo-guan-li-aejiao-ben-pt-effectsearch-v3-51-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/05/23 09:54",
+  "source_url": "https://www.lookae.com/effectsearch-351/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "搜索After Effects项目中使用的插件效果。查找缺失的效果或使用特定效果的位置，打开或关闭它们，删除它们，或将它们链接在一起以创建克隆效果实例。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/EffectSearch.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC2019-2014, CC, CS6, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-860210778-f5e1da?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1fIx5oy5FRzDHQwxrwtvAjw?pwd=a9az"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/NCKeFzuCcDw"
+    }
+  ],
+  "other": {
+    "update_notes": "3.51更新内容：AE附带的第三方效果现在归类为内置；修复了macOS Monterey和Dropbox的启动问题；许可证更新",
+    "password": "6688"
+  }
+}

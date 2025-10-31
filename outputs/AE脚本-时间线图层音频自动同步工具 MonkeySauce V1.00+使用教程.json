@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-时间线图层音频自动同步工具 MonkeySauce V1.00+使用教程",
+  "slug": "aejiao-ben-shi-jian-xian-tu-ceng-yin-pin-zi-dong-tong-bu-gong-ju-monkeysauce-v1-00-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/03/21 10:26",
+  "source_url": "https://www.lookae.com/monkeysauce/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MonkeySauce",
+    "音频同步"
+  ],
+  "content": "该脚本可自动执行触发音效的繁琐过程，只需单击一下，就能将音频同步到标记、对多个音效进行排序，并使用直观控件微调时间。通过24种自动提示音频文件的配方，简化在动画、动态图形、视频或文本显示等方面的工作流程，还可与许多基于标记的脚本配合使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/MonkeySauce.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/512492005158.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1480551301-e4b995?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1yCcZU36jQrkZuDqvhvOjUg?pwd=gsey"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/H4mFsvNdkbd"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "表达式特效自定义控件组合AE脚本 Pseudo Effect Maker V3.1.1",
+  "slug": "biao-da-shi-te-xiao-zi-ding-yi-kong-jian-zu-he-aejiao-ben-pseudo-effect-maker-v3-1-1",
+  "author": "大众脸",
+  "post_date": "2024/08/24 10:12",
+  "source_url": "https://www.lookae.com/pseudo-311/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这个Pseudo Effect Maker脚本可以简单高效的将多个表达式随意组合成自己需要控制的控件，界面操作直观，还可以自定义保存预设，方便以后使用。V3版有诸多新功能特性，v3.1.1更新内容为修复将文本粘贴到文本框时显示XML错误的错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/06/Pseudo-Effect-Maker.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/401993303503.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1345161787-7b5bfc?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1uizm6zTEuU6utoWrDDaLnw?pwd=25aw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/os75BWgoZvu"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

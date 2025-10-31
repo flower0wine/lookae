@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-多样式风格化文字标题动画生成工具 Textyle Studio v1.4.4+使用教程",
+  "slug": "aejiao-ben-duo-yang-shi-feng-ge-hua-wen-zi-biao-ti-dong-hua-sheng-cheng-gong-ju-textyle-studio-v1-4-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-08-15",
+  "source_url": "https://www.lookae.com/textyle-studio-144/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Textyle Studio",
+    "文字标题"
+  ],
+  "content": "脚本拥有独立操作界面，可在AE软件中快速制作生成设置文本标题动画，其中包括许多预设和样式。Animate text with an easy to use interface that includes many presets and styles。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Textyle-Studio.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356303962192.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8417486390-754841?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1iY3yijdE3aheeZ1JWipYow?pwd=7t5c"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Xh45tWy9YtB"
+    }
+  ],
+  "other": {
+    "script_features": [
+      "8类超过550个标题动画",
+      "超过30种风格的4类标题",
+      "标题动画的完整设置",
+      "样式的完整设置",
+      "分离进出动画和持续时间控制"
+    ],
+    "update_content": "v1.4.4更新内容：修复了将样式添加到收藏夹的问题",
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "7t5c"
+    }
+  }
+}

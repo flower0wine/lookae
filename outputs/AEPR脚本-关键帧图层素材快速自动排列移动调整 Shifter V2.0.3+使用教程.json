@@ -1,0 +1,63 @@
+{
+  "title": "AE/PR脚本-关键帧图层素材快速自动排列移动调整 Shifter V2.0.3+使用教程",
+  "slug": "ae-prjiao-ben-guan-jian-zheng-tu-ceng-su-cai-kuai-su-zi-dong-pai-lie-yi-dong-diao-zheng-shifter-v2-0-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/11 09:18",
+  "source_url": "https://www.lookae.com/shifter-v2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本",
+    "关键帧动画",
+    "剪辑工具",
+    "图层排列"
+  ],
+  "content": "该脚本可在PR软件中排列时间线剪辑好的素材，在AE软件中不仅能排列图层还可操控关键帧，具有使用直观图表自定义缓动、选择升序降序或随机方向、使用入点出点确定项目持续时间或设置间隔、实时预览调整、移动物品整理及保存无限预设等特征。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Shifter-2.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/481378070235.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020"
+    ],
+    "Premiere": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1354619293-142cb2?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hax6FG7h8GhVcJHGux9FYA?pwd=xejw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/dbrepYauJQF"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

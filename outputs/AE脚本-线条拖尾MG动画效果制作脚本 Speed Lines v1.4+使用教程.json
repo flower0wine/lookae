@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-线条拖尾MG动画效果制作脚本 Speed Lines v1.4+使用教程",
+  "slug": "aejiao-ben-xian-tiao-tuo-wei-mgdong-hua-xiao-guo-zhi-zuo-jiao-ben-speed-lines-v1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-05-19T22:33:00Z",
+  "source_url": "https://www.lookae.com/speed-lines-14/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Speed Lines for After Effects 脚本可根据物体运动或路径生成任意数量的线条拖尾，支持自定义线条宽度、长度、间隔和样式等属性。用户可完全控制线条的参数，并可在脚本运行后继续调整。该脚本适用于多个版本的 After Effects，支持 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Speed-Lines.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375128000"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1xzL84BydtkYSA1eBQhFbRA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.4 更新内容：完美兼容 AE CC 2019",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Panels",
+    "script_website": "https://aescripts.com/speed-lines/",
+    "additional_tags": [
+      "AE插件",
+      "After Effects"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "download_password": "njda"
+  }
+}

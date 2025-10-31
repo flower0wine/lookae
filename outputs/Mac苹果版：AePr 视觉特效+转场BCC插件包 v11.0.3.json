@@ -1,0 +1,49 @@
+{
+  "title": "Mac苹果版：Ae/Pr 视觉特效+转场BCC插件包 v11.0.3",
+  "slug": "macping-guo-ban-ae-pr-shi-jue-te-xiao-zhuan-chang-bcccha-jian-bao-v11-0-3",
+  "author": "大众脸",
+  "post_date": "2018/10/14 22:14",
+  "source_url": "https://www.lookae.com/macae-bcc11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete 11 是一款专为 Adobe After Effects 和 Premiere Pro 打造的强大视觉特效与视频转场插件包，支持 Mac 苹果系统。该版本新增了 Primatte Studio 键控抠像、VR Unit 虚拟现实工具、广播级安全输出功能以及专业文字标题工具 Title Studio，提供超过百种特效效果，涵盖 3D 字幕、粒子、老电影风格、光线、镜头光晕、烟雾、火焰等，并集成调色、键控、遮罩、跟踪、发光等风格化处理工具。适用于 AE CS6 至 CC 2018 以及 PR CS6 至 CC 2018。插件包支持 Open GL 和双 CPU 加速，全面提升合成效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/10/BCC-11.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 – CC 2018, Premiere Pro CS6 – CC 2018",
+  "supported_os": "Mac苹果系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-314601577"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1yOkTsz3hrFnk7sycVqwGrQ"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/macbcc1002/",
+      "http://page62.400gb.com/file/128904812"
+    ],
+    "official_website": "https://borisfx.com/products/continuum/",
+    "plugin_version": "v11.0.3",
+    "new_features": [
+      "Primatte Studio：强大的键控抠像",
+      "VR Unit：360 / VR虚拟现实工具",
+      "Broadcast Safe：广播级标准",
+      "Title Studio：专业的文字标题工具",
+      "更多插件预设和模板"
+    ],
+    "software_support": [
+      "Adobe After Effects CS6 – CC 2018",
+      "Premiere Pro CS6 – CC 2018"
+    ]
+  }
+}

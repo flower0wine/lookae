@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本：世界地图任意位置路径展示动画Aescripts GEOlayers 2 v1.2.7+使用教程",
+  "slug": "aejiao-ben-shi-jie-di-tu-ren-yi-wei-zhi-lu-jing-zhan-shi-dong-hua-aescripts-geolayers-2-v1-2-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/03/06 13:24",
+  "source_url": "https://www.lookae.com/geolayers-127/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "通过脚本可以简单快速的链接世界上任意位置方位，包括国家，街道，建筑等地图。拥有高清卫星地图，地图的飞入飞出动画等，对于制作地图定位，路线路径展示非常不错，还包含14种地图样式。还可以配合Trapcode Mir插件模拟制作一些三维立体效果。GEOlayers 2连接After Effects到图像瓦片服务器以获取最新地图，并提供对世界各种地理空间特征的直接访问。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/GEOlayers-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015 – CC2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-346563240"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1iYHYymGUO3hmy92bNfzDvA"
+    },
+    {
+      "name": "使用视频教程",
+      "url": "http://lookae.ctfile.com/fs/OKc162908492"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "ne16",
+    "taobao_store": "https://lookae.taobao.com/",
+    "official_website": "http://aescripts.com/geolayers/",
+    "update_details": [
+      "bugfix：从浏览器导出功能不会创建文件",
+      "修正了一些小错误",
+      "CC 2019兼容性",
+      "online搜索在CC2017中不再起作用的Bug修复",
+      "无法下载本地管理员边界"
+    ]
+  }
+}

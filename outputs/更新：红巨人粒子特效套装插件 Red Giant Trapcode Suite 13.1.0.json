@@ -1,0 +1,129 @@
+{
+  "title": "更新：红巨人粒子特效套装插件 Red Giant Trapcode Suite 13.1.0",
+  "slug": "geng-xin-hong-ju-ren-li-zi-te-xiao-tao-zhuang-cha-jian-red-giant-trapcode-suite-13-1-0",
+  "author": "大众脸",
+  "post_date": "2016/08/20 13:56",
+  "source_url": "https://www.lookae.com/trapcode131/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "著名而强大的红巨人粒子特效套装插件 Red Giant Trapcode Suite 更新到13.1.0版本。此次更新为一次较大版本升级，多个插件获得功能增强与新预设支持，并新增对 Adobe CC 2015.3 的兼容性。该套装适用于 After Effects 与部分 Premiere Pro 版本，支持 Windows 与 Mac 平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/Trapcode-13.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: CS5 - CC 2015, CC 2015.3; Premiere Pro: CC 2015, CC, CS6, CS5.5, CS5 (部分支持)",
+  "supported_os": "Windows / Mac",
+  "download_links": [
+    {
+      "name": "Win 版本下载",
+      "url": "http://lookae.ctfile.com/fs/w4v155446618"
+    },
+    {
+      "name": "Mac 苹果版下载",
+      "url": "http://lookae.ctfile.com/fs/b4d155446537"
+    },
+    {
+      "name": "百度云 Win 下载",
+      "url": "https://pan.baidu.com/s/1slgpUCt"
+    },
+    {
+      "name": "百度云 Mac 下载",
+      "url": "https://pan.baidu.com/s/1c2ds8Ty"
+    }
+  ],
+  "other": {
+    "plugin_details": {
+      "Trapcode Particular 2.6": "新增90种预设，支持特效创建、生命值曲线、爆炸行为、纵横比控制、正方形和圆形粒子类型，可渲染多达3000万个粒子。",
+      "Trapcode Tao 1.1": "全新插件，用于创建复杂三维动画丝带与几何图形，支持GPU加速、基于图像的照明、反射和环境贴图。",
+      "Trapcode Mir V2.1.2": "新增25种预设，支持螺旋化、无缝循环、四边形或三角形多边形、二通线框、Z范围控制、4种分形扭曲及性能优化。",
+      "Trapcode Shine V2.0.3": "支持3D摄像机感知、分形躁波，包含35种完全可定制预设。",
+      "Trapcode Sound Keys 1.4": "可自定义UI元素显示/隐藏，支持颜色与音量电平映射调节。",
+      "Trapcode Starglow V1.7.3": "新增颜色/方向预设。",
+      "Trapcode Form V2.2": "新增方形粒子类型。"
+    },
+    "included_plugins": [
+      "Trapcode Tao 1.1（三维几何图形插件）",
+      "Trapcode Particular 2.6（超炫粒子插件）",
+      "Trapcode Form V2.2（三维空间粒子插件）",
+      "Trapcode Mir V2.1.2（三维图形插件）",
+      "Trapcode Shine V2.0.3（放射光插件）",
+      "Trapcode Lux V1.4（聚光灯插件）",
+      "Trapcode 3D Stroke 2.6.10（3D路径描边插件）",
+      "Trapcode Echospace 1.1.9（三维立体拖尾延迟插件）",
+      "Trapcode Starglow V1.7.3（星光插件）",
+      "Trapcode Sound Keys 1.4（音频关键帧插件）",
+      "Trapcode Horizon V1.1.10（无限场景天空插件）"
+    ],
+    "serial_numbers": {
+      "Trapcode Tao 1.1": "90509642123479776933",
+      "Trapcode Mir V2.1": "85079585234586664989",
+      "Trapcode Particular V2.6": "92608846345644048269",
+      "TrapCode Shine v2.0": "92338513256767241817",
+      "TrapCode 3D Stroke v2.6": "91588738256767692766",
+      "TrapCode Form v2.2": "8446-8918-2345-6022-3856",
+      "TrapCode EchoSpace v1.1": "91769344123491994523",
+      "TrapCode Horizon v1.1": "87419480123494067600",
+      "TrapCode Lux v1.4": "87689194123456089091",
+      "TrapCode Sound Keys v1.4": "88419208123489637676",
+      "TrapCode StarGlow v1.1": "86068670256777585702",
+      "Trapcode 3D Stroke additional": [
+        "8372-8782-2567-5004-8980",
+        "8695-8785-2567-3788-5303",
+        "9159-8773-2567-3626-9767",
+        "9167-8709-2567-3885-9775"
+      ],
+      "Trapcode Echospace additional": [
+        "8298-9366-1234-4684-2645",
+        "8514-9342-1234-9278-1861",
+        "9005-9305-1234-6345-2352",
+        "9200-9396-1234-9086-3547"
+      ],
+      "Trapcode Form additional": [
+        "8446-8918-2345-6022-3856",
+        "8677-8953-2345-5342-6087",
+        "9042-8986-2345-6434-7452",
+        "9258-8934-2345-6203-1668"
+      ],
+      "Trapcode Horizon additional": [
+        "8681-9400-1234-8544-5540",
+        "8881-9416-1234-4132-5740",
+        "9178-9438-1234-5472-4037",
+        "9194-9426-1234-9011-7053"
+      ],
+      "Trapcode Lux additional": [
+        "8555-9113-1234-8820-6878",
+        "8757-9185-1234-6189-3080",
+        "9052-9118-1234-9812-6375",
+        "9102-9178-1234-5828-4425"
+      ],
+      "Trapcode Shine additional": [
+        "92338513256767241817",
+        "8376-8548-2567-5348-4960",
+        "8936-8544-2567-9374-0520",
+        "9036-8584-2567-5738-2620",
+        "9189-8577-2567-4966-3773"
+      ],
+      "Trapcode Sound Keys additional": [
+        "8317-9288-1234-5634-2152",
+        "8452-9286-1234-6689-0287",
+        "9054-9214-1234-7947-6889",
+        "9120-9238-1234-9827-4955"
+      ],
+      "Trapcode Starglow additional": [
+        "8615-8650-2567-9494-0711",
+        "8746-8614-2567-4661-1842",
+        "9080-8684-2567-3666-9176",
+        "9105-8616-2567-7395-5201"
+      ]
+    },
+    "sponsors_and_links": {
+      "taobao_store": "https://lookae.taobao.com/",
+      "donate_url": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

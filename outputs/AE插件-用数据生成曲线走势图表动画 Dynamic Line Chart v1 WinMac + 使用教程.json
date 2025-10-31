@@ -1,0 +1,40 @@
+{
+  "title": "AE插件-用数据生成曲线走势图表动画 Dynamic Line Chart v1 Win/Mac + 使用教程",
+  "slug": "aecha-jian-yong-shu-ju-sheng-cheng-qu-xian-zou-shi-tu-biao-dong-hua-dynamic-line-chart-v1-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/06/06 09:58",
+  "source_url": "https://www.lookae.com/line-chart/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Dynamic Line Chart (DLC) 是一款 After Effects 插件，可快速从数据生成动态折线图。图表的所有参数及数据均可进行动画处理。支持对网格、坐标轴的外观和尺寸进行动画控制，实现数据的缩放效果。支持通过 UTF-8 编码的 CSV 文件导入数据，也可从图像中重新采样数据。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Dynamic-Line-Chart-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-447513096"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/10mE4ZqTOCFfFQbwSMLBbew"
+    }
+  ],
+  "other": {
+    "external_link": "https://aescripts.com/dynamic-line-chart/",
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ],
+    "download_password": "s3ha"
+  }
+}

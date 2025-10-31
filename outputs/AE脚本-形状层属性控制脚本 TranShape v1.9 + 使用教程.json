@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-形状层属性控制脚本 TranShape v1.9 + 使用教程",
+  "slug": "aejiao-ben-xing-zhuang-ceng-shu-xing-kong-zhi-jiao-ben-transhape-v1-9-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/03/15 08:48",
+  "source_url": "https://www.lookae.com/transhape19/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "TranShape 是一款为 After Effects 设计的形状图层检查器，可快速便捷地访问原本繁琐的形状图层属性。通过该脚本，用户可以直接在界面中操作形状层的各项参数，提升工作效率。适用于 Windows 和 Mac 系统，兼容 AE 2020 至 CC 2014 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/03/TranShape.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/255692566320.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-429277147"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1-I1H8ahlIl9BigV_FIGrWw"
+    }
+  ],
+  "other": {
+    "related_articles": [
+      "AE脚本-重叠图层区域遮罩自定义前后放置 Zone Below v1.1 + 使用教程"
+    ],
+    "script_website": "https://aescripts.com/transhape/",
+    "image_alt": "AE脚本-形状层属性控制脚本 TranShape v1.9 + 使用教程-LookAE.com"
+  }
+}

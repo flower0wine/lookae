@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE脚本-风吹自由摇曳摆动MG动画 AutoSway v1.86 修复支持AE2022",
+  "slug": "zhong-wen-yi-hua-aejiao-ben-feng-chui-zi-you-yao-yi-bai-dong-mgdong-hua-autosway-v1-86-xiu-fu-zhi-chi-ae2022",
+  "author": "大众脸",
+  "post_date": "2022-07-08T15:42:00Z",
+  "source_url": "https://www.lookae.com/autosway-chn/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AutoSway",
+    "中文汉化",
+    "墨忆江南汉化"
+  ],
+  "content": "AutoSway 脚本可制作风吹自由摇曳摆动的MG动画，完全符合重力学原理。支持两种模式：图层模式与木偶工具模式，适用于 Windows 和 Mac 系统，兼容 AE CS6 至 CC 2022 版本。该版本为中文汉化版，已修复并适配 AE2022。经汉化作者@墨忆江南授权，由 LOOKAE 免费分享。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/AutoSway.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/44489876.mp4"
+  ],
+  "supported_versions": "CS6 - CC 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-610626025-18063d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1seukjCLKwlaeYKeGlp1ZlA?pwd=fcld"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/16GHS15HyKD"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "fcld"
+    },
+    "original_author": "@墨忆江南",
+    "license": "经汉化作者授权免费分享",
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/autosway/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "https://www.lookae.com/tag/mychn/"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "AE/PR插件-视频换色局部调色工具 Color Llama V1.0.1 Win 含使用教程",
+  "slug": "ae-prcha-jian-shi-pin-huan-se-ju-bu-diao-se-gong-ju-color-llama-v1-0-1-win-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/09/30 11:22",
+  "source_url": "https://www.lookae.com/color-llama-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "视频换色",
+    "调色插件"
+  ],
+  "content": "Color Llama 是一款类似 Colorama 的 AE/PR 调色插件，支持创建颜色对，将一种颜色转换为另一种颜色，可用于调色、品牌配色、多机位素材匹配等场景。插件支持导出 Cube LUT 文件，兼容主流视频与动画软件，适用于色彩校正、风格化镜头、抠像等需求。v1.0.1 版本优化了高分辨率素材下的速度与性能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/09/Color-Llama.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/535402433756.mp4"
+  ],
+  "supported_versions": "After Effects 2024–2026, Premiere 2024–2026",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8443105204-78c156?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1E_rnoi58Y7rCLsM4o0n7BA?pwd=u5xg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/guh18CHG99F"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "u5xg"
+    }
+  }
+}

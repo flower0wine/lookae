@@ -1,0 +1,54 @@
+{
+  "title": "AE工程模板素材丢失文件快速查找自动链接AE脚本 File Hunter v1.0.4+使用教程",
+  "slug": "aegong-cheng-mo-ban-su-cai-diu-shi-wen-jian-kuai-su-cha-zhao-zi-dong-lian-jie-aejiao-ben-file-hunter-v1-0-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/23 18:07",
+  "source_url": "https://www.lookae.com/file-hunter-104-2/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "File Hunter 是一款专为 After Effects 设计的脚本，可帮助用户快速查找并自动链接丢失的素材文件。适用于 AE 模板项目中因路径变更或文件移动导致的素材缺失问题，极大提升工作效率。支持 Windows 与 Mac 系统，兼容 AE CC 2015 至 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/File-Hunter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2015.3, CC 2015, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-375517741"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17dhZZNf6CPcZPc5B0a2rAQ"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-326422881"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WRMAWsgIYEMbXPFh8gtBAA"
+    }
+  ],
+  "other": {
+    "description": "脚本简介：快速查找并自动链接丢失的素材文件。无需手动定位，提高工作流效率。",
+    "update_notes": "修复脚本对软件的兼容性问题。",
+    "external_links": [
+      "https://aescripts.com/file-hunter/"
+    ],
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "image_alt": "AE工程模板素材丢失文件快速查找自动链接AE脚本 File Hunter v1.0.4+使用教程-LookAE.com"
+  }
+}

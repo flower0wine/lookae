@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-空物体连线动画脚本 Paths From Nulls",
+  "slug": "aejiao-ben-kong-wu-ti-lian-xian-dong-hua-jiao-ben-paths-from-nulls",
+  "author": "大众脸",
+  "post_date": "2020-08-11T14:02:00Z",
+  "source_url": "https://www.lookae.com/paths-from-nulls/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本是 After Effects 内置工具 'Nulls From Paths.jsx' 的反向功能，可从现有的空物体生成路径（直线或曲线）。通过按住 Shift 键，可从任意选中的图层快速创建新路径。特别适用于处理追踪数据或从 3D 软件导入的空物体。生成的路径还可添加绳索效果，实现类似实时面条般的动态表现，为动画创作增添趣味性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/08/Paths-From-Nulls.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274990988020.mp4"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2019, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-456651822"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BsDETnPw3eSWhBi-_CefBA"
+    }
+  ],
+  "other": {
+    "original_title": "AE脚本-空物体连线动画脚本 Paths From Nulls",
+    "original_source": "https://www.lookae.com/paths-from-nulls/",
+    "external_link": "https://www.goodboy.ninja/paths-from-nulls-script",
+    "extracted_from": "LookAE.com",
+    "description_en": "The alter ego entity of the built-in tool “Nulls From Paths.jsx” grants your fingertips the power to generate a path from existing nulls to achieve unique effects, especially when working with tracked footage/nulls imported from 3D software. If that wasn’t enough, a swift tick gifts the created paths with rope-like qualities so you can finally host your own realtime noodles party.",
+    "download_password": "d3z3"
+  }
+}

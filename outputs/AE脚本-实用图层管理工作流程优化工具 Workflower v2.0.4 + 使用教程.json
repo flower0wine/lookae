@@ -1,0 +1,72 @@
+{
+  "title": "AE脚本-实用图层管理工作流程优化工具 Workflower v2.0.4 + 使用教程",
+  "slug": "aejiao-ben-shi-yong-tu-ceng-guan-li-gong-zuo-liu-cheng-you-hua-gong-ju-workflower-v2-0-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-01-17T19:28:00Z",
+  "source_url": "https://www.lookae.com/workflower-2-0-4/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Workflower"
+  ],
+  "content": "Workflower 是一款专为 After Effects 设计的实用图层管理与工作流程优化脚本，帮助用户高效组织复杂的合成项目。它支持创建图层组、批量重命名、克隆图层、合并遮罩、添加标签、塌陷图层、移动/复制连接图层等多种功能。特别适用于处理混乱的图层结构，显著提升工作效率。该版本兼容 AE 2020 至 2024，支持 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Workflower-v2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/409642796376.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1009077686-cce5f2?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1jQxeyArUth-3DxM4VNEyVA?pwd=nn2q"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/cP3nZmnZH39"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-857577171-ff7593?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1DlU8yu92raTeIwD7K-rYpg?pwd=oc4t"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/AFAgodJPNEc"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加：与 AE 24.1 中引入的新“高级 3D”渲染器完全兼容。",
+      "添加：“按编号重命名图层”支持定义增量和保留特定后缀，可通过设置路径访问。",
+      "添加：支持在项目面板中对项目执行‘复制图层/克隆/组’操作（需从菜单执行且无图层选中）。",
+      "添加：‘粘贴存储的图层’在预合成克隆范围内时，将创建独立克隆并更新从属克隆。",
+      "添加：项目面板中的‘克隆’和‘存储图层’文件夹现在通过名称而非注释识别，提高与其他插件（如 Pro IO）的兼容性。",
+      "添加：[Beta] 支持外部图层注释，不覆盖原有注释，数据保存于图层标记中；需在设置中启用‘允许外部层注释’。",
+      "添加：右键点击主菜单功能可直接跳转至专用设置页。",
+      "添加：右键点击 ScriptUI 面板空白处可快速访问‘导出/导入项目’及‘转换布局’功能。",
+      "修复：执行无活动合成函数时提示错误信息。",
+      "新增脚本 API 函数：wfAPI.refeshLayouts(comps[, doNotLabelLayersOutsideToNone])，用于批量刷新布局。",
+      "新增脚本 API 函数：wfAPI.isInTagID(layer, tagID) 和 wfAPI.isInTagName(layer, tagName)，用于检查图层是否属于指定标签组。",
+      "改进：重命名时若原名末尾为数字‘0’等符号，不再自动添加空格。",
+      "改进：执行‘按数字重命名’时，重命名完成后尝试确保每个名称唯一。",
+      "修复：‘显示图层不透明度’错误显示其他属性的问题。",
+      "修复：‘Prime Clone’图层显示/隐藏及效果属性异常问题（如 Element 3D 场景）。",
+      "修复：‘刷新布局’在预合成克隆关键帧为负数时可能发生的错误。"
+    ],
+    "notes": [
+      "使用非 Workflower 图层注释会降低性能，建议尽量少用。",
+      "要恢复使用图层注释功能，只需将空字符串放入注释并执行任意 Workflower 功能即可。",
+      "部分功能仅在通过菜单调用时有效，避免使用快捷键触发以防止误操作。"
+    ]
+  }
+}

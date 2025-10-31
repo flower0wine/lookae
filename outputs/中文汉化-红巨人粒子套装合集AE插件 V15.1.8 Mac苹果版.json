@@ -1,0 +1,64 @@
+{
+  "title": "中文汉化-红巨人粒子套装合集AE插件 V15.1.8 Mac苹果版",
+  "slug": "zhong-wen-yi-hua-hong-ju-ren-li-zi-tao-zhuang-he-ji-aecha-jian-v15-1-8-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2021/05/10 13:26",
+  "source_url": "https://www.lookae.com/trapcode-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "红巨人出品的Trapcode粒子插件套装是After Effects中创建动态图形和视觉特效的行业标准工具。本版本为15.1.8，提供中文汉化版，便于用户快速识别功能与参数用途。插件共包含11个，涵盖三维几何、粒子系统、光效、音频驱动等多种高级功能。支持Mac系统（不支持M1芯片），兼容After Effects CC 2014至2022版本。提供英文原版与中文汉化补丁，附带图文安装教程。部分界面及参数因技术限制未完全汉化，建议项目使用时优先采用英文原版以避免潜在问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/Trapcode-Suite-MAC-.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01fZScPY1vSMjJ3QIAy_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/212168328083.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014 - 2022",
+  "supported_os": "macOS 10.12 - 11.x (不支持 macOS 12.x 及以上)",
+  "download_links": [
+    {
+      "name": "淘宝购买链接",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=644789447207"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/trapcode-1518/"
+    },
+    {
+      "name": "Win系统中文汉化版",
+      "url": "https://www.lookae.com/trapcode-ch/"
+    },
+    {
+      "name": "站内直接购买（¥10）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ftrapcode-mac%2F"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "Trapcode Tao 1.2.4",
+      "Trapcode Particular 4.1.5",
+      "Trapcode Form 4.1.5",
+      "Trapcode Mir 3.0.6",
+      "Trapcode Shine 2.0.6",
+      "Trapcode Lux 1.4.3",
+      "Trapcode 3D Stroke 2.7.3",
+      "Trapcode Echospace 1.1.12",
+      "Trapcode Starglow 1.7.6",
+      "Trapcode Sound Keys 1.4.4",
+      "Trapcode Horizon 1.1.13"
+    ],
+    "language_switch": "支持通过补丁随时切换中英文界面",
+    "known_limitations": [
+      "Designer界面未汉化",
+      "极少数参数可能未汉化",
+      "转译编码可能存在潜在BUG",
+      "仅Shine/3D Stroke/Starglow支持Premiere Pro"
+    ],
+    "installation_note": "汉化程序为一键安装，建议项目或模板使用时优先使用英文原版",
+    "additional_info": "本资源仅提供软件工具，不包含视频教程或使用教学"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "AE插件：二维手绘笔刷动画绘制插件 AEscripts Paint & Stick v2.0.1 + 使用教程",
+  "slug": "aecha-jian-er-wei-shou-hui-bi-shua-dong-hua-hui-zhi-cha-jian-aescripts-paint-stick-v2-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/23 14:52",
+  "source_url": "https://www.lookae.com/paintstick2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Paint & Stick 是一款强大的 After Effects 插件，允许用户直接在 AE 中快速绘制二维手绘风格的图形和 MG 动画。插件处理速度快，即使在 4K 分辨率下也能高效渲染。用户可通过鼠标直接在画面上勾勒动画效果，并通过关键帧轻松创建动画。插件提供直观的 UI 控制界面，包含多种模式、工具和元素，支持导入 Photoshop 笔刷，并可将绘制内容“粘贴”到 Cinema 4D 的 3D 渲染场景中进行跟踪投射。相比 AE 内置绘制工具，Paint & Stick 提供更全面、直观且高效的绘制体验，所见即所得。\n\nv2.0 新增功能包括：支持直接在合成中使用自定义及 Photoshop 笔刷进行绘制、洋葱皮功能（适用于逐帧动画）、以及将绘制内容实时“粘贴”到动态合成上。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Paint-Stick-v2.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2Q5XGqSFjpuFjSszhXXaBuVXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB25r7OtJRopuFjSZFtXXcanpXa_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-203868881"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1nv9dc05"
+    }
+  ],
+  "other": {
+    "cinema4d_versions": "Cinema 4D R18, R17, R16, R15, R14",
+    "installation_note": "插件为一键安装版，安装即可使用，无功能限制",
+    "official_website": "http://aescripts.com/paint-and-stick/",
+    "version": "v2.0.1",
+    "changelog": [
+      "You can now stick live comps",
+      "All new stick algorithm for faster, cleaner sticks",
+      "Fixed Brush Palette issue that caused it to get disconnected",
+      "Fixed issue when screen-capturing"
+    ]
+  }
+}

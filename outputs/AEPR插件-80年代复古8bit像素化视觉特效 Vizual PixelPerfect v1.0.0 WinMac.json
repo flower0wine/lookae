@@ -1,0 +1,38 @@
+{
+  "title": "AE/PR插件-80年代复古8bit像素化视觉特效 Vizual PixelPerfect v1.0.0 Win/Mac",
+  "slug": "ae-prcha-jian-80nian-dai-fu-gu-8bitxiang-su-hua-shi-jue-te-xiao-vizual-pixelperfect-v1-0-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2021-08-27 09:34",
+  "source_url": "https://www.lookae.com/pixelperfect/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "像素视觉"
+  ],
+  "content": "PixelPerfect 是一款免费的 After Effects / Premiere Pro 插件，专为 80 年代复古 8-bit 像素化视觉特效设计。它提供最近邻、线性插值及抗锯齿最近邻三种算法，支持 GPU 加速（macOS Metal / Windows CUDA & OpenCL），可在 AE 中按图层锚点、在 PR 中按画面中心无损放大像素画面，并自动分配高分辨率帧缓存，确保放大后的像素边缘清晰锐利。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/08/Vizual-PixelPerfect.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2021, 2020",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-509603352-2473f8"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1vOGSJZ5l-dVR3yfmbZ3hWA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/BtJ8VbFZKU1"
+    }
+  ],
+  "other": {
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "6wbq"
+  }
+}

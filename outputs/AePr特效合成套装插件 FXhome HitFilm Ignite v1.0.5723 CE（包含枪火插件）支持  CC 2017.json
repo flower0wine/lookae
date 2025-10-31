@@ -1,0 +1,38 @@
+{
+  "title": "Ae/Pr特效合成套装插件 FXhome HitFilm Ignite v1.0.5723 CE（包含枪火插件）支持 CC 2017",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-hitfilm-ignite-v1-0-5723-ce-bao-han-qiang-huo-cha-jian-zhi-chi-cc-2017",
+  "author": "大众脸",
+  "post_date": "2016/11/11 16:50",
+  "source_url": "https://www.lookae.com/hitfilm-ignite-105723/",
+  "category": "aechajian",
+  "tags": [
+    "Adobe CC 2017",
+    "AE插件",
+    "FXhome HitFilm",
+    "PR插件"
+  ],
+  "content": "FXHOME公司出品的HitFilm插件套装，能够在AE和PR中直接使用HitFilm效果。该套装集成了约140多款特效插件，包含调色、抠像、变形扭曲、粒子、光晕光效、特效合成等功能。特别值得一提的是，这套插件包含了之前知名的枪火插件Fxhome MuzzlePlug的64位版本，在HitFilm – Particles & Simulation列表中的Gunfire插件即是该枪火插件。插件支持GPU加速，提供强大的特效合成、跟踪、调色等功能，包括先进的键控/抠像技术、各种光效效果、尖端的烟火效果、火灾模拟、雷电等电影分级和视觉增强功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/FXhome-HitFilm.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 - CC 2017",
+  "supported_os": "Win 系统",
+  "download_links": [
+    {
+      "name": "AE/PR特效合成套装插件 FXhome HitFilm Ignite v1.0.5723 CE",
+      "url": "http://lookae.ctfile.com/fs/5qt160829386"
+    }
+  ],
+  "other": {
+    "installation_note": "插件由Team VR团队注册，一键安装即可使用",
+    "plugin_count": "约140多款特效插件",
+    "key_features": [
+      "支持GPU加速",
+      "先进的键控/抠像技术",
+      "各种光效效果",
+      "烟火效果、火灾模拟、雷电",
+      "电影分级和视觉增强功能"
+    ]
+  }
+}

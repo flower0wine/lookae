@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-世界地图任意位置路径展示动画 GEOlayers 3 v1.0.0 + 使用教程",
+  "slug": "aejiao-ben-shi-jie-di-tu-ren-yi-wei-zhi-lu-jing-zhan-shi-dong-hua-geolayers-3-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/11/06 10:57",
+  "source_url": "https://www.lookae.com/geolayers-3/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "GEOlayers 3 是一款专为 After Effects 设计的地图动画脚本，支持在软件中直接创建和编辑地图动画。它可从多种在线数据源加载地理信息，提供对全球地理空间特征的广泛访问，包括建筑物、国家边界、街道、湖泊、河流、区域及行驶路线等。用户可在形状图层上绘制建筑、设置动画路径，并实现建筑拉伸效果。所有地理元素均可作为可编辑资产集成到项目中。脚本内置丰富默认地图样式，并支持通过构图、图像或 Adobe Swatch 文件一键生成自定义样式。同时兼容基于图像的 tileserver（如 Mapbox），将可定制底图功能引入 AE。该版本需使用 After Effects CC 2015（13.6）及以上版本，不兼容旧版 GELayers 1/2 的项目文件，但可导入旧版配置文件、样式与标签模板。支持 Windows 与 Mac 系统，适配 2020、CC 2019、CC 2018、CC 2017、CC 2015.3、CC 2015。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/GEOlayers-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015 (13.6) 及以上版本",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-406328262"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1G3CZ0NPdYCrTQDXfMmQXqw"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-406328396"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1qOCA8Fg3qYw9N9Zk9T1nbA"
+    }
+  ],
+  "other": {
+    "description": "GEOlayers 3 从头重建，具备全新界面、3D倾斜旋转地图、自动标签、在 AE 中直接编辑地图样式、性能提升、脚本 API 支持等功能。支持在线加载地理数据，可能需要 FQ。官方链接：https://aescripts.com/geolayers/",
+    "features": [
+      "3D倾斜与旋转地图",
+      "自动标签系统",
+      "在 After Effects 中直接进行地图样式设计",
+      "支持自定义颜色方案（基于图像或色板）",
+      "兼容常见 tileserver（如 Mapbox）",
+      "脚本 API 接口",
+      "快速渲染与高效处理"
+    ],
+    "compatibility": [
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015.3",
+      "CC 2015"
+    ],
+    "note": "旧版 GELayers 1/2 项目不被支持，但可导入旧版配置文件、样式和标签模板"
+  }
+}

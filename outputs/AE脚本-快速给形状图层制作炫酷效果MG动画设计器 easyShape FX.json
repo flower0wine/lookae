@@ -1,0 +1,63 @@
+{
+  "title": "AE脚本-快速给形状图层制作炫酷效果MG动画设计器 easyShape FX",
+  "slug": "aejiao-ben-kuai-su-gei-xing-zhuang-tu-ceng-zhi-zuo-xuan-ku-xiao-guo-mgdong-hua-she-ji-qi-easyshape-fx",
+  "author": "大众脸",
+  "post_date": "2021/02/05 10:24",
+  "source_url": "https://www.lookae.com/easyshape-fx/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "easyShape FX 是一款专为 After Effects 设计的高效脚本工具，可一键为形状图层添加多种炫酷的动态效果。它基于矢量技术，支持矩形、圆形、多边形及贝塞尔曲线路径，提供高度灵活的动画设计能力。主要功能包括对称性、变形球（Metaball）、放射状阵列、线性克隆和网格克隆等，极大提升MG动画制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/02/easyShape-FX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297612705375.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-481372724-d8cd8b"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1vy3oYsNO6c6jFg8s91zKBg"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "01o5"
+    },
+    "features": [
+      {
+        "name": "Symmetry",
+        "description": "对选定形状图层应用水平或垂直镜像效果，支持双轴同时镜像，可通过复选框控制动画开关。"
+      },
+      {
+        "name": "Metaball",
+        "description": "施加有机滴状变形效果，通过调整 Blobbiness 和收缩/增长值实现动态变化，支持在效果中直接修改填充颜色。"
+      },
+      {
+        "name": "Radial Array",
+        "description": "将形状内容复制并排列成环形，可调节半径、完成度和轴方向；通过‘Per Step Transform’子组直接控制变换属性，无需切换面板。"
+      },
+      {
+        "name": "Linear Cloner",
+        "description": "将形状内容沿直线复制排列，支持中心定位与间隔自定义，可通过每步位置/缩放等参数创建螺旋、对角等复杂布局。"
+      },
+      {
+        "name": "Grid Cloner",
+        "description": "将形状内容按二维网格排列，使用独立的 X/Y 克隆数量与间隙滑块进行调整，仅依赖原生 Repeater 动画器，易于手动编辑。"
+      }
+    ]
+  }
+}

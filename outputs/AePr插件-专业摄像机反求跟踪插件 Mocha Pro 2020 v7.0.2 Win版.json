@@ -1,0 +1,46 @@
+{
+  "title": "Ae/Pr插件-专业摄像机反求跟踪插件 Mocha Pro 2020 v7.0.2 Win版",
+  "slug": "ae-prcha-jian-zhuan-ye-she-xiang-ji-fan-qiu-gen-zong-cha-jian-mocha-pro-2020-v7-0-2-winban",
+  "author": "大众脸",
+  "post_date": "2019/11/24 13:46",
+  "source_url": "https://www.lookae.com/adobe-mocha-702/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Mocha Pro 是一款独立的2D跟踪软件，基于独特的2.5平面跟踪系统。它作为低成本高效的跟踪解决方案，具备二维立体跟踪能力，即使在复杂拍摄条件下也能显著节省时间和成本。该工具专为影视特效合成艺术家设计，简化后制流程，减轻工作压力。其直观的界面和易学性使其成为商业、电影及企业影片后期制作的工业标准工具之一。相比传统方法，Mocha Pro 可提升3-4倍效率，支持高品质视频制作。此外，Mocha Pro 是获得奥斯卡奖认可的平面跟踪工具，广泛应用于全球知名影视项目中，被特效艺术家与编辑人员广泛信赖。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/mocha-2020.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-409098619"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1U73XeMuJ7sSUGDEBjDsL8Q"
+    }
+  ],
+  "other": {
+    "product_url": "https://borisfx.com/products/mocha/",
+    "installation_notes": [
+      "安装软件程序，建议默认路径安装",
+      "复制注册补丁文件夹里的mocha.dll到：C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\\BorisFX\\MochaPro2020\\SharedResources",
+      "复制注册补丁文件夹里的bfx-license-tool.exe到：C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\\BorisFX\\MochaPro2019.5\\SharedResources\\bfx-license-tool",
+      "复制注册补丁文件夹里的GenArts文件夹到：C:\\ProgramData （如果找不到此路径，可直接粘贴地址至文件资源管理器）",
+      "完成安装后即可打开软件使用"
+    ],
+    "description_source": "来自百度百科及官方介绍",
+    "related_categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

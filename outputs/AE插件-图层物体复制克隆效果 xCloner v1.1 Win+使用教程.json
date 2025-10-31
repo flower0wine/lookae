@@ -1,0 +1,54 @@
+{
+  "title": "AE插件-图层物体复制克隆效果 xCloner v1.1 Win+使用教程",
+  "slug": "aecha-jian-tu-ceng-wu-ti-fu-zhi-ke-long-xiao-guo-xcloner-v1-1-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-01T08:30:00Z",
+  "source_url": "https://www.lookae.com/xcloner-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "xCloner",
+    "克隆效果"
+  ],
+  "content": "xCloner 是一款 After Effects 插件，可快速克隆任意类型图层（如素材、矢量、形状图层、文本等），支持实时预览，并提供多种克隆模式：线性模式（从A点到B点）、径向模式（沿圆形路径）、网格阵列模式（按行列排列）。适用于高效创建重复元素动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/xCloner.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/522463346784.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1523385673-1f904f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1PGmEHGHv8CyVgUCqzsVuog?pwd=uy92"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/kXa9RdAhmBb"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新功能：克隆之间的混合模式 + 前面和后面的定位",
+      "新功能：全局变换中的锚点",
+      "新功能：反向偏移顺序",
+      "错误修复：修复了径向模式下应用偏移位置时，全局变换中的旋转无法正常工作的问题"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/xcloner/",
+      "https://www.lookae.com/tag/%e5%85%8b%e9%9a%86%e6%95%88%e6%9e%90/"
+    ],
+    "post_date_formatted": "2025/07/01 08:30"
+  }
+}

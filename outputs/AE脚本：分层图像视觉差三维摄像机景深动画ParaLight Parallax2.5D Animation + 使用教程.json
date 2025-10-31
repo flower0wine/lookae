@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本：分层图像视觉差三维摄像机景深动画ParaLight Parallax/2.5D Animation + 使用教程",
+  "slug": "aejiao-ben-fen-ceng-tu-xiang-shi-jue-chai-san-wei-she-xiang-ji-jing-shen-dong-hua-paralight-parallax-2-5d-animation-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/31 20:59",
+  "source_url": "https://www.lookae.com/parallax-25d/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "ParaLight是一款轻量级脚本，可以让各个级别的After Effects用户轻松创建高级的2.5D/视觉差动画。该脚本通过一键式设置来管理3D图层，让你可以偏移图层并快速搭建场景，同时完全控制摄像机和图层，制作出精美的视觉差动画效果。脚本附带使用视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/Parallax2.5D.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5.5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-204947966"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1dEI6YuX"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

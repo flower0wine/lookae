@@ -1,0 +1,80 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件Red Giant Trapcode Suite 15.1.8 Win/Mac",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-red-giant-trapcode-suite-15-1-8-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/03/03 16:35",
+  "source_url": "https://www.lookae.com/trapcode-1518/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "著名而强大的红巨人粒子特效套装插件 Red Giant Trapcode Suite 更新至 15.1.8 版本。在 v15 中，Particular 4、Form 4 和 Mir 3 均进行了重大更新，新增流体动力学功能并增加了更多预设。该套装包含多个用于创建粒子、光线、3D 几何图形及音频驱动效果的专业插件，适用于 Adobe After Effects 和部分支持 Adobe Premiere Pro 的版本。插件需通过 Red Giant Application Manager 进行激活，支持 Windows 和 macOS 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Trapcode-15.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/212168328083.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CC 2014, CC 2015, CC 2017, CC 2018, CC 2019, 2020; Adobe Premiere Pro CC 2014, CC 2015, CC 2017, CC 2018, CC 2019, 2020（部分插件支持）",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://72k.us/file/680462-426149797"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1E2IeIeHbKWvkbUoUVeUNBw"
+    },
+    {
+      "name": "Win 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Win_Full_15.1.8.zip"
+    },
+    {
+      "name": "Mac 版 - 城通网盘下载",
+      "url": "https://72k.us/file/680462-426150046"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1e9JBtSODxAwum9sa9WA5zQ"
+    },
+    {
+      "name": "Mac 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Mac_Full_15.1.8.zip"
+    },
+    {
+      "name": "Win中文汉化版",
+      "url": "https://www.lookae.com/trapcode-ch/"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "Trapcode Tao 1.2.4",
+      "Trapcode Particular 4.1.5",
+      "Trapcode Form 4.1.5",
+      "Trapcode Mir 3.0.6",
+      "Trapcode Shine 2.0.6",
+      "Trapcode Lux 1.4.3",
+      "Trapcode 3D Stroke 2.7.3",
+      "Trapcode Echospace 1.1.12",
+      "Trapcode Starglow 1.7.6",
+      "Trapcode Sound Keys 1.4.4",
+      "Trapcode Horizon 1.1.13"
+    ],
+    "serial_numbers": [
+      "TCBK2245868172939255",
+      "TCBK2245875777348331",
+      "TCBF2005891888369252",
+      "TCBF2005849176686825",
+      "TCBF2005902179164355"
+    ],
+    "activation_note": "插件需通过 Red Giant Application Manager 激活。点击 Activate 后在弹出窗口中点击 Cancel，再选择 Enter Serial Number 输入序列号完成注册。一个序列号在同一局域网内仅限一台设备使用。",
+    "update_notes": "v15.1.8 更新以支持 Red Giant Application (RGA) 1.0.7 版本。",
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

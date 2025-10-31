@@ -1,0 +1,46 @@
+{
+  "title": "AE/PR视觉特效和转场BCC插件包 Continuum 2021.5 v14.5.3 Win",
+  "slug": "ae-prshi-jue-te-xiao-he-zhuan-chang-bcccha-jian-bao-continuum-2021-5-v14-5-3-win",
+  "author": "大众脸",
+  "post_date": "2021/09/23 12:20",
+  "source_url": "https://www.lookae.com/bcc-1453/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete（BCC）是一款功能强大的视觉特效与转场插件包，专为 After Effects 和 Premiere Pro 设计。该插件集超过350种特效、4000多个预设于一体，涵盖字幕、3D粒子、老电影风格、光线、画中画、镜头光晕、烟雾、火焰等创意效果，并提供调色、键控/抠像、遮罩、跟踪、发光等专业工具。支持 OpenGL 和双 CPU 加速，显著提升视频合成与后期处理效率。适用于各类影视制作项目，是行业专业人士的首选。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/284897462397.mp4"
+  ],
+  "supported_versions": "After Effects CC 2017, CC 2018, CC 2019, 2020, 2021; Premiere Pro CC 2017, CC 2018, CC 2019, 2020, 2021",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-514728519-3f9d6a"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/19pvmdA5pq_kWZjSHo8TKWw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/qX1CAEiF3Rd"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "幻影粒子 – 将发射器添加到具有现有动画发射器和偏转器的场景会导致动画出现意外变化",
+      "幻影粒子 – 在某些情况下删除发射器后偶发崩溃"
+    ],
+    "related_links": [
+      "https://www.lookae.com/bcc-2021-ch/",
+      "https://www.lookae.com/bcc-135/"
+    ]
+  }
+}

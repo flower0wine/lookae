@@ -1,0 +1,40 @@
+{
+  "title": "AE插件-直接调用PBK文件插件 Pixel Bender Accelerator v1.2.3 Win/Mac版",
+  "slug": "aecha-jian-zhi-jie-diao-yong-pbkwen-jian-cha-jian-pixel-bender-accelerator-v1-2-3-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/11/12 22:23",
+  "source_url": "https://www.lookae.com/pbk-123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "该插件可让 After Effects 直接快速调用 PBK 文件，利用显卡 GPU 原生运行 Pixel Bender 滤镜，显著提升效果制作效率。支持从 CS6 到最新版本的 After Effects，适用于 Windows 与 macOS 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/Pixel-Bender-Accelerator.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056360474.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-470825767"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1CG2IaRaHDnSja1PFj91-Cg"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.2.3 更新内容：更新以与 macOS Catalina 兼容（Windows 无更新）",
+    "plugin_homepage": "https://aescripts.com/pixel-bender-accelerator/",
+    "extract_code": "4r90",
+    "categories": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)"
+    ]
+  }
+}

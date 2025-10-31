@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本：文字书写描边手写字动画 Aescripts Scribe 1.0.4",
+  "slug": "aejiao-ben-wen-zi-shu-xie-miao-bian-shou-xie-zi-dong-hua-aescripts-scribe-1-0-4",
+  "author": "大众脸",
+  "post_date": "2018-05-09T13:11:00Z",
+  "source_url": "https://www.lookae.com/scribe104/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Scribe 脚本可快速将英文字符制作成书写动画效果，支持控制文字大小、描边、位置等参数。仅支持内置的6种预设英文字体，暂不支持中文字体。适用于 After Effects CS6 至 CC 2018，跨平台支持 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2rL7OaM0kpuFjSspdXXX4YXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/12/Scribe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/426068407027.mp4"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2018",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-290028003"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1MghgryBCeeEZNQ7XP_Yrtg"
+    }
+  ],
+  "other": {
+    "description": "Automated typeface library for quick write-on/off effect brought to you by compCode",
+    "official_website": "http://aescripts.com/scribe/",
+    "language_support": "English only (no Chinese support)",
+    "predefined_fonts": 6,
+    "animation_type": "Write-on/off effect with stroke",
+    "plugin_type": "AE Script",
+    "update_date": "2018/05/09"
+  }
+}

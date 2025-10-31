@@ -1,0 +1,53 @@
+{
+  "title": "Ae/Pr特效合成套装插件 FXhome Ignite Pro 2.1.7331 CE",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-ignite-pro-2-1-7331-ce",
+  "author": "大众脸",
+  "post_date": "2018-02-24",
+  "source_url": "https://www.lookae.com/fxhome217/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FXhome Ignite Pro 2.1.7331 CE 是一套可在 After Effects 与 Premiere Pro 中直接调用的 HitFilm 特效合集，共 158 余款插件，涵盖调色、抠像、粒子、光效、扭曲变形、特效合成等类别，支持 GPU 加速，可为影视后期提供枪火、雷电、火灾、光斑、粒子阵列等高端效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXhome-Ignite-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2018",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-239058000"
+    },
+    {
+      "name": "百度云网盘",
+      "url": "https://pan.baidu.com/s/1pM56MSV"
+    }
+  ],
+  "other": {
+    "包含插件数量": "158 款（AE 支持 154 款，PR 支持 143 款）",
+    "注册方式": "Team VR 一键安装",
+    "特效分类示例": [
+      "360° video",
+      "Blurs",
+      "Channel",
+      "Color correction",
+      "Color grading",
+      "Stylize",
+      "Temporal",
+      "Distort",
+      "Generate",
+      "Grunge",
+      "Scene",
+      "Gradients & fills",
+      "Keying",
+      "Lights & flares",
+      "Matte enhancement",
+      "Particles & simulation",
+      "Video clean-up",
+      "Warp"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "AE插件-图层直接渲染输出工具 LayerRender v1.5.3 Win/Mac + 使用教程",
+  "slug": "aecha-jian-tu-ceng-zhi-jie-xuan-ran-shu-chu-gong-ju-layerrender-v1-5-3-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/01/13 11:37",
+  "source_url": "https://www.lookae.com/layerrender/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "LayerRender是一款直接在图层级别进行渲染的AE插件。与所有已知的在合成级别进行渲染的AE渲染器不同，这款插件非常快速（使用所有内核），可以处理大多数8位到16位的编解码器，并且非常易于使用。插件特征包括：非常快速（使用所有内核）且易于使用；无需中间文件即可直接访问外部FFmpeg；提供VP9、H.264、H.265、DNxHD、Cineform和Prores编解码器的广泛预设；所有渲染选项都可以通过选项窗口进行调整；支持从After Effects合成中直接渲染图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/LayerRender.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345664739667.mp4"
+  ],
+  "supported_versions": "AE2021、2020、CC 2019、CC 2018、CC 2017、CC 2015.3、CC 2015、CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-536278237-881b4d"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1glc2Yc6TBrL6oyFGN5ad0g?pwd=hscl"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/yYp5AJqNSUi"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "hscl"
+    }
+  }
+}

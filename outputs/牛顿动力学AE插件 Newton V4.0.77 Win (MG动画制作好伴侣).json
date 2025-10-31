@@ -1,0 +1,77 @@
+{
+  "title": "牛顿动力学AE插件 Newton V4.0.77 Win (MG动画制作好伴侣)",
+  "slug": "niu-dun-dong-li-xue-aecha-jian-newton-v4-0-77-win-mgdong-hua-zhi-zuo-hao-ban-lu",
+  "author": "大众脸",
+  "post_date": "2023-11-29T10:43:00Z",
+  "source_url": "https://www.lookae.com/newton-v4/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MG动画",
+    "Newton",
+    "牛顿插件"
+  ],
+  "content": "Newton4 是一款专为 After Effects 设计的牛顿动力学插件，能够将 2D 图层转化为真实物理世界中的对象模拟。通过微调密度、摩擦力、弹跳等动力学参数，并控制重力等全局力，用户可实现高度真实的动画效果。插件支持可定制关节、水体浮力（Waterlike）、触发交互（Triggermatic）、传送机制等功能，适用于构建复杂且逼真的动态系统。同时保留关键帧编辑灵活性，便于模拟后的调整。全新界面与多项功能升级，显著提升创作效率和视觉体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Newton-4.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/438833219112.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-983468338-c4d895?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1VTclMEx4JASwNHj4-T3JvQ?pwd=d1y7"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/eZLDAsiYQbg"
+    }
+  ],
+  "other": {
+    "update_notes_v4_0": [
+      "添加了 Triggermatic 主体类型",
+      "添加了隐藏主体参数",
+      "添加了 Waterlike 主体参数",
+      "添加了手榴弹主体参数",
+      "添加了传送机制",
+      "添加了焊接接头",
+      "在关键帧面板中添加了循环类型",
+      "添加了样本浏览器对话框",
+      "添加了鼠标中键平移的支持预览",
+      "添加了对空图层的支持",
+      "添加了一个首选项，用于在导出的组件名称中附加后缀",
+      "改进了组件墙设置",
+      "改进了自动加载/保存设置系统",
+      "改进了随机发生器",
+      "改进了预览中的主体选择",
+      "改进了视觉质量带有 svg 图标的 UI",
+      "许多错误修复"
+    ],
+    "update_notes_v4_0_77": [
+      "修复了Win系统上高DPI显示器的错误"
+    ],
+    "related_resources": [
+      {
+        "title": "中文汉化版-牛顿动力学AE插件 Newton V4.0.77 Win一键安装",
+        "url": "https://www.lookae.com/newton-chn/"
+      },
+      {
+        "title": "罡渡晨星Newton牛顿场插件全析系列AE教材+工程素材（国语）",
+        "url": "https://www.lookae.com/newton-ch/"
+      },
+      {
+        "title": "牛顿动力学AE插件 Newton v3.4.23 Mac支持苹果M1,M2,Intel芯片",
+        "url": "https://www.lookae.com/newton-m1/"
+      }
+    ],
+    "description_en": "Unleash realistic physics in After Effects with Newton4, transforming 2D layers into authentic simulations of real-world objects. Fine-tune object dynamics—density, friction, bounce, and more—and adjust global forces like gravity for comprehensive control.",
+    "featured_image_alt": "牛顿动力学AE插件 Newton V4.0.77 Win (MG动画制作好伴侣)-LookAE.com"
+  }
+}

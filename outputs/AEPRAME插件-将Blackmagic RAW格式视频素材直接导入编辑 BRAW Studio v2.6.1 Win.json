@@ -1,0 +1,74 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材直接导入编辑 BRAW Studio v2.6.1 Win",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-zhi-jie-dao-ru-bian-ji-braw-studio-v2-6-1-win",
+  "author": "大众脸",
+  "post_date": "2021/11/02 18:29",
+  "source_url": "https://www.lookae.com/braw-261/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "RAW格式导入插件"
+  ],
+  "content": "该插件可将Blackmagic RAW（.braw格式）素材直接导入After Effects、Premiere Pro和Media Encoder软件，并能进行参数设置。v2.6.1版本有诸多更新，涉及PrPro面板新功能、BRAW 2.2支持及多项修复。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021，2020, CC 2019, CC 2018, CC 2017; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Media Encoder: 2022, 2021，2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件-城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-519474750-388f59"
+    },
+    {
+      "name": "插件-百度网盘",
+      "url": "https://pan.baidu.com/s/154cwokuufY6AGHi5Ots5lg"
+    },
+    {
+      "name": "插件-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/CyX5GTruGi8"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "城通网盘插件访问密码": "6688",
+    "百度网盘插件提取码": "9oe2",
+    "百度网盘教程提取码": "n67x",
+    "v2.6.1版本更新详情": {
+      "PrPro面板中的新功能": [
+        "多选BRAW设置：现在只需点击几下即可更改20个.BRAW剪辑的所有曝光（例如）",
+        "Autokroma通知：直接在面板中获取有关新文章、新可用BRAW Studio版本或其他全球Autokroma新闻的通知",
+        "启用日志时面板顶部显示警告，因为它会降低全局BRAW Studio性能",
+        "如果安装Blackmagic RAW PrPro导入器插件，则顶部显示错误消息，它与BRAW Studio不兼容，会导致冲突: https://www.autokroma.com/blog/BlackmagicRaw-Plugin-BRAW-Studio-Difference/",
+        "“设置和许可”和“预设管理器”弹出窗口现在始终位于其他窗口的顶部"
+      ],
+      "BRAW 2.2": [
+        "支持由Blackmagic Video Assist捕获的Fujifilm GFX100和GFX100S .BRAW剪辑",
+        "支持Panasonic Lumix GH5S、BS1H和BGH1。Blackmagic Video Assist捕获的BRAW剪辑"
+      ],
+      "已修复": [
+        "PrPro面板：在PrPro 2022 Beta",
+        "PrPro面板中使用“设置新源”按钮或“从新的本地项目项目设置BRAW”按钮（使用制作时）时会立即崩溃：也是许多滑块操作可以添加到撤消池中，导致撤消操作什么都不做",
+        "PrPro面板：如果BRAW剪辑仅在sidecar中具有LUT，则LUT名称不会显示在面板中",
+        "如果之前从面板设置了白平衡控件并且预设仍处于“自定义”状态，则在打开BRAW剪辑的源效果选项卡时，可以重置控件"
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-人物角色骨骼动作绑定控制工具 Rigomator v1.0.3",
+  "slug": "aejiao-ben-ren-wu-jiao-se-gu-ge-dong-zuo-bang-ding-kong-zhi-gong-ju-rigomator-v1-0-3",
+  "author": "大众脸",
+  "post_date": "2021/11/13 22:03",
+  "source_url": "https://www.lookae.com/rigomator-103/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Rigomator 是一款专为 After Effects 设计的脚本工具，可帮助用户从角色中提取并保存动画模板。这些模板可跨角色、跨尺寸应用，支持任意角色或其部分的快速动画复用。该工具完全兼容 Duik Bassel、Rubber Hose V2、Limber v1.5 以及 Joysticks’n Sliders。支持在 Win 和 Mac 系统上运行，需 AE CC 2015 及以上版本。适用于构建个性化动画库，提升动画制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Rigomator-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015 及更高版本",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520632444-830c9f"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1YPGQ6euHVgkOxWah6g49xQ"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/at7soxYQ5CX"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-333123543"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WKAx8_rDpnCidfvqVkGNqA"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "update_notes": "v1.0.3 版本修复了更新错误的问题",
+    "demo_image_alt": "AE脚本-人物角色骨骼动作绑定控制工具 Rigomator v1.0.3-LookAE.com"
+  }
+}

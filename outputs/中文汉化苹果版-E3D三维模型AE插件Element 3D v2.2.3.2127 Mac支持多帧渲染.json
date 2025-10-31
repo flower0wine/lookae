@@ -1,0 +1,59 @@
+{
+  "title": "中文汉化苹果版-E3D三维模型AE插件Element 3D v2.2.3.2127 Mac支持多帧渲染",
+  "slug": "zhong-wen-yi-hua-ping-guo-ban-e3dsan-wei-mo-xing-aecha-jian-element-3d-v2-2-3-2127-maczhi-chi-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2021/12/29 16:20",
+  "source_url": "https://www.lookae.com/e3d-maczh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "E3D中文汉化版",
+    "Element 3D",
+    "中文汉化"
+  ],
+  "content": "Element 3D 是一款支持在 After Effects 中直接渲染 3D 对象的插件。本版本为中文汉化版，专为 Mac 用户设计，支持 AE CC 2015 至 2022 版本。v2.2.3 版本新增对 AE 2022 多帧渲染的支持，并兼容 4K 显示器的 UI 缩放，同时支持中文路径下的模型文件导入。适用于 Mac 系统 10.13.x 至 12.x（M1 芯片需通过转译运行）。仅提供一键集成安装包，不支持 Windows 系统。部分参数可能存在未汉化情况，因转译编码特性，可能存在潜在兼容性问题。购买前请确认硬件与软件环境可正常运行英文版。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/E3D-MACZH.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01mfcQuA1vSMrp2Gf6q_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN014r6FmZ1vSMq5M7wIk_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015, 2017, 2018, 2019, 2020, 2021, 2022",
+  "supported_os": "Mac 苹果系统 10.13.x - 12.x（M1 需转译使用）",
+  "download_links": [
+    {
+      "name": "淘宝购买（中文汉化版）",
+      "url": "https://item.taobao.com/item.htm?id=660752747644"
+    },
+    {
+      "name": "站内直接购买（支付¥25）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fe3d-maczh%"
+    },
+    {
+      "name": "英文版 v2.2.3 免费下载",
+      "url": "https://www.lookae.com/mac-e3d223/"
+    }
+  ],
+  "other": {
+    "additional_notes": "仅提供中文版，一键集成安装；不适用 Win；部分参数可能未汉化；存在潜在 BUG 可能；不提供视频教程和使用教学。",
+    "image_captions": [
+      "中文汉化苹果版-E3D三维模型AE插件Element 3D v2.2.3.2127 Mac支持多帧渲染-LookAE.com",
+      "中文汉化苹果版-E3D三维模型AE插件Element 3D v2.2.3.2127 Mac支持多帧渲染-LookAE.com",
+      "中文汉化苹果版-E3D三维模型AE插件Element 3D v2.2.3.2127 Mac支持多帧渲染-LookAE.com"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "精品资源"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "e3d": "https://www.lookae.com/tag/e3d/",
+      "E3D中文汉化版": "https://www.lookae.com/tag/e3d%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96%e7%89%88/",
+      "Element 3D": "https://www.lookae.com/tag/element-3d/",
+      "中文汉化": "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/"
+    }
+  }
+}

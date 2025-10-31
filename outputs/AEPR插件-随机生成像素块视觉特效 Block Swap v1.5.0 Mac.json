@@ -1,0 +1,44 @@
+{
+  "title": "AE/PR插件-随机生成像素块视觉特效 Block Swap v1.5.0 Mac",
+  "slug": "ae-prcha-jian-sui-ji-sheng-cheng-xiang-su-kuai-shi-jue-te-xiao-block-swap-v1-5-0-mac",
+  "author": "大众脸",
+  "post_date": "2023/05/22 11:41",
+  "source_url": "https://www.lookae.com/block-swap-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "Block Swap 是一款用于 After Effects 和 Premiere 的插件，可实现图像像素块的随机打乱效果。适用于制作噪波、毛刺故障、过渡动画等视觉特效。支持自定义像素块大小、数量和随机性，便于创建动态视觉效果。该插件专为 Mac 系统设计，兼容多个版本的 After Effects 与 Premiere。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Block-Swap.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6; Premiere: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-859840275-b23cc8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RnGpD8DTgP71xQKi0Ycu9w?pwd=cgld"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ZAV7zvi3Dxk"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "cgld"
+    },
+    "related_links": [
+      "https://www.lookae.com/block-swap-15/"
+    ],
+    "description_en": "Randomly shuffles image blocks. Great for clean-looking noise effects, blocky glitches and transitions."
+  }
+}

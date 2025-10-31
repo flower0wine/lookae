@@ -1,0 +1,49 @@
+{
+  "title": "Ae/Pr蓝宝石视觉特效和转场插件 2020.01 CE Win一键版",
+  "slug": "ae-prlan-bao-shi-shi-jue-te-xiao-he-zhuan-chang-cha-jian-2020-01-ce-winyi-jian-ban",
+  "author": "大众脸",
+  "post_date": "2019-12-24T22:04:00",
+  "source_url": "https://www.lookae.com/sapphire-202001/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Sapphire"
+  ],
+  "content": "大名鼎鼎的蓝宝石插件主要功能包括270多种效果和3000多种预设，功能强大的特效效果和过渡转场生成器，以及与获得奥斯卡奖的Mocha集成的跟踪和蒙版。蓝宝石出色的图像质量，控制和渲染速度可节省大量时间。蓝宝石插件套装可以提高你的工作效率，增加你的想象力，给你无限的创作空间。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Sapphire-2020.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/244413882041.mp4"
+  ],
+  "supported_versions": "After Effects CC – CC 2019, 2020; Premiere Pro CC – CC 2019, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-414991623"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1sBBopEnG7_b9E5GtZ2iAJg"
+    }
+  ],
+  "other": {
+    "plugin_update_notes": [
+      "新添加FreeLens效果",
+      "新添加OpenColorIO颜色管理支持",
+      "改进的集成式Mocha跟踪和蒙版，具有参数跟踪功能和新的Area Brush",
+      "添加16个新的LensFlares和7个新的Builder预设",
+      "蓝宝石预设浏览器新增比较模式",
+      "特定效果渲染速度最多快三倍"
+    ],
+    "registration_note": "百度网盘下载由 Team V.R 注册",
+    "original_categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

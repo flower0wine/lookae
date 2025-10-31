@@ -1,0 +1,40 @@
+{
+  "title": "Mac版：Ae/Pr 视觉特效插件包 v10.0.0 BCC",
+  "slug": "macban-ae-pr-shi-jue-te-xiao-cha-jian-bao-v10-0-0-bcc",
+  "author": "大众脸",
+  "post_date": "2016-01-05T13:46:00Z",
+  "source_url": "https://www.lookae.com/macbcc10/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete v10.0.0 是一款功能强大的视觉特效插件包，专为 Adobe After Effects 和 Premiere Pro 设计，支持 Mac 系统。该版本包含超过 200 种特效、上千种预设，涵盖 3D 字幕、3D 粒子、老电影风格、光线、画中画、镜头光晕、烟雾、转场、火焰等丰富效果，并提供调色、键控/抠像、遮罩、跟踪、发光等风格化工具。支持 Open GL 和双 CPU 加速，兼容 CS5、CC、CC 2014 及 CC 2015 版本。新增图像恢复工具（如 BCC Remover、BCC Dropout Fixer、BCC Reframe）、炫光光晕、信号干扰、美肤美容、快速模糊、变速与文字标题等新插件，以及多种新型转场效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/BCC905.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CC, CC 2014, CC 2015",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/file/140069795"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1c1tVpmg"
+    }
+  ],
+  "other": {
+    "note": "插件经过大脸优化测试，一键注册安装，内附安装教程+序列号",
+    "related_links": [
+      "https://www.lookae.com/bcc10ae/",
+      "http://page62.400gb.com/file/128904812"
+    ],
+    "official_website": "https://www.borisfx.com/products/continuum-complete/?host=adobeHost",
+    "developer": "Boris FX",
+    "description": "Boris FX 是影视特效领域领先的软件与插件开发商，其产品线包括 Boris Continuum Complete (BCC)、Final Effects Complete (FEC)、Boris RED、Boris Graffiti 等。"
+  }
+}

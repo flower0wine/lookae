@@ -1,0 +1,27 @@
+{
+  "title": "AE脚本：多图层关键帧拷贝复制脚本+使用教程 Paste Multiple Keyframes 2",
+  "slug": "aejiao-ben-duo-tu-ceng-guan-jian-zheng-kao-bei-fu-zhi-jiao-ben-shi-yong-jiao-cheng-paste-multiple-keyframes-2",
+  "author": "大众脸",
+  "post_date": "2015-12-04",
+  "source_url": "https://www.lookae.com/keyframes2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "可同时智能复制粘贴多个图层的关键帧，然后粘贴到多个图层上，现在有了循环支持。AE软件默认只能一个一个图层的拷贝粘贴，有了这个脚本复制粘贴关键帧就变得非常容易。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/pastemultiplekeyframes2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：多图层关键帧拷贝复制脚本+使用教程 Paste Multiple Keyframes 2",
+      "url": "https://lookae.400gb.com/file/136004750"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane"
+  }
+}

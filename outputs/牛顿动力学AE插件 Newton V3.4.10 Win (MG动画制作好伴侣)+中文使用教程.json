@@ -1,0 +1,54 @@
+{
+  "title": "牛顿动力学AE插件 Newton V3.4.10 Win (MG动画制作好伴侣)+中文使用教程",
+  "slug": "niu-dun-dong-li-xue-aecha-jian-newton-v3-4-10-win-mgdong-hua-zhi-zuo-hao-ban-lu-zhong-wen-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/04/08 16:06",
+  "source_url": "https://www.lookae.com/newton-3410/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MG动画",
+    "Newton",
+    "牛顿插件"
+  ],
+  "content": "Newton是AE的一款牛顿动力学插件，完美模拟动力学的物理属性，操作方便快捷。它提供全新的操作界面、多种关节类型、吸附与排斥功能、以及新增的动力学类型等实用特性。用户可以精细控制重力、碰撞、摩擦、弹跳、密度、速度等参数，制作出更加真实的效果。Newton 3 还支持将模拟结果导出为标准关键帧，便于在After Effects中进一步调整动画节奏。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Newton-3-.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01SA7lyi1vSMmxNj8YL_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50184394506.mp4?_=1"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件下载",
+      "url": "https://url70.ctfile.com/f/2827370-563969765-0e21e9"
+    },
+    {
+      "name": "百度网盘 - 插件下载",
+      "url": "https://pan.baidu.com/s/1sTuxqrf4JdsmFys55-18Hw?pwd=m3py"
+    },
+    {
+      "name": "阿里云盘 - 插件下载",
+      "url": "https://www.aliyundrive.com/s/ekUj4MsYrbt"
+    },
+    {
+      "name": "城通网盘 - 官网教程",
+      "url": "https://lookae.ctfile.com/fs/680462-296745876"
+    },
+    {
+      "name": "百度网盘 - 官网教程",
+      "url": "https://pan.baidu.com/s/1YiglEdOh3CCTXrr79-Cajw"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688"
+    },
+    "tutorial_link": "https://www.lookae.com/newton-ch/",
+    "tutorial_title": "罡渡晨星Newton牛顿场插件全析系列AE教材+工程素材（国语）",
+    "update_notes": "V3.4.10更新内容：更新了许可框架 (v4.0.3)；更新了Qt库 (v6.2.3)"
+  }
+}

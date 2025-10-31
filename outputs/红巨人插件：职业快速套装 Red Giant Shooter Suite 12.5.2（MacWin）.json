@@ -1,0 +1,59 @@
+{
+  "title": "红巨人插件：职业快速套装 Red Giant Shooter Suite 12.5.2（Mac/Win）",
+  "slug": "hong-ju-ren-cha-jian-zhi-ye-kuai-su-tao-zhuang-red-giant-shooter-suite-12-5-2-mac-win",
+  "author": "大众脸",
+  "post_date": "2014/10/09 18:44",
+  "source_url": "https://www.lookae.com/shooter152/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac&Win",
+    "Red Giant"
+  ],
+  "content": "Red Giant Shooter Suite gives you the freedom to shoot the way you want, with the confidence that your footage will make it to the timeline intact, with audio synced and your on set decisions carried over. Shooter Suite includes BulletProof, a complete on-set footage prep and delivery solution that quickly takes you from backup through export, capturing everything you need. Fast, automatic audio syncing with PluralEyes 3 eliminates the need for clappers and time cues that come with multi-cam shooting.\n\n一套非常不错的插件套装，能节约你后期工作流程，结局你多种后期方案。\n\n插件支持 :AE,PR,VEGAS,AVID,DEIUS…..等软件\n\n更新支持 ADOBE CC 2014.1",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/shoot125.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "ADOBE CC 2014.1",
+  "supported_os": "Mac&Win",
+  "download_links": [
+    {
+      "name": "WIN系统 一键版下载",
+      "url": "https://www.400gb.com/file/75374124"
+    },
+    {
+      "name": "Mac 版本",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/shooter/SSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Win 版本",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/shooter/SSuite_Win_Full.zip"
+    },
+    {
+      "name": "SN序列号下载",
+      "url": "https://www.400gb.com/file/26701927"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "BulletProof 1.2 专业后期流程软件",
+      "PluralEyes 3.5.2 音视频自动同步插件",
+      "Denoiser II 降噪插件",
+      "Instant 4K 高清插件（支持4K）",
+      "Frames 1.1.3 （转场插件）注：此转场是转素材的上下场，非视频间切换转场。",
+      "LUT Buddy 1.0.1 （色彩共享系统）"
+    ],
+    "related_links": [
+      {
+        "title": "红巨人插件套装：Red Giant All Suite for Adobe（32/64位）(Win/Mac)",
+        "url": "https://www.lookae.com/redgiant619/"
+      }
+    ],
+    "installation_type": {
+      "one_click": {
+        "note": "插件为一键安装版，安装即可使用，无需输入序列号"
+      }
+    }
+  }
+}

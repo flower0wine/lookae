@@ -1,0 +1,36 @@
+{
+  "title": "AE插件：三维变形插件套装 Mettle plugins bundle CE (DC 18.03.2017)",
+  "slug": "aecha-jian-san-wei-bian-xing-cha-jian-tao-zhuang-mettle-plugins-bundle-ce-dc-18-03-2017",
+  "author": "大众脸",
+  "post_date": "2017/03/23 10:33",
+  "source_url": "https://www.lookae.com/mettle170318/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle公司是Adobe After Effects的重要插件提供商，其插件数量虽不多，但品质精良。该套装包含多款用于3D网格变形、立体文字及全景环境贴图处理的插件，适合需要高级3D视觉效果的用户使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Mettle-Pluginsb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014, CC 2015, CC 2015.3, CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE插件：三维变形插件套装 Mettle plugins bundle CE (DC 18.03.2017)",
+      "url": "https://lookae.ctfile.com/fs/apA185079058"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.mettle.com/",
+    "bundle_version": "13.01.2017",
+    "included_plugins": [
+      "FreeForm v2.17（网格变形插件 - 普通版）",
+      "FreeForm Pro v1.87（3D网格变形插件 - 专业版）",
+      "ShapeShifter v1.87（3D立体文字插件）",
+      "SkyBox Studio v2.59",
+      "SkyBox 360 Post FX v1.68"
+    ],
+    "installation_note": "插件为一键安装版，安装即可使用，无功能限制"
+  }
+}

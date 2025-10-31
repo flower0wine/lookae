@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-从文本图层中生成颜色色板 Hextractor v1.0.0+使用教程",
+  "slug": "aejiao-ben-cong-wen-ben-tu-ceng-zhong-sheng-cheng-yan-se-se-ban-hextractor-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-25",
+  "source_url": "https://www.lookae.com/hextractor/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Hextractor是一款After Effects脚本，能够从文本、图层或图像中提取十六进制颜色代码，并在专用合成中生成颜色控件和色板。该脚本还支持保存/加载调色板功能，方便用户在不同项目间快速切换配色方案。用户可以通过粘贴包含十六进制代码的品牌指南或客户邮件来快速获取颜色，或者从选定的图层和图像构建调色板，非常适合处理多个客户或项目，并支持与团队共享已保存的调色板。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Hextractor-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/524529603018.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1522223068-c6967d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1O9rQw6BUN7zky0bsdO0feA?pwd=s36k"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/1gWmZtxHhWY"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "s36k"
+  }
+}

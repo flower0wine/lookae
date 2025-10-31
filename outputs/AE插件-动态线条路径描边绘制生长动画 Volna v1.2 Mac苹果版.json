@@ -1,0 +1,36 @@
+{
+  "title": "AE插件-动态线条路径描边绘制生长动画 Volna v1.2 Mac苹果版",
+  "slug": "aecha-jian-dong-tai-xian-tiao-lu-jing-miao-bian-hui-zhi-sheng-chang-dong-hua-volna-v1-2-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2021/04/04 10:42",
+  "source_url": "https://www.lookae.com/volna-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Volna是After Effects的高级笔画线条插件，支持内置箭头、噪声失真、渐变和混合工具，可沿路径以多种样式绘制笔触。还可混合两个图层蒙版的路径，生成中间过渡形状，实现平滑的路径变换效果。适用于创建动态线条路径描边与生长动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Volna.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/300150273532.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-488151553-66b3df"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1C6TCyOhihF-8OA_dMH6GfA"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/volna/"
+    ],
+    "description_en": "Volna is an advanced stroke plugin for After Effects. With built-in arrows, noise distortion, gradients and blend tool. It can draw strokes along paths with various styles and blend different paths from two layer masks to create new shapes, smoothly transitioning from one path to another."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "AE/PR插件-特殊视频编码MKV/MOV/FLV格式素材直接导入软件工具 Influx v1.1.1 Win",
+  "slug": "ae-prcha-jian-te-shu-shi-pin-bian-ma-mkv-mov-flvge-shi-su-cai-zhi-jie-dao-ru-ruan-jian-gong-ju-influx-v1-1-1-win",
+  "author": "大众脸",
+  "post_date": "2022-01-10T21:10:00Z",
+  "source_url": "https://www.lookae.com/influx-111/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Influx v1.1.1 是一款专为 Adobe After Effects 和 Premiere Pro 设计的插件，支持多种特殊视频编码格式（如 MKV、MOV、FLV 等）的直接导入，无需外部转码。该插件可无缝集成于 AE、PR 及 Media Encoder 工作流中，提升素材处理效率，节省磁盘空间与时间成本。适用于多种编解码器，包括 FFV1、VP8/VP9、H.264/H.265、FLAC、OPUS、Vorbis 等，并支持在 Windows 平台上的多个版本（2019-2022）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/Influx-102.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334057662148.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019; Premiere Pro 2022, 2021, 2020, CC 2019; Media Encoder 2022, 2021, 2020, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-534450475-d94f1f"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/19W-lJekxBphWwnOadiBloQ?pwd=jivd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7jGoZfe4SgK"
+    }
+  ],
+  "other": {
+    "format_support": [
+      ".MKV",
+      ".WebM",
+      ".FLV",
+      ".OGV",
+      ".BIK",
+      ".AVI",
+      ".MOV",
+      ".WMV",
+      ".VOB"
+    ],
+    "video_codecs": [
+      "FFV1",
+      "VP8",
+      "VP9",
+      "Canopus HQ",
+      "H.264",
+      "H.265",
+      "ProRes",
+      "GoPro",
+      "Vidvox Hap",
+      "AV1"
+    ],
+    "audio_codecs": [
+      ".FLAC",
+      ".OPUS",
+      ".OGG Vorbis",
+      ".MKA",
+      ".WMA"
+    ],
+    "image_formats": [
+      ".WebP"
+    ],
+    "update_notes": {
+      "v1_1_1": [
+        "许可错误修复"
+      ],
+      "v1_1_0": [
+        "支持 Adobe Audition 2019 到 2022",
+        "新增对 FLAC (.FLAC, .AVI), Vorbis (.WebM), FFV1 (.AVI, .MOV, .MKV), H.265 / HEVC (.MKV, .MOV, .MP4), VP8 / VP9 (.MKV, .WebM), AV1 (.WebM .MP4), .FLV, .BIK Bink V1, Opus (.WebA .WebM) 的支持",
+        "在 Audition 中使用新格式需添加 .influx 后缀以确保正确导入"
+      ],
+      "v1_0_2": [
+        "改进 After Effects 音频解码",
+        "试用期结束时显示 500 帧的试用图像（原为绿松石图）"
+      ],
+      "v1_0_1": [
+        "多种错误修复",
+        "支持新容器：.MKV, .WebM, .AVI, .FLV, .BIK, .OGV, .M4V, .TS 等",
+        "支持所有平台一致的功能集，包括 macOS 上的 Windows Media 格式"
+      ]
+    },
+    "access_methods": {
+      "Premiere Pro": "右键项目项 -> 源设置...",
+      "Media Encoder": "右键渲染队列项 -> 源设置...",
+      "After Effects": "右键项目项 -> 解释素材 -> 主要... -> 更多选项...",
+      "Direct": "可通过 Influx.exe 应用程序直接访问设置和许可证窗口"
+    },
+    "note": "部分功能在 Audition 中受限，需手动重命名文件扩展名为 .influx 才能启用 Influx 导入器"
+  }
+}

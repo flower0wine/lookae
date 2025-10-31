@@ -1,0 +1,28 @@
+{
+  "title": "AE脚本：文字字幕自动匹配音频脚本 Aescripts textsyncr + 使用教程",
+  "slug": "aejiao-ben-wen-zi-zi-mu-zi-dong-pi-pei-yin-pin-jiao-ben-aescripts-textsyncr-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/08/12 11:09",
+  "source_url": "https://www.lookae.com/textsyncr/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本可搭配 TextMonkey、LayerMonkey 和 MotionMonkey 使用，自动将文字与音频匹配，并生成 MG 效果字幕动画。需要注意的是，目前仅支持英文语音。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/textsyncr.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：文字字幕自动匹配音频脚本 Aescripts textsyncr + 使用教程",
+      "url": "https://www.400gb.com/file/112202831"
+    }
+  ],
+  "other": {
+    "installation_path": "Support Files\\Scripts\\ScriptUI Panels",
+    "description_en": "Automatic speech-to-markers engine, automatically creates layer markers from audio transcription – drive subtitles, the Monkey tools and more."
+  }
+}

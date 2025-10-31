@@ -1,0 +1,37 @@
+{
+  "title": "Win/Mac版：Ae/Pr视频去闪烁插件 REVisionFX DE:Flicker v1.4.8 + 注册序列号",
+  "slug": "win-macban-ae-prshi-pin-qu-shan-shuo-cha-jian-revisionfx-de-flicker-v1-4-8-zhu-ce-xu-lie-hao",
+  "author": "大众脸",
+  "post_date": "2016/10/10 10:48",
+  "source_url": "https://www.lookae.com/de148flicker/",
+  "category": "aechajian",
+  "tags": [
+    "AE模板",
+    "PR插件"
+  ],
+  "content": "由于人眼和摄像机捕捉的光线频率不同，使用摄像机拍摄的视频有时会出现光闪烁现象。REVisionFX DE:Flicker 插件通过分析画面的颜色和亮度，计算并生成平滑的视频图像，有效处理光闪烁、延时拍摄闪烁和动态闪烁等问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Flicker12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5, CS5.5, CS6, CC, CC 2014, CC 2015, CC 2015.3；Adobe Premiere Pro CS6 – CC2015.3",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Ae/Pr视频去闪烁插件 REVisionFX DE:Flicker v1.4.8 + 注册序列号",
+      "url": "http://lookae.ctfile.com/fs/9tO158199991"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "DE:Flicker High Speed（高速闪烁插件）：用于高速率拍摄视频",
+      "DE:Flicker Timelapse（间隔闪烁插件）：用于延时拍摄视频",
+      "DE:Flicker Auto Levels（自动去除闪烁插件）：分析画面的颜色和亮度，自动去除闪烁"
+    ],
+    "update_notes": [
+      "修正GPU渲染不正常显示问题",
+      "修复一些崩溃问题"
+    ],
+    "official_link": "http://www.revisionfx.com/products/deflicker/overview/"
+  }
+}

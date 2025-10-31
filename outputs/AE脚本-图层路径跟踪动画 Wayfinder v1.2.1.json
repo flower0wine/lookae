@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-图层路径跟踪动画 Wayfinder v1.2.1",
+  "slug": "aejiao-ben-tu-ceng-lu-jing-gen-zong-dong-hua-wayfinder-v1-2-1",
+  "author": "大众脸",
+  "post_date": "2019-05-04T16:19:00Z",
+  "source_url": "https://www.lookae.com/wayfinder-121/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Wayfinder 是一款用于 After Effects 的脚本，可让任何图形层沿形状层或路径制作动态跟随动画，支持复杂或动画化的路径。适用于 Win/Mac 平台的 After Effects CC 2014 至 CC 2019 版本。该脚本提供位置偏移控制、更准确的控件命名，并修复了多个已知问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Wayfinder-121.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/485840145649.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014, CC 2015, CC 2015.3, CC 2017, CC 2018, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-371896645"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1xiFjDNm7vQwg-U7JOyA-Hg"
+    }
+  ],
+  "other": {
+    "script_description": "脚本可以让任何图形跟随路径或图形层制作路径跟随动画，Wayfinder allows you to attach and guide artwork along shapes layers… even complicated or animated ones! Download the free trial today.",
+    "official_website": "https://aescripts.com/wayfinder/",
+    "update_notes": [
+      "Bug修复：Wiggle Paths中的Random Seed和Wiggle Transform现在可以正确保持值，如果设置为0以外的任何值。",
+      "新功能：在Wayfinder Follower中重命名控件更准确。",
+      "新功能：为Wayfinder Follower添加了位置偏移控制，允许附加层以x/y偏离主路径。",
+      "Bug修复：在向现有Wayfinder装备添加其他点时，现在正确附加图层数字点。",
+      "更多信息请参考官方页面：https://aescripts.com/wayfinder/"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "official_store": "https://lookae.taobao.com/"
+  }
+}

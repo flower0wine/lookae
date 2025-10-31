@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本+模板-三维自定义地图定点连线交通运输旅行导航路径生成动画 Travel Map 版",
+  "slug": "aejiao-ben-mo-ban-san-wei-zi-ding-yi-di-tu-ding-dian-lian-xian-jiao-tong-yun-shu-lu-xing-dao-hang-lu-jing-sheng-cheng-dong-hua-travel-map-ban",
+  "author": "大众脸",
+  "post_date": "2020/01/06 10:22",
+  "source_url": "https://www.lookae.com/travel-map/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本"
+  ],
+  "content": "Travel Map 是一套用于 After Effects 的脚本与模板组合，专为创建三维自定义地图上的路径动画而设计。用户可直接在地图上绘制路线，适用于展示交通运输、旅行导航等场景。支持显示单条或多条路线，并可比较不同路线的行驶时间。脚本内建 3D 动画载具，无需额外插件，支持自定义载具外观。提供开关追踪器功能，可在同一路线上切换不同交通工具。自动处理相机动画，支持跟随或环绕车辆，并可手动控制。支持在路径任意位置添加图钉并自定义文本与颜色。该工具适用于需要动态展示地理路径的项目。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/Travel-Map.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01znqyij1vSMhXjALzV_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014 – CC 2019 或更高版本（支持英文/中文版AE软件）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-416446552"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1xc3byk9whf9u7adz6Ox07Q"
+    }
+  ],
+  "other": {
+    "resolution": "1920*1080",
+    "plugins_required": false,
+    "file_formats": [
+      ".aep工程",
+      ".jsx脚本"
+    ],
+    "background_music": "无",
+    "tutorial_available": true,
+    "registration_info": {
+      "username": "LookAE",
+      "license_key": "31053688285578335"
+    },
+    "comparison_with_map_route_generator": {
+      "travel_map_limitations": [
+        "跟踪器从A点到B点，不支持中间停止",
+        "最多同时创建1条路线（而地图路线生成器支持最多4条）"
+      ]
+    },
+    "related_recommendations": [
+      {
+        "title": "AE脚本+模板-1000种手绘动漫雷电能量爆炸游戏火焰烟雾流体MG动画元素V2.0.1+视频素材",
+        "url": "https://www.lookae.com/1000rtfx2/"
+      }
+    ]
+  }
+}

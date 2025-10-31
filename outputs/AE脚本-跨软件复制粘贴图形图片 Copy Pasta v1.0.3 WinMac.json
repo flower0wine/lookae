@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-跨软件复制粘贴图形图片 Copy Pasta v1.0.3 Win/Mac",
+  "slug": "aejiao-ben-kua-ruan-jian-fu-zhi-nian-tie-tu-xing-tu-pian-copy-pasta-v1-0-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2019/07/04 15:15",
+  "source_url": "https://www.lookae.com/copy-pasta-103/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以让AE和其他软件间复制粘贴图形图片，舍去了麻烦的导入导出，节约时间，提高效率。The simple solution for copying and pasting images into and out of After Effects! Interested in saving time throughout your workflow? This is the tool for you.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Copy-Pasta.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-385806291"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/10w80W_c6ss7vsafoPqpI1Q"
+    }
+  ],
+  "other": {
+    "update_info": {
+      "version": "v1.0.3",
+      "changes": [
+        "防止ExtendScript工具包不断打开",
+        "修复了影响其他扩展的Date对象的问题",
+        "修复“文本图层没有源”错误",
+        "修正了JSON未定义的错误",
+        "确保我们在恢复渲染队列时检查是否存在活动组合",
+        "确保在项目不存在时我们不会抛出错误"
+      ]
+    },
+    "baidu_extraction_code": "e7gt"
+  }
+}

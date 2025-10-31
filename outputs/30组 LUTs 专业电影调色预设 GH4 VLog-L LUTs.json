@@ -1,0 +1,80 @@
+{
+  "title": "30组 LUTs 专业电影调色预设 GH4 VLog-L LUTs",
+  "slug": "30zu-luts-zhuan-ye-dian-ying-diao-se-yu-she-gh4-vlog-l-luts",
+  "author": "大众脸",
+  "post_date": "2015-12-01T16:25:00Z",
+  "source_url": "https://www.lookae.com/gh4lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "MAC",
+    "调色预设"
+  ],
+  "content": "30组专业电影调色预设LUT，专为Panasonic GH4的VLog-L格式视频设计，可快速提升画面质感，模拟电影胶片色彩。支持多种主流后期软件，适用于不同拍摄场景，帮助用户高效完成调色流程。每个LUT均经过定制优化，提供丰富的动态色彩表现，配合微调即可呈现高品质视觉风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/GH4-VLog-L-LUTs.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.400gb.com/file/135446881"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1gd59inh"
+    }
+  ],
+  "other": {
+    "related_resources": [
+      "https://www.lookae.com/lookaeluts/",
+      "https://www.lookae.com/tag/lut/",
+      "https://www.redgiant.com/downloads/free-products/",
+      "https://www.lookae.com/fcpx-lut/"
+    ],
+    "supported_cameras": [
+      "Panasonic GH4",
+      "Alexa",
+      "RED",
+      "C300",
+      "Canon 5D/7D",
+      "Sony F"
+    ],
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CC 2014",
+      "Adobe After Effects CS6/CC 2014",
+      "Adobe Photoshop CS6/CC 2014",
+      "Final Cut Pro X",
+      "Avid MC 7",
+      "Shake",
+      "Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5"
+    ],
+    "usage_tips": [
+      "Adobe Premiere Pro CC：视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC：Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC：Effects → Utility → Apply Color LUT",
+      "Nuke: Vectorfield",
+      "SCRATCH: Color Scraffolds",
+      "Final Cut Pro X: LUT Utility",
+      "DaVinci Resolve 直接使用或导入",
+      "Magic Bullet LUT Buddy 适用于大部分软件",
+      "FCPX软件 LUT 实用颜色工具（适用于FCPX）"
+    ],
+    "note": "只要软件能安装 Looks 新版的调色插件，就能使用Looks导入LUT使用"
+  }
+}

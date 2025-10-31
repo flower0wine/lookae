@@ -1,0 +1,69 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v3.1.0 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v3-1-0-win",
+  "author": "大众脸",
+  "post_date": "2024/08/06 11:19",
+  "source_url": "https://www.lookae.com/lockdown-310/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Lockdown",
+    "中文汉化",
+    "跟踪插件"
+  ],
+  "content": "Lockdown 是一款专为 After Effects 设计的高级插件，用于在扭曲表面上进行精确跟踪。Lockdown 3 引入了 3D 深度功能，允许用户将生成的网格轻松导出至 Cinema 4D、Blender 等主流 3D 软件，用于附加对象、数字重新打光等高级合成操作。最新版本 3.1.0 进一步优化了 3D 平面跟踪器，并改进了用户界面交互体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/07/Lockdown-3.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/475655182901.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1339829183-03a8ec?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1VLW69dn44-0HwxzxuixppQ?pwd=va51"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/LKke15nDZMx"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-977780632-58547f?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1oEuYK1gKApbHFL9B6uNbBw?pwd=2ttk"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.alipan.com/s/ExzfNiB7qdo"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688"
+    },
+    "update_notes": {
+      "added": [
+        "改进了 3D 平面跟踪器",
+        "添加了 UI 功能，可使用鼠标旋转和平移 Hero Plane 以进行 3D 跟踪系统的初始位置"
+      ],
+      "changed": [
+        "在 3D 选项卡中重新设计了 Hero Plane UI",
+        "默认情况下将 3D 平面跟踪器“打开”"
+      ],
+      "fixed": [
+        "修复了隐藏层点可以交互时出现的错误",
+        "修复了隐藏层点可以被跟踪时出现的错误",
+        "修复了 3D 跟踪平面可能出现的翻转"
+      ]
+    }
+  }
+}

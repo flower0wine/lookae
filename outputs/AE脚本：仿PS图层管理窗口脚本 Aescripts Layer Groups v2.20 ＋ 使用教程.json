@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本：仿PS图层管理窗口脚本 Aescripts Layer Groups v2.20 ＋ 使用教程",
+  "slug": "aejiao-ben-fang-pstu-ceng-guan-li-chuang-kou-jiao-ben-aescripts-layer-groups-v2-20-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-05-06T14:03:00Z",
+  "source_url": "https://www.lookae.com/layergroups/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可在 Adobe After Effects 中实现类似 Photoshop 的图层管理界面功能，支持图层与组的管理、图层显示/隐藏、图层遮罩操作等。新增功能包括组遮罩（Group Mattes）、图层隔离（Isolate layers）以及将组烘焙为预合成（Baking of Groups into pre-comps），极大提升了复杂项目中的图层组织效率。适用于 Win/Mac 系统下的 AE CS5 至 CC 2017 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/LayerGroups.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2017",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202004123"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1cozS6q"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "script_installation": "将 .jsxbin 脚本文件复制到 AE 安装目录下的 Support Files\\Scripts\\ScriptUI Pane 文件夹中。",
+    "script_usage": "在 AE 软件中通过 Window（窗口）菜单即可找到该脚本。",
+    "official_website": "http://aescripts.com/layer-groups/",
+    "tutorial_video": true,
+    "donation_link": "https://www.lookae.com/sponsor/",
+    "shop_link": "https://lookae.taobao.com/"
+  }
+}

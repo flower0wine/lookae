@@ -1,0 +1,43 @@
+{
+  "title": "国人原创AE脚本-自动绑定识别手脚批量一键绑定角色 Set Parent To Structure V0.3",
+  "slug": "guo-ren-yuan-chuang-aejiao-ben-zi-dong-bang-ding-shi-bie-shou-jiao-pi-liang-yi-jian-bang-ding-jiao-se-set-parent-to-structure-v0-3",
+  "author": "大众脸",
+  "post_date": "2022-01-21T12:30:00Z",
+  "source_url": "https://www.lookae.com/set-parent/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "国人原创"
+  ],
+  "content": "该脚本由作者@蓝饺子开发，用于在 After Effects 中自动完成图层与角色骨骼之间的父子级链接。通过此脚本可大幅简化使用 Duik 绑定骨骼时手动设置父子关系的繁琐流程，支持批量处理角色骨骼绑定，极大提升工作效率。脚本适用于 Windows 和 Mac 系统，兼容 AE 2022 至 CC 2014 多个版本。作者已将脚本代码免费提交给 Duik 官方，未来可能集成至 Duik 17 版本中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Set-Parent-To-Structure.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345716209164.mp4"
+  ],
+  "supported_versions": "AE2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-538755073-fe0ad5"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1H1pIccb4AeMeh42DL32xoA?pwd=wjds"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9niHc6aMpwj"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/set-parent-to-structure/",
+    "author_bilibili": "https://space.bilibili.com/11188535",
+    "donation_message": "虽然官方建议标价10美元，但我还是想免费给大家使用。如果愿意在经济上支持我，即使是一分钱也是很大的鼓励！",
+    "related_articles": [
+      "https://www.lookae.com/duik-16230/"
+    ]
+  }
+}

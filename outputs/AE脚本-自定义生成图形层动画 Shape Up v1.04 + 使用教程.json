@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-自定义生成图形层动画 Shape Up v1.04 + 使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-sheng-cheng-tu-xing-ceng-dong-hua-shape-up-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/05 14:04",
+  "source_url": "https://www.lookae.com/shape-up/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "ShapeUp是一种在创建形状图层并将其添加到合成中之前定义形状的工具。可以在生成图形之前，自定义图层的类型位置大小等属性，然后批量生成。脚本它能创建“干净”的形状，AE的原生参数形状或使用自定义路径的形状（不使用合并路径）。Rounding and zigzag vector filters may get added for corresponding shapes. Neither expressions nor animations will be applied.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Shape-Up-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372385199"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1AX1umnN_cHZ61xHrSolCAA"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "hu9n"
+  }
+}

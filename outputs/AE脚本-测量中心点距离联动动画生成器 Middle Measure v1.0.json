@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-测量中心点距离联动动画生成器 Middle Measure v1.0",
+  "slug": "aejiao-ben-ce-liang-zhong-xin-dian-ju-chi-lian-dong-dong-hua-sheng-cheng-qi-middle-measure-v1-0",
+  "author": "大众脸",
+  "post_date": "2025-07-03T11:41:00Z",
+  "source_url": "https://www.lookae.com/middle-measure/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Middle Measure"
+  ],
+  "content": "Middle Measure 是一款专为 After Effects 设计的脚本工具，可自动测量合成中物体之间的中心点距离，并动态生成联动动画。无需手动计算距离或定位中间点，该工具能自动生成表达式，使图层自动居中于任意两点或图层之间，支持 3D 空间中的动态对齐。同时可自动创建连接图层的线条，并实现图层的自动旋转。通过效果控制滑块可调节线条属性、中心偏移和大小等参数。支持在动画状态下实时计算，并生成可被其他表达式调用的距离信息显示。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/Middle-Measure-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/525443737039.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1523680549-02d4f9?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1J1FhBMoLcP4F7jN1_KXL7A?pwd=h3qk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/P4hGqx5weKB"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/middle-measure/"
+    ],
+    "image_alt": "AE脚本-测量中心点距离联动动画生成器 Middle Measure v1.0-LookAE.com"
+  }
+}

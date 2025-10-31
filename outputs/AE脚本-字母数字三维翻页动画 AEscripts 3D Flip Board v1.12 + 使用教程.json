@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-字母数字三维翻页动画 AEscripts 3D Flip Board v1.12 + 使用教程",
+  "slug": "aejiao-ben-zi-mu-shu-zi-san-wei-fan-ye-dong-hua-aescripts-3d-flip-board-v1-12-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-03-03 12:59",
+  "source_url": "https://www.lookae.com/3d-flip-board-112/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "3D Flip Board 是一款 After Effects 扩展脚本，可一键生成字母、数字、文字或图片的三维翻页动画，常用于计时、计分、倒计时等动态效果。脚本提供双向、前进、后退、翻转四种翻转模式，支持全自动动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/3D-Flip-Board.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2018",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-239504171"
+    },
+    {
+      "name": "百度云网盘",
+      "url": "https://pan.baidu.com/s/1qZIwxqO"
+    },
+    {
+      "name": "使用教程",
+      "url": "https://lookae.ctfile.com/fs/680462-201724557"
+    }
+  ],
+  "other": {
+    "official_site": "http://aescripts.com/3d-flip-board/",
+    "install_note": "拷贝 .jsxbin 到 AE 安装目录 Support Files\\Scripts\\ScriptUI Panels，重启后在 Window 菜单调用。",
+    "sponsor_links": {
+      "taobao_shop": "https://lookae.taobao.com/",
+      "voluntary_donation": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

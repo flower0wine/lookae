@@ -1,0 +1,55 @@
+{
+  "title": "随机生成像素块视觉特效AE/PR插件 Block Swap v1.5 Win中文汉化版",
+  "slug": "sui-ji-sheng-cheng-xiang-su-kuai-shi-jue-te-xiao-ae-prcha-jian-block-swap-v1-5-winzhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2023/02/16 22:33",
+  "source_url": "https://www.lookae.com/block-swap-15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "Block Swap 是一款适用于 After Effects 和 Premiere Pro 的视觉特效插件，可实现图像像素块的随机打乱与交换。支持创建噪波效果、块状故障（glitch）和动态过渡动画。用户可自定义块的大小、数量、随机性及动画参数，适用于创意视觉设计与视频后期制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/02/Block-Swap-15.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6\nPremiere: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-809916230-a26944?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1sOW-iGnqSMOpDvktfSAWFQ?pwd=mhpc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/MPE5xV7ktVW"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "Time Shift（新功能）- 允许时间轴上移动像素块",
+      "Mask Filter（新功能）- 可在指定遮罩区域内控制交换操作",
+      "Composite on Original - 仅输出图像变化区域",
+      "块宽度和高度最大支持扩展至 4096",
+      "支持多帧渲染"
+    ],
+    "description_en": "Randomly shuffles image blocks. Great for clean-looking noise effects, blocky glitches and transitions.",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "中文汉化版E3D三维模型AE插件 Element 3D v2.2.3 (2192) Win支持多帧渲染",
+  "slug": "zhong-wen-yi-hua-ban-e3dsan-wei-mo-xing-aecha-jian-element-3d-v2-2-3-2192-winzhi-chi-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2022/11/11 14:15",
+  "source_url": "https://www.lookae.com/e3d-zh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "E3D插件",
+    "Element 3D",
+    "中文汉化"
+  ],
+  "content": "Element 3D 是一款在 After Effects 中直接渲染 3D 对象的强大插件，广受 AE 用户欢迎。此版本为中文汉化版，支持多帧渲染、4K 显示器 UI 缩放及中文路径模型文件导入。为确保正常使用，建议用户在购买前确认硬件满足要求，并已能正常运行英文原版。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/E3D-223CH.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01g5f7X91vSMnSMJ2en_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023, 2024 或更高版",
+  "supported_os": "Win 64位（不支持32位系统，不支持Mac苹果系统）",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=643173009166"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/e3d-20222/"
+    },
+    {
+      "name": "站内支付¥15下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fe3d-zh%2F"
+    }
+  ],
+  "other": {
+    "version_number": "v2.2.3 (2192)",
+    "update_notes": "支持AE 2022多帧渲染；兼容4K显示器上的UI缩放；支持中文路径模型文件导入。",
+    "special_notes": "仅提供中文版，一键集成安装；仅支持Win版，不支持Mac版；由于技术限制和疏漏极少部分参数可能未做汉化；转译编码的特殊性，可能存在潜在BUG；不提供视频教程和使用教学。"
+  }
+}

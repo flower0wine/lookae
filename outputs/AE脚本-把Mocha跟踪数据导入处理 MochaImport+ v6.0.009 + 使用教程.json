@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-把Mocha跟踪数据导入处理 MochaImport+ v6.0.009 + 使用教程",
+  "slug": "aejiao-ben-ba-mochagen-zong-shu-ju-dao-ru-chu-li-mochaimport-v6-0-009-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/09 11:32",
+  "source_url": "https://www.lookae.com/mochaimport-609/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "简化mocha和After Effects之间的工作流程。更确切地说，它可以帮助您将您的跟踪镜头数据发送到mocha，然后以任何您想要的方式将Mocha跟踪数据应用于After Effects。\n\nMochaImport simplifies your workflow between mocha and After Effects. Create stabilized precomps, move masks, effect points and layers, and distort them in perspective.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/03/MochaImport.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362706394"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1uCtLLi2LGvkgxkR22vHXlg"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-346371963"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1L_tHhZbRda2hhQVe5grybw%20"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "修正了Mochaimport+设置防火墙后无法启动的问题",
+      "已将“立即检查更新”按钮添加到设置中"
+    ],
+    "credits": "（from MONTER GROUP©, Thank you.）",
+    "official_link": "https://aescripts.com/mochaimport/"
+  }
+}

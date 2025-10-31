@@ -1,0 +1,33 @@
+{
+  "title": "Mac版：AE/PR数字转胶片调色插件 FilmConvert Pro 2.32+全摄像机预设包",
+  "slug": "macban-ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-pro-2-32-quan-she-xiang-ji-yu-she-bao",
+  "author": "大众脸",
+  "post_date": "2015/08/13 14:22",
+  "source_url": "https://www.lookae.com/macfilmconvert232/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "FilmConvert Pro是一款能将数字摄影机拍摄素材色彩转换成胶片色彩的工具，可作独立程序或第三方插件，能调整曝光、色温、添加颗粒等，有颜色三色轮、二级调色等属性，支持LUT预设文件导入与保存，适用RED、DSLR、MOV等素材，内置多种胶片预设与镜头噪点设置，操作简单，支持4K输出。V2.32更新内容为增加备用CUDA渲染模式。支持After Effects CS6, CC & CC 2014，CC 2015；Premiere Pro CS6, CC & CC 2014，CC 2015。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/FilmConvert2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6, CC & CC 2014，CC 2015；Premiere Pro CS6, CC & CC 2014，CC 2015",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "Mac版：AE/PR数字转胶片调色插件 FilmConvert Pro 2.32",
+      "url": "https://www.400gb.com/file/112450694"
+    },
+    {
+      "name": "全摄像机预设包下载",
+      "url": "http://www.filmconvert.com/download/Download_camera_packs.aspx"
+    }
+  ],
+  "other": {
+    "官方链接": "www.filmconvert.com/default.aspx",
+    "相关链接": "Win版：AE/PR数字转胶片调色插件 FilmConvert Pro 2.32+全摄像机预设包(https://www.lookae.com/filmconvert232/)，【大众脸官方淘宝店】(https://lookae.taobao.com/)"
+  }
+}

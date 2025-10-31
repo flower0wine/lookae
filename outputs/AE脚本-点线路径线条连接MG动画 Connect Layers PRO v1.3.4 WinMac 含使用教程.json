@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-点线路径线条连接MG动画 Connect Layers PRO v1.3.4 Win/Mac 含使用教程",
+  "slug": "aejiao-ben-dian-xian-lu-jing-xian-tiao-lian-jie-mgdong-hua-connect-layers-pro-v1-3-4-win-mac-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/08/30 10:31",
+  "source_url": "https://www.lookae.com/connect-layers-134/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "线条连接"
+  ],
+  "content": "Connect Layers PRO 是一款功能强大的 After Effects 脚本，可使用动态线条连接图层。支持一键生成直线、曲线、生成树结构及三角剖分面。可通过插件界面实时自定义线条外观与动画效果，并兼容 3D 图层，结合 Newton 3 牛顿插件可实现更丰富的动态效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/05/Connect-Layers-PRO.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01EqiwKh1vSMikzVKCT_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/262738118157.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8420902667-828fa1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15P9GrWA1Xpf6GaMT8bsErg?pwd=krwc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/65mMBdpcLnn"
+    }
+  ],
+  "other": {
+    "tutorial_video": "https://www.bilibili.com/video/BV1Zg4y1z7uj?p=2",
+    "update_notes": "修复了 Dynamic Verlet 选项中的一个错误（在之前的版本中引入）",
+    "related_tags": [
+      "AE脚本",
+      "MG动画",
+      "线条连接"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

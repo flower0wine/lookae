@@ -1,0 +1,35 @@
+{
+  "title": "AE插件-2D物理动力学模拟插件 Physics Now! v1.01 Win/Mac 版+使用教程 制作MG动画好帮手",
+  "slug": "aecha-jian-2dwu-li-dong-li-xue-mo-ni-cha-jian-physics-now-v1-01-win-mac-ban-shi-yong-jiao-cheng-zhi-zuo-mgdong-hua-hao-bang-shou",
+  "author": "大众脸",
+  "post_date": "2019-05-27T11:05:00",
+  "source_url": "https://www.lookae.com/physicsnow/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MG",
+    "MG制作",
+    "MG插件"
+  ],
+  "content": "Physics Now! 是一款快速而强大的2D物理动力学模拟插件，可以轻松模拟After Effects中的任何可见图层，是制作MG图形动画的得力助手。该插件支持将图层标记为动态或静态，然后进行模拟，并直接在AE时间轴上播放。它支持形状图层（可自动分析，实心或空心）、文本图层（可保存为整体或拆分字符），并允许为其他图层类型（如合成、图像）提供自定义碰撞保持器。用户可以动画物理属性（如弹跳力、摩擦力）或世界属性（如重力），所有操作均尊重图层的入出点，并支持已有关键帧动画的图层（物理将在动画结束后继承其终止速度）。此外，插件还支持ExtendScript Toolkit，允许在脚本或自动化工作流程中使用物理模拟。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/PhysicsNow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375913862"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1SFFtdPEm7uLnfKHLkSiNjg"
+    }
+  ],
+  "other": {
+    "extract_code": "aamd",
+    "official_website": "https://crunchycreatives.com/products/physicsnow/"
+  }
+}

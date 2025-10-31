@@ -1,0 +1,42 @@
+{
+  "title": "动态遮罩制作软件+AE插件 Silhouettefx Silhouette v6.0.15 CE",
+  "slug": "dong-tai-zhe-zhao-zhi-zuo-ruan-jian-aecha-jian-silhouettefx-silhouette-v6-0-15-ce",
+  "author": "大众脸",
+  "post_date": "2016/12/02 12:08",
+  "source_url": "https://www.lookae.com/silhouette6/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "软件"
+  ],
+  "content": "Silhouettefx Silhouette 是一款专业的动态遮罩制作工具，提供完整的后期视觉特效工作流程，包括剪影、对位、抠像、扭曲、变形以及2D-3D转换等功能。该工具支持立体声工作流，所有核心功能（如屡获殊荣的动态遮罩绘制、非破坏性绘画、抠像、遮罩、变形和2D-3D转换）均支持立体声处理。软件经过多年开发，专为应对复杂镜头而设计，操作流畅，上手迅速，帮助视觉特效师高效完成任务。Silhouette 同时提供独立软件版和 After Effects 插件版，适用于专业影视后期制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/StandAlone.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5-CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "动态遮罩制作软件+AE插件 Silhouettefx Silhouette v6.0.15 CE",
+      "url": "http://lookae.ctfile.com/fs/kXR162505351"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.silhouettefx.com/",
+    "whats_new_in_5.2.0": "http://www.silhouettefx.com/press/SFX-v5.2-Press-Release.pdf",
+    "scripting_guide": "http://support.silhouettefx.com/mw/index.php?title=Scripting_Guide",
+    "new_features": [
+      "Crop Node: 可将图像和会话裁剪为用户定义的尺寸，节省内存并加快处理速度。",
+      "Edit > Duplicate Action: 在对象列表中同一层级复制所选对象。",
+      "EXR 2.0 Multi-part Support: 支持加载多部分 EXR 2.0 文件。",
+      "Input/Output > EXR > Use Data Window as Display Window: 可覆盖默认的 EXR 显示窗口行为。",
+      "Frame Step and Point Trackers: 点跟踪器现在遵循查看器的帧步长设置。",
+      "Nuke Export – Inner Blur Support: 导出到 Nuke 的形状现在支持内模糊。",
+      "Paint: 支持在视图间复制笔触，并考虑立体偏移；可正向或反向播放笔触；重建始终按笔触顺序进行。",
+      "Render > Slap Comp > Invert: 渲染选项中新增反转 Slap Comp 的功能。",
+      "Shape > Blur Type Preference: 新增默认模糊类型（Center, Inner, Outer）设置。",
+      "Tweak Software > RV Integration: 渲染后可将结果自动发送至 RV 播放软件（需安装）。"
+    ]
+  }
+}

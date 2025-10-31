@@ -1,0 +1,54 @@
+{
+  "title": "Mac苹果版-红巨人视觉特效和转场预设AE/PR/达芬奇/FCPX插件v2023.1.1",
+  "slug": "macping-guo-ban-hong-ju-ren-shi-jue-te-xiao-he-zhuan-chang-yu-she-ae-pr-da-fen-qi-fcpxcha-jian-v2023-1-1",
+  "author": "大众脸",
+  "post_date": "2023-08-02",
+  "source_url": "https://www.lookae.com/universe-m1/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "FCPX插件",
+    "PR插件",
+    "红巨人插件",
+    "达芬奇插件"
+  ],
+  "content": "Universe 2023.1 新增 Symbol Mapper 风格化工具，可按亮度用字符重建画面；仪表盘与预设浏览器整合 Maxon 云胶囊服务并支持搜索；全系新增 42 组预设，生成器类别再增 100+ 预设，强化 Avid alpha 层支持。整套插件含数十款 GPU 加速转场与特效，适合剪辑与动效师快速制作背景、漏光、字幕条等视觉元素。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/Universe-2023-M1-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/403180408719.mp4"
+  ],
+  "supported_versions": "2023.1.1",
+  "supported_os": "macOS（Intel / M1 / M2）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-905416611-cf9984?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1v8C2-dGt-A7kmN_Tp2BnGQ?pwd=lsvj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/BpExBZ69EC2"
+    }
+  ],
+  "other": {
+    "网盘访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "lsvj"
+    },
+    "兼容软件及最低版本": {
+      "Adobe After Effects": "CC 2022+",
+      "Adobe Premiere Pro": "CC 2022+",
+      "Apple Final Cut Pro X": "10.5+",
+      "Apple Motion": "5.5+",
+      "Avid Media Composer": "2021.x+（*不支持 Prism Displacement、Compound Blur、画中画）",
+      "DaVinci Resolve": "17+（**Mac App Store 版本不适用）"
+    },
+    "相关文章": "Win版-AE/PR/达芬奇/VEGAS红巨人视觉特效和转场预设插件v2023.1.1"
+  }
+}

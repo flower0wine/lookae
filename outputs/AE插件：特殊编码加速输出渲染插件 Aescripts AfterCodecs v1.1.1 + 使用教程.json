@@ -1,0 +1,46 @@
+{
+  "title": "AE插件：特殊编码加速输出渲染插件 Aescripts AfterCodecs v1.1.1 + 使用教程",
+  "slug": "aecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/10 15:11",
+  "source_url": "https://www.lookae.com/aftercodecs/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "AfterCodecs 是一款专为 After Effects 设计的编码输出插件，可显著提升渲染速度并优化输出文件质量。支持 H264、H265 与 ProRes 等多种编码格式，尤其适用于需要高画质且文件体积小的场景。该插件在 Windows 系统上原生支持 ProRes 编码，并提供 x264、x265 及 RGB 版本的 x264，满足不同专业需求。其输出效率优于 AE 内置编码器及 Adobe Media Encoder，尤其在处理 8K 视频时表现优异。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202354324"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1i5mjZDV"
+    }
+  ],
+  "other": {
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ],
+    "plugin_website": "http://aescripts.com/aftercodecs/",
+    "features": [
+      "支持 ProRes（LT/Proxy/Normal/HQ/444，含透明通道）",
+      "支持 x264（性能优于 AE 内建及 QuickTime）",
+      "支持 x265（文件体积比 x264 小 30%，支持 8K）",
+      "支持 x264 RGB（避免 YUV 色彩空间，适合存储独立通道）",
+      "渲染速度更快，压缩后文件更小，画质更优"
+    ],
+    "tutorial": "包含官网视频教程与安装方法说明"
+  }
+}

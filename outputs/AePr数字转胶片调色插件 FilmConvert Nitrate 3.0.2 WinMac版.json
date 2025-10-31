@@ -1,0 +1,42 @@
+{
+  "title": "Ae/Pr数字转胶片调色插件 FilmConvert Nitrate 3.0.2 Win/Mac版",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-nitrate-3-0-2-win-macban",
+  "author": "大众脸",
+  "post_date": "2019/09/07 20:35",
+  "source_url": "https://www.lookae.com/filmconvert-3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Rubber Monkey FilmConvert Pro是一款将数字摄影机拍摄的素材色彩转换成胶片色彩的工具，可作为独立程序或第三方插件，能调整曝光、色温、添加颗粒等，支持3D LUT预设文件导出和保存预设，适用多种素材，内置多种胶片预设及镜头噪点设置，操作简单，支持4K输出。FilmConvert Nitrate 3.0更新后提出Nitrate概念插件，新增Cineon Log电影仿真、完全自定义曲线控制、先进的胶片颗粒控制等功能。插件支持Win/Mac系统下的After Effects CC 2015 - CC 2019及Premiere Pro CC 2015 - CC 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/AEFilmConvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015 - CC 2019、Premiere Pro CC 2015 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-396625717"
+    },
+    {
+      "name": "Win版百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jvivyEe05u84gf_HbtiXOA"
+    },
+    {
+      "name": "Mac版城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-396789614"
+    },
+    {
+      "name": "Mac版百度网盘下载",
+      "url": "https://pan.baidu.com/s/1rUL9yICPRZoGNsQ86OiIlQ"
+    }
+  ],
+  "other": {
+    "plugin_introduction_en": "Create the romance of film on your next digital video using FilmConvert plugin for Premiere Pro & After Effects. Our software seamlessly fits into your current Adobe workflow, helping you to achieve professional results quickly and easily. We’ve optimized our plugin to work cross platform, as well as being completely up-to-date with Adobe Creative Cloud 2015 or later. Home：https://www.filmconvert.com/plugin/adobe",
+    "installation_note": "插件为一键安装集成注册，安装即可使用。（这次的安装包600M很大，是因为提供了很多预设库）"
+  }
+}

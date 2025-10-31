@@ -1,0 +1,50 @@
+{
+  "title": "AE插件-抽象三维图形循环动画生成插件 Aura v1.2.3 Win",
+  "slug": "aecha-jian-chou-xiang-san-wei-tu-xing-xun-huan-dong-hua-sheng-cheng-cha-jian-aura-v1-2-3-win",
+  "author": "大众脸",
+  "post_date": "2021/10/27 18:29",
+  "source_url": "https://www.lookae.com/aura-123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Aura 是一款专为 After Effects 设计的程序化插件，可在 3D 空间中生成优雅的几何形状。它不同于传统的粒子系统，不渲染大量分散的小粒子，而是通过随时间变化的矢量形状（如波浪）来实现动画效果，类似经典插件 Radiowaves。该插件可高效渲染数十万条高频波形，创造出令人着迷的视觉动态。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/Aura.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2017 – 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件下载",
+      "url": "https://url62.ctfile.com/f/680462-518820467-1b99ad"
+    },
+    {
+      "name": "百度网盘 - 插件下载",
+      "url": "https://pan.baidu.com/s/12xG3ubkYk9KDh1CeulJ3JQ"
+    },
+    {
+      "name": "阿里云盘 - 插件下载",
+      "url": "https://www.aliyundrive.com/s/xuQYn9ozLC2"
+    },
+    {
+      "name": "城通网盘 - 教程下载",
+      "url": "https://lookae.ctfile.com/fs/680462-383547035"
+    },
+    {
+      "name": "百度网盘 - 教程下载",
+      "url": "https://pan.baidu.com/s/17xBymW8qBFmMaiuKaErWbA"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "description_en": "Aura is a procedural plug-in for After Effects that creates elegant geometric shapes in 3D space. It’s akin to a particle system but instead of rendering small particles all over the place, it generates vector like shapes (waves) that change over time much like the classic Radiowaves plug-in. It renders hundreds of thousands of high-frequency waves without sweat and creates mesmerizing animations.",
+      "categories": [
+        "AE插件",
+        "After Effects"
+      ],
+      "tags_link": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

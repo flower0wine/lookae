@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本-轻松复制多个图层设置动画效果 Layer Repeater v2.6.2 + 使用教程",
+  "slug": "aejiao-ben-qing-song-fu-zhi-duo-ge-tu-ceng-she-zhi-dong-hua-xiao-guo-layer-repeater-v2-6-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/06/18 10:39",
+  "source_url": "https://www.lookae.com/layer-repeater-262/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "使用脚本可以轻松复制多个相同图层，然后可随意设置多个图层的空间位移旋转及时间偏移延迟动画效果。Easily animate offsets in space and time for multiple layers.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Layer-Repeater.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-449293495"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1zdkHh7LIwqGtFJyWB_gaeQ"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_extract_code": "dmjk",
+    "official_website": "https://aescripts.com/layer-repeater/",
+    "update_notes": "更新脚本文件名以实现兼容性；修复时间重新映射控件中的错误"
+  }
+}

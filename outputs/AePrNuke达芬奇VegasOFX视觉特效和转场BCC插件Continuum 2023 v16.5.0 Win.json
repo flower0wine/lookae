@@ -1,0 +1,76 @@
+{
+  "title": "Ae/Pr/Nuke/达芬奇/Vegas/OFX视觉特效和转场BCC插件Continuum 2023 v16.5.0 Win",
+  "slug": "ae-pr-nuke-da-fen-qi-vegas-ofxshi-jue-te-xiao-he-zhuan-chang-bcccha-jian-continuum-2023-v16-5-0-win",
+  "author": "大众脸",
+  "post_date": "2023-06-14T09:07:00Z",
+  "source_url": "https://www.lookae.com/bcc-165/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Continuum插件是满足内容创作需求的一站式工具集，涵盖300多种效果、40多种转场和5000多种预设。支持Adobe多帧渲染与原生Apple M1 GPU加速，并集成Mocha遮罩功能，可导入导出Mocha数据，实现精准跟踪与复杂蒙版。适用于After Effects、Premiere Pro、DaVinci Resolve、Nuke、Vegas及OFX平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/BCC-16.5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2020-2023, Premiere Pro CC 2020-2023, DaVinci Resolve 17.x/18.x, Nuke 12/13, Vegas 19/20",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR 版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-878967039-ff7a0b?p=4431"
+    },
+    {
+      "name": "AE/PR 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13HNuf5dvscdMNO2dZ3Ea6g?pwd=7wzb"
+    },
+    {
+      "name": "AE/PR 版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/vsipDoseAfb"
+    },
+    {
+      "name": "OFX系列 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-869790774-a7f79f?p=4431"
+    },
+    {
+      "name": "OFX系列 - 百度网盘",
+      "url": "https://pan.baidu.com/s/156Dl4GFTNGK5v102szk1Mg?pwd=l4ni"
+    },
+    {
+      "name": "OFX系列 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/88kALZtwyRA"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新增效果和过渡：BCC+ Super LED、BCC+Smoke and Fog、BCC+ Light Flicker、BCC+ Orbs、BCC+ Flutter Cut。",
+      "更多Mocha支持：BCC+ Lens Flare、BCC+ Super LED、BCC+ Light 中新增参数和角针跟踪选项。",
+      "幻影粒子：新增遮罩、轨迹、渐变预设、3D偏转器、力湍流等功能。",
+      "Beat Reactor：已集成至40个BCC+效果中，支持音乐同步。",
+      "新增150多个专业预设。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/bcc-2021-ch/",
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/resolvezy/",
+      "https://www.lookae.com/qitarjcj/nukezy/",
+      "https://www.lookae.com/qitarjcj/ofxzy/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/vegaszy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "7wzb",
+      "baidu_ofx": "l4ni"
+    },
+    "installation_note": "AE/PR版本为一键安装CE版"
+  }
+}

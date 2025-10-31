@@ -176,7 +176,7 @@ def find_files(
 
     def _handle_error(exc: Exception, path: str):
         if errors == "raise":
-            raise
+            raise exc
         elif errors == "warn":
             print(f"[WARNING] 跳过不可访问路径: {path} ({exc.__class__.__name__})")
 

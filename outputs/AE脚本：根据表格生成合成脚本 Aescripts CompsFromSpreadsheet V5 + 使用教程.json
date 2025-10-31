@@ -1,0 +1,27 @@
+{
+  "title": "AE脚本：根据表格生成合成脚本 Aescripts CompsFromSpreadsheet V5 + 使用教程",
+  "slug": "aejiao-ben-gen-ju-biao-ge-sheng-cheng-he-cheng-jiao-ben-aescripts-compsfromspreadsheet-v5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/07/02 16:53",
+  "source_url": "https://www.lookae.com/compsfromspreadsheet/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "通过 CompsFromSpreadsheet 脚本可以简单快速地根据电子表格生成 After Effects 合成，并支持替换合成中的文字内容，例如增加文字层或替换原有图层等操作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/CompsFromSpreadsheet.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：根据表格生成合成脚本 Aescripts CompsFromSpreadsheet V5 + 使用教程",
+      "url": "https://www.400gb.com/file/103538750"
+    }
+  ],
+  "other": {
+    "installation_guide": "将jsxbin脚本文件拷贝到以下目录：…..\\Adobe After Effects 版本号\\Support Files\\Scripts\\ScriptUI Panels\\"
+  }
+}

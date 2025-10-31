@@ -1,0 +1,100 @@
+{
+  "title": "8组欧美风格婚礼LUT调色预设 Kreativ Wedding LUTs Vol. 3",
+  "slug": "8zu-ou-mei-feng-ge-hun-li-lutdiao-se-yu-she-kreativ-wedding-luts-vol-3",
+  "author": "大众脸",
+  "post_date": "2018/10/04 10:27",
+  "source_url": "https://www.lookae.com/kreativ-wedding/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "调色预设"
+  ],
+  "content": "这套预设共包含8组欧美风格婚礼主题的LUT调色预设，提供行业标准的3D LUT格式（.CUBE、.3DL、.mga），适用于各类后期视频和图像处理软件。LUT能快速实现富有创意的色彩分级，赋予画面电影胶片般的质感，大幅提升调色效率。用户可在其基础上进行微调，轻松获得专业级的视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Kreativ-Wedding-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/210173620274.mp4?_=1",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2018, Adobe After Effects CS6-CC 2018, Adobe Photoshop CS6-CC 2018, Final Cut Pro X, Final Cut Pro 7",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-313257723"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1dB-3PSlPztm274DETRQ3Pw"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "supported_software_full_list": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2018",
+      "Adobe After Effects CS6-CC 2018",
+      "Adobe Photoshop CS6-CC 2018",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "lut_usage_notes": {
+      "FCPX_plugin": "FCPX LUT Loader (https://www.lookae.com/lut-loader-15s/)",
+      "Premiere_Pro": "视频特效 – Lumetri",
+      "Photoshop": "Image → Adjustments → Color Lookup",
+      "After_Effects": "Effects → Utility → Apply Color LUT",
+      "Vegas_Pro_plugin": "https://www.lookae.com/ofxlut/",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "DaVinci_Resolve": "直接使用或导入",
+      "Magic_Bullet_LUT_Buddy": "https://www.redgiant.com/downloads/free-products/",
+      "FCPX_color_tool": "https://www.lookae.com/fcpx-lut/",
+      "general_note": "只要软件能安装 Looks 新版的调色插件，就能使用Looks导入LUT使用"
+    },
+    "related_resources": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      },
+      {
+        "title": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "title": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "title": "上万种LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ]
+  }
+}

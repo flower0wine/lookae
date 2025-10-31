@@ -1,0 +1,56 @@
+{
+  "title": "AE插件-模拟电脑内存泄漏花屏故障毛刺视觉特效 memleak V1.1.1+使用教程",
+  "slug": "aecha-jian-mo-ni-dian-nao-nei-cun-xie-lou-hua-ping-gu-zhang-mao-ci-shi-jue-te-xiao-memleak-v1-1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/08/09 09:09",
+  "source_url": "https://www.lookae.com/memleak-111/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "内存泄漏",
+    "电脑花屏"
+  ],
+  "content": "memleak 插件可读取计算机内存的随机部分，将其作为像素数据生成无限毛刺视觉效果。每次打开 AE 时都会产生新的视觉变化，与其它效果结合使用可实现无穷无尽的创意可能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/memleak.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/447653688547.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2023, 2024",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1339965215-65cb81?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1oXOH55EOwoUxO6FbLcEcOw?pwd=172l"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/8jPsrf2BBRp"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复导致 AE 在装有旧 CPU 的 Windows 上崩溃的错误",
+      "添加了“大小”参数，可轻松更改分配内存的大小，而无需更改层大小",
+      "添加了“位深度”参数，可轻松更改内存解释的位深度，而无需更改项目位深度",
+      "将最大可分配大小提高了 25%",
+      "修复了插件有时可以输出全黑帧的错误",
+      "修复了各种错误并提高了性能"
+    ],
+    "preview_video_title": "【效果预览宣传视频】",
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e5%86%85%e5%ad%98%e6%b3%84%e6%bc%8f/",
+      "https://www.lookae.com/tag/%e7%94%b5%e8%84%91%e8%8a%b1%e5%b1%8f/"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

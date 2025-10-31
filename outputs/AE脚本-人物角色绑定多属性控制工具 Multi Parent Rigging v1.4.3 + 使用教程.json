@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-人物角色绑定多属性控制工具 Multi Parent Rigging v1.4.3 + 使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-bang-ding-duo-shu-xing-kong-zhi-gong-ju-multi-parent-rigging-v1-4-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/11/12 21:06",
+  "source_url": "https://www.lookae.com/rigging-143/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Multi Parent Rigging 是一款专为 After Effects 设计的模块化动画脚本，支持在任意图层之间平滑连接位置、旋转、缩放和不透明度等变换属性。该工具允许通过全局滑块或独立滑块灵活控制多个属性，无论目标图层是2D/3D、隐藏、锁定或已存在父子关系，均可实现无缝绑定。其核心优势在于可同时或分时组合来自不同图层的父级属性，极大提升角色动画与复杂层级控制的效率。适用于从基础绑定到高级动态合成的多种场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/MultiParentRigging.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac（支持 macOS Catalina 10.15）",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-407057514"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1vWFyLr1fqJur-pqmPJeClQ"
+    }
+  ],
+  "other": {
+    "original_source": "https://www.lookae.com/rigging-143/",
+    "script_url": "https://aescripts.com/multi-parent-rigging/",
+    "update_notes": "更新支持 macOS Catalina 10.15 苹果系统",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本",
+      "After Effects",
+      "角色绑定",
+      "动画脚本",
+      "多属性控制"
+    ]
+  }
+}

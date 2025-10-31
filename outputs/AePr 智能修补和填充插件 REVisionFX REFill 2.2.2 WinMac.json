@@ -1,0 +1,29 @@
+{
+  "title": "Ae/Pr 智能修补和填充插件 RE:VisionFX RE:Fill 2.2.2 Win/Mac",
+  "slug": "ae-pr-zhi-neng-xiu-bu-he-tian-chong-cha-jian-re-visionfx-re-fill-2-2-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/02/13 15:51",
+  "source_url": "https://www.lookae.com/refill222/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "REVisionFX RE-Fill 是由 REVisionFX 出品的智能修补和填充插件，能够智能修补和填充用户指定图像区域中的坏像素。插件支持多种填充方式，例如选取最近的完好像素、以坏像素的一边做镜像、将完好像素映射到损坏区域，或直接复制完好区域覆盖损坏像素。可用的参考像素可来自当前帧的其他位置，也可来自时间轴上的其他帧。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/REFill.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017, Adobe Premiere Pro CS5 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Ae/Pr 智能修补和填充插件 RE:VisionFX RE:Fill 2.2.2 Win/Mac",
+      "url": "https://lookae.ctfile.com/fs/e9P171240202"
+    }
+  ],
+  "other": {
+    "official_website": "http://revisionfx.com/products/refill/"
+  }
+}

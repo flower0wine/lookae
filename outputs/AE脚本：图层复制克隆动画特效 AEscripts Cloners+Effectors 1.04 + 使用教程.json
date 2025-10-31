@@ -1,0 +1,30 @@
+{
+  "title": "AE脚本：图层复制克隆动画特效 AEscripts Cloners+Effectors 1.04 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-dong-hua-te-xiao-aescripts-cloners-effectors-1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/12/02 15:57",
+  "source_url": "https://www.lookae.com/clonerseffectors104/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Cloners + Effectors 是一款面向 After Effects 的程序化动画系统，特别适用于同时对多个图层进行动画处理。用户可以通过效果器（Effectors）而非逐层设置关键帧来实现动画，大幅提升复杂动画的制作效率。该系统支持线性、径向、网格等多种克隆模式，并提供七种强大的效果器用于控制位置、缩放、颜色等属性，甚至可一键绑定任意数值或颜色参数。配合衰减（Falloffs）功能，可在少量关键帧内创建高级动画效果。此外，它还支持文本和插图的快速动画处理，并兼容 2D 与 3D 图层，在 After Effects 的 3D 空间中进行操控。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Cloners-Effectors-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 - CC 2017",
+  "supported_os": "Windows / Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：图层复制克隆动画特效 AEscripts Cloners+Effectors 1.04 + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/EpI162520384"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/cloners-plus-effectors/",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

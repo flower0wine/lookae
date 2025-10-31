@@ -1,0 +1,63 @@
+{
+  "title": "人工智能背景遮罩抠像颜色键控AE/PR插件Goodbye Greenscreen 1.6.0 CPU/GPU Win",
+  "slug": "ren-gong-zhi-neng-bei-jing-zhe-zhao-kou-xiang-yan-se-jian-kong-ae-prcha-jian-goodbye-greenscreen-1-6-0-cpu-gpu-win",
+  "author": "大众脸",
+  "post_date": "2022-03-09",
+  "source_url": "https://www.lookae.com/goodbye-160/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "基于人工智能的插件，用于复杂背景抠像和纯色背景抠像。从视频和干净的背景中创建遮罩，还拥有基于同一个引擎的非常强大的颜色键控器。提供CPU和GPU两个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Goodbye-Greenscreen-12.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297235512328.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2022",
+      "2021",
+      "2020"
+    ],
+    "Premiere": [
+      "2022",
+      "2021",
+      "2020"
+    ]
+  },
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-553339044-165274"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1TyYYk9Cov22iFXTekRNxrw?pwd=djle"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TiHXGS2k1Ax"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "djle"
+    },
+    "update_log": [
+      "两种新的自动遮罩模型（人像和网络摄像头）",
+      "增加了多重采样",
+      "提高了稳定性和性能"
+    ],
+    "original_category_hierarchy": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "MAC版：AE插件 Optical Flares 镜头光晕（附安装及崩溃问题解决）",
+  "slug": "macban-aecha-jian-optical-flares-jing-tou-guang-yun-fu-an-zhuang-ji-beng-kui-wen-ti-jie-jue",
+  "author": "大众脸",
+  "post_date": "2012-10-08T15:43:00Z",
+  "source_url": "https://www.lookae.com/mac-of/",
+  "category": "aechajian",
+  "tags": [
+    "MAC",
+    "视频教程"
+  ],
+  "content": "Optical Flares 是 VideoCopilot 于2010年1月推出的知名镜头光晕效果插件，适用于 After Effects CS5-CS6 的 Mac 系统版本。该插件在控制性能、界面友好度和视觉效果方面表现优异，优于 Sapphire 和 Knoll Light Factory 等同类产品。本教程提供 MAC 平台下的安装方法，并解决插件运行时可能出现的崩溃问题。通过一个小工具可实现 Windows 补丁的兼容运行，无需双系统。此外，最新版本（1.3.3）已在中文系统下测试无崩溃现象，极大提升使用体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/10/MAC-OF.jpg"
+  ],
+  "video_urls": [
+    "http://v.youku.com/v_show/id_XNDU5MTY0MDIw.html"
+  ],
+  "supported_versions": "After Effects CS5 - CS6",
+  "supported_os": "Mac OS X",
+  "download_links": [
+    {
+      "name": "MAC 版：Optical Flares 1.2镜头光晕",
+      "url": "http://www.ctdisk.com/file/9900602"
+    },
+    {
+      "name": "MAC 版：Optical Flares 安装教程",
+      "url": "http://www.ctdisk.com/file/9902397"
+    },
+    {
+      "name": "MAC系统运行EXE程序工具",
+      "url": "http://www.ctdisk.com/file/9902534"
+    },
+    {
+      "name": "更新：Optical Flares 1.3.3 附新预设（不再奔溃）",
+      "url": "https://www.lookae.com/of133/"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/optical-flares-v1-2-132-win-zh/",
+      "https://me.alipay.com/lookae"
+    ],
+    "note": "大脸一直很努力。如果网站为您提供了方便或帮助到您，您也可以自愿赞助我们。"
+  }
+}

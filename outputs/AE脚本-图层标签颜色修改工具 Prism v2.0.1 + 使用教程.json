@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-图层标签颜色修改工具 Prism v2.0.1 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-biao-qian-yan-se-xiu-gai-gong-ju-prism-v2-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/29 12:37",
+  "source_url": "https://www.lookae.com/prism-201/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Prism 是一个 AE 图层标签颜色管理修改工具，能够根据图层属性、父子关系、图层前缀等定制颜色，让项目更有条理易处理。压缩包内含脚本及使用视频教程。2.0.1 新版新增shift+click批量操作功能，修复MacOS系统下的目录保存、界面显示等问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/Prism.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376110320"
+    },
+    {
+      "name": "百度网盘下载（提取码：nk2m）",
+      "url": "https://pan.baidu.com/s/1SOWza_t9C5Nl4Ho6CpL8OQ"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/prism/"
+  }
+}

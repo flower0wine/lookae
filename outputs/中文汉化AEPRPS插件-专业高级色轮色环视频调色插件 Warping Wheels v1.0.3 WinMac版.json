@@ -1,0 +1,56 @@
+{
+  "title": "中文汉化AE/PR/PS插件-专业高级色轮色环视频调色插件 Warping Wheels v1.0.3 Win/Mac版",
+  "slug": "zhong-wen-yi-hua-ae-pr-pscha-jian-zhuan-ye-gao-ji-se-lun-se-huan-shi-pin-diao-se-cha-jian-warping-wheels-v1-0-3-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/06/09 10:01",
+  "source_url": "https://www.lookae.com/warping-wheels-103/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "PS插件",
+    "中文汉化"
+  ],
+  "content": "Warping Wheels 是一款专业高级色轮色环视频调色插件，支持 Adobe After Effects、Premiere Pro 和 Photoshop。相较于传统色轮，该插件具备更强大的色彩控制能力，支持二级调色和肤色单独调色。插件包含主色轮（Master Wheel）用于整体图像的色调、饱和度和亮度调节，并提供更精细的色彩调整功能。适用于影视后期制作中的高质量色彩校正与风格化调色。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Warping-Wheels.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/230388900051.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC - CC 2020, Adobe Premiere Pro CC - CC 2020, Adobe Photoshop CC - CC 2020",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "Win版AE/PR/PS插件",
+      "url": "https://089u.com/file/680462-447904761"
+    },
+    {
+      "name": "Win版百度网盘下载",
+      "url": "https://pan.baidu.com/s/1k_csakGfdkFmuJ4j-gEy3w"
+    },
+    {
+      "name": "Mac版AE/PR插件",
+      "url": "https://089u.com/file/680462-474930042"
+    },
+    {
+      "name": "Mac版百度网盘下载",
+      "url": "https://pan.baidu.com/s/1muRCHGI3P13yfN16sein0Q"
+    }
+  ],
+  "other": {
+    "version": "v1.0.3",
+    "update_notes": [
+      "插件支持Photoshop",
+      "Alpha通道并非始终正确应用",
+      "顶层的不透明度并非始终是100%",
+      "修复了与具有不同位深的镜头组合的试用覆盖的问题",
+      "修复了堆叠的视频片段具有不同分辨率时出现的问题"
+    ],
+    "demo_video_link": "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/230388900051.mp4",
+    "official_website": "https://www.picture-instruments.com/products/index.php?id=19&back=5",
+    "language_support": "中文英文版（Win），仅英文版（Mac）",
+    "extract_code_win": "ud17",
+    "extract_code_mac": "u3dv"
+  }
+}

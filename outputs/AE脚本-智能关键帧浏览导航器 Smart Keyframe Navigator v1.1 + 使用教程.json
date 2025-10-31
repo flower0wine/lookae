@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-智能关键帧浏览导航器 Smart Keyframe Navigator v1.1 + 使用教程",
+  "slug": "aejiao-ben-zhi-neng-guan-jian-zheng-liu-lan-dao-hang-qi-smart-keyframe-navigator-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/01/20 11:02",
+  "source_url": "https://www.lookae.com/keyframe-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Smart Keyframe Navigator 是一款用于 After Effects 的脚本，旨在提供更直观、高效的關鍵帧导航体验。相比默认的 'k' 和 'j' 快捷键，该工具支持在复杂时间轴中快速精准跳转关键帧。支持多层、多属性选择下的智能导航，并可通过自定义快捷键（推荐使用 Shift + k 和 Shift + j）进行操作。适用于 Windows 与 Mac 系统，兼容从 CC 2014 到 CS5.5 多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/AE-SKN.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-418803859"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YZpYH-bjzAn-Tj3TWW9XWQ"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://aescripts.com/smart-keyframe-navigator/"
+    ],
+    "update_notes": [
+      "修复了尝试跳转到时间值为负的关键帧会引发异常的错误",
+      "更新了手册，特别是键盘快捷键编辑器的处理",
+      "将脚本重命名为01_…以将其在脚本堆栈上移至更高位置，因为只有前20个脚本文件可以具有键盘快捷键"
+    ],
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ]
+  }
+}

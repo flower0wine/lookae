@@ -1,0 +1,66 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件v2023.3.1 Win 含Particular/Form/Shine/Starglow",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-v2023-3-1-win-han-particular-form-shine-starglow",
+  "author": "大众脸",
+  "post_date": "2023/05/07 09:21",
+  "source_url": "https://www.lookae.com/trapcode-2023/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "粒子插件"
+  ],
+  "content": "Trapcode 2023.3 包括对灯光发射器的性能优化和对 Particular 的错误修复，以及用于 Particular 和 Form 的新的 Atomic Age sprites 集合。该套装提供多种强大的视觉特效插件，适用于 After Effects 和 Premiere Pro，可创建复杂的粒子系统、三维几何图形、放射光效、星光效果等，广泛应用于影视后期与动态图形设计。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/01/Trapcode-Suite-2023.2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404139753459.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022, 2023; Premiere Pro CC 2019, 2020, 2021, 2022, 2023（部分插件支持）",
+  "supported_os": "Windows 10 及以上",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-853287246-690074?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15B4VXz8JAl_L7ZFnuABHfg?pwd=5tvi"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PhFa7dE3Q9g"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "Tao",
+      "Particular",
+      "Form",
+      "Mir",
+      "Shine",
+      "Lux",
+      "3D Stroke",
+      "Echospace",
+      "Starglow",
+      "Sound Keys",
+      "Horizon"
+    ],
+    "update_notes": {
+      "bug_fixes": [
+        "TC-8939：修复了没有粒子从样条模型发射器发射的问题。"
+      ],
+      "known_issues": [
+        "应用或重置 Particular 的实例很慢。注意：这是与 Adobe 合作解决的；一个潜在的解决方法是保存 Particular 默认实例的动画预设，并使用它来应用或重置效果。"
+      ]
+    },
+    "related_links": [
+      {
+        "description": "Win中文汉化-红巨人粒子特效套装AE/PR插件 v2023.3.1 Particular/Form/Shine /Mir",
+        "url": "https://www.lookae.com/hjrtc18ch/"
+      }
+    ],
+    "form_mac_support": false
+  }
+}

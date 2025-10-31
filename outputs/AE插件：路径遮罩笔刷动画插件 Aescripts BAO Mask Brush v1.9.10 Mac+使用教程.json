@@ -1,0 +1,44 @@
+{
+  "title": "AE插件：路径遮罩笔刷动画插件 Aescripts BAO Mask Brush v1.9.10 Mac+使用教程",
+  "slug": "aecha-jian-lu-jing-zhe-zhao-bi-shua-dong-hua-cha-jian-aescripts-bao-mask-brush-v1-9-10-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/12/12 14:20",
+  "source_url": "https://www.lookae.com/mask-brush-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "Aescripts BAO Mask Brush 是一款 After Effects 插件，可以应用自定义笔刷来填充路径，在三维空间路径上实现物体动画，如挤压和拉伸效果，并支持运动模糊、挤压拉伸变形等，适合制作有趣的 MG 动画。插件包含两个主要功能模块：Mask Brush 可沿遮罩路径对齐笔刷，创建动态喷漆和形状动画；Mask Brush Fill 则用于填充遮罩路径，生成动态效果图案。插件支持在 2D 与 3D 模式之间切换，3D 模式可响应摄像机并提供逐顶点的 3D 控制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/01/Mask-Brush.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC2018",
+  "supported_os": "Mac, Windows",
+  "download_links": [
+    {
+      "name": "Mac 版插件下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-231210516"
+    },
+    {
+      "name": "Win版本插件下载（官方）",
+      "url": "https://www.lookae.com/bao-plugins/"
+    },
+    {
+      "name": "使用教程下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-231210596"
+    },
+    {
+      "name": "Mac 版插件下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1bp8mWQ7"
+    },
+    {
+      "name": "使用教程下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1eSB47xK"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/bao-mask-brush/"
+  }
+}

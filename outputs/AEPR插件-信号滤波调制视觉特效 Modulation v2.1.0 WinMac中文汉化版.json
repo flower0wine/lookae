@@ -1,0 +1,67 @@
+{
+  "title": "AE/PR插件-信号滤波调制视觉特效 Modulation v2.1.0 Win/Mac中文汉化版",
+  "slug": "ae-prcha-jian-xin-hao-lu-bo-diao-zhi-shi-jue-te-xiao-modulation-v2-1-0-win-maczhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2025-08-06T09:53:00Z",
+  "source_url": "https://www.lookae.com/modulation-210/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Modulation",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "无需任何编码技能，即可轻松在视频中创建信号滤波调制视觉特效。支持在 After Effects 和 Premiere Pro 中使用，可实现基于亮度变化的频率调制效果，模拟真实无线电传输中的信号处理过程。通过调制与解调算法，可生成独特的模拟失真视觉效果，并支持自定义颜色模式与低通滤波器调节。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/Modulation-2-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/474890299571.mp4"
+  ],
+  "supported_versions": "After Effects: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014\nPremiere: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8409730485-5263ec?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1c1rTxVDgdPnWgaKQo8swcQ?pwd=fvmj"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/LbewLRScjAS"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8411322246-115554?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1fxLNhLJVd9ZDoc4sGlpWRA?pwd=v8m6"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/sBpuKCEoz28"
+    }
+  ],
+  "other": {
+    "update_notes": "v2.1.0 更新内容：现已支持 Premiere Pro 软件。",
+    "new_features": [
+      "4 种新颜色模式",
+      "可调低通滤波器"
+    ],
+    "description": "对图像使用调制和解调算法来创建模拟失真效果。根据视频的亮度改变信号的频率：亮度越高，频率越高；亮度越低，频率越低。这种方法称为调制，通过数字方式重现了无线电波传输亮度信息的过程。",
+    "language_support": {
+      "win": [
+        "中文",
+        "英文"
+      ],
+      "mac": [
+        "英文"
+      ]
+    }
+  }
+}

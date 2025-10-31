@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-UV纹理贴图通道映射特效 PixMap Win/Mac",
+  "slug": "aecha-jian-uvwen-li-tie-tu-tong-dao-ying-she-te-xiao-pixmap-win-mac",
+  "author": "大众脸",
+  "post_date": "2024/11/04 09:59",
+  "source_url": "https://www.lookae.com/pixmap/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PixMap",
+    "UV纹理"
+  ],
+  "content": "该AE插件通过将任何图层或视频映射到UV纹理通道上，可快速迭代重新纹理，改善工作流程，无需为一次纹理更改重新渲染昂贵的3D场景，能在After Effects中渲染单个UV通道并进行合成。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/pixmap.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01hRMaUs1vSN7y5XRvw_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – 2025或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1420863794-1cac0e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1GTV1AKJqN8L4JP9FK5X91Q?pwd=9fft"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/oG2WZ9H3wXB"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects"
+    ]
+  }
+}

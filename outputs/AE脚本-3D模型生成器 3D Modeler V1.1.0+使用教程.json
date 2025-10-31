@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-3D模型生成器 3D Modeler V1.1.0+使用教程",
+  "slug": "aejiao-ben-3dmo-xing-sheng-cheng-qi-3d-modeler-v1-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/10/08 11:08",
+  "source_url": "https://www.lookae.com/3d-modeler/",
+  "category": "aescripts",
+  "tags": [
+    "3D模型",
+    "AE脚本"
+  ],
+  "content": "通过挤压实体、形状、文本和透明层、应用纹理以及使用蒙版处理表面来创建 3D 模型。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/3D-Modeler.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/485933879684.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1381855663-f993f5?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/18jvrMCU9ZW0DuUcK3ZCWFg?pwd=pw6n"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/ftzt4FJwheE"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "pw6n"
+    },
+    "features": [
+      "挤压实体、形状、文本和透明层。",
+      "创建 3D 立方体、折纸形状和其他几何形状。",
+      "生成各种完整和不完整的金字塔。",
+      "通过遮蔽产生的雕刻和表面变化。",
+      "将纹理应用于您创建的 3D 模型。",
+      "简化自定义控制：颜色、深度、旋转角度等。",
+      "使用蒙版有选择地挤压或操纵特定的表面。",
+      "执行斜面、倒角和其他修改。"
+    ]
+  }
+}

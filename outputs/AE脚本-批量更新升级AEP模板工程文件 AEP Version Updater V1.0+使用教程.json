@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-批量更新升级AEP模板工程文件 AEP Version Updater V1.0+使用教程",
+  "slug": "aejiao-ben-pi-liang-geng-xin-sheng-ji-aepmo-ban-gong-cheng-wen-jian-aep-version-updater-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/10/12 10:56",
+  "source_url": "https://www.lookae.com/version-updater/",
+  "category": "aescripts",
+  "tags": [
+    "AEP Version Updater",
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "该脚本用于批量更新和升级旧版本的AEP模板工程文件，使其兼容新版本的After Effects。当使用低版本AE制作的模板在高版本AE中无法打开或报错时，可通过此工具一键完成版本升级，支持批量处理多个文件或整个文件夹及子文件夹，避免频繁弹出对话框干扰。同时具备文件备份、自定义后缀、不兼容文件检测等功能，确保操作安全可靠。适用于Windows和Mac系统，支持AE CS6至CC 2023及以上版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/10/AEP-Version-Updater.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/431452961154.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2023 及更高版本",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-957193764-bb875d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1tQKxRMsm8JuAAXung_cZsQ?pwd=2hmr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/FNHFctuCLZe"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "2hmr"
+    },
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/aep-version-updater/",
+      "https://www.lookae.com/tag/aescripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

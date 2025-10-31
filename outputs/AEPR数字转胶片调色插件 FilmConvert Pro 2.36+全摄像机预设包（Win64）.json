@@ -1,0 +1,58 @@
+{
+  "title": "AE/PR数字转胶片调色插件 FilmConvert Pro 2.36+全摄像机预设包（Win64）",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-pro-2-36-quan-she-xiang-ji-yu-she-bao-win64",
+  "author": "大众脸",
+  "post_date": "2015-11-06T12:49:00Z",
+  "source_url": "https://www.lookae.com/filmconvert236/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Rubber Monkey FilmConvert Pro 是一款将数字摄影机素材色彩转换为胶片质感的专业调色工具，支持作为独立程序或第三方插件使用。具备曝光调整、色温控制、颗粒添加、颜色三色轮及二级调色等功能，并支持LUT预设导入与保存。内置多种胶片模拟预设，涵盖8MM至35MM镜头噪点效果，适用于RED、DSLR、MOV等多种格式素材，操作简便，支持4K输出。广泛用于影视后期制作中提升数字画面的电影感。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/FilmConvert2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6, CC & CC 2014, CC 2015; Premiere Pro CS6, CC & CC 2014, CC 2015",
+  "supported_os": "Windows (Win64)",
+  "download_links": [
+    {
+      "name": "AE/PR数字转胶片调色插件 FilmConvert Pro 2.36 下载",
+      "url": "https://lookae.400gb.com/file/129524912"
+    },
+    {
+      "name": "全摄像机预设包下载",
+      "url": "http://www.filmconvert.com/download/Download_camera_packs.aspx"
+    },
+    {
+      "name": "【大众脸官方淘宝店】",
+      "url": "https://lookae.taobao.com/"
+    }
+  ],
+  "other": {
+    "plugin_description": "可作为独立程序或第三方插件，支持数字素材向胶片风格转换，提供丰富的调色功能和预设。",
+    "update_notes": [
+      "Removed the requirement for Win 7 machines to have a WIC update.",
+      "Fixed a typo in the version reporting of the plugin.",
+      "修正错误BUG"
+    ],
+    "official_website": "www.filmconvert.com/default.aspx",
+    "usage_notes": "插件为一键安装注册，安装后即可直接使用。",
+    "supported_formats": [
+      "RED",
+      "DSLR",
+      "MOV"
+    ],
+    "features": [
+      "曝光调整",
+      "色温控制",
+      "颗粒添加",
+      "颜色三色轮",
+      "二级调色",
+      "LUT预设导入与保存",
+      "8MM-35MM镜头噪点模拟",
+      "4K输出支持"
+    ]
+  }
+}

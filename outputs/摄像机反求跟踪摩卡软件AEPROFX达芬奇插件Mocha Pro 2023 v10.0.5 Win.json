@@ -1,0 +1,84 @@
+{
+  "title": "摄像机反求跟踪摩卡软件AE/PR/OFX/达芬奇插件Mocha Pro 2023 v10.0.5 Win",
+  "slug": "she-xiang-ji-fan-qiu-gen-zong-mo-qia-ruan-jian-ae-pr-ofx-da-fen-qi-cha-jian-mocha-pro-2023-v10-0-5-win",
+  "author": "大众脸",
+  "post_date": "2023/12/24 10:59",
+  "source_url": "https://www.lookae.com/mocha-2023/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mocha Pro",
+    "OFX",
+    "PR插件",
+    "跟踪插件",
+    "达芬奇插件"
+  ],
+  "content": "Mocha Pro是世界知名的软件和插件，用于平面运动跟踪、旋转观察、对象移除、图像稳定和 PowerMesh 有机变形跟踪。Mocha的工具对于视觉效果和后期制作至关重要，在最近每一部获得奥斯卡最佳视觉效果提名的电影中都发挥了至关重要的作用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Mocha-Pro-2023.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/407828550359.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014 – 2023, Premiere CC 2014 – 2023",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "AE PR 版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-995558038-d95887?p=4431"
+    },
+    {
+      "name": "AE PR 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/15e0HI24UKfG5lLQVf4vLiw?pwd=0pvq"
+    },
+    {
+      "name": "AE PR 版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/qEpWVc1EtRf"
+    },
+    {
+      "name": "OFX系列 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-995558044-a50f67?p=4431"
+    },
+    {
+      "name": "OFX系列 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10tXsAtxpZ8FSofEt8X_icQ?pwd=pug0"
+    },
+    {
+      "name": "OFX系列 - 阿里云盘",
+      "url": "https://www.alipan.com/s/KSCiXwrAyxz"
+    },
+    {
+      "name": "独立软件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-995557993-976d81?p=4431"
+    },
+    {
+      "name": "独立软件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1emYs8pXrCZOY2JuHzzJj7A?pwd=mojf"
+    },
+    {
+      "name": "独立软件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/buh456vyATc"
+    }
+  ],
+  "other": {
+    "compatible_software": [
+      "Adobe系列：After Effects CC 2014 – 2023 和 Premiere CC 2014 – 2023",
+      "OFX系列：Silhouette, NUKE, Fusion, 达芬奇DaVinci Resolve，VEGAS Pro, HitFilm Pro",
+      "独立软件：可作为独立程序单独使用"
+    ],
+    "update_notes": [
+      "Rotoscoping 改进：点选择衰减以获得更多有机 roto。快速将复杂的形状分成不同的层。快照图层以重新调整或分解镜头。更快地调整内部、外部或两个边缘。",
+      "跟踪改进：合并单独平面层的轨道。使用衰减移动 PowerMesh 跟踪点集群。快速跳转到轨道的末端并设置跟踪范围。",
+      "渲染改进：无需跟踪即可从锁定或静态镜头中移除对象。将模块 ROI（感兴趣区域）裁剪到表面以便于操作。",
+      "导出改进：直接在 Nuke OFX 插件中生成跟踪数据。新的一键生成数据，其中 After Effects 和 Nuke 中只有一层。",
+      "以及更多！"
+    ],
+    "related_links": [
+      "https://www.lookae.com/tag/mocha%e4%b8%ad%e6%96%87/"
+    ],
+    "passwords": {
+      "城通网盘": "6688"
+    },
+    "full_version": "Mocha Pro 2023 v10.0.5.38"
+  }
+}

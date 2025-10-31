@@ -1,0 +1,60 @@
+{
+  "title": "AE插件：透明通道抠像套装（附教程）Aescripts EFX Keying Alpha",
+  "slug": "aecha-jian-tou-ming-tong-dao-kou-xiang-tao-zhuang-fu-jiao-cheng-aescripts-efx-keying-alpha",
+  "author": "大众脸",
+  "post_date": "2014-08-24T05:35:00Z",
+  "source_url": "https://www.lookae.com/efxkeying/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件",
+    "抠像插件"
+  ],
+  "content": "Aescripts出品的透明通道抠像套装插件，包含17个专业抠像工具，适用于Windows版After Effects。该套装可高效处理复杂抠像需求，如羽化蒙版、多图层蒙版融合、一键抠图等。插件支持边缘柔化、去噪点、去色溢、基于颜色/亮度/透明度的像素选择等功能，特别适合处理高难度色溢和细节保留场景。压缩包内附带完整视频教程，便于学习与实践。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/EFX-Keying.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects (Windows)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE插件：透明通道抠像套装（附教程）Aescripts EFX Keying Alpha",
+      "url": "https://www.400gb.com/file/72252076"
+    }
+  ],
+  "other": {
+    "plugin_suite_count": 17,
+    "features": [
+      "combine alpha mattes of different layers with one simple effect",
+      "clean an alpha from small speckles left after keying noisy footage or difference matte",
+      "feather a matte edge 'outwards' – you don’t lose thin details",
+      "remove a dark edge after keying – this happens when the camera had sharpening turned on",
+      "tell the despiller which pixels he should despill and which to leave alone",
+      "difficult spill case? Just select the pixels with spill on them and use any of the normal AE effects to remove it",
+      "select pixels based on their color, luminosity or even transparency"
+    ],
+    "plugin_list": [
+      "Alpha Choke",
+      "Alpha Math",
+      "Alpha S'n'P",
+      "Alpha Select",
+      "Alpha Streaks",
+      "Color Select",
+      "Color Select HSL",
+      "Despill",
+      "Despill Advanced",
+      "Despill Brute",
+      "Edge Bleed",
+      "Edge Blur Keyer",
+      "Keyer",
+      "Keyer HSL",
+      "Luma Select",
+      "Spill Alpha",
+      "Despill Brute"
+    ],
+    "official_website": "http://aescripts.com/efx-keying-alpha-plugin-suite/",
+    "tutorial_included": true,
+    "download_status": "已修复"
+  }
+}

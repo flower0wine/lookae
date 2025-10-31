@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-中心点对齐关键帧曲线调整MG脚本 Motion Tools 2 + 中文使用教程",
+  "slug": "aejiao-ben-zhong-xin-dian-dui-qi-guan-jian-zheng-qu-xian-diao-zheng-mgjiao-ben-motion-tools-2-zhong-wen-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/09/06 21:52",
+  "source_url": "https://www.lookae.com/motion-tools-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Motion Design School"
+  ],
+  "content": "Motion Tools 2 是由国外优秀教程机构 Motion Design School（MDS）出品的 After Effects 脚本。该脚本整合了多个常用功能，如轴心点调整、关键帧曲线编辑、弹性动画、图层克隆、添加空物体等，旨在解决用户因安装多个单一功能脚本而造成的界面杂乱问题。脚本附带由 MG 与动画团队翻译的中英双语字幕使用教程视频，便于中文用户学习和使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Motion-Tools.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-396698836"
+    },
+    {
+      "name": "脚本 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1w3HJB4JIiX1_crZTjEornA"
+    },
+    {
+      "name": "中文字幕教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-393737267"
+    },
+    {
+      "name": "中文字幕教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1uDyK88xqotjWi7NhhZzm-A"
+    }
+  ],
+  "other": {
+    "installation_guide": [
+      "1. 复制 Motion Tools 2.jsxbin 文件到 AE 脚本目录：",
+      "   Win：…Adobe After Effects CC\\Support Files\\Scripts\\ScriptUI Panels\\",
+      "   Mac：应用程序\\Adobe After Effects CC\\Scripts\\ScriptUI Panels\\",
+      "2. 打开 AE 软件设置，勾选“允许脚本读写和访问网络”：",
+      "   Win：编辑 - 首选项 - 常规",
+      "   Mac：After Effects CC - 首选项 - 常规",
+      "3. 在软件顶部 Window 菜单下即可看到 Motion Tools 2 脚本"
+    ],
+    "note": "Motion Tools 2 与 Motion V2 是两个不同的脚本，但功能上有些许类似！"
+  }
+}

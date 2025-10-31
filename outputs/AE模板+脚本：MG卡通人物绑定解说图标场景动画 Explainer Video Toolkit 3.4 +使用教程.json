@@ -1,0 +1,58 @@
+{
+  "title": "AE模板+脚本：MG卡通人物绑定解说图标场景动画 Explainer Video Toolkit 3.4 +使用教程",
+  "slug": "aemo-ban-jiao-ben-mgqia-tong-ren-wu-bang-ding-jie-shuo-tu-biao-chang-jing-dong-hua-explainer-video-toolkit-3-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/03/19 20:29",
+  "source_url": "https://www.lookae.com/explainer-video-toolkit-34/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板"
+  ],
+  "content": "Explainer Video Toolkit 3.4 是一套用于 After Effects 的 MG 卡通人物绑定与解说图标场景动画模板，适用于制作高质量的解说类视频。该工具包包含完整的角色绑定系统、图标动画场景以及配套的 AE 脚本，支持快速自定义和高效预览。更新至 3.4 版本后，引入了 JSX Lib 版本以解决 AE 内存问题，优化了文件结构，并增强了角色绑定系统与唇形同步功能，同时提供了新的安装与使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/Explainer-video-toolkit-hero-image.jpg",
+    "https://d1a6a9r46cnyll.cloudfront.net/21eeb53441662cadb6f9c218984bd020edd62478/687474703a2f2f6269742e6c792f326745524f4772",
+    "https://d1a6a9r46cnyll.cloudfront.net/9928eed29b556e1bfb8fdd9cfc94a07fba65fae3/687474703a2f2f6269742e6c792f326674486f456f",
+    "https://d1a6a9r46cnyll.cloudfront.net/25a7f18aa021a40ac3f4a9e43678310de60f5bda/687474703a2f2f6269742e6c792f32674667445368",
+    "https://d1a6a9r46cnyll.cloudfront.net/09b98b6805162da7fb664f88522d23262c8d4cf8/687474703a2f2f692e696d6775722e636f6d2f744b4b30796e532e6a7067",
+    "https://d1a6a9r46cnyll.cloudfront.net/b1276c99eba8ba2e0c269e7c23a26dccb8db9c72/687474703a2f2f692e696d6775722e636f6d2f50763159544a392e706e67",
+    "https://d1a6a9r46cnyll.cloudfront.net/952e6df028adb8b3ed7a8c0913635e3d10f56e5e/687474703a2f2f692e696d6775722e636f6d2f614a32534772312e676966",
+    "https://d1a6a9r46cnyll.cloudfront.net/f6ee863d66f4a23859bcb31a62771ee12f5b9270/687474703a2f2f6269742e6c792f32674665566b39",
+    "https://d1a6a9r46cnyll.cloudfront.net/9e204325c332d2302b2e04508fdb1fc0406fd63c/687474703a2f2f692e696d6775722e636f6d2f733636474b416a2e706e67",
+    "https://d1a6a9r46cnyll.cloudfront.net/4d05825b6b3476dabc2a50ca9be59398c976395c/687474703a2f2f692e696d6775722e636f6d2f52657956336c362e706e67",
+    "https://d1a6a9r46cnyll.cloudfront.net/ed277064101149e7d71067e86ce4e92f35b20d45/687474703a2f2f692e696d6775722e636f6d2f34565764494e572e6a7067",
+    "https://d1a6a9r46cnyll.cloudfront.net/9bac63a5750bb8378af8ea100c7946d6d1f2ed99/687474703a2f2f692e696d6775722e636f6d2f697177656359322e706e67"
+  ],
+  "video_urls": [
+    "https://0.s3.envato.com/h264-video-previews/9650e397-c4ec-4172-95f2-2f45759f6f28/18812448.mp4"
+  ],
+  "supported_versions": "AE CS 6 – CC 2017 或更高版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE模板+脚本：MG卡通人物绑定解说图标场景动画 Explainer Video Toolkit 3.4 +使用教程",
+      "url": "https://lookae.ctfile.com/fs/28C179100234"
+    }
+  ],
+  "other": {
+    "resolution": "1920*1080",
+    "plugins_required": "无需外置插件",
+    "file_size": "2.3G",
+    "file_format": "aep 原版工程（含AE脚本）",
+    "tutorial_included": "修改视频教程",
+    "music_included": false,
+    "music_reference_link": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+    "duration": "none",
+    "template_id": "18812448",
+    "update_notes": [
+      "EVT3 JSX Lib version of the template (workaround for AE RAM bug, new file structure, new character rig, faster preview).",
+      "New Tutorials for installing and using JSX Libary and Lip Sync.",
+      "Edited folder structure."
+    ],
+    "related_links": {
+      "more_templates": "https://www.lookae.com/after-effects/other-after-effects/",
+      "music_collection": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "sponsor": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

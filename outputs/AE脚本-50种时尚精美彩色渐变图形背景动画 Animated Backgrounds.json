@@ -1,0 +1,60 @@
+{
+  "title": "AE脚本-50种时尚精美彩色渐变图形背景动画 Animated Backgrounds",
+  "slug": "aejiao-ben-50chong-shi-shang-jing-mei-cai-se-jian-bian-tu-xing-bei-jing-dong-hua-animated-backgrounds",
+  "author": "大众脸",
+  "post_date": "2021/11/12 11:58",
+  "source_url": "https://www.lookae.com/50-backgrounds/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Motion Factory",
+    "背景动画"
+  ],
+  "content": "这是一套包含50种时尚精美彩色渐变图形的After Effects动画背景，适用于社交媒体、广告视频、社交视频等内容创作。所有图层均为矢量，支持无损缩放。用户可轻松添加背景、自定义颜色以营造不同氛围。该资源基于Motion Factory脚本实现，提供完整预设文件夹，支持快速导入与使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Animated-Backgrounds-34753517.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336686226207.mp4"
+  ],
+  "supported_versions": "AE CC 2019 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520536535-a5ad2a"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1g5vjxFYESjUZKHzU4z-i9A"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/GMRjQQ4QPBy"
+    }
+  ],
+  "other": {
+    "file_info": {
+      "resolution": "不限制",
+      "music": "无音乐",
+      "extension": "Motion Factory 脚本（已包含）"
+    },
+    "installation_notes": [
+      "安装后请勿移动安装文件，否则失效。",
+      "需登录账号：lookae@lookae.com / lookae"
+    ],
+    "usage_help": "安装方法 + 视频教程",
+    "related_resources": [
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486"
+    ],
+    "installation_steps": [
+      "拷贝com.pixflow.motionfactory文件夹到指定路径（Windows或Mac）",
+      "Windows运行Add Keys.reg，Mac运行install-as-admin",
+      "在AE首选项中勾选‘允许脚本读写和访问网络’",
+      "通过窗口 > 扩展打开Motion Factory脚本",
+      "点击Log In并输入账号密码登录",
+      "在脚本界面右下角点击Import – Import Folder，选择预设文件夹导入"
+    ]
+  }
+}

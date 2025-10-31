@@ -1,0 +1,52 @@
+{
+  "title": "AE/PR插件-虚拟现实VR/AR/XR视觉特效插件 Mettle Mantra v2.0 Win/Mac版",
+  "slug": "ae-prcha-jian-xu-ni-xian-shi-vr-ar-xrshi-jue-te-xiao-cha-jian-mettle-mantra-v2-0-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/03/17 16:55",
+  "source_url": "https://www.lookae.com/mantra-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle Mantra 是一款用于 After Effects 和 Premiere Pro 的视觉特效插件，专为创建虚拟现实（VR）、增强现实（AR）和扩展现实（XR）内容而设计。它能够将普通素材转化为超现实且富有想象力的动画效果，并支持在360°环境中应用视觉特效，使镜头更加生动。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/03/Mantra-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC – CC 2019, After Effects 2020; Premiere Pro CC – CC 2019",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 版下载 (v1.27)",
+      "url": "https://www.lookae.com/mettle-201810/"
+    },
+    {
+      "name": "Mac 版下载 (v2.0) - 城通网盘",
+      "url": "https://72k.us/file/680462-429919262"
+    },
+    {
+      "name": "Mac 版下载 (v2.0) - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kEtLEIi_uglE6m-FogtaLA"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_code": "p1a5",
+    "official_product_urls": [
+      "https://www.mettle.com/product/mantra-vr/",
+      "https://aescripts.com/mantra-vr/"
+    ],
+    "v2_features": {
+      "name_change": "简化了Mantra名称，删除了“VR”",
+      "new_modules": [
+        "Mantra ObjX: 导入流行3D格式（alembic, fbx, obj, glTF, USDZ），修改材质并导出为AR支持格式（USDZ和glTF）",
+        "更新 Mantra Spherify: 将360°图像/素材转为3D球形门户，支持RGBA，可导出为USDZ/glTF用于AR播放器",
+        "更新 Mantra Graphix: 将2D图形拉伸为3D形状、徽标和文字，导出为AR兼容格式",
+        "新增 Mettle 3DNA: 专有3D渲染引擎，支持高级体积工作流程"
+      ],
+      "ar_players_supported": [
+        "Adobe Aero",
+        "Apple Reality Composer"
+      ]
+    }
+  }
+}

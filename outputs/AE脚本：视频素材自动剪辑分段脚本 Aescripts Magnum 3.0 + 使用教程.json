@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：视频素材自动剪辑分段脚本 Aescripts Magnum 3.0 + 使用教程",
+  "slug": "aejiao-ben-shi-pin-su-cai-zi-dong-jian-ji-fen-duan-jiao-ben-aescripts-magnum-3-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/11/09 13:03",
+  "source_url": "https://www.lookae.com/magnum-3/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts Magnum 3.0脚本可以自动检测视频素材中镜头场景的切换，能把每个镜头剪辑成单独的视频片段，新版本更新了检测引擎，更加简单智能。适用于Win/Mac系统下AE CS4/CS5/CS6/CC/CC2014/CC2015。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/magnum-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4/CS5/CS6/CC/CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：视频素材自动剪辑分段脚本 Aescripts Magnum 3.0 + 使用教程",
+      "url": "http://lookae.ctfile.com/file/130383284"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "新特性": [
+      "Brand new detection engine that works with all footage types",
+      "Easier to set visual change threshold setting",
+      "Search range feature to compensate for dissolves",
+      "CC 2015 compatible",
+      "Thumbnail export with optional spreadsheet data",
+      "Highly customizable naming options"
+    ],
+    "脚本安装": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane"
+  }
+}

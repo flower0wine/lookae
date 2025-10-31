@@ -1,0 +1,44 @@
+{
+  "title": "Mac苹果版-视频背景智能抠像AE/PR插件 Goodbye Greenscreen v2.1.1",
+  "slug": "macping-guo-ban-shi-pin-bei-jing-zhi-neng-kou-xiang-ae-prcha-jian-goodbye-greenscreen-v2-1-1",
+  "author": "大众脸",
+  "post_date": "2025-01-10T10:21:00Z",
+  "source_url": "https://www.lookae.com/goodbye-greenscreen-211/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Goodbye Greenscreen",
+    "Mac苹果版"
+  ],
+  "content": "Goodbye Greenscreen 是一款基于人工智能的插件，专为 After Effects 和 Premiere 设计，支持复杂背景与纯色背景的智能抠像。可从视频中自动创建遮罩，并集成强大的颜色键控功能，提升合成效率。适用于 Mac 苹果系统，兼容最新版本的 AE 与 PR。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/Goodbye-Greenscreen-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297235512328.mp4"
+  ],
+  "supported_versions": "After Effects 2022-2025, Premiere 2022-2025",
+  "supported_os": "Mac苹果系统 (Apple Silicon & Intel)",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1445416595-cc8503?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1kaI_jiFqiWKbRKt2RnseAw?pwd=5mvp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/VM8igEuVECt"
+    }
+  ],
+  "other": {
+    "update_notes": "v2.1.1 版本更新：优化安装程序以识别最新的 AE 版本。",
+    "related_links": [
+      "https://www.lookae.com/goodbye-211/"
+    ],
+    "additional_info": "支持 M1/M2 芯片 Mac，具备 AI 驱动的背景抠像与颜色键控能力，适用于影视后期、广告制作等场景。"
+  }
+}

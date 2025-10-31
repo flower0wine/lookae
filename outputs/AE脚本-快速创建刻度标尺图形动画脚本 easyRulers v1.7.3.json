@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-快速创建刻度标尺图形动画脚本 easyRulers v1.7.3",
+  "slug": "aejiao-ben-kuai-su-chuang-jian-ke-du-biao-chi-tu-xing-dong-hua-jiao-ben-easyrulers-v1-7-3",
+  "author": "大众脸",
+  "post_date": "2019/04/27 15:38",
+  "source_url": "https://www.lookae.com/easyrulers-173/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "这款 easyRulers 脚本可以很轻松地创建带有数字刻度标尺的图形效果，能够快速简单地生成多种类型的图形测量标尺，适用于制作仪表盘、示波器、速度表、图形均衡器、HUD、UI 元素、历史时间线、仪器布局、信息图表等场景。脚本操作简便，控制直观，适合各类 After Effects 用户使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/easyRulers-173.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/44192264.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368656733"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1cpQXdvNAyBQe05N5hkObAw"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_code": "1n2f",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_store_url": "https://lookae.taobao.com/",
+    "sponsor_url": "https://www.lookae.com/sponsor/",
+    "official_website": "http://aescripts.com/easyrulers/",
+    "changelog": [
+      "优化：easyRulers现在与After Effects CC 2019完全兼容",
+      "更改：“Stepping”字段现在接受十进制数字（用逗号或点分隔，例如0.52或0,52）",
+      "修复：修复条纹，点和基线颜色的几个错误",
+      "修复：影响圆形标尺的“添加表达式和效果控件”按钮中的小错误修复",
+      "更改：easyRulers不再使用“Tahoma”字体作为其生成的每个文本图层的默认字体。它现在将使用After Effects字符面板中生成时选择的任何字体。",
+      "改变：UI操作界面小变化",
+      "优化：更多信息警告/警报消息+弹出帮助提示",
+      "优化：维护更新，以便与所有受支持的After Effects版本更好地兼容"
+    ]
+  }
+}

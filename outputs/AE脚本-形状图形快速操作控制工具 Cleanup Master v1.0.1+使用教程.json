@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-形状图形快速操作控制工具 Cleanup Master v1.0.1+使用教程",
+  "slug": "aejiao-ben-xing-zhuang-tu-xing-kuai-su-cao-zuo-kong-zhi-gong-ju-cleanup-master-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/08/01 09:11",
+  "source_url": "https://www.lookae.com/cleanup-master-101/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Cleanup Master 是一款功能强大的 After Effects 工具，可简化形状图层工作流程，使复杂的清理任务更快、更智能、更轻松。它支持基于点的编辑、形状组与空值交互、一键链接蒙版、阴影组管理等功能，并提供复制粘贴形状状态、折叠点、为路径创建关键帧、删除点保留动画等高级操作，极大提升动画制作效率与时间线整洁度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/Cleanup-Master-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/527762696426.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8400968827-ec4a8b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hQmcdqvCPsOBD4yl_ARhuQ?pwd=3hn2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/UpFac5oYNK4"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "3hn2"
+    },
+    "update_notes_v1.0.1": {
+      "new_features": [
+        "按住 OPT/ALT 并按下 Solo 按钮可立即选择所选路径中的所有点。",
+        "按住 CMD/CTRL 并按下重命名按钮可将选定路径嵌套到新组中（并命名该组）"
+      ],
+      "bug_fixes": [
+        "修复了嵌套组和反转不透明度的问题",
+        "现在，当多次单击时，反转不透明度上的 CMD/CTRL 选项会恢复为原始值"
+      ]
+    }
+  }
+}

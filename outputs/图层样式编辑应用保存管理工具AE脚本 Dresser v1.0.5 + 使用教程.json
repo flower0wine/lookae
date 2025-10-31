@@ -1,0 +1,41 @@
+{
+  "title": "图层样式编辑应用保存管理工具AE脚本 Dresser v1.0.5 + 使用教程",
+  "slug": "tu-ceng-yang-shi-bian-ji-ying-yong-bao-cun-guan-li-gong-ju-aejiao-ben-dresser-v1-0-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/09/18 09:14",
+  "source_url": "https://www.lookae.com/dresser/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Dresser 是一款用于在 After Effects 中编辑、应用和保存图层样式的高效工具。它通过大幅减少操作点击次数，帮助用户在处理图层样式时节省超过 50% 的时间。脚本内置预设浏览器，支持保存和快速访问用户自定义的样式，并可为每个预设设置可自定义的缩略图，提升工作流效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/Dresser-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/401911350300.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-940906647-ae704d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1E2pAjAC-iFqJZyLmr9aptA?pwd=33su"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/93suV6NDQpt"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.5更新：更改了 Windows 路径的路径结构，以防止具有预设和预设文件夹的设备之间出现异常行为",
+    "access_password": {
+      "城通网盘": "6688"
+    },
+    "baidu_netdisk_code": "33su"
+  }
+}

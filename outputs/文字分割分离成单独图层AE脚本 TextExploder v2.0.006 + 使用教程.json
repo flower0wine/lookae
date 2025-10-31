@@ -1,0 +1,50 @@
+{
+  "title": "文字分割分离成单独图层AE脚本 TextExploder v2.0.006 + 使用教程",
+  "slug": "wen-zi-fen-ge-fen-chi-cheng-dan-du-tu-ceng-aejiao-ben-textexploder-v2-0-006-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/28 22:10",
+  "source_url": "https://www.lookae.com/textexploder-2006/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "TextExploder",
+    "文字分割脚本"
+  ],
+  "content": "TextExploder 脚本可以将一整段文字按照单个字母、单词、句子等单位分割并分离成独立的文字图层，便于对每个部分进行单独控制。分割后每个字符的位置都能被准确保留。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Text-Exploder.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50027194666.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS 4 – CC 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-585403591-a71ecf?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1iP8XcyBRGZ5Z-hz8GfNUUA?pwd=7rwj"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/AxaecaqgXRs"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-220389175"
+    },
+    {
+      "name": "教程下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1miMJgOK"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了与较新操作系统版本的兼容性，并增加了对时间限制许可证的支持",
+      "修复自定义拆分词中的 unicode 字符问题"
+    ]
+  }
+}

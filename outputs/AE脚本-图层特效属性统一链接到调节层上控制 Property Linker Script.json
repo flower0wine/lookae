@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-图层特效属性统一链接到调节层上控制 Property Linker Script",
+  "slug": "aejiao-ben-tu-ceng-te-xiao-shu-xing-tong-yi-lian-jie-dao-diao-jie-ceng-shang-kong-zhi-property-linker-script",
+  "author": "大众脸",
+  "post_date": "2019-04-14T22:46:00Z",
+  "source_url": "https://www.lookae.com/property-linker-script/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可将图层上的特效属性（如大小、颜色、透明度等）统一链接到一个调节层上进行控制，便于整体操作和管理，显著提升工作效率。支持在 Windows 和 Mac 系统的 After Effects CS4 至 CC 2019 版本中使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Property-Linker-Script.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/223662263170.mp4"
+  ],
+  "supported_versions": "AE CS4 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-365503040"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/16F08gwvQ3w-xcbqp5KD3BA"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "download_extract_code": "tpsw",
+    "script_description": "Script to automatical create controllers (Slider Control/Color Control and etc) from selected properties (Opacity, Scale, and etc)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-图层边角控制随意定位放置脚本 AM Pins To Corner V1.0",
+  "slug": "aejiao-ben-tu-ceng-bian-jiao-kong-zhi-sui-yi-ding-wei-fang-zhi-jiao-ben-am-pins-to-corner-v1-0",
+  "author": "大众脸",
+  "post_date": "2020/03/18 21:04",
+  "source_url": "https://www.lookae.com/pins-to-corner/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这个脚本允许您单击按钮将Corner Pin或CC Power Pin的每个点放置到当前构图的各个角。您所要做的就是选择具有Corner Pin或CC Power Pin效果的图层，然后单击按钮来设置您选择的所有角或每个单独的角，即可随意地放置图层。您还可以一次将Corner Pin或CC Power Pin效果添加到合成中的所有选定图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/03/Pins-To-Corner-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-430310036"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1JNO4msqmnCCIgc0FHHMYRA"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_code": "8fqo",
+    "official_website": "https://aescripts.com/am-pins-to-corner/"
+  }
+}

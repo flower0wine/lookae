@@ -1,0 +1,54 @@
+{
+  "title": "红巨人调色插件套装 Red Giant Magic Bullet Suite v13.0.1 支持 CC 2017",
+  "slug": "hong-ju-ren-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v13-0-1-zhi-chi-cc-2017",
+  "author": "大众脸",
+  "post_date": "2016/11/05 17:21",
+  "source_url": "https://www.lookae.com/mb1301/",
+  "category": "aechajian",
+  "tags": [
+    "Adobe CC 2017",
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Magic Bullet Suite v13.0.1 是一套面向影视调色的专业插件套装，新增 Renoiser 噪波颗粒插件，并对 Colorista、Looks、Denoiser 等原有插件进行了大幅升级。整套工具基于 GPU（OpenGL/OpenCL）加速，提供实时色彩校正、降噪、磨皮、电影质感模拟等功能，可显著提升后期调色效率与画面质感。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13.jpg",
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13sn.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v13.0.1",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win 版本",
+      "url": "https://pan.baidu.com/s/1pK9nWZx"
+    },
+    {
+      "name": "Mac 版本",
+      "url": "https://pan.baidu.com/s/1c2Jub8c"
+    }
+  ],
+  "other": {
+    "serial_numbers": [
+      "COBK2245921573563861",
+      "COBK2245846563534111"
+    ],
+    "tutorial_links": [
+      "http://lookae.ctfile.com/fs/EOV159613519",
+      "https://pan.baidu.com/s/1nu7VFYT"
+    ],
+    "compatible_software": [
+      "Adobe After Effects CS6 – CC 2017",
+      "Adobe Premiere Pro CS6 – CC 2017",
+      "DaVinci Resolve Studio 11, 12",
+      "Apple Final Cut Pro X",
+      "Apple Motion 5",
+      "Avid Media Composer 7.0, 8.0+",
+      "Vegas Pro 12, 13, 14 (64-bit)",
+      "Edius 8"
+    ]
+  }
+}

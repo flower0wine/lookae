@@ -1,0 +1,64 @@
+{
+  "title": "中文汉化版-高级华丽真实阴影拖尾投影AE插件 Shadow Studio 3 v1.0.2 Win/Mac",
+  "slug": "zhong-wen-yi-hua-ban-gao-ji-hua-li-zhen-shi-yin-ying-tuo-wei-tou-ying-aecha-jian-shadow-studio-3-v1-0-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2024/12/18 09:55",
+  "source_url": "https://www.lookae.com/shadow-studio-3102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Shadow Studio",
+    "中文汉化",
+    "阴影插件"
+  ],
+  "content": "Shadow Studio 3 是一款专为 After Effects 打造的终极阴影模拟插件，可生成逼真的光线追踪阴影效果。它基于 Alpha 通道工作，实现柔和阴影、全局照明、内置挤压与斜角功能，效果媲美 3D 渲染，但渲染效率远高于真实 3D 阴影。适用于创意设计中快速创建高质量阴影效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Shadow-Studio-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/437857438343.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1438545535-8b40c3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1uZ2PnWHN3SdDE2gr45w6ww?pwd=rpqt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/vnSHUbcfdY5"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "仅限 Windows：修复渐变 UI 选择错误",
+      "仅限 Windows 的错误修复，可能导致渲染崩溃"
+    ],
+    "download_info": "Win 为中英文版，Mac 仅英文版",
+    "additional_tags": [
+      "AE插件",
+      "AE插件M1",
+      "Shadow Studio",
+      "中文汉化",
+      "阴影插件"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/shadow-studio/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "https://www.lookae.com/tag/%e9%98%b4%e5%bd%b1%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

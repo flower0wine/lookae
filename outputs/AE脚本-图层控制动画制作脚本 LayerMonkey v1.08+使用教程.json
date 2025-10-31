@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-图层控制动画制作脚本 LayerMonkey v1.08+使用教程",
+  "slug": "aejiao-ben-tu-ceng-kong-zhi-dong-hua-zhi-zuo-jiao-ben-layermonkey-v1-08-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/25 14:46",
+  "source_url": "https://www.lookae.com/layermonkey/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "LayerMonkey是After Effects的一个多功能脚本，可以在时间和空间中对comp的图层进行排列和动画处理。它还创建了一个专用摄像机，并生成一个主控制层，使部分和全局调整变得轻而易举。现在，只需按一下按钮，视频和预合成就可以用作生成复杂组合的动力学元素。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/LayerMonkey.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5.5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368249674"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/13C0YNyCdN23UZB3U3qUywQ",
+      "extra": "提取码：7ns6"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "related_tags_links": [
+      {
+        "name": "Aescaripts",
+        "url": "https://www.lookae.com/tag/aescaripts/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      }
+    ]
+  }
+}

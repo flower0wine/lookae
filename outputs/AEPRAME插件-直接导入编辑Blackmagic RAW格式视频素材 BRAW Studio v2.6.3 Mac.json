@@ -1,0 +1,64 @@
+{
+  "title": "AE/PR/AME插件-直接导入编辑Blackmagic RAW格式视频素材 BRAW Studio v2.6.3 Mac",
+  "slug": "ae-pr-amecha-jian-zhi-jie-dao-ru-bian-ji-blackmagic-rawge-shi-shi-pin-su-cai-braw-studio-v2-6-3-mac",
+  "author": "大众脸",
+  "post_date": "2022/03/20 23:57",
+  "source_url": "https://www.lookae.com/braw-263-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "BRAW Studio 是一款专为 Adobe Creative Cloud 设计的插件，允许用户直接在 After Effects、Premiere Pro 和 Media Encoder 中导入并编辑 Blackmagic RAW（.braw）格式的视频素材，并支持对相关参数进行调整。该插件基于官方 BRAW SDK，提供高质量的 RAW 视频处理能力，适用于专业调色与后期制作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Media Encoder: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556969466-d43a21"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1pASP3NPSbA1RsCHVDGoWdA?pwd=wr9t"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/epinxQGN4Yf"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘插件": "6688",
+      "百度网盘插件": "wr9t",
+      "百度网盘教程": "n67x"
+    },
+    "update_notes": {
+      "PrPro面板新功能": [
+        "新增“将LUT添加到侧车”按钮，用于将自定义LUT压缩到所选BRAW文件的.sidecar文件中，以便通过官方BRAW SDK加载和处理",
+        "新增“导出嵌入式LUT”按钮，可将嵌入式LUT导出为.cube文件，供其他调色软件使用",
+        "BRAW设置每行新增重置图标，可将参数重置为拍摄时或.sidecar中记录的相机元数据值",
+        "工具箱新增按钮，可将BRAW Studio项目转换为Blackmagic Design Premiere Pro插件项目（双向兼容，但源设置参数不转换）"
+      ],
+      "Premiere Pro新功能": "可在“解释画面”设置中选择颜色空间，支持HDR制作和BRAW编辑",
+      "修正内容": [
+        "修复PrPro面板“重做”按钮在某些情况下未更新UI的问题",
+        "修复PrPro面板“至Src监视器”按钮在某些情况下无效的问题",
+        "修复BMD Gammas的黑电平问题（2.2版本回归问题），并提升整体性能与稳定性"
+      ]
+    }
+  }
+}

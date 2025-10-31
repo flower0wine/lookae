@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-创建带有碰撞的弹性柔体对象 Soft Body v1.2",
+  "slug": "aejiao-ben-chuang-jian-dai-you-peng-zhuang-de-dan-xing-rou-ti-dui-xiang-soft-body-v1-2",
+  "author": "大众脸",
+  "post_date": "2021-11-13",
+  "source_url": "https://www.lookae.com/soft-body/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "在 After Effects 中一键生成可碰撞的软体动画，支持形状图层、文本与预合成，自带摆动自动动画与简洁 UI。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Soft-Body-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336478745601.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520630427-2a4c38"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RoTp9I-oqRWtaxM9fUSAsA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/1sk46a4fgfi"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "8pdi"
+    },
+    "限制说明": [
+      "对极小/极薄物体作为柔体时效果有限",
+      "柔化锐角（仅对柔体生效，碰撞器不受影响）"
+    ]
+  }
+}

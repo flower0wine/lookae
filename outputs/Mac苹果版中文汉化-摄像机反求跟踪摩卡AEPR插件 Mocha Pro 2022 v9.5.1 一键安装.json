@@ -1,0 +1,52 @@
+{
+  "title": "Mac苹果版中文汉化-摄像机反求跟踪摩卡AE/PR插件 Mocha Pro 2022 v9.5.1 一键安装",
+  "slug": "macping-guo-ban-zhong-wen-yi-hua-she-xiang-ji-fan-qiu-gen-zong-mo-qia-ae-prcha-jian-mocha-pro-2022-v9-5-1-yi-jian-an-zhuang",
+  "author": "大众脸",
+  "post_date": "2022/06/07 17:15",
+  "source_url": "https://www.lookae.com/mocha-macaeprzh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mocha Pro",
+    "PR插件",
+    "中文汉化",
+    "精品资源",
+    "跟踪插件"
+  ],
+  "content": "Mocha Pro是世界知名的平面跟踪、旋转扫描、对象移除、稳定和网格跟踪软件。对于VFX和后期制作至关重要，Mocha因其对电影和电视行业的贡献而获得了著名的奥斯卡奖和艾美奖。本版本为适用于Mac系统的AE/PR插件版，提供中文与英文界面，支持一键安装。由于中文编码的特殊性，可能存在潜在BUG；极少部分参数可能未完全汉化。用户需自行了解工具使用方法，本资源仅提供软件，不含视频教程或使用教学。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/MOCHA-MAC-AEPR.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN0129SAQu1vSMskfhlLy_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/327442918724.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018; PR 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Mac苹果系统 10.14.x-12.x",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?id=675770708966"
+    },
+    {
+      "name": "站内直接购买（¥35）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fmocha-macaeprzh%2F"
+    }
+  ],
+  "other": {
+    "system_requirements": {
+      "processor": "中文/英文版支持Intel；M1原生可用英文版（或Rosetta转译AE后可用中文版）",
+      "disk_space": "至少 1GB 可用空间",
+      "memory": "至少 4GB",
+      "gpu": "对于GPU跟踪，必须支持OpenCL 1.2；对于CPU跟踪，OpenGL 2.1",
+      "display": "最低分辨率1200×800像素"
+    },
+    "notes": [
+      "目前汉化版本支持12.x系统，不支持Win系统",
+      "这是AE和PR插件版，不是独立软件版",
+      "由于技术限制和疏漏，极少部分参数可能未做汉化",
+      "中文编码的特殊性，可能存在潜在BUG",
+      "仅提供工具，不提供任何视频教程和使用教学"
+    ]
+  }
+}

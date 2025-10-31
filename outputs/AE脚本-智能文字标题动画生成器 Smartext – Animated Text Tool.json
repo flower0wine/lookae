@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-智能文字标题动画生成器 Smartext – Animated Text Tool",
+  "slug": "aejiao-ben-zhi-neng-wen-zi-biao-ti-dong-hua-sheng-cheng-qi-smartext-animated-text-tool",
+  "author": "大众脸",
+  "post_date": "2021-09-08",
+  "source_url": "https://www.lookae.com/smartext/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "动画生成器"
+  ],
+  "content": "Smartext 是一款 After Effects 脚本，可一键生成英文文字标题动画，内置简单、故障、手写 3 种风格，支持 az、0-9 及符号，全高清输出，含教程视频。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/Smartext-Animated-Text-Tool.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325660077925.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS6 及更高版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-512206234-75326e"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1YAhHNycuFsmnQcuqPeQ1mQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/CdSSkWY8Yvt"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "3ndv"
+    },
+    "技术细节": {
+      "字体大小上限": "360 像素",
+      "分辨率": "1920×1080",
+      "字符支持": "az、0-9 及所有符号（动画版）"
+    }
+  }
+}

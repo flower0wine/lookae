@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-关键帧缓入缓出动画工具 Ease and Wizz v2.6.1",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-dong-hua-gong-ju-ease-and-wizz-v2-6-1",
+  "author": "大众脸",
+  "post_date": "2021-11-10",
+  "source_url": "https://www.lookae.com/ease-wizz-261/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Ease and Wizz 是一套 After Effects 表达式集合，可为关键帧提供更多插值方式，轻松实现各种属性的缓入缓出动画效果。脚本以可停靠面板形式呈现，使用简单，并附带视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/Ease-and-Wizz-26.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/303517908631.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520318854-918577"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dsyI-sNLgETLNkspVhCUFQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/QMtQaQVZjLp"
+    }
+  ],
+  "other": {
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "8wf1",
+    "v2.6.0 更新内容": "已修复由于“curly quotes”导致的 Windows 上 KBar 冲突，现已全部转义为 unicode。"
+  }
+}

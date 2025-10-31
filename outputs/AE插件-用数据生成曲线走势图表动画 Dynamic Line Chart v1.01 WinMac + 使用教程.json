@@ -1,0 +1,43 @@
+{
+  "title": "AE插件-用数据生成曲线走势图表动画 Dynamic Line Chart v1.01 Win/Mac + 使用教程",
+  "slug": "aecha-jian-yong-shu-ju-sheng-cheng-qu-xian-zou-shi-tu-biao-dong-hua-dynamic-line-chart-v1-01-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/12/29 18:29",
+  "source_url": "https://www.lookae.com/dynamic-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "动态折线图（DLC）是一个After Effects插件，可立即从数据创建折线图。图表的所有参数和数据本身都可以设置动画。许多参数可以对网格和轴的外观和尺寸进行动画控制，从而可以放大和缩小数据。甚至是动画数据，都可以通过CSV文件（UTF-8编码）导入，也可以从图表图像中重新采样。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Dynamic-Line-Chart-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-477819875"
+    },
+    {
+      "name": "插件 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Y0MCNskhxpB6y1-CLAWW7A"
+    },
+    {
+      "name": "使用教程 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-447513096"
+    },
+    {
+      "name": "使用教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/10mE4ZqTOCFfFQbwSMLBbew"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了Mac上数据选择弹出窗口上的错误选择错误警告。",
+      "修复了格式错误的CSV文件导入时崩溃的问题。"
+    ],
+    "official_website": "https://aescripts.com/dynamic-line-chart/"
+  }
+}

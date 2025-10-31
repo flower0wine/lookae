@@ -1,0 +1,58 @@
+{
+  "title": "AE/PR插件-将Blackmagic RAW格式视频素材直接导入编辑BRAW Studio v3.0.4 Win/Mac",
+  "slug": "ae-prcha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-zhi-jie-dao-ru-bian-ji-braw-studio-v3-0-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2023-05-22",
+  "source_url": "https://www.lookae.com/braw-301/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AU插件",
+    "PR插件",
+    "RAW解码器"
+  ],
+  "content": "BRAW Studio 是一款专为 After Effects、Premiere Pro 与 Media Encoder 设计的原生 Blackmagic RAW（.braw）导入插件。V3 版本带来全新桌面应用程序、白平衡选择器及 Premiere Pro 元数据管理器工具，支持在 BRAW Studio 面板中直接调整 RAW 参数，并可在 After Effects 中通过图层设置滤镜实现可自定义的 RAW 调色流程。插件同时提供免费与高级双版本，满足从入门到专业级工作流需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Win插件-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-859856283-e9e808?p=4431"
+    },
+    {
+      "name": "Win插件-百度网盘",
+      "url": "https://pan.baidu.com/s/13GoeSL-pJY6G5tXBs1eiRg?pwd=jzt0"
+    },
+    {
+      "name": "Win插件-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XbSFszbhmEQ"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘插件": "jzt0",
+      "百度网盘教程": "n67x"
+    },
+    "更新日志": {
+      "3.0.4": [
+        "修复 Adobe Importer：解决在 Premiere Pro 中对 BRAW 剪辑应用稳定器等特效时可能出现的红色错误帧及渲染问题",
+        "修复 Premiere Pro 面板：优化“在项目中全部选择”与“在序列中全部选择”按钮，解除因选择限制导致的参数无法更改问题（手动选择仍保持 100 个剪辑限制）"
+      ]
+    }
+  }
+}

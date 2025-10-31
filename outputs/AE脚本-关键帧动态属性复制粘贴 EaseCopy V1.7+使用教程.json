@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-关键帧动态属性复制粘贴 EaseCopy V1.7+使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-dong-tai-shu-xing-fu-zhi-nian-tie-easecopy-v1-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/04/20 17:18",
+  "source_url": "https://www.lookae.com/easecopy-1-7/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本EaseCopy允许在复制/粘贴关键帧时，选择不覆盖参数值或缓动效果。V1.7更新内容包括快捷方式脚本，用户可将功能分配给键盘快捷方式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/EaseCopy.jpg"
+  ],
+  "video_urls": [
+    "https://www.lookae.com/easecopy-zh/"
+  ],
+  "supported_versions": "AE 2020，CC 2019，CC 2018，CC 2017，CC 2015.3，CC 2015，CC 2014，CC，CS6，CS5.5，CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-438507989"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/14n2t94UE0oNFNPHJT_eUaQ"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "脚本官网": "https://aescripts.com/easecopy/",
+    "提取码": "6cct"
+  }
+}

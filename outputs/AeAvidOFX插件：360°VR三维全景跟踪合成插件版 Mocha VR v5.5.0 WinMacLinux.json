@@ -1,0 +1,58 @@
+{
+  "title": "Ae/Avid/OFX插件：360°/VR三维全景跟踪合成插件版 Mocha VR v5.5.0 Win/Mac/Linux",
+  "slug": "ae-avid-ofxcha-jian-360deg-vrsan-wei-quan-jing-gen-zong-he-cheng-cha-jian-ban-mocha-vr-v5-5-0-win-mac-linux",
+  "author": "大众脸",
+  "post_date": "2017/02/13 22:58",
+  "source_url": "https://www.lookae.com/mochavr-plug55/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "mocha vr",
+    "OFX",
+    "PR插件",
+    "Win/Mac/Linux"
+  ],
+  "content": "Imagineer Systems 公司新推出的一款360°/VR三维全景跟踪合成软件 Mocha VR，包含了mocha Pro软件的所有功能，高级遮罩功能，创建/插入/删除对象，跟踪，稳定等。Mocha VR 可作为独立程序使用，也可以作为插件在别的软件中使用。官网地址：http://www.imagineersystems.com/products/mocha-vr/",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/mocha-vr-Plug-in.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC-CC 2017, Adobe Premiere Pro CC-CC 2017, Avid Media Composer, The Foundry Nuke, Blackmagic Design Fusion",
+  "supported_os": "Win/Mac/Linux",
+  "download_links": [
+    {
+      "name": "Ae/Pr插件Win系统版本下载",
+      "url": "https://lookae.ctfile.com/fs/R6M171364610"
+    },
+    {
+      "name": "Ae/Pr插件Mac版本下载",
+      "url": "https://lookae.ctfile.com/fs/1x1171364594"
+    },
+    {
+      "name": "Avid插件Win系统版本下载",
+      "url": "https://lookae.ctfile.com/fs/Osz171364706"
+    },
+    {
+      "name": "Avid插件Mac版本下载",
+      "url": "https://lookae.ctfile.com/fs/VvQ171364658"
+    },
+    {
+      "name": "OFX插件Win系统版本下载",
+      "url": "https://lookae.ctfile.com/fs/TrB171364866"
+    },
+    {
+      "name": "OFX插件Mac版本下载",
+      "url": "https://lookae.ctfile.com/fs/O7N171364830"
+    },
+    {
+      "name": "OFX插件Linux版本下载",
+      "url": "https://lookae.ctfile.com/fs/vHg171364762"
+    },
+    {
+      "name": "360°/VR三维全景跟踪合成软件 Mocha VR 5.5.0 Win/Mac/Linux",
+      "url": "https://www.lookae.com/mochavr-55/"
+    }
+  ],
+  "other": {}
+}

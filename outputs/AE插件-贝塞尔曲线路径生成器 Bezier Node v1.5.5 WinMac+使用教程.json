@@ -1,0 +1,42 @@
+{
+  "title": "AE插件-贝塞尔曲线路径生成器 Bezier Node v1.5.5 Win/Mac+使用教程",
+  "slug": "aecha-jian-bei-sai-er-qu-xian-lu-jing-sheng-cheng-qi-bezier-node-v1-5-5-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-03-21T00:04:00Z",
+  "source_url": "https://www.lookae.com/bezier-155/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Bezier Node插件简化了制作贝塞尔曲线及其他曲线的过程，可从A点到B点绘制出流畅的曲线，并支持对曲率进行精确控制。用户可调节起始与结束位置、对称模式、附加线、颜色、路径修改及多曲线路径等，实现完美曲线效果。插件自动更新贝塞尔手柄，确保曲线始终精准。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Bezier-Node.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019, 2020, 2021, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556970765-dd672c"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12g6XnXwVTRBNPNEkHXBGsA?pwd=7f37"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ceW55UvffuW"
+    }
+  ],
+  "other": {
+    "update_notes": "在 AE 2022 中添加了对 MFR 的支持",
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ],
+    "post_date_raw": "2022/03/21 00:04",
+    "author_profile_link": "https://www.lookae.com/author/da-zhong-lian/"
+  }
+}

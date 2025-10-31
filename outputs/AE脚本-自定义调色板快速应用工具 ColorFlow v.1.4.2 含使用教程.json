@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-自定义调色板快速应用工具 ColorFlow v.1.4.2 含使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-diao-se-ban-kuai-su-ying-yong-gong-ju-colorflow-v-1-4-2-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-09-06T22:33:00Z",
+  "source_url": "https://www.lookae.com/colorflow-142/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "调色板"
+  ],
+  "content": "ColorFlow 是一款专为 After Effects 设计的脚本工具，帮助用户高效管理颜色与标签。支持创建自定义调色板，快速将颜色应用于各类图层（如实体、形状、文本、素材等），并提供直观快捷键操作。具备高级标签管理功能，可一键选择特定颜色或标签的图层，支持智能快捷方式提升工作效率。同时支持从表达式和效果中自动提取颜色，并生成三色、类似色、互补色等色彩和谐方案。适用于 Windows 与 Mac 系统，兼容 After Effects 2025 至 CC 2015 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/ColorFlow-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/524572504250.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8424060469-761360?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Wgwtt2I32aAaMgny8FXWuA?pwd=6b7n"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/1EzPn87GDZQ"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e8%b0%83%e8%89%b2%e6%9d%bf/"
+    ],
+    "update_notes": {
+      "v1_4_2": [
+        "从表达式中提取颜色：支持 #RGB / #RRGGBB、rgb(255,128,0)、数组形式如 [0.5,0.1,0.2] 或 [255,128,0]，颜色将被标准化并添加至活动调色板，避免重复。",
+        "从效果中提取颜色：启用“强制提取”后，可扫描图层效果队列，从颜色控制、填充及其他颜色属性中提取值，支持嵌套结构（如‘4 色渐变’中的色标）"
+      ]
+    }
+  }
+}

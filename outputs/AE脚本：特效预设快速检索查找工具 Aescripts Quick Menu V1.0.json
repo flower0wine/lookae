@@ -1,0 +1,27 @@
+{
+  "title": "AE脚本：特效预设快速检索查找工具 Aescripts Quick Menu V1.0",
+  "slug": "aejiao-ben-te-xiao-yu-she-kuai-su-jian-suo-cha-zhao-gong-ju-aescripts-quick-menu-v1-0",
+  "author": "大众脸",
+  "post_date": "2015-09-24 14:46",
+  "source_url": "https://www.lookae.com/quick-menu/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本能够智能和直观的让你快速的启动检索查找，可以搜索到插件，预置，脚本，表达式和大多数菜单命令。Quick Menu是一个启动器，通过用户可定义的快捷键调用，出现在UI上方。它智能直观，让你快速启动After Effects中的效果、插件、预设、脚本和表达式以及大多数菜单命令，让你专注于创作，而不会中断工作流程去在菜单中寻找。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/09/Quick-Menu1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4/CS5/CS6/CC/CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：特效预设快速检索查找工具 Aescripts Quick Menu V1.0",
+      "url": "https://www.400gb.com/file/119840978"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane"
+  }
+}

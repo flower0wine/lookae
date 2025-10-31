@@ -1,0 +1,54 @@
+{
+  "title": "中文汉化-马赛克网格像素化视觉效果AE/PR插件 Recursive Mosaic v1.2.1 Mac/Win",
+  "slug": "zhong-wen-yi-hua-ma-sai-ke-wang-ge-xiang-su-hua-shi-jue-xiao-guo-ae-prcha-jian-recursive-mosaic-v1-2-1-mac-win",
+  "author": "大众脸",
+  "post_date": "2022-11-29T09:18:00Z",
+  "source_url": "https://www.lookae.com/mosaic-121/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "Recursive Mosaic 是一款用于 Adobe After Effects 和 Premiere Pro 的高级马赛克网格像素化视觉效果插件。它通过递归细分图像网格，实现可调节的像素化效果，支持保留或丢弃图像细节，适用于创造新颖的像素风格或模拟 JPEG 压缩伪影。该插件允许用户自定义通道处理、马赛克强度、初始网格尺寸及最大递归深度，从而灵活控制最终视觉输出。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Recursive-Mosaic.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6; Premiere: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-735547244-0c6be7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1W-bEPi1hgbjY9DEv2nSVXw?pwd=0hdf"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/8jwTP1JsGeP"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "支持递归细分网格以控制图像细节保留程度",
+      "可选择应用到亮度、RGB 或单个颜色通道（红/绿/蓝/Alpha）",
+      "支持使用其他图层或轨道作为强度源",
+      "提供网格宽度与高度的初始细分设置",
+      "最大迭代次数可调，影响像素化精细度"
+    ],
+    "update_notes_v1_2_1": [
+      "修复对 Adobe After Effects 测试版的原生 Apple Silicon 支持",
+      "修复 framework v4.0.4 中浮动许可证的 '无效格式' 错误"
+    ],
+    "original_description_en": "Not your grandfather’s mosaic filter. Recursive mosaic subdivides the grid further to preserve or discard as much image detail as you like. Useful for novel pixelization effects or jpeg artifacts simulation.",
+    "related_categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

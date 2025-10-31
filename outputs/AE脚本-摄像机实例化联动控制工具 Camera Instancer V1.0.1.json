@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-摄像机实例化联动控制工具 Camera Instancer V1.0.1",
+  "slug": "aejiao-ben-she-xiang-ji-shi-li-hua-lian-dong-kong-zhi-gong-ju-camera-instancer-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2024/10/04 11:57",
+  "source_url": "https://www.lookae.com/camera-instancer/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "摄像机动画"
+  ],
+  "content": "Camera Instancer 脚本可创建一个摄像机，该摄像机会从另一个合成中实例化活动摄像机。用户可将此摄像机剪切并粘贴到任意其他合成中。在原始合成中对活动摄像机所做的任何修改（包括更换活动摄像机）都会自动同步到目标合成中。此功能特别适用于需要将一组与摄像机相关的效果单独预合成，同时又希望仅通过修改单一摄像机即可全局更新的场景。新版本现已支持 Advanced 3D 和 C4D。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/Camera-Instancer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/484961276230.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1380191287-0c82f5?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ZvENTJhaoidt6cHKxAMtGA?pwd=trvi"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/NR9rEqQR3eH"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "trvi"
+  }
+}

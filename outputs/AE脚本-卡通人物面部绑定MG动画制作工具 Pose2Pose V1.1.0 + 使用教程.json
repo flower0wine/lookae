@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-卡通人物面部绑定MG动画制作工具 Pose2Pose V1.1.0 + 使用教程",
+  "slug": "aejiao-ben-qia-tong-ren-wu-mian-bu-bang-ding-mgdong-hua-zhi-zuo-gong-ju-pose2pose-v1-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/07/08 17:49",
+  "source_url": "https://www.lookae.com/pose2pose/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Pose2Pose 是一个专为卡通人物面部绑定设计的 AE 脚本工具，适用于制作 MG 动画。它支持快速装配嘴巴、眼睛、眉毛等面部元素，通过内置操纵杆可轻松创建 2.5D 头部绑定。其高级功能 'Perspective Poses'（透视姿势）为角色动画提供额外的空间维度，显著提升动画表现力。该脚本能有效优化工作流程，是制作高质量面部动画的理想选择。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Pose2Pose-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-452443827"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Udp-t77ohbrNblPPWX0UPA"
+    }
+  ],
+  "other": {
+    "external_link": "https://gumroad.com/l/Pose2Pose",
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "download_password": "blh1"
+  }
+}

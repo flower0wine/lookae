@@ -1,0 +1,57 @@
+{
+  "title": "AI人工智能遮罩蒙版生成器AE插件 Mask Prompter V3.1.29 Win",
+  "slug": "airen-gong-zhi-neng-zhe-zhao-meng-ban-sheng-cheng-qi-aecha-jian-mask-prompter-v3-1-29-win",
+  "author": "大众脸",
+  "post_date": "2025/07/11 10:15",
+  "source_url": "https://www.lookae.com/mask-prompter-3129/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mask Prompter",
+    "遮罩蒙版"
+  ],
+  "content": "基于文本输入的AI转描器——无需繁琐的关键帧设置！只需输入提示，即可完成！Mask Prompter 3 引入了一系列强大的增强功能，旨在简化您的工作流程。现在，您可以使用单个文本提示同时为多个对象生成遮罩。此次更新还包含四个新的抠像模型，特别是 Segment Anything 2.1 和 Segment Anything 2 HQ。此外，新的矩形绘制功能允许您在文本提示识别的对象周围绘制矩形，使手动调整更快、更直观。利用人工智能的力量来处理繁琐的工作并重新发挥创造力！",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Mask-Prompter-3.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/523265476234.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "Win版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1525129627-5b8cc3?p=4431"
+    },
+    {
+      "name": "Win版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Pk46KiJQh5XeXvpdMBMRvA?pwd=5216"
+    },
+    {
+      "name": "Win版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/vhDBqZkQXEJ"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-926557887-95a34f?p=4431"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1X1-fgr0Akp5GzQIwmbJ2Yw?pwd=2vbx"
+    },
+    {
+      "name": "视频教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PtcaDWoGWb7"
+    }
+  ],
+  "other": {
+    "version": "V3.1.29",
+    "changelog": "兼容性更新",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘插件": "5216",
+      "百度网盘视频教程": "2vbx"
+    }
+  }
+}

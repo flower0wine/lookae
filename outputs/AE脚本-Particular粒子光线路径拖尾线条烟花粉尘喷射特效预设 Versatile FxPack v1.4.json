@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-Particular粒子光线路径拖尾线条烟花粉尘喷射特效预设 Versatile FxPack v1.4",
+  "slug": "aejiao-ben-particularli-zi-guang-xian-lu-jing-tuo-wei-xian-tiao-yan-hua-fen-chen-pen-she-te-xiao-yu-she-versatile-fxpack-v1-4",
+  "author": "大众脸",
+  "post_date": "2020/04/08 15:07",
+  "source_url": "https://www.lookae.com/versatile-fxpack/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一个After Effects扩展脚本工具，拥有几十种粒子光线路径拖尾线条烟花粉尘喷射特效预设，能让用户一键轻松选择和应用效果预设，包括4种不同粒子效果类型约25种不同预设。脚本需使用Trapcode Particular v4.1和Optical Flares 1.3.5插件，支持After Effects CC 2018, 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/Versatile-FxPack.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-435861280"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1UOLchtm2S2dpOoBi5_9dTQ",
+      "extra": "提取码：a6g4"
+    }
+  ],
+  "other": {
+    "original_classification": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "script_introduction_en": "Versatile FxPack is Dolphin eight first product! It’s an After Effects extension script tool. Is build for the users easily choose and apply effect presets in one click. Which is including 25 different presets in 4 different particle effect types. (Work on After Effects CC 2018, 2019)",
+    "required_plugins": [
+      {
+        "name": "Trapcode Particular v4.1",
+        "url": "https://www.lookae.com/trapcode-1518/"
+      },
+      {
+        "name": "Optical Flares 1.3.5",
+        "url": "https://www.lookae.com/of135/"
+      }
+    ]
+  }
+}

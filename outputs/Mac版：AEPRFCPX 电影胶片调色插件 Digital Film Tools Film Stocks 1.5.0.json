@@ -1,0 +1,53 @@
+{
+  "title": "Mac版：AE/PR/FCPX 电影胶片调色插件 Digital Film Tools Film Stocks 1.5.0",
+  "slug": "macban-ae-pr-fcpx-dian-ying-xiao-pian-diao-se-cha-jian-digital-film-tools-film-stocks-1-5-0",
+  "author": "大众脸",
+  "post_date": "2014/05/21 21:43",
+  "source_url": "https://www.lookae.com/macfilmstocks/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "MAC"
+  ],
+  "content": "这款插件是由DigitalFilm公司出品的FilmStocks胶片模拟调色插件v1.5版，是一款独立的AE/PR/Ps/FCPX/AVID影视特效插件，可模拟288个不同的颜色、黑/白色的胶片色调、电影胶片和复古色调，能在影片中创建专业特殊效果，由LookAE独家整理并附详细安装说明。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Film-Stocks-1.5.0-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Photoshop CS3 或更高版本；Adobe Photoshop Elements 6 或更高版本；Apple Photoshop Lightroom 3 或更高版本；Apple Aperture 3 或更高版本；Adobe After Effects CS5 或更高版本；Adobe Premiere Pro CS5或更高版本；Apple Final Cut Pro 6/7；Apple Final Cut Pro X 10.0.4或更高版本；Apple Motion 5.0.3；Avid Symphony, Media Composer, Newscutter, Xpress Pro",
+  "supported_os": "Mac OSX",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/65063399"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kT0ZmvX"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "Win 版 Digital Film Tools Film Stocks 1.5.0 下载",
+        "url": "https://www.lookae.com/filmstocks/"
+      },
+      {
+        "name": "更多免费 Final Cut Pro X 系列插件下载",
+        "url": "https://www.lookae.com/tag/fcpx/"
+      },
+      {
+        "name": "更多精品素材下载",
+        "url": "https://www.lookae.com/others/sucaigongcheng/"
+      },
+      {
+        "name": "高速通道下载精品素材",
+        "url": "https://lookae.taobao.com/"
+      }
+    ],
+    "plugin_introduction_en": "Film Stocks is a unique filter that simulates 288 different color and black and white still photographic film stocks, motion picture films stocks and historical photographic processes. Using our experience in creating special effects for hundreds of feature films as well as expertise in film scanning and recording techniques, we have laboriously researched and analyzed different film stocks to come up with a set of interesting analog photographic, motion picture and vintage looks. Make any digital image look interesting by applying some of our film magic.",
+    "official_website": "https://www.digitalfilmtools.com/filmstocks/"
+  }
+}

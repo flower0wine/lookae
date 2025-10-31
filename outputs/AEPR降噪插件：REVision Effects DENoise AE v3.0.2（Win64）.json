@@ -1,0 +1,41 @@
+{
+  "title": "AE/PR降噪插件：REVision Effects DENoise AE v3.0.2（Win64）",
+  "slug": "ae-prjiang-zao-cha-jian-revision-effects-denoise-ae-v3-0-2-win64",
+  "author": "大众脸",
+  "post_date": "2015-04-07",
+  "source_url": "https://www.lookae.com/denoise302/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "REVision公司出品的一款专业降噪插件，能够有效移除画面的噪点和多余的颗粒。DE-Noise v3.0.2版本添加了GPU加速功能和两个新的降噪模式，使降噪处理速度提高了4-5倍。该插件采用运动估计技术和特征敏感、边缘保留的空间滤波方法，能够处理从精细的数字/电子噪声到斑块状斑点等各种帧间缺陷。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/02/DENoise.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v3.0.2",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "DENoise AE v3.0.2 Win64",
+      "url": "https://www.400gb.com/file/89897521"
+    }
+  ],
+  "other": {
+    "compatibility_details": "Adobe After Effects CS5及以上版本，含Adobe CC 2014版本；Adobe Premiere Pro CS5及以上版本，含Adobe CC 2014版本",
+    "version_features": {
+      "v3.0.2": "修复了Premiere Pro中GPU加速无法正常工作的错误",
+      "v3.0": "添加GPU支持，添加两个新的空间滤波模式",
+      "v3.0.1": "更高效的GPU内存资源使用"
+    },
+    "plugin_features": [
+      "智能空间滤波控制",
+      "8种不同的时间滤波方法",
+      "后处理增强功能",
+      "后锐化选项",
+      "预处理对比度控制"
+    ],
+    "official_website": "http://www.revisionfx.com/products/denoise/"
+  }
+}

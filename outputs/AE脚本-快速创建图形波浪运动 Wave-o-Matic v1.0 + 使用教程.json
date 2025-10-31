@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-快速创建图形波浪运动 Wave-o-Matic v1.0 + 使用教程",
+  "slug": "aejiao-ben-kuai-su-chuang-jian-tu-xing-bo-lang-yun-dong-wave-o-matic-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-05-09T17:59:00Z",
+  "source_url": "https://www.lookae.com/wave-o-matic/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Wave-o-Matic 是一款用于 After Effects 的脚本，可让你在任意图层上快速创建自然、无缝的波浪运动。支持 2D 和 3D 图层，具有完全可定制性和对运动的精细控制。该脚本操作简单、运行高效，功能强大，远超预期。适用于 AE CC 2014 至 CC 2019 以及 CS6 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Wave-o-Matic.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-373517165"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1nOY8quQvVJjt7lVG1ro9lQ"
+    }
+  ],
+  "other": {
+    "original_post_date": "2019/05/09 17:59",
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "demo_url": "https://aescripts.com/wave-o-matic/",
+    "download_extract_code": "lotg"
+  }
+}

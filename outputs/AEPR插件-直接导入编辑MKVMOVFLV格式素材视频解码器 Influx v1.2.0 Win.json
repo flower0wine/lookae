@@ -1,0 +1,72 @@
+{
+  "title": "AE/PR插件-直接导入编辑MKV/MOV/FLV格式素材视频解码器 Influx v1.2.0 Win",
+  "slug": "ae-prcha-jian-zhi-jie-dao-ru-bian-ji-mkv-mov-flvge-shi-su-cai-shi-pin-jie-ma-qi-influx-v1-2-0-win",
+  "author": "大众脸",
+  "post_date": "2022/07/02 11:36",
+  "source_url": "https://www.lookae.com/influx-120/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Influx",
+    "PR插件",
+    "视频解码器"
+  ],
+  "content": "Influx v1.2.0 是一款专为 After Effects 和 Premiere Pro 设计的视频解码器插件，支持直接导入和编辑 MKV、MOV、FLV 等多种视频格式，无需外部转码。插件可提升工作流效率，节省时间与磁盘空间。支持主流视频和音频编解码器，并在最新版本中优化了缩略图缓存机制，改善媒体浏览器性能，同时新增对动画 PNG (.apng) 格式的支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Influx-Mac.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334057662148.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019; Audition 2022, 2021, 2020; Media Encoder 2022, 2021, 2020, CC 2019; Premiere 2022, 2021, 2020, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-605295077-f812f7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1eoan9cIlLa6qnEj_UOVa4w?pwd=7h5b"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Tj3ARyhS3Ur"
+    }
+  ],
+  "other": {
+    "format_support": [
+      ".MKV",
+      ".WebM",
+      ".FLV",
+      ".OGV",
+      ".BIK",
+      ".AVI",
+      ".MOV",
+      ".WMV",
+      ".VOB"
+    ],
+    "video_codecs": [
+      "FFV1",
+      "VP8",
+      "VP9",
+      "Canopus HQ",
+      "H.264",
+      "H.265"
+    ],
+    "audio_codecs": [
+      ".FLAC",
+      ".OPUS",
+      ".OGG Vorbis",
+      ".MKA",
+      ".WMA"
+    ],
+    "update_notes": [
+      "Premiere Pro：Influx 现在为媒体浏览器和项目面板缓存解码的缩略图，以提高解码性能，解决 Adobe 不断的缩略图再生错误，并能够更快地浏览文件夹和媒体文件。",
+      "支持动画 PNG .apng（仅限视频）"
+    ],
+    "related_links": [
+      "https://www.lookae.com/influx-mac114/"
+    ]
+  }
+}

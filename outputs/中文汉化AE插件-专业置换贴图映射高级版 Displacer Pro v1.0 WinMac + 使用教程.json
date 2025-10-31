@@ -1,0 +1,45 @@
+{
+  "title": "中文汉化AE插件-专业置换贴图映射高级版 Displacer Pro v1.0 Win/Mac + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-zhuan-ye-zhi-huan-tie-tu-ying-she-gao-ji-ban-displacer-pro-v1-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/05 08:02",
+  "source_url": "https://www.lookae.com/displacer-pro/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化",
+    "大众脸汉化"
+  ],
+  "content": "插件制作Plugin Everything团队总会给我们带来惊喜，免费发布了这款专业置换贴图映射高级版AE插件 Displacer Pro，与AE自带的贴图映射插件功能更多，操控性更强，且支持GPU加速。The humble AE displacement map with more features + juiced up on the GPU. And it's free.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Displace-Pro.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/281382393872.mp5"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-463756561"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1vw4d97g_W0CmYpac7GE2VA"
+    }
+  ],
+  "other": {
+    "baidu_extract_code": "8ku4",
+    "plugin_features": [
+      "平移，旋转和缩放位移",
+      "您所有喜欢的模式：色相，饱和度，亮度，红色等",
+      "强大的地图调整功能：伽玛，柔和度，缓和等等",
+      "色差控制",
+      "内置抗锯齿",
+      "GPU加速，32bpc"
+    ],
+    "language_versions": "Win版和Mac版插件均已提供中文汉化和英文原版",
+    "official_url": "https://aescripts.com/displacer-pro/"
+  }
+}

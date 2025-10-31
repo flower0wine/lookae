@@ -1,0 +1,64 @@
+{
+  "title": "中文汉化-AE插件-三维枪口火焰闪光火花枪火特效 Bang v1.1.0 Win/Mac + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-san-wei-qiang-kou-huo-yan-shan-guang-huo-hua-qiang-huo-te-xiao-bang-v1-1-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-07-12T15:58:00Z",
+  "source_url": "https://www.lookae.com/bang-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Bang 是一款专为 After Effects 设计的三维枪口火焰闪光火花特效插件，支持真实风格化的枪火效果添加。其3D粒子系统可从任意视角渲染独特闪光，适配合成中的摄像机视角。插件模块化设计，每层最多支持4种闪光类型和16个实例，并集成 Bang Relighter 点火器模块，自动模拟枪口光对人物与环境的照明效果。用户可通过 Flash Shape Profile Editor 自定义闪光形状，调整能量、随机性等参数，还可添加花瓣元素模拟突击步枪和机枪常见的星形火花。内置20个预设火花，配合 EZ-Aim 系统可快速定位并一键设置关键帧。插件支持在视频、对数或线性色彩空间中工作，确保正确动态范围输出。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Bang-11.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01re6Wws1vSMjQUfbzE_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01mEgyHE1vSMjKngsAd_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/271486884835.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows (不支持Mac)",
+  "download_links": [
+    {
+      "name": "Win英文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-452958760"
+    },
+    {
+      "name": "Win英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1hzTlWQVY20Qj9CCS-0HG9w"
+    },
+    {
+      "name": "Mac英文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-453040823"
+    },
+    {
+      "name": "Mac英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1a7hVq62k1D2VIPtZVINtUw"
+    },
+    {
+      "name": "中文字幕教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-452887227"
+    },
+    {
+      "name": "中文字幕教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1sByR9fhZMXk7xD7WDVZJ8Q"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.1.0 更新内容：\n- 新增预设浏览器，可直接浏览并应用预制枪口火花到 Flash Builder 实例\n- 升级实例模块，改进框架边缘透视图渲染与‘跟随图层’瞄准系统\n- 支持合成工作流程在视频、对数或线性空间中工作，正确渲染镜头动态范围",
+    "compatibility_note": "仅支持 Windows 系统（不支持 Mac 苹果系统）；插件仅适用于 AE，不支持 PR；独立预设窗口因可直接查看效果，未进行汉化；目前仅提供 Windows 版本中文汉化，Mac 版暂无汉化；部分英文版本存在未修复的 BUG，未做汉化处理。",
+    "purchase_info": "Win 中文插件为付费下载，隐藏内容需支付 ¥5 或通过淘宝购买链接获取：[支付¥5](https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fbang-11%2F) / [淘宝购买](https://item.taobao.com/item.htm?id=622527936373)",
+    "plugin_features": [
+      "模块化设计，支持多类型闪光与实例",
+      "支持3D视角渲染与摄像机联动",
+      "自带20个火花预设",
+      "自定义闪光影子形状编辑器",
+      "支持花瓣形火花与星形闪光模拟",
+      "自动重照明（Relighter）模块",
+      "EZ-Aim 快速定位与关键帧生成",
+      "独立预设窗口（未汉化）"
+    ]
+  }
+}

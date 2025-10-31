@@ -1,0 +1,52 @@
+{
+  "title": "视频背景智能抠像AE/PR插件 Goodbye Greenscreen 2 v2.2.23 Win/Mac",
+  "slug": "shi-pin-bei-jing-zhi-neng-kou-xiang-ae-prcha-jian-goodbye-greenscreen-2-v2-2-23-win-mac",
+  "author": "大众脸",
+  "post_date": "2025/05/23 10:03",
+  "source_url": "https://www.lookae.com/goodbye-greenscreen-2223/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Goodbye Greenscreen",
+    "PR插件",
+    "再见绿屏",
+    "抠像插件"
+  ],
+  "content": "这是一款基于人工智能的插件，用于复杂背景抠像和纯色背景抠像，能从视频和干净的背景中创建遮罩，还拥有基于同一个引擎的非常强大的颜色键控器。v2.2.23更新内容为修复空图层选择时的警告。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/Goodbye-Greenscreen-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297235512328.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2025",
+      "2024",
+      "2023",
+      "2022"
+    ],
+    "Premiere": [
+      "2025",
+      "2024",
+      "2023",
+      "2022"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1506933757-0eb30c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Xs16sU9yF0eJLKq4VMew3A?pwd=tr8t"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/WncJT9yy6ir"
+    }
+  ]
+}

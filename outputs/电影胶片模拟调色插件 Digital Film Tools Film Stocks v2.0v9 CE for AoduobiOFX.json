@@ -1,0 +1,54 @@
+{
+  "title": "电影胶片模拟调色插件 Digital Film Tools: Film Stocks v2.0v9 CE for Aoduobi/OFX",
+  "slug": "dian-ying-xiao-pian-mo-ni-diao-se-cha-jian-digital-film-tools-film-stocks-v2-0v9-ce-for-aoduobi-ofx",
+  "author": "大众脸",
+  "post_date": "2016/08/17 11:43",
+  "source_url": "https://www.lookae.com/film-stocks-209/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件"
+  ],
+  "content": "Film Stocks 是一款独特的滤镜，可模拟 288 种不同的彩色、黑白静态胶片、电影胶片以及历史摄影工艺。基于在数百部电影特效制作中的经验，以及胶片扫描与记录技术的专业知识，Digital Film Tools 公司精心研究并分析了多种胶片特性，打造出一系列富有胶片质感、电影感和复古风格的视觉效果。使用该插件，可以让任何数字图像焕发出独特的胶片魅力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/FilmStocks.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5+, Premiere Pro CS5+, Photoshop CS5+, Nuke v8+, Sony Vegas v13+, Avid Editing Systems, Assimilate Scratch v8+, Black Magic Resolve v11+",
+  "supported_os": "Windows (64 Bit Only)",
+  "download_links": [
+    {
+      "name": "电影胶片模拟调色插件 Digital Film Tools: Film Stocks v2.0v9 CE",
+      "url": "http://lookae.ctfile.com/fs/tqa155362525"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/filmstocks/",
+    "installation_note": "插件为一键安装版，安装后即可直接使用",
+    "additional_categories": [
+      "After Effects",
+      "Nuke",
+      "OFX",
+      "Premiere",
+      "Vegas",
+      "软件/插件"
+    ],
+    "compatible_versions_detail": {
+      "Photoshop": "CS5 and up (64 Bit Only)，兼容 CC 2015.5",
+      "Photoshop Elements": "13 and up (Non-app store version)",
+      "Photoshop Lightroom": "3 and up",
+      "After Effects": "CS5 and up，兼容 CC 2015.3",
+      "Premiere Pro": "CS5 and up，兼容 CC 2015.3",
+      "Avid Editing Systems": "64 Bit only",
+      "Assimilate Scratch": "v8 and up",
+      "Black Magic Resolve": "v11 and up",
+      "Sony Vegas": "v13 and up",
+      "The Foundry’s Nuke": "v8 and up"
+    }
+  }
+}

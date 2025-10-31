@@ -1,0 +1,46 @@
+{
+  "title": "中文汉化AE插件-漂亮真实高级辉光发光插件 Deep Glow v1.4.3 Mac苹果版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-piao-liang-zhen-shi-gao-ji-hui-guang-fa-guang-cha-jian-deep-glow-v1-4-3-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2021-04-07 18:02",
+  "source_url": "https://www.lookae.com/deepglow-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Deep Glow 是一款比 AE 自带 Glow 更真实、过渡更自然的辉光发光插件，支持非线性色彩空间，提供实时最佳效果。插件具备直观的合成控制、GPU 加速、高采样与质量控制，可轻松实现电影级辉光，也可通过参数调整打造颗粒或风格化发光。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Deep-Glow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "英文版-城通网盘",
+      "url": "https://089u.com/f/680462-488153761-aeea79"
+    },
+    {
+      "name": "英文版-百度网盘",
+      "url": "https://pan.baidu.com/s/1S9zeOtrzbiOVDTj43MbDrQ"
+    },
+    {
+      "name": "中文版-城通网盘",
+      "url": "https://089u.com/f/680462-488941468-009120"
+    },
+    {
+      "name": "中文版-百度网盘",
+      "url": "https://pan.baidu.com/s/1ECdY7HjENxx1A4vzpsjyMw"
+    }
+  ],
+  "other": {
+    "网盘访问密码": {
+      "城通网盘": "6688",
+      "百度网盘英文版": "m2gr",
+      "百度网盘中文版": "508d"
+    },
+    "相关教程": "https://www.lookae.com/deep-glow-144/",
+    "插件官网": "https://aescripts.com/deep-glow/"
+  }
+}

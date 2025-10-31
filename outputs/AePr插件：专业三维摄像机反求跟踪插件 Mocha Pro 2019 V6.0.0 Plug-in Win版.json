@@ -1,0 +1,56 @@
+{
+  "title": "Ae/Pr插件：专业三维摄像机反求跟踪插件 Mocha Pro 2019 V6.0.0 Plug-in Win版",
+  "slug": "ae-prcha-jian-zhuan-ye-san-wei-she-xiang-ji-fan-qiu-gen-zong-cha-jian-mocha-pro-2019-v6-0-0-plug-in-winban",
+  "author": "大众脸",
+  "post_date": "2018-10-12T17:24:00Z",
+  "source_url": "https://www.lookae.com/mocha2019plug/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Mocha Pro 2019 是一款获奖的平面跟踪工具，专为视觉特效与后期制作设计。它基于独特的2.5D平面跟踪系统，能够显著提升合成效率，比传统方法快3-4倍。适用于商业、电影及企业影片后期，具备直观界面和易学特性，是行业标准工具之一。支持高分辨率显示器，并集成360°/VR功能，提供GPU加速渲染与全新样条工具，提升工作流体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/mocha2019Plugin.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/210411712106.mp4?_=1",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/210485235768.mp4?_=1"
+  ],
+  "supported_versions": "Mocha Pro 2019 V6.0.0",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-314216827"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ZJa4n65Kz4D56-xhR9IRlg"
+    }
+  ],
+  "other": {
+    "official_website": "https://borisfx.com/products/mocha/",
+    "installation_instructions": [
+      "安装程序 MochaPro2019 Adobe 6.0.0.win.msi",
+      "复制注册补丁文件夹里的 mocha.dll 到以下路径替换原文件：C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\\BorisFX\\MochaPro2019\\SharedResources\\",
+      "打开 AE 软件使用插件"
+    ],
+    "plugin_support": [
+      "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+      "Premiere CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014"
+    ],
+    "new_features": [
+      "集成 Mocha Essentials 新的软件工作界面",
+      "GPU加速对象删除提供更快的渲染速度",
+      "新的样条工具：磁性样条与边缘对齐，手绘样条，和几何形状的工具",
+      "支持Retina /高DPI监视器分辨率",
+      "集成360/VR到 Mocha Pro 2019"
+    ],
+    "related_resources": [
+      "https://www.lookae.com/mocha2019/",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

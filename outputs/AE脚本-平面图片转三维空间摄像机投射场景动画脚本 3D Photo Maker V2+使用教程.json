@@ -1,0 +1,59 @@
+{
+  "title": "AE脚本-平面图片转三维空间摄像机投射场景动画脚本 3D Photo Maker V2+使用教程",
+  "slug": "aejiao-ben-ping-mian-tu-pian-zhuan-san-wei-kong-jian-she-xiang-ji-tou-she-chang-jing-dong-hua-jiao-ben-3d-photo-maker-v2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-02-07T13:44:00",
+  "source_url": "https://www.lookae.com/3d-photo-maker/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "此脚本可以将静态图片快速的转换成具有三维摄像机空间属性的动画效果，还可以在场景中添加其他元素，动画控制简单易于上手，还可在摄像机场景中设置景深，添加文字标题等。带视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/slideVer2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2018 或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-170220774"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Jsz27L_nsnxNVBJbJB4MZw"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "category_urls": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_urls": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "official_website": "https://videohive.net/item/3d-photo-maker-the-script/18280881",
+    "additional_links": [
+      {
+        "name": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "baidu_pan_password": "ylky"
+  }
+}

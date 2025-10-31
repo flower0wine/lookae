@@ -1,0 +1,30 @@
+{
+  "title": "Win/Mac版：AE脚本：表达式编辑错误检查脚本 AEscripts expressionist v1.0.0",
+  "slug": "win-macban-aejiao-ben-biao-da-shi-bian-ji-cuo-wu-jian-cha-jiao-ben-aescripts-expressionist-v1-0-0",
+  "author": "大众脸",
+  "post_date": "2016-03-28",
+  "source_url": "https://www.lookae.com/expressionist/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Expressionist 脚本为 After Effects 的表达式编写提供了 IDE 级体验：语法高亮、行号、多光标、批量添加表达式、实时错误定位，显著提升表达式开发效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/04/Expressionist-155.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/36377094.mp4"
+  ],
+  "supported_versions": "CC 2015",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win/Mac 安装包（含安装说明）",
+      "url": "http://lookae.ctfile.com/fs/CZ0146920843"
+    }
+  ],
+  "other": {
+    "official_site": "http://aescripts.com/expressionist/",
+    "compressed_content": "内含安装方法说明"
+  }
+}

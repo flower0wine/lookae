@@ -1,0 +1,134 @@
+{
+  "title": "中文汉化-红巨人跟踪抠像光工厂视觉特效套装AE/PR插件 VFX 1.5.2 Win版",
+  "slug": "zhong-wen-yi-hua-hong-ju-ren-gen-zong-kou-xiang-guang-gong-han-shi-jue-te-xiao-tao-zhuang-ae-prcha-jian-vfx-1-5-2-winban",
+  "author": "大众脸",
+  "post_date": "2020/09/20 16:10",
+  "source_url": "https://www.lookae.com/vfx-suite-ch/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "红巨人出品的 VFX Suite 视觉特效套装插件，提供了功能强大的工具包，用于创建看起来非常逼真的视觉合成特效。该套装包含光工厂、辉光、抠像、跟踪等10个特效插件。使用 Supercomp 插件中的光和大气效果可以与所有图层和场景元素进行互动操作，比传统的2D图层叠加方式更加自然。Lens Distortion 镜头失真匹配器可轻松匹配各类摄像机镜头，包括广角、鱼眼、GoPro 等，确保合成元素完美贴合实拍画面。此外，套装还包含用于添加阴影和反射倒影的工具，有助于快速构建专业级合成效果。为便于学习，本版本提供中文汉化界面，帮助用户快速识别插件功能及参数用途。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/VFX-15-CH.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN010UmdMQ1vSMjSpXhOi_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01mR981u1vSMjLRoKwx_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2018/CC 2019/2020/2021/2022；Adobe Premiere Pro CC 2018/CC 2019/2020/2021/2022（仅部分插件支持）",
+  "supported_os": "Win 10 或更高系统（不支持 Win 7，不支持 Mac）",
+  "download_links": [
+    {
+      "name": "淘宝购买 - 中文汉化版",
+      "url": "https://item.taobao.com/item.htm?id=622657182036"
+    },
+    {
+      "name": "站内支付下载 - 中文汉化版（¥10）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fvfx-suite-ch%2F"
+    },
+    {
+      "name": "英文原版免费下载（Win/Mac）",
+      "url": "https://www.lookae.com/vfx-152/"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "Chromatic Displacement",
+        "version": "v1.0.2",
+        "description": "色差置换插件",
+        "supported_apps": [
+          "AE",
+          "PR"
+        ]
+      },
+      {
+        "name": "Lens Distortion",
+        "version": "v1.0.1",
+        "description": "镜头失真变形",
+        "supported_apps": [
+          "AE"
+        ]
+      },
+      {
+        "name": "Knoll Light Factory",
+        "version": "v3.1.2",
+        "description": "光工厂镜头光晕插件",
+        "supported_apps": [
+          "AE",
+          "PR"
+        ]
+      },
+      {
+        "name": "King Pin Tracker",
+        "version": "v1.5.0",
+        "description": "平面跟踪插件",
+        "supported_apps": [
+          "AE"
+        ]
+      },
+      {
+        "name": "Optical Glow",
+        "version": "v1.5.0",
+        "description": "智能辉光插件",
+        "supported_apps": [
+          "AE",
+          "PR"
+        ]
+      },
+      {
+        "name": "Primatte Keyer",
+        "version": "v6.0.2",
+        "description": "专业抠像插件",
+        "supported_apps": [
+          "AE",
+          "PR"
+        ]
+      },
+      {
+        "name": "Shadow",
+        "version": "v1.5.0",
+        "description": "投影插件",
+        "supported_apps": [
+          "AE"
+        ]
+      },
+      {
+        "name": "Reflection",
+        "version": "v1.5.0",
+        "description": "反射插件",
+        "supported_apps": [
+          "AE"
+        ]
+      },
+      {
+        "name": "Spot Clone Tracker",
+        "version": "v1.0.3",
+        "description": "物体移除替换克隆跟踪插件",
+        "supported_apps": [
+          "AE"
+        ]
+      },
+      {
+        "name": "Supercomp",
+        "version": "v1.5.2",
+        "description": "超强特效合成插件",
+        "supported_apps": [
+          "AE"
+        ]
+      }
+    ],
+    "notes": [
+      "提供英文原版程序完整包和中文汉化补丁，含中文图文安装教程。",
+      "安装补丁可随时切换中英文；极少部分英文因BUG未汉化。",
+      "建议在使用AE模板项目时使用英文原版。",
+      "汉化程序为一键安装，可自动识别插件目录。",
+      "光工厂插件因界面限制，汉化后字体显示较小。",
+      "Supercomp 插件因汉化后存在乱码及无法正常使用问题，保留英文原版。",
+      "仅提供插件工具，不包含使用教学。"
+    ]
+  }
+}

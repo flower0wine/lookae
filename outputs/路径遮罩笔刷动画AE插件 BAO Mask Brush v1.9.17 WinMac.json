@@ -1,0 +1,55 @@
+{
+  "title": "路径遮罩笔刷动画AE插件 BAO Mask Brush v1.9.17 Win/Mac",
+  "slug": "lu-jing-zhe-zhao-bi-shua-dong-hua-aecha-jian-bao-mask-brush-v1-9-17-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/11/10 23:40",
+  "source_url": "https://www.lookae.com/mask-brush-1917/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "BAO Mask Brush 是一款用于 After Effects 的高级插件，支持在三维空间中沿路径遮罩应用自定义笔刷，实现动态喷漆、形状动画及挤压拉伸等效果。支持运动模糊（每笔刷独立计算），可在 2D 与 3D 模式间切换，3D 模式支持相机响应和顶点级控制。包含两个核心功能：Mask Brush（沿路径对齐笔刷并生成动态动画）和 Mask Brush Fill（填充路径笔刷，创造动态视觉效果）。适用于 Windows 和 Mac 系统，兼容 AE 2023 至 CS6 多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/01/Mask-Brush.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056322866.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（插件）",
+      "url": "https://url70.ctfile.com/f/2827370-722574435-c0173e?p=4431"
+    },
+    {
+      "name": "百度网盘（插件）",
+      "url": "https://pan.baidu.com/s/1rNhsecAeq5Gx7iayDp8T1Q?pwd=cl77"
+    },
+    {
+      "name": "阿里云盘（插件）",
+      "url": "https://www.aliyundrive.com/s/i5zgF7GaX5R"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-231210596"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1eSB47xK"
+    }
+  ],
+  "other": {
+    "update_notes": "1.9.17 更新内容：添加了对多帧渲染的支持；支持 M1 芯片（Mac）",
+    "related_tags": [
+      "AE插件",
+      "AE插件M1"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "image_alt": "路径遮罩笔刷动画AE插件 BAO Mask Brush v1.9.17 Win/Mac"
+  }
+}

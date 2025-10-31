@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE/PR插件-去朦胧除雾霾增强色彩对比清晰画面调色插件 ClearPlus v2.1 Win/Mac版",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-qu-meng-long-chu-wu-mai-zeng-qiang-se-cai-dui-bi-qing-xi-hua-mian-diao-se-cha-jian-clearplus-v2-1-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/11/13 00:37",
+  "source_url": "https://www.lookae.com/clearplus/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "ClearPlus 是一款专为 After Effects 和 Premiere Pro 设计的强大视频增强插件，适用于模糊、水下及弱光视频素材的优化。它能有效去除雾霾、提升图像清晰度与色彩对比度，特别适合处理夜间或雾天拍摄的低光场景。通过阴影/高光调节、除雾滑块和白平衡功能，可实现自然真实的画面修复。支持高级直方图均衡算法以增强对比度并保持整体平衡。插件已针对两大平台进行 GPU 加速，提升处理效率。适用于天空增强、水下色彩校正等专业调色需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/ClearPlus-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/287226326694.mp4"
+  ],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nPremiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545988294-833d6a"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1aq_K4JIK0HF9eyvq9EShqQ?pwd=lsw4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/baDxWgaZpYz"
+    }
+  ],
+  "other": {
+    "version_info": {
+      "win": "v2.1，提供中文英文版",
+      "mac": "v1.2.1，仅提供英文版"
+    },
+    "update_links": [
+      {
+        "name": "Update ClearPlus v2.0 Mac版 - 城通网盘",
+        "url": "https://089u.com/file/680462-474934428"
+      },
+      {
+        "name": "Update ClearPlus v2.0 Mac版 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1UOLJP9074CDsSpn4OmSLYg?pwd=7wrn"
+      }
+    ],
+    "original_english_description": "ClearPlus is a powerful plugin designed to enhance footage including hazy, underwater and low light videos, and it is also ideal for sky enhancement. Make the colors pop in an effortless and flexible way. Shadows/highlights allows you to adjust the different parts of the image while preserving a natural look. The shadows slider, along with the dehaze slider, can recover the dark areas and keep the overall image clear. Especially for low light images, even when captured on a hazy/foggy night. Moreover, the histogram slider can further boost image contrast while preserving overall balance using the advanced histogram equalization algorithm. Use it for underwater color correction, the dehaze slider along with white balance lets you obtain a natural and clear image without effort. ClearPlus plugin is GPU accelerated for After Effects and Premiere Pro. HOME – https://aescripts.com/clearplus/"
+  }
+}

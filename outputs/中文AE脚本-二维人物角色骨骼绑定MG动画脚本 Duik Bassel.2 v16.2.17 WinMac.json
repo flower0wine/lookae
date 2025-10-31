@@ -1,0 +1,52 @@
+{
+  "title": "中文AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.17 Win/Mac",
+  "slug": "zhong-wen-aejiao-ben-er-wei-ren-wu-jiao-se-gu-ge-bang-ding-mgdong-hua-jiao-ben-duik-bassel-2-v16-2-17-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/09/08 12:07",
+  "source_url": "https://www.lookae.com/duik-16217/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "中文版"
+  ],
+  "content": "Duik 是一款免费开源的 AE 角色动画与绑定工具集，支持反向动力学、骨骼变形器、自动绑定、IK、控制器、关键帧管理、摆动/弹簧/滚轮自动化等功能，并自带摄影机控件。脚本已内置中文界面，可将 3D 级装配技术直接应用于 After Effects 的 2D 动画流程，让复杂角色动画制作更简单高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Duik-Bassel-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/242972619880.mp4"
+  ],
+  "supported_versions": "After Effects CC 2018 及以上（其余版本可用但官方不推荐）",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://089u.com/file/680462-460634683"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1nMDOCmZv224lTmDhsv85zg"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://089u.com/file/680462-450137231"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1pLL9FIGMEM2-sVAW6wybhg"
+    }
+  ],
+  "other": {
+    "baidu_extract_code": {
+      "脚本": "p00l",
+      "教程": "rzs0"
+    },
+    "official_homepage": "https://rainboxlab.org/tools/duik/",
+    "changelog": [
+      "修复连接器 UI 单位显示",
+      "2D 相机效果值不再被表达式重复乘",
+      "修复破碎连接器拔出控制器问题",
+      "腿部结构“脚跟”名称现可正确本地化"
+    ]
+  }
+}

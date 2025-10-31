@@ -1,0 +1,102 @@
+{
+  "title": "Ae/Pr 插件大合集 RE:VisionFX Effections Plus v16.0.1 CE",
+  "slug": "ae-pr-cha-jian-da-he-ji-re-visionfx-effections-plus-v16-0-1-ce",
+  "author": "大众脸",
+  "post_date": "2017-04-24T11:53:00",
+  "source_url": "https://www.lookae.com/aevisionfx1601/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "RE:Vision Effects 是一家专注于研发高质量数字视频图像处理软件的公司，由 Pierre Jasmin 和 Peter Litwinowicz 共同创立。其团队由计算机科学家、艺术家、程序员和行业专家组成，致力于解决各类数字像素操控问题。该公司产品广泛应用于电视、电影、网络及视觉特效行业，用户涵盖家庭剪辑者、活动摄像师到高端商业影视制作人员。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/REVision-OFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017, Adobe Premiere Pro CS5 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Ae/Pr 插件大合集 RE:VisionFX Effections Plus v16.0.1 CE",
+      "url": "https://lookae.ctfile.com/fs/680462-199581247"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "DE:Flicker",
+        "version": "v1.4.10",
+        "description": "去闪烁插件"
+      },
+      {
+        "name": "DE:Noise",
+        "version": "v3.1.6",
+        "description": "视频降噪插件"
+      },
+      {
+        "name": "FieldsKit",
+        "version": "v3.4.2",
+        "description": "动画反交错插件"
+      },
+      {
+        "name": "PV Feather",
+        "version": "v1.7.2",
+        "description": "逐点羽化插件"
+      },
+      {
+        "name": "RE:Fill",
+        "version": "v2.2.2",
+        "description": "智能修补和填充插件"
+      },
+      {
+        "name": "RE:Flex",
+        "version": "v5.2.6",
+        "description": "扭曲变形/变脸插件"
+      },
+      {
+        "name": "RE:Lens",
+        "version": "v1.2.2",
+        "description": "鱼眼广角镜头畸变扭曲修复插件"
+      },
+      {
+        "name": "RE:Map",
+        "version": "v3.0.6",
+        "description": "UV贴图映射插件"
+      },
+      {
+        "name": "RE:Match",
+        "version": "v1.4.5",
+        "description": "色彩匹配插件"
+      },
+      {
+        "name": "ReelSmart Motion Blur",
+        "version": "v5.1.8",
+        "description": "动态模糊插件"
+      },
+      {
+        "name": "Shade/Shape",
+        "version": "v4.2.3",
+        "description": "形状阴影插件"
+      },
+      {
+        "name": "SmoothKit",
+        "version": "v3.3.4",
+        "description": "降噪磨皮插件"
+      },
+      {
+        "name": "Twixtor Pro",
+        "version": "v6.2.8",
+        "description": "超级慢动作变速插件"
+      },
+      {
+        "name": "Video Gogh",
+        "version": "v3.7.3",
+        "description": "水彩油画插件"
+      }
+    ],
+    "official_product_page": "http://revisionfx.com/products/effections/after-effects",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-自定义多功能UI工具栏管理工具 KBar2 v2.0.6 + 使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-duo-gong-neng-uigong-ju-lan-guan-li-gong-ju-kbar2-v2-0-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021-10-19T14:00:00Z",
+  "source_url": "https://www.lookae.com/kbar-206/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "KBar 脚本是一款专为 After Effects 设计的自定义多功能 UI 工具栏管理工具，可帮助用户将常用插件、效果、表达式、脚本等功能集中管理在一个面板中，显著提升工作效率。支持多工具栏切换，适配不同工作流程，让创作更专注。适用于 Win/Mac 系统，兼容 AE 2021、2020、CC 2019、CC 2018、CC 2017。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/KBar-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021、2020、CC 2019、CC 2018、CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518155013-c4f917"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1a9gX4EfxhgcwwslXNJhJBQ"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9uf2dMhdPiB"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了 2.0.5 中在新机器上激活产品时引入的一个小问题。",
+      "修复了帮助按钮的 URL 之前被破坏的问题。",
+      "解决部分用户的许可问题。",
+      "Scriptlet 和脚本文件按钮现在可通过 kbar 变量访问 JSON 和 AEQuery。"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "image_alt": "AE脚本-自定义多功能UI工具栏管理工具 KBar2 v2.0.6 + 使用教程-LookAE.com"
+  }
+}

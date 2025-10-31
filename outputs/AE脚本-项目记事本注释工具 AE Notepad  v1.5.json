@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-项目记事本注释工具 AE Notepad v1.5",
+  "slug": "aejiao-ben-xiang-mu-ji-shi-ben-zhu-shi-gong-ju-ae-notepad-v1-5",
+  "author": "大众脸",
+  "post_date": "2025-04-28",
+  "source_url": "https://www.lookae.com/notepad-15/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "AE Notepad 是一款简单但超级方便的工具，专为Adobe After Effects打造，旨在将您的笔记和待办事项列表保存在您需要的地方。您是否曾经发现自己在专心做项目时忘记了任务或想法？这就是 AE Notepad 的用武之地。v1.5新版升级内容：新增待办事项列表模式及诸多酷炫新功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/AE-Notepad.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/510817019321.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1501717453-b13cbe?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1QBwE0onRHO3Er-ciyr2AqQ?pwd=6fcq"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/kfFtNQZrcpJ"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "6fcq"
+    },
+    "script_features": [
+      "在 After Effects 中为您的项目添加注释和待办事项",
+      "一键保存并导入笔记",
+      "项目特定的注释，这样您就可以为每个项目设置不同的注释，只需单击一下即可访问",
+      "享受干净、响应迅速的用户界面，就像在 After Effects 中一样",
+      "保持您的创意流程不间断——无需在应用程序之间切换"
+    ]
+  }
+}

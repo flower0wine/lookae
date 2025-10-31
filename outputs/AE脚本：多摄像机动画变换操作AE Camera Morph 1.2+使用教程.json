@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本：多摄像机动画变换操作AE Camera Morph 1.2+使用教程",
+  "slug": "aejiao-ben-duo-she-xiang-ji-dong-hua-bian-huan-cao-zuo-ae-camera-morph-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/11/30 10:16",
+  "source_url": "https://www.lookae.com/camera-morph/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本在AE中可像Cinema 4D那样实现多个摄像机动画的自由变换操作，无需繁琐步骤就能实现复杂摄像机动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/AE-Camera-Morph.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-322349923"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/181y5NETkGNXMqtXu-rBxDw"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本官网链接": "https://aescripts.com/ae-camera-morph/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "AE/PR/达芬奇/VEGAS红巨人视觉特效和转场预设插件v2023.1.1 Win",
+  "slug": "ae-pr-da-fen-qi-vegashong-ju-ren-shi-jue-te-xiao-he-zhuan-chang-yu-she-cha-jian-v2023-1-1-win",
+  "author": "大众脸",
+  "post_date": "2023/05/07 09:06",
+  "source_url": "https://www.lookae.com/universe-2023/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Universe 2023.1 引入了全新的风格化工具 Symbol Mapper，可根据源亮度值使用字母、数字和符号重建素材。对仪表板和预设浏览器进行了更新，支持访问 Maxon 的云胶囊服务并新增搜索功能。本版本新增 42 个预设，提升创意实现效率。同时增强了对 Avid Media Composer 的 alpha 层支持，并为生成器类别提供超过 100 个新预设。插件还扩展了背景图像选择范围，强化了覆盖、漏光、字幕条、文本条等高级功能的可用性。Universe 是一套面向编辑师与运动图形艺术家的 GPU 加速插件集合，涵盖视频转场与视觉效果功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/Universe-2023.1.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/403180408719.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2019 及以上, Adobe Premiere Pro CC 2019 及以上, Avid Media Composer 8.2 及以上, Magix VEGAS Pro 14 及以上, DaVinci Resolve 14 及以上",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-853287987-1ef02c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dFS5E5trHoTzj_PuPl1mHQ?pwd=j8kc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/hJmmrnMXWKv"
+    }
+  ],
+  "other": {
+    "update_notes": {
+      "bug_fixes": [
+        "UP-7901、UP-7934：修复了某些效果无法在 Mac M 系列计算机上呈现的问题。",
+        "UP-7559：Symbol Mapper 自定义预设现在显示其缩略图。",
+        "UP-7808：符号映射器底行现在可以正确映射。",
+        "UP-7895：修复了符号映射器在播放过程中闪烁的问题。",
+        "UP-7611、UP-7345：修复了在 Avid Media Composer 中应用 Glow 和 Glimmer 时的错误。",
+        "UP-7890：修复了启用运动模糊会显示下方图层的问题。"
+      ],
+      "known_issues": [
+        "UP-7527：Lustre 的反射贴图源选择无效。",
+        "UP-7482：Universe 在某些系统上呈现黑色输出。",
+        "UP-7990：Logo Motion 在 Resolve 中的 Start/Idle/End 位置值不正确。",
+        "UP-7789：在 Mac 上某些媒体的边缘周围呈现白色像素。",
+        "UP-7756：3D 过渡在 Avid 中不呈现黑色。"
+      ]
+    },
+    "compatibility_notes": [
+      "Avid Media Composer 不支持 Prism Displacement、Compound Blur 和画中画。",
+      "此插件不能与 Mac App Store 中的任何版本的 DaVinci Resolve 一起使用。"
+    ],
+    "additional_info": "Universe 2023 为 Avid Media Composer 提供更好的 alpha 层支持，为生成器类别提供 100 多个新预设，增强覆盖、漏光、字幕条、文本条等高级功能。"
+  }
+}

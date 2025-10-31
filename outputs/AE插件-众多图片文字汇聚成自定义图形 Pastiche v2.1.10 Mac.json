@@ -1,0 +1,60 @@
+{
+  "title": "AE插件-众多图片文字汇聚成自定义图形 Pastiche v2.1.10 Mac",
+  "slug": "aecha-jian-zhong-duo-tu-pian-wen-zi-hui-ju-cheng-zi-ding-yi-tu-xing-pastiche-v2-1-10-mac",
+  "author": "大众脸",
+  "post_date": "2022-03-20T22:33:00Z",
+  "source_url": "https://www.lookae.com/pastiche-mac-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Pastiche v2.1.10 是一款强大的 After Effects 插件，可将大量图片、文字、图标、图形等图层元素一键汇聚成自定义图形、LOGO 或文字样式。支持上百个图层处理，提供灵活的粒子排列方式调整（大小、旋转、透明度等），并可与 Newton 牛顿插件联动，实现创意碰撞效果。支持图形间动态转换（A-B），适用于复杂动画拼贴设计。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Pastiche2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/295496486458.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556961987-abb19a"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1mX_v0oD2iDk1TOygSVdlag?pwd=s89v"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/tmAFnRxfzwZ"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-479295508"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1_kX9UUltV9VDNz5XHxAAiA"
+    }
+  ],
+  "other": {
+    "new_features": [
+      "点画：新增分配方法，可基于Alpha或亮度将图层推向最暗/最不透明区域，支持精度控制以优化分布规则性。",
+      "应用颜色：可按来源设置形状图层的填充、轮廓颜色，支持随机或预设颜色，增强动画表现力。",
+      "循环：新增Use First Value选项，使动画循环设置变得极为简单。",
+      "新的动画样式：新增‘步骤’和‘弹性’两种空间插值方式，分别实现轴向移动与弹性运动效果。"
+    ],
+    "update_notes": "v2.1.10 版本修复了 32bpc 项目的错误。",
+    "related_links": [
+      "https://www.lookae.com/pastiche-2110/"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_link": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+  }
+}

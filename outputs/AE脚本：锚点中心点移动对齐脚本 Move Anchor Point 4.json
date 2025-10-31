@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本：锚点中心点移动对齐脚本 Move Anchor Point 4",
+  "slug": "aejiao-ben-mao-dian-zhong-xin-dian-yi-dong-dui-qi-jiao-ben-move-anchor-point-4",
+  "author": "大众脸",
+  "post_date": "2019/01/20 10:32",
+  "source_url": "https://www.lookae.com/point-4/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Move Anchor Point 4 是一款After Effects脚本，用于快速改变和移动一个或多个图层的锚点中心点，且不影响任何其他属性（包括关键帧）。V4版本现作为扩展运行，提供比以往更多的控制。您可以自定义界面，隐藏不使用的部分；添加更多网格和z空间预设以获得更多快速选项；利用新的搜索匹配功能节省时间，甚至可以创建预设以快速重用自定义移动。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/01/Move-Anchor-Point-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014 – CC 2019 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-332020830"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1f2pgXmZ3VR09saqLl5-HBg"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.batchframe.com/",
+    "v4_updates": [
+      "脚本现在以扩展形式打开",
+      "模块化界面，用于改进定制",
+      "可调整大小的网格和z空间预设",
+      "新的“匹配”功能。通过图层名称搜索匹配锚点",
+      "为自定义移动和搜索匹配创建快速预设",
+      "根据形状图层的内容移动形状图层的锚点"
+    ]
+  }
+}

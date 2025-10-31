@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-自动识别域合成中的RGB通道 AutoMatte v1.0",
+  "slug": "aejiao-ben-zi-dong-shi-bie-yu-he-cheng-zhong-de-rgbtong-dao-automatte-v1-0",
+  "author": "大众脸",
+  "post_date": "2019-05-06",
+  "source_url": "https://www.lookae.com/automatte/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "AutoMatte是一款After Effects脚本，能够自动识别并处理预合成中的RGB通道，将RGB多重蒙版批量预合成为具有透明背景的单独预合成。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/AutoMatte.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372754085"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Kf8ULmxz_KcBe7s_o_150w"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "t65c"
+  }
+}

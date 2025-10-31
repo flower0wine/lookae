@@ -1,0 +1,93 @@
+{
+  "title": "红巨人抠像套装插件 Red Giant Keying Suite 11.1.11 支持 CC 2019",
+  "slug": "hong-ju-ren-kou-xiang-tao-zhuang-cha-jian-red-giant-keying-suite-11-1-11-zhi-chi-cc-2019",
+  "author": "大众脸",
+  "post_date": "2019/04/24 16:21",
+  "source_url": "https://www.lookae.com/keying-suite-11111/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Red Giant"
+  ],
+  "content": "Red Giant 公司最新出品的一套抠像插件 Keying Suite 11.1.11，支持 Adobe CC 2019和FCPX。现在插件渲染更快，效果更强。插件主要用于视频抠像，效果非常好，是后期合成中必不可少的技术。Red Giant Keying Suite 抠像操作强大且不繁琐。插件有 Mac 和 Win 两个平台的版本。Primatte Keyer 5.1 抠像插件正式支持MAC平台下的 Final Cut Pro X 和 Motion5，为FCPX软件增添了便利。Keying Suite 是一套完整的专业工具集，可使抠像效果无缝衔接并增强合成的真实感。无论是在简单的抠像场景还是复杂的多步骤合成及困难镜头（如低光照或抖动素材）中都能获得出色的效果。这三款插件可在 After Effects 和 Final Cut Pro 之间流畅工作，并通过强大的功能（如溢色去除、边缘细节和威亚擦除）节省时间。从卷曲的头发到透明的玻璃，Keying Suite 都能成功地从初始蒙版处理到最终合成。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Keying1110.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC2019, Adobe Premiere Pro CS5 – CC2019, Final Cut Pro X, Motion 5",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载 (Win)",
+      "url": "https://lookae.ctfile.com/fs/680462-368125079"
+    },
+    {
+      "name": "百度网盘下载 (Win)",
+      "url": "https://pan.baidu.com/s/1qRWrGP-oKZs-iOTL4Frjkw"
+    },
+    {
+      "name": "城通网盘下载 (Mac)",
+      "url": "https://lookae.ctfile.com/fs/680462-368124914"
+    },
+    {
+      "name": "百度网盘下载 (Mac)",
+      "url": "https://pan.baidu.com/s/1Cn8wVj-MwgHC6HelJI6bwg"
+    },
+    {
+      "name": "完美序列号下载",
+      "url": "https://www.400gb.com/file/70980601"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code_win": "px5x",
+    "baidu_pan_extraction_code_mac": "bv6h",
+    "included_plugins": [
+      "Primatte Keyer 5.1.3 (超级抠像插件)",
+      "Key Correct 1.3.2 (抠像修正插件)",
+      "Red Giant Warp 1.1.4 (扭曲变形插件)"
+    ],
+    "update_info": "Keying Suite 11.1.9 更新内容：更新支持 Adobe CC 2019，修复了AE / PR 2018/2019中未将alpha遮罩释放到其他图层的问题",
+    "serial_numbers": {
+      "Primatte Keyer 5": [
+        "8368-4058-5000-9345-3345",
+        "1376-4092-5000-6656-1346",
+        "1504-4036-5000-5010-1474",
+        "1848-4000-5000-9134-6818",
+        "1697-4070-5000-8631-6667",
+        "8838-7046-1234-6096-4409",
+        "8563-7078-1234-5603-1134",
+        "9007-7010-1234-5027-1578",
+        "8766-7062-1234-8619-7337",
+        "9209-7032-1234-9896-0780",
+        "8339-7050-1234-5932-3910",
+        "8710-7074-1234-7025-1281"
+      ],
+      "Key Correct 1.3.2": [
+        "8315-4032-5678-9238-4970",
+        "9030-4002-5678-9973-4685",
+        "9192-4058-5678-6814-4847",
+        "8658-4046-5678-6319-4313",
+        "8951-4076-5678-5973-6606",
+        "8635-4012-5678-8971-0290",
+        "9046-4062-5678-4312-6701",
+        "8519-4068-5678-4950-0174"
+      ],
+      "Warp & Radium Glow 1.1.4": [
+        "1724-0389-1213-4212-1963",
+        "1370-0333-1738-7326-2134",
+        "1284-0377-1026-4537-2336",
+        "1806-0393-1541-4760-5373",
+        "1809-0306-1057-4290-3892",
+        "1450-0313-1930-4718-1406",
+        "1560-0393-1226-4144-2812",
+        "1383-0366-1238-6962-7647",
+        "2119-0350-1155-4637-4300"
+      ]
+    },
+    "related_tutorial": "Final Cut Pro X 中文系列教程：001.Primatte keyer 抠像插件讲解 - https://www.mfcpx.com/primattekeyer/",
+    "official_website": "http://www.redgiantsoftware.com/products/all/keying-suite/"
+  }
+}

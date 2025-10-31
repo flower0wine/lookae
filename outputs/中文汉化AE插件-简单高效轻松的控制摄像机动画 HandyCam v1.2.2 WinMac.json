@@ -1,0 +1,49 @@
+{
+  "title": "中文汉化AE插件-简单高效轻松的控制摄像机动画 HandyCam v1.2.2 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jian-dan-gao-xiao-qing-song-de-kong-zhi-she-xiang-ji-dong-hua-handycam-v1-2-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-05-31",
+  "source_url": "https://www.lookae.com/handycam-122/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "HandyCam",
+    "中文汉化"
+  ],
+  "content": "这款摄像机插件的灵感来自三维MAYA软件，插件HandyCam尽可能轻松的精心制作AE摄像机动画，简化了AE摄像机动画的各个方面。轻松的轨道控制，仿真手持机芯+ DoF摆动，创造漂亮的相机移动，在世界空间中移动时定位图层，你还可以很容易地将项目发送到另一个动画，并打开它不具备Handycam的计算机上使用。插件功能包括全轨道控制、看目标、直观的镜头控制、一键单击缩放、摆动控制以模拟手持外观、轻松Bake等功能，兼容旧版和当前表达式引擎。v1.2.2更新内容支持苹果M1芯片和支持多帧渲染。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/HandyCam.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-586517237-40d7be?p=4431"
+    },
+    {
+      "name": "插件下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1lgWCmevuf14cwbVD9fnRpg?pwd=9o54"
+    },
+    {
+      "name": "插件下载-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/82LrUArEcxw"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://tc5.us/file/680462-404002971"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/13Fa7R7KEA2zSdry7bfhntQ"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "9o54"
+    }
+  }
+}

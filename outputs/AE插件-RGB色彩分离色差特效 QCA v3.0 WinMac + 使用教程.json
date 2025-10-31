@@ -1,0 +1,57 @@
+{
+  "title": "AE插件-RGB色彩分离色差特效 QCA v3.0 Win/Mac + 使用教程",
+  "slug": "aecha-jian-rgbse-cai-fen-chi-se-chai-te-xiao-qca-v3-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/07/04 17:32",
+  "source_url": "https://www.lookae.com/qca-v3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Plugin Everything"
+  ],
+  "content": "由Plugin Everything公司提供的免费插件Quick Chromatic Aberration，是提高像素完美计算机图形真实感的好方法。它免费完成了许多付费RGB Split插件无法做到的事情，在动态图形和CG合成上看起来都很棒。该插件V3版本有诸多新特性，还支持Win/Mac系统：AE CS6 – CC 2022。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/Quick-Chromatic-Aberration-v3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/367575230938.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-607941659-c8edbb?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1uIwYJM6u1SpgP8WkJcz_sQ?pwd=7why"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/rN2VoYhzB1f"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "V3插件新特性": [
+      "360°色相控制，每一种颜色都像差",
+      "完全透明度控制",
+      "镜头扭曲和歪斜",
+      "可变迭代",
+      "自动缓冲区扩展",
+      "支持原生 MFR 和苹果M1芯片",
+      "它仍然是免费的",
+      "GPU 加速",
+      "无限重复边缘像素",
+      "32bpc精度",
+      "每个通道的平移、旋转、缩放和模糊",
+      "易于使用的控件"
+    ]
+  }
+}

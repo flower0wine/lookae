@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：图层MASK遮罩随机分段破碎脚本 Aescripts Voronoi Shatter v2.2 + 视频教程",
+  "slug": "aejiao-ben-tu-ceng-maskzhe-zhao-sui-ji-fen-duan-po-sui-jiao-ben-aescripts-voronoi-shatter-v2-2-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/04/11 11:04",
+  "source_url": "https://www.lookae.com/voronoishatter/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts Voronoi Shatter v2.2 脚本可以让图层MASK遮罩随机分段破碎，且还可以随机填充颜色，非常的适用方便。Voronoi Shatter can generate voronoi masks on selected layers and create voronoi shape layers.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/04/Voronoi-Shatter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "http://lookae.ctfile.com/fs/HHn147940016"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1BwTDj_FRSBp9rknjVk80oQ?pwd=5km4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/u7K14wAhj4j"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/voronoi-shatter-448/",
+    "script_features": [
+      "You can use \"Random\", \"Selection\" and \"Brightness Map\" to generate pieces",
+      "You can use masks to clip your pieces",
+      "You can choose to generate masks or shape layers"
+    ],
+    "baidu_extraction_code": "5km4"
+  }
+}

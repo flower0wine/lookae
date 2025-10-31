@@ -1,0 +1,62 @@
+{
+  "title": "AE插件：节点式三维粒子特效插件版 Superluminal Stardust 0.9.7 CE",
+  "slug": "aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-ban-superluminal-stardust-0-9-7-ce",
+  "author": "大众脸",
+  "post_date": "2017-05-05T09:47:00Z",
+  "source_url": "https://www.lookae.com/stardust097/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust",
+    "粒子插件"
+  ],
+  "content": "Superluminal Stardust 是一款专为 Adobe After Effects 设计的节点式三维粒子特效插件，支持 Win 和 Mac 系统。它采用模块化设计，提供强大的节点操控界面，可轻松创建复杂的三维粒子效果。插件内置多种预设，支持发射器、粒子、复制、力场、3D模型、文字、遮罩、路径等多种控制元素，并支持空间变形器、球体、盒子、弯曲、扭曲、黑洞等高级功能。适用于制作星轨、粒子漩涡、黑洞等视觉特效。目前已更新至 0.9.7 版本，兼容 After Effects CC 至 CC 2017。官方版本已注册，可免费下载使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/Stardust-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2WUUecH1K.eBjSsphXXcJOXXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC – CC 2017",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.7",
+      "url": "https://lookae.ctfile.com/fs/680462-201847614"
+    },
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.7",
+      "url": "https://pan.baidu.com/s/1kVwUV23"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.1",
+      "url": "http://lookae.ctfile.com/fs/r88161067043"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.1",
+      "url": "https://pan.baidu.com/s/1c14lmkK"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/stardust/",
+    "update_notes": "Bug Fixes 修复一些错误BUG",
+    "tutorial_links": [
+      "https://www.lookae.com/stardust-track/",
+      "https://www.lookae.com/stardust-vortex/",
+      "https://www.lookae.com/stardustt/"
+    ],
+    "installation_note": "插件为一键安装注册，安装即可使用",
+    "features": [
+      "三维粒子系统",
+      "基于节点操控界面",
+      "多种预设动画",
+      "复制功能",
+      "无限的 2D 和 3D 粒子控制",
+      "支持发射器、粒子、复制、力场、辅助发射器、3D模型、文本、遮罩、路径",
+      "支持空间变形器、球体、方形/盒子、3D模型、弯曲、扭曲、路径、黑洞",
+      "支持 Splines 样条动画路径和发射器",
+      "可在球体、盒子或三维模型中封装或发射颗粒"
+    ]
+  }
+}

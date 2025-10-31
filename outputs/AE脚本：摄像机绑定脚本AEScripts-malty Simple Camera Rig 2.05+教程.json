@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本：摄像机绑定脚本AEScripts-malty: Simple Camera Rig 2.05+教程",
+  "slug": "aejiao-ben-she-xiang-ji-bang-ding-jiao-ben-aescripts-malty-simple-camera-rig-2-05-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/01/16 20:22",
+  "source_url": "https://www.lookae.com/camera205/",
+  "category": "aescripts",
+  "tags": [],
+  "content": "该AE脚本教程介绍了AEScripts - malty: Simple Camera Rig 2.05+脚本，此脚本可简化AE中摄像机绑定操作，模拟复杂流畅的摄像机动画，最新版本完美支持Element 3D插件，适用于AE CS5 - CC2015。脚本特点包括全功能摄像机绑定便于动画制作、先进的景深控制、自动移动的参数设置、跨合成的全局设置、便于预合成的Mimic Camera模块、Sure Target支持等。官网为http://aescripts.com/malty-simple-camera-rig/，内附安装说明。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Simple-Camera-Rig.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 - CC2015",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "脚本文件下载",
+      "url": "http://lookae.ctfile.com/file/140930318"
+    },
+    {
+      "name": "高清视频教程下载",
+      "url": "http://lookae.ctfile.com/file/140930238"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件(https://www.lookae.com/after-effects/aechajian/)",
+      "AE教程(https://www.lookae.com/after-effects/aejiaocheng/)",
+      "AE模板(https://www.lookae.com/after-effects/other-after-effects/)",
+      "AE脚本(https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects(https://www.lookae.com/after-effects/)"
+    ],
+    "脚本英文介绍": "If you ever struggled with your After Effects 3D camera than this product is for you. Rig your camera in one click, discover secret techniques used by myself and other artists, and start creating beautiful and stunning animations. Efficiently. This is more than just a camera rig. This is a totally new workflow for any size project. It’s the only camera rig you’ll ever need.",
+    "脚本特点英文介绍": "Fully featured camera rig for easy animation. Advanced depth of field (focus) control. Rig and Camera Speed parameters for automatic moves. Global Settings that work across multiple compositions. Mimic Camera module for easy precomping. Sure Target support. Works great with Element3D. and total creative freedom!",
+    "淘宝店链接": "https://lookae.taobao.com/",
+    "赞助链接": "https://www.lookae.com/sponsor/"
+  }
+}

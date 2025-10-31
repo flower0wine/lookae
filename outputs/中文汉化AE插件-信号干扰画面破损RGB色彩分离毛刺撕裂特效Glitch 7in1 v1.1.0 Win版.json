@@ -1,0 +1,49 @@
+{
+  "title": "中文汉化AE插件-信号干扰画面破损RGB色彩分离毛刺撕裂特效Glitch 7in1 v1.1.0 Win版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-xin-hao-gan-rao-hua-mian-po-sun-rgbse-cai-fen-chi-mao-ci-si-lie-te-xiao-glitch-7in1-v1-1-0-winban",
+  "author": "大众脸",
+  "post_date": "2020/06/02 18:04",
+  "source_url": "https://www.lookae.com/glitch7in1-110/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Glitch 7in1 是一款集成了7种不同毛刺效果的 After Effects 特效插件，支持高级自定义与无限动画变化。可组合使用多种效果实现丰富的视觉冲击，适用于制作信号干扰、画面破损、RGB色彩分离、毛刺撕裂等动态特效。插件内置26个可编辑动画预设，均经过精心设计，支持完全自定义。支持 Windows 系统下 AE CS6 至 CC 2020。v1.1.0 版本新增径向和圆形像素排序功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Glitch-7in1-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/226180115074.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2019, 2020",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-447507679"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1UdvAY8VzbpeU_EaljvL6Uw"
+    }
+  ],
+  "other": {
+    "plugin_effects": [
+      "Basic Blocks 基本块",
+      "Pixel Sorter 像素分离拉伸",
+      "Elements Scatter 分散元素",
+      "Blur Blocks 模糊块",
+      "Noise 噪点噪波",
+      "Warp 变形扭曲",
+      "Split RGB RGB色彩分离"
+    ],
+    "update_notes": "v1.1.0 更新内容：添加了径向和圆形像素排序",
+    "installation_instructions": [
+      "复制 Glitch7in1.aex 文件到 AE 插件目录，如：……\\Adobe After Effects CC\\Support Files\\Plug-ins\\",
+      "复制预设文件夹里的 Glitch Presets 文件夹到 AE 预设目录，如：……\\Adobe After Effects CC\\Support Files\\Presets\\",
+      "打开 AE 软件，找到插件使用即可。"
+    ],
+    "download_password": "9rz6"
+  }
+}

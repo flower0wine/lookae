@@ -1,0 +1,42 @@
+{
+  "title": "Mac苹果版-AE节点式星辰粒子插件 Stardust 1.6.0 兼容Apple M芯片",
+  "slug": "macping-guo-ban-aejie-dian-shi-xing-chen-li-zi-cha-jian-stardust-1-6-0-jian-rong-apple-mxin-pian",
+  "author": "大众脸",
+  "post_date": "2024/10/11 09:01",
+  "source_url": "https://www.lookae.com/stardust-160-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Stardust",
+    "星辰粒子",
+    "粒子插件"
+  ],
+  "content": "Stardust 是 Adobe After Effects 的新一代节点式三维粒子插件，也被称为星辰或星尘粒子插件。它拥有独立的操控界面，功能强大，内置多种预设，可轻松制作出漂亮而复杂的效果。插件支持发射器、粒子、复制、力场、辅助发射器、3D模型、文字、Masks 等多种控制模块，并提供丰富的模式选择。\n\nStardust 引入了体积渲染功能，可通过任意粒子系统创建烟雾效果，并支持导入 VDB 文件，实现与其他 3D 软件的仿真集成，便于在 After Effects 中使用相机控制和渲染，无缝融入合成工作流。\n\n该插件采用突破性界面设计，允许 3D 模型、粒子、特效等元素在统一空间中组合与交互，实现工具间的深度集成，极大拓展了 After Effects 中的创意表达能力。用户可借助 3D 物理引擎、副本动画系统、3D 模型库及数百项功能，快速实现复杂视觉效果，既可使用出厂预设，也可通过模块化流程从零构建。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Stardust-16.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/477795106304.mp4"
+  ],
+  "supported_versions": "2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Mac (兼容 Intel 和 Apple M 芯片)",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1382737846-b53756?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1odn9YlDlXZgeOiIS5lGofQ?pwd=hgf2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/a8X3PaQaSXf"
+    }
+  ],
+  "other": {
+    "related_link": "https://www.lookae.com/stardust-160c/",
+    "related_title": "Win版-AE节点式星辰粒子插件 Stardust 1.6.0"
+  }
+}

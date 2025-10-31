@@ -1,0 +1,46 @@
+{
+  "title": "Mac苹果版AE插件-粉尘粒子消散溶解转场过渡特效 Dust Transition V1.0.1",
+  "slug": "macping-guo-ban-aecha-jian-fen-chen-li-zi-xiao-san-rong-jie-zhuan-chang-guo-du-te-xiao-dust-transition-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2025-05-08",
+  "source_url": "https://www.lookae.com/dust-transition-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Dust Transition",
+    "MAC插件",
+    "粒子特效"
+  ],
+  "content": "Dust Transition 是一款 GPU 加速的 After Effects 插件，可将图像溶解成数百万像素级粒子，并通过多种噪波算法进行扭曲。粒子支持渐变着色与噪声随机化，可叠加最多 10 层以获得更细腻的沙尘效果。插件内置线性、噪波、基于图像三种过渡模式，并支持 3D 空间中的风力、重力及朝向相机等真实粒子行为，为动效师与剪辑师提供高效、流畅的创作体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/04/Dust-Transition-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/514686613265.mp4"
+  ],
+  "supported_versions": "2020–2025",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1503883151-a7b71e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1zlDW-hNwPqH5QPtadxX3vg?pwd=ve86"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Kde12FX1LCJ"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "ve86"
+    },
+    "相关教程": "https://www.lookae.com/dust-transition-tutorial/",
+    "Win版插件地址": "https://www.lookae.com/dust-transition/"
+  }
+}

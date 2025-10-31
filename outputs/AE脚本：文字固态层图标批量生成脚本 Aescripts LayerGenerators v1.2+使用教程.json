@@ -1,0 +1,30 @@
+{
+  "title": "AE脚本：文字固态层图标批量生成脚本 Aescripts LayerGenerators v1.2+使用教程",
+  "slug": "aejiao-ben-wen-zi-gu-tai-ceng-tu-biao-pi-liang-sheng-cheng-jiao-ben-aescripts-layergenerators-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/03/13 10:45",
+  "source_url": "https://www.lookae.com/layergenerator/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本LayerGenerators包含3个脚本文件Alphabet.jsxbin、Solidity.jsxbin和VectorIcons.jsxbin，分别可根据文字层分解生成单个文字图层、固态图层及大量预设内置矢量图标图层；官网地址为https://aescripts.com/layergenerators/；安装需拷贝.jsxbin文件到AE安装目录的Support Files\\Scripts\\ScriptUI Pane；使用时在AE软件中点击Window（窗口菜单）即可找到该脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/03/LayerGenerators.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-241284314"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1onzDZc8lKI_gUJ8iDQtWzg"
+    }
+  ],
+  "other": {}
+}

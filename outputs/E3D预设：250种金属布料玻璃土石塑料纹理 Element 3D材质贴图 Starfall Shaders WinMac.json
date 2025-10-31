@@ -1,0 +1,48 @@
+{
+  "title": "E3D预设：250种金属布料玻璃土石塑料纹理 Element 3D材质贴图 Starfall Shaders Win/Mac",
+  "slug": "e3dyu-she-250chong-jin-shu-bu-liao-bo-li-tu-shi-su-liao-wen-li-element-3dcai-zhi-tie-tu-starfall-shaders-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/08/27 10:31",
+  "source_url": "https://www.lookae.com/starfall-shaders/",
+  "category": "aechajian",
+  "tags": [
+    "E3D预设",
+    "Element 3D",
+    "Win/Mac"
+  ],
+  "content": "非常精致的一套E3D材质纹理贴图预设，超过4K分辨率，兼容 Win 和 Mac 系统。囊括12种类：如金属、布料、玻璃、土石、图案、塑料、有机、抽象等；还兼容其他三维软件：Maya、3D Studio Max、Keyshot、Unreal Engine、Unity、C4D等；贴图支持反射、漫反射、置换、环境光等；适用软件：After Effects CS 5 – CC 2017或更高版本（兼容中文英文版软件）；兼容系统：Win 和 Mac；分辨率：4096*4096（4K）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/Starfall-Shaders.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2NLU2axsIL1JjSZFqXXceCpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2HLA4aDZKL1JjSZFIXXX_DFXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 5 – CC 2017 或更高版本（兼容中文英文版软件）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-217153941"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1i525cqh"
+    },
+    {
+      "name": "Mac 苹果版 E3D三维模型AE插件 Element 3D v2.2.2.2155",
+      "url": "https://www.lookae.com/mace3d2222155/"
+    },
+    {
+      "name": "Win 系统版 E3D三维模型AE插件 Element 3D v2.2.2.2155",
+      "url": "https://www.lookae.com/e3d-2222155cn/"
+    }
+  ],
+  "other": {
+    "安装方法": "复制 Starfall Pro Shader Materials 和 Starfall Pro Shaders 文件夹到E3D插件的材质目录下：Win: 我的文档\\VideoCopilot\\Materials；Mac：/文稿/VideoCopilot/Materials；然后打开AE软件在E3D插件里即可找到材质贴图预设。",
+    "文件大小": "3.66G",
+    "文件格式": ".aep .jpg .emf",
+    "预览音乐": "无音乐",
+    "文件时长": "none",
+    "官方编号": "20240100"
+  }
+}

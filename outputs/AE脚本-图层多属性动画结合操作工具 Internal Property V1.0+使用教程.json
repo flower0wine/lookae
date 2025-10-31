@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本-图层多属性动画结合操作工具 Internal Property V1.0+使用教程",
+  "slug": "aejiao-ben-tu-ceng-duo-shu-xing-dong-hua-jie-he-cao-zuo-gong-ju-internal-property-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/01/11 10:15",
+  "source_url": "https://www.lookae.com/internal-property/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "使用此工具，您可以“内部化”每个属性的键，然后重新为其设置键。这意味着您可以更改其值，而不会在动画中出现任何问题，因为您不必更改或删除现有关键帧。Easily move and adjust already animated objects by “internalizing” the animated properties. Create multiple keyframed animations for each property。脚本特征：\n* 适用于位置、锚点、旋转（未来还会有更多）\n* 轻松复制和移动动画对象\n* 管理和删除内部属性\n* 更少的空值和更少的层！",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/Internal-Property.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/446238771403.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1003418812-52bcf6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ROhdUMHOoBSXCmdMgo5Xhg?pwd=u8cc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/R6FiEUzbkR7"
+    }
+  ]
+}

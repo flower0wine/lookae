@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本：快速输出GIF动图格式插件脚本 Aescaripts GifGun 1.5.1 Win/Mac",
+  "slug": "aejiao-ben-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-jiao-ben-aescaripts-gifgun-1-5-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/03/27 12:47",
+  "source_url": "https://www.lookae.com/gifgun151/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "GifGun 脚本可以一键输出GIF动图格式，操作简单且效果质量高。用户可自定义设置GIF文件的大小、帧率等属性。该工具解决了自 Adobe After Effects CS5 起官方不再支持直接输出 GIF 格式的问题，适用于需要快速导出 GIF 用于 Dribbble、Behance 等平台的设计师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/gifguntitle_1.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/GifGun/0_mainInterface_.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2017",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "AE脚本：快速输出GIF动图格式插件脚本 Aescaripts GifGun 1.5.1 Win/Mac",
+      "url": "https://lookae.ctfile.com/fs/2MU185941558"
+    }
+  ],
+  "other": {
+    "changelog": "1.5.1 (Current version) – Mar 19, 2017: “outputModules is undefined” issue on MacOS and CC2017 solved",
+    "external_discussion_url": "http://aescripts.com/gifgun/#/discussion/embed"
+  }
+}

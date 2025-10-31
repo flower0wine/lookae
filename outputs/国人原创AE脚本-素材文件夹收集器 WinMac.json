@@ -1,0 +1,37 @@
+{
+  "title": "国人原创AE脚本-素材文件夹收集器 Win/Mac",
+  "slug": "guo-ren-yuan-chuang-aejiao-ben-su-cai-wen-jian-jia-shou-ji-qi-win-mac",
+  "author": "大众脸",
+  "post_date": "2024-09-10T09:47:00Z",
+  "source_url": "https://www.lookae.com/scsjq/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "国人原创",
+    "小庄掌门"
+  ],
+  "content": "该脚本专为解决在 After Effects 中导入素材时路径混乱的问题而设计。当忘记素材原始存放位置或觉得文件管理杂乱时，可通过选择目标文件夹并点击按钮，自动将所有相关素材集中到指定文件夹中，并支持替换功能与快速跳转。有效防止素材丢失，提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/SCSJQ.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018 及更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1354501066-43224c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ducjoRSfkh9yjBu2RbN6Ug?pwd=dpig"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/cvr93vdnk6p"
+    }
+  ],
+  "other": {
+    "additional_info": "访问密码：6688（城通网盘）；提取码: dpig（百度网盘）"
+  }
+}

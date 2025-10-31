@@ -1,0 +1,38 @@
+{
+  "title": "可以帮你选点的AE飘动动画中文脚本 未萌-动态壁纸 V4.0.3",
+  "slug": "ke-yi-bang-ni-xuan-dian-de-aepiao-dong-dong-hua-zhong-wen-jiao-ben-wei-meng-dong-tai-bi-zhi-v4-0-3",
+  "author": "大众脸",
+  "post_date": "2024/06/21 17:55",
+  "source_url": "https://www.lookae.com/wm-sway/",
+  "category": "AE脚本",
+  "tags": [
+    "AE脚本",
+    "免费开源",
+    "国人原创",
+    "未萌 动态壁纸"
+  ],
+  "content": "这是国人开发的一款面向于动态壁纸创作的AE脚本（目前仅支持中文简体语言版本的AE软件），支持一键飘动多个图层，并且不需要使用者圈选操控点；支持飘动参数批量修改；飘动实现不需要额外辅助图层，运行速度快。目前包含功能：1. 飘动动画制作：支持 批量飘动图层，支持 参数编辑 和 本地保存，支持 批量修改，支持旋转动画 + 伸缩动画，支持 变速，并且飘动不会产生多余的辅助图层 2. 属性批量k帧功能（未完善）：批量k帧",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/06/WMDTBZ.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2017 – 2024 或更高版",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1312435627-8eff18?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1d8R9k8cU3S2xOWgkb02fTQ?pwd=qc5a"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/P8oNx8mGDqm"
+    }
+  ],
+  "other": {
+    "声明": "未萌 动态壁纸 脚本v4.0版本免费开源，但是不允许非授权的二改"
+  }
+}

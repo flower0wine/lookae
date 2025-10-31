@@ -1,0 +1,60 @@
+{
+  "title": "Win中文汉化-红巨人降噪磨皮美颜调色套装AE/PR插件 MBS 2024.1.0",
+  "slug": "winzhong-wen-yi-hua-hong-ju-ren-jiang-zao-mo-pi-mei-yan-diao-se-tao-zhuang-ae-prcha-jian-mbs-2024-1-0",
+  "author": "大众脸",
+  "post_date": "2024-04-11T12:00:00Z",
+  "source_url": "https://www.lookae.com/mbs-chn/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "精品资源",
+    "红巨人套装合集 V2024 中文版"
+  ],
+  "content": "Magic Bullet Suite 是一套专为色彩校正、修饰和影片外观优化设计的插件套件，提供强大的实时调色工具、视频去噪与美容修饰功能，可显著提升素材在编辑时间线上的视觉效果。本版本为适用于 Windows 系统的中文汉化版，支持 After Effects 2019 至 2024 及 Premiere Pro 2019 至 2024，文件大小约 200MB，具备一键集成安装能力，自动识别软件插件目录。安装时可选择中英文语言，插件名称保留英文原名，部分英文界面因存在兼容性问题未完成汉化。建议项目制作或使用 AE 模板时优先使用英文原版。本套件仅包含插件工具，不提供使用教学。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/02/Magic-Bullet-Suite.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01FXPVFZ1vSMwDyU27k_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01PZfXLT1vSNDaaS9HD_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01U4RhGG1vSMwF4UsiD_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356297440827.mp4"
+  ],
+  "supported_versions": "After Effects 2019/2020/2021/2022/2023/2024 及以上；Premiere Pro 2019/2020/2021/2022/2023/2024 及以上",
+  "supported_os": "Windows 10, Windows 11 及更高版本（不支持 Windows 7，不支持 Mac 苹果系统）",
+  "download_links": [
+    {
+      "name": "淘宝购买 - Win中文汉化版",
+      "url": "https://item.taobao.com/item.htm?id=703866872972"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/mbs-202321/"
+    },
+    {
+      "name": "Mac英/中文版下载",
+      "url": "https://www.lookae.com/mbs-maczh/"
+    },
+    {
+      "name": "站内直接购买（更新至2024.1.0）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fmbs-chn%2F"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Colorista V - 调色师5 (中文版)",
+      "Cosmo II - 润肤磨皮插件 (中文版)",
+      "Film - 电影质感调色 (中文版)",
+      "Looks - 调色插件 (中文版)",
+      "Mojo II - 快速调色 (中文版)",
+      "Denoiser III - 视频降噪插件 (中文版)",
+      "Renoiser - 噪波颗粒插件 (中文版)"
+    ],
+    "installation_note": "一键集成安装，自动识别软件插件目录，安装时可选择语言。",
+    "language_note": "插件名称保留英文，部分英文界面因存在BUG未汉化。",
+    "usage_suggestion": "建议用于项目套模板或复杂工作流时使用英文原版。",
+    "additional_info": "不提供任何插件使用教学。Looks 插件操作界面为中文。"
+  }
+}

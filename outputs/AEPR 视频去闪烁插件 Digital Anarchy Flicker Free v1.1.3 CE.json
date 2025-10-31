@@ -1,0 +1,30 @@
+{
+  "title": "AE/PR 视频去闪烁插件 Digital Anarchy Flicker Free v1.1.3 CE",
+  "slug": "ae-pr-shi-pin-qu-shan-shuo-cha-jian-digital-anarchy-flicker-free-v1-1-3-ce",
+  "author": "大众脸",
+  "post_date": "2016-03-11 12:55",
+  "source_url": "https://www.lookae.com/flicker113/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Digital Anarchy Flicker Free 是一款强大的视频去闪烁插件，能够有效处理光闪烁、延时拍摄闪烁和动态闪烁等问题。插件通过分析画面的颜色和亮度来计算匹配出平滑的视频图像，特别适用于处理延时摄影或拍摄慢动作（高帧速率）视频产生的闪光，以及去除LED灯、电脑显示器或电气干扰产生的闪烁。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Flicker-Free-v1.0.2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE/PR 视频去闪烁插件 Digital Anarchy Flicker Free v1.1.3",
+      "url": "http://lookae.ctfile.com/fs/W9m145541101"
+    }
+  ],
+  "other": {
+    "plugin_type": "一键安装版，安装即可使用，无功能限制",
+    "official_website": "http://digitalanarchy.com/Flicker/main.html",
+    "update_content": "修复BUG错误，支持 Adobe CC 2015"
+  }
+}

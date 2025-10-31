@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本：文字书写描边手写字动画 Aescripts Scribe",
+  "slug": "aejiao-ben-wen-zi-shu-xie-miao-bian-shou-xie-zi-dong-hua-aescripts-scribe",
+  "author": "大众脸",
+  "post_date": "2016/12/20 19:05",
+  "source_url": "https://www.lookae.com/scribe/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "可以将英文字符文字快速制作成书写面板动画。Scribe 脚本中还可以控制文字的大小、描边、位置等参数。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2rL7OaM0kpuFjSspdXXX4YXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/12/Scribe.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：文字书写描边手写字动画 Aescripts Scribe",
+      "url": "https://lookae.ctfile.com/fs/mhm164292132"
+    }
+  ],
+  "other": {
+    "font_support": "仅支持内置的6种预设英文字体，暂不支持中文字体",
+    "script_library": "Automated typeface library for quick write-on/off effect brought to you by compCode",
+    "official_website": "http://aescripts.com/scribe/"
+  }
+}

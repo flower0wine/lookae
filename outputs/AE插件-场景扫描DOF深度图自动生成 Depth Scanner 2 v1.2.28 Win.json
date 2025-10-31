@@ -1,0 +1,56 @@
+{
+  "title": "AE插件-场景扫描DOF深度图自动生成 Depth Scanner 2 v1.2.28 Win",
+  "slug": "aecha-jian-chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-depth-scanner-2-v1-2-28-win",
+  "author": "大众脸",
+  "post_date": "2025/07/02 08:53",
+  "source_url": "https://www.lookae.com/depth-scanner-1228/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Depth Scanner",
+    "DOF深度图"
+  ],
+  "content": "基于 AI 的自动视频深度估算插件，可让您根据图像和视频创建深度图。生成的深度图可用于各种后期处理任务，例如添加雾气、将素材转换为立体 3D 图像以及许多其他图像效果。Depth Scanner 2 包含一个全新的视频深度估算模型，可在多帧图像上实现无闪烁效果，并提供总共 8 种不同的模型，帮助用户找到最适合其素材的模型。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/05/Depth-Scanner-2-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/518851767017.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1523508583-296b86?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10Frp1Pvzkji2qkvMttpZew?pwd=9897"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/epaghRstCxu"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.2.28更新内容：修复 16 位模式导致明亮区域出现伪影的问题。",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_插件": "9897",
+      "百度网盘_教程": "r9ha"
+    }
+  }
+}

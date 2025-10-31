@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-文字路径书写脚本 VideoHive Curva Script",
+  "slug": "aejiao-ben-wen-zi-lu-jing-shu-xie-jiao-ben-videohive-curva-script",
+  "author": "大众脸",
+  "post_date": "2014/09/05 12:51",
+  "source_url": "https://www.lookae.com/curva/",
+  "category": "aescripts",
+  "tags": [
+    "AE教程",
+    "VideoHive"
+  ],
+  "content": "Curva 是一个可以在AE中制作文字生长动画的脚本，选择文字生长路径之后两点，就可以自动完成动画，方便快捷。该脚本基于贝塞尔算法创建平滑的路径生长动画，非常适合制作字母、花卉形状和其他矢量对象的出现动画效果。脚本具有直观的界面和多种动画模板类型，能够大大提高工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Curva.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本-文字路径书写脚本 VideoHive Curva Script",
+      "url": "https://www.400gb.com/file/72624291"
+    }
+  ],
+  "other": {
+    "script_features": [
+      "只需几次点击即可制作形状出现动画",
+      "可通过曲线调整动画类型，也可在原生图形编辑器中调整",
+      "选择动画模板类型（线性、缓动、缓入、缓入缓出、缓出）",
+      "舒适愉悦的界面",
+      "节省大量时间"
+    ],
+    "package_includes": [
+      "脚本",
+      "PDF使用教程",
+      "序列号"
+    ],
+    "official_url": "http://videohive.net/item/curva-script/8694469"
+  }
+}

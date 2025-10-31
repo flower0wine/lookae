@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-快照特效管理工具 Snapshot FX v1.04+使用教程",
+  "slug": "aejiao-ben-kuai-zhao-te-xiao-guan-li-gong-ju-snapshot-fx-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/03/02 21:14",
+  "source_url": "https://www.lookae.com/snapshot-fx-104/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Snapshot FX",
+    "快照管理"
+  ],
+  "content": "创建效果堆栈快照，以快速在不同状态之间导航。应用整个快照或仅更新用户选择的组件。使用搜索、列表过滤、标记和目录跳转列表等直观工具管理快照，以创建库或特定于项目的设置，从而实现快速创意迭代。v1.04升级内容：修复了如果列表仅按效果过滤且多个快照具有匹配的效果时应用错误快照的错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/02/Snapshot-FX.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/507894735039.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1465783015-f78278?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1guNaatvyjt6YH-5iw08qQA?pwd=vjbs"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/xZyMYNoXW5x"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "vjbs"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "E3D V2 模型/材质/贴图/灯光包Video Copilot – Motion Design 2, Backlight, Pro Shaders 2 （Mac/Win）",
+  "slug": "e3d-v2-mo-xing-cai-zhi-tie-tu-deng-guang-bao-video-copilot-motion-design-2-backlight-pro-shaders-2-mac-win",
+  "author": "大众脸",
+  "post_date": "2015/05/31 18:16",
+  "source_url": "https://www.lookae.com/e3dv2mx/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "E3D V2",
+    "Mac&Win",
+    "Video Copilot"
+  ],
+  "content": "最新的 E3D V2 模型/材质/贴图/灯光包，包含 Video Copilot 推出的三个核心资源：Motion Design 2 三维工业模型包、Backlight 环境与灯光贴图包，以及 Pro Shaders 2 材质包。这些资源专为 Element 3D（E3D）插件设计，适用于 After Effects，支持 Windows 和 macOS 系统，可广泛用于高质量 3D 动效与渲染制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/E3DV2MX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Win 版本 - 城通网盘",
+      "url": "https://www.400gb.com/file/97338419"
+    },
+    {
+      "name": "Win 版本 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/19wJdqnAfrOsdFc0YZ-baAA"
+    },
+    {
+      "name": "Mac 版本 - 城通网盘",
+      "url": "https://www.400gb.com/file/97338416"
+    },
+    {
+      "name": "Mac 版本 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1c0jhPsO"
+    }
+  ],
+  "other": {
+    "password": {
+      "百度云网盘下载_Win": "gise"
+    },
+    "resource_details": {
+      "Motion Design 2": {
+        "models_count": "500+",
+        "formats": [
+          "OBJ",
+          "FBX"
+        ],
+        "includes_textures": true,
+        "official_url": "https://www.videocopilot.net/products/element2/#motion-design-2"
+      },
+      "Backlight": {
+        "environment_maps": {
+          "8K": 50,
+          "HDRI_spherical": 50,
+          "HDRI_photographic_lights": 35,
+          "multi_arrays": 15
+        },
+        "features": [
+          "动态反映贴图",
+          "三维噪波和变形工具（弯曲、锥度、扭曲）",
+          "AE中直接控制辅助动画",
+          "Per-Material 转移模式",
+          "Per-Material 线框",
+          "子表面散射材料",
+          "新的倒角斜面与边缘工具",
+          "全新UI界面",
+          "支持8K/4K/2K分辨率",
+          "多种场景环境（房间、仓库、走廊、工业等）"
+        ],
+        "official_url": "https://www.videocopilot.net/products/element2/#backlight"
+      },
+      "Pro Shaders 2": {
+        "materials_count": "300+",
+        "categories": 12,
+        "material_types": [
+          "钢铁",
+          "塑料",
+          "纤维布料",
+          "混泥土"
+        ]
+      }
+    },
+    "external_links": {
+      "official_taobao": "https://lookae.taobao.com/",
+      "sponsor": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

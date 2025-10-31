@@ -1,0 +1,69 @@
+{
+  "title": "117组 LUTs 专业电影调色预设 Mastin Labs – Fuji, Portra, Ilford Pack cubes & 3dl",
+  "slug": "117zu-luts-zhuan-ye-dian-ying-diao-se-yu-she-mastin-labs-fuji-portra-ilford-pack-cubes-3dl",
+  "author": "大众脸",
+  "post_date": "2015/11/06 12:39",
+  "source_url": "https://www.lookae.com/mastinlabs/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "117组 LUTs 专业电影调色预设，由 Mastin Labs 提供，涵盖 Fuji、Portra 和 Ilford 等经典胶片风格。这些 LUT 能够快速实现电影级胶片色彩效果，适用于多种后期制作流程。预设包含 .cube 和 .3dl 两种通用格式，可广泛用于主流视频与图像处理软件，帮助用户高效完成调色工作，并在此基础上进行微调以获得理想的视觉风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/MASTIN-LABS.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "117组 LUTs 专业电影调色预设 Mastin Labs – Fuji, Portra, Ilford Pack cubes & 3dl",
+      "url": "https://lookae.400gb.com/file/129523625"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere",
+      "Adobe After Effects",
+      "Adobe Photoshop",
+      "Final Cut Pro X",
+      "Avid MC 7",
+      "Shake",
+      "Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5"
+    ],
+    "lut_formats": [
+      ".cube",
+      ".3dl"
+    ],
+    "usage_guides": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "DaVinci Resolve": "直接使用或导入",
+      "通用方案": "Magic Bullet LUT Buddy 或 Looks 插件（适用于支持 Looks 的软件）"
+    },
+    "related_links": {
+      "精品LUT合集": "https://www.lookae.com/lookaeluts/",
+      "FCPX LUT工具": "https://www.lookae.com/fcpx-lut/",
+      "更多免费LUT": "https://www.lookae.com/tag/lut/"
+    }
+  }
+}

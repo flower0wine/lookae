@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本：多图层属性效果控制脚本 AEscripts Property Effector + 使用教程",
+  "slug": "aejiao-ben-duo-tu-ceng-shu-xing-xiao-guo-kong-zhi-jiao-ben-aescripts-property-effector-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/03/28 14:10",
+  "source_url": "https://www.lookae.com/property-effector/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "该AE脚本可简单迅速地同时控制多个图层的同一个效果属性，无需繁琐的表达式操作，同样支持粒子系统，可制作粒子随音乐跳动。适用于Win/Mac系统下的Adobe After Effects。官网地址为http://aescripts.com/property-effector/，脚本安装需拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Property-Effector.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：多图层属性效果控制脚本 AEscripts Property Effector + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/Z91146920316"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE教程",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

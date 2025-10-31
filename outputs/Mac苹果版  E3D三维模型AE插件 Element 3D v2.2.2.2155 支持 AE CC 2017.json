@@ -1,0 +1,66 @@
+{
+  "title": "Mac苹果版 : E3D三维模型AE插件 Element 3D v2.2.2.2155 支持 AE CC 2017",
+  "slug": "macping-guo-ban-e3dsan-wei-mo-xing-aecha-jian-element-3d-v2-2-2-2155-zhi-chi-ae-cc-2017",
+  "author": "大众脸",
+  "post_date": "2017/08/10 13:53",
+  "source_url": "https://www.lookae.com/mace3d2222155/",
+  "category": "aechajian",
+  "tags": [
+    "AE CC 2017",
+    "AE插件",
+    "e3d",
+    "Element 3D",
+    "MAC",
+    "VideoCopilot"
+  ],
+  "content": "这是VideoCopilot公司开发的一款强大的AE三维模型插件，支持在Mac苹果系统上运行，版本号为v2.2.2.2155，兼容Adobe After Effects CS5至CC 2017。新版本增加了直接加载C4D材质和贴图等功能，界面更加美观实用。插件官方售价为$199.95。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/E3D222.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC, CC 2014, CC 2015, CC 2017",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-215013662"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1dF5ZV2L"
+    }
+  ],
+  "other": {
+    "installation_tutorial_download_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://www.pipipan.com/fs/680462-203319958"
+      },
+      {
+        "name": "百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1jIr8bga"
+      }
+    ],
+    "related_links": [
+      {
+        "text": "Win版：E3D三维模型AE插件 Element 3D v2.2.2.2155 中文汉化版",
+        "url": "https://www.lookae.com/e3d-2222155cn/"
+      },
+      {
+        "text": "自愿赞助 LookAE.com",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "text": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "text": "E3D V2 模型/材质/贴图/灯光包下载",
+        "url": "https://www.lookae.com/e3dv2mx/"
+      }
+    ],
+    "official_url": "https://www.videocopilot.net/products/element2/",
+    "update_log_url": "https://www.videocopilot.net/products/element2/update/",
+    "price": "$199.95"
+  }
+}

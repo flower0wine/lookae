@@ -1,0 +1,46 @@
+{
+  "title": "抽象梦幻背景生成器AE/PR插件 Mettle Flux v1.15 Win/Mac",
+  "slug": "chou-xiang-meng-huan-bei-jing-sheng-cheng-qi-ae-prcha-jian-mettle-flux-v1-15-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/10/24 16:01",
+  "source_url": "https://www.lookae.com/flux-115/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "Mettle Flux 是一款专为 After Effects 和 Premiere Pro 设计的3D体积化抽象背景生成插件，可创建银河、星云、分形火焰等梦幻视觉效果。支持GPU加速与体积渲染，兼容内置摄像机，便于动画制作。内置预设预览器，可实时查看效果。适用于传统及360°/VR格式输出。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Mettle-Flux.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC\nPremiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-699404183-22c1b3?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Aqwfqfo7oAkz3EN1xdOGjw?pwd=4pzz"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/GvHfsWLexnB"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-396949334"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1melARqCCB2zFsFoFqII2nw"
+    }
+  ],
+  "other": {
+    "update_notes": "1.15版本更新内容：BUG修复；兼容苹果 Apple M芯片",
+    "preview_image_alt": "抽象梦幻背景生成器AE/PR插件 Mettle Flux v1.15 Win/Mac-LookAE.com"
+  }
+}

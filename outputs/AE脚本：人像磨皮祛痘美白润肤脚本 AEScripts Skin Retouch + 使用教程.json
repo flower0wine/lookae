@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：人像磨皮祛痘美白润肤脚本 AEScripts Skin Retouch + 使用教程",
+  "slug": "aejiao-ben-ren-xiang-mo-pi-qu-dou-mei-bai-run-fu-jiao-ben-aescripts-skin-retouch-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/05/20 15:12",
+  "source_url": "https://www.lookae.com/skin-retouch/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "这是一个可以简单快速进行美容修饰皮肤的AE脚本，能够使皮肤光滑的同时保持皮肤纹理细节。下载文件包含脚本和使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/05/Skin-Retouch.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/38947163.mp4"
+  ],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：人像磨皮祛痘美白润肤脚本AEScripts Skin Retouch + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/NXN151147553"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_url": "http://aescripts.com/skin-retouch/",
+    "shop_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "赞助链接",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

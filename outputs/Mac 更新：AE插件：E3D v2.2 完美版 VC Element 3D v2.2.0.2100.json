@@ -1,0 +1,72 @@
+{
+  "title": "Mac 更新：AE插件：E3D v2.2 完美版 VC Element 3D v2.2.0.2100",
+  "slug": "mac-geng-xin-aecha-jian-e3d-v2-2-wan-mei-ban-vc-element-3d-v2-2-0-2100",
+  "author": "大众脸",
+  "post_date": "2015-06-22T10:50:00Z",
+  "source_url": "https://www.lookae.com/mace3d22/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "E3D V2",
+    "Element 3D",
+    "Element 3D V2",
+    "MAC",
+    "Video Copilot"
+  ],
+  "content": "Video Copilot 强大的 AE 三维模型插件 E3D V2.2 正式发布完美版，支持 Mac 系统下的 Adobe After Effects CS5 至 CC 2015。新版本引入了全新界面、三维坐标轴、多视图（顶/侧/左/右视图）、网格显示、模型复制功能、灯光/环境反射/阴影独立控制、多选移动、直接创建简单三维模型等功能。同时支持导入 C4D 材质与贴图动画，并提供动态反射贴图、三维变形工具、辅助动画控制、材质传输模式、线框模式、次表面散射等高级特性。此外还新增组对称创建、模型组动态反射、蒙板反射模式、带阿尔法通道的蒙版投影、改进的材质可见性选项、可保存为 E3D 工程文件、导出 OBJ 文件等实用功能。官方售价为 $199.95（约人民币 1230 元），建议有条件用户支持正版。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/E3D22.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2015",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "E3D v2.2 完美版（城通网盘）",
+      "url": "https://www.400gb.com/file/101428115"
+    },
+    {
+      "name": "E3D v2.2 完美版（百度云网盘）",
+      "url": "https://pan.baidu.com/s/1mg03FcO"
+    },
+    {
+      "name": "Element 3D v2.0.7（Mac 苹果系统）",
+      "url": "https://www.400gb.com/file/97368476"
+    },
+    {
+      "name": "Element 3D v2.0.7（百度云网盘）",
+      "url": "https://pan.baidu.com/s/1i3xQHbZ"
+    },
+    {
+      "name": "Element 3D v2.0.7（BT种子下载）",
+      "url": "https://www.400gb.com/file/97345226"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.videocopilot.net/products/element2/",
+    "release_blog": "http://www.videocopilot.net/blog/2015/06/element-3d-v2-2-now-available/",
+    "installation_notes": [
+      "需先安装 Element 3D v2.0.7 版本",
+      "覆盖升级时请替换 .aex 文件至 AE 插件目录",
+      "安装后在 AE 中点击 Install License，选择提供的 license 文件完成注册",
+      "建议以管理员身份运行安装和 AE 软件"
+    ],
+    "upgrade_note": "若已安装 v2.0 版本，可直接复制 .aex 文件覆盖升级",
+    "model_material_pack": "Video Copilot – Motion Design 2, Backlight, Pro Shaders 2（Mac/Win）",
+    "troubleshooting": [
+      {
+        "issue": "AE 报错：could not be loaded (126)",
+        "description": "插件无法加载，可能因文件损坏或依赖项缺失导致",
+        "solution": "建议彻底卸载旧版本并重新安装，或升级到新版本"
+      },
+      {
+        "issue": "程序崩溃",
+        "description": "通常与显卡驱动或硬件兼容性有关",
+        "solution": "检查显卡是否支持插件，更新驱动；参考 VideoCopilot 官方论坛解决方案"
+      }
+    ],
+    "credits": "感谢国外 mrstock 和 spider853 大神的注册与分享",
+    "support": "如遇问题可在评论区留言，支持网站 https://www.lookae.com/sponsor/",
+    "shop_link": "https://lookae.taobao.com/"
+  }
+}

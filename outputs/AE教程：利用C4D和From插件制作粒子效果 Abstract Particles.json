@@ -1,0 +1,40 @@
+{
+  "title": "AE教程：利用C4D和From插件制作粒子效果 Abstract Particles",
+  "slug": "aejiao-cheng-li-yong-c4dhe-fromcha-jian-zhi-zuo-li-zi-xiao-guo-abstract-particles",
+  "author": "大众脸",
+  "post_date": "2014/03/18 21:57",
+  "source_url": "https://www.lookae.com/abstract/",
+  "category": "aechajian",
+  "tags": [
+    "AE教程",
+    "国外教程",
+    "粒子教程"
+  ],
+  "content": "本教程展示如何在Cinema 4D中创建三维模型并导出为OBJ文件，随后在After Effects中使用Form粒子插件将该OBJ文件作为粒子发射器，生成具有三维空间感的粒子效果，并通过细节调整使整体视觉更加逼真和完美。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/03/form-Particles-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE教程：利用C4D和From插件制作粒子效果 Abstract Particles",
+      "url": "https://www.400gb.com/file/60303284"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "Form 粒子插件下载",
+        "url": "https://www.lookae.com/rgtz-news/"
+      }
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "C4D教程",
+      "Cinema 4D"
+    ]
+  }
+}

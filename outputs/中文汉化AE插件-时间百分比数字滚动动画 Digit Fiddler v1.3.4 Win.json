@@ -1,0 +1,56 @@
+{
+  "title": "中文汉化AE插件-时间百分比数字滚动动画 Digit Fiddler v1.3.4 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-shi-jian-bai-fen-bi-shu-zi-gun-dong-dong-hua-digit-fiddler-v1-3-4-win",
+  "author": "大众脸",
+  "post_date": "2021/03/17 23:33",
+  "source_url": "https://www.lookae.com/digit-fiddler-134/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Digit Fiddler 是一款专为 After Effects 设计的插件，可实现数字、货币、百分比及时间（如分钟、秒等）的滚动计数动画。通过单个滑块即可完成多种类型的计数效果，是制作动态数据展示的高效工具。该版本已提供中文汉化，适用于 Windows 系统下的多个 AE 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Digit-Fiddler.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021、2020、CC 2019、CC 2018、CC 2017、CC 2015.3、CC 2015、CC 2014、CC、CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件下载",
+      "url": "https://089u.com/f/680462-486100090-7e455c"
+    },
+    {
+      "name": "百度网盘 - 插件下载",
+      "url": "https://pan.baidu.com/s/1LEb5EIMWorufvhS70MjlEQ"
+    },
+    {
+      "name": "城通网盘 - 使用教程下载",
+      "url": "https://tc5.us/file/680462-404001297"
+    },
+    {
+      "name": "百度网盘 - 使用教程下载",
+      "url": "https://pan.baidu.com/s/1Qb-w_CYX9TTkWkY1RkT-Ng"
+    }
+  ],
+  "other": {
+    "description": "插件Digit Fiddler可以在AE中解决任何计数动画；无论是数字，货币，百分比还是时间（分钟，秒等）都可以给你提供帮助。",
+    "update_notes": [
+      "修复了CC2018及更高版本中的单间距变换错误",
+      "修复了单间距中心对齐错误"
+    ],
+    "passwords": {
+      "chengtong_wangpan": "6688",
+      "baidu_wangpan": "giv2"
+    },
+    "categories": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "tags_with_links": [
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)",
+      "[中文汉化](https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/)"
+    ]
+  }
+}

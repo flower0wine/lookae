@@ -1,0 +1,43 @@
+{
+  "title": "更新：视觉特效包 – FxFactory Pro 4.1.5（支持FCPX,FCP7,AE,PR）",
+  "slug": "geng-xin-shi-jue-te-xiao-bao-fxfactory-pro-4-1-5-zhi-chi-fcpx-fcp7-ae-pr",
+  "author": "大众脸",
+  "post_date": "2014-04-11",
+  "source_url": "https://www.lookae.com/fxfactory-415/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "MAC"
+  ],
+  "content": "FxFactory Pro 4.1.5 是一款专为 macOS 平台设计的革命性视觉特效包，为 Final Cut Pro、Motion、Premiere Pro 和 After Effects 提供数百种 GPU 加速的滤镜、转场、发生器与预设。新版本优化了下载体验并扩充特效库，支持用户无需编程即可自定义插件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/FXFactory-415.jpg"
+  ],
+  "video_urls": [
+    "https://www.lookae.com/fxf413pjt/"
+  ],
+  "supported_versions": "Final Cut Pro 7, Final Cut Pro X, Motion 4/5, Premiere Pro CS6/CC, After Effects CS5–CC",
+  "supported_os": "macOS 10.7–10.9",
+  "download_links": [
+    {
+      "name": "FxFactory Pro 4.1.5 含安装视频教程",
+      "url": "https://www.400gb.com/file/62268064"
+    },
+    {
+      "name": "专业完整版一键安装（淘宝）",
+      "url": "https://item.taobao.com/item.htm?id=42094760365"
+    }
+  ],
+  "other": {
+    "uninstall_method": "在插件窗口选择 Actions – Uninstall FxFactory",
+    "official_intro": "http://www.noiseindustries.com/fxfactory/",
+    "related_posts": [
+      "https://www.lookae.com/fxfactory-41/",
+      "https://www.lookae.com/fxfactory405/",
+      "https://www.lookae.com/tag/fcpx/",
+      "https://www.lookae.com/others/sucaigongcheng/"
+    ]
+  }
+}

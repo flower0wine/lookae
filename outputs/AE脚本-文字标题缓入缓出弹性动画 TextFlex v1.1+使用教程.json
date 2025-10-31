@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-文字标题缓入缓出弹性动画 TextFlex v1.1+使用教程",
+  "slug": "aejiao-ben-wen-zi-biao-ti-huan-ru-huan-chu-dan-xing-dong-hua-textflex-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-14T08:41:00Z",
+  "source_url": "https://www.lookae.com/textflex/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "文字动画"
+  ],
+  "content": "TextFlex 是一款功能强大的 After Effects 文本动画工具，支持按字符、单词或行进行独立动画控制，无需手动设置关键帧。用户可灵活选择动画样式（如 Overshoot 与 Ease），并自定义持续时间、延迟、方向（如从右到左、从中心向外）等属性。支持对位置、比例等文本属性的精细调整，并可通过添加标记实现与画外音同步。适用于创建入点/出点动画和跨图层统一编辑，提升动画制作效率。其核心功能包括字符级、单词级和行级动画处理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/04/TextFlex-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/514781341776.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1497227353-a35683?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1j0vo_kRrypX4wQXKbwQAig?pwd=2628"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/gjhrAdvLHE7"
+    }
+  ],
+  "other": {
+    "release_note": "v1.1 升级内容：修复非英语语言的问题",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e6%96%87%e5%ad%97%e5%8a%a8%e7%94%bb/"
+    ]
+  }
+}

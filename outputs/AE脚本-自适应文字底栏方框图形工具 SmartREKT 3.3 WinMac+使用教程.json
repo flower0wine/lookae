@@ -1,0 +1,61 @@
+{
+  "title": "AE脚本-自适应文字底栏方框图形工具 SmartREKT 3.3 Win/Mac+使用教程",
+  "slug": "aejiao-ben-zi-gua-ying-wen-zi-di-lan-fang-kuang-tu-xing-gong-ju-smartrekt-3-3-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/23 10:53",
+  "source_url": "https://www.lookae.com/smartrekt-33/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "SmartREKT是一个After Effects脚本工具，可创建具有省时功能的矩形形状图层。非常适合制作自适应文字底栏方框图形动画，操作简单，多种功能效果可设置。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/smartREKT.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2022, 2021, CC 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-521617701-bf130f"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jSvdCJm5X5WLEL6mhhmoIw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/QpXPmVu4V82"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "脚本特性": [
+      "具有默认选项的紧凑型UI布局。",
+      "高级“填充和描边” UI选项。",
+      "快速访问形状图层属性。",
+      "具有自定义枢轴点的像素准确尺寸和边距选项。",
+      "允许基于选定图层的大小创建多个形状图层。",
+      "新创建的形状从选定图层继承位置，持续时间和标签颜色",
+      "快速轻松地父级化到选定图层。",
+      "具有手动高度设置的自动调整大小选项。",
+      "动画文本的高级形状大小设置。",
+      "快速轻松地将其蒙版到选定的矢量层。",
+      "先进的偏斜度和圆度选项",
+      "使用键盘键增加或减少UI值。",
+      "自动调整大小功能的手动高度选项。"
+    ],
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "1wv3"
+  }
+}

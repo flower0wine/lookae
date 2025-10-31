@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-遮罩关键帧动画自动修改调整工具 KeyTweak v2.5 + 使用教程",
+  "slug": "aejiao-ben-zhe-zhao-guan-jian-zheng-dong-hua-zi-dong-xiu-gai-diao-zheng-gong-ju-keytweak-v2-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/08/08 09:46",
+  "source_url": "https://www.lookae.com/keytweak/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "在AE中当你的遮罩动画超过100个关键帧的时候，必须手动修改它们中的每一个来纠正错误，非常的繁琐麻烦。使用KeyTweak脚本，您只需修改一个或两个关键帧，其他关键帧将自动更改。更重要的是，使用KeyTweak，您不仅可以修改蒙版遮罩，还可以修改任何其他关键帧属性。例如，您还可以使用它来校正跟踪轨迹，或者快速细化图层的关键帧运动等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/KeyTweak.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-391898482"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1DAEAYUBlZ9YXioJLX778sQ"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-391898563"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/18SgkTySyAAth-WqPJTmOyQ"
+    }
+  ],
+  "other": {
+    "original_title": "AE脚本-遮罩关键帧动画自动修改调整工具 KeyTweak v2.5 + 使用教程",
+    "original_slug": "aescript-mask-keyframe-animation-adjustment-tool-keytweak",
+    "official_url": "https://aescripts.com/keytweak/"
+  }
+}

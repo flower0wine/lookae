@@ -1,0 +1,81 @@
+{
+  "title": "AE/PR插件-数字转胶片调色插件 FilmConvert Nitrate v3.53 Mac/Win",
+  "slug": "ae-prcha-jian-shu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-nitrate-v3-53-mac-win",
+  "author": "大众脸",
+  "post_date": "2025/09/04 10:51",
+  "source_url": "https://www.lookae.com/filmconvert-353/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "复古调色",
+    "胶片调色",
+    "视频调色",
+    "调色插件"
+  ],
+  "content": "这是一款将数字摄影机拍摄的素材色彩转换成胶片色彩的工具，可作为独立程序，也可以作为第三方插件。插件支持曝光、色温调整，添加颗粒，颜色三色轮，二级调色等属性。支持3D LUT预设文件导出和保存预设，适用素材包括 RED、DSLR、MOV 等，内置多种胶片预设，支持8MM-35MM镜头噪点设置，操作流程简单，支持4K输出。\n\nFilmConvert Nitrate allows your artistic visions to come to life with custom-designed film stocks and grain structures, to achieve the authentic look and feel of film.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/FilmConvert-Nitrate-344.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/501092002234.mp4"
+  ],
+  "supported_versions": "After Effects CC 2018 – 2025, Premiere Pro CC 2018 – 2025",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8422779393-fd1f95?p=4431"
+    },
+    {
+      "name": "Win版-百度网盘",
+      "url": "https://pan.baidu.com/s/1lLxKVXLT2foHrVtz6cuWqQ?pwd=17zs"
+    },
+    {
+      "name": "Win版-阿里云盘",
+      "url": "https://www.alipan.com/s/m4oPpa9jAnC"
+    },
+    {
+      "name": "Mac版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8422781030-b4b514?p=4431"
+    },
+    {
+      "name": "Mac版-百度网盘",
+      "url": "https://pan.baidu.com/s/123k0h9VNPWid1Oop7W_Gzg?pwd=dvhq"
+    },
+    {
+      "name": "Mac版-阿里云盘",
+      "url": "https://www.alipan.com/s/s9adUbRVsTk"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "Cineon Log 电影仿真：提供原始胶片库存仿真的 Cineon Log 版本，可自定义对比度与饱和度。",
+      "完全自定义曲线控制：支持高光与阴影调节，可设计自定义胶片预设，使用完整 Log 图像处理通道保留动态范围。",
+      "先进的胶片颗粒控制：可在高光、中间色调和阴影中分别调整颗粒表现。"
+    ],
+    "update_log": {
+      "win": [
+        "改进了注册中的特殊字符支持",
+        "更新了插件 UI 以匹配 Adobe 更改",
+        "修复了影响 LUT 导出的光晕",
+        "添加了 Arm64 支持"
+      ],
+      "mac": [
+        "改进了注册中的特殊字符支持",
+        "更新了插件 UI 以匹配 Adobe 更改",
+        "更新了日志记录"
+      ]
+    },
+    "related_links": [
+      {
+        "title": "Win中文版-数字转胶片调色AE/PR插件 FilmConvert Nitrate v3.51",
+        "url": "https://www.lookae.com/filmconvert-nitrate-zh/"
+      }
+    ],
+    "passwords": {
+      "win": "访问密码：6688，提取码: 17zs",
+      "mac": "访问密码：6688，提取码: dvhq"
+    }
+  }
+}

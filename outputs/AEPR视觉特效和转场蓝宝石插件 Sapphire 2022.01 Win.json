@@ -1,0 +1,55 @@
+{
+  "title": "AE/PR视觉特效和转场蓝宝石插件 Sapphire 2022.01 Win",
+  "slug": "ae-prshi-jue-te-xiao-he-zhuan-chang-lan-bao-shi-cha-jian-sapphire-2022-01-win",
+  "author": "大众脸",
+  "post_date": "2021-12-19T23:46:00",
+  "source_url": "https://www.lookae.com/sapphire-1501/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "蓝宝石插件"
+  ],
+  "content": "Sapphire 2022 通过简化工作流程、新增创意效果与350个新预设，显著提升性能与渲染速度。支持超过270种效果和3000多种预设，集成Mocha跟踪与遮罩功能，具备卓越图像质量与高效渲染能力，助力创作者专注于创意表达。适用于 After Effects 和 Premiere Pro 的多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Sapphire-2022.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337656354070.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022; Premiere Pro CC 2019, 2020, 2021, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-529659660-b85166"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1a7uYB2jdVf9e1fXgfxO_7g"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Qk7QB83cCwq"
+    }
+  ],
+  "other": {
+    "new_features": [
+      "新效果！ColorFuse-蓝宝石色熔丝",
+      "新功能！UltraZap中的摩卡样条",
+      "新预设！2022年350多个新的和精选的预设",
+      "改进的LensFlare设计器！拥有5个全新的和超过40个焕发活力的耀斑",
+      "更快的渲染！NVIDIA CUDA 11支持Ampere卡，改进了对After Effects多帧渲染的支持，并优化了Apple M1硬件上的本机处理性能"
+    ],
+    "v15_01_updates": [
+      "提高了预设浏览器中 ColorFuse 预设的渲染速度。",
+      "修复了选择“Show Mocha Only”参数时崩溃的问题。",
+      "提高了 Sapphire 在 Windows 和 Linux 上查找 CUDA 库的能力。",
+      "修复了在 Mac 上扭曲大于 16k 像素的图像时发生的崩溃。",
+      "修复了 Sapphire 预设浏览器中“新建”按钮下的预设列表。"
+    ],
+    "additional_info": {
+      "description": "Sapphire 插件可创建任何主机原生效果工具无法比拟的有机外观，广泛应用于影视后期制作中的视觉特效与转场设计。"
+    }
+  }
+}

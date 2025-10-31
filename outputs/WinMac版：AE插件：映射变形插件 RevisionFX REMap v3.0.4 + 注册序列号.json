@@ -1,0 +1,52 @@
+{
+  "title": "Win/Mac版：AE插件：映射变形插件 RevisionFX RE:Map v3.0.4 + 注册序列号",
+  "slug": "win-macban-aecha-jian-ying-she-bian-xing-cha-jian-revisionfx-re-map-v3-0-4-zhu-ce-xu-lie-hao",
+  "author": "大众脸",
+  "post_date": "2016/12/21 13:43",
+  "source_url": "https://www.lookae.com/remap304/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Revisionfx REMap 是一款运行在AE和OFX平台下的专业质量的贴图和扭曲工具，可实现自动漫画般扭曲。该插件包内含5个插件，支持WIN/MAC系统下Adobe After Effects CS5 -CC 2017 。Version 3.0.4新版更新：更新支持AE CC 2017 ，添加GPU支持。官网地址：www.revisionfx.com/products/remap/ 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/remap.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 -CC 2017",
+  "supported_os": "WIN/MAC",
+  "download_links": [
+    {
+      "name": "AE插件：映射变形插件 RevisionFX RE:Map v3.0.4 + 注册序列号",
+      "url": "https://lookae.ctfile.com/fs/8Ln164354744"
+    }
+  ],
+  "other": {
+    "registration_serial_numbers": [
+      {
+        "Name": "lookae.com",
+        "Select": "z94eAxYvlakpuYet"
+      },
+      {
+        "Name": "Team AMPED",
+        "Select": "hpS7akMr87kpuYeF"
+      },
+      {
+        "Name": "lookae",
+        "Select": "z94eAxvWzTLJkWGZ"
+      },
+      {
+        "Name": "LOOKAE",
+        "Select": "dzTCw0vWzTLJkWGp"
+      }
+    ],
+    "plugin_details": {
+      "RE:Map UV": "takes a UV Map, probably rendered from a 3D system, and renders an image using this mapping. Easily clean up texture maps and remap in post without having to go back to your 3D system for re - rendering. In addition, this plugin allows you you to come up with cool 2D and 3D animated texture map templates and reuse them over again with different image sequences.",
+      "RE:Map Inverse UV": "takes a UV Map and a color image that matches that UV Map, and inversely projects the color image to a rectangular image that may then be used to texture the UV Map with RE:Map UV, or for use as a texture map for your 3D system.",
+      "RE:Map Distort": "takes a color image and automatically distorts the image based on the features for a caricature - like effect.",
+      "RE:Map Displace": "warps an image with a user - supplied displacement map. This plugin includes many more options and advanced filtering controls than most other displacement map filters.",
+      "RE:Map Planar": "maps or inverse maps a perspective plane defined by 4 points (also known as corner pinning)"
+    }
+  }
+}

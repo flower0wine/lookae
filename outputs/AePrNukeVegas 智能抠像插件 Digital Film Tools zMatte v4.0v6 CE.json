@@ -1,0 +1,32 @@
+{
+  "title": "Ae/Pr/Nuke/Vegas 智能抠像插件 Digital Film Tools: zMatte v4.0v6 CE",
+  "slug": "ae-pr-nuke-vegas-zhi-neng-kou-xiang-cha-jian-digital-film-tools-zmatte-v4-0v6-ce",
+  "author": "大众脸",
+  "post_date": "2016/08/17 13:10",
+  "source_url": "https://www.lookae.com/zmatte406/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "Digital Film Tools zMatte 是一款全功能键控智能的抠像插件，适用于蓝色、绿色屏抠像，支持16位处理，操作简便，并提供多重遮罩建立、遮罩收缩（含模糊和重叠）、复杂的颜色抑制、阴影处理，以及中间色与高光颜色修正等功能，可创建高质量的艺术效果。该插件基于数百个成功蓝绿幕合成项目的经验开发，采用专有遮罩提取技术，即使面对发丝、烟雾或反光等复杂细节，也能通过极少参数快速生成精准遮罩。插件包含多个子工具，用于键控、遮罩生成与合成，包括 Color Suppress、DeArtifact、Edge Composite、Frame Averager、Holdout Composite、Keyer、Light Wrap、Matte Generator、Matte Repair 和 Screen Smoother。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/zMatte.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 及以上（兼容 CC 2015.3）；Premiere Pro CS5 及以上（兼容 CC 2015.3）；Sony Vegas v13 及以上；The Foundry’s Nuke v8 及以上",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "智能抠像插件 Digital Film Tools: zMatte v4.0v6 CE",
+      "url": "http://lookae.ctfile.com/fs/qzK155362954"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/zmatte/",
+    "installation_note": "插件为一键安装版，安装后即可直接使用"
+  }
+}

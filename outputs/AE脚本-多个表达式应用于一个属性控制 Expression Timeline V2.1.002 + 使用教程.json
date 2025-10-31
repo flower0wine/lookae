@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-多个表达式应用于一个属性控制 Expression Timeline V2.1.002 + 使用教程",
+  "slug": "aejiao-ben-duo-ge-biao-da-shi-ying-yong-yu-yi-ge-shu-xing-kong-zhi-expression-timeline-v2-1-002-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-05-05T16:04:00Z",
+  "source_url": "https://www.lookae.com/expression-timeline/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Expression Timeline",
+    "表达式控制"
+  ],
+  "content": "ExpressionTimeline 允许您将多个表达式应用于一个属性，使每个表达式仅在特定时间段内激活。您可以实现表达式之间的平滑过渡，避免突变，并可设置无表达式活动的时间段，以保留关键帧的运动效果。该脚本支持从 AE CS3 到 CC 2022 的 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Expression-Timeline.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/358199161467.mp4"
+  ],
+  "supported_versions": "AE CS3 – CC 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577535876-6c7ab8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jzhpTZs_0t8wZ7Suy1EvBg?pwd=bhnu"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/5wswr3AeDGE"
+    }
+  ],
+  "other": {
+    "original_post_date": "2022/05/05 16:04",
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "tag_links": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)",
+      "[Expression Timeline](https://www.lookae.com/tag/expression-timeline/)",
+      "[表达式控制](https://www.lookae.com/tag/%e8%a1%a8%e8%be%be%e5%bc%8f%e6%8e%a7%e5%88%b6/)"
+    ],
+    "image_alt": "AE脚本-多个表达式应用于一个属性控制 Expression Timeline V2.1.002 + 使用教程-LookAE.com",
+    "password_info": {
+      "ctfile": "6688",
+      "baidu": "bhnu"
+    }
+  }
+}

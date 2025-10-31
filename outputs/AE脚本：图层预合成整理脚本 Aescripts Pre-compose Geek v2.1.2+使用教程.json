@@ -1,0 +1,27 @@
+{
+  "title": "AE脚本：图层预合成整理脚本 Aescripts Pre-compose Geek v2.1.2+使用教程",
+  "slug": "aejiao-ben-tu-ceng-yu-he-cheng-zheng-li-jiao-ben-aescripts-pre-compose-geek-v2-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/07/02 16:15",
+  "source_url": "https://www.lookae.com/pre-composegeek/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Pre-Compose Geek 脚本可以帮助用户在 After Effects 中更高效地进行预合成操作。与 AE 默认预合成方式不同，该脚本能自动将预合成的长度调整为与所选图层的实际时长一致，避免了因图层非从0帧开始而导致的时间轴冗余问题，从而实现项目结构的整洁与高效管理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/Pre-compose-Geek.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "AE脚本：图层预合成整理脚本 Aescripts Pre-compose Geek v2.1.2+使用教程",
+      "url": "https://www.400gb.com/file/103536464"
+    }
+  ],
+  "other": {
+    "installation_note": "建议使用英文版AE。将jsxbin脚本文件拷贝到以下目录：…..\\Adobe After Effects 版本号\\Support Files\\Scripts\\ScriptUI Panels\\"
+  }
+}

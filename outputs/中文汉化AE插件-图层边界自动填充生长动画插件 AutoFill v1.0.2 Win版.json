@@ -1,0 +1,50 @@
+{
+  "title": "中文汉化AE插件-图层边界自动填充生长动画插件 AutoFill v1.0.2 Win版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-tu-ceng-bian-jie-zi-dong-tian-chong-sheng-chang-dong-hua-cha-jian-autofill-v1-0-2-winban",
+  "author": "大众脸",
+  "post_date": "2020/11/25 13:20",
+  "source_url": "https://www.lookae.com/autofill-102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化",
+    "大众脸汉化"
+  ],
+  "content": "AutoFill是After Effects的一个革命性新插件，可以流畅地填充图层的边界，节省繁琐蒙版和关键帧操作。其功能包括自动为形状或图像创建填充动画，将图层或图像透明度作为增长和填充方向指南；具有无限使用可能性，可用于动画展示、纹理更改等多种任务；快速渲染且易于使用，应用后设置增长起点即可，支持GPU加速；包括25个随时可用的预设，可快速创建现成视频；提供完整的动画控制，如使用速度图控制不同区域速度等。v1.0.2版本更新内容包括修复Windows上ae.exe关闭错误，解决外部层分辨率不同时的工作问题，修复非正方形纵横比下噪点偏移错误，添加自动填充Wiki文档。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AutoFill.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279977807409.mp4"
+  ],
+  "supported_versions": "2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "Win中英文版-城通网盘下载",
+      "url": "https://089u.com/file/680462-472734404"
+    },
+    {
+      "name": "Win中英文版-百度网盘下载",
+      "url": "https://pan.baidu.com/s/1hC6bCU_9_0tt_nZ7RGSDTg",
+      "extra": "提取码：8aq9"
+    },
+    {
+      "name": "视频教程下载-城通网盘下载",
+      "url": "https://089u.com/file/680462-461545167"
+    },
+    {
+      "name": "视频教程下载-百度网盘下载",
+      "url": "https://pan.baidu.com/s/18--fk2TQEF4sAtnKyxNhnQ",
+      "extra": "提取码：gl40"
+    }
+  ],
+  "other": {
+    "相关链接": [
+      {
+        "name": "AutoFill v1.0.1 Mac版下载",
+        "url": "https://www.lookae.com/autofill-101/"
+      }
+    ]
+  }
+}

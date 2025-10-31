@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-强大实用工作流程优化工具 Workflower v1.0 + 使用教程",
+  "slug": "aejiao-ben-qiang-da-shi-yong-gong-zuo-liu-cheng-you-hua-gong-ju-workflower-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 23:56",
+  "source_url": "https://www.lookae.com/workflower/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "对凌乱的 After Effects 合成感到恼火？使用 Workflower 脚本，您可以在合成中创建图层组，并使用其他工作流程增强工具，例如将调整图层仅应用于选定图层、图层克隆或遮罩合并。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Workflower.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337350239866.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520634218-371988"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/14CjvF5-G1PzHiJ1QPyrEJQ"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/h3TV17wqUVg"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520634784-41200a"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1dljmp0JE8CzG7VVmwubheg"
+    },
+    {
+      "name": "教程下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Ds7j7Eb4ciG"
+    }
+  ],
+  "other": {
+    "baidu_extract_code": {
+      "script": "g6md",
+      "tutorial": "x02h"
+    },
+    "ctfile_password": "6688"
+  }
+}

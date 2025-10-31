@@ -1,0 +1,44 @@
+{
+  "title": "视频延时闪屏去闪烁AE/PR/OFX/AVX/达芬奇插件 Flicker Free V3.0.2 Win",
+  "slug": "shi-pin-yan-shi-shan-ping-qu-shan-shuo-ae-pr-ofx-avx-da-fen-qi-cha-jian-flicker-free-v3-0-2-win",
+  "author": "大众脸",
+  "post_date": "2025-09-05T16:15:00Z",
+  "source_url": "https://www.lookae.com/flicker-free-302/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Flicker Free",
+    "PR插件",
+    "视频去闪",
+    "达芬奇插件"
+  ],
+  "content": "Flicker Free 插件可有效解决因摄像机与人眼对光线频率感知差异导致的视频闪烁问题，适用于延时摄影、慢动作（高帧率）视频中的光闪烁、动态闪烁等场景。同时能消除LED灯、电脑显示器或电气干扰引起的闪烁现象。该插件通过分析画面颜色和亮度，智能计算并生成平滑的视频图像，支持4K分辨率及GPU加速渲染。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Flicker-Free116.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345710686396.mp4"
+  ],
+  "supported_versions": "After Effects CC 2015 – 2025 及更高版本；Premiere Pro CC 2015 – 2025 及更高版本；DaVinci Resolve；Assimilate Scratch；Nuke；AVX、AVID；Sony Vegas 12 及更高版本；其他 OpenFX 兼容软件",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8423658993-023962?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JHqoZa-ejND2SLNi8fbHsg?pwd=tqr5"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/wAgi65yd61V"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "extract_code": "tqr5",
+    "additional_info": "插件支持多平台集成，包括 AE、PR、DaVinci Resolve、Nuke、AVX、AVID、Sony Vegas 等主流视频制作软件。适用于处理高帧率拍摄中常见的闪烁问题，提升视觉流畅性。"
+  }
+}

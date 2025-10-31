@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-自动快速生成伪三维摄像机视差动画 AutoParallax v1.0",
+  "slug": "aejiao-ben-zi-dong-kuai-su-sheng-cheng-wei-san-wei-she-xiang-ji-shi-chai-dong-hua-autoparallax-v1-0",
+  "author": "大众脸",
+  "post_date": "2022-06-18T09:16:00Z",
+  "source_url": "https://www.lookae.com/autoparallax/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AutoParallax",
+    "视差动画"
+  ],
+  "content": "AutoParallax 是一个简单但功能强大的 After Effects 脚本，可自动快速生成伪三维摄像机视差动画。在添加视差效果（2.5D移动）时，只需调整 Z 位置，脚本将自动同步调整 XY 位置和比例，确保视觉效果与原始设计一致，避免因距离变化导致的尺寸错乱问题。支持 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01ktVlt51vSMswtNe6D_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-598772882-575da4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1sOmDFRbqzIKllBNSIWFiAQ?pwd=l4sr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/SfqZW3pXNye"
+    }
+  ],
+  "other": {
+    "original_post_date": "2022/06/18 09:16",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "AutoParallax",
+      "视差动画"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "l4sr"
+    }
+  }
+}

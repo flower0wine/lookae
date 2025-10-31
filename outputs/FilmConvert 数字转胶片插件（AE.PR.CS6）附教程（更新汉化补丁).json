@@ -1,0 +1,44 @@
+{
+  "title": "FilmConvert 数字转胶片插件（AE.PR.CS6）附教程（更新汉化补丁）",
+  "slug": "filmconvert-shu-zi-zhuan-xiao-pian-cha-jian-ae-pr-cs6-fu-jiao-cheng-geng-xin-yi-hua-bu-ding",
+  "author": "大众脸",
+  "post_date": "2012-09-26T14:41:00Z",
+  "source_url": "https://www.lookae.com/filmconvert/",
+  "category": "aechajian",
+  "tags": [
+    "CS6",
+    "插件"
+  ],
+  "content": "FilmConvert Pro 是一款将数字摄影机拍摄的素材色彩转换成胶片色彩的工具，支持作为独立程序或第三方插件使用。插件仅兼容 After Effects CS6、Premiere CS6 和 FCP；软件版本仅支持 MAC 平台。适用于 RED、DSLR、MOV 等格式素材，内置 19 种胶片预设及 8MM-35MM 镜头噪点模拟，操作简便，支持 4K 输出。插件已完美适配，按说明安装即可使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/09/filmconvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6, Premiere CS6, FCP",
+  "supported_os": "MAC (软件版), Windows (插件版)",
+  "download_links": [
+    {
+      "name": "FilmConvert Pro 数字转胶片插件（AE.PR.CS6）",
+      "url": "http://www.ctdisk.com/file/9644011"
+    },
+    {
+      "name": "FilmConvertPro 汉化补丁",
+      "url": "http://www.ctdisk.com/file/9663414"
+    }
+  ],
+  "other": {
+    "original_post_date": "2012/09/26 14:41",
+    "author_profile_url": "https://www.lookae.com/author/大众脸/",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "related_tags": [
+      "CS6",
+      "插件"
+    ],
+    "image_caption": "（图中那个小伙就系大众脸，图片仅供LookAE站内交流使用，未经允许严禁盗链）"
+  }
+}

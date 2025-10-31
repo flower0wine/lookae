@@ -1,0 +1,52 @@
+{
+  "title": "图层颜色属性随机化AE脚本 Randomatic 2 v2.10+使用教程",
+  "slug": "tu-ceng-yan-se-shu-xing-sui-ji-hua-aejiao-ben-randomatic-2-v2-10-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/11/01 09:25",
+  "source_url": "https://www.lookae.com/randomatic-210/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层属性"
+  ],
+  "content": "脚本是After Effects中创建2D/3D图层和颜色属性随机值的完美解决方案。在静态随机，动画随机或摆动之间进行选择。使用定制的控制器精确控制您的随机属性。同时也可随机化图层(偏移，伸展，指数)！\n\nThe perfect solution for creating random values on 2D, 3D and color properties in After Effects. Also randomize layers!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Randomatic-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1419717005-911c83?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1UoBQvf-wsb2IYqXzNq96zQ?pwd=my66"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/MLiksub1sCn"
+    }
+  ],
+  "other": {
+    "update_log": "v2.10更新内容：修正了导致某些用户无法正确启动脚本的错误。",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "my66"
+    },
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_urls": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e5%9b%be%e5%b1%82%e5%b1%9e%e6%80%a7/"
+    ],
+    "category_urls": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本-导入AAF时素材自动重新链接工具 AAF Relinker v1.0",
+  "slug": "aejiao-ben-dao-ru-aafshi-su-cai-zi-dong-zhong-xin-lian-jie-gong-ju-aaf-relinker-v1-0",
+  "author": "大众脸",
+  "post_date": "2019/10/13 15:29",
+  "source_url": "https://www.lookae.com/aafrelinker/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "在AE中导入AAF时，即使名称和持续时间略有不同，也会自动重新链接素材，非常适用。Relinks footage automatically, even if the name and duration are slightly different. Perfect for AAF import!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/AAF-Relinker.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/238738454285.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-402541294"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1bgCcKmme2sp4W1SGeCD_SQ"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/aaf-relinker/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "AE视觉特效插件包 v9.0.4",
+  "slug": "aeshi-jue-te-xiao-cha-jian-bao-v9-0-4",
+  "author": "大众脸",
+  "post_date": "2015-06-22T11:45:00Z",
+  "source_url": "https://www.lookae.com/bcc904/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Boris Continuum Complete 9 FxPlug 是一款功能强大的视频图像合成与处理插件，支持多种特效、转场及风格化工具。涵盖3D字幕、3D粒子、老电影、光线、镜头光晕、烟雾、火等超过230种特效，同时提供3000多个预设，适用于Adobe Premiere Pro和After Effects的多版本支持。具备True 3D镜头光晕、体积光照、时间特效、键控/抠像、遮罩、变形等多种高级功能，是影视后期制作中的核心工具之一。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/BCC91B.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro CS4 – CC 2015, Adobe After Effects CS4 – CC 2015",
+  "supported_os": "Win64位系统",
+  "download_links": [
+    {
+      "name": "AE视觉特效插件包 Boris Continuum Complete v9.0.4",
+      "url": "https://www.400gb.com/file/101442110"
+    }
+  ],
+  "other": {
+    "product_highlights": [
+      "230+ filters and transitions",
+      "3000+ presets included FREE",
+      "FX Browser™",
+      "3D Particle Effects",
+      "Image Restoration",
+      "Keys & Mattes",
+      "True 3D Lens Flares",
+      "Extrusions",
+      "Volumetric Lighting Effects",
+      "Time-Based Effects",
+      "Blurs & Glows",
+      "Cinematic Effects"
+    ],
+    "developer": "Boris FX",
+    "description": "Boris FX 是VFX领域领先的软件与插件开发商，其产品线包括 Boris Continuum Complete (BCC)、Final Effects Complete (FEC)、Boris RED、Boris Graffiti 等，广泛应用于专业影视后期制作。",
+    "installation": "一键安装版，安装即可使用",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "demo_link": null,
+    "related_categories": [
+      "AE插件",
+      "After Effects"
+    ]
+  }
+}

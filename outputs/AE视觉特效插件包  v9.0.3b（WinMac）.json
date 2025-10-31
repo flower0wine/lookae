@@ -1,0 +1,60 @@
+{
+  "title": "AE视觉特效插件包 v9.0.3b（Win/Mac）",
+  "slug": "aeshi-jue-te-xiao-cha-jian-bao-v9-0-3b-win-mac",
+  "author": "大众脸",
+  "post_date": "2014-12-03T11:15:00Z",
+  "source_url": "https://www.lookae.com/bcc903b/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "bcc9",
+    "Win/Mac"
+  ],
+  "content": "Boris Continuum Complete 9（BCC 9）是一款功能强大的视频图像合成与特效处理插件，支持多种主流视频编辑软件。该插件提供超过230种滤镜和转场效果，包含3000多个预设，涵盖3D粒子、镜头光晕、烟雾、火焰、调色、键控/抠像、遮罩、发光等多种高级特效。支持Open GL与双CPU加速，适用于64位Windows系统及Mac OS X系统下的Adobe After Effects、Premiere Pro和Avid Media Composer等软件。其内置的FX Browser™工具可高效管理大量特效资源，是影视后期制作中不可或缺的视觉特效解决方案。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/BCC91B.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro 64位版, Adobe After Effects 64位版, Avid Media Composer 64位版 (Win); Adobe After Effects CS5-CC 2014.1 (Mac)",
+  "supported_os": "Windows 64位, macOS",
+  "download_links": [
+    {
+      "name": "Mac 版本下载",
+      "url": "https://www.400gb.com/file/79046113"
+    },
+    {
+      "name": "Win 版本下载",
+      "url": "https://www.lookae.com/bcc9/"
+    }
+  ],
+  "other": {
+    "product_highlights": [
+      "230+ filters and transitions",
+      "3000+ presets included FREE",
+      "FX Browser™",
+      "3D Particle Effects",
+      "Image Restoration",
+      "Keys & Mattes",
+      "True 3D Lens Flares",
+      "Extrusions",
+      "Volumetric Lighting Effects",
+      "Time-Based Effects",
+      "Blurs & Glows",
+      "Cinematic Effects"
+    ],
+    "developer": "Boris FX",
+    "description": "Boris FX 是视觉特效领域领先的软件与插件开发商，旗下产品线包括 Boris Continuum Complete (BCC)、Final Effects Complete (FEC)、Boris RED、Boris Graffiti 等，广泛应用于影视后期制作中。",
+    "demo_link": null,
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "related_tags": [
+      "AE插件",
+      "bcc9",
+      "Win/Mac"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-二维卡通人物角色动作绑定MG动画制作工具 Character Tool 1.0.6 + 使用教程",
+  "slug": "aejiao-ben-er-wei-qia-tong-ren-wu-jiao-se-dong-zuo-bang-ding-mgdong-hua-zhi-zuo-gong-ju-character-tool-1-0-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/19 11:00",
+  "source_url": "https://www.lookae.com/character-tool-106/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Character Tool 是一款专为角色动画师打造的多功能工具，包含绑定工具、工作流程增强器以及丰富的辅助运动预设，帮助用户高效创建二维卡通人物角色的动作绑定与MG动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/Character-Tool.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/249971699626.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-467522389"
+    },
+    {
+      "name": "脚本 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/15tSkfALlL2vZYrWW-K58XA"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-415821813"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IIiTMIYTDY86BR4GJ4GCLg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了“许可证适用于其他产品”问题",
+      "修复了某些Windows系统上的“无法在线执行脚本”错误",
+      "一些小修正"
+    ],
+    "tool_categories": [
+      "Rigging-绑定：用于创建和调整肢体设计的所有必要工具。",
+      "Assistant-辅助工具：包含提升角色动画及其他动画任务效率的工作流助推器。",
+      "Presets-预设：提供持续更新的辅助运动动画预设，为动画增添细节。"
+    ],
+    "baidu_netdisk_password_script": "8q8s"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "遮罩MASK路径可视化效果AE插件 Path Visualizer v1.2.2 Win/Mac",
+  "slug": "zhe-zhao-masklu-jing-ke-shi-hua-xiao-guo-aecha-jian-path-visualizer-v1-2-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-12-21",
+  "source_url": "https://www.lookae.com/path-122/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "Path Visualizer 可根据文本或遮罩路径实时生成并动画化顶点、贝塞尔曲线与手柄，支持圆、菱形、正方形顶点样式，自定义手柄长度、宽度、颜色与描边，内置易用动画系统，适合技术/蓝图风格，无限缩放不失真。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Path-Visualizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – 2022，2023",
+  "supported_os": "Win / Mac（含 Apple M 芯片）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-752069578-9465a4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jMxhGiRMRR8A0nMou-fnHg?pwd=gpyh"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/GWZ3zqTpot3"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "gpyh"
+    },
+    "版本更新": "v1.2.2 修复 BUG 并兼容 Apple M 芯片"
+  }
+}

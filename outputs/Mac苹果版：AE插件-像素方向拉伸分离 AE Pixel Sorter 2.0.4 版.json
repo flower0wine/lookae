@@ -1,0 +1,42 @@
+{
+  "title": "Mac苹果版：AE插件-像素方向拉伸分离 AE Pixel Sorter 2.0.4 版",
+  "slug": "macping-guo-ban-aecha-jian-xiang-su-fang-xiang-la-shen-fen-chi-ae-pixel-sorter-2-0-4-ban",
+  "author": "大众脸",
+  "post_date": "2018-11-10T20:14:00Z",
+  "source_url": "https://www.lookae.com/mac-aepixelsorter/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "AE Pixel Sorter 是首个将像素排序故障效果引入 After Effects 的工具，专为动态设计师和视频编辑者打造。该插件可实现视频画面的像素分离拉扯效果，广泛应用于广播电视、现场演出、VJ表演、音乐视频、游戏动画、摄影及服装设计等领域。2.0.4 版本重构核心算法，提升使用与渲染效率，并新增渐变、旋转、块大小、随机长度、羽化等功能，使像素排序实验更加便捷直观。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Pixel-Sorter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-319540477"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1z6MbrXn4cspe2eWxMXVn6w"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/ae-pixel-sorter/",
+    "win_download_link": "https://www.lookae.com/pixel-sorter-2/",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/mac/"
+    ]
+  }
+}

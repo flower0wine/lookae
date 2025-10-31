@@ -1,0 +1,48 @@
+{
+  "title": "场景扫描DOF深度图自动生成AE插件 Depth Scanner 1.14.0 Win",
+  "slug": "chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-aecha-jian-depth-scanner-1-14-0-win",
+  "author": "大众脸",
+  "post_date": "2024/06/27 09:35",
+  "source_url": "https://www.lookae.com/depth-scanner-114/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Depth Scanner",
+    "DOF深度图"
+  ],
+  "content": "这是一款用于自动深度图计算的基于人工智能的AE插件，可从图像和视频创建深度图，生成的深度图可用于添加雾、转换素材为立体3d等后期处理任务。v1.14.0版本添加了Depth Anything v2模型。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024, 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件下载-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1315001444-cf0ca0?p=4431"
+    },
+    {
+      "name": "插件下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1IDMn-56L67sODUUS5TCZrQ?pwd=30xg"
+    },
+    {
+      "name": "插件下载-阿里云盘",
+      "url": "https://www.alipan.com/s/AjDECxk5hJe"
+    },
+    {
+      "name": "视频教程-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "视频教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+    },
+    {
+      "name": "视频教程-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "AE插件-粉尘粒子消散溶解转场过渡特效 Dust Transition V1.0.2 Win",
+  "slug": "aecha-jian-fen-chen-li-zi-xiao-san-rong-jie-zhuan-chang-guo-du-te-xiao-dust-transition-v1-0-2-win",
+  "author": "大众脸",
+  "post_date": "2025/04/15 09:02",
+  "source_url": "https://www.lookae.com/dust-transition/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Dust Transition",
+    "粒子溶解",
+    "粒子转场"
+  ],
+  "content": "这是一个GPU加速AE插件，可将图像溶解为像素大小的粒子，并用各种噪波算法扭曲，粒子可用渐变着色或噪声随机化。插件得益于GPU加速，在现代PC和Mac上高效运行，可添加最多10层粒子实现更逼真效果，还具备三种转场过渡类型，能模拟真实粒子行为。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/04/Dust-Transition-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/514686613265.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1497421699-64f437?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ey0ZT0qXDnMLRJqvgasdUw?pwd=q6x5"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/86kBe3Avjc1"
+    }
+  ],
+  "other": {
+    "教程下载": [
+      "https://www.lookae.com/dust-transition-tutorial/"
+    ],
+    "v1.0.2更新内容": [
+      "修复高分辨率合成的问题",
+      "针对完全透明像素优化渲染",
+      "最大层数增加到20"
+    ]
+  }
+}

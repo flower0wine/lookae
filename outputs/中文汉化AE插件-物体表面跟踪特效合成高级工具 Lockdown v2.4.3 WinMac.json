@@ -1,0 +1,79 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v2.4.3 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v2-4-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/08/05 13:33",
+  "source_url": "https://www.lookae.com/lockdown-243/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Lockdown",
+    "中文汉化",
+    "曲面跟踪",
+    "特效合成"
+  ],
+  "content": "Lockdown是一款革命性的新插件，可以直跟踪运动物体扭曲不平的表面，非常适合进行美容修饰和其他先前困难的物体移除清理工作，或者其他跟踪合成特效制作。插件拥有独立操作界面，可让您轻松进行跟踪，一切将比以前在After Effects和达芬奇界面中要平滑得多。提供的功能之一是能够使用蒙版或Alpha通道修剪轨道。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/318386610195.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-504759049-cd28e9"
+    },
+    {
+      "name": "插件下载 百度网盘",
+      "url": "https://pan.baidu.com/s/1KzwVR8apv1WDiwvlYwwtYA"
+    },
+    {
+      "name": "插件下载 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/6U999p5XBFT"
+    },
+    {
+      "name": "V2.4教程 城通网盘",
+      "url": "https://089u.com/f/680462-502067783-dcc3cb"
+    },
+    {
+      "name": "V2.4教程 百度网盘",
+      "url": "https://pan.baidu.com/s/141jyi3Nrba6Z6uUeccofpQ"
+    },
+    {
+      "name": "V2 教程 城通网盘",
+      "url": "https://089u.com/f/680462-495135746-bf69b7"
+    },
+    {
+      "name": "V2 教程 百度网盘",
+      "url": "https://pan.baidu.com/s/1yJ0tcRCvlspPF97iOHvM_g"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "9eru, 02kh, oiho"
+    },
+    "notes": [
+      "Win为中文英文版，Mac仅英文版",
+      "v2.4.3 更新内容：添加进度条、优化高分辨率镜头支持、修复 Resolve 许可问题及多应用渲染崩溃等"
+    ],
+    "changelog": {
+      "added": [
+        "我们现在有一个进度条来显示插值进度。这是优化它并使其更快的第一步。"
+      ],
+      "changed": [
+        "将高分辨率镜头的最大点半径增加到 60。",
+        "我们现在将内插点渲染为空心圆而不是实心，以便更容易评估质量。",
+        "为了将来打样，我们删除了下拉菜单以更改 After Effects 窗口中的插值，并且它仅存在于弹出窗口中。",
+        "删除了输入热键。"
+      ],
+      "fixed": [
+        "修复了 Resolve 中的许可窗口可能会阻止访问其背后内容的问题。",
+        "修复了从多个应用程序渲染 Lockdown 时可能发生的崩溃。例如，Ae、Resolve 和 Premiere 都可以同时渲染 Lockdown。此修复程序应解决“未处理的异常”崩溃。"
+      ]
+    }
+  }
+}

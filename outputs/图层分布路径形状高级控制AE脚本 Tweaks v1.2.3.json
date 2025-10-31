@@ -1,0 +1,49 @@
+{
+  "title": "图层分布路径形状高级控制AE脚本 Tweaks v1.2.3",
+  "slug": "tu-ceng-fen-bu-lu-jing-xing-zhuang-gao-ji-kong-zhi-aejiao-ben-tweaks-v1-2-3",
+  "author": "大众脸",
+  "post_date": "2024/02/05 21:08",
+  "source_url": "https://www.lookae.com/tweaks-123/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Tweaks",
+    "图形控制"
+  ],
+  "content": "这是一个用于操纵复杂路径、形状和图层的综合工具包。能同时变形多个形状、进行复杂路径操作，处理繁重计算工作，助您专注创意细微差别，为After Effects创意探索开辟新途径，部分功能与PRIMITIVE SHAPES兼容。1.2.3版本更新内容为添加到方便粒子的偏移。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Tweaks.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/437329829693.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024，2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1018100759-71645f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1i24CSq7jZ5x24Y476K820Q?pwd=9jdi"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/xcuaTLKEURF"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "英文介绍": "30 features: Advanced control over paths, shapes, and layer distributions. From morphing shapes to fine-tuning paths and innovatively distributing layers, this tool will enrich your creative experience; with Tweaks, your artistic possibilities expand, limited only by your creativity."
+  }
+}

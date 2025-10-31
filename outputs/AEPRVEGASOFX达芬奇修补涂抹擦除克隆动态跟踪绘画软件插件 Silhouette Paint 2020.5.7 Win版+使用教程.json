@@ -1,0 +1,70 @@
+{
+  "title": "AE/PR/VEGAS/OFX/达芬奇修补涂抹擦除克隆动态跟踪绘画软件插件 Silhouette Paint 2020.5.7 Win版+使用教程",
+  "slug": "ae-pr-vegas-ofx-da-fen-qi-xiu-bu-tu-mo-ca-chu-ke-long-dong-tai-gen-zong-hui-hua-ruan-jian-cha-jian-silhouette-paint-2020-5-7-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/19 12:49",
+  "source_url": "https://www.lookae.com/silhouette-202057/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette Paint 是业界首个集绘画与动态跟踪于一体的插件，专为电影和视频制作设计，提供32位高动态范围绘画工具。它支持压感画笔、克隆、修复、瑕疵处理、拖动、减淡、加深、纹理、马赛克等多种核心绘画功能。插件具备无损自动绘画系统、强大的运动跟踪（集成Mocha平面跟踪器）、通道与细节分离（粗/中/细层级）、色彩管理（支持OpenColorIO）等高级特性，适用于遮罩绘制、美容修饰、威亚擦除、画面修补等专业场景。艺术家可在支持的宿主软件中直接使用其序列化专业绘画工具，实现高效、灵活且高性能的创作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/05/Silhouette-Paint.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2020.5.7",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Silhouette Paint 2020.5.7 Win英文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-467529984"
+    },
+    {
+      "name": "Silhouette Paint 2020.5.7 Win英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1tOc4LmCZ-_zEPNVtrFQ9Hw"
+    },
+    {
+      "name": "Silhouette Paint 2020.5.7 Win中文汉化版",
+      "url": "https://www.lookae.com/silhouette-ch/"
+    },
+    {
+      "name": "使用视频教程 - 城通网盘",
+      "url": "https://72k.us/file/680462-442133531"
+    },
+    {
+      "name": "使用视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1zANFrj-jeqFBjXNGvDGwKg"
+    },
+    {
+      "name": "Mac版 v2020.5.3 - 城通网盘",
+      "url": "https://72k.us/file/680462-442172492"
+    },
+    {
+      "name": "Mac版 v2020.5.3 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1qkAhlA5gbfHqYSSjV-zGeA"
+    }
+  ],
+  "other": {
+    "supported_host_applications": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro 2020",
+      "Foundry Nuke",
+      "Blackmagic Resolve and Fusion",
+      "Autodesk Flame",
+      "VEGAS Pro",
+      "Silhouette 2020.5.7 独立软件"
+    ],
+    "baidu_netdisk_passwords": {
+      "win_english": "t671",
+      "tutorial": "ed4x",
+      "mac_version": "c8mx"
+    },
+    "official_product_url": "https://borisfx.com/products/silhouette-paint/"
+  }
+}

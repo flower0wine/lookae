@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-矩阵图形背景生成器 quadrateFX v1.10 Win/Mac",
+  "slug": "aejiao-ben-ju-zhen-tu-xing-bei-jing-sheng-cheng-qi-quadratefx-v1-10-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/08/13 22:01",
+  "source_url": "https://www.lookae.com/quadratefx-105/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "quadrateFX"
+  ],
+  "content": "该脚本可在After Effects中生成矢量化矩形的随机模式背景，具备多种可调参数，还能在矩形上添加各种数值以制作三维效果。V1.10进行了更新，包括添加对After Effects新版软件和MacOS新系统的支持，优化UI用户界面，重新设计进度条使其更准确、信息更丰富且可在窗口和可停靠面板模式下工作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/quadrateFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-649024163-c1ba43?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ElO6pzEQ5nerxUGPVJDbKw?pwd=19q5"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/vEhLjprPzrN"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

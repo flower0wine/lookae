@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-网格参考线黄金分割线生成工具 GuidesUp! V2.2.3 + 使用教程",
+  "slug": "aejiao-ben-wang-ge-can-kao-xian-huang-jin-fen-ge-xian-sheng-cheng-gong-ju-guidesup-v2-2-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/05 15:51",
+  "source_url": "https://www.lookae.com/guidesup-223/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "GuidesUp",
+    "网格参考线",
+    "黄金分割线"
+  ],
+  "content": "GuidesUp! 是一款功能强大的AE脚本，可以一键创建磁性3D等距网格线，设置黄金分割线、16:9、六角地图等参考线。该脚本能够以前所未有的方式管理项目、锚点和指南，支持一键保存和加载指南，添加电影黑带，清空内存和磁盘缓存等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/GuidesUp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/353244097105.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577535370-fcd7ac?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ydx2WxmCpcooQbR-HakiFA?pwd=levz"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/yXaj8xou2cc"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "levz"
+    },
+    "update_content": "v2.2.3更新内容：允许黄金比率测试；等距网格改进，错误修复"
+  }
+}

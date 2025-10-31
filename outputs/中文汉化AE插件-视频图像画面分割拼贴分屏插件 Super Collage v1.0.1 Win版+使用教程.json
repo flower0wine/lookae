@@ -1,0 +1,47 @@
+{
+  "title": "中文汉化AE插件-视频图像画面分割拼贴分屏插件 Super Collage v1.0.1 Win版+使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-shi-pin-tu-xiang-hua-mian-fen-ge-pin-tie-fen-ping-cha-jian-super-collage-v1-0-1-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-05-28T18:20:00Z",
+  "source_url": "https://www.lookae.com/super-collage-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Super Collage 是一款专为 After Effects 设计的插件，可帮助用户轻松创建照片和视频拼贴分屏效果。该插件提供 104 种预设布局，支持在合成查看器中自定义拼贴形状，包括拖拽调整分割区域、移动角点、滑动边缘以实现动态动画，并可调节角部圆度与形状间间隙。内容可动态调整，且支持手动控制内容的位置与比例，极大提升创作灵活性。适用于 Windows 系统的 After Effects 2020、CC 2019 至 CC 2014 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/Super-Collage.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-447760080"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1lOO-EKtZ0oTPS9z3iR1feg"
+    }
+  ],
+  "other": {
+    "original_post_date": "2020/05/28 18:20",
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE插件",
+      "中文汉化"
+    ],
+    "plugin_website": "https://aescripts.com/super-collage/",
+    "update_notes": [
+      "修复16位彩色模式下的图层大小不正确的错误",
+      "在时间轴中隐藏预设的浏览器参数"
+    ],
+    "download_password": "rhfu",
+    "language": "英文+汉化"
+  }
+}

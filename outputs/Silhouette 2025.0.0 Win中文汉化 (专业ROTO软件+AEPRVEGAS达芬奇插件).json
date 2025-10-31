@@ -1,0 +1,49 @@
+{
+  "title": "Silhouette 2025.0.0 Win中文汉化 (专业ROTO软件+AE/PR/VEGAS/达芬奇插件)",
+  "slug": "silhouette-2025-0-0-winzhong-wen-yi-hua-zhuan-ye-rotoruan-jian-ae-pr-vegas-da-fen-qi-cha-jian",
+  "author": "大众脸",
+  "post_date": "2025-06-24T09:17:00Z",
+  "source_url": "https://www.lookae.com/silhouette-ch/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件",
+    "中文汉化",
+    "精品资源",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 2025.0.0 是一款业界领先的 Roto 与绘画工具，具备超过 400 个视觉特效节点，支持 Boris FX Sapphire、Mocha Pro、Particle Illusion 等主流插件。该工具被广泛应用于好莱坞大片制作，曾参与《死侍与金刚狼》、《叛逆之月》、《芭比娃娃》、《沙丘》及《三体问题》等影视作品。本版本为中文汉化版，支持在 Windows 64 位系统上独立运行，并兼容 AE CC 2019 至 2025 及更高版本，以及 PR 2020 至 2025 及更高版本，同时支持 OFX 系列软件如 Vegas 与达芬奇。安装包约 3.1G，需默认安装至 C 盘，占用空间约 6.8G。采用一机一码激活机制，绑定硬件不可更换设备。内置蓝宝石插件保留英文版，其他插件已完成汉化。购买后需联系客服获取激活密钥。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/08/Silhouette-2022-CHN.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01xmQbHL1vSMnpHYQf2_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/521612748646.mp4"
+  ],
+  "supported_versions": "AE CC 2019 - 2025+, PR 2020 - 2025+, OFX 支持 Vegas & DaVinci Resolve",
+  "supported_os": "Windows 64位 (不支持32位系统，不支持Mac)",
+  "download_links": [
+    {
+      "name": "淘宝购买链接",
+      "url": "https://item.taobao.com/item.htm?id=638374860567"
+    },
+    {
+      "name": "站内直接购买（¥50）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fsilhouette-ch%"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/silhouette-2025/"
+    }
+  ],
+  "other": {
+    "activation_method": "一机一码激活，绑定硬件，不可更换电脑",
+    "installation_note": "必须默认安装到C盘，预计占用空间约6.8G",
+    "translation_limitations": "极少数参数可能未完全汉化，存在潜在BUG风险",
+    "plugin_hints": "内置蓝宝石插件保留英文版，无法汉化；Mocha 和 幻影粒子插件已汉化",
+    "support_info": "仅提供软件工具，不提供视频教程或使用教学",
+    "update_time": "2025/6/24",
+    "purchase_hint": "购买后需主动向客服索取密钥"
+  }
+}

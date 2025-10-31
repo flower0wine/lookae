@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-把AE模板工程转换成PR预设模板 Aep to Mogrt v1.2",
+  "slug": "aejiao-ben-ba-aemo-ban-gong-cheng-zhuan-huan-cheng-pryu-she-mo-ban-aep-to-mogrt-v1-2",
+  "author": "大众脸",
+  "post_date": "2019/06/01 09:31",
+  "source_url": "https://www.lookae.com/aep-to-mogrt/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "这款脚本可将After Effects模板工程快速转换为PR图形预设模板（.mogrt格式），转换后的预设可直接在Premiere Pro中使用，操作便捷。适用于AE CC 2017、CC 2018、CC 2019版本，支持Windows和Mac系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/Aep-to-Mogrt.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376710854"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ZzVplqnf9E06DZMouzPsyQ"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "external_links": [
+      "https://aescripts.com/aep-to-mogrt/"
+    ],
+    "download_password": "yaaz",
+    "image_alt": "AE脚本-把AE模板工程转换成PR预设模板 Aep to Mogrt v1.2-LookAE.com"
+  }
+}

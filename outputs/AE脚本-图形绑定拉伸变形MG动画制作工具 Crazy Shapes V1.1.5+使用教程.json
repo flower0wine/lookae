@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-图形绑定拉伸变形MG动画制作工具 Crazy Shapes V1.1.5+使用教程",
+  "slug": "aejiao-ben-tu-xing-bang-ding-la-shen-bian-xing-mgdong-hua-zhi-zuo-gong-ju-crazy-shapes-v1-1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/01/24 10:41",
+  "source_url": "https://www.lookae.com/crazy-shapes-115/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Crazy Shapes",
+    "MG动画"
+  ],
+  "content": "Crazy Shapes 是一款用于 After Effects 的强大脚本，可扩展路径工作的可能性。用户可通过它快速创建绑定（rigs），一键添加酷炫动画，并利用额外的拉伸变形工具简化动画制作流程。该工具特别适用于制作挤压拉伸（squash and stretch）、波浪动画、辅助动作等效果，并能将准备好的插图进行智能连接，这是传统工具难以实现的功能。脚本支持两种动画模式：循环动画无需关键帧，直接在路径内生成，通过滑块即可调整整体动画；半自动动画则可为已有插图自动添加辅助动作，提升制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/CrazyShapes.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/378201582494.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1013484589-f36917?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1B_4eOel1ijNbgsYtcCmtog?pwd=au7b"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/noggAi31Wge"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688"
+    },
+    "update_notes": {
+      "version": "v1.1.5",
+      "changes": [
+        "速度装备：修复速度装备名称解析",
+        "点到形状：新增复制和重新父功能",
+        "重置形状：修复未分组形状的情况",
+        "链接点到空：改进链接机制、更新路径搜索和转换机制、替代中间-区域机制、将点到空 (pointsToNulls) 中的父空值转换为公共空值",
+        "转换为路径：添加星形转换"
+      ]
+    }
+  }
+}

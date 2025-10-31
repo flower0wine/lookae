@@ -1,0 +1,47 @@
+{
+  "title": "更新：AE/PR插件：RE:Vision Effects 插件大合集（CS4-CC 2014）",
+  "slug": "geng-xin-ae-prcha-jian-re-vision-effects-cha-jian-da-he-ji-cs4-cc-2014",
+  "author": "大众脸",
+  "post_date": "2014-12-16T14:21:00Z",
+  "source_url": "https://www.lookae.com/revision129/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "RE：Vision Effects"
+  ],
+  "content": "RE:Vision Effects 是一家专注于提供创新、高级定制软件的公司，致力于以最高品质创建、修改、控制和增强数字视频图像。其核心产品包括广为人知的 Twixtor Pro 变速插件，以及其他广泛应用于电视、电影、网络及视觉特效领域的专业工具。该合集包含多个官方最新版本插件，适用于 Windows 系统下的 Adobe After Effects 与 Premiere Pro（支持 CS4 至 CC 2014），均为自动安装版，无需序列号，即装即用。插件涵盖去闪烁、降噪、反交错、动态模糊、智能修补、变脸、UV映射、色彩匹配、磨皮、慢动作、逐点羽化、形状阴影、水彩油画等多种功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/REVisionFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS4, CS5, CS5.5, CS6, CC, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR插件：RE：Vision Effects 插件合集（2014.12）",
+      "url": "https://www.400gb.com/file/80500982"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/mac-aecj/"
+    ],
+    "company_website": "http://www.revisionfx.com",
+    "plugin_list": [
+      "REVisionFX.DE-Flicker.v1.21 去闪烁插件",
+      "REVisionFX.DE-Noise.v2.2.3 专业降噪插件",
+      "REVisionFX.FieldsKit.v3.2.3 动画反交错插件",
+      "REVisionFX.ReelSmart.MotionBlur.Pro.v5.0.3 动态模糊插件",
+      "REVisionFX.RE-Fill.v2.1.1 智能修补和填充插件",
+      "REVisionFX.RE-Flex.v5.1.0 变脸插件",
+      "REVisionFX.RE-Map.v2.2.3 UV贴图映射插件",
+      "REVisionFX.RE-Match.v1.3.6 色彩匹配插件",
+      "REVisionFX.SmoothKit.v3.2.1 降噪磨皮插件",
+      "REVisionFX.Twixtor.Pro.v6.1.0 超级慢动作插件",
+      "REVisionFX.PV Feather 1.52 逐点羽化插件",
+      "REVisionFX.Shade Shape 4.21 形状阴影插件",
+      "REVisionFX.Video Gogh 3.55 水彩油画插件"
+    ]
+  }
+}

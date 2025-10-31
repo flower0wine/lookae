@@ -1,0 +1,47 @@
+{
+  "title": "Ae/Pr/Ps/OFX风格影印叠加滤镜插件Digital Film Tools PhotoCopy 2.0.11 版",
+  "slug": "ae-pr-ps-ofxfeng-ge-ying-yin-die-jia-lu-jing-cha-jian-digital-film-tools-photocopy-2-0-11-ban",
+  "author": "大众脸",
+  "post_date": "2018-10-20",
+  "source_url": "https://www.lookae.com/photocopy2011/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "PS插件"
+  ],
+  "content": "Digital Film Tools PhotoCopy 通过分析经典电影、绘画、摄影作品及历史工艺的亮度、色彩、色调、颗粒与质感，将其“DNA”复制并应用到用户图像上，快速生成具有艺术风格的影印叠加效果。支持一键安装，安装后即可直接使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/PhotoCopy.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2.0.11",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-315675006"
+    },
+    {
+      "name": "百度云网盘",
+      "url": "https://pan.baidu.com/s/1NQ1ym7ZLKIJ7CaXjWM88Sg"
+    }
+  ],
+  "other": {
+    "official_site": "http://www.digitalfilmtools.com/photocopy/",
+    "compatible_apps": [
+      "Photoshop CS5+ (64-bit, 含 CC 2019)",
+      "Photoshop Elements 13+ (非应用商店版)",
+      "Photoshop Lightroom 3+",
+      "After Effects CS5+ (含 CC 2019)",
+      "Premiere Pro CS5+ (含 CC 2019)",
+      "Avid 编辑系统 (64-bit)",
+      "Assimilate Scratch v8+",
+      "DaVinci Resolve v11+",
+      "Sony Vegas v13+",
+      "The Foundry Nuke v8+"
+    ],
+    "installation": "一键安装版，安装后即可直接使用"
+  }
+}

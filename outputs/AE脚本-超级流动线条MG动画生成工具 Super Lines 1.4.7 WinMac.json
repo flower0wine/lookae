@@ -1,0 +1,60 @@
+{
+  "title": "AE脚本-超级流动线条MG动画生成工具 Super Lines 1.4.7 Win/Mac",
+  "slug": "aejiao-ben-chao-ji-liu-dong-xian-tiao-mgdong-hua-sheng-cheng-gong-ju-super-lines-1-4-7-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-01-10T15:47:00Z",
+  "source_url": "https://www.lookae.com/super-lines-147/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Super Lines 是一款专为 After Effects 设计的脚本工具，可快速生成流畅的 MG 动画线条效果。支持卡通与抽象两种风格，用户可自由调整线条形态与动画参数，实现多样化的动态视觉创作。适用于多种 AE 版本及操作系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/Super-Lines.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056514462.mp4"
+  ],
+  "supported_versions": "AE 2022、2021、2020、CC 2019、CC 2018、CC 2017、CC 2015.3、CC 2015、CC 2014、CC、CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（脚本）",
+      "url": "https://url70.ctfile.com/f/2827370-534373079-9652c5"
+    },
+    {
+      "name": "百度网盘（脚本）",
+      "url": "https://pan.baidu.com/s/15-1iABBAXhOntyy_4FFuEA?pwd=jpki"
+    },
+    {
+      "name": "阿里云盘（脚本）",
+      "url": "https://www.aliyundrive.com/s/Q1GdAd5vKSs"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-231226150"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1pLMb8a3"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "update_notes": [
+      "修复了随机样式生成后无法更改路径方向的问题",
+      "修复了跨语言打开项目时报错的问题",
+      "修复 JSON 问题"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_pan": "jpki"
+    }
+  }
+}

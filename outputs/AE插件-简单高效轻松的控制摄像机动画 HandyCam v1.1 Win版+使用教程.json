@@ -1,0 +1,39 @@
+{
+  "title": "AE插件-简单高效轻松的控制摄像机动画 HandyCam v1.1 Win版+使用教程",
+  "slug": "aecha-jian-jian-dan-gao-xiao-qing-song-de-kong-zhi-she-xiang-ji-dong-hua-handycam-v1-1-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-10-24 20:51",
+  "source_url": "https://www.lookae.com/handycam-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "HandyCam 是一款专为 After Effects 设计的摄像机动画控制插件，灵感源自 Maya 等三维软件。它通过全轨道控制、直观镜头焦距（mm）调节、一键缩放、手持摆动模拟、无隐藏层设计等功能，大幅简化 AE 摄像机动画制作流程；支持将场景 Bake 后交给未安装插件的电脑或动画师继续协作。v1.1 新增本地变换控件、凸轮定向控制器、链接选定摄像机按钮，并修复非英文 AE 表达式及推拉变焦错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/HandyCam.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载-城通网盘",
+      "url": "https://tc5.us/file/680462-404000098"
+    },
+    {
+      "name": "插件下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1zz4oHxADZSoRIWsnWarHeg"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://tc5.us/file/680462-404002971"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/13Fa7R7KEA2zSdry7bfhntQ"
+    }
+  ],
+  "other": {
+    "official_site": "https://aescripts.com/handycam/"
+  }
+}

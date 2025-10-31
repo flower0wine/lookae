@@ -1,0 +1,63 @@
+{
+  "title": "AE插件：手绘卡通MG动画画笔插件 AEscripts Paint & Stick v1.0.1",
+  "slug": "aecha-jian-shou-hui-qia-tong-mgdong-hua-hua-bi-cha-jian-aescripts-paint-stick-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2016-05-17T11:45:00Z",
+  "source_url": "https://www.lookae.com/painstick101/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件"
+  ],
+  "content": "AEscripts Paint & Stick 是一款专为 After Effects 设计的手绘卡通 MG 动画画笔插件，支持在合成窗口中直接绘制，无需依赖 3D 对象即可将画笔效果‘粘贴’到渲染画面中。插件支持自定义 Photoshop 笔刷导入、洋葱皮动画功能，并可在 4K 分辨率下实现超快绘制性能。其核心特性包括：直接在合成中绘制、支持 3D 渲染贴合动画、快速绘制模式（Fast Draw）、自动生成自定义笔刷、以及与 Cinema 4D/Maya 的无缝集成导出。适用于动画师、视觉设计师快速创建手绘风格的动态内容。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2qLmcjpXXXXXHXpXXXXXXXXXX_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/01/Paint-Stick.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/b/r/brushesforgif_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 - CC2015",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AEscripts Paint & Stick v1.0.1插件下载",
+      "url": "http://lookae.ctfile.com/fs/I9A151013837"
+    },
+    {
+      "name": "使用教程",
+      "url": "http://lookae.ctfile.com/file/140251445"
+    }
+  ],
+  "other": {
+    "demo_url": "https://www.lookae.com/painstick101/",
+    "official_website": "http://aescripts.com/paint-and-stick/",
+    "update_notes": [
+      "修复插件与WIN系统 AE CC 2015 驱动问题",
+      "提升稳定性"
+    ],
+    "installation_instructions": [
+      "安装 Paint & Stick Installer.exe 插件程序",
+      "拷贝 Crack 文件夹内 PaintAndStick.aex 替换原插件（AE插件目录替换）",
+      "打开AE，添加插件到固态层，点击插件界面中 Register，输入任意序列号即可注册",
+      "更多免费AE插件下载：www.lookae.com"
+    ],
+    "purchase_options": {
+      "Paint Only": "包含基础绘制功能，但 'Stick' 功能会水印",
+      "Paint & Stick": "完整功能，无任何水印",
+      "upgrade_info": "可从 'Paint Only' 升级至完整版，价格差自动减免"
+    },
+    "export_plugins": {
+      "Cinema 4D": "免费 'Sticky Pass' 导出插件，支持快速渲染",
+      "Maya": "Beta 版本，需联系开发者获取测试权限"
+    },
+    "additional_features": [
+      "支持在调整层上使用洋葱皮功能",
+      "通过按住修饰键点击画面区域可捕捉为新自定义笔刷（含透明度）",
+      "无需实时渲染，绘制过程流畅，尤其适合帧动画创作"
+    ],
+    "related_links": [
+      "【大众脸官方淘宝店】: https://lookae.taobao.com/",
+      "点击自愿赞助 LookAE.com 网站 【送精品资源】: https://www.lookae.com/sponsor/"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "中文汉化AE/PR插件-自动修复抠像损坏还原边缘细节 Rescue Matte Filler v1.2 Win/Mac版+使用教程",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-zi-dong-xiu-fu-kou-xiang-sun-pi-huan-yuan-bian-yuan-xi-jie-rescue-matte-filler-v1-2-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/08/12 18:01",
+  "source_url": "https://www.lookae.com/matte-filler-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac",
+    "中文汉化"
+  ],
+  "content": "Rescue Matte Filler 是一款专为 After Effects 和 Premiere Pro 设计的智能插件，可自动修复常见的抠像问题，如边缘间隙、色孔和不期望的透明度。它能快速解决因不良照明或绿屏设置导致的问题，通过智能算法恢复缺失的边缘与色彩数据，特别适用于已预键或含有噪点与快速运动的镜头。支持 4K 分辨率，并兼容 Windows 与 Mac 系统，适用于多个版本的 AE、PR 和 Media Encoder。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Resque-Matte-Filler.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015\nPremiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015\nMedia Encoder: 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Windows, macOS (支持苹果 Mac 10.15 系统)",
+  "download_links": [
+    {
+      "name": "AE/PR插件-自动修复抠像损坏还原边缘细节 Rescue Matte Filler v1.2 Win/Mac版+使用教程 (英文版)",
+      "url": "https://089u.com/file/680462-456695170"
+    },
+    {
+      "name": "AE/PR插件-自动修复抠像损坏还原边缘细节 Rescue Matte Filler v1.2 Win/Mac版+使用教程 (英文版)",
+      "url": "https://pan.baidu.com/s/1rWyG14jFDe3deeneQ_C-ng"
+    },
+    {
+      "name": "Win版中文汉化插件",
+      "url": "https://089u.com/file/680462-456758801"
+    },
+    {
+      "name": "Win版中文汉化插件",
+      "url": "https://pan.baidu.com/s/1E60uvbvMkkpqPD-Of5cKMA"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "v1.2 新版更新：兼容苹果 Mac 10.15 系统",
+      "从绿屏画面中快速恢复无法使用的遮罩",
+      "一键无缝修复反射和光线不佳问题",
+      "智能填充算法恢复缺失边缘",
+      "自动消除锯齿并保留边缘细节",
+      "从已抠像镜头中恢复丢失色彩",
+      "支持 4K 分辨率"
+    ],
+    "original_source": "https://aescripts.com/rescue-matte-filler/",
+    "extract_code": [
+      "sb6h",
+      "pnxh"
+    ]
+  }
+}

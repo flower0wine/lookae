@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本-二维等距图形位置动画控制 Isometric Rigger v1.1 + 使用教程",
+  "slug": "aejiao-ben-er-wei-deng-ju-tu-xing-wei-zhi-dong-hua-kong-zhi-isometric-rigger-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/13 21:23",
+  "source_url": "https://www.lookae.com/isometric-rigger/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以在AE中把二维等距图形制作一些位置动画。只需导入图形，选择要设置动画的图层，单击“Rig”按钮即可，您可以获得3个滑块来控制每个图层在等距2D空间中X、Y和Z轴的位置。支持创建简单动画甚至爆炸式等距图。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Isometric-Rigger.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-374317589"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1nZXOCpAVCHWbhjECcokp-g"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_extract_code": "fskl",
+    "official_product_url": "https://aescripts.com/isometric-rigger/"
+  }
+}

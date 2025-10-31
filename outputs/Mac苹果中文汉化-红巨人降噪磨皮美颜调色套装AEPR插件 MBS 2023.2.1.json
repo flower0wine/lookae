@@ -1,0 +1,57 @@
+{
+  "title": "Mac苹果中文汉化-红巨人降噪磨皮美颜调色套装AE/PR插件 MBS 2023.2.1",
+  "slug": "macping-guo-zhong-wen-yi-hua-hong-ju-ren-jiang-zao-mo-pi-mei-yan-diao-se-tao-zhuang-ae-prcha-jian-mbs-2023-2-1",
+  "author": "大众脸",
+  "post_date": "2023-08-16T12:58:00Z",
+  "source_url": "https://www.lookae.com/mbs-maczh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "Magic Bullet 是一套用于色彩校正、修饰和影片外观的插件，具备强大的实时调色工具、视频去噪与美容修饰功能，可显著提升编辑素材的视觉效果。本套插件为适用于 Mac 苹果系统的中文汉化版本，支持 Intel/M1/M2 芯片，兼容 After Effects 2021 及以上、Premiere Pro 2021 及以上版本。包含多个核心插件，如调色师5、润肤磨皮、电影质感调色、快速调色、视频降噪、噪波颗粒等，部分插件提供中英文双语支持，但部分界面（如 Looks 插件）仅保留英文界面。安装后可通过补丁切换语言，插件名称均保留英文原名。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/Magic-Bullet-Suite-M1-CH.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN015uh8ZR1vSMzJ3qzNE_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404527278025.mp4"
+  ],
+  "supported_versions": "After Effects 2021, 2022, 2023, 2024 及更高版本；Premiere Pro 2021, 2022, 2023, 2024 及更高版本",
+  "supported_os": "Mac OS 10.15.x - 13.x",
+  "download_links": [
+    {
+      "name": "淘宝购买链接",
+      "url": "https://item.taobao.com/item.htm?spm=2013.1.0.0.22a9dc3ayAptzB&ft=t&id=734309735099"
+    },
+    {
+      "name": "Mac英文版免费下载",
+      "url": "https://www.lookae.com/mbs-m1/"
+    },
+    {
+      "name": "Win英/中文版下载",
+      "url": "https://www.lookae.com/mbs-chn/"
+    },
+    {
+      "name": "站内直接购买（支付¥25）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fmbs-maczh%2F"
+    }
+  ],
+  "other": {
+    "file_size": "410M",
+    "plugin_list": [
+      "Colorista V (调色师5, 中文版)",
+      "Cosmo II (润肤磨皮插件, 中文版)",
+      "Film (电影质感调色, 中文版)",
+      "Looks (调色插件, 英文版)",
+      "Mojo II (快速调色, 中文版)",
+      "Denoiser III (视频降噪插件, 中文版)",
+      "Renoiser (噪波颗粒插件, 中文版)"
+    ],
+    "installation_note": "安装补丁可随时切换中英文语言；插件名称保留英文；部分参数可能未汉化；存在潜在BUG风险；不提供使用教学；Looks插件操作界面无法汉化，仅支持英文。",
+    "notes": "红巨人所有插件的独立预设及操作界面无法完美汉化，保留英文界面。"
+  }
+}

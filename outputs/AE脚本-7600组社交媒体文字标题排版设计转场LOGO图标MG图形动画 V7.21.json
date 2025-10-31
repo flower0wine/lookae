@@ -1,0 +1,76 @@
+{
+  "title": "AE脚本-7600组社交媒体文字标题排版设计转场LOGO图标MG图形动画 V7.21",
+  "slug": "aejiao-ben-7600zu-she-jiao-mei-ti-wen-zi-biao-ti-pai-ban-she-ji-zhuan-chang-logotu-biao-mgtu-xing-dong-hua-v7-21",
+  "author": "大众脸",
+  "post_date": "2023/02/06 09:22",
+  "source_url": "https://www.lookae.com/trendy-graphics-72/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本",
+    "AtomX",
+    "动画预设"
+  ],
+  "content": "Trendy Graphics 包是一个完美的动态图形集合，用于为各种观众创建任何类型的幻灯片、开场白、社交媒体故事或标题序列、视频网站、电视等内容。超过7600个预设涵盖文字标题、转场、图形动画、背景动画、信号损坏动画、竖屏包装、片头开场动画及音效文件等，适用于从视频博主到专业视频编辑人员的各类用户。该包通过 AtomX 脚本调用预设，支持可视化预览并可直接拖入时间线使用，操作简便高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/02/24321544-7-21.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/396090437055.mp4"
+  ],
+  "supported_versions": "AE CC 2019和更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-803315303-477435?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/11iPx5toUClsNGCE6JZOHDw?pwd=dz2s"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Sj63ptsJNP4"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "file_size": "4.9G",
+    "resolution": "不限制",
+    "audio_info": "无音乐, 有转场音效",
+    "included_script": "AtomX 3.0.7 脚本（已包含）",
+    "installation_note": "安装后请勿移动安装文件，否则失效。",
+    "related_links": [
+      "https://www.lookae.com/tag/atomx/",
+      "https://www.lookae.com/trendy-graphics-56/"
+    ],
+    "preset_counts": {
+      "total_presets": 7600,
+      "openers": 739,
+      "instagram_stories": 428,
+      "logo_reveals": null,
+      "clean_typography": null,
+      "stylized_typography": null,
+      "special_events_typography": null,
+      "glitch_typography": null,
+      "social_media_elements": null,
+      "shapes": 1138,
+      "flat_backgrounds": null,
+      "gradients": null,
+      "special_events_backgrounds": null,
+      "various_backgrounds": 1061,
+      "ramps": null,
+      "icons": null,
+      "widgets": null,
+      "transitions": 1634,
+      "color_correction": null,
+      "light_fx": null,
+      "glitch_effects": 689,
+      "grunge": null,
+      "particles": null,
+      "sound_effects": 609,
+      "text_titles": 1350
+    }
+  }
+}

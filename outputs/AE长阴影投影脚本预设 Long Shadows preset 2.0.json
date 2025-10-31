@@ -1,0 +1,38 @@
+{
+  "title": "AE长阴影投影脚本预设 Long Shadows preset 2.0",
+  "slug": "aechang-yin-ying-tou-ying-jiao-ben-yu-she-long-shadows-preset-2-0",
+  "author": "大众脸",
+  "post_date": "2014/09/22 10:56",
+  "source_url": "https://www.lookae.com/long-shadows/",
+  "category": "aescripts",
+  "tags": [
+    "AE插件",
+    "AE脚本",
+    "AE预设"
+  ],
+  "content": "Long Shadows preset 2.0 是一款非常实用的 After Effects 脚本预设，能够快速为任意图层生成可自定义的长阴影效果。用户可以轻松调整阴影的长度、方向、颜色、透明度和羽化等参数，适用于中英文环境，操作简便，效果出色。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Long-Shadows.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 或更高版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE长阴影投影脚本预设 Long Shadows preset 2.0",
+      "url": "https://www.400gb.com/file/73938868"
+    }
+  ],
+  "other": {
+    "installation_guide": [
+      "拷贝 Long Shadows 2.ffx 到 X:\\Program Files\\Adobe\\Adobe After Effects CS6\\Support Files\\Presets 目录下",
+      "拷贝 Long Shadows 2.jsxbin 到 X:\\Program Files\\Adobe\\Adobe After Effects CS6\\Support Files\\Scripts\\ScriptUI Panels 目录下"
+    ],
+    "usage_guide": [
+      "打开AE，在 Window【窗口】菜单下找到 Long Shadows 2.jsxbin",
+      "点击install,然后关闭 AE",
+      "重新打开AE，在AE的预设列表中找到 Long Shadows 2.ffx 添加到图层"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

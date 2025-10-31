@@ -1,0 +1,41 @@
+{
+  "title": "AE/PR插件-模拟电影胶片调色工具 Look Designer V3.1.1 Win",
+  "slug": "ae-prcha-jian-mo-ni-dian-ying-xiao-pian-diao-se-gong-ju-look-designer-v3-1-1-win",
+  "author": "大众脸",
+  "post_date": "2024/08/14 10:19",
+  "source_url": "https://www.lookae.com/look-designer-adobe/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Look Designer",
+    "PR插件",
+    "胶片调色"
+  ],
+  "content": "这款插件支持 Adobe After Effects 和 Premiere Pro，使电影制作人能够以前所未有的方式设计和编辑自己的电影外观色彩。它采用自定义减色 CMY 处理技术，精准模拟胶片采集、显影、扫描和打印的全过程，超越了传统的胶片模拟 LUT。插件内置于 Colourlab Ai，适用于各种严苛的工作流程，支持相机预匹配、一键在 SDR 与 HDR 之间切换，以及使用 ACEScct 管理整个色彩管道。用户还可通过 33 点或 65 点 .CUBE 文件创建并导出适用于指定输出设备的高质量 Show LUT。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Look-Designer-Adobe.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects, Premiere Pro",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1341323851-a41894?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1z6OKW0Q_s5oSSPmbNeOkwg?pwd=y9sw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/nq2QTDRmqgT"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "y9sw",
+    "related_link": "https://www.lookae.com/look-designer/",
+    "related_title": "达芬奇插件-模拟电影胶片调色工具 Colourlab.ai Look Designer v2.4.2 CE Win"
+  }
+}

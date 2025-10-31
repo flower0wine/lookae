@@ -1,0 +1,43 @@
+{
+  "title": "Ae/Pr脚本-文件素材智能管理工具 Pro IO v2.15.8+使用教程",
+  "slug": "ae-prjiao-ben-wen-jian-su-cai-zhi-neng-guan-li-gong-ju-pro-io-v2-15-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-06-19T12:58:00",
+  "source_url": "https://www.lookae.com/proio-2158/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本"
+  ],
+  "content": "这是一款适用于 After Effects 和 Premiere Pro 的脚本工具，能够智能分类导入的素材并支持批量输出。Pro IO 提供了一站式的媒体输入与输出解决方案，提升视频制作流程中的文件管理效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Pro-IO-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-383540424"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1hfuuNaKtlgfZ_juZRPdAqQ"
+    }
+  ],
+  "other": {
+    "tutorial_info": "包含使用教程",
+    "update_log": "v2.15.8 更新：修复多个AE合成导出到AME的错误，修复Windows上的HFS驱动器问题，以及其他错误修复。",
+    "external_links": [
+      "https://aescripts.com/pro-io/"
+    ],
+    "categories_in_post": [
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "password": "百度网盘提取码：3bxc"
+  }
+}

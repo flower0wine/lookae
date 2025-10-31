@@ -1,0 +1,53 @@
+{
+  "title": "Ae/Pr插件：人像磨皮润肤美容视频插件 Digital Anarchy Beauty Box Video 4.2.3",
+  "slug": "ae-prcha-jian-ren-xiang-mo-pi-run-fu-mei-rong-shi-pin-cha-jian-digital-anarchy-beauty-box-video-4-2-3",
+  "author": "大众脸",
+  "post_date": "2018/06/08 08:50",
+  "source_url": "https://www.lookae.com/beautybox-423/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Digital Anarchy Beauty Box 是一款专业的人像磨皮润肤美容视频插件，能够自动识别肤色并创建遮罩，仅在皮肤区域应用平滑效果，保留面部细节清晰。该插件采用先进的人脸检测与平滑算法，在后期制作中实现数字化妆效果，有效改善高清和4K视频中可见的皮肤与妆容问题，使人物看起来自然美观而不失真。广泛应用于电影、广告和音乐视频制作，被 Park Road Post Production、NBC 和 Universal Music 等公司采用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/Beauty-Box.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/211731022272.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2018\nAdobe Premiere Pro CS6 – CC 2018",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-294200064"
+    },
+    {
+      "name": "Win版 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mOq5DaDkGbyCrpIrkKmvFA"
+    },
+    {
+      "name": "Mac版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/wol171191174"
+    },
+    {
+      "name": "Mac版 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1dE6VPRj"
+    }
+  ],
+  "other": {
+    "serial_info": {
+      "name": "Alien Life Form",
+      "organization": "Team V.R",
+      "serial_number": "44C2BEC9F0A8647922EB7D7C-F2A0"
+    },
+    "related_links": [
+      "https://www.lookae.com/beautybox-305/",
+      "https://www.lookae.com/tag/fcpx/",
+      "https://lookae.taobao.com/category-766045292.htm"
+    ],
+    "sponsor_url": "https://www.lookae.com/sponsor/",
+    "official_store_url": "https://lookae.taobao.com/"
+  }
+}

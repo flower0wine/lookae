@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-快速处理图形层动画工具 Shape Out Toolkit v1.5.1+使用教程",
+  "slug": "aejiao-ben-kuai-su-chu-li-tu-xing-ceng-dong-hua-gong-ju-shape-out-toolkit-v1-5-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/02/27 10:27",
+  "source_url": "https://www.lookae.com/shape-out-toolkit/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Shape Out Toolkit 是一款专为 After Effects 设计的脚本工具，旨在提升用户在处理复杂形状图层时的工作效率。该工具集成了多项实用功能，可帮助用户快速完成锚点调整、动画控制、描边保持等操作，特别适用于需要频繁操作形状图层的动画师和视觉设计师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/02/Shape-Out-Toolkit.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/451253015567.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1025437852-082861?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1pKMeTRn22KJFtiTewHUywg?pwd=p0e4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/68e6aEPZrGA"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "description": "A script to help you go faster in your work with shape layers with a lot of different tools.",
+    "features": [
+      "1. 锚点形状组：选择锚点的位置，锚点将重新定位在形状组内。",
+      "2. Shape Out Null：为形状内的每个形状组创建一个空值，可统一动画并回传至形状。",
+      "3. 形状键：在当前时间点为常用形状属性添加关键帧。",
+      "4. Maintain Stroke：保持形状图层的描边宽度，即使图层或父级被缩放。",
+      "5. 面板自定义排列：可选择显示哪些工具，灵活定制工作界面。"
+    ],
+    "english_description": "1.Anchor Shape Group: Choose what position you want for anchor point and the anchor will be relocate inside your shape group.\n2.Shape Out Null create a null for each Shape Group inside a Shape, you can animate all the shapes with nulls and put all your animation back into your Shape.\n3.Shape Keys adding keys at current time in any most use properties of shape.\n4.Maintain Stroke for maintain Stroke Width of a shape layer even if the layer or the parents are scale.\n5. Arrange your panel by choosing which tools to display"
+  }
+}

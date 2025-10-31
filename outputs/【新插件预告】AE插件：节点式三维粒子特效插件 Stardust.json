@@ -1,0 +1,32 @@
+{
+  "title": "【新插件预告】AE插件：节点式三维粒子特效插件 Stardust",
+  "slug": "xin-cha-jian-yu-gao-aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-stardust",
+  "author": "大众脸",
+  "post_date": "2016/11/10 13:27",
+  "source_url": "https://www.lookae.com/aestardust/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件",
+    "Stardust"
+  ],
+  "content": "Stardust 是一款为 After Effects 开发的新一代节点式三维粒子系统插件。它提供独立且直观的节点化操作界面，内置大量预设，能够快速轻松地创建复杂而精美的粒子特效。插件支持发射器、粒子、复制、力场、辅助发射器、3D 模型、文字、遮罩、路径等多种控制模块，并包含空间变形器、球体、盒子、弯曲、扭曲、Black Hole 等丰富功能。用户还可以在球体、盒子或 3D 模型内部封装或发射粒子，并通过样条（Splines）定义动画路径和发射器行为。目前该插件尚未正式发布。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/Stardust-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "大众脸LookAE官方淘宝店资源.doc",
+      "url": "https://pan.baidu.com/s/1qXDpS1Q"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/stardust/",
+    "status": "未正式发布"
+  }
+}

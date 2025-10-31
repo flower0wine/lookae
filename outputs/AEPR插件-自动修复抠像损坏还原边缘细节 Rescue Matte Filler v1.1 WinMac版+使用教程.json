@@ -1,0 +1,32 @@
+{
+  "title": "AE/PR插件-自动修复抠像损坏还原边缘细节 Rescue Matte Filler v1.1 Win/Mac版+使用教程",
+  "slug": "ae-prcha-jian-zi-dong-xiu-fu-kou-xiang-sun-pi-huan-yuan-bian-yuan-xi-jie-rescue-matte-filler-v1-1-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/07/02 10:16",
+  "source_url": "https://www.lookae.com/boermf/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Rescue Matte Filler是After Effects和Premiere Pro的智能插件，可自动修复常见的抠像问题，包括边缘间隙，色孔和不想要的透明度。只需单击几下，即可解决由不良照明和绿屏设置引起的问题。智能恢复色彩数据，其中镜头已预先设置键或包含噪点和快速移动。插件可从可怕的绿屏画面中快速恢复以前无法使用的遮罩，使用智能填充算法恢复缺失的边缘，自动消除锯齿，保留边缘细节，从已抠像的镜头中恢复丢失的色彩，兼容4K。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/Resque-Matte-Filler.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015 | Premiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015 | Media Encoder: 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-451460732"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1HIyCXGAn-6lVKdfuNs_mvA"
+    }
+  ],
+  "other": {
+    "baidu_extract_code": "ue4f"
+  }
+}

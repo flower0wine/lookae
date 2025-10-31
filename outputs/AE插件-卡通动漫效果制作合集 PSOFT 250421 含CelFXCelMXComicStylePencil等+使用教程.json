@@ -1,0 +1,94 @@
+{
+  "title": "AE插件-卡通动漫效果制作合集 PSOFT 250421 含CelFX/CelMX/ComicStyle/Pencil等+使用教程",
+  "slug": "aecha-jian-qia-tong-dong-man-xiao-guo-zhi-zuo-he-ji-psoft-250421-han-celfx-celmx-comicstyle-pencildeng-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/04/22 10:13",
+  "source_url": "https://www.lookae.com/psoft-250421/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CelFX",
+    "CelMX",
+    "卡通特效"
+  ],
+  "content": "全系列插件更新，兼容高版本AE，支持多帧渲染。这套插件由日本PAOFT公司出品，提供了诸多卡通动漫效果制作插件，受到很多萌新二次元朋友的喜爱。包含ComicStyle、CelFX、Antialiasing、CelMX、Pencil+ 4 Line五套插件，提供几十个插件，满足不同制作需求。插件均为无水印版，安装即可使用，并附带预设、素材、工程文件及使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/PSOFT-AE-2024.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/227778991704.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2023, 2024, 2025 或更高版",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1499972869-a6dfd2?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1q0UIRmyJl4EJ8OnSfpYX9A?pwd=n9av"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Npw9wDQHLPS"
+    }
+  ],
+  "other": {
+    "plugin_details": [
+      {
+        "name": "PSOFT CelMX v1.1.1",
+        "description": "包含8个效果，用于数字动画拍摄过程的插件集合，针对未消除锯齿的图像工作流程优化。",
+        "plugins": [
+          "P_BlurCelLayer",
+          "P_BlurCelMulti",
+          "P_BlurCelRadial",
+          "P_BlurPath",
+          "P_ChromaticAberrations",
+          "P_Glow",
+          "P_GradientMap",
+          "P_InnerShadow"
+        ]
+      },
+      {
+        "name": "PSOFT CelFX v1.1.1",
+        "description": "包含11个效果，用于快速实现动画摄影特效，如着色渐变、描线调整、颜色置换等，优化处理未消除锯齿图像。",
+        "plugins": [
+          "P_Blur Cel",
+          "P_Blur RGB",
+          "P_Boundary Line",
+          "P_Color Selection",
+          "P_Deband",
+          "P_Delta FX",
+          "p_Extend",
+          "P_Fill",
+          "P_Gradient",
+          "P_Replace Color",
+          "P_Texture"
+        ]
+      },
+      {
+        "name": "PSOFT ComicStyle v1.6.1",
+        "description": "包含4种漫画风格效果，操作简单，适合快速制作集中线、速度线等漫画特效。",
+        "plugins": [
+          "P_FocusLines",
+          "P_Halftone",
+          "P_PathStroke",
+          "P_SpeedLines"
+        ]
+      },
+      {
+        "name": "PSOFT anti-aliasing v1.1.1",
+        "description": "执行高质量抗锯齿处理，平滑图像轮廓和颜色，适用于数字动画工作流程。"
+      },
+      {
+        "name": "Pencil+ 4 Line v4.1.1",
+        "description": "允许在After Effects中使用Pencil+输出的PLD文件进行编辑，支持与Pencil+ 4 Line 3D软件相同的线质量和参数。"
+      }
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "n9av"
+    }
+  }
+}

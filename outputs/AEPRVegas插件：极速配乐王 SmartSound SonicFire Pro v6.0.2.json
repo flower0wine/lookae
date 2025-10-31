@@ -1,0 +1,58 @@
+{
+  "title": "AE/PR/Vegas插件：极速配乐王 SmartSound SonicFire Pro v6.0.2",
+  "slug": "ae-pr-vegascha-jian-ji-su-pei-le-wang-smartsound-sonicfire-pro-v6-0-2",
+  "author": "大众脸",
+  "post_date": "2016-09-05T18:18:00Z",
+  "source_url": "https://www.lookae.com/sonicfire602/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "Sonicfire Pro 极速配乐王是一款专为非音乐人设计的配乐软件，无需掌握乐理、五线谱或乐器演奏技能，仅通过简单三步操作即可生成与视频毫秒不差的专业级配乐。其核心功能是基于特殊格式的音乐素材，能根据视频时长自动精准生成具有起承转合结构的完整音乐，避免传统固定长度音乐剪裁导致的完整性损失。用户可通过风格（如拉丁、爵士、流行、管弦乐）和情绪（如快乐、愤怒、动作片、轻松）筛选音乐，并支持对多层音乐中的各乐器音量进行独立调整。此外，还支持调节音高与速度以适配视频节奏。该软件既可独立使用，也可作为 Adobe After Effects、Premiere Pro 和 Sony Vegas Pro 的插件集成使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/SonicFire-6.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC2015.3, Adobe Premiere Pro CS5 – CC2015.3, Sony Vegas Pro 12, 13",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE/PR/Vegas插件：极速配乐王 SmartSound SonicFire Pro v6.0.2",
+      "url": "http://lookae.ctfile.com/fs/mvU156115828"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.smartsound.com/sonicfire/",
+    "music_library_downloads": [
+      {
+        "name": "[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Night.Grooves.DVD-TSG.iso",
+        "url": "ed2k://|file|[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Night.Grooves.DVD-TSG(ED2000.COM).iso|3679488000|f6da0fccc053d64657bb5881a57bd052|h=wyghhqvgnnrrtgv2y76vifcvpfrc6kli|/",
+        "size": "3.43 GB"
+      },
+      {
+        "name": "[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Night.Grooves.DVD-TSG.nfo",
+        "url": "ed2k://|file|[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Night.Grooves.DVD-TSG(ED2000.COM).nfo|1131|dad385f9fafbb1260069e341e648bde5|h=6zy6gezwvlzxrhxjwpn5ndf3hakjj7ib|/",
+        "size": "1.10 KB"
+      },
+      {
+        "name": "[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Forward.Momentum.DVD-TSG.iso",
+        "url": "ed2k://|file|[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Forward.Momentum.DVD-TSG(ED2000.COM).iso|3415980032|186f16c3aabbfaf051ef404ab5b86d5b|h=b6elbefdrhz7h4bguhrcj6pgd3irvh2r|/",
+        "size": "3.18 GB"
+      },
+      {
+        "name": "[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Forward.Momentum.DVD-TSG.nfo",
+        "url": "ed2k://|file|[SmartSound.音乐曲库].TLF-SOFT-SmartSound.Strata.Series.Forward.Momentum.DVD-TSG(ED2000.COM).nfo|1130|fbd8fa0d434633532b681e625f868fbd|h=wgp5qivs57ln4cu3wu47qkmneyixsdct|/",
+        "size": "1.10 KB"
+      }
+    ],
+    "features": [
+      "自动生成与视频时间完全匹配的音乐",
+      "支持按风格与情绪搜索音乐",
+      "多层音乐编辑（可单独调节乐器音量）",
+      "支持调整音乐音高与速度",
+      "兼容 AE、PR、Vegas 插件使用"
+    ]
+  }
+}

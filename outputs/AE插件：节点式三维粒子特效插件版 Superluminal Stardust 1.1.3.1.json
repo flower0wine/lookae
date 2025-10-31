@@ -1,0 +1,60 @@
+{
+  "title": "AE插件：节点式三维粒子特效插件版 Superluminal Stardust 1.1.3.1",
+  "slug": "aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-ban-superluminal-stardust-1-1-3-1",
+  "author": "大众脸",
+  "post_date": "2018/02/24 18:31",
+  "source_url": "https://www.lookae.com/stardust1131/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust"
+  ],
+  "content": "Superluminal Stardust 是一款专为 Adobe After Effects 打造的节点式三维粒子特效插件，支持 Win 和 Mac 系统。其基于模块化节点界面，可轻松创建复杂的粒子系统，具备发射器、粒子、复制、力场、3D模型、文字、Mask、路径等多种控制元素，并支持空间变形器、球体、盒子、弯曲、扭曲、黑洞等高级功能。插件内置大量预设，适用于制作星轨、粒子漩涡、烟花、文字挤压等视觉效果。新版 1.1.3.1 修复了预览窗口无法打开的问题，并新增变形节点、组织节点、智能 Shy、开关面板、预设搜索、文字与 Mask 拉伸优化、Stardust Studio Cam 相机工具、新预设（如烟花、挤压文字标题）等功能，大幅提升创作效率和灵活性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/10/Stardust1.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2WUUecH1K.eBjSsphXXcJOXXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版插件下载",
+      "url": "https://lookae.ctfile.com/fs/680462-239046032"
+    },
+    {
+      "name": "Win版百度云下载",
+      "url": "https://pan.baidu.com/s/1dIO3ZS"
+    },
+    {
+      "name": "Mac版插件下载",
+      "url": "https://lookae.ctfile.com/fs/xYI179365442"
+    },
+    {
+      "name": "Mac版百度云下载",
+      "url": "https://pan.baidu.com/s/1cgpQ82"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      "https://www.lookae.com/stardust-track/",
+      "https://www.lookae.com/stardust-vortex/",
+      "https://www.lookae.com/stardustt/"
+    ],
+    "official_website": "http://aescripts.com/stardust/",
+    "update_notes": [
+      "修复预览窗口无法正常打开的问题。",
+      "新增变形节点 – 3D模型变形（支持分形噪波、弯曲、扭曲、拉伸、位移贴图）。",
+      "新增组织节点 – 收集节点的面板组。",
+      "新增智能Shy – 隐藏节点在控制窗口，选中时自动显示。",
+      "新增开关功能 – 快速访问 Shy、Solo、Locate、Helpers 等。",
+      "新增预设搜索功能 – 可通过关键词快速查找预设。",
+      "文字和MASK拉伸优化 – 更快更好的挤压效果。",
+      "新增 Stardust Studio Cam – 特殊相机用于检查3D模型并进行变形。",
+      "增加新预设 – 包括烟花、挤压文字标题等。",
+      "新增功能：Bevel（更快更好的3D文本和Mask拉伸）、锁/解锁面板、随机纹理应用于3D粒子、球体UV纹理映射、OBJ发射器增强选项（循环、延迟、翻转）、地图偏移选项、以及多项错误修复。"
+    ]
+  }
+}

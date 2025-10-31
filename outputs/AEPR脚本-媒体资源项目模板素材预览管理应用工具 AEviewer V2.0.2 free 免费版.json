@@ -1,0 +1,77 @@
+{
+  "title": "AE/PR脚本-媒体资源项目模板素材预览管理应用工具 AEviewer V2.0.2 free 免费版",
+  "slug": "ae-prjiao-ben-mei-ti-zi-yuan-xiang-mu-mo-ban-su-cai-yu-lan-guan-li-ying-yong-gong-ju-aeviewer-v2-0-2-free-mian-fei-ban",
+  "author": "大众脸",
+  "post_date": "2021/09/17 14:36",
+  "source_url": "https://www.lookae.com/aeviewer-202/",
+  "category": "aescripts",
+  "tags": [
+    "AEViewer",
+    "AE脚本",
+    "PR脚本"
+  ],
+  "content": "AEviewer脚本更新到V2版，且提供免费版（仅支持部分文件格式）。该脚本可一键预览、应用和导入项目和媒体文件。v2.0.2更新内容包括支持Premiere Pro软件、MOGRT文件有视频预览、提高媒体预览加载速度，还修复了Premiere Pro中导入文件等多项问题。支持Win/Mac系统，适用于After Effects 2021, 2020, CC 2019等版本以及Premiere 2021, 2020等版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/AEVIEWER-2.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01UPlqiy1vSMolccHBC_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/319621452116.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015.3"
+    ],
+    "Premiere": [
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015.3"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-513942710-a6dbf9"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1umAhEIPu_yXgbkzqIyG3-Q"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/vR3mb5Vy7W8"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "免费版说明": "仅支持一部分文件格式，详情见原文图片",
+    "v2.0.2更新内容": {
+      "新功能": [
+        "支持 Premiere Pro 软件",
+        "MOGRT 文件现在有视频预览",
+        "提高媒体预览的加载速度"
+      ],
+      "修复": [
+        "在 Premiere Pro 中导入文件",
+        "在 Premiere Pro 中导入项目的根文件夹",
+        "应用预设时设置活动补偿",
+        "与其他脚本的兼容性",
+        "现在可以显示“Adobe After Effects Auto-Save”文件夹"
+      ]
+    }
+  }
+}

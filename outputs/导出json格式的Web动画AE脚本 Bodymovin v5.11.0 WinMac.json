@@ -1,0 +1,55 @@
+{
+  "title": "导出json格式的Web动画AE脚本 Bodymovin v5.11.0 Win/Mac",
+  "slug": "dao-chu-jsonge-shi-de-webdong-hua-aejiao-ben-bodymovin-v5-11-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/04/28 22:05",
+  "source_url": "https://www.lookae.com/bodymovin-510/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "用于导出Web动画的After Effects扩展。动画导出为.json文件，使用随插件附带的bodymovin.js播放器。您可以在svg，canvas和html上在浏览器中渲染动画。它支持After Effects功能的子集。动画也可以通过Lottie在iOS和Android上本地播放。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Bodymovin.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017,CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-846153081-dcf6fd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Cbd75xBb-JMN221m6yLJ_g?pwd=ljvj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/kch3dvMLdwB"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "城通网盘教程",
+        "url": "https://lookae.ctfile.com/fs/680462-382843706"
+      },
+      {
+        "name": "百度网盘教程",
+        "url": "https://pan.baidu.com/s/1qGkQJb27DRqeeOMZ-73uKg"
+      }
+    ],
+    "update_info": {
+      "version": "v5.11.0",
+      "changes": [
+        "特点：基本图形支持",
+        "特点：插槽支持",
+        "修复：调用 updateDocumentData 时更新数据",
+        "修复：使用未注册的渲染器或缺少路径",
+        "修复：添加销毁空检查",
+        "特性：在 Web Worker 中实现 setLoop"
+      ]
+    }
+  }
+}

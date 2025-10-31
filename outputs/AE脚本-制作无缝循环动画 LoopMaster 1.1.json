@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-制作无缝循环动画 LoopMaster 1.1",
+  "slug": "aejiao-ben-zhi-zuo-wu-feng-xun-huan-dong-hua-loopmaster-1-1",
+  "author": "大众脸",
+  "post_date": "2022/08/12 09:21",
+  "source_url": "https://www.lookae.com/loopmaster-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "LoopMaster"
+  ],
+  "content": "LoopMaster是一款After Effects脚本，专门用于制作无缝循环动画。它能够循环关键帧、项目、摆动、旋转和轨道，非常适合制作GIF、NFT、Lottie动画和社交媒体帖子。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/LoopMaster.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/363943214175.mp4"
+  ],
+  "supported_versions": "After Effects 2021，2022",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-647665235-8d3b7b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1aZK7jMM3T0al_LLij-HSRg?pwd=b9kd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Y5JjQ26ZoPh"
+    }
+  ],
+  "other": {
+    "update_info": {
+      "version": "1.1",
+      "changes": [
+        "您现在可以选择循环的时间参考：合成、图层或标记",
+        "添加了一个按钮以添加与 LoopMaster 一起使用的时间参考标记",
+        "2D 旋转更新：现在当前图层在应用时保持在其原始位置"
+      ]
+    },
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "b9kd"
+    }
+  }
+}

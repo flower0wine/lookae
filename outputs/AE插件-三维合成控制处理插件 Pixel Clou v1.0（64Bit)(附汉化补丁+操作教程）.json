@@ -1,0 +1,53 @@
+{
+  "title": "AE插件-三维合成控制处理插件 Pixel Clou v1.0（64Bit)(附汉化补丁+操作教程)",
+  "slug": "aecha-jian-san-wei-he-cheng-kong-zhi-chu-li-cha-jian-pixel-clou-v1-0-64bit-fu-yi-hua-bu-ding-cao-zuo-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2012-08-28T16:55:00Z",
+  "source_url": "https://www.lookae.com/pixelcloud/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "国外教程",
+    "插件"
+  ],
+  "content": "Pixel Cloud 是一款专为 After Effects 设计的 3D 合成控制插件，支持 64 位版本（AE CS5-CS6）。该插件可用于对三维软件生成的图像进行重新照明、3D 空间像素位移以及基于深度和法线通道的智能选择。通过结合位置通道（Position Pass）与法线通道（Normal Pass），可利用 AE 内建的 3D 灯光与摄像机系统，实现对 3D 图形的动态光照调整。插件支持在导入的 3D 渲染图像基础上进行非破坏性后期处理，提升合成灵活性。官方提供多段教学视频，涵盖从 Cinema 4D 工作流到灯光动画、深度图应用及重照明等进阶技巧。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/08/PixelCloud.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/377202383625.mp4",
+    "http://v.youku.com/v_show/id_XNDQ0MjA2NTAw.html"
+  ],
+  "supported_versions": "AE CS5 - CS6 (64Bit)",
+  "supported_os": "Windows & macOS (64位)",
+  "download_links": [
+    {
+      "name": "插件：Pixel Cloud_v1.0（64Bit)(附汉化）",
+      "url": "http://www.ctdisk.com/file/9053483"
+    },
+    {
+      "name": "插件操作教程下载（附工程和脚本）",
+      "url": "http://www.ctdisk.com/file/9054367"
+    }
+  ],
+  "other": {
+    "tutorial_list": [
+      "Cinema 4D to Pixel Cloud Workflow Tutorial – C4D和插件的结合",
+      "Demo Alpha Lights in Pixel Cloud – 灯光操作",
+      "Pixel Cloud Demo Animating a Photo – 动画演示",
+      "Pixel Cloud Depth Map Tutorial – 进阶教程",
+      "Pixel Cloud Relight Tutorial – 重新点燃教程"
+    ],
+    "translation_note": "插件汉化来自梦游街 caorun.net，感谢曹润老师。",
+    "related_categories": [
+      "AE插件",
+      "AE教程",
+      "After Effects"
+    ],
+    "related_tags": [
+      "After Effects",
+      "国外教程",
+      "插件"
+    ]
+  }
+}

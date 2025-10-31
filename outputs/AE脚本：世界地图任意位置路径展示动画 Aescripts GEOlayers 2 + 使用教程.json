@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：世界地图任意位置路径展示动画 Aescripts GEOlayers 2 + 使用教程",
+  "slug": "aejiao-ben-shi-jie-di-tu-ren-yi-wei-zhi-lu-jing-zhan-shi-dong-hua-aescripts-geolayers-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-12-07T10:33:00Z",
+  "source_url": "https://www.lookae.com/geolayers2/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "Aescripts GEOlayers 2 是一款用于 After Effects 的脚本，可快速连接全球任意位置（如国家、街道、建筑等）的地图数据。支持高清卫星地图，并提供飞入飞出动画效果，适用于地图定位与路径展示。内置14种地图样式，全部免费使用，且自动标注数据来源。用户可自定义地图服务器配置。结合 Trapcode Mir 插件，可实现基于真实地理数据的三维地形模拟。支持在 AE CC 至 CC2017 版本中运行。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/GEOlayers-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC – CC2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：世界地图任意位置路径展示动画 Aescripts GEOlayers 2 + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/OKc162908492"
+    }
+  ],
+  "other": {
+    "script_description_en": "It connects After Effects to imagery tile servers for up-to-date maps. It also provides direct access to all kinds of geospatial features of the world. Like this you can easily draw buildings to After Effects shape layers, highlight certain country borders, streets, lakes, rivers, places, label regions, animate routes, extrude buildings… whatever you’ll need.",
+    "official_website": "http://aescripts.com/geolayers/",
+    "installation_instructions": "安装包内附详细安装说明",
+    "additional_features": [
+      "支持14种默认地图样式",
+      "支持自定义地图服务器配置",
+      "可与Trapcode Mir插件配合使用，创建3D地形"
+    ]
+  }
+}

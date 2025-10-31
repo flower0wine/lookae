@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-二维卡通人物角色动作MG动画绑定控制 Joysticks’n Sliders v1.7.4",
+  "slug": "aejiao-ben-er-wei-qia-tong-ren-wu-jiao-se-dong-zuo-mgdong-hua-bang-ding-kong-zhi-joysticksn-sliders-v1-7-4",
+  "author": "大众脸",
+  "post_date": "2021/10/19 13:47",
+  "source_url": "https://www.lookae.com/joysticks-174/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "AEscripts Joystick‘n Sliders 脚本是一个基于After Effects软件pose-based的绑定系统，可很方便地控制二维卡通人物面部或身体动画。只需设置上下左右中这5个位置的关键帧，在图层上即可即时创建动画。用户只需在开始和结束位置设置关键帧，即可生成过渡动画，并可通过滑块精确控制动画的任意中间状态。该脚本适用于卡通角色制作、MG动画以及其他需要高效角色绑定与动画控制的场景。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2h6NFkFXXXXcMXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2v.NWkFXXXXXLXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2k3XikFXXXXbYXpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2KpNJkFXXXXbTXXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/34897947.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/1JRLetYDHZs"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1UZ686jrXvqVFumAOTkQ_xg"
+    },
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518154962-df54b0"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-304630671"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1II7S1v4_VA-Pq5u_r5ko6g"
+    }
+  ],
+  "other": {
+    "update_notes": "更新内容 1.7.4 :\n- 更新的 MacOS 10.15 Catalina 许可框架\n- 错误检查顶点数不一致的形状的装配\n- 更新的许可框架",
+    "baidu_netdisk_password": "wctk"
+  }
+}

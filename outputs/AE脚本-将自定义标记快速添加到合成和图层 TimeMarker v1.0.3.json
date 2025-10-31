@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-将自定义标记快速添加到合成和图层 TimeMarker v1.0.3",
+  "slug": "aejiao-ben-jiang-zi-ding-yi-biao-ji-kuai-su-tian-jia-dao-he-cheng-he-tu-ceng-timemarker-v1-0-3",
+  "author": "大众脸",
+  "post_date": "2020/11/20 21:31",
+  "source_url": "https://www.lookae.com/timemarker/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本TimeMarker通过帮助您将自定义标记快速添加到After Effects中的合成和图层来节省时间。时间戳功能可帮助您沿时间轴测量时间（毫米，秒，帧）。调整颜色，添加注释，设置持续时间，并保护一系列关键帧不被拉伸。A smarter way to add custom markers to comps and layers in After Effects. Adjust the color, add a comment, set a duration, and protect a range of keyframes from being time-stretched.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/TimeMarker.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-471993362"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1wBtWbF04TTUQiElFZrwEhA",
+      "extra": "提取码：pdj3"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

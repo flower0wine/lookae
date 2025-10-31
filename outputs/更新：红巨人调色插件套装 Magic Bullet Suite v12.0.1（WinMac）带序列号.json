@@ -1,0 +1,70 @@
+{
+  "title": "更新：红巨人调色插件套装 Magic Bullet Suite v12.0.1（Win/Mac）带序列号",
+  "slug": "geng-xin-hong-ju-ren-diao-se-cha-jian-tao-zhuang-magic-bullet-suite-v12-0-1-win-mac-dai-xu-lie-hao",
+  "author": "大众脸",
+  "post_date": "2015/02/28 19:05",
+  "source_url": "https://www.lookae.com/mb1201/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "VEGAS插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant 红巨人调色插件套装 Magic Bullet Suite v12.0.1 更新，不仅加入了新插件，还大幅更新了已有插件，添加了许多新功能和工具。该套装包含多款专业调色与图像处理插件，适用于影视后期制作，支持多种主流剪辑与合成软件，帮助用户快速实现电影级视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/02/MBS12.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Looks_Hero_Stu_ALT_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Colorista-Hero_STU_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/MB-Film-Hero_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Mojo-Hero_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Cosmo-Hero-Master_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/DenoiserII-Hero_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/LUT-Hero_540.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro C6 – CC 2014, Adobe Photoshop C5 – CC 2014, Adobe After Effects C6 – CC 2014, Avid Media Composer, Vegas Pro, Motion 4/5, Final Cut Pro X/7",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/magicbullet/MBSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/magicbullet/MBSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Windows 一键安装自动版本下载（所有插件均注册）",
+      "url": "https://www.400gb.com/file/84458778"
+    }
+  ],
+  "other": {
+    "serial_keys": {
+      "Magic Bullet Colorista III": "CL3K1245864582715611",
+      "Magic Bullet Cosmo 2.0": "MBOK1245884249899024",
+      "Magic Bullet Film 1.0": "FILK1245884461501298",
+      "Magic Bullet Looks 3.0": "MBLK1245875960562349",
+      "Magic Bullet Mojo 2.0": "MBMK1245868236810616",
+      "Red Giant Denoiser II": "MBNK1245865095746168",
+      "Red Giant LUT Buddy": "免费"
+    },
+    "plugin_list": [
+      "Magic Bullet Colorista III（调色师3，更新）",
+      "Magic Bullet Cosmo 2.0（润肤磨皮插件，更新）",
+      "Magic Bullet Film 1.0（电影质感调色，新加入）",
+      "Magic Bullet Looks 3.0（调色插件，多预设，更新）",
+      "Magic Bullet Mojo 2.0（快速调色，更新）",
+      "Red Giant Denoiser II（降噪插件）",
+      "Red Giant LUT Buddy（色彩共享系统）"
+    ],
+    "v12_0_0_update_highlights": {
+      "Looks_3.0": "UI优化，约200个新预设，新增9大调色工具",
+      "Colorista_III": "简化UI，支持OpenGL GPU加速，新增高光/阴影、暗角等功能",
+      "Film_1.0": "全新插件，提供多种电影摄像机效果预设"
+    },
+    "v12_0_1_update_highlights": "修正一些BUG和已知错误"
+  }
+}

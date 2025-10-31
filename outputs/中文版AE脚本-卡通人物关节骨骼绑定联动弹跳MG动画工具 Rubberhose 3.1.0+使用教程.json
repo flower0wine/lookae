@@ -1,0 +1,57 @@
+{
+  "title": "中文版AE脚本-卡通人物关节骨骼绑定联动弹跳MG动画工具 Rubberhose 3.1.0+使用教程",
+  "slug": "zhong-wen-ban-aejiao-ben-qia-tong-ren-wu-guan-jie-gu-ge-bang-ding-lian-dong-dan-tiao-mgdong-hua-gong-ju-rubberhose-3-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/12/18 09:43",
+  "source_url": "https://www.lookae.com/rubberhose-3/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Rubberhose 3",
+    "绑定脚本"
+  ],
+  "content": "RubberHose 是目前在 After Effects 中制作 MG 人体绑定动画最高效、最便捷的脚本工具。它专为简化复杂动画流程而设计，采用开放系统架构，支持高度可调节的关节绑定与联动控制。仅需两个控制点即可完全掌控整个角色动画，实现自由变形、拉伸与联动效果。脚本能快速生成人体的手脚，并与身体完成绑定，大幅提升动画制作效率。其核心理念是保持灵活性与创作自由，避免因绑定结构调整而丢失关键帧，真正让动画过程变得轻松愉快。该脚本适用于 AE CC 2021 至 2024 及更高版本，支持 Windows 与 Mac 系统，官网提供中英文双语版本，根据 AE 语言自动切换。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Rubberhose-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442125620696.mp4"
+  ],
+  "supported_versions": "AE CC 2021 – 2024 及更高版本",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-992084474-b93549?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1OUepi0E8dpBzqvosRTBCMA?pwd=pu5s"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/qG2iyezgZNY"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-992084564-a9281b?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17t5llf_NnT8fs5JsJODNtw?pwd=5q09"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.alipan.com/s/8Ur6e1fQ2EY"
+    }
+  ],
+  "other": {
+    "language": "中文",
+    "script_type": "AE脚本",
+    "animation_style": "MG动画",
+    "feature": "卡通人物关节骨骼绑定、联动弹跳、快速生成手脚、自由变形/拉伸、多控制点管理",
+    "license": "免费下载，含使用教程",
+    "description": "灵感与现实之间最短的距离是一条弯曲的线。为角色制作动画可以解锁新的设计理念，而 Rubberhose 就是为了探索而设计的。一切都是可调节的，并且由于新的绑定理念，您永远不必丢弃关键帧。且保持灵活性。v3中引入了一组新概念，但与往常一样，它们建立在简单性的基础上。动画是一项辛苦的工作，所以享受这个过程。"
+  }
+}

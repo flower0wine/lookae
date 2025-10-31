@@ -1,0 +1,54 @@
+{
+  "title": "图层拼合分组快速预览AE脚本 Flatten Layers v2.2 + 使用教程",
+  "slug": "tu-ceng-pin-he-fen-zu-kuai-su-yu-lan-aejiao-ben-flatten-layers-v2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-01-11T14:05:00Z",
+  "source_url": "https://www.lookae.com/flattenlayers-22/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Flatten Layers v2.2 是一款无需预渲染即可对图层进行分组和拼合的 After Effects 脚本。它能将所选图层在背景中展平为单个无损 PNG 序列图层，支持在原始图层与展平图层之间快速切换，提升时间线性能并避免质量损失。适用于 AE CC 2015 及以上版本，支持 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Flatten-Layers.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337249079041.mp4"
+  ],
+  "supported_versions": "AE CC 2015 及更高版本",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-762240526-cc36af?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qMF4aRUeT5ohj-eHaUYFhg?pwd=65fd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ndBe9PruaFu"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "update_notes": [
+      "自定义选择临时文件夹的能力。",
+      "在资源管理器中显示创建的 PNG 序列文件夹的能力。",
+      "能够更改创建的 PNG 序列文件夹的路径。",
+      "将类似的随机颜色应用于扁平层。",
+      "修复 Ctrl+Z 功能问题。",
+      "修复了其他一些错误。"
+    ],
+    "description": "无需预渲染即可对图层进行分组和拼合！所选图层将在背景中展平为单个图层，而不会造成任何质量损失或渲染。在展平层和未展平层之间轻松切换。",
+    "usage_steps": [
+      "选择需要处理的图层",
+      "设置帧率和质量参数",
+      "点击创建按钮"
+    ]
+  }
+}

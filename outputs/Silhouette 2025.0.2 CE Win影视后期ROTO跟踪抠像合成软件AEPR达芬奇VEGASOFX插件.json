@@ -1,0 +1,62 @@
+{
+  "title": "Silhouette 2025.0.2 CE Win影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/VEGAS/OFX插件",
+  "slug": "silhouette-2025-0-2-ce-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-vegas-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2025-07-28T10:41:00Z",
+  "source_url": "https://www.lookae.com/silhouette-202502/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ROTO跟踪",
+    "Silhouette",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 2025.0.2 CE 是一款业界领先的动态描画与合成功能软件，专为影视后期制作中的 ROTO 跟踪、抠像与合成设计。该版本支持多平台集成，包括 After Effects、Premiere Pro、DaVinci Resolve、Vegas、Nuke 等主流视频编辑和视觉特效软件，并兼容 OFX 插件标准。其核心功能涵盖 3D 场景建模、机器学习驱动的深度图生成、Matte Refine ML、PowerMesh 变形、车架固定器 ML 等先进工具，适用于高精度视觉特效创作。软件由视觉特效艺术家开发，曾用于《死侍与金刚狼》《叛逆之月》《芭比娃娃》《沙丘》《三体问题》等大片制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Silhouette-2025.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/521612748646.mp4"
+  ],
+  "supported_versions": "Silhouette 2025.0.2 CE",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1546087876-3982c9?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Vl-dX_SnZJh_hA0KNadBnA?pwd=jxbq"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/dVT9xmmDoaX"
+    }
+  ],
+  "other": {
+    "supporting_software": [
+      "After Effects CC 2019, 2020, 2021, 2022, 2023, 2024, 2025 及更高版本",
+      "Premiere 2020, 2021, 2022, 2023, 2024, 2025 及更高版本",
+      "OFX 支持：Vegas、DaVinci Resolve、Nuke、Fusion 等"
+    ],
+    "additional_resources": [
+      "中文汉化版下载链接：https://www.lookae.com/silhouette-ch/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_pan": "jxbq"
+    },
+    "update_notes": [
+      "3D场景：支持 Alembic/FBX 导入、3D 跟踪、3D 环境下稳定/绘制/合成",
+      "Matte Refine ML：自动平滑硬边遮罩，保留毛发、纹理细节",
+      "深度图机器学习：基于 AI 实时生成深度图，用于模糊控制与分层遮罩",
+      "PowerMesh 变形：利用 Mocha 亚平面网格实现关键帧间真实变形",
+      "取消投影/重新投影：在锁定 3D 序列上操作后恢复原始运动",
+      "复合节点：可将多个节点合并为一个可共享的模块",
+      "车架固定器 ML：AI 修复损坏帧，生成干净替代画面",
+      "更新了 Sapphire、Mocha Pro、Particle Illusion 节点至 2025 版本，含新效果与预设"
+    ]
+  }
+}

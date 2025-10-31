@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-音乐鼓点自动节拍打点标记动画 BeatEdit v2.2.001+使用教程",
+  "slug": "aejiao-ben-yin-le-gu-dian-zi-dong-jie-pai-da-dian-biao-ji-dong-hua-beatedit-v2-2-001-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/06/01 21:19",
+  "source_url": "https://www.lookae.com/beatedit-22001/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "BeatEdit",
+    "自动标记"
+  ],
+  "content": "BeatEdit将更改After Effects中的音乐动画方式。它可以自动检测音乐曲目中的节拍，并允许您对它们进行任何操作：创建节拍标记，为滑块设置动画效果，为图层设置动画效果，重复关键帧等等。\n\n脚本特征包括高精度节拍检测（由波尔图大学和维多利亚大学联合开发）、节拍可视化标记、Beat Wiggle动画控制、关键帧重复与连续模式、交错层与关键帧同步、以及灵活的节拍选择机制（如每四拍触发、随机节拍、节拍细分等），可实现丰富的音乐驱动动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/AE-BeatEdit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1252869904-e3081a?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1mtrTNAE0BH9EaSZgqaANbQ?pwd=iae7"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/GyqoNSoW8Ju"
+    }
+  ],
+  "other": {
+    "updates": [
+      {
+        "version": "v2.2.001",
+        "changes": [
+          "修复了复制/粘贴标记注释或名称中含有非拉丁符号的标记时出现的问题"
+        ]
+      },
+      {
+        "version": "v2.2.000",
+        "changes": [
+          "增加了对彩色标记的支持",
+          "原生支持 Apple Silicon 处理器",
+          "修复了安装问题"
+        ]
+      }
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "iae7"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本：1000种文字动画预设 Text Library V2 + 中文使用教程 Win/Mac",
+  "slug": "aejiao-ben-1000chong-wen-zi-dong-hua-yu-she-text-library-v2-zhong-wen-shi-yong-jiao-cheng-win-mac",
+  "author": "大众脸",
+  "post_date": "2018-08-05T19:51:00Z",
+  "source_url": "https://www.lookae.com/text-library-2/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "Text Library V2 是一款包含约1000种文字动画预设的 After Effects 脚本，分为9大类，支持多种动画效果的快速应用。用户可直接拖动素材标记点控制动画出入长度，支持位置、角度、速率等参数调整。适用于中文和英文版 AE CC 2014.2 至 CC 2018，不支持 AE CC 2014（仅支持版本 13.2）。文件解压后大小为756M，原压缩包为384M，支持1080P、4K、9:16、1:1分辨率。无需外置插件，提供配套中文安装与使用视频教程。建议具备一定AE基础的用户使用，不提供修改服务。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/08/Text-Library-V2.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2IDSRb6fguuRjSszcXXbb7FXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2RdssIVGWBuNjy0FbXXb4sXXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2tUf7ALiSBuNjy0FbXXbDcpXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2zZ0cmRsmBKNjSZFsXXaXSVXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB23EoFmyMnBKNjSZFoXXbOSFXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2..O.Jf1TBuNjy0FjXXajyXXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2zF01msIrBKNjSZK9XXagoVXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2GKdAJbuWBuNjSszgXXb8jVXa_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50223628182.mp4?_=1",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50223540889.mp4?_=1"
+  ],
+  "supported_versions": "AE CC 2014.2 – CC 2018",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?id=574730596240"
+    },
+    {
+      "name": "站内直接购买（支付¥20）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ftext-library-2%"
+    }
+  ],
+  "other": {
+    "preview_video": "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50223628182.mp4?_=1",
+    "tutorial_video": "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50223540889.mp4?_=1",
+    "related_resources": [
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "file_size_compressed": "384M",
+    "file_size_decompressed": "756M",
+    "resolution_support": [
+      "1080P",
+      "4K",
+      "9:16",
+      "1:1"
+    ],
+    "plugin_dependency": "无需外置第三方插件",
+    "installation_tutorial": "提供大众脸录制的中文安装+使用视频教程",
+    "usage_note": "脚本使用需要一定AE基础，新手请慎重选购，不提供任何修改服务",
+    "version_requirement": "不支持 AE CC 2014，仅支持版本 13.2（即 AE CC 2014.2）"
+  }
+}

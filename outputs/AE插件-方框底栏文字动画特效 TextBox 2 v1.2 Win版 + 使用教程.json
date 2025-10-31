@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-方框底栏文字动画特效 TextBox 2 v1.2 Win版 + 使用教程",
+  "slug": "aecha-jian-fang-kuang-di-lan-wen-zi-dong-hua-te-xiao-textbox-2-v1-2-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/11/13 16:16",
+  "source_url": "https://www.lookae.com/extbox-212/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "TextBox 是一款原生 AE 插件，可快速在文本后方创建尺寸完美、可自定义的形状底栏，无需繁琐设置、父级关联、遮罩或表达式。适用于制作 MG 动画中的文本切换过渡、字幕条和标题效果。插件支持多边形模式、自定义扩展（宽高及各边偏移）、边缘圆角、渐变填充（线性/径向）、边框虚线样式、运动模糊，并兼容 8/16/32bpc 模式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/TextBox2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-407457689"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Zbz3euRm9vCVf2qkW0arxg"
+    }
+  ],
+  "other": {
+    "related_downloads": [
+      {
+        "title": "AE插件-方框底栏文字动画特效 TextBox 2 v1.1.1 Mac 版",
+        "links": [
+          {
+            "name": "城通网盘下载",
+            "url": "https://lookae.ctfile.com/fs/680462-387128000"
+          },
+          {
+            "name": "百度网盘下载",
+            "url": "https://pan.baidu.com/s/1ugeNrFNLYem-er7S_bJCdA",
+            "password": "qumn"
+          }
+        ]
+      }
+    ],
+    "official_website": "https://aescripts.com/textbox/",
+    "update_notes": "更新倾斜并添加相对于倾斜的位置偏移"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "title": "AE/PR插件-将Blackmagic RAW格式视频素材直接导入编辑BRAW Studio v2.7.8 Win",
+  "slug": "ae-prcha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-zhi-jie-dao-ru-bian-ji-braw-studio-v2-7-8-win",
+  "author": "大众脸",
+  "post_date": "2022/09/30 12:42",
+  "source_url": "https://www.lookae.com/braw278/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BRAW Studio",
+    "PR插件",
+    "RAW插件"
+  ],
+  "content": "BRAW Studio v2.7.8 是一款专为 After Effects、Premiere Pro 和 Media Encoder 打造的插件，支持原生导入 Blackmagic RAW（.braw）格式视频素材。用户可直接在软件中使用该格式，并进行参数设置。该版本新增对 Adobe CC 2023（v23）的支持，包括 Audition 2023，同时修复了 Premiere Pro 面板中‘全选’功能导致合并剪辑未被正确选中的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Premiere Pro 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Media Encoder 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Audition 2023 (v23)",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-685131139-e06d19?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1uy5zKICCZiVOpDxVGlwwVw?pwd=v49a"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/muEtaRYphtE"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg?pwd=n67x"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "支持 After Effects、Premiere Pro、Media Encoder 和 Audition 2023/v23",
+      "修复了 PrPro 面板中‘在项目中/在序列中全选’按钮导致合并剪辑未被选中的问题"
+    ],
+    "system_requirements": {
+      "os": "Windows",
+      "software": [
+        "After Effects 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+        "Premiere Pro 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+        "Media Encoder 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+        "Audition 2023 (v23)"
+      ]
+    },
+    "related_tags": [
+      "AE插件",
+      "BRAW Studio",
+      "PR插件",
+      "RAW插件"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

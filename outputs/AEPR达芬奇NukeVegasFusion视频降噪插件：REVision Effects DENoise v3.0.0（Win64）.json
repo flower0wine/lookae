@@ -1,0 +1,32 @@
+{
+  "title": "AE/PR/达芬奇/Nuke/Vegas/Fusion视频降噪插件：REVision Effects DENoise v3.0.0（Win64）",
+  "slug": "ae-pr-da-fen-qi-nuke-vegas-fusionshi-pin-jiang-zao-cha-jian-revision-effects-denoise-v3-0-0-win64",
+  "author": "大众脸",
+  "post_date": "2015/01/22 23:59",
+  "source_url": "https://www.lookae.com/denoise3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Resolve",
+    "达芬奇插件"
+  ],
+  "content": "REVision公司出品的一款降噪插件，能够移除画面的噪点和多余的颗粒。更多官方介绍可访问http://www.revisionfx.com/products/denoise/overview/。DE-Noise v3.0.0版本添加GPU加速和两个新的降噪模式，降噪处理速度提高4-5倍。RE:Vision Effects作为知名效果插件行业领导者及奥斯卡获奖软件制造商，宣布推出适用于After Effects、Premiere Pro、Final Cut Pro、Motion、Vegas Pro、Nuke、Scratch、Fusion、HitFilm、DaVinci Resolve和Natron的DE:Noise™版本3。该插件可处理帧间的各种缺陷，从细微传感器噪声到斑点（如胶片上的灰尘）。它结合运动估计技术与特征敏感、边缘保留的空间滤波方法，减少多种问题的视觉影响，例如：低光拍摄常见的噪点视频、过多的胶片颗粒、受光线追踪采样伪影影响的CG渲染、胶片扫描/传输和打印过程中捕获的指纹和灰尘、雪花、dropout、闪光帧及其他缺陷。DE:Noise v3引入了新的降噪滤波器，极大改善了因压缩、渲染和噪点相机捕获伪影而严重损坏的对象边缘和特征的镜头效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/02/DENoise.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5及以上(含CC2014)、Adobe Premiere Pro CS5及以上(含CC2014); OFX平台: Vegas Pro11及以上(仅64位)、Resolve v11及以上、Nuke5.1v2及以上(仅64位)、Fusion5.2及以上(仅64位)、Assimilate Scratch v5.1及以上; 还支持Final Cut Pro、Motion、HitFilm、Natron等",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "Adobe平台插件下载",
+      "url": "https://www.400gb.com/file/83309824"
+    },
+    {
+      "name": "OFX（OpenFX）平台插件下载",
+      "url": "https://www.400gb.com/file/83309665"
+    }
+  ],
+  "other": {}
+}

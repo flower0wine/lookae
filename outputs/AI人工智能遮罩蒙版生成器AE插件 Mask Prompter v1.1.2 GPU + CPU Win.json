@@ -1,0 +1,39 @@
+{
+  "title": "AI人工智能遮罩蒙版生成器AE插件 Mask Prompter v1.1.2 GPU + CPU Win",
+  "slug": "airen-gong-zhi-neng-zhe-zhao-meng-ban-sheng-cheng-qi-aecha-jian-mask-prompter-v1-1-2-gpu-cpu-win",
+  "author": "大众脸",
+  "post_date": "2023/08/02 09:46",
+  "source_url": "https://www.lookae.com/mask-prompter/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AI人工智能"
+  ],
+  "content": "基于AI的插件，可轻松高效地生成遮罩蒙版。Mask Prompter 是创建蒙版的新方法。只需使用点和框来检测和生成镜头中对象的蒙版。工作流程非常简单。在对象上/周围指定点和矩形。Mask Prompter 将根据您的提示创建一个蒙版。这允许进行细粒度的选择、细化和轻松跟踪。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Mask-Prompter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/411928442711.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2023、2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-905167296-ae2ec6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1LwBbioCnVDXn_W6SBKCBoA?pwd=6ot9"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/SqoKEWRHX4v"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "6ot9"
+  }
+}

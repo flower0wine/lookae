@@ -1,0 +1,43 @@
+{
+  "title": "1000组 LUTs 专业电影调色预设 – 多软件支持 Lookae – YIQIAN LUTs (2015)",
+  "slug": "1000zu-luts-zhuan-ye-dian-ying-diao-se-yu-she-duo-ruan-jian-zhi-chi-lookae-yiqian-luts-2015",
+  "author": "大众脸",
+  "post_date": "2015-07-12",
+  "source_url": "https://www.lookae.com/1000lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "调色预设"
+  ],
+  "content": "1000组专业电影级LUT调色预设，可快速赋予画面胶片质感与统一色彩风格，兼容主流后期流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/1000LUTS.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 及以上 / CC 2014 及以上",
+  "supported_os": "Mac / Win",
+  "download_links": [
+    {
+      "name": "百度网盘",
+      "url": "https://www.400gb.com/file/105680822"
+    }
+  ],
+  "other": {
+    "usage_tips": {
+      "Premiere Pro CC": "视频特效 → Lumetri",
+      "Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "DaVinci Resolve": "直接使用或导入"
+    },
+    "related_tools": [
+      "Magic Bullet LUT Buddy",
+      "FCPX LUT 实用颜色工具"
+    ],
+    "more_lut_url": "https://www.lookae.com/tag/lut/"
+  }
+}

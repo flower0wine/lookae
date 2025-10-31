@@ -1,0 +1,69 @@
+{
+  "title": "AE脚本-平面图片投射三维空间摄像机视差动画 Projection 3D V5.0.0+使用教程",
+  "slug": "aejiao-ben-ping-mian-tu-pian-tou-she-san-wei-kong-jian-she-xiang-ji-shi-chai-dong-hua-projection-3d-v5-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/06/17 09:03",
+  "source_url": "https://www.lookae.com/projection-3d-v5/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Projection 3D",
+    "视差动画"
+  ],
+  "content": "Projection 3D 是 After Effects 中用于相机投影映射和照片视差动画的高级工具。该脚本支持在三维空间中将平面图像投射到摄像机视角，实现逼真的视差效果。适用于创建虚拟场景、产品展示、动态背景等创意应用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Projection-3D-V5.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/523483079524.mp4"
+  ],
+  "supported_versions": "AE 2024, 2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1517769316-b8fa62?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Pk3toqNrbKHdpd8Cx6csMg?pwd=74qd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/TngHB5wTg2D"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "城通网盘",
+        "url": "https://url70.ctfile.com/f/2827370-1517769595-447a10?p=4431"
+      },
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1lI9TpAGa7kU6BrcW44VEGw?pwd=9asf"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https://www.alipan.com/s/fv3tucZLWv3"
+      }
+    ],
+    "new_features": [
+      "完全重新设计的用户界面",
+      "新工具 – ‘3D 对象转换器’",
+      "新工具 – ‘置换’",
+      "在 Blender 中一键实现逼真的水动画",
+      "投影场景库",
+      "对象编辑"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "Projection 3D",
+      "视差动画"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

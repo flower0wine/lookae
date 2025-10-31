@@ -1,0 +1,54 @@
+{
+  "title": "专业电影胶片LUT调色预设Koji Color: Film Color LUTs for Premiere, FCPX, After Effects and Resolve (Win/Mac)",
+  "slug": "zhuan-ye-dian-ying-xiao-pian-lutdiao-se-yu-she-koji-color-film-color-luts-for-premiere-fcpx-after-effects-and-resolve-win-mac",
+  "author": "大众脸",
+  "post_date": "2014/11/06 22:38",
+  "source_url": "https://www.lookae.com/kojicolorlut/",
+  "category": "aechajian",
+  "tags": [
+    "LUT",
+    "LUT预设",
+    "电影调色预设",
+    "调色预设",
+    "达芬奇预设"
+  ],
+  "content": "Koji Color 是一套高度精准的电影胶片色彩 LUT 预设，由电影行业资深人士开发。该套预设包含三大类别（Koji DSLR、Koji Log、Koji Studio），共计约 500 个 LUT，适用于多种主流摄影机和后期软件。Koji 基于开放标准（.cube 和 .3dl 格式），可直接在剪辑或调色软件中使用，无需额外转换。其色彩经过好莱坞各大胶片实验室严格校准，旨在保留已停产胶片的原始色彩特性，为数字影像赋予真实胶片质感。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Koji-Color.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere CC 2014, Adobe After Effects CS6/CC 2014, Adobe Photoshop CS6/CC 2014, Final Cut Pro X, DaVinci Resolve (Full & Lite), Avid MC 7, Motion 5 等",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/77780280"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1eQBxyBC"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.kojicolor.com/",
+    "lut_categories": {
+      "Koji DSLR": "适用于 Canon DSLR、Blackmagic（视频模式）、Panasonic GH2/GH3/GH4、Sony FS700（Rec.709）等相机的直出素材",
+      "Koji Log": "适用于 REDlogFilm、Arri Log C、BMDFilm、Canon C-Log、Cineon、Sony SLog3 等 log 格式素材，同时包含 Koji DSLR",
+      "Koji Studio / Koji Studio 3dl": "提供完整色彩分离，输出 DCI-P3 色彩空间，面向专业调色师，同时包含 Koji DSLR 和 Koji Log"
+    },
+    "software_usage_guide": {
+      "Adobe Premiere Pro CC": "通过 Lumetri 面板应用",
+      "Adobe Photoshop CS6/CC": "图像 → 调整 → 颜色查找",
+      "Adobe After Effects CS6/CC": "效果 → 实用工具 → 应用颜色 LUT",
+      "Nuke": "使用 Vectorfield 节点",
+      "SCRATCH": "使用 Color Scraffolds",
+      "Final Cut Pro X": "需配合 LUT Utility 或专用颜色工具插件"
+    },
+    "related_tools": [
+      "Magic Bullet LUT Buddy（适用于大部分软件）",
+      "FCPX 软件 LUT 实用颜色工具（https://www.lookae.com/fcpx-lut/）"
+    ],
+    "color_team": "由曾为史蒂文·斯皮尔伯格和弗朗西斯·福特·科波拉担任调色师的 Dale Grahn 领衔开发，其团队参与过数百部主流电影的调色工作",
+    "workflow_advantage": "Koji 已内置必要的色彩空间与伽马转换，用户可直接在其熟悉的调色控件中进行创意调整，简化调色流程"
+  }
+}

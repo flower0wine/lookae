@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-523个HUD科技感赛博朋克霓虹发光UI元素图形动画",
+  "slug": "aejiao-ben-523ge-hudke-ji-gan-sai-bo-peng-ke-ni-hong-fa-guang-uiyuan-su-tu-xing-dong-hua",
+  "author": "大众脸",
+  "post_date": "2021/01/11 16:53",
+  "source_url": "https://www.lookae.com/cyberpunk-hud-elements/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Motion Factory",
+    "精品资源",
+    "赛博朋克"
+  ],
+  "content": "这套预设包提供了523个HUD科技感赛博朋克霓虹发光UI元素图形动画：三角形、圆形、相机界面、三维图形、错误警告提示、频谱、箭头、地图、线框、网格、线条、图标等。利用Motion Factory脚本扩展使用预设，可视化效果，直接拖拽即可使用预设，可随意修改大小，颜色，发光等属性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Cyberpunk-HUD-Elements-29060179.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01lgXIy91vSMm7sJXjo_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01k26RhI1vSMmCbuJjH_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01pUef2t1vSMm7sGrQL_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/294250848006.mp4"
+  ],
+  "supported_versions": "AE CC 2019, 2020或更高版本（支持中文和英文版AE软件）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?spm=a2126o.success.0.0.1edf4831wcT3Ci&id=636062005476"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fcyberpunk-hud-elements%2F"
+    }
+  ],
+  "other": {
+    "resolution": "不限制",
+    "plugins_required": "不需要外置第三方插件",
+    "extension_required": "Motion Factory v3.3.4 (已包含)",
+    "file_size": "1.6G",
+    "installation_method": "大脸整理的PDF中文图文安装方法（严格测试，保证可用）",
+    "tutorial": "英文视频教程",
+    "note": "脚本使用需要一定AE基础，新手请慎重选购，我们不提供任何修改服务"
+  }
+}

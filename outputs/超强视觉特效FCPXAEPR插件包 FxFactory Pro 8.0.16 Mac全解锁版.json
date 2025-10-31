@@ -1,0 +1,64 @@
+{
+  "title": "超强视觉特效FCPX/AE/PR插件包 FxFactory Pro 8.0.16 Mac全解锁版",
+  "slug": "chao-qiang-shi-jue-te-xiao-fcpx-ae-prcha-jian-bao-fxfactory-pro-8-0-16-macquan-jie-suo-ban",
+  "author": "大众脸",
+  "post_date": "2024-06-17T16:03:00Z",
+  "source_url": "https://www.lookae.com/fxfactory-8016/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX插件",
+    "FxFactory",
+    "PR插件",
+    "苹果芯片"
+  ],
+  "content": "FxFactory Pro 8.0.16 是专为 macOS 平台设计的视频编辑增强插件套件，支持 Final Cut Pro、After Effects、Premiere Pro 等主流视频制作软件。提供数百个视觉效果插件、音频插件及应用程序，涵盖片头、LOGO、炫光、粒子、调色、转场、字幕、抠像、风格化、数据统计等多种类型。所有插件均支持 OpenCL 与 Metal GPU 加速，具备万种预设，可显著提升视频创作效率。安装后可通过教程实现自动注册激活。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/FxFactory-8.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/384363802933.mp4"
+  ],
+  "supported_versions": "FxFactory 8.0.16 (7877)",
+  "supported_os": "macOS 12.6 – 14.x（不支持 Windows）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1272842128-155309?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/13Jj30zKDg8QTqbImyJMHXQ?pwd=x5ki"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/CWdSHq9FBbC"
+    }
+  ],
+  "other": {
+    "compatible_apps": [
+      "Final Cut Pro 10.6+",
+      "Motion 5.6+",
+      "Adobe Premiere Pro 2021–2024+",
+      "Adobe After Effects 2021–2024+",
+      "Adobe Audition CC 2018+",
+      "Logic Pro v10.3+",
+      "GarageBand v10.1+",
+      "DaVinci Resolve 12+"
+    ],
+    "note": "音频插件仅兼容部分音频处理软件（如 Audition、Logic Pro、GarageBand、DaVinci Resolve）",
+    "activation_method": "在线下载后可自动注册激活，按教程安装即可",
+    "features": [
+      "支持 OpenCL 与 Metal GPU 加速",
+      "数百个插件，上万种预设",
+      "覆盖片头、粒子、调色、转场、字幕、特效、抠像、光效、文字、分屏、老电影等场景"
+    ],
+    "chip_support": [
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "Intel 芯片"
+    ]
+  }
+}

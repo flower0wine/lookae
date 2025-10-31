@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本：高科技电流电路板线路动画 Aescripts circuitFX 1.3",
+  "slug": "aejiao-ben-gao-ke-ji-dian-liu-dian-lu-ban-xian-lu-dong-hua-aescripts-circuitfx-1-3",
+  "author": "大众脸",
+  "post_date": "2017/05/02 22:59",
+  "source_url": "https://www.lookae.com/circuitfx13/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "circuitFX 是 AE 软件中一款高科技电流电路板线路动画脚本，能够随机生成各种电路图，脚本还可以创建CUP，电阻，电流器，芯片等，可以将这些部件放在同一个电路图层中或者单个图层中。控制操作简单直接，适用于制作HUD高科技背景动画等其他科技动画。circuitFX is a tool for After Effects designed to create graphical circuit boards. The circuit pattern is generated randomly with every button press. Apart from the circuit lines and circles, circuitFX also creates, chips, resistors and capacitors. It has the ability to put all of the needed parts in a single shape layer or create separate shape layers for each part of the board. It ideal for technology or sci-fi related projects, animated backgrounds, HUDs etc.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/circuitFX-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：高科技电流电路板线路动画 Aescripts circuitFX 1.3",
+      "url": "https://lookae.ctfile.com/fs/680462-201581375"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "official_website": "http://aescripts.com/circuitfx/",
+    "update_info": {
+      "version": "1.3",
+      "new_features": [
+        "新的电路生成模式",
+        "为每个电路线设置最小和最大顶点数",
+        "在AE信息面板显示电路实时生成过程的详细信息"
+      ],
+      "fixes": [
+        "代码优化 – 整体更快的电路生成",
+        "圆角和修剪，现在正常工作"
+      ]
+    },
+    "related_links": [
+      {
+        "name": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

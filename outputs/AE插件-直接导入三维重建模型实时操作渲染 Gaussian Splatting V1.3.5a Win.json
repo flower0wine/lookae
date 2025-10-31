@@ -1,0 +1,55 @@
+{
+  "title": "AE插件-直接导入三维重建模型实时操作渲染 Gaussian Splatting V1.3.5a Win",
+  "slug": "aecha-jian-zhi-jie-dao-ru-san-wei-zhong-jian-mo-xing-shi-shi-cao-zuo-xuan-ran-gaussian-splatting-v1-3-5a-win",
+  "author": "大众脸",
+  "post_date": "2024-11-20T15:14:00Z",
+  "source_url": "https://www.lookae.com/gaussian-splatting-135/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "该插件支持在 Adobe After Effects 中通过 GPU 实时导入、操作和渲染三维重建模型（Gaussian Splatting）的 .ply 格式文件，适用于制作高质量 3D 动画。具备球形或盒形裁剪、多模型组合、动态着色与动画控制等功能，支持渲染深度通道，提升 3D 合成效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Gaussian-Splatting.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/459436708480.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1428224476-96cfff?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/18_L8Jsj1-phwPbrqbDeuRA?pwd=9uku"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/LDjSaVEP7qm"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.3.5a 更新内容：更新了许可框架",
+    "features": [
+      "导入 .ply 文件",
+      "球形或盒形裁剪",
+      "Y 平面裁剪",
+      "最多组合 5 个模型",
+      "球形/盒子形状着色",
+      "不透明度渐变显示",
+      "动画 Splat Scale（球形/盒子）",
+      "模型噪声失真效果",
+      "渲染深度通道",
+      "GPU 实时处理"
+    ],
+    "classification": [
+      "AE插件",
+      "After Effects"
+    ],
+    "view_count": null,
+    "comment_count": null
+  }
+}

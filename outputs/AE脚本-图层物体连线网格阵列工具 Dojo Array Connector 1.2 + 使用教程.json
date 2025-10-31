@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本-图层物体连线网格阵列工具 Dojo Array Connector 1.2 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-wu-ti-lian-xian-wang-ge-zhen-lie-gong-ju-dojo-array-connector-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/08/12 10:56",
+  "source_url": "https://www.lookae.com/dojo-array/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Dojo Array Connector 是一个用于将多个图层物体链接并连接成可视网格阵列的脚本，非常适合用于创建地图方向、数据可视化、信息图表等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Dojo-Array-Connector.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-392476313"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BRvq-pxr8if3xmrgIE4KZA"
+    }
+  ],
+  "other": {
+    "original_content_url": "https://creativedojo.net/store/dojo-array-connector-script/"
+  }
+}

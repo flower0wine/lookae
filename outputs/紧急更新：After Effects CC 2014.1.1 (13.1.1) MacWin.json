@@ -1,0 +1,51 @@
+{
+  "title": "紧急更新：After Effects CC 2014.1.1 (13.1.1) Mac/Win",
+  "slug": "jin-ji-geng-xin-after-effects-cc-2014-1-1-13-1-1-mac-win",
+  "author": "大众脸",
+  "post_date": "2014-10-16T10:05:00Z",
+  "source_url": "https://www.lookae.com/ae1311/",
+  "category": "aechajian",
+  "tags": [
+    "ADOBE 2014.1",
+    "AE 13.1.1",
+    "升级补丁"
+  ],
+  "content": "Adobe After Effects CC 2014.1.1 (13.1.1) 是针对此前版本中出现的多个问题发布的紧急更新补丁，旨在修复已知错误与BUG。此次更新优化了高分辨率DPI下的用户界面显示，引入全新UI设计，并增强对MAXON Cinema 4D精简版R16和Cineware 2.0的兼容性。同时改进了与Adobe Anywhere的视频协作功能、Media Encoder编码器监视窗口的文件夹管理，支持本地GOPRO CineForm编解码器，以及色彩管理动态链接。此外，还提升了锚点可见性、跟踪行为及整体用户体验，使运动图形与视觉特效制作更高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/10/AE1311.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014.1 (13.1)",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Windows 版本",
+      "url": "http://swupdl.adobe.com/updates/oobe/aam20/win/AdobeAfterEffects-13.0.0-Trial/13.1.1/setup.zip"
+    },
+    {
+      "name": "Mac 版本",
+      "url": "http://swupdl.adobe.com/updates/oobe/aam20/mac/AdobeAfterEffects-13.0.0-Trial/13.1.1/setup.dmg"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/cc2014/",
+      "https://www.lookae.com/maccc2014xf/",
+      "https://www.lookae.com/cc2014xf/"
+    ],
+    "original_post_date": "2014/10/16 10:05",
+    "categories": [
+      "AE插件",
+      "AE模板",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tags_in_post": [
+      "ADOBE 2014.1",
+      "AE 13.1.1",
+      "升级补丁"
+    ],
+    "original_title": "紧急更新：After Effects CC 2014.1.1 (13.1.1) Mac/Win",
+    "thumbnail_alt": "紧急更新：After Effects CC 2014.1.1 (13.1.1) Mac/Win-LookAE.com"
+  }
+}

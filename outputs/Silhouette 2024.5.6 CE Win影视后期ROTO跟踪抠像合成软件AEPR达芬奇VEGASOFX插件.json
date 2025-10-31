@@ -1,0 +1,61 @@
+{
+  "title": "Silhouette 2024.5.6 CE Win影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/VEGAS/OFX插件",
+  "slug": "silhouette-2024-5-6-ce-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-vegas-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2025-03-25T10:40:00",
+  "source_url": "https://www.lookae.com/silhouette-202456/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ROTO抠像",
+    "Silhouette",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 是业界领先的动态描边与绘画工具，集成了强大的合成功能。该软件提供超过400个VFX节点，涵盖颜色、合成、滤镜、光效、变形、时间、色调、变换、特殊效果等多个类别，并支持Boris FX Sapphire、Mocha Pro和Particle Illusion等第三方插件。十五年来，全球顶级视觉艺术家持续使用Silhouette制作好莱坞大片，其作品曾出现在《死侍与金刚狼》、《叛逆之月》、《芭比娃娃》、《沙丘》和《三体问题》等热门影片中。作为奥斯卡与艾美奖获奖工具，它专为视觉特效艺术家打造，具备卓越的稳定性与专业级功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/06/Silhouette-2024.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/465845497543.mp4"
+  ],
+  "supported_versions": "Silhouette 2024.5.6 CE",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1485829291-a08c0d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/19DCrPO03SjbWQeJatQEJjQ?pwd=sh4p"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://pan.baidu.com/s/19DCrPO03SjbWQeJatQEJjQ?pwd=sh4p"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "After Effects CC 2019, 2020, 2021, 2022, 2023, 2024, 2025+",
+      "Premiere 2020, 2021, 2022, 2023, 2024, 2025+",
+      "Vegas",
+      "DaVinci Resolve",
+      "Nuke",
+      "Fusion"
+    ],
+    "upgrade_notes": [
+      "遮罩辅助 ML：通过单一遮罩快速生成动画遮罩。",
+      "降噪器 ML：采用新2倍速度去噪模型，支持更多素材类型。",
+      "光流机器学习追踪器：可生成用于形状、物体或点追踪的光流数据。",
+      "增强功能：支持GPU节点加速处理，减少roto节点内存占用，优化缓存机制。",
+      "重新定时机器学习：支持原始时间扭曲及动画渐变效果。",
+      "兼容性扩展：支持Photoshop画笔、最新版Mocha、Sapphire和Particle Illusion。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/silhouette-ch/",
+      "https://www.lookae.com/silhouette-ch/"
+    ],
+    "additional_info": "提供中文汉化版本，适用于专业级ROTO工作流程，集成于AE/PR/VEGAS/达芬奇等主流后期软件。"
+  }
+}

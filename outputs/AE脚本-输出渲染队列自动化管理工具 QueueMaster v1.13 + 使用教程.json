@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-输出渲染队列自动化管理工具 QueueMaster v1.13 + 使用教程",
+  "slug": "aejiao-ben-shu-chu-xuan-ran-dui-lie-zi-dong-hua-guan-li-gong-ju-queuemaster-v1-13-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/12/26 22:31",
+  "source_url": "https://www.lookae.com/queuemaster-113/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "QueueMaster是一个渲染队列自动化脚本，旨在显著减少设置渲染所需的时间。它通过将标签颜色与您定义的任何渲染设置相关联来实现此目的。您可以定义模板，文件路径，版本控制等等！对于想要确保每个人都以相同方式制作渲染的After Effects用户团队来说，这特别方便。QueueMaster使用相对文件路径，这使您可以在项目之间移动，而无需每次渲染时都定义输出目录。QueueMaster查找After Effects项目的保存位置，并根据该位置创建所有输出目录。QueueMaster v1.13增加了对OS X Catalina许可的支持",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/QueueMast.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/292408884303.mp4"
+  ],
+  "supported_versions": "AE 2020 CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本城通网盘下载",
+      "url": "https://089u.com/file/680462-477393327"
+    },
+    {
+      "name": "脚本百度网盘下载",
+      "url": "https://pan.baidu.com/s/158eoppWbSyS_Vu1qnms0hQ",
+      "extra": "提取码：xkcg"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://089u.com/file/680462-477393403"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/18Za71zvWLwzE-fIgV_akeA",
+      "extra": "提取码：g4py"
+    }
+  ]
+}

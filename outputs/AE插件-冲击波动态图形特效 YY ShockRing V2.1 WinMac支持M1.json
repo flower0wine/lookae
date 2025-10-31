@@ -1,0 +1,52 @@
+{
+  "title": "AE插件-冲击波动态图形特效 YY ShockRing V2.1 Win/Mac支持M1",
+  "slug": "aecha-jian-chong-ji-bo-dong-tai-tu-xing-te-xiao-yy-shockring-v2-1-win-maczhi-chi-m1",
+  "author": "大众脸",
+  "post_date": "2022/05/25 10:35",
+  "source_url": "https://www.lookae.com/shockring/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "ShockRing",
+    "冲击波插件",
+    "苹果M1插件"
+  ],
+  "content": "YY_ShockRing 是一款功能完整的冲击波圆形动态图形特效插件，适用于 After Effects。它支持混合模式、厚度、羽化、不透明度等参数，可广泛用于冲击波效果、动态图形设计以及其他需要圆形元素的场景。插件支持 Windows 和 Mac 系统，兼容 CS5 至 CC 2022 版本，并在 V2.1 版本中新增对 M1 芯片的支持以及 MFR 多帧渲染功能，修复了减速错误问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/ShockRing.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/361548898263.mp4"
+  ],
+  "supported_versions": "CS5 – CC 2022",
+  "supported_os": "Win/Mac (支持M1芯片)",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-584131148-7ad73b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1YNKq97ITdXOV3rtWJH592w?pwd=3omu"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/GRTJ3vVBcJH"
+    }
+  ],
+  "other": {
+    "update_notes": "V2.1更新内容：支持 M1；支持MFR多帧渲染；修复减速错误",
+    "related_tags": [
+      "AE插件",
+      "ShockRing",
+      "冲击波插件",
+      "苹果M1插件"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "image_alt": "AE插件-冲击波动态图形特效 YY ShockRing V2.1 Win/Mac支持M1-LookAE.com"
+  }
+}

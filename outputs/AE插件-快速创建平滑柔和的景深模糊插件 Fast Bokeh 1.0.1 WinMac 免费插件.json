@@ -1,0 +1,33 @@
+{
+  "title": "AE插件-快速创建平滑柔和的景深模糊插件 Fast Bokeh 1.0.1 Win/Mac 免费插件",
+  "slug": "aecha-jian-kuai-su-chuang-jian-ping-hua-rou-he-de-jing-shen-mo-hu-cha-jian-fast-bokeh-1-0-1-win-mac-mian-fei-cha-jian",
+  "author": "大众脸",
+  "post_date": "2019/07/06 16:27",
+  "source_url": "https://www.lookae.com/fast-bokeh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Fast Bokeh是After Effects的一款免费插件，可使用深度贴图创建平滑的景深散景模糊效果。渲染处理速度非常快，且能够正确处理边缘，易于使用。与其他所有Lens Blur插件不同，它具有模糊半径独立、正确处理边缘和高斯模糊等效质量的特点。建议使用不带抗锯齿的深度贴图以获得最佳效果，并建议使用32 bpc获得最佳质量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Fast-Bokeh.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-386169424"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1X_-cs3uoX4euC-ni-7-0ig"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "m8el",
+    "official_website": "https://www.rowbyte.com/fast-bokeh"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "最新完整版：超强视觉特效插件包 FxFactory Pro 5.0（苹果系统使用）",
+  "slug": "zui-xin-wan-zheng-ban-chao-qiang-shi-jue-te-xiao-cha-jian-bao-fxfactory-pro-5-0-ping-guo-xi-tong-shi-yong",
+  "author": "大众脸",
+  "post_date": "2014/12/24 14:50",
+  "source_url": "https://www.lookae.com/fxfpro5/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "FxFactory Pro",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "FxFactory for Mac 是一款革命性的视觉特效处理包，为 Final Cut Pro、Motion、Final Cut Express 和 Adobe After Effects 提供大量插件支持。FxFactory Pro 5.0 包含成百上千的专业视觉效果，支持 GPU 加速，涵盖片头、炫光、粒子、调色、磨皮、字幕、转场、光效、抠像等多种类型，并内置丰富预设，使用便捷且效果专业。新版本优化了界面与系统兼容性，提升预览速度，并仅支持较新的 macOS 与专业视频软件版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/fxf5.jpg",
+    "http://gd1.alicdn.com/imgextra/i1/705956171/TB2vsjeaVXXXXaUXXXXXXXXXXXX-705956171.jpg",
+    "http://gd3.alicdn.com/imgextra/i3/705956171/TB2QtTcaVXXXXcVXXXXXXXXXXXX-705956171.jpg",
+    "http://gd1.alicdn.com/imgextra/i1/705956171/TB204veaVXXXXaLXXXXXXXXXXXX-705956171.jpg",
+    "http://gd3.alicdn.com/imgextra/i3/705956171/TB2UMYaaVXXXXX8XpXXXXXXXXXX-705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Final Cut Pro X 10.1.2 或更高版本, Motion 5, Adobe After Effects CS6/CC/CC 2014, Adobe Premiere Pro CS6/CC/CC 2014",
+  "supported_os": "OS X Mavericks (10.9) / Yosemite (10.10)",
+  "download_links": [
+    {
+      "name": "普通简装版下载（339M）",
+      "url": "https://pan.baidu.com/s/1B6CBO"
+    },
+    {
+      "name": "专业完整版下载（5.5G）",
+      "url": "https://item.taobao.com/item.htm?id=42094760365"
+    },
+    {
+      "name": "专业完整版赞助下载",
+      "url": "https://www.lookae.com/wp-content/plugins/alipay/includes/tpl.cart.php?proid=101"
+    },
+    {
+      "name": "站内支付¥48下载",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ffxfpro5%2F"
+    }
+  ],
+  "other": {
+    "fx_factory_pro_4_1_9_supported_software": [
+      "Final Cut Pro 7",
+      "Final Cut Pro X",
+      "Motion 4, 5",
+      "Adobe After Effects CS5, CS5.5, CS6, CC, CC 2014",
+      "Adobe Premiere Pro CS6, CC, CC 2014"
+    ],
+    "fx_factory_pro_4_1_9_supported_os": "OS X Lion / Mountain Lion / Mavericks (10.7–10.10)",
+    "package_size_compressed": "3.8G",
+    "package_size_installed": "5.54G",
+    "new_plugins_in_5_0": [
+      "KineticText (58项)",
+      "KineticBadges (45项)",
+      "CineText (20项)",
+      "Artitude",
+      "Symbol Pop (8项)",
+      "Story Pop (47项)",
+      "Data Pop (16项)",
+      "GraphiText (7项)",
+      "Smooth Skin",
+      "XEffects Snapshots (107项)",
+      "Hawaiki Style",
+      "Hawaiki AutoGrade",
+      "Hawaiki AutoSplit",
+      "Hawaiki AutoMatch",
+      "ObjectAnimator"
+    ],
+    "build_version": "FxFactory Pro 5.0 Build 4419",
+    "notes": "专业完整版包含 5.0 和 4.1.9 两个版本；已购用户可凭证明免费获取更新；插件支持官方直接更新；安装后无水印、无功能限制；提供详细安装教程。"
+  }
+}

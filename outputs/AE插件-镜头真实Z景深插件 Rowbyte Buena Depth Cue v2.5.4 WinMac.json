@@ -1,0 +1,43 @@
+{
+  "title": "AE插件-镜头真实Z景深插件 Rowbyte Buena Depth Cue v2.5.4 Win/Mac",
+  "slug": "aecha-jian-jing-tou-zhen-shi-zjing-shen-cha-jian-rowbyte-buena-depth-cue-v2-5-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2019-04-01",
+  "source_url": "https://www.lookae.com/buena-depth-254/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Buena Depth Cue 由 Rowbyte 公司出品，这是一款强大的插件，可以在AE中以独特的方式模拟真实Z景深效果，为AE艺术家提供创新的工作流程来在项目中创建视觉深度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/Depth-Cue-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版-城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-357956715"
+    },
+    {
+      "name": "Win版-百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OaOFk54g-xp8V_b6op1uIw"
+    },
+    {
+      "name": "Mac版-城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-330005655"
+    },
+    {
+      "name": "Mac版-百度网盘下载",
+      "url": "https://pan.baidu.com/s/15HQkLlGM2136KNYnuvy7jA"
+    }
+  ],
+  "other": {
+    "company": "Rowbyte",
+    "related_plugin": "Plexus",
+    "baidu_extraction_code": "52c5",
+    "official_website": "http://www.rowbyte.com/buena-depth-cue/",
+    "related_previous_version": "https://www.lookae.com/depth253/"
+  }
+}

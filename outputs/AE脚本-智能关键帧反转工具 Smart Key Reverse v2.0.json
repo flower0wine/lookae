@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-智能关键帧反转工具 Smart Key Reverse v2.0",
+  "slug": "aejiao-ben-zhi-neng-guan-jian-zheng-fan-zhuan-gong-ju-smart-key-reverse-v2-0",
+  "author": "大众脸",
+  "post_date": "2021/11/13 22:28",
+  "source_url": "https://www.lookae.com/smart-key/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Smart Key Reverse 是一款专为 After Effects 设计的智能关键帧反转工具，可一键反转多个图层的关键帧，同时保持原有的相对时间模式。无需重复操作即可快速创建淡出动画，显著提升工作效率。适用于各种类型的动画反转，是高效制作动画的重要辅助工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Smart-Key-Reverse.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336933370076.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520632942-637133"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ZvD8pTc-rQWnECJb8fM3gg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/RmBWh5YJ2WE"
+    }
+  ],
+  "other": {
+    "original_post_date": "2021/11/13 22:28",
+    "author_url": "https://www.lookae.com/author/大众脸/",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "video_description": "视频演示 Smart Key Reverse 脚本使用效果"
+  }
+}

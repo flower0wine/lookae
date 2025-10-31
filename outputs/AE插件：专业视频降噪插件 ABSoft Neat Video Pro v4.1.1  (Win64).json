@@ -1,0 +1,60 @@
+{
+  "title": "AE插件：专业视频降噪插件 ABSoft Neat Video Pro v4.1.1 (Win64)",
+  "slug": "aecha-jian-zhuan-ye-shi-pin-jiang-zao-cha-jian-absoft-neat-video-pro-v4-1-1-win64",
+  "author": "大众脸",
+  "post_date": "2016-08-14T03:10:00Z",
+  "source_url": "https://www.lookae.com/neat-video-411/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Neat Video"
+  ],
+  "content": "Neat Video 是一款广受认可的专业视频降噪插件，能够高效移除画面中的颗粒噪点。其具备先进的降噪技术与高渲染效率，支持GPU和CPU协同工作，实现智能人性化操作。新版本v4.1.1在性能、兼容性和功能上均有显著提升，支持从SD到8K的多种分辨率，并增强对多核心、多GPU及多CPU的自动优化能力。兼容包括 After Effects、Premiere Pro、Final Cut Pro X、Motion、Vegas Pro、Edius 等在内的众多主流视频编辑软件。本版本专为 Adobe After Effects 设计，适用于 Windows 系统下的 CS5 至 CC 2015.3 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Neat-Video4.jpg",
+    "https://www.lookae.com/wp-content/uploads/2016/08/Neat-Video4SN.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 / CS5.5 / CS6 / CC / CC 2014 / CC 2015 / CC 2015.3",
+  "supported_os": "Windows 10, Retina-Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/0NK155254357"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1miARRr6"
+    }
+  ],
+  "other": {
+    "plugin_version": "v4.1.1",
+    "new_features": [
+      "改进【Auto Profile】自动配置功能，提升分析精度",
+      "新增【Temporal Filter】时间滤波器控制参数",
+      "更新【Dust and Scratches】灰尘和划痕滤镜，支持数字蚕食控制",
+      "新增 Normal 和 Aggressive 图层叠加模式",
+      "优化场景切换中重复帧的处理性能",
+      "改进GUI界面体验",
+      "支持 AMD Radeon R9 Fury / Nano / Fury X / Fury X2、R9 380/390/390X、R9 255/250X、R7 360/370、R7 265 等显卡",
+      "支持新版 AMD Catalyst 15.7.1+ 驱动",
+      "改善与 Adobe Media Encoder CC 2015 的兼容性"
+    ],
+    "installation_guide": "1. 安装 NeatAESetup64.exe\n2. 打开 AE，将插件应用到图层并点击注册\n3. 输入注册信息（见截图）\n4. 注册完成即可使用",
+    "license_info": {
+      "username": "Badcode",
+      "companyName": "AMPEDyKI",
+      "nlics": "99",
+      "key": "PFGAZO6AZCNAZed"
+    },
+    "related_links": [
+      "https://www.lookae.com/neatvideot/",
+      "https://www.lookae.com/neat-video-ofx/",
+      "https://www.lookae.com/neatvideonew/",
+      "https://www.lookae.com/neatvideot/"
+    ],
+    "official_website": "https://www.neatvideo.com/",
+    "support_url": "https://www.lookae.com/sponsor/",
+    "store_link": "https://lookae.taobao.com/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-嵌套多合成中直接预览主合成音乐 Universal Audio v1.6.6+使用教程",
+  "slug": "aejiao-ben-qian-tao-duo-he-cheng-zhong-zhi-jie-yu-lan-zhu-he-cheng-yin-le-universal-audio-v1-6-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/11/15 20:02",
+  "source_url": "https://www.lookae.com/universal-166/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可解决在 After Effects 中嵌套合成时无法直接预览主合成音乐的问题。用户无需返回主合成即可在任意子合成或嵌套合成中实时预览主合成的音频，极大提升动画与音频同步制作效率。特别适用于为语音（VO）或音乐进行时间对齐动画的场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Universal-Audio.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50027492931.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-407911537"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1VIMEytdZFLxXlKdup-6obg"
+    }
+  ],
+  "other": {
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "script_homepage": "http://aescripts.com/universal-audio/",
+    "update_notes": [
+      "调整‘Compensate to time remapping-补偿时间重新映射’选项；补偿现在考虑时间重新映射的表达式（UA现在可以与MarkerRemap脚本一起使用）",
+      "更新了许可框架"
+    ],
+    "related_tags": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)",
+      "[Aescaripts](https://www.lookae.com/tag/aescaripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Adobe系列软件使用时间计算统计脚本 Motion Clock V1.1.6+使用教程",
+  "slug": "adobexi-lie-ruan-jian-shi-yong-shi-jian-ji-suan-tong-ji-jiao-ben-motion-clock-v1-1-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-12-18T17:50:00Z",
+  "source_url": "https://www.lookae.com/motion-clock/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Motion Clock",
+    "PR脚本"
+  ],
+  "content": "Motion Clock 是一款用于 Adobe 系列软件的使用时间统计脚本，支持在 After Effects、Illustrator、Photoshop 和 Premiere Pro 中实时追踪项目操作时间，并可导出为条形图和 CSV 表格。该脚本界面直观、不干扰工作流程，帮助用户精准记录每一分钟的创作时间，将创意流程可视化并生成可导出的报告。适用于 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Motion-Clock.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442457653720.mp4"
+  ],
+  "supported_versions": "After Effects 2020-2024, Illustrator 2020-2023, Photoshop 2020-2023, Premiere Pro 2020-2023",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-992198936-9a3549?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15q7fo1W1pgJjIDRLGCzJPw?pwd=9utx"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/3iKuNVwg7cD"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/motion-clock/",
+      "https://www.lookae.com/tag/pr%e8%84%9a%e6%9c%ac/"
+    ],
+    "original_content": "在所有Adob​​e中实时准确跟踪和导出（条形图和CSV表格）项目使用操作时间，（支持After Effects、Illustrator、Photoshop 和 Premiere Pro）。它直观、不引人注目，并且可以毫不费力地与您的工作流程同步。脚本确保每一分钟都很重要。您的创意流程已绘制成图表并勾画成易于导出的报告！\n\nAccurately tracks and exports (Bar chart and CSV) your project hours in real-time in all AdobeCreative Suite applications (After Effects, Illustrator, Photoshop, and Premiere Pro). It’s intuitive, unobtrusive, and syncs with your workflow effortles"
+  }
+}

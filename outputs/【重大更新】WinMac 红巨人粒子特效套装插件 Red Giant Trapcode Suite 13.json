@@ -1,0 +1,147 @@
+{
+  "title": "【重大更新】Win/Mac 红巨人粒子特效套装插件 Red Giant Trapcode Suite 13",
+  "slug": "zhong-da-geng-xin-win-mac-hong-ju-ren-li-zi-te-xiao-tao-zhuang-cha-jian-red-giant-trapcode-suite-13",
+  "author": "大众脸",
+  "post_date": "2015-10-29T12:43:00Z",
+  "source_url": "https://www.lookae.com/trapcode13/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Trapcode Suite 13 是一款功能强大的粒子特效插件套装，支持 Adobe After Effects 与 Premiere Pro。本次更新引入了全新插件 Trapcode Tao，同时对 Particular、Mir、Shine 等核心插件进行了全面升级。新增支持 3D 光照、GPU 加速、循环动画、路径生成几何图形等功能，显著提升渲染性能与创作效率。该套件适用于 Win/Mac 平台，兼容 AE CS5 至 CC 2015，部分插件支持 Premiere Pro。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/Trapcode-13.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/31691619.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS5 - CC 2015, Adobe Premiere Pro CC 2015 - CS5 (部分支持)",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win 版本插件下载",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/TCSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac 版本插件下载",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/TCSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Win 版本一键安装注册下载",
+      "url": "https://www.400gb.com/file/127937621"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "Trapcode Tao - 三维几何图形插件（新加入）",
+      "Trapcode Particular 2.5.0 - 超炫粒子插件（更新）",
+      "Trapcode Form V2.1.0 - 三维空间粒子插件",
+      "Trapcode Mir V2.1.2 - 三维图形插件（更新）",
+      "Trapcode Shine V2.0.0 - 放射光插件（更新）",
+      "Trapcode Lux V1.3.5 - 聚光灯插件",
+      "Trapcode 3D Stroke 2.6.7 - 3D路径描边插件",
+      "Trapcode Echospace - 三维立体拖尾延迟插件",
+      "Trapcode Starglow V1.7.0 - 星光插件",
+      "Trapcode Sound Keys - 音频关键帧插件",
+      "Trapcode Horizon V1.1.7 - 无限场景（天空）插件"
+    ],
+    "new_features_tao": [
+      "沿路径生成三维几何动态图形/面膜形状",
+      "支持3D灯光与反射/环境贴图",
+      "支持循环动画与偏移体系",
+      "GPU加速，基于图像的光照，反射贴图和环境闭塞",
+      "可将简单路径转化为复杂几何动画"
+    ],
+    "new_features_particular_2_5": [
+      "新增 Effects Builder 可视化创建粒子效果",
+      "超过 130 个新预设，支持火焰、太空飞行、烟花、爆炸、烟雾等",
+      "新增精灵图与多边形素材",
+      "支持“生命周期”曲线控制大小与透明度",
+      "新增“爆炸”行为自动创建爆炸效果",
+      "新增宽高比控制，支持拉伸/压缩粒子形状",
+      "新增程序生成方形与圆形粒子类型",
+      "支持最高 3000 万粒子渲染（原为 2000 万）"
+    ],
+    "new_features_mir_2": [
+      "新增螺旋化网格变形功能",
+      "支持无缝循环的分形背景",
+      "支持四边形或三角形网格",
+      "可添加第二层线框叠加在表面",
+      "纹理采样模式：最近邻、线性、实面",
+      "可设置位移 Z 范围以创建地形特征",
+      "四种分形扭曲类型：常规、多层、平滑脊、多层平滑脊",
+      "渲染速度提升至最多 3 倍，优化显存管理"
+    ],
+    "new_features_shine_2": [
+      "支持真正的 3D 光线，与 3D 灯光联动",
+      "新增相机感知的分形噪波效果，用于模拟烟雾光效",
+      "包含遮罩与 3D 分形噪波视差工具，增强深度感",
+      "提供 35 个可完全自定义的预设"
+    ],
+    "registration_keys": {
+      "Trapcode Tao": "90509642123479776933",
+      "Trapcode Mir V2.1.2": "85079585234586664989",
+      "Trapcode Particular V2.5.0": "92608846345644048269",
+      "TrapCode Shine v2.0": "92338513256767241817",
+      "TrapCode 3D Stroke v2.6.7": "91588738256767692766",
+      "TrapCode Form v2.1.3": "8446-8918-2345-6022-3856",
+      "TrapCode EchoSpace v1.1.6": "91769344123491994523",
+      "TrapCode Horizon v1.1.7": "87419480123494067600",
+      "TrapCode Lux v1.3.5": "87689194123456089091",
+      "TrapCode Sound Keys v1.3.0": "88419208123489637676",
+      "TrapCode StarGlow v1.7.0": "86068670256777585702",
+      "Trapcode 3D Stroke (additional)": [
+        "8372-8782-2567-5004-8980",
+        "8695-8785-2567-3788-5303",
+        "9159-8773-2567-3626-9767",
+        "9167-8709-2567-3885-9775"
+      ],
+      "Trapcode Echospace (additional)": [
+        "8298-9366-1234-4684-2645",
+        "8514-9342-1234-9278-1861",
+        "9005-9305-1234-6345-2352",
+        "9200-9396-1234-9086-3547"
+      ],
+      "Trapcode Form (additional)": [
+        "8446-8918-2345-6022-3856",
+        "8677-8953-2345-5342-6087",
+        "9042-8986-2345-6434-7452",
+        "9258-8934-2345-6203-1668"
+      ],
+      "Trapcode Horizon (additional)": [
+        "8681-9400-1234-8544-5540",
+        "8881-9416-1234-4132-5740",
+        "9178-9438-1234-5472-4037",
+        "9194-9426-1234-9011-7053"
+      ],
+      "Trapcode Lux (additional)": [
+        "8555-9113-1234-8820-6878",
+        "8757-9185-1234-6189-3080",
+        "9052-9118-1234-9812-6375",
+        "9102-9178-1234-5828-4425"
+      ],
+      "Trapcode Shine (additional)": [
+        "92338513256767241817",
+        "8376-8548-2567-5348-4960",
+        "8936-8544-2567-9374-0520",
+        "9036-8584-2567-5738-2620",
+        "9189-8577-2567-4966-3773"
+      ],
+      "Trapcode Sound Keys (additional)": [
+        "8317-9288-1234-5634-2152",
+        "8452-9286-1234-6689-0287",
+        "9054-9214-1234-7947-6889",
+        "9120-9238-1234-9827-4955"
+      ],
+      "Trapcode Starglow (additional)": [
+        "8615-8650-2567-9494-0711",
+        "8746-8614-2567-4661-1842",
+        "9080-8684-2567-3666-9176",
+        "9105-8616-2567-7395-5201"
+      ]
+    }
+  }
+}

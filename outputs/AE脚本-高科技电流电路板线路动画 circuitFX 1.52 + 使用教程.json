@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-高科技电流电路板线路动画 circuitFX 1.52 + 使用教程",
+  "slug": "aejiao-ben-gao-ke-ji-dian-liu-dian-lu-ban-xian-lu-dong-hua-circuitfx-1-52-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/24 22:37",
+  "source_url": "https://www.lookae.com/circuitfx152/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "circuitFX 是一款专为 After Effects 设计的高科技电流电路板线路动画脚本，可随机生成各种电路图。支持创建芯片、电阻、电容器等元件，并可将所有部件集中于单个图层或分设为独立图层，操作简便，适用于制作科技感背景、HUD动画及科幻类项目。该版本优化了生成算法，在 CC2017 及更高版本中性能显著提升。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/circuitFX-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368200241"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1awj_FDhL_Y3QyW9wTN-6zw"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-222963204"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bpuBTN5"
+    }
+  ],
+  "other": {
+    "extract_code": "ux1y",
+    "official_website": "http://aescripts.com/circuitfx/",
+    "installation_guide": "将 .jsxbin 脚本文件复制到 AE 安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instruction": "在 AE 中通过 Window（窗口菜单）找到脚本",
+    "related_links": [
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "update_notes": [
+      "修正：一些许可问题",
+      "优化：更快的电路生成算法",
+      "优化：在 CC2017 及更新版本中显着更快地生成电路（通过调用临时组合）",
+      "修复：UI 中的几个问题",
+      "补充：‘Cluster-群集’选项"
+    ]
+  }
+}

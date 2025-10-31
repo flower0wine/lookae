@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-快速添加Motion动画脚本 Motion Monkey V1.02+使用教程",
+  "slug": "aejiao-ben-kuai-su-tian-jia-motiondong-hua-jiao-ben-motion-monkey-v1-02-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/25 17:41",
+  "source_url": "https://www.lookae.com/motion-monkey-102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Motion Monkey 是一款强大且直观的 After Effects 脚本，可快速为图层设计创建丰富的 Motion 动画效果。用户只需通过控制面板输入参数，即可生成从轻微到夸张的各种动画变体，无需手动设置繁琐的关键帧。该脚本支持文本、静态图像、视频、预合成、纯色层、形状、.ai、.psd、空对象及父子层级等多种图层类型，并提供 Motion Mixer 功能以增强动画的复杂性和多样性。此外，脚本还支持 Kuler 色板导入，并附带免费的 MonkeyTools 工具集，持续扩展脚本功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/07/Motion-Monkey-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5.5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368265197"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1sRYTAJx4SRDlN3LmklgWLA"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/file/67966656"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1R94zsT3HXLjCSIs6p8ODhQ"
+    }
+  ],
+  "other": {
+    "official_url": "http://aescripts.com/motionmonkey/",
+    "baidu_netdisk_passwords": {
+      "script": "mv5x",
+      "tutorial": "gko3"
+    },
+    "v1_02_updates": [
+      "更新AE新的JavaScript引擎表达式",
+      "更新许可框架",
+      "添加新的序列化代码",
+      "修复较新版AE的随机化问题",
+      "MonkeyTools：添加了移动多个标记工具"
+    ]
+  }
+}

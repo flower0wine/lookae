@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-物体相交融合MG动画 Mercury v1.2+使用教程",
+  "slug": "aejiao-ben-wu-ti-xiang-jiao-rong-he-mgdong-hua-mercury-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/26 13:05",
+  "source_url": "https://www.lookae.com/mercury-12/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该AE脚本可在制作完移动动画后，作用于图形层、固态层、文字层、遮罩等，实现自由形式的液体变形，能将任何物体一键生成具有可定制液体厚度和运动的液体物体，还可修改边缘颜色、动态模糊、柔滑程度、抖动等属性，在制作融合MG动画方面非常方便。适用于Win/Mac系统下AE CS3 - CC 2019。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2UQclfpXXXXXKXpXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/30465781.mp4"
+  ],
+  "supported_versions": "AE CS3 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368489015"
+    },
+    {
+      "name": "脚本百度网盘下载",
+      "url": "https://pan.baidu.com/s/1dpYbP6v8LkdlnUq31oIdJg",
+      "extra": "提取码：e5k3"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://www.400gb.com/file/119507888"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jGIUYH4"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本介绍英文": "Free - form liquid deformations for shapes, solids, text, and masks. Turn any object into a liquid object with customizable liquid thickness and evolution.",
+    "脚本官网": "http://aescripts.com/mercury/",
+    "脚本安装": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "官方淘宝店": "https://lookae.taobao.com/",
+    "赞助链接": "https://www.lookae.com/sponsor/"
+  }
+}

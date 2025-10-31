@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-世界地图任意位置路径展示动画 GEOlayers 2 v1.2.8+使用教程",
+  "slug": "aejiao-ben-shi-jie-di-tu-ren-yi-wei-zhi-lu-jing-zhan-shi-dong-hua-geolayers-2-v1-2-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/06/01 22:35",
+  "source_url": "https://www.lookae.com/geolayers-2128/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该AE脚本可简单快速链接世界任意位置，包括国家、街道、建筑等地图，拥有高清卫星地图、地图飞入飞出动画等，适合制作地图定位、路线路径展示，包含14种地图样式，还能配合Trapcode Mir插件模拟三维立体效果。介绍了GEOlayers 2 v1.2.8的更新内容及适用系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/GEOlayers-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015 – CC2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376768388"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1X6B_UcnXPFh4LqbNGf9IPg"
+    },
+    {
+      "name": "使用视频教程",
+      "url": "http://lookae.ctfile.com/fs/OKc162908492"
+    },
+    {
+      "name": "【大众脸官方淘宝店】",
+      "url": "https://lookae.taobao.com/"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件(https://www.lookae.com/after-effects/aechajian/)",
+      "AE脚本(https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects(https://www.lookae.com/after-effects/)"
+    ],
+    "脚本简介英文": "It connects After Effects to imagery tile servers for up-to-date maps. It also provides direct access to all kinds of geospatial features of the world. Like this you can easily draw buildings to After Effects shape layers, highlight certain country borders, streets, lakes, rivers, places, label regions, animate routes, extrude buildings… whatever you’ll need. GEOlayers 2 comes with 14 default Server Profiles each one representing a certain map style. All of them can be used for free! All you need to do is attribute the provider. GEOlayers also does this for you. Thats not all. You can add your own ones. GEOlayers 2 lets you browse and animate maps directly in After Effects. Use with Trapcode Mir 2 and create 3D terrains based on real data.",
+    "GEOlayers 2 v1.2.8更新": [
+      "错误修复：创建mapcomp合成时帧速率始终为25的BUG",
+      "修正了一些小错误"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "中文汉化AE插件-快速色调映射器 Quick ToneMapper V1.0 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-kuai-su-se-diao-ying-she-qi-quick-tonemapper-v1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/07/10 11:30",
+  "source_url": "https://www.lookae.com/quick-tonemapper/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Quick ToneMapper",
+    "中文汉化",
+    "色调映射器"
+  ],
+  "content": "Quick ToneMapper 是一款用于 Adobe After Effects 的插件，允许用户在后期制作中对 CG 渲染应用多种色调映射曲线，而无需在渲染时提前烘焙。它支持调整色调映射强度以及基本相机参数如快门速度、光圈和白平衡。推荐使用 32 位或 16 位浮动未固定 EXR 格式保存渲染文件，以保留高光细节并提升调色灵活性。该插件在线性空间中工作，支持在项目设置中开启或关闭线性化工作空间，避免双重线性化问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/Quick-ToneMapper.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/367310744041.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-611538531-4b77c4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XG4O8l4aUtvwFnhkyYUhUQ?pwd=6bo9"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/5g3seWNDf2a"
+    }
+  ],
+  "other": {
+    "additional_info": "访问密码：6688（城通网盘）；提取码：6bo9（百度网盘）",
+    "render_recommendation": "建议使用 32 位未固定浮点 EXR 渲染以获得最佳效果，避免信息丢失。",
+    "workflow_notes": "若启用项目设置中的‘线性化工作空间’，需在插件设置中禁用线性化以防止双重处理。"
+  }
+}

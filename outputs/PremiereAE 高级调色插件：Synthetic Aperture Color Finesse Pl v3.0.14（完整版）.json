@@ -1,0 +1,37 @@
+{
+  "title": "Premiere/AE 高级调色插件：Synthetic Aperture Color Finesse Pl v3.0.14（完整版）",
+  "slug": "premiere-ae-gao-ji-diao-se-cha-jian-synthetic-aperture-color-finesse-pl-v3-0-14-wan-zheng-ban",
+  "author": "大众脸",
+  "post_date": "2015/09/10 10:20",
+  "source_url": "https://www.lookae.com/cf3014/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Color Finesse 是一款专为 After Effects 和 Premiere Pro 设计的高级调色插件，提供精密的颜色校正功能。它支持对图像进行局部调色，具备高端颜色修正工具，操作便捷且性能优异。插件采用 32 位浮点颜色空间，支持 HSL、RGB、CMY 及 YC6CR 等多种颜色空间，具备自动颜色比较、黑白灰平衡、自定义修正曲线、6 个间色修正通道等功能。新增蒙版模式、ALPHA 通道预览模式，并支持外部预览监视器，便于在第二屏幕查看调色效果。相比多数视频软件内置的调色工具，Color Finesse 避免了多次格式转换和舍入误差，能生成更纯净的图像。该插件流程完整，包含曲线、颜色轮、示波图，并支持二级调色（局部调色）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/Color-Finesse-Pl-3.0.10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects 7.0/CS3/CS4/CS5/CS5.5/CS6/CC/CC 2014/CC 2015, Premiere Pro 2.0/CS3/CS4/CS5/CS5.5/CS6/CC/CC 2014/CC 2015",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Premiere+AE 高级调色插件：Color Finesse Pl 3.0.14",
+      "url": "https://www.400gb.com/file/117471707"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "安装程序更新支持 Adobe CC 2015",
+      "修复了在 Mac/Win 上，当多个调整图层应用 Color Finesse 时无法启动完整 UI 的问题",
+      "修复了影响 Color Finesse 参数的表达式未始终更新控件的问题（Mac/Win）",
+      "修复了简化 UI 中色相轮和曲线的右键上下文菜单在 Mac 上显示位置不正确的问题",
+      "安装程序已更新以支持 Adobe CC 2015（Mac/Win）",
+      "确保即使默认文件夹（My Documents）缺失，也能保存参考图像（Win）"
+    ],
+    "related_link": "https://www.lookae.com/ssa-cf3t/",
+    "installation_note": "插件为一键安装版，安装即可使用"
+  }
+}

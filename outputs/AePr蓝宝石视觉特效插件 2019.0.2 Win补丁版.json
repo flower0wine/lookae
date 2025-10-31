@@ -1,0 +1,58 @@
+{
+  "title": "Ae/Pr蓝宝石视觉特效插件 2019.0.2 Win补丁版",
+  "slug": "ae-prlan-bao-shi-shi-jue-te-xiao-cha-jian-2019-0-2-winbu-ding-ban",
+  "author": "大众脸",
+  "post_date": "2019-02-16T16:51:00Z",
+  "source_url": "https://www.lookae.com/sapphire-ae-1202/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Sapphire 蓝宝石插件是大名鼎鼎的 AE/PR 外置视觉特效插件，最新版本为 Sapphire 2019。该插件提供数百种炫酷的视觉效果与转场特效，显著提升工作效率和创作自由度。凭借卓越的图像质量与高效的渲染性能，广受后期制作爱好者欢迎。支持 Windows 系统下的 After Effects CC 至 CC 2019 以及 Premiere Pro CC 至 CC 2019。插件已提供补丁版，便于快速安装使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Sapphire-2019.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC – CC 2019, Premiere Pro CC – CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-336860014"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1hZY4p1fIRh_Yxm9uznHg-g"
+    }
+  ],
+  "other": {
+    "plugin_name": "Sapphire",
+    "developer": "BorisFX",
+    "official_website": "https://borisfx.com/products/sapphire/",
+    "features": [
+      "增强和改进镜头光效",
+      "新增 PixelSort 信号损坏故障特效",
+      "新增 WhipLash 转场效果",
+      "新增动画形状工具的特效和转场",
+      "新增 Mocha 基本工作空间与新样条工具（如磁性边缘捕捉）",
+      "提升 CPU 和 GPU 性能"
+    ],
+    "installation_notes": [
+      "安装插件程序 sapphire-ae-install-2019.02.exe，选择 No License",
+      "复制注册补丁 sapphire_ae.dll 到 C:\\Program Files\\GenArts\\SapphireAE\\lib64 目录并替换原文件",
+      "打开软件即可使用插件"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/others/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

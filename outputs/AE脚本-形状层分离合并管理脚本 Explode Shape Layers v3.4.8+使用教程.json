@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-形状层分离合并管理脚本 Explode Shape Layers v3.4.8+使用教程",
+  "slug": "aejiao-ben-xing-zhuang-ceng-fen-chi-he-bing-guan-li-jiao-ben-explode-shape-layers-v3-4-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/23 20:25",
+  "source_url": "https://www.lookae.com/explode-348/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "这是一个用于After Effects的实用脚本，能够对形状图层进行精确的分离与合并操作。特别适用于将AI文件转换为形状图层后进行精细化管理。脚本支持将一个包含多个形状的图层拆分为多个独立图层，也支持将多个形状图层合并为一个新图层，便于动画制作和属性调整。内置视频教程，操作直观易用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Explode-Shape.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/28847805.mp4?_=1"
+  ],
+  "supported_versions": "AE CS5 – CC 2019, 2020",
+  "supported_os": "Win/Mac (兼容Mac 10.15)",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-414780259"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1pjmJI7TwtbzbS01kjIqF6w"
+    },
+    {
+      "name": "使用教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-393730235"
+    },
+    {
+      "name": "使用教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13vFLxecCyleiaPhvkFzthA"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "official_website": "http://aescripts.com/explode-shape-layers/",
+    "update_log": "v3.4.8 更新内容：兼容Mac 10.15系统"
+  }
+}

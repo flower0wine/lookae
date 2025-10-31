@@ -1,0 +1,47 @@
+{
+  "title": "简单高效轻松的控制摄像机动画AE插件 HandyCam v1.2.3 Win/Mac",
+  "slug": "jian-dan-gao-xiao-qing-song-de-kong-zhi-she-xiang-ji-dong-hua-aecha-jian-handycam-v1-2-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/12/19 15:04",
+  "source_url": "https://www.lookae.com/handycam-123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "这款摄像机插件的灵感来自三维MAYA软件，HandyCam旨在尽可能轻松地制作After Effects中的摄像机动画，简化了摄像机动画的各个方面。它提供直观的轨道控制、仿真手持机芯与景深（DoF）摆动效果，帮助用户创建流畅自然的相机移动。此外，用户还能在世界空间中精确定位图层，并轻松将项目导出，以便在未安装HandyCam的计算机上继续使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/HandyCam.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件下载",
+      "url": "https://url70.ctfile.com/f/2827370-751083828-a6dac1?p=4431"
+    },
+    {
+      "name": "百度网盘 - 插件下载",
+      "url": "https://pan.baidu.com/s/1blCU5KgtM9HsQApwMTasgQ?pwd=q7sp"
+    },
+    {
+      "name": "阿里云盘 - 插件下载",
+      "url": "https://www.aliyundrive.com/s/zCjv6yLAPdt"
+    },
+    {
+      "name": "城通网盘 - 使用教程",
+      "url": "https://tc5.us/file/680462-404002971"
+    },
+    {
+      "name": "百度网盘 - 使用教程",
+      "url": "https://pan.baidu.com/s/13Fa7R7KEA2zSdry7bfhntQ"
+    }
+  ],
+  "other": {
+    "password": {
+      "ctfile": "6688"
+    },
+    "update_notes": "v1.2.3更新内容：Update license framework；兼容苹果M芯片"
+  }
+}

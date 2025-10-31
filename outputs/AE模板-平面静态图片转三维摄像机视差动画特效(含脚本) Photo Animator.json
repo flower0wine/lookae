@@ -1,0 +1,46 @@
+{
+  "title": "AE模板-平面静态图片转三维摄像机视差动画特效(含脚本) Photo Animator",
+  "slug": "aemo-ban-ping-mian-jing-tai-tu-pian-zhuan-san-wei-she-xiang-ji-shi-chai-dong-hua-te-xiao-han-jiao-ben-photo-animator",
+  "author": "大众脸",
+  "post_date": "2021/07/23 10:56",
+  "source_url": "https://www.lookae.com/photo-animator/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本",
+    "平面转三维",
+    "摄像机动画",
+    "视差动画"
+  ],
+  "content": "Photo Animator 是一款专为 After Effects 设计的高级动画工具，可将静态 2D 图片快速转换为具有深度感的 3D 摄像机视差动画。通过智能蒙版生成 8 层深度图，支持相机推拉、焦点移动、光线模拟与对象叠加等功能，适用于婚礼视频、宣传片、纪录片等多种场景。内置 30 多个高质量孤立对象（如鸟类、树木、烟花、雨等），并支持风浪系统、灰尘粒子、文本占位符等高级特效。提供 13 种预设动画动作，支持循环、反转、缓入缓出等参数调节，极大提升创作效率。适用于所有主流分辨率（全高清、4K、Instagram 等），兼容 AE CS6 及更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/Photo-Animator.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 及更高版本",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/BnH1adkvbpr"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-503189603-d751d5"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1VmtwRRQneXw-aayj6nmUlw"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "extract_code": "tq96",
+    "tutorial_document": "PDF文档使用教程",
+    "related_resources": [
+      "更多精品AE模板下载: https://www.lookae.com/after-effects/other-after-effects/",
+      "AE模板精选音乐合集下载: https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486"
+    ],
+    "notes": "并非‘魔法向导工具’，效果受照片内容影响；前景背景复杂或无深度的平面照片效果有限。"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "中文汉化AE插件-8点控制颜色渐变效果 Gradient8 1.2 Win+使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-8dian-kong-zhi-yan-se-jian-bian-xiao-guo-gradient8-1-2-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-19",
+  "source_url": "https://www.lookae.com/gradient8-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Gradient8",
+    "中文汉化",
+    "渐变插件"
+  ],
+  "content": "Gradient8是一款After Effects插件，提供多达8个点的渐变效果控制。该插件支持中文和英文界面，具有丰富的渐变控制功能，包括设置每个点的半径、调整插值强度、选择不同的颜色空间和混合方法等。v1.2版本主要修复了macOS上的代码签名错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/Gradient8.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/526210232745.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1537036513-e6e4f2?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/108Urj6LgEBwPejnG21-c8w?pwd=27hq"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/7MAvVL7Hnnb"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "27hq"
+    },
+    "plugin_features": [
+      "生成最多8个点的渐变",
+      "设置每个点的半径",
+      "调整插值强度",
+      "从RGB、HSV或OKLCH颜色空间中选择",
+      "选择平滑或高斯混合方法",
+      "添加可动画的噪声",
+      "简单、简约的用户界面"
+    ]
+  }
+}

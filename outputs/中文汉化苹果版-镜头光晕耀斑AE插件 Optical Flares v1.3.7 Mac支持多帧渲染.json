@@ -1,0 +1,40 @@
+{
+  "title": "中文汉化苹果版-镜头光晕耀斑AE插件 Optical Flares v1.3.7 Mac支持多帧渲染",
+  "slug": "zhong-wen-yi-hua-ping-guo-ban-jing-tou-guang-yun-yao-ban-aecha-jian-optical-flares-v1-3-7-maczhi-chi-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2021/12/29 16:25",
+  "source_url": "https://www.lookae.com/of137-maczh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac苹果版",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "Optical Flares是一款专业的镜头光晕耀斑光效AE插件，功能强大、操作简便、效果绚丽且渲染速度快，广泛用于制作逼真的动画镜头耀斑灯光特效。插件具备独立界面，提供多种预设，可直接在AE中使用，极大提升创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/OF-137-MAC.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01O2mc1t1vSMqoqIFue_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01WAGsRz1vSMtLRSr3E_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274013701666.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, 2018, 2019, 2020, 2021, 2022",
+  "supported_os": "Mac苹果系统 10.13.x-12.x（M1需转译使用）",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=665333440710"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fof137-maczh%"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.3.7更新内容：支持AE 2022多帧渲染；兼容4K显示器上的UI缩放；预设正常显示。",
+    "compatibility_note": "仅提供中文版，一键集成安装；仅适用Mac，不适用Win；部分参数可能未汉化；转译编码可能存在潜在BUG。",
+    "purchase_warning": "在购买前请了解工具特性，我们仅提供工具，不提供视频教程和使用教学。"
+  }
+}

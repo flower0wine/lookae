@@ -1,0 +1,56 @@
+{
+  "title": "AE/PR插件-字体控制变换工具 VariFont v1.1.1 Win/Mac",
+  "slug": "ae-prcha-jian-zi-ti-kong-zhi-bian-huan-gong-ju-varifont-v1-1-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/12/29 15:44",
+  "source_url": "https://www.lookae.com/varifont-111/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "VariFont 是一款原生插件，支持在 After Effects 中使用可变字体（Variable Fonts）。尽管 After Effects 本身不支持可变字体，但通过 VariFont 插件，用户可以在 AE 中实现对可变字体的动态控制。该插件支持动态设置动画轴（如字重、宽度、倾斜度等），并提供‘动画器’功能，支持范围选择、形状控制和随机性，极大增强了灵活性与创作能力。此外，插件现已支持 Premiere Pro 2020，提升渲染效率，并修复多项关键问题，包括 Mac 系统下的崩溃错误及资源加载异常。成功注册后，渲染缓存将自动清除以移除水印。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/08/VariFont.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/277055593148.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020; Premiere Pro 2020",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-477801525"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/19fsHYYaY4XRFtutANkRe9w"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "解决了在Mac上返回代码25 :: 16的错误，该问题是由资源中的sidecar文件引起的",
+      "Mac版本现在允许在文本输入字段中输入小写的“u”（以及其他先前阻止的字符）",
+      "支持Premiere Pro",
+      "更快的渲染时间",
+      "修复无法创建渲染表面时返回适当的内存不足错误",
+      "成功注册后，渲染缓存将自动清除以删除水印"
+    ],
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载（教程）",
+        "url": "https://089u.com/file/680462-458712994"
+      },
+      {
+        "name": "百度网盘下载（教程）",
+        "url": "https://pan.baidu.com/s/1gzMF41U1Qd9SfbJmoVfYCA"
+      }
+    ],
+    "extract_code": {
+      "download": "s8dt",
+      "tutorial": "2um0"
+    },
+    "project_home": "https://aescripts.com/varifont/"
+  }
+}

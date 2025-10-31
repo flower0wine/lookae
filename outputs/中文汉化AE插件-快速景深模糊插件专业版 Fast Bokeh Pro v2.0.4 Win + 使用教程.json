@@ -1,0 +1,58 @@
+{
+  "title": "中文汉化AE插件-快速景深模糊插件专业版 Fast Bokeh Pro v2.0.4 Win + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-kuai-su-jing-shen-mo-hu-cha-jian-zhuan-ye-ban-fast-bokeh-pro-v2-0-4-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/08/31 23:17",
+  "source_url": "https://www.lookae.com/fast-bokeh-204/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化",
+    "快速模糊插件"
+  ],
+  "content": "Fast Bokeh Pro 专业版是 After Effects 的快速景深模糊插件，可利用深度贴图创建平滑的景深散景模糊效果。该插件支持 GPU 加速（基于 Metal/Compute 技术），渲染速度快，边缘处理精准，操作简便。新版本新增自定义图像散景形状、区域控制等功能，并修复了部分显卡兼容性问题，支持多帧渲染（MFR）。适用于 Windows 平台的 AE 2021、2020、CC 2019 至 CC 2014 等版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/Fast-Bokeh-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/307007679505.mp4"
+  ],
+  "supported_versions": "AE 2021、2020、CC 2019、CC 2018、CC 2017、CC 2015.3、CC 2015、CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-510937392-99e3cd"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ummABSIi-lNKd4T7RD6E1g"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/s144zdZf5RA"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加了重复边缘像素和边缘行为控件。",
+      "修复了 ATI 显卡上的 GPU 渲染问题。",
+      "在 AE 中支持多帧渲染（MFR）。"
+    ],
+    "description": "Fast Bokeh is a plug-in for After Effects that creates a smooth Depth of Field bokeh blur using a Depth Map. It’s very fast, handles edges properly and easy to use.",
+    "related_tags": [
+      "AE插件",
+      "中文汉化",
+      "快速模糊插件"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "https://www.lookae.com/tag/%e5%bf%ab%e9%80%9f%e6%a8%a1%e7%b3%8a%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

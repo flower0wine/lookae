@@ -1,0 +1,37 @@
+{
+  "title": "Ae/Pr鱼眼广角镜头畸变扭曲修复转换插件 REVisionFX Relens 1.5.0 Win/Mac",
+  "slug": "ae-pryu-yan-yan-jiao-jing-tou-ji-bian-niu-qu-xiu-fu-zhuan-huan-cha-jian-revisionfx-relens-1-5-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/12/13 17:32",
+  "source_url": "https://www.lookae.com/relens15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "RE-Lens是REVisionFX公司新出的一款鱼眼广角镜头畸变扭曲修复转换插件，1.5新版有多项更新，官网地址为http://revisionfx.com/products/relens/after-effects/，支持Win/Mac系统的Adobe After Effects CS6 - CC 2018及Adobe Premiere Pro CS6 - CC 2018。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/RE-Lens.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 - CC 2018，Adobe Premiere Pro CS6 - CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-231330773"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1jICI2LS"
+    }
+  ],
+  "other": {
+    "注册序列号": {
+      "Name": "Team AMPED",
+      "KEY": "CvTXSt82rqHbqxwF"
+    },
+    "1.5新版更新": "RE:Lens v1.5: Version 1.5 is, in general, not compatible with pre-v1.5 projects. If you made projects you should make a backup of the old version of the plug-in set (plug-in location info). Te previous version is also available for download in the Previous Versions section of the website ([download previous version](http://revisionfx.com/faq/where-are-my-plugins-installed/#aftereffects)).  RE:Lens Defish : Removes the “Maintain Ratio” setting because it is not useful anymore ([handled internally by software](http://revisionfx.com/products/relens/after-effects/#previous-versions)).  RE:Lens Superfish: Fixes a bug where the Orientation angles setup was not consistent with other plug-ins in RE:Lens. Results in 1.5 will be completely different than previous versions of RE:Lens.  RE:Lens Superfish : Fixes a bug where Orientation settings used in combination with Stabilization could give incorrect and shaky results.  RE:Lens ToLatLong: Fixes a bug where selecting Fisheye Equidistant produced Fisheye Equisolid results, and vice-versa  RE:Lens ToLatLong: Fixes a bug where rotation angles used with stabilization was incorrect and could give shaky, incorrect results when LatLong source was used.  RE:Lens ToLatLong: Fixes a bug where Fisheye sources (all 3 types) gave incorrect and shaky results when rotation angles were used with stabilization  RE:Lens ToLatLong,FromLatLong,Superfish: Fixes a bug when tracking for stabilization is performed a second time that the keyframes for the Stab Mode setting were added to, instead of replaced.  RE:Lens FromLatLong: Interaction now follows your mouse position so you can place interactively the projected view in the mode that allows you to see where you are projecting in LatLong  RE:Lens To and From LatLong: When sandwiching (on and off) these two plugins to create an intermediate flat view to for example paint, the 3 rotation angles of FromLatLong are now the opposite (negative) of ToLatLong, to be consistent.  All plugins: Latitude is no longer clamped to –90 to 90.  RE:Lens ToLatLong: Fixes Edge Antialiasing when going form Flat to LatLong.  RE:Lens Defish: Fixes a problem where edge anti-aliasing was not performing correctly.  RE:Lens Defish: Fixes mip-mapping smoothing issues with images that had transparent areas.  RE:Lens Superfish: Fixes mip-mapping smoothing issues with images that had transparent areas.  RE:Lens ToLatLong: Fixes a problem where Export UV, in 16 bpc, could be wrong."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "中文汉化AE插件-场景扫描DOF深度图自动生成工具Depth Scanner 1.2.2 CPU/GPU Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-gong-ju-depth-scanner-1-2-2-cpu-gpu-win",
+  "author": "大众脸",
+  "post_date": "2022-03-07T11:13:00Z",
+  "source_url": "https://www.lookae.com/depthscanner-122/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Depth Scanner 是一款基于人工智能的AE插件，可自动从图像和视频中生成深度图。生成的深度图适用于多种后期处理任务，如添加雾效、将素材转换为立体3D等，广泛用于视觉特效创作。该插件支持CPU与GPU两种运行模式，提供中文汉化版本，适配Adobe After Effects 2022（Windows系统）。最新版本v1.2.2优化了稳定性并改进了锐化算法。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "CPU版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-552726765-44212b"
+    },
+    {
+      "name": "CPU版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1cZaR9JKZBqvg-NtAvC73sQ?pwd=f6mb"
+    },
+    {
+      "name": "CPU版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ZYG1J5H2646"
+    },
+    {
+      "name": "GPU版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-552653056-fe0c26"
+    },
+    {
+      "name": "GPU版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/105FDbHh1XbP9e8UyurtQIA?pwd=kdat"
+    },
+    {
+      "name": "GPU版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/hMAFeMpZEus"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+    },
+    {
+      "name": "视频教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ],
+  "other": {
+    "version": "1.2.2",
+    "update_notes": [
+      "稳定性改进",
+      "实现更好的锐化算法"
+    ],
+    "gpu_note": "GPU版渲染速度快，但可能不如CPU版稳定；需Nvidia显卡支持",
+    "passwords": {
+      "cpu_download": "6688",
+      "gpu_download": "kdat",
+      "tutorial_download": "r9ha"
+    },
+    "description_en": "Depth Scanner lets you create depth maps from images and videos. The resulting depth map can be used for a variety of post processing tasks, like adding fog, converting footage to stereo-3d and many more image effects."
+  }
+}

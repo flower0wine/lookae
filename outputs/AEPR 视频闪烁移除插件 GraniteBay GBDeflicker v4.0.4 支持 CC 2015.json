@@ -1,0 +1,39 @@
+{
+  "title": "AE/PR 视频闪烁移除插件 GraniteBay GBDeflicker v4.0.4 支持 CC 2015",
+  "slug": "ae-pr-shi-pin-shan-shuo-yi-chu-cha-jian-granitebay-gbdeflicker-v4-0-4-zhi-chi-cc-2015",
+  "author": "大众脸",
+  "post_date": "2015/06/17 21:02",
+  "source_url": "https://www.lookae.com/gbdeflicker404/",
+  "category": "aechajian",
+  "tags": [
+    "ADOBE CC 2015",
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "由GBS公司出品的一款视频闪烁移除插件，最新版 GraniteBay GBDeflicker v4.0.4。在拍摄或制作延时拍摄、运动镜头过程中，可能会出现视频闪烁的问题，这款插件能简单解决这一难题，无需繁琐操作，加入视频中即可移除闪烁。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/03/GBDeflicker.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v4.0.4",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR 视频闪烁移除插件 GraniteBay GBDeflicker v4.0.4",
+      "url": "http://www.ctfile.com/file/100552814"
+    }
+  ],
+  "other": {
+    "compatible_software": [
+      "Adobe After Effects CC 2015",
+      "Adobe Premiere Pro CC 2015"
+    ],
+    "official_website": "http://www.granitebaysoftware.com/products/productgbd.aspx",
+    "related_links": [
+      {
+        "title": "视频闪烁移除插件 GraniteBay GBDeflicker 支持 CS6 – CC 2014",
+        "url": "https://www.lookae.com/gbdeflicker3013/"
+      }
+    ]
+  }
+}

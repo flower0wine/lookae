@@ -1,0 +1,83 @@
+{
+  "title": "中文汉化AE插件-众多图片文字汇聚成自定义图形 Pastiche v2.1.11 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-zhong-duo-tu-pian-wen-zi-hui-ju-cheng-zi-ding-yi-tu-xing-pastiche-v2-1-11-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/05/31 09:30",
+  "source_url": "https://www.lookae.com/pastiche-2111/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Pastiche",
+    "中文汉化",
+    "汇聚特效"
+  ],
+  "content": "非常不错的一款AE插件：众多图片文字汇聚成自定义图形 Motion Boutique – Pastiche，能够很容易的制作动画创意层拼贴，可快速将大量icon图标，图形，文字，图片，logo等其他图层元素，一键汇聚成自己想要的图片，LOGO，文字等样式。插件能够轻松处理上百个图层，还可以在插件参数里调整汇聚粒子的排列方式，大小，旋转，透明度等其他属性。Pastiche 插件还可和 Newton 牛顿插件配合使用，模拟制作出更多具有创意的碰撞汇聚效果。当然插件还可以实现不同图形之间的转换，如：A-B。压缩包内含安装说明，带高清视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Pastiche2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/295496486458.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021 (*不再支持其他低版本)",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-586516373-4cb034?p=4431"
+    },
+    {
+      "name": "插件下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1SUJRo-WtKFVfEOQ_wlHghA?pwd=eu4s"
+    },
+    {
+      "name": "插件下载-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/W85tJaaAths"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://089u.com/file/680462-479295508"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1_kX9UUltV9VDNz5XHxAAiA"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "plugin": {
+        "ctfile": "6688",
+        "baidu": "eu4s"
+      },
+      "tutorial": {
+        "ctfile": "377826",
+        "baidu": "a46x"
+      }
+    },
+    "features": {
+      "点画": [
+        "一种新的分配方法，可将图层推向最暗或最不透明的区域。",
+        "允许拼贴上的图层更加规则自然地分布。",
+        "可选择基于alpha或亮度两种模式。",
+        "可控制分布精度以微调拼贴规则性。"
+      ],
+      "应用颜色": [
+        "可根据来源设置形状图层的颜色（填充、轮廓或两者）。",
+        "支持随机颜色或预定义颜色。",
+        "可创建令人难以置信的动画效果。"
+      ],
+      "循环": [
+        "新增Use First Value选项，简化动画循环设置。",
+        "自动完成循环动画配置。"
+      ],
+      "新的动画样式": [
+        "步骤：迫使图层沿水平和垂直轴移动。",
+        "弹性：为运动增加弹性效果。"
+      ],
+      "v2.1.11更新": [
+        "支持苹果M1芯片",
+        "更新的许可框架"
+      ]
+    }
+  }
+}

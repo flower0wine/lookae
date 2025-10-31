@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：高清ProRes编码解码脚本 Aescripts AEmpeg v1.2.3 + ffmpeg编解码器+使用教程",
+  "slug": "aejiao-ben-gao-qing-proresbian-ma-jie-ma-jiao-ben-aescripts-aempeg-v1-2-3-ffmpegbian-jie-ma-qi-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/12/17 16:50",
+  "source_url": "https://www.lookae.com/aempeg123/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "一款非常强大的AE输出渲染高清解码/编码脚本，只需要设置输出路径和导出即可，非常容易使用。脚本能够在AE渲染中直接请求ffmpeg，在AE输出中提供更多的编解码器。也支持创建代理文件，通过高级设置选择不同输出路径并保存原始文件。安装后首次使用会提示下载ffmpeg，可通过设置按钮检查安装状态。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/aempg.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：高清ProRes编码解码脚本 Aescripts AEmpeg v1.2.3+ffmpeg编解码器+使用教程",
+      "url": "https://lookae.400gb.com/file/138630095"
+    },
+    {
+      "name": "使用教程下载",
+      "url": "https://www.400gb.com/file/112429490"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "installation_instructions": "将AEmpeg v1.2.3_New.jsxbin 脚本放置于x:\\Program Files\\Adobe\\你的AE版本\\Support Files\\Scripts\\ScriptUI Panels文件夹下即可。第一次使用将会提示你下载ffmpeg。在右上角Setting按钮中你可以检查是否安装了ffmpeg，如果出现灰色按钮，则表明你已经安装了ffmpeg。如果出现的是红色的未安装成功，请将压缩包内提供的ffmpeg文件夹中的文件放到C:\\Users\\用户名\\AppData\\Roaming\\Aescripts\\AEmpeg\\executables文件夹下。"
+  }
+}

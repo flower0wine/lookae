@@ -1,0 +1,29 @@
+{
+  "title": "AE脚本-文字字幕自动匹配音频脚本 textsyncr v1.6 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-zi-mu-zi-dong-pi-pei-yin-pin-jiao-ben-textsyncr-v1-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/11/11 10:07",
+  "source_url": "https://www.lookae.com/textsyncr-16/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "可搭配 TextMonkey, LayerMonkey, MotionMonkey 这几个脚本使用，自动将文字和音频匹配，然后生成MG效果字幕动画，但遗憾的是只支持英文语音。Automatic speech-to-markers engine, automatically creates layer markers from audio transcription – drive subtitles, the Monkey tools and more. v1.6更新内容：-支持远程网络用户 -改进的特殊字符处理",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/textsyncr.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-406905383"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1u45mxZaNGgbDwODnPfEMBQ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-MG液体流体拖尾动画制作 Super Liquids v1.5.6+使用教程",
+  "slug": "aejiao-ben-mgye-ti-liu-ti-tuo-wei-dong-hua-zhi-zuo-super-liquids-v1-5-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-02",
+  "source_url": "https://www.lookae.com/super-liquids-156/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Super Liquids"
+  ],
+  "content": "脚本可以在AE软件中轻松创建液体流体运动轨迹拖尾MG动画，支持静止和运动的物体图形或文字标题，拖尾动画都是由形状图层创建而成，支持属性修改。Super Liquids creates a frame by frame style liquids trail animation。脚本特征包括适用于静态和动态对象、水平和垂直方向、添加定制液体、一切都是用形状图层创建的、形状修改器支持。v1.5.6 更新内容：修复启动时出现空错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Super-Liquids.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/514158999209.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1489938083-e5aa0d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1C44gn_8ewhiJXtPRGwBiwQ?pwd=njb3"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/2YhUoncufzd"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "njb3"
+    }
+  }
+}

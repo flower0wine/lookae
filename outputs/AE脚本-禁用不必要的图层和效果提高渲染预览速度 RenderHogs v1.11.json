@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-禁用不必要的图层和效果提高渲染预览速度 RenderHogs v1.11",
+  "slug": "aejiao-ben-jin-yong-bu-bi-yao-de-tu-ceng-he-xiao-guo-ti-gao-xuan-ran-yu-lan-su-du-renderhogs-v1-11",
+  "author": "大众脸",
+  "post_date": "2021/10/19 14:53",
+  "source_url": "https://www.lookae.com/renderhogs/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "RenderHogs 是一款用于 After Effects 的脚本，旨在通过在渲染前禁用不必要的图层和效果来提升复杂合成的响应速度。用户可标记资源密集型图层与效果，并通过按钮一键开启或关闭。同时支持设置替代图层/效果作为禁用时的临时替代方案。此外，该脚本还能自动添加特殊表达式，根据是否启用 HOGs 动态调整关键帧属性的值，从而实现更高效的工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/RenderHogs.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/332173378312.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518156514-d256fd"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1AX_19EtXWTagvl62UTewJg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7sRpBQeM41h"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "v403"
+    }
+  }
+}

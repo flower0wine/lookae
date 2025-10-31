@@ -1,0 +1,52 @@
+{
+  "title": "特殊编码加速输出渲染AE/PR/AME插件 AfterCodecs v1.10.6 Mac苹果版",
+  "slug": "te-shu-bian-ma-jia-su-shu-chu-xuan-ran-ae-pr-amecha-jian-aftercodecs-v1-10-6-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2022/01/13 10:49",
+  "source_url": "https://www.lookae.com/aftercodecs-mac-1106/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac版",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Media Encoder 设计的高性能视频编码输出插件，支持 H.264、H.265 和 ProRes 等专业编码格式。相比软件自带的导出功能，该插件提供更快的渲染速度、更小的文件体积以及更高的画质，并支持丰富的参数自定义。插件填补了 Adobe 软件在专业编解码器方面的空白，无需依赖 QuickTime 即可在 .MOV 和 .MP4 容器中输出多种高质量格式，适用于从预览到最终交付的各类工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AfterCodecs-197.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": "After Effects: 2022,2021,2020,CC2019,CC2018,CC2017,CC2015.3,CC2015,CC2014; Premiere: 2022,2021,2020,CC2019,CC2018,CC2017,CC2015.3,CC2015,CC2014; Media Encoder: 2022,2021,2020,CC2019,CC2018,CC2017,CC2015,CC2014",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-536268479-489d06"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/16kMyaOquqt66HtmBO5m2cQ?pwd=6vtj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/gxAzv6DvLnK"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "tutorial_links": [
+      {
+        "name": "城通网盘教程",
+        "url": "https://tc5.us/file/680462-406407782"
+      },
+      {
+        "name": "百度网盘教程",
+        "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+      }
+    ],
+    "beta_version_link": "https://www.lookae.com/aftercodecs-22/",
+    "beta_version": "AfterCodecs v2.2.0beta1 Mac/Win 测试版"
+  }
+}

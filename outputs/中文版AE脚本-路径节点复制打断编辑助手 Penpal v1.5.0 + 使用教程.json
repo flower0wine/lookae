@@ -1,0 +1,52 @@
+{
+  "title": "中文版AE脚本-路径节点复制打断编辑助手 Penpal v1.5.0 + 使用教程",
+  "slug": "zhong-wen-ban-aejiao-ben-lu-jing-jie-dian-fu-zhi-da-duan-bian-ji-zhu-shou-penpal-v1-5-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-05-17T08:20:00",
+  "source_url": "https://www.lookae.com/penpal-150/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Penpal",
+    "中文版脚本",
+    "路径节点助手"
+  ],
+  "content": "Penpal允许您以After Effects不具备的方式编辑路径，是您新的、友好的路径编辑助手。与Illustrator等专用矢量工具相比，在After Effects中调整路径点和切线一直是一种令人沮丧的体验。Penpal提供了40多种功能，可以轻松完成许多原生After Effects无法实现的操作，甚至包括一些Illustrator也做不到的事情。脚本通过HTML面板显示路径表示，允许用户选择路径、点或切线，并通过不同的功能选项卡进行操作。v1.5版本新增了镜像路径、移动切线等功能，并修复了之前版本的一些问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Penpal-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336920998068.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-580649748-65dd08?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1N_eW82AgyZ56Ef3T6-bBPQ?pwd=h3i2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/NNd14czL2er"
+    }
+  ],
+  "other": {
+    "official_languages": [
+      "中文",
+      "德文",
+      "意大利文",
+      "日文",
+      "葡萄牙文",
+      "俄文",
+      "西班牙文"
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "h3i2"
+    }
+  }
+}

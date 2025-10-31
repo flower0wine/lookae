@@ -1,0 +1,55 @@
+{
+  "title": "更新：Trapcode Suite 12.1.0 （Win_Mac）32-64位",
+  "slug": "geng-xin-trapcode-suite-12-1-0-win-mac-32-64wei",
+  "author": "大众脸",
+  "post_date": "2012-10-29T14:54:00Z",
+  "source_url": "https://www.lookae.com/tcsuite-12-1-0/",
+  "category": "aechajian",
+  "tags": [
+    "Trapcode Suite",
+    "更新"
+  ],
+  "content": "Trapcode Suite 12.1.0 是 Red Giant 推出的最新版本，支持 Windows 和 Mac 系统，兼容 32 位和 64 位 After Effects。本次更新包含多个插件的升级与新增功能，涵盖 3D 设计、粒子效果、灯光照明等多个方面，显著提升渲染效率与创作能力。主要亮点包括：新插件 Trapcode Mir 的引入，支持基于 OpenGL 的高速 3D 渲染；新增由 David Vinson 提供的 105 个广播级预设；Particular、Form、Lux 等核心插件均获得功能增强与错误修复。所有插件均支持跨平台使用，适用于专业影视后期制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/10/Trapcode-Suite-12.1.0.jpg"
+  ],
+  "video_urls": [
+    "http://v.youku.com/v_show/id_XNDY4MzU1NDY0.html"
+  ],
+  "supported_versions": "After Effects 32-64位",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版本：Trapcode Suite 12.1.0（32-64位）含SN",
+      "url": "http://www.ctdisk.com/file/10687060"
+    },
+    {
+      "name": "Mac版本：Trapcode Suite 12.1.0 含SN",
+      "url": "http://www.ctdisk.com/file/10686256"
+    }
+  ],
+  "other": {
+    "original_author": "大众脸",
+    "translation_note": "大脸翻译：英文水平有限，可能跟原意有所出入",
+    "sponsored_link": "https://me.alipay.com/lookae",
+    "related_links": [
+      "https://www.lookae.com/trapcode-suite-12-0/",
+      "https://www.lookae.com/red-giant-trapcode-for-ae32bit64bit/",
+      "https://www.lookae.com/red-giant-magic-bullet-suite11-3-chs/",
+      "https://www.lookae.com/effects-suite-11/"
+    ],
+    "plugin_list": [
+      "Trapcode 3D Stroke 2.6.1",
+      "Trapcode Echospace 1.1.2",
+      "Trapcode Form 2.0.4",
+      "Trapcode Horizon 1.1.2",
+      "Trapcode Lux 1.3.0",
+      "Trapcode Mir 2.1.2",
+      "Trapcode Particular 2.2.0",
+      "Trapcode Shine 1.6.1",
+      "Trapcode Sound Keys 1.2.1",
+      "Trapcode Starglow 1.6.1"
+    ],
+    "note": "网站资源仅供参考，请自觉购买正版，使用正版。"
+  }
+}

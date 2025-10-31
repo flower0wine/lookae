@@ -1,0 +1,35 @@
+{
+  "title": "After Effects CC 插件 MAXON CINEWARE 中文版（感谢Z汉化）",
+  "slug": "after-effects-cc-cha-jian-maxon-cineware-zhong-wen-ban-gan-xie-zyi-hua",
+  "author": "大众脸",
+  "post_date": "2013-08-06T14:06:00",
+  "source_url": "https://www.lookae.com/cineware-zh/",
+  "category": "aechajian",
+  "tags": [
+    "AECC",
+    "AE汉化插件"
+  ],
+  "content": "MAXON CINEWARE 是 After Effects CC 的一款全新插件，用于与 Cinema 4D 协同工作。虽然 C4D Lite 可更新官方中文语言包，但官方未提供 CINEWARE 插件接口的中文版本。本版本为第三方汉化测试版，适用于 Adobe CC 系列中的 After Effects CC 简体中文版。部分用户反馈替换文件后仍显示英文，可通过删除特定路径下的英文字符串文件来强制使用中文界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/08/CINEWARE-ZH.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "After Effects CC 插件 MAXON CINEWARE 汉化中文版",
+      "url": "https://www.400gb.com/file/27046509"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/adobecc/",
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aecc/",
+      "https://www.lookae.com/tag/ae%e6%b1%89%e5%8c%96%e6%8f%92%e4%bb%b6/"
+    ],
+    "note": "感谢摇摆影音 Z 汉化。该汉化仅为测试用途，可能存在兼容性问题。若出现英文界面，可尝试删除 res/strings/str_en_US.txt 文件以强制启用中文。"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "AE插件-人工智能视频扭曲跟踪合成插件 Neural Warp v1.5.26 Win/Mac+使用教程",
+  "slug": "aecha-jian-ren-gong-zhi-neng-shi-pin-niu-qu-gen-zong-he-cheng-cha-jian-neural-warp-v1-5-26-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/06/19 09:52",
+  "source_url": "https://www.lookae.com/neural-warp-1526/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Neural Warp 是一种用于弹性变形的新型人工智能插件，提供了一种根据另一图层的运动自动扭曲元素的全新方法，无需手动跟踪。插件包含两种变形模式：一种适用于时间上平滑的变形，另一种则用于直接的逐帧变形。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/02/Neural-Warp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/451036630357.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1518547390-5f9e42?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hAtpHXH67jQWgUYjsjaXUQ?pwd=z7qs"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/mwgKZQN8ZWr"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.5.26更新内容：启用对 NVIDIA 5xxx 系列的支持。修复与其他一些第三方插件的加载冲突。",
+    "access_password": {
+      "城通网盘": "6688"
+    }
+  }
+}

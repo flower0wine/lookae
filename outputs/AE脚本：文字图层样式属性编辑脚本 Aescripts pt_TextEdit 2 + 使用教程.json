@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本：文字图层样式属性编辑脚本 Aescripts pt_TextEdit 2 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-tu-ceng-yang-shi-shu-xing-bian-ji-jiao-ben-aescripts-pt-textedit-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/08/12 10:59",
+  "source_url": "https://www.lookae.com/textedit/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "可简单快速地修改文字图层的任何属性，支持文字预设的使用和自定义，并能将文字属性一键应用到其他图层。该脚本允许用户在整个 After Effects 项目中搜索并编辑文字图层，创建自己的文字样式预设，并通过单击按钮将其应用于多个图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/TextEdit-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：文字图层样式属性编辑脚本 Aescripts pt_TextEdit 2 + 使用教程",
+      "url": "https://www.400gb.com/file/112202048"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_link": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Panels"
+  }
+}

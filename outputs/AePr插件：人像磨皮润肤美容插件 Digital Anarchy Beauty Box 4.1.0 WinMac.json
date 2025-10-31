@@ -1,0 +1,49 @@
+{
+  "title": "Ae/Pr插件：人像磨皮润肤美容插件 Digital Anarchy Beauty Box 4.1.0 Win/Mac",
+  "slug": "ae-prcha-jian-ren-xiang-mo-pi-run-fu-mei-rong-cha-jian-digital-anarchy-beauty-box-4-1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2017-02-13T12:57:00Z",
+  "source_url": "https://www.lookae.com/beautybox-41/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Digital Anarchy 的 Beauty Box 是一款专为视频后期设计的人像磨皮润肤美容插件，支持在 After Effects 和 Premiere Pro 中实时渲染（特定GPU下）。该插件利用先进的面部识别与平滑算法，自动检测肤色并去除皮肤瑕疵，如粉刺、红斑等，同时保留面部关键细节，避免过度模糊或空气刷感。适用于电影、广告和音乐视频制作，被 Park Road Post Production、NBC、Universal Music 等公司广泛使用。无需手动绘制遮罩或逐帧修图，显著提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/Beauty-Box.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 – CC 2017\nAdobe Premiere Pro CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/hOs171191362"
+    },
+    {
+      "name": "Mac 版下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/wol171191174"
+    },
+    {
+      "name": "Win 版下载（百度云）",
+      "url": "https://pan.baidu.com/s/1pLHHen5"
+    },
+    {
+      "name": "Mac 版下载（百度云）",
+      "url": "https://pan.baidu.com/s/1dE6VPRj"
+    }
+  ],
+  "other": {
+    "official_website": "http://digitalanarchy.com/beautyVID/main.html",
+    "related_links": [
+      "https://www.lookae.com/beauty4010/",
+      "https://www.lookae.com/beautybox-305/",
+      "https://www.lookae.com/tag/fcpx/",
+      "https://lookae.taobao.com/category-766045292.htm"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "shop_link": "https://lookae.taobao.com/"
+  }
+}

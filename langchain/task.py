@@ -11,8 +11,11 @@ from typing import Any, Dict, List, Optional, Sequence
 # Async logger and LLM client are guaranteed installed per project spec
 import logging
 from litellm import acompletion
+import sys
+from langchain.model_pool import get_model
 
 logger = logging.getLogger()
+
 
 # -------------------------------
 # Data structures
@@ -108,25 +111,57 @@ async def _invoke_with_retries(
     last_response: Optional[Dict[str, Any]] = None
     parsed_json: Optional[Dict[str, Any]] = None
     output_path: Optional[Path] = None
+    # track the model used for the current attempt (may change across retries)
+    current_model: str = task.model
 
     while attempts <= max_retries:
         try:
             attempts += 1
             logger.info(
-                f"Starting task for model={task.model}, attempt={attempts}/{max_retries + 1}"
+                f"Starting task for model={current_model}, attempt={attempts}/{max_retries + 1}"
             )
 
-            coro = acompletion(model=task.model, messages=list(task.messages))
+            coro = acompletion(model=current_model, messages=list(task.messages))
             resp: Dict[str, Any] = await asyncio.wait_for(coro, timeout=timeout)
             last_response = resp
 
-            text = (
-                (resp.get("choices") or [{}])[0]
-                .get("message", {})
-                .get("content")
-            )
+            # check provider-level success; require choices[0].message.content
+            choices = resp.get("choices")
+            text = None
+            if isinstance(choices, list) and choices:
+                text = (choices[0] or {}).get("message", {}).get("content")
             if not text:
-                raise RuntimeError("Empty response content")
+                # non-successful response though request returned; try switching model if retries left
+                # attempt to extract error info if present
+                err_block = resp.get("error") or resp.get("status") or {}
+                err_code = None
+                err_msg = None
+                if isinstance(err_block, dict):
+                    err_code = err_block.get("code") or err_block.get("status_code")
+                    err_msg = err_block.get("message") or err_block.get("msg")
+                last_error = (
+                    f"Non-success response: code={err_code} message={err_msg}"
+                    if (err_code or err_msg)
+                    else "Non-success response: missing choices/content"
+                )
+                logger.warning(
+                    f"Model={current_model} attempt={attempts} got non-success response; {last_error}"
+                )
+                if attempts <= max_retries:
+                    # switch model from pool and retry
+                    try:
+                        new_model = await get_model()
+                        logger.info(
+                            f"Switching model for retry: {current_model} -> {new_model} (attempt {attempts+1}/{max_retries+1})"
+                        )
+                        current_model = new_model
+                    except Exception as e:  # noqa: BLE001
+                        logger.warning(f"Failed to get model from pool: {e}")
+                    # backoff before next attempt
+                    await asyncio.sleep(min(2 ** (attempts - 1), 5))
+                    continue
+                else:
+                    raise RuntimeError(last_error)
 
             json_text = _extract_json_text(text, json_regex)
             if not json_text:
@@ -137,16 +172,13 @@ async def _invoke_with_retries(
                 raise RuntimeError("Failed to parse JSON text")
 
             # Save
-            filename = task.output_filename or _make_output_filename(task.model, index)
+            filename = task.output_filename or _make_output_filename(current_model, index)
             output_path = (output_dir / filename).resolve()
             await _save_json_async(output_path, parsed)
 
-            logger.info(
-                f"Task success model={task.model} saved={output_path}"
-            )
             parsed_json = parsed
             return TaskResult(
-                model=task.model,
+                model=current_model,
                 ok=True,
                 response=last_response,
                 parsed=parsed_json,
@@ -164,7 +196,7 @@ async def _invoke_with_retries(
         except Exception as e:  # noqa: BLE001
             last_error = str(e)
             logger.warning(
-                f"Error model={task.model} attempt={attempts}: {last_error}"
+                f"Error model={current_model} attempt={attempts}: {last_error}"
             )
 
         # simple backoff
@@ -173,7 +205,7 @@ async def _invoke_with_retries(
 
     # Final failure
     return TaskResult(
-        model=task.model,
+        model=current_model,
         ok=False,
         response=last_response,
         parsed=None,
@@ -187,9 +219,8 @@ async def _invoke_with_retries(
 async def run_tasks_parallel(
     tasks: Sequence[TaskSpec],
     *,
-    concurrency: int = 3,
     timeout: int = 60,
-    max_retries: int = 1,
+    max_retries: int = 100000,
     output_dir: str | Path = "outputs",
     json_regex: Optional[re.Pattern] = None,
 ) -> List[TaskResult]:
@@ -202,22 +233,64 @@ async def run_tasks_parallel(
     """
     out_dir = Path(output_dir)
     logger.info(
-        f"Starting run_tasks_parallel: tasks={len(tasks)}, concurrency={concurrency}, timeout={timeout}, max_retries={max_retries}, output_dir={out_dir}"
+        f"Starting run_tasks_parallel: tasks={len(tasks)}, timeout={timeout}, max_retries={max_retries}, output_dir={out_dir}"
     )
 
-    sem = asyncio.Semaphore(concurrency)
+    # Note: sequential async execution (no concurrency) for maintainability and stability
     results: List[Optional[TaskResult]] = [None] * len(tasks)
 
-    async def _runner(i: int, t: TaskSpec) -> None:
-        async with sem:
-            res = await _invoke_with_retries(
-                t, timeout=timeout, max_retries=max_retries, json_regex=json_regex, output_dir=out_dir, index=i
-            )
-            results[i] = res
+    # Total-time ticker displayed at the bottom and updated periodically
+    start_total = time.perf_counter()
+    done_event = asyncio.Event()
 
-    await asyncio.gather(*[_runner(i, t) for i, t in enumerate(tasks)])
+    async def _ticker() -> None:
+        # Update every 0.5s
+        while not done_event.is_set():
+            elapsed = time.perf_counter() - start_total
+            # Print on the same line to act as a dynamic footer
+            sys.stdout.write(f"\rTotal elapsed: {elapsed:.1f}s")
+            sys.stdout.flush()
+            try:
+                await asyncio.wait_for(done_event.wait(), timeout=0.5)
+            except asyncio.TimeoutError:
+                continue
+        sys.stdout.write("\n")
+        sys.stdout.flush()
+
+    # Run ticker concurrently with the tasks
+    ticker_task = asyncio.create_task(_ticker())
+    
+    async def _run_one(i: int, t: TaskSpec) -> TaskResult:
+        start_ts = time.perf_counter()
+        res = await _invoke_with_retries(
+            t, timeout=timeout, max_retries=max_retries, json_regex=json_regex, output_dir=out_dir, index=i
+        )
+        duration_s = time.perf_counter() - start_ts
+        results[i] = res
+        # Log execution time and outcome for this task
+        if res.ok:
+            logger.info(
+                f"Task finished index={i} model={res.model} status=success "
+                f"retries={res.retries} saved={res.output_path} duration={duration_s:.3f}s"
+            )
+        else:
+            logger.error(
+                f"Task finished index={i} model={res.model} status=fail "
+                f"retries={res.retries} error={res.error} duration={duration_s:.3f}s"
+            )
+        return res
+    try:
+        coros = [_run_one(i, t) for i, t in enumerate(tasks)]
+        await asyncio.gather(*coros)
+
+    finally:
+        # Stop ticker, print final line with newline
+        done_event.set()
+        await ticker_task
+        final_elapsed = time.perf_counter() - start_total
+        sys.stdout.write(f"\rTotal elapsed: {final_elapsed:.1f}s\n")
+        sys.stdout.flush()
 
     # type: ignore[return-value]
     return [r for r in results if r is not None]
-
 

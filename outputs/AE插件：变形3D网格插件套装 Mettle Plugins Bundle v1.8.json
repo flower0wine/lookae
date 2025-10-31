@@ -1,0 +1,35 @@
+{
+  "title": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle v1.8",
+  "slug": "aecha-jian-bian-xing-3dwang-ge-cha-jian-tao-zhuang-mettle-plugins-bundle-v1-8",
+  "author": "大众脸",
+  "post_date": "2015/12/17 17:57",
+  "source_url": "https://www.lookae.com/mettle18/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle公司是AE重要的插件提供商，插件虽然不多但很精良。最新变形3D网格插件套装Mettle Bundle V1.8更新支持Adobe CC 2015，加入了全景环境贴图插件SkyBox，其他插件也做了相应的更新。插件为一键安装版，安装即可使用，无功能限制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/Mettle-Bundle.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Win版",
+  "download_links": [
+    {
+      "name": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle v1.8",
+      "url": "https://lookae.400gb.com/file/138637225"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "FreeForm V2.11 - 网格变形插件（普通版）",
+      "FreeForm Pro v1.83 - 3D网格变形插件（专业版）",
+      "ShapeShifter v1.8 - 3D立体文字插件",
+      "SkyBox v1.12 - 360°环境贴图反射插件",
+      "SkyBox Creator v2.2",
+      "SkyBox Extractor v1.2"
+    ],
+    "official_website": "http://www.mettle.com/"
+  }
+}

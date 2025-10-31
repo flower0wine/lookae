@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-关键帧标记名称注释快速预览工具 MarKey V1.0",
+  "slug": "aejiao-ben-guan-jian-zheng-biao-ji-ming-cheng-zhu-shi-kuai-su-yu-lan-gong-ju-markey-v1-0",
+  "author": "大众脸",
+  "post_date": "2023/08/30 14:46",
+  "source_url": "https://www.lookae.com/markey/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "使用标记快速预览关键帧，而不浪费时间轴上的空间！不再尝试同时查看多个关键帧图层。使用 MarKey 非常简单 – 只需选择所需的图层，单击按钮，然后观看所有关键帧快速转换为标记！每个标记都有一个简短的名称，该名称源自关键帧属性名称。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/MarKey-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/424928524699.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-927089697-fd84f1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/10u1Qt5xSyujwh4RPDK361g?pwd=8awa"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7BxYi8d6L9Q"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "8awa"
+  }
+}

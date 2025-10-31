@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：映射标记调整工具 AEscripts Marker Remap v1.2 + 使用教程",
+  "slug": "aejiao-ben-ying-she-biao-ji-diao-zheng-gong-ju-aescripts-marker-remap-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/10/21 16:07",
+  "source_url": "https://www.lookae.com/marker-remap/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该AE脚本为映射标记调整工具AEscripts Marker Remap v1.2 ，其允许通过两个简单步骤，使用分割层标记重新计时合成。先添加时间线标记分割关键操作，放置到父组件选中后点击ENABLE RETIMING即可。脚本还能对层标记进行调整、删除等操作。官网地址为https://aescripts.com/marker-remap/ ，适用于Win/Mac系统下AE CC 2019, CC 2018, CC 2017或更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Marker-Remap.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/211554343831.mp4?_=1"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-315803466"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ExwE3M98KVqRWcUxQ9xlBg"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

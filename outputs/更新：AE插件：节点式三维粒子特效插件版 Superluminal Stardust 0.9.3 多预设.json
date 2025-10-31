@@ -1,0 +1,62 @@
+{
+  "title": "更新：AE插件：节点式三维粒子特效插件版 Superluminal Stardust 0.9.3 多预设",
+  "slug": "geng-xin-aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-ban-superluminal-stardust-0-9-3-duo-yu-she",
+  "author": "大众脸",
+  "post_date": "2016/12/08 11:23",
+  "source_url": "https://www.lookae.com/stardust093/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust"
+  ],
+  "content": "Stardust 是AE软件新一代节点式的三维粒子插件，拥有独立的操控界面，功能强大，含多种预设，可轻松制作出漂亮而复杂的效果。支持发射器、粒子、复制、力场、辅助发射器、3D模型、文字、Mask、路径等多种控制模式。该插件适用于 Adobe After Effects CC 至 CC 2017 版本，现已正式发布并可免费下载。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/Stardust-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2WUUecH1K.eBjSsphXXcJOXXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.3",
+      "url": "http://lookae.ctfile.com/fs/TPI162981833"
+    },
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.3",
+      "url": "https://pan.baidu.com/s/1c2vFmF2"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.1",
+      "url": "http://lookae.ctfile.com/fs/r88161067043"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.1",
+      "url": "https://pan.baidu.com/s/1c14lmkK"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "三维粒子系统",
+      "基于节点操控界面（在简单的三维空间中容易的创建复杂的粒子系统）",
+      "添加或修改粒子预置效果（多种预设动画）",
+      "复制功能（一个独特的工具，用来来复制粒子创造更多令人兴奋的效果）",
+      "无限的 2D和3D粒子 控制",
+      "发射器，粒子，复制，力场，辅助发射器，3D模型，文本和，Maks，路径等",
+      "空间变形器、球体、方形/盒子、3D模型、弯曲、扭曲、路径、Black Hole",
+      "Splines 样条（动画的路径和发射器）",
+      "在球体、盒子或三维模型中封装或发射颗粒"
+    ],
+    "update_log": [
+      "OBJ三维文件发射器，支持高大5倍的OBJ文件",
+      "修正非标准文件/文件夹名称字符（即非英文路径）的问题",
+      "修正当设置阴影开/关时的缓存问题",
+      "修正设置纹理粒子的“拉伸”时的变形问题",
+      "修正读取OBJ法线的问题",
+      "修正阴影颜色有时不更新的问题"
+    ],
+    "official_website": "http://aescripts.com/stardust/"
+  }
+}

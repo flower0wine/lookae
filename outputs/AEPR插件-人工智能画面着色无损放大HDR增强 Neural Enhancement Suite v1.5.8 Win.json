@@ -1,0 +1,53 @@
+{
+  "title": "AE/PR插件-人工智能画面着色无损放大HDR增强 Neural Enhancement Suite v1.5.8 Win",
+  "slug": "ae-prcha-jian-ren-gong-zhi-neng-hua-mian-zhao-se-wu-sun-fang-da-hdrzeng-qiang-neural-enhancement-suite-v1-5-8-win",
+  "author": "大众脸",
+  "post_date": "2023-11-18T23:08:00",
+  "source_url": "https://www.lookae.com/neural-158/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Neural Enhancement",
+    "PR插件",
+    "人工智能"
+  ],
+  "content": "Neural Enhancement Suite 是一个基于AI人工智能驱动的工具集，用于视频增强，以实现以前在After Effects中无法实现的效果。提供CPU和GPU两个版本，GPU版本的插件需要Nvidia显卡。该工具集支持基于提示的着色、基于示例的着色、超高分辨率无损放大、弱光增强和HDR重映射等功能，适用于After Effects 2022-2024及Premiere 2022-2024版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Neural-Enhancement.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355978151602.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2023, 2024; Premiere 2022, 2023",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-976486195-297ce7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cq_Z9w2UOvnw-nLdZfBfig?pwd=67a0"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/WSfZMX4jX4w"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.5.8更新：修复启用多处理时播放期间的崩溃问题",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "67a0"
+    },
+    "features": [
+      "基于提示的着色",
+      "基于示例的着色",
+      "超高分辨率无损放大（最高可达16倍像素）",
+      "弱光增强",
+      "HDR重映射"
+    ],
+    "gpu_requirement": "GPU版本需要Nvidia显卡",
+    "description_en": "Neural Enhancement Suite is an A.I. powered toolset for AI based video enhancement to achieve results not previously possible in After Effects."
+  }
+}

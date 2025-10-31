@@ -1,0 +1,72 @@
+{
+  "title": "AK插件Element 3d 1.0.345-英文/中文完美版(模型库6套)9月10日更新最新补丁",
+  "slug": "akcha-jian-element-3d-1-0-345-ying-wen-zhong-wen-wan-mei-ban-mo-xing-ku-6tao-9yue-10ri-geng-xin-zui-xin-bu-ding",
+  "author": "大众脸",
+  "post_date": "2012/08/27 11:22",
+  "source_url": "https://www.lookae.com/e3d-chn/",
+  "category": "aechajian",
+  "tags": [
+    "插件",
+    "汉化"
+  ],
+  "content": "千呼万唤的 Element 3d 插件终于完美了，大家赶快来陶醉吧。（亲测可用）\n\nElement 3D 是 VideoCopilot 最新推出的 3D 类型 AE 插件，功能强大：内置多种基本模型，支持 OBJ/C4D 直接导入，具备强大的粒子动画系统；支持材质编辑，控制能力接近专业三维软件，并内置多种材质类型；内置灯光系统，支持灯光反射与环境天空效果；采用自研 OpenGL 渲染引擎，兼容 AE CS3 及以上版本。\n\n插件汉化由梦游街 caorun.net 提供，感谢曹润老师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/08/E3D-CHN.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS3及以上版本",
+  "supported_os": "Windows（已支持Windows 8），Mac暂无注册支持",
+  "download_links": [
+    {
+      "name": "Element 3d 1.0.345 – 英文/中文完美版",
+      "url": "http://www.ctdisk.com/file/9025013"
+    },
+    {
+      "name": "VC模型库全集-6套",
+      "url": "http://www.ctdisk.com/file/9045406"
+    },
+    {
+      "name": "E3D最新注册补丁程序9月10日更新",
+      "url": "http://www.ctdisk.com/file/9547365"
+    },
+    {
+      "name": "173种材质包及163种水花模型包Mac/Win",
+      "url": "https://item.taobao.com/item.htm?spm=a1z10.3.w4002-2793086484.61.Ap0rme&id=19341174489"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "更新：AK插件 Element 3D 实例教程",
+        "url": "https://www.lookae.com/e3d-jc2/"
+      },
+      {
+        "title": "Element3D PC+MAC 体验版（附安装说明）",
+        "url": "https://www.lookae.com/element3d-pcmac/"
+      },
+      {
+        "title": "videocopilot 最新插件Element 3D操作教程",
+        "url": "https://www.lookae.com/videocopilot-element-3d/"
+      },
+      {
+        "title": "Element 3D工作流程教程【中文字幕】",
+        "url": "http://115.com/file/benporas#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集–英文原版",
+        "url": "http://115.com/file/benmepto#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集–中文字幕",
+        "url": "http://115.com/file/beno9lkj#"
+      }
+    ],
+    "registration_notes": [
+      "本注册仅针对Windows系统（已支持Windows8系统），Mac暂无注册",
+      "本注册可以注册主程序+模型包+材质包",
+      "理论上解决所有“invalid license”问题，其他问题与注册无关，注意将显卡驱动更新至官网最新版本",
+      "如果以前安装过各种乱七八糟版本的Element 3D，建议全部删除（插件文件夹、我的文档、ProgramData）后全新安装",
+      "其他步骤请参考英文说明"
+    ]
+  }
+}

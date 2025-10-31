@@ -1,0 +1,41 @@
+{
+  "title": "AE插件：艺术创意视觉化特效Aescripts Transfusion V1.4.0 + 使用教程",
+  "slug": "aecha-jian-yi-zhu-chuang-yi-shi-jue-hua-te-xiao-aescripts-transfusion-v1-4-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-09-25T12:46:00Z",
+  "source_url": "https://www.lookae.com/transfusion-14/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Transfusion 插件可将图像或视频在 After Effects 中智能转换为多种个性化艺术风格，是首个将 AI（人工智能）风格迁移技术引入 AE 的工具，让运动设计师和视频编辑者也能轻松实现创意视觉化效果。该插件支持多版本 After Effects，并持续更新以提升稳定性与画质表现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Transfusion.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50214148755.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-311771310"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/12Ror9doxT53i8NJw9Qavjw"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/transfusion/",
+    "update_notes": "New option to reduce flickering and improve frame-to-frame consistency: 'Start from last result'. When activated, this feature uses the last rendered frame as the input frame, resulting in a much smoother output when working with video.",
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "related_tags": [
+      "ae插件"
+    ]
+  }
+}

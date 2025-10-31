@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本：三维透视多画面视频墙扭曲变形画轴效果 AEscripts Transformer v2.03+视频教程",
+  "slug": "aejiao-ben-san-wei-tou-shi-duo-hua-mian-shi-pin-qiang-niu-qu-bian-xing-hua-zhou-xiao-guo-aescripts-transformer-v2-03-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/07/29 14:32",
+  "source_url": "https://www.lookae.com/transformer203/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Transformer脚本是一款强大的画面转换和动画工具，可将图层扭曲变形，制作多画面视频墙效果，且带有视频使用教程。v2.03版本进行了错误BUG修复以及修复在AE CS6中崩溃的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/03/transformer.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2EDxujR0lpuFjSszdXXcdxFXa_!!705956171.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/b/y/bymask_2.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/s/c/screenwall_2.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/b/e/bend_2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-300591991"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1WP5-_MqUfCqD7j9I1qip9A"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本简介": "Transformer脚本为一款强大的画面转换和动画工具；可以将图层扭曲变形，制作多画面视频墙效果，带视频使用教程Powerful footage transformation and animation tool for After EffectsHome – http://aescripts.com/transformer/",
+    "脚本安装": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane\\",
+    "脚本使用": "在AE软件中点击 Window（窗口菜单）即可找到脚本。"
+  }
+}

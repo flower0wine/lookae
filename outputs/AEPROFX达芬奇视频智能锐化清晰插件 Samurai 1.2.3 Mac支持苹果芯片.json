@@ -1,0 +1,46 @@
+{
+  "title": "AE/PR/OFX/达芬奇视频智能锐化清晰插件 Samurai 1.2.3 Mac支持苹果芯片",
+  "slug": "ae-pr-ofx-da-fen-qi-shi-pin-zhi-neng-rui-hua-qing-xi-cha-jian-samurai-1-2-3-maczhi-chi-ping-guo-xin-pian",
+  "author": "大众脸",
+  "post_date": "2022/11/04 11:06",
+  "source_url": "https://www.lookae.com/samurai-123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "OFX",
+    "PR插件",
+    "达芬奇插件",
+    "锐化插件"
+  ],
+  "content": "Samurai 是一款适用于 AE、PR、OFX 和 DaVinci Resolve 的视频智能锐化插件，具备边缘感知锐化技术，可在增强画面细节的同时保护皮肤、阴影和高光区域。内置遮罩工具可精准控制锐化区域，提升视频清晰度。支持 GPU 加速渲染，适用于需要提升画面锐利感的各类视频素材。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Samurai-CHN.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/346122435548.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023; PR CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023; Davinci Resolve, Nuke 或其他 OFX 程序",
+  "supported_os": "Mac（支持 M1, M2, Intel 芯片），不支持 Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-715261659-a677d1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1nXwQ-qIeq9ftAAz4I19BMA?pwd=6fm5"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/8bQDGTLnHdN"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "6fm5"
+    },
+    "windows_version_link": "https://www.lookae.com/digital-anarchy-202111/"
+  }
+}

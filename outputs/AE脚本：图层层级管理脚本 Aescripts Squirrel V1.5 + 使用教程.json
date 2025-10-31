@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本：图层层级管理脚本 Aescripts Squirrel V1.5 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-ceng-ji-guan-li-jiao-ben-aescripts-squirrel-v1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/08/11 10:02",
+  "source_url": "https://www.lookae.com/squirrel15/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可将图层以层级方式管理，便于查找、修改和操作。官网地址为https://aescripts.com/squirrel/ ，1.5版本更新内容包括改进性能、实现剪切复制粘贴按钮、增加A/V开关 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/01/Squirrel.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（脚本）",
+      "url": "https://lookae.ctfile.com/fs/680462-302891665"
+    },
+    {
+      "name": "百度网盘下载（脚本）",
+      "url": "https://pan.baidu.com/s/1grFUf4QauxmqfvDwfHkE2Q"
+    },
+    {
+      "name": "城通网盘下载（使用教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-234752512"
+    },
+    {
+      "name": "百度网盘下载（使用教程）",
+      "url": "https://pan.baidu.com/s/1mjBaT08"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件(https://www.lookae.com/after-effects/aechajian/)",
+      "AE脚本(https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects(https://www.lookae.com/after-effects/)"
+    ],
+    "淘宝店链接": "https://lookae.taobao.com/",
+    "赞助链接": "https://www.lookae.com/sponsor/"
+  }
+}

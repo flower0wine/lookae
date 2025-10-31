@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-表达式语言报错修复脚本 Expression Universalizer 3.1.2 + 使用教程",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-jiao-ben-expression-universalizer-3-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-11 22:03",
+  "source_url": "https://www.lookae.com/expression-312/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Expression Universalizer 是一款用于解决因 After Effects 软件语言版本不同而导致表达式报错的脚本。当用户打开由不同语言版本AE制作的模板或工程时，原有的表达式可能会因语言不兼容而出现错误。该脚本能够自动转换表达式，使其兼容任何语言版本的 After Effects，有效解决错误弹窗问题。压缩包内包含脚本文件及详细使用教程。3.1.2 版本修复了从 KBar 启动的问题、属性效果索引错误、效果名称含空格时的表达式问题，并增加了对 kbar 及其他脚本启动服务的支持、删除禁用表达式的选项等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ExpressionUniversalizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-364752294"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YnaPkXgH3qYe2UuQfSzMOw"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "4xl6",
+    "official_website": "https://aescripts.com/expressionuniversalizer/",
+    "taobao_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "credit": "MONTER GROUP©, Thank you."
+  }
+}

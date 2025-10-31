@@ -1,0 +1,51 @@
+{
+  "title": "AE/PR插件-红巨人视觉特效+转场插件包 Red Giant Universe v2.2.5 CE Win一键安装版",
+  "slug": "ae-prcha-jian-hong-ju-ren-shi-jue-te-xiao-zhuan-chang-cha-jian-bao-red-giant-universe-v2-2-5-ce-winyi-jian-an-zhuang-ban",
+  "author": "大众脸",
+  "post_date": "2019/02/22 13:41",
+  "source_url": "https://www.lookae.com/universe-225/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Red Giant Universe（现称“群集特效插件套装”）是一个整合了多种视觉特效和转场效果的插件包，专为后期制作设计。该套装包含超过100种特效和转场插件，涵盖调色、光效、粒子预设等多种类型，并支持GPU加速。插件适用于After Effects、Premiere Pro等主流视频编辑软件，为用户提供高效、高质量的视觉增强工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/06/Universe-2-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Premiere Pro CC (2019-2014), After Effects CC (2019-2014)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-337964212"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bL8k3Id8osaX5vl6KNK9YQ"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Universe Noise: Luminance Noise",
+      "Universe Blur: Compound Blur (Labs)",
+      "Universe Utilities: Color Gamma Conversion",
+      "Universe Glow: Glimmer",
+      "Universe Stylize: Carousel",
+      "Universe Stylize: Holomatrix EZ",
+      "Universe CrumplePop: SplitScreen Blocks",
+      "Universe CrumplePop: SplitScreen Custom Block",
+      "Universe ToonIt: ToonIt Sketch",
+      "ToonIt Paint: Add Halftone (P)",
+      "ToonIt Outlines: Added Chalk presets (P)",
+      "Universe Holomatrix: Added glitching, distortion, flicker and more (P)",
+      "ToonIt Update – new Presets and tools added to the ToonIt tools"
+    ],
+    "more_info_url": "http://www.redgiant.com/universe/universe-tools/",
+    "additional_links": {
+      "official_taobao": "https://lookae.taobao.com/",
+      "sponsor_page": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

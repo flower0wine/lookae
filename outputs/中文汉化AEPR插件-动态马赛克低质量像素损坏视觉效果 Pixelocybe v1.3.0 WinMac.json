@@ -1,0 +1,60 @@
+{
+  "title": "中文汉化AE/PR插件-动态马赛克低质量像素损坏视觉效果 Pixelocybe v1.3.0 Win/Mac",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-dong-tai-ma-sai-ke-di-zhi-liang-xiang-su-sun-pi-shi-jue-xiao-guo-pixelocybe-v1-3-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2024/06/20 10:20",
+  "source_url": "https://www.lookae.com/pixelocybe-130/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "插件Pixelocybe是一种动态马赛克滤镜，它会根据其亮度或输入层的亮度为每个像素生成马赛克块。该插件最强大的功能之一就是它接受第二层作为输入，这允许您将任何输入或过滤器传输到Pixelocybe插件中，从而创建无穷的组合。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Pixelocybe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/284049312687.mp4"
+  ],
+  "supported_versions": "After Effects: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6; Premiere: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-905854278-fd0d08?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1uvPDeMbeWLA5ASfO_A8XNw?pwd=9uaa"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/qUk6rfQVWFx"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1312146532-bb3a8f?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1MweAL6yFvtn_Fv0m_HFC-w?pwd=ek6z"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/HNUUVcbNfeT"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "version": "v1.3.0",
+    "update_notes": [
+      "曲线相位分割（仅限 RGB 过滤）- R/B 分量的附加曲线相移",
+      "修复了构图高度超过 4096 像素的未注册版本的崩溃问题（水印错误）",
+      "修复了在某些条件下使用透明相位时出现的不需要的图像闪烁问题",
+      "Aescripts 框架 v4.0.7 – 改进了许可证检查的稳定性"
+    ],
+    "note": "Win为中英版，Mac为英文版"
+  }
+}

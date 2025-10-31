@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-1500种视频无缝转场字幕条标题图形排版设计调色视觉特效预设包 BASE",
+  "slug": "aejiao-ben-1500chong-shi-pin-wu-feng-zhuan-chang-zi-mu-tiao-biao-ti-tu-xing-pai-ban-she-ji-diao-se-shi-jue-te-xiao-yu-she-bao-base",
+  "author": "大众脸",
+  "post_date": "2021/07/19 09:40",
+  "source_url": "https://www.lookae.com/base-ae/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX"
+  ],
+  "content": "该脚本预设包含视频编辑的所有必要元素。630个转场过渡、550个标题字幕条排版场景文本预设（含社交媒体项目）、105个调色预设、100种效果和叠加以及160个音效FX。使用AtomX脚本调用预设，支持可视化预览，可直接应用于时间线。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/BASE-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/318352012570.mp4"
+  ],
+  "supported_versions": "AE CC 2018 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/xBsPrHQiWYU"
+    },
+    {
+      "name": "城通网盘（访问密码：6688）",
+      "url": "https://089u.com/f/680462-502551998-2ea5d1"
+    },
+    {
+      "name": "百度网盘（提取码：f167）",
+      "url": "https://pan.baidu.com/s/1jl-Wxn9kX61kO3txtv0u3A"
+    }
+  ],
+  "other": {
+    "file_size": "1.1G",
+    "resolution": "不限制",
+    "provided_extension": "AtomX 3.0.5 脚本（已包含）",
+    "audio_info": "无音乐，有转场音效",
+    "usage_help": "安装方法+视频使用教程",
+    "special_note": "安装后请勿移动安装文件，否则失效",
+    "related_resource": "更多AtomX脚本预设下载：https://www.lookae.com/tag/atomx/"
+  }
+}

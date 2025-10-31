@@ -1,0 +1,98 @@
+{
+  "title": "红巨人降噪磨皮美颜调色套装AE/PR/FCPX/达芬奇/VEGAS插件 v16.1.0 Win/Mac",
+  "slug": "hong-ju-ren-jiang-zao-mo-pi-mei-yan-diao-se-tao-zhuang-ae-pr-fcpx-da-fen-qi-vegascha-jian-v16-1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/07/05 12:20",
+  "source_url": "https://www.lookae.com/hjrmb16/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "VEGAS插件",
+    "调色插件",
+    "达芬奇插件"
+  ],
+  "content": "为Looks、Halation和Optical Diffusion添加了2个新的胶片和镜头仿真工具。它还首次展示了新的色彩管理系统Looks中的OpenColorIO – ACES，在混合各种来源、创建可交付成果以及在复杂的后期管线中使用Looks时增加了更好的控制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/HJRMB16.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356297440827.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022; Premiere Pro CC 2019, 2020, 2021, 2022; Davinci Resolve Studio 14 或更高版; Final Cut Pro X 10.5; Avid Media Composer 8.2 或更高版本; Vegas Pro 14 或更高版本; HitFilm Pro 6.0或更高版本; Cinema 4D R23及更高版本; Unreal Engine 4",
+  "supported_os": "Win10 及以上，Mac（支持M1+Intel）",
+  "download_links": [
+    {
+      "name": "Win版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608398441-afb8b9?p=4431"
+    },
+    {
+      "name": "Win版-百度网盘",
+      "url": "https://pan.baidu.com/s/10pFqNLljknTqL1ePA_LGlQ?pwd=mu94"
+    },
+    {
+      "name": "Win版-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/UBD9d53ByZi"
+    },
+    {
+      "name": "Mac版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-608404575-9c6314?p=4431"
+    },
+    {
+      "name": "Mac版-百度网盘",
+      "url": "https://pan.baidu.com/s/1c41XXoAzLKEfJ5QxhOLsfg?pwd=1yj1"
+    },
+    {
+      "name": "Mac版-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/2TyYiTirWVS"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "Colorista V",
+        "version": "v16.1.0",
+        "description": "调色师5（支持Lut）"
+      },
+      {
+        "name": "Cosmo II",
+        "version": "v16.1.0",
+        "description": "润肤磨皮插件"
+      },
+      {
+        "name": "Film",
+        "version": "v16.1.0",
+        "description": "电影质感调色"
+      },
+      {
+        "name": "Looks",
+        "version": "v16.1.0",
+        "description": "调色插件（多预设、支持Lut）"
+      },
+      {
+        "name": "Mojo II",
+        "version": "v16.1.0",
+        "description": "快速调色"
+      },
+      {
+        "name": "Denoiser III",
+        "version": "v16.1.0",
+        "description": "视频降噪插件"
+      },
+      {
+        "name": "Renoiser",
+        "version": "v16.1.0",
+        "description": "噪波颗粒插件"
+      }
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": {
+        "win": "mu94",
+        "mac": "1yj1"
+      }
+    }
+  }
+}

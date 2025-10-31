@@ -1,0 +1,49 @@
+{
+  "title": "AE插件：快速染色/着色插件 VideoCopilot Color Vibrance （Mac/Win）",
+  "slug": "aecha-jian-kuai-su-ran-se-zhao-se-cha-jian-videocopilot-color-vibrance-mac-win",
+  "author": "大众脸",
+  "post_date": "2014-05-30 00:34",
+  "source_url": "https://www.lookae.com/colorvibrance/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac&Win",
+    "VideoCopilot"
+  ],
+  "content": "VideoCopilot 出品的最新AE插件：快速染色/着色插件插件 VideoCopilot Color Vibrance，完全免费。我们在后期制作中，常常会遇见对明暗不一致的效果着色，用曲线和色相饱和度虽然也能完成，但是效果不理想，控制也比较繁琐。这款插件就能快速的对效果图形着色，且明暗突出，层次分明，让着色更加 so easy! 插件还能创建通道和着色效果属性。Intense bright colorization can be tricky so we created a plug-in that makes it easy to achieve HOT colors instantly. Plus it's FREE! We even added some helpful matte tools so you can generate alpha channels from stock footage like SHOCKWAVE and give you more compositing control.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Color-Vibrance-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5, CS6, CC",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "AE插件：快速染色/着色插件插件 VideoCopilot Color Vibrance （Mac/Win）",
+      "url": "https://www.400gb.com/file/65545220"
+    }
+  ],
+  "other": {
+    "related_resources": [
+      {
+        "name": "教程中使用的冲击波素材下载",
+        "url": "https://www.lookae.com/vcmotionpulse/"
+      },
+      {
+        "name": "视频中使用的音效全套下载",
+        "url": "https://www.lookae.com/vcmotionpulse/"
+      },
+      {
+        "name": "LookAE 大众脸官网淘宝店",
+        "url": "https://lookae.taobao.com/"
+      }
+    ],
+    "official_website": "http://www.videocopilot.net/blog/2014/05/new-plug-in-color-vibrance/",
+    "plugin_advantages": [
+      "轻松着色",
+      "能够创建Alpha通道",
+      "适用于多类视频素材",
+      "能够设置颜色衰减/羽化"
+    ]
+  }
+}

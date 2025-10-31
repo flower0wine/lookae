@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-将运动路径链接到所选图层制作跟随动画 Motion Path Pro V1.3",
+  "slug": "aejiao-ben-jiang-yun-dong-lu-jing-lian-jie-dao-suo-xuan-tu-ceng-zhi-zuo-gen-sui-dong-hua-motion-path-pro-v1-3",
+  "author": "大众脸",
+  "post_date": "2025/01/17 08:44",
+  "source_url": "https://www.lookae.com/motion-path-pro-13/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Motion Path Pro 是一款适用于 After Effects 的工具，可将运动路径链接到选定的图层，使用非常简单便捷。只需单击一下即可将现有图层中的蒙版链接到运动路径，动画由 0 到 100 的滑块控制，并支持切换运动路径、自动定向和反向功能。脚本提供简洁的用户界面面板，运行速度极快。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/Motion-Path-Pro.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/472217827403.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1448123707-e1abdc?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Qwvc_IerEBdymrC-EkFBBw?pwd=nxb8"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/eMdryCBA3rX"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "nxb8"
+    },
+    "update_notes": "v1.3更新内容：启动脚本时避免表达式错误"
+  }
+}

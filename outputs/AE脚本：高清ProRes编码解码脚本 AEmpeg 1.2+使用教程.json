@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本：高清ProRes编码解码脚本 AEmpeg 1.2+使用教程",
+  "slug": "aejiao-ben-gao-qing-proresbian-ma-jie-ma-jiao-ben-aempeg-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-08-13T12:06:00Z",
+  "source_url": "https://www.lookae.com/aempeg/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "AEmpeg 是一款强大的 After Effects 脚本，支持通过 FFmpeg 实现高清视频的编码与解码。该脚本可直接在 AE 渲染中调用 FFmpeg，扩展了原生 AE 不支持的多种编解码器，如 ProRes（Windows 系统下可用）。适用于 Windows 与 Mac 系统，内置超过 100 种编解码器，支持创建代理文件，并可自定义输出路径。用户可通过高级设置保存原始文件并生成代理，极大提升后期制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/aempg.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "1.2+",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：高清ProRes编码解码脚本 AEmpeg 1.2+使用教程",
+      "url": "https://www.400gb.com/file/112429490"
+    }
+  ],
+  "other": {
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

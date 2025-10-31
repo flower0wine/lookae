@@ -1,0 +1,53 @@
+{
+  "title": "多图层关键帧拷贝复制粘贴AE脚本 Paste Multiple Keyframes 2.0.9",
+  "slug": "duo-tu-ceng-guan-jian-zheng-kao-bei-fu-zhi-nian-tie-aejiao-ben-paste-multiple-keyframes-2-0-9",
+  "author": "大众脸",
+  "post_date": "2022-04-24T10:46:00Z",
+  "source_url": "https://www.lookae.com/keyframes-209/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Paste Multiple Keyframes",
+    "复制关键帧"
+  ],
+  "content": "该脚本可同时智能复制和粘贴多个图层的关键帧，并支持将关键帧粘贴到多个目标图层上，现已新增循环支持功能。传统AE默认仅支持逐个图层操作，使用此脚本后可大幅提升效率。支持Windows与Mac系统，兼容AE CS4至CC 2022版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Paste-Multiple-Keyframes-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/224798245012.mp4"
+  ],
+  "supported_versions": "AE CS4 - CC 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-573194482-949db6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1S7ni_kYYVRPlqoHxBAaHiQ?pwd=qrwk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/D3r8CGfLEDp"
+    }
+  ],
+  "other": {
+    "description": "Smart copy and paste keyframes from multiple layers at the same time. Now with loop support.",
+    "usage_instructions": [
+      "1. 选择所有要复制的关键帧。",
+      "2. 将时间滑块移动到要放置第一个关键帧的位置。",
+      "3. 点击粘贴"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_pan": "qrwk"
+    },
+    "related_tags": [
+      "AE脚本",
+      "Paste Multiple Keyframes",
+      "复制关键帧"
+    ]
+  }
+}

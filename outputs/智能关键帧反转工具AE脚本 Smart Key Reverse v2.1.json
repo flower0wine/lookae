@@ -1,0 +1,43 @@
+{
+  "title": "智能关键帧反转工具AE脚本 Smart Key Reverse v2.1",
+  "slug": "zhi-neng-guan-jian-zheng-fan-zhuan-gong-ju-aejiao-ben-smart-key-reverse-v2-1",
+  "author": "大众脸",
+  "post_date": "2023/05/06 09:45",
+  "source_url": "https://www.lookae.com/key-reverse-21/",
+  "category": "aescripts",
+  "tags": [
+    "AE关键帧",
+    "AE脚本",
+    "关键帧控制"
+  ],
+  "content": "使用脚本您可以立即反转多个图层的关键帧并保留其相对时间模式。无需执行重复操作即可创建淡出动画。只需使用智能钥匙反转。如果您想更高效地工作，这是在 After Effects 中反转任何类型动画的非常有用的工具。\n\nWith Smart Key Reverse, you can instantly reverse keyframes for multiple layers and preserve its relative time pattern. No need to do repetitive actions to create fade out animation. Just use Smart Key Reverse. If you want to work more efficiently, this is very useful tool to reverse any kind of animation in After Effects.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Smart-Key-Reverse.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336933370076.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-851841357-c89d3f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1FidP_OCfck6c5SlzqZsUGA?pwd=84sl"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/t9Mx9iJx2uX"
+    }
+  ],
+  "other": {
+    "update_log": "v2.1更新内容：-添加了快照关键点；修复选项卡设置；微小的变化；",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "84sl"
+    }
+  }
+}

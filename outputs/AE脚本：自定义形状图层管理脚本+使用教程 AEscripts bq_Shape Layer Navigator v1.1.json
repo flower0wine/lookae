@@ -1,0 +1,28 @@
+{
+  "title": "AE脚本：自定义形状图层管理脚本+使用教程 AEscripts bq_Shape Layer Navigator v1.1",
+  "slug": "aejiao-ben-zi-ding-yi-xing-zhuang-tu-ceng-guan-li-jiao-ben-shi-yong-jiao-cheng-aescripts-bq-shape-layer-navigator-v1-1",
+  "author": "大众脸",
+  "post_date": "2016/01/23 09:32",
+  "source_url": "https://www.lookae.com/bqshape/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "可自定义管理搜索形状图层的工具，以帮助您浏览更多形状图层。更少的操作，更多的发现。Build responsive, easy-to-edit credit scrolls。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/01/bq_shape.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：自定义形状图层管理脚本+使用教程 AEscripts bq_Shape Layer Navigator v1.1",
+      "url": "http://lookae.ctfile.com/file/141445597"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/credits-are-due/",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane"
+  }
+}

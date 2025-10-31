@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本：关键帧缓入缓出曲线调节脚本 AEscripts Flow 1.3 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-qu-xian-diao-jie-jiao-ben-aescripts-flow-1-3-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/10/23 15:10",
+  "source_url": "https://www.lookae.com/flow13/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "Aescripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "脚本拥有一个简单的操作界面，能够自定义动画曲线的效果，而不需要触摸图形编辑器。包含 25 种关键帧曲线效果，可自定义修改编辑，还可自定义保存自己调整的预设，并附带官方视频操作使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/Flow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015.2 – CC 2019",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-316280022"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1eirmt23YFowNO6YdZCLEig"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/flow/",
+    "update_notes": [
+      "为错误和警报添加更好的日志记录",
+      "添加“最后的曲线”可视化 & pref",
+      "增加“编辑曲线”功能，以更新曲线值",
+      "Prefs 和 library 现在写入磁盘，允许它们在 AE 版本之间同步",
+      "库项调整大小按钮现在默认为 on",
+      "增加库项图标的最大大小",
+      "增加超高分辨率显示器的最大图形大小",
+      "改善上下文菜单体验",
+      "改善偏好部分",
+      "提高自述",
+      "升级至新的 aes 授权许可框架",
+      "修复了在键和表达式之间切换时不重置“ease direction”的错误",
+      "修正了“应用为”不能正确更新 prefs 的错误",
+      "修复使用多个流表达式时的表达式错误"
+    ]
+  }
+}

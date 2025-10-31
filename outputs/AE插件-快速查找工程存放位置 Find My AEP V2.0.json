@@ -1,0 +1,35 @@
+{
+  "title": "AE插件-快速查找工程存放位置 Find My AEP V2.0",
+  "slug": "aecha-jian-kuai-su-cha-zhao-gong-cheng-cun-fang-wei-zhi-find-my-aep-v2-0",
+  "author": "大众脸",
+  "post_date": "2022/06/04 09:37",
+  "source_url": "https://www.lookae.com/my-aep-v2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Find My AEP"
+  ],
+  "content": "这是一个简单的脚本，用于在 After Effects 中快速定位当前打开的 .AEP 项目文件在文件系统中的位置。插件会自动打开 Windows 资源管理器（或 macOS 的 Finder）并高亮显示项目文件，帮助用户节省在复杂文件结构中查找项目的时间。该功能位于 After Effects “文件”菜单底部，使用路径为：File > Reveal Current Project File。V2 版本已升级为原生 AEGP 插件，运行更稳定高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Find-My-AEP-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325526112826.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020",
+  "supported_os": "Windows, OSX",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-589184391-cb3e53?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1t-f6jO3ai36q6VMsfPHDxA?pwd=jonp"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "jonp"
+  }
+}

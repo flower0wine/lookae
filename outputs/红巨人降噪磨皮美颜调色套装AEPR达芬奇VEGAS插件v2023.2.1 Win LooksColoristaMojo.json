@@ -1,0 +1,56 @@
+{
+  "title": "红巨人降噪磨皮美颜调色套装AE/PR/达芬奇/VEGAS插件v2023.2.1 Win Looks/Colorista/Mojo",
+  "slug": "hong-ju-ren-jiang-zao-mo-pi-mei-yan-diao-se-tao-zhuang-ae-pr-da-fen-qi-vegascha-jian-v2023-2-1-win-looks-colorista-mojo",
+  "author": "大众脸",
+  "post_date": "2023/05/07 09:18",
+  "source_url": "https://www.lookae.com/mbs-202321/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件",
+    "调色插件",
+    "达芬奇插件"
+  ],
+  "content": "Magic Bullet Suite 2023 更新了所有色彩工具，全面支持 ACES 驱动的色彩模式，实现像素级精准调色。新版为每个工具新增强度滑块，便于更精细地控制画面风格，并优化了预设外观以更好地利用 ACES 处理能力。该套装包含多款专业插件，涵盖调色、磨皮、降噪、胶片模拟等功能，适用于多种主流视频与特效制作软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/Magic-Bullet-Suite-2023.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404527278025.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019–2023, Premiere Pro CC 2019–2023, Davinci Resolve Studio 14+, Avid Media Composer 8.2+, Vegas Pro 14+, HitFilm Pro 6.0+, Cinema 4D R23+, Unreal Engine 4",
+  "supported_os": "Windows 10 及以上",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-853286823-beaa0c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1j56ZxL2BbkTlyUaJtKUb7g?pwd=m7dr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/VF1bjTfv4k5"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Colorista V 调色师5（支持Lut）",
+      "Cosmo II 润肤磨皮插件",
+      "Film 电影质感调色",
+      "Looks 调色插件（多预设、支持Lut）",
+      "Mojo II 快速调色",
+      "Denoiser III 视频降噪插件",
+      "Renoiser 噪波颗粒插件"
+    ],
+    "update_notes": "此修补程序解决了带有 Magic Bullet 插件的分析库的问题。",
+    "bug_fixes": [
+      "修复了导致会话数据记录不正确的分析问题。",
+      "修复了在工具链中移动工具时重置强度滑块的问题。"
+    ],
+    "related_link": "https://www.lookae.com/mbs-chn/",
+    "related_title": "Win中文汉化-红巨人降噪磨皮美颜调色套装AE/PR插件 MBS 2023.2.0"
+  }
+}

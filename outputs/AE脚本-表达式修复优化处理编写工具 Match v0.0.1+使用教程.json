@@ -1,0 +1,59 @@
+{
+  "title": "AE脚本-表达式修复优化处理编写工具 Match v0.0.1+使用教程",
+  "slug": "aejiao-ben-biao-da-shi-xiu-fu-you-hua-chu-li-bian-xie-gong-ju-match-v0-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/07/24 09:48",
+  "source_url": "https://www.lookae.com/meet-match/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AE表达式"
+  ],
+  "content": "Match 是一款专为 Adobe After Effects 设计的脚本工具，旨在简化表达式与脚本的处理流程。它支持所有属性类型，并提供直观响应的用户界面。主要功能包括：路径获取、错误处理、即时表达式格式化、缓动函数应用、表达式复制与烘焙等。适用于动画、模板或 .mogrt 项目中复杂的表达式管理，可显著提升工作效率并确保兼容性与性能优化。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/AEscripts-Match-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/473338920105.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1335393886-38a3cf?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1nhWcF8IDUL17R5oQXIxOng?pwd=5sy0"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/sWcZKQZTVWb"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "passwords": {
+        "ctfile": "6688",
+        "baidu": "5sy0"
+      },
+      "usage_examples": [
+        "获取和复制属性路径：一键获取任意属性的精确与通用路径。",
+        "应用缓动函数：使用内置缓动函数实现平滑的 IN、OUT 或 IN/OUT 动画行为。",
+        "格式化和导出表达式：从图层中提取并格式化表达式，便于集成到脚本中。",
+        "烘焙表达式：将表达式转换为关键帧，提升播放一致性与性能。",
+        "保持原项目结构：无需“匹配”即可直接使用，保留原始项目状态。"
+      ],
+      "features": [
+        "路径获取",
+        "错误处理",
+        "即时表达式格式化",
+        "缓动函数复制",
+        "表达式烘焙",
+        "支持所有 After Effects 属性类型",
+        "直观且响应迅速的 UI"
+      ]
+    }
+  }
+}

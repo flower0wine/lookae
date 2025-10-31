@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-296种火焰燃烧爆炸烟雾粉尘火星粒子枪焰特效合成预设",
+  "slug": "aejiao-ben-296chong-huo-yan-ran-shao-bao-zha-yan-wu-fen-chen-huo-xing-li-zi-qiang-yan-te-xiao-he-cheng-yu-she",
+  "author": "大众脸",
+  "post_date": "2025/10/20 10:21",
+  "source_url": "https://www.lookae.com/inferno-storm-pack/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "精品资源",
+    "视觉特效"
+  ],
+  "content": "这套脚本提供了296种火焰、燃烧、爆炸、烟雾、粉尘、火星、粒子、枪口火焰等特效合成预设，使用 AtomX 脚本加载，支持可视化预览，点击即可加载使用。除枪口火焰和火星粒子外，其他效果均带透明通道，无通道的效果也可通过混合模式实现透明叠加。适合用于After Effects中的视觉特效合成。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/10/Inferno-Storm-Pack-V1-57390436.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01zI5rj91vSNDhqXkMK_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN016uxXCO1vSNDhiVgUc_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01Trmfhq1vSNDgai2pf_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/538442404631.mp4"
+  ],
+  "supported_versions": "AE CC 2023 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?ft=t&id=986387483472"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Finferno-storm-pack%2F"
+    }
+  ],
+  "other": {
+    "resolution": "3840*2160 4K",
+    "file_size": "4.6G（1个zip压缩包）",
+    "extension_included": "AtomX 脚本（已包含）",
+    "audio_info": "无音乐",
+    "usage_help": "安装方法+视频教程",
+    "installation_note": "安装后请勿移动安装文件，否则失效",
+    "user_level_note": "脚本使用需要一定AE基础，新手请慎重选购，我们不提供任何修改服务。效果中没有音效和音乐，只有特效动画。"
+  }
+}

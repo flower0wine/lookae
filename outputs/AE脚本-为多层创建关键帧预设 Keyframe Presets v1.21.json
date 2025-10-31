@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-为多层创建关键帧预设 Keyframe Presets v1.21",
+  "slug": "aejiao-ben-wei-duo-ceng-chuang-jian-guan-jian-zheng-yu-she-keyframe-presets-v1-21",
+  "author": "大众脸",
+  "post_date": "2021/03/17 10:52",
+  "source_url": "https://www.lookae.com/keyframe-presets/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本用于为关键帧创建预设，支持在合成中复制粘贴关键帧，并可在不同项目间导入导出。用户可选择多个图层的关键帧，命名后保存为预设，之后在任意时间点通过下拉菜单快速应用。支持删除单个或全部预设。适用于 AE CS3 至 CC 2020 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Keyframe-Presets.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS3 – CC 2019,2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-486054297-e77be3"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12Mrym4W69cJ4cQ7eX6jqIw"
+    }
+  ],
+  "other": {
+    "description": "为关键帧创建预设。然后，您可以在整个合成中复制和粘贴这些关键帧，以及导入/导出它们以在项目之间传输。",
+    "usage_steps": [
+      "选择所有要复制的关键帧",
+      "为您的预设键入一个新名称，然后单击“复制预设”",
+      "将时间滑块放置在应该移动的位置",
+      "从下拉列表中选择预设，然后单击“粘贴预设”"
+    ],
+    "deletion_instructions": [
+      "要删除预设，请从下拉列表中选择一个预设，然后单击“删除预设”",
+      "要删除所有预设，请单击“删除所有预设”"
+    ],
+    "known_issues": [
+      "它不适用于具有自定义关键帧值的插件或效果。例如（级别-直方图，色相/饱和度-通道范围等）",
+      "如果关键帧设置了临时的自动贝塞尔曲线，它将无法正确粘贴到新的关键帧"
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "493e"
+    }
+  }
+}

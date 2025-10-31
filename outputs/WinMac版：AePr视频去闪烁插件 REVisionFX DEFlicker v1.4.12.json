@@ -1,0 +1,38 @@
+{
+  "title": "Win/Mac版：Ae/Pr视频去闪烁插件 REVisionFX DE:Flicker v1.4.12",
+  "slug": "win-macban-ae-prshi-pin-qu-shan-shuo-cha-jian-revisionfx-de-flicker-v1-4-12",
+  "author": "大众脸",
+  "post_date": "2017/10/13 12:24",
+  "source_url": "https://www.lookae.com/deflicker1412/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "REVisionFX DE:Flicker 是一款专业的视频去闪烁插件，能够有效处理光闪烁现象，包括光闪烁、延时拍摄闪烁和动态闪烁。插件通过分析画面的颜色和亮度，计算匹配出平滑的视频图像，弥补肉眼和摄像机捕捉光线频率不一致导致的闪烁问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Flicker12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 - CC 2017, Adobe Premiere Pro CS6 - CC2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-223904060"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1hscRjr2"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "DE:Flicker High Speed（高速闪烁插件）：用于高速率拍摄视频",
+      "DE:Flicker Timelapse（间隔闪烁插件）：用于延时拍摄视频",
+      "DE:Flicker Auto Levels（自动去除闪烁插件）：分析画面的颜色和亮度，自动去除闪烁"
+    ],
+    "official_intro_url": "http://www.revisionfx.com/products/deflicker/overview/"
+  }
+}

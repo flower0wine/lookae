@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-人物角色绑定多属性控制工具 Multi Parent Rigging v1.0 + 使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-bang-ding-duo-shu-xing-kong-zhi-gong-ju-multi-parent-rigging-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/03 21:55",
+  "source_url": "https://www.lookae.com/parent-rigging/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Multi Parent Rigging是AE软件一款模块化动画脚本。它允许创建连接到其他图层的Parented变换属性（位置、旋转、缩放、不透明度），可通过全局滑块或单个滑块控制，能将每个属性平滑添加到另一层属性，支持在不同时间或同时组合不同层或同一层的不同父级属性。支持Win/Mac系统：AE CS 6 – CC 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/MultiParentRigging.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-371732303"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1TocETKwZCusJQPrU_-J_jA",
+      "extraction_code": "6jmm"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "related_tags_links": [
+      {
+        "name": "Aescaripts",
+        "url": "https://www.lookae.com/tag/aescaripts/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      }
+    ]
+  }
+}

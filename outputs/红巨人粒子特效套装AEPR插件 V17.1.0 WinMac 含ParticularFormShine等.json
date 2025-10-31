@@ -1,0 +1,69 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件 V17.1.0 Win/Mac 含Particular/Form/Shine等",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-v17-1-0-win-mac-han-particular-form-shinedeng",
+  "author": "大众脸",
+  "post_date": "2021/11/11 11:27",
+  "source_url": "https://www.lookae.com/trapcode-171/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "trapcode",
+    "粒子插件"
+  ],
+  "content": "Trapcode Suite 17.1.0 是 Red Giant 推出的粒子与三维图形插件合集，支持 After Effects 与 Premiere Pro。新版本首次允许 Particular 与 Form 在同一 3D 空间内协同工作，并升级了植群模拟、Designer 组织流程及多帧渲染支持。套装共含 11 款插件，涵盖粒子、光效、路径描边、音频关键帧等多种特效需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/Trapcode-Suite-17.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/326996465763.mp4"
+  ],
+  "supported_versions": "After Effects CC 2018–2022、Premiere Pro CC 2018–2022（部分插件）",
+  "supported_os": "Win10 / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘（主程序）",
+      "url": "https://url62.ctfile.com/f/680462-520418575-a118c5"
+    },
+    {
+      "name": "百度网盘（主程序）",
+      "url": "https://pan.baidu.com/s/10qkuNGp9sT7Tn-uuaS17HQ"
+    },
+    {
+      "name": "阿里云盘（主程序）",
+      "url": "https://www.aliyundrive.com/s/twHHMFwKhpc"
+    },
+    {
+      "name": "城通网盘（Form 去水印补丁）",
+      "url": "https://url70.ctfile.com/f/2827370-533023525-77f702"
+    },
+    {
+      "name": "百度网盘（Form 去水印补丁）",
+      "url": "https://pan.baidu.com/s/1IBFyTmkC0CjYK9haVCysSw?pwd=wge7"
+    },
+    {
+      "name": "阿里云盘（Form 去水印补丁）",
+      "url": "https://www.aliyundrive.com/s/g5vzUwHvD18"
+    }
+  ],
+  "other": {
+    "激活码": [
+      "TCBK2245868172939255",
+      "TCBK2245875777348331",
+      "TCBF2005891888369252",
+      "TCBF2005849176686825",
+      "TCBF2005902179164355"
+    ],
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘主程序": "m71k",
+      "百度网盘补丁": "wge7"
+    },
+    "安装步骤简述": [
+      "卸载旧版插件",
+      "运行 Trapcode Suite Installer 安装插件",
+      "安装并打开 Maxon App，注册/登录账号",
+      "Import serial Registration → Manually Enter a Serial Number，输入任一激活码完成注册"
+    ]
+  }
+}

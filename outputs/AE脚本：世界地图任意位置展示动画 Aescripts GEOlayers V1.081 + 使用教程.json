@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本：世界地图任意位置展示动画 Aescripts GEOlayers V1.081 + 使用教程",
+  "slug": "aejiao-ben-shi-jie-di-tu-ren-yi-wei-zhi-zhan-shi-dong-hua-aescripts-geolayers-v1-081-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-09-24T13:38:00Z",
+  "source_url": "https://www.lookae.com/geolayers/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "GEOlayers 是一款功能强大的 After Effects 脚本，可实现世界范围内任意位置的地图展示与动画。支持高清卫星地图、飞入飞出动画效果，适用于地图定位、路径展示等场景。用户可通过脚本连接任意 HTTP Tileserver，导入 GeoJSON 向量数据，查找兴趣点（POI）、标记点、叠加图层，并可将地理栅格图像（GeoTIFF）绑定到地图上。支持绘制国界线、创建政治地图等高级功能。适用于 Windows 与 Mac 系统下的 AE CS4 至 CC2015 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/09/GEOlayers.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4 / CS5 / CS6 / CC / CC2014 / CC2015",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "下载链接",
+      "url": "https://www.400gb.com/file/119836322"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE教程",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "80年代复古8bit像素化视觉特效AE/PR插件 Vizual PixelPerfect v1.0.5 Win/Mac",
+  "slug": "80nian-dai-fu-gu-8bitxiang-su-hua-shi-jue-te-xiao-ae-prcha-jian-vizual-pixelperfect-v1-0-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2024-10-04",
+  "source_url": "https://www.lookae.com/vizual-105/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件"
+  ],
+  "content": "Vizual PixelPerfect 是一款专为 After Effects 与 Premiere Pro 设计的免费像素艺术特效插件，可将画面一键转化为80年代复古8-bit像素风格。内置最近邻、线性插值及抗锯齿最近邻三种算法，支持GPU加速（macOS Metal / Win CUDA & OpenCL），可在AE中按图层锚点、在PR中按画面中心无损放大，最高可分配8K帧缓存，满足高清像素放大需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/08/Vizual-PixelPerfect.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2020-2025",
+  "supported_os": "Windows / macOS（最低11.0 Big Sur）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1380204325-4e4696?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1LwNWrBuP8M1S8k4BokGGHg?pwd=svq2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Wzxe7TJMbiC"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "svq2"
+    },
+    "v1.0.5更新要点": [
+      "新增支持 AE/PR/ME 2025 & 2024",
+      "修复插件缓存导致无法加载问题（提供卸载工具清理AE首选项与插件缓存；PR启动时按住SHIFT刷新缓存）",
+      "macOS 最低系统要求提升至 Big Sur 11.0"
+    ]
+  }
+}

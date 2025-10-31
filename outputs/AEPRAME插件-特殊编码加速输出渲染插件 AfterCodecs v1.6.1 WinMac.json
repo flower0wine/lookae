@@ -1,0 +1,59 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.6.1 Win/Mac",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-6-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2019-04-09",
+  "source_url": "https://www.lookae.com/aftercodecs-161/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "AfterCodecs 是一款专为 After Effects、Premiere Pro 与 Media Encoder 设计的编码输出插件，可原生输出 ProRes、H.264（x264）、H.265（x265）等高质量、高压缩比格式，渲染速度优于 Adobe 自带编码器，同时支持 Alpha 通道与 8K 分辨率，适合需要高效导出与轻量化视频文件的用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects / Premiere Pro / Media Encoder CC 2015–CC 2019",
+  "supported_os": "Windows & macOS",
+  "download_links": [
+    {
+      "name": "Mac 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362876353"
+    },
+    {
+      "name": "Mac 百度网盘",
+      "url": "https://pan.baidu.com/s/1aYFDiRDPlUeMHh22vHsvQg"
+    },
+    {
+      "name": "Win 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362743063"
+    },
+    {
+      "name": "Win 百度网盘",
+      "url": "https://pan.baidu.com/s/1NN4ICe6pM08y3_8YnrW9Bg"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "使用教程 城通网盘",
+        "url": "https://www.pipipan.com/fs/680462-221741711"
+      },
+      {
+        "name": "使用教程 百度网盘",
+        "url": "https://pan.baidu.com/s/1c2nhMI8"
+      }
+    ],
+    "update_log": [
+      "修复 H264 低分辨率颜色偏移重新导入 Adobe 软件问题",
+      "PPro/AME：修复 Mac 个人音轨选项错误",
+      "支持 4.0 ambisonic WYZX/WYXZ 音频导出",
+      "改进 HAP 编解码器文件大小估算",
+      "建议使用 ffkroma 4.1-100 更新（非 Windows 安装程序用户）"
+    ],
+    "official_site": "http://aescripts.com/aftercodecs/"
+  }
+}

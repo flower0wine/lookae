@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：MASK路径遮罩表达式控制脚本 Aescripts Mask Vertex Expression V3.0",
+  "slug": "aejiao-ben-masklu-jing-zhe-zhao-biao-da-shi-kong-zhi-jiao-ben-aescripts-mask-vertex-expression-v3-0",
+  "author": "大众脸",
+  "post_date": "2015-08-12T11:40:00Z",
+  "source_url": "https://www.lookae.com/mask-vertex/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本允许通过表达式控制遮罩路径节点的位置动画。可使用表达式 'thisProperty.propertyGroup(1).propertyIndex' 获取节点的索引号，用 'value' 表示当前顶点位置。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Mask-Vertex-Expression.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：MASK路径遮罩表达式控制脚本 Aescripts Mask Vertex Expression V3.0",
+      "url": "https://www.400gb.com/file/112212209"
+    }
+  ],
+  "other": {
+    "original_post_date": "2015/08/12 11:40",
+    "categories": [
+      "AE插件",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Panels",
+    "english_description": "This script allows you to animate a mask shape using expressions. Use “value” to refer to the current vertex position. Use “thisProperty.propertyGroup(1).propertyIndex” to refer to the vertex index."
+  }
+}

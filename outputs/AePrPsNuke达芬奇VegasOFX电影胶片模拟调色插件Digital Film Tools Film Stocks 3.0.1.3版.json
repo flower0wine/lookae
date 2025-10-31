@@ -1,0 +1,42 @@
+{
+  "title": "Ae/Pr/Ps/Nuke/达芬奇/Vegas/OFX电影胶片模拟调色插件Digital Film Tools Film Stocks 3.0.1.3版",
+  "slug": "ae-pr-ps-nuke-da-fen-qi-vegas-ofxdian-ying-xiao-pian-mo-ni-diao-se-cha-jian-digital-film-tools-film-stocks-3-0-1-3ban",
+  "author": "大众脸",
+  "post_date": "2018-10-20T11:13:00Z",
+  "source_url": "https://www.lookae.com/dft-fs3013/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件"
+  ],
+  "content": "Digital Film Tools（DFT）公司出品的FilmStocks是一款专为影视后期制作设计的胶片模拟调色插件。该插件支持多种主流视频与图像处理软件，可模拟329种不同颜色及黑白胶片色调、电影胶片风格和复古影像效果，帮助用户在数字画面中实现专业级的胶片质感。其技术基于对数百部电影特效创作经验以及胶片扫描与记录工艺的深入研究，提供丰富的模拟摄影、电影及怀旧视觉风格。适用于提升画面表现力与艺术氛围。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/FilmStocks.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5+, After Effects CS5+, Premiere Pro CS5+, Avid Editing Systems, Assimilate Scratch v8+, Black Magic Resolve v11+, Sony Vegas v13+, Nuke v8+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-315673605"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mkhSxM-V--0BHL59vtsK6Q"
+    }
+  ],
+  "other": {
+    "plugin_name": "Digital Film Tools Film Stocks",
+    "version": "3.0.1.3",
+    "description_en": "Film Stocks is a unique filter that simulates 288 different color and black and white still photographic film stocks, motion picture films stocks and historical photographic processes. Using our experience in creating special effects for hundreds of feature films as well as expertise in film scanning and recording techniques, we have laboriously researched and analyzed different film stocks to come up with a set of interesting analog photographic, motion picture and vintage looks. Make any digital image look interesting by applying some of our film magic.",
+    "official_website": "http://www.digitalfilmtools.com/filmstocks/",
+    "compatibility_note": "兼容 CC 2019",
+    "additional_info": "插件支持64位系统，部分软件需非App Store版本（如Photoshop Elements）"
+  }
+}

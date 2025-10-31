@@ -1,0 +1,40 @@
+{
+  "title": "老周原创中文AE脚本-动态修改视频动画速度工具 Z-Speed v2.0",
+  "slug": "lao-zhou-yuan-chuang-zhong-wen-aejiao-ben-dong-tai-xiu-gai-shi-pin-dong-hua-su-du-gong-ju-z-speed-v2-0",
+  "author": "大众脸",
+  "post_date": "2023/09/11 10:33",
+  "source_url": "https://www.lookae.com/z-speed/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Z-Speed",
+    "中文脚本",
+    "原创脚本",
+    "国人远程"
+  ],
+  "content": "Z-Speed是由奇趣魔法屋开发的一款轻量级AE脚本，利用After Effects原生功能，支持为播放速度创建关键帧动画，可快速实现视频在指定时间以任意速度播放，以及在标记范围内倒放等效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/09/Z-Speed-V2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020 和更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-946267956-1e49da?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1iGIPVpjxw7Up6EcRHXPvhg?pwd=aqkf"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/HVqpmY8AovJ"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "aqkf"
+  }
+}

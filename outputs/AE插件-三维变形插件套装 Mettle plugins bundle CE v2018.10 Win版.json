@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-三维变形插件套装 Mettle plugins bundle CE v2018.10 Win版",
+  "slug": "aecha-jian-san-wei-bian-xing-cha-jian-tao-zhuang-mettle-plugins-bundle-ce-v2018-10-winban",
+  "author": "大众脸",
+  "post_date": "2019/03/18 17:12",
+  "source_url": "https://www.lookae.com/mettle-201810/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Mettle公司是Adobe After Effects的重要插件提供商，其插件数量虽不多，但品质精良。该套装包含多款用于3D网格变形、立体文字、VR及星云背景生成的插件，适用于多种版本的After Effects。插件为一键安装版，安装后即可使用，无功能限制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Mettle-Pluginsb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014, CC 2015, CC 2015.3, CC 2017, CC 2018, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-353854789"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1fKyRL4Nvii-aBG9gQaO2vQ%20"
+    }
+  ],
+  "other": {
+    "extract_code": "4zpt",
+    "bundle_contents": [
+      "FreeForm v2.27.3 - 网格变形插件（普通版）",
+      "FreeForm Pro v1.98.3 - 3D网格变形插件（专业版）",
+      "ShapeShifter v1.98.3 - 3D立体文字插件",
+      "Mantra VR v1.278 - VR插件",
+      "Flux v1.11 - 星云背景"
+    ],
+    "notes": "SkyBox系列插件自Adobe CC 2018起已内置到软件中，不再单独提供。",
+    "official_website": "http://www.mettle.com/"
+  }
+}

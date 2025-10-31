@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-将视频社交媒体网站评论直接导入AE软件中 Review Importer v01.03",
+  "slug": "aejiao-ben-jiang-shi-pin-she-jiao-mei-ti-wang-zhan-ping-lun-zhi-jie-dao-ru-aeruan-jian-zhong-review-importer-v01-03",
+  "author": "大众脸",
+  "post_date": "2021/03/02 09:45",
+  "source_url": "https://www.lookae.com/review-importer/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Review Importer 是一款专为 After Effects 设计的脚本，可将来自视频审阅平台的评论自动导入时间轴。支持 Kollaborate.tv、Vimeo、Frame.io 和 Screenlight.tv 等主流平台。适用于 Win/Mac 系统，兼容 AE 2020、CC 2019 及 CC 2018 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Review-Importer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/300358151013.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-484357316-6f33a8"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qt6NDED39mRpebNy7K8GvQ"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "e78q"
+    },
+    "platforms_supported": [
+      "Kollaborate.tv",
+      "Vimeo",
+      "Frame.io",
+      "Screenlight.tv"
+    ]
+  }
+}

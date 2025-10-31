@@ -1,0 +1,47 @@
+{
+  "title": "AE/PR插件：RE:Vision Effects 插件大合集 CS5-CC2015（2015.07）",
+  "slug": "ae-prcha-jian-re-vision-effects-cha-jian-da-he-ji-cs5-cc2015-2015-07",
+  "author": "大众脸",
+  "post_date": "2015/07/21 20:17",
+  "source_url": "https://www.lookae.com/revision157/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CC 2015",
+    "PR插件",
+    "RE:Vision Effects"
+  ],
+  "content": "RE:Vision Effects 是一家专注于提供创新、高级定制软件的公司，致力于以最高质量创建、修改、控制和增强数字视频影像。其产品广泛应用于电视、电影、互联网和视觉效果行业，适用于从家庭剪辑者到高端商业广告、影视特效制作等各类用户。该合集包含其旗下多款经典插件，适用于 Adobe After Effects 和 Premiere Pro（CS5 – CC 2015），均为官网最新版，支持一键安装，无需序列号。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/REVisionFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5 – CC 2015",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR插件：RE：Vision Effects 插件合集（2015.07）",
+      "url": "https://www.400gb.com/file/107355653"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "RE:Vision Effects DE:Flicker v1.3.0 CE 去闪烁插件",
+      "RE:Vision Effects DE:Noise v3.0.2 CE 专业降噪插件",
+      "RE:Vision Effects FieldsKit v3.2.3 动画反交错插件",
+      "RE:Vision Effects ReelSmart MotionBlur Pro v5.1.1 CE 动态模糊插件",
+      "RE:Vision Effects RE:Fill v2.1.1 智能修补和填充插件",
+      "RE:Vision Effects RE:Flex v5.2.1 CE 扭曲变形/变脸插件",
+      "RE:Vision Effects RE:Map v2.2.3 CE UV贴图映射插件",
+      "RE:Vision Effects RE:Match v1.4.1 CE 色彩匹配插件",
+      "RE:Vision Effects Shade/Shape v4.2.1 CE 形状阴影插件",
+      "RE:Vision Effects SmoothKit v3.2.1 CE 降噪磨皮插件",
+      "RE:Vision Effects Twixtor Pro v6.2.1 CE 超级慢动作变速插件",
+      "RE:Vision Effects Video Gogh Pro v3.5.5 水彩油画插件"
+    ],
+    "related_links": {
+      "mac_version": "https://www.lookae.com/revision2015/"
+    },
+    "company_website": "http://www.revisionfx.com"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v2.6.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v2-6-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/11/04 13:12",
+  "source_url": "https://www.lookae.com/lockdown-261/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Lockdown",
+    "中文汉化"
+  ],
+  "content": "Lockdown是一款革命性的新插件，可以直跟踪运动物体扭曲不平的表面，非常适合进行美容修饰和其他先前困难的物体移除清理工作，或者用于其他跟踪合成特效制作。插件拥有独立操作界面，支持After Effects和达芬奇软件，操作比以往更平滑。功能包括使用蒙版或Alpha通道修剪轨道。插件现配备极高精度的跟踪器，显著提升跟踪效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/318386610195.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（插件）",
+      "url": "https://url62.ctfile.com/f/680462-519605797-89b0f6"
+    },
+    {
+      "name": "百度网盘（插件）",
+      "url": "https://pan.baidu.com/s/1rhBcrCRyiAeXNz_V5XEkKA"
+    },
+    {
+      "name": "阿里云盘（插件）",
+      "url": "https://www.aliyundrive.com/s/tXrkpWrQB9w"
+    },
+    {
+      "name": "城通网盘（V2.4教程）",
+      "url": "https://089u.com/f/680462-502067783-dcc3cb"
+    },
+    {
+      "name": "百度网盘（V2.4教程）",
+      "url": "https://pan.baidu.com/s/141jyi3Nrba6Z6uUeccofpQ"
+    },
+    {
+      "name": "城通网盘（V2教程）",
+      "url": "https://089u.com/f/680462-495135746-bf69b7"
+    },
+    {
+      "name": "百度网盘（V2教程）",
+      "url": "https://pan.baidu.com/s/1yJ0tcRCvlspPF97iOHvM_g"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile_plugin": "6688",
+      "ctfile_v24_tutorial": "6688",
+      "ctfile_v2_tutorial": "6688",
+      "baidu_plugin": "9hxw",
+      "baidu_v24_tutorial": "02kh",
+      "baidu_v2_tutorial": "oiho"
+    },
+    "notes": "Win版本为中文英文双语版，Mac版本仅英文版",
+    "v2_6_0_changelog": {
+      "added": [
+        "在AE 2022中完成多帧渲染支持"
+      ],
+      "fixed": [
+        "在跟踪过程中更改标签时可能发生崩溃",
+        "当插值关闭时，在稳定选项卡和主选项卡之间切换时可能丢失点的问题",
+        "蓝色和alpha通道通过代码输入交换的问题，导致蓝色级别非常低的图像在稳定选项卡中无法跟踪",
+        "修正了在某些情况下自定义插值可能无法进行完整拍摄的问题"
+      ]
+    }
+  }
+}

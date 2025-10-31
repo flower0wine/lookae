@@ -1,0 +1,56 @@
+{
+  "title": "红巨人宇宙套装特效插件Red Giant Universe v1.3.1（支持AE/PR/OFX/达芬奇）",
+  "slug": "hong-ju-ren-yu-zhou-tao-zhuang-te-xiao-cha-jian-red-giant-universe-v1-3-1-zhi-chi-ae-pr-ofx-da-fen-qi",
+  "author": "大众脸",
+  "post_date": "2015-02-23 08:35",
+  "source_url": "https://www.lookae.com/un131/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant Universe 是一个为创意软件用户提供的效果和转场插件集合，包含多种视觉特效、光效、粒子预设、调色工具等，支持 GPU 加速。该套装由 Red Giant 推出，持续更新并扩展功能，适用于 Adobe After Effects、Premiere Pro、DaVinci Resolve、Nuke、VEGAS 等主流视频编辑与合成软件。本版本 v1.3.1 新增了多个工具，并增强了对 ToonIt 系列工具的支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Universe.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": [
+    "Adobe After Effects CS5.5 或更高版本",
+    "Adobe Premiere Pro CS6 或更高版本",
+    "Black Magic Resolve v11 或更高版本",
+    "Sony Vegas v13 或更高版本",
+    "The Foundry’s Nuke v8 或更高版本"
+  ],
+  "supported_os": [
+    "Windows 7, 64-bit",
+    "Windows 8, 64-bit"
+  ],
+  "download_links": [
+    {
+      "name": "红巨人宇宙套装特效插件Red Giant Universe v1.3.1",
+      "url": "https://www.400gb.com/file/84600360"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Universe Noise: Luminance Noise",
+      "Universe Blur: Compound Blur (Labs)",
+      "Universe Utilities: Color Gamma Conversion",
+      "Universe Glow: Glimmer",
+      "Universe Stylize: Carousel",
+      "Universe Stylize: Holomatrix EZ",
+      "Universe CrumplePop: SplitScreen Blocks",
+      "Universe CrumplePop: SplitScreen Custom Block",
+      "Universe ToonIt: ToonIt Sketch",
+      "ToonIt Paint: Add Halftone (P)",
+      "ToonIt Outlines: Added Chalk presets (P)",
+      "Universe Holomatrix: Added glitching, distortion, flicker and more (P)",
+      "ToonIt Update – new Presets and tools added to the ToonIt tools"
+    ],
+    "official_website": "http://www.redgiant.com/store/universe/",
+    "notes": "插件由Team VR优化制作，一键安装，安装即可使用。"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "AE脚本-MG运动图形高级工具脚本 Motion v3.27 Win/Mac完整版 + 使用教程",
+  "slug": "aejiao-ben-mgyun-dong-tu-xing-gao-ji-gong-ju-jiao-ben-motion-v3-27-win-macwan-zheng-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-04-28T08:48:00Z",
+  "source_url": "https://www.lookae.com/motion327/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Motion V3 是由 Mt. Mograph 推出的强大的 Adobe After Effects 脚本，提供超过 45 种独特工具和 100 多种自定义控件，支持曲线调节、颜色控制、中心点对齐、滑块控制等功能，广泛应用于高端运动图形制作。该脚本适用于 After Effects CC2018 至 2020 版本，支持 Windows 与 Mac 系统。安装后可通过扩展菜单访问，并在界面中输入注册信息激活使用。无需科学上网即可正常使用，且切勿更新以避免注册失效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Motion-3.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01oUP5ak1vSMhc2QyEq_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC2018, CC2019, 2020",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE脚本-MG运动图形高级脚本 Motion v3.27 Win/Mac版",
+      "url": "https://72k.us/file/680462-440164757"
+    },
+    {
+      "name": "AE脚本-MG运动图形高级脚本 Motion v3.27 Win/Mac版",
+      "url": "https://pan.baidu.com/s/1x8IIT19RTVwbTMRYmj19eg"
+    },
+    {
+      "name": "使用教程（城通网盘）",
+      "url": "https://tc5.us/file/680462-415312953"
+    },
+    {
+      "name": "使用教程（百度网盘）",
+      "url": "https://pan.baidu.com/s/1e3WgrgrEwtFV3PNDIy28zg"
+    }
+  ],
+  "other": {
+    "script_website": "https://www.mtmograph.com/motion",
+    "installation_notes": [
+      "拷贝 com.mtmograph.motion-next 文件夹至指定路径：\nWin: C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\\nMac: /Library/Application Support/Adobe/CEP/extensions",
+      "Windows 运行 Add Keys.reg，Mac 运行 install-as-admin",
+      "在 AE 首选项中启用脚本读写与网络访问权限",
+      "通过 Window > Extensions 打开 Motion-3 脚本",
+      "输入安装包内文字并回车激活，需等待加载完成"
+    ],
+    "note": "新版脚本无需 FQ 即可使用，切勿更新以防注册失效",
+    "extract_code": "j5wl",
+    "related_tags": [
+      "AE脚本",
+      "After Effects",
+      "MG运动图形",
+      "Motion V3"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "中文汉化AE插件-精致华丽真实阴影拖尾投影插件 Shadow Studio 2 v1.1.3 Win + 使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jing-zhi-hua-li-zhen-shi-yin-ying-tuo-wei-tou-ying-cha-jian-shadow-studio-2-v1-1-3-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/06/16 09:51",
+  "source_url": "https://www.lookae.com/shadow-studio-2113/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Shadow Studio 2 是 After Effects 中模拟阴影的终极工具，基于 Alpha 通道工作，效果逼真，可误认为 3D 阴影。适用于快速创建精致、华丽的真实阴影与拖尾投影效果，支持多种阴影模式和高质量渲染。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Shadow-Studio-2-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/284472003515.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-498870716-57d1e7"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wUgXRkUgXjMhvkixbHZlkw"
+    }
+  ],
+  "other": {
+    "description": "插件升级版 Shadow Studio 2 是在 After Effects 中模拟阴影的终极工具。3D 阴影渲染速度慢，因此采用伪造方式实现。基于 Alpha 通道，效果出色，几乎可媲美 3D 阴影。",
+    "features": [
+      "3种主要阴影模式：常规，内部和径向",
+      "精细控制衰减（不透明度，距离和柔软度）",
+      "5种风格预设以获得即时结果",
+      "32bpc 色彩精度",
+      "强大的质量控制可优化渲染时间",
+      "GPU 加速可带来快速的结果"
+    ],
+    "update_notes": "Shadow Studio 2 v1.1.3：修复 AE v18.2.0 及更新版本的错误",
+    "original_en": "The ultimate tool for simulating Shadows in After Effects. 3D shadows are notoriously slow to render, so fake it. Works based on the alpha channel just like the regular drop shadow but with results so gorgeous they’ll be mistaken for 3D."
+  }
+}

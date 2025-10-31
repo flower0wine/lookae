@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-图层复制克隆动画特效 Cloners+Effectors v1.2.4+使用教程",
+  "slug": "aejiao-ben-tu-ceng-fu-zhi-ke-long-dong-hua-te-xiao-cloners-effectors-v1-2-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/09 14:04",
+  "source_url": "https://www.lookae.com/cloners-effectors-124/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Cloners + Effectors 是一款用于 After Effects 的程序化动画系统，特别适用于同时对多个图层进行动画制作。它允许用户通过效果器（Effectors）来驱动动画，而无需为每个图层单独设置关键帧，从而实现灵活且高度可自定义的动画效果。该脚本附带官方使用视频教程，便于快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Cloners-Effectors-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-362727141"
+    },
+    {
+      "name": "脚本 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/18y2B81SVt2QJHdaNcNh0WQ"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-362726808"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1m21eBUKTIRjOM1_3wF8FuA"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/cloners-plus-effectors/",
+    "update_notes": "修复了将Cluster Cloner和Step Effector与循环结合使用时的错误。",
+    "credit": "from MONTER GROUP©, Thank you.",
+    "baidu_netdisk_passwords": {
+      "script": "dai6",
+      "tutorial": "034i"
+    }
+  }
+}

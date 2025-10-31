@@ -1,0 +1,76 @@
+{
+  "title": "中文汉化AE/PR插件-像素融化位移拉伸失真视觉特效 Pixel Melt V1.0.1 Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-xiang-su-rong-hua-wei-yi-la-shen-shi-zhen-shi-jue-te-xiao-pixel-melt-v1-0-1-win",
+  "author": "大众脸",
+  "post_date": "2025-03-07",
+  "source_url": "https://www.lookae.com/pixel-melt-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Pixel Melt",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "Pixel Melt是一款能够模拟像素独立拉伸和位移的视觉特效插件，适用于各种图像失真效果，包括熔化模拟或具有调制能力的扫描线分离。该插件经过中文汉化，支持Windows系统的After Effects和Premiere Pro软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Pixel-Melt.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "V1.0.1",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1467774004-f715a3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1FL1FnH1MVVegIuuFavNqvQ?pwd=g64i"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/a24g4Bd5LVn"
+    }
+  ],
+  "other": {
+    "v1.0.1_updates": [
+      "调整适当参数时图形会立即更新（仅在 After Effects 中）",
+      "图形颜色自适应所选颜色主题（仅在 After Effects 中）",
+      "修复了 macOS 上 Premiere Pro 中发生的低级异常（AEVideoFilter:11）",
+      "After Effects SDK 2024 年 12 月",
+      "Aescripts 框架 v4.1.3"
+    ],
+    "supported_ae_versions": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015",
+      "CC 2014"
+    ],
+    "supported_pr_versions": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015",
+      "CC 2014"
+    ],
+    "related_products": [
+      {
+        "title": "Mac苹果版-像素融化位移拉伸失真视觉特效AE/PR插件 Pixel Melt V1.0.0",
+        "url": "https://www.lookae.com/pixel-melt-mac/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "AE模板：超级炫酷火焰烟雾粉尘魔法粒子特效生成工具包（含脚本+使用教程）",
+  "slug": "aemo-ban-chao-ji-xuan-ku-huo-yan-yan-wu-fen-chen-mo-fa-li-zi-te-xiao-sheng-cheng-gong-ju-bao-han-jiao-ben-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/02/28 15:27",
+  "source_url": "https://www.lookae.com/particlefx/",
+  "category": "aechajian",
+  "tags": [
+    "Aescript",
+    "AE模板",
+    "AE脚本",
+    "付费资源",
+    "精品资源"
+  ],
+  "content": "这是一款功能强大的AE特效生成工具包，主要用于创建炫酷的火焰、烟雾、粉尘、魔法等粒子特效。它提供了脚本和模板两种形式，包含详细的视频教程，方便用户快速上手。工具包支持多种粒子效果和实现方式，可灵活应用于Logo、文字或自定义区域，一键生成专业的粒子破碎飘散效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/FX-Particle-.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB28ewCkFXXXXbrXpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2Yes6kFXXXXakXXXXXXXXXXXX_!!705956171.gif",
+    "https://gd3.alicdn.com/bao/uploaded/i3/705956171/TB2J7wFkFXXXXauXpXXXXXXXXXX_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2DawxkFXXXXciXpXXXXXXXXXX_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2d_o2kFXXXXbkXXXXXXXXXXXX_!!705956171.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 5 – CC 2018",
+  "supported_os": "Windows系统 和 Mac OSX 苹果系统",
+  "download_links": [
+    {
+      "name": "淘宝商品链接",
+      "url": "https://item.taobao.com/item.htm?id=527525697534"
+    }
+  ],
+  "other": {
+    "resolution": "1920×1080",
+    "required_plugin": "Trapcode Particular",
+    "template_format": "aep 原版工程",
+    "file_size": "889MB（解压后约1G）",
+    "includes_music": false,
+    "tutorials": "4个脚本视频教程 + 5个模板视频教程",
+    "price": "¥20",
+    "payment_url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fparticlefx%2F"
+  }
+}

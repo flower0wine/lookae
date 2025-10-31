@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-关键帧控制编辑管理器 Keyframe Manager V1.1.2+使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-kong-zhi-bian-ji-guan-li-qi-keyframe-manager-v1-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/22 22:14",
+  "source_url": "https://www.lookae.com/keyframe-manager/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "关键帧控制"
+  ],
+  "content": "该AE脚本具有漂亮的用户界面，可快速轻松地管理关键帧，包括查看、编辑、重新排列、搜索和替换、复制和粘贴等操作。脚本特征有更改任意关键帧值、更改缓动类型、搜索并替换任何值、直观地更改顺序、按定义的量移动键、复制并粘贴任何值、保存并应用缓动收藏夹。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Keyframe-Manager.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/483154417365.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1364177314-fdd9ba?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12smzAcQdAwBFd7jtVZC_kw?pwd=49fc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/fS2QLsMj7n6"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

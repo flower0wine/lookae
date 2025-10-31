@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：快速三维透视效果 IsoMatic FX V1.0 + 使用教程",
+  "slug": "aejiao-ben-kuai-su-san-wei-tou-shi-xiao-guo-isomatic-fx-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/03/10 10:54",
+  "source_url": "https://www.lookae.com/isomatic-fx/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "IsoMatic FX V1.0 是一款用于 After Effects 的脚本，可快速将 2D 平面图形转换为具有三维空间属性的透视效果。支持摄像机和 Element 3D 插件，提供两种模式：模拟 2D 与真实 3D，适用于创建等距图形。该脚本简化了等距设计流程，极大提升创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Isomatic-FX-16.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50004760551.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：快速三维透视效果 IsoMatic FX V1.0 + 使用教程",
+      "url": "https://lookae.ctfile.com/fs/azo175448802"
+    }
+  ],
+  "other": {
+    "script_description": "脚本可以快速的将2D平面图形切换成具有三维空间属性的三维透视效果，支持摄像机，和E3D插件。Finally, isometric graphics made easy within After Effects! Two useful modes (faked 2D or true 3D) to choose from… and tons of possibilities!",
+    "official_website": "http://aescripts.com/isomatic-fx/",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescripts",
+      "AE脚本"
+    ]
+  }
+}

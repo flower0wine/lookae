@@ -1,0 +1,93 @@
+{
+  "title": "AE插件-专业高级真实镜头光晕耀斑特效 Optical Flares v1.3.8 (168) Win",
+  "slug": "aecha-jian-zhuan-ye-gao-ji-zhen-shi-jing-tou-guang-yun-yao-ban-te-xiao-optical-flares-v1-3-8-168-win",
+  "author": "大众脸",
+  "post_date": "2022/06/28 13:46",
+  "source_url": "https://www.lookae.com/of-138/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Optical Flares",
+    "VideoCopilot",
+    "光效插件",
+    "光晕插件",
+    "镜头耀斑"
+  ],
+  "content": "Optical Flares 是一款功能强大、操作便捷、效果绚丽的专业级镜头光晕耀斑光效AE插件。支持制作动画效果逼真的镜头耀斑灯光特效，具备完整的独立界面和自定义预设保存功能。插件内置大量预设，可直接使用，广泛应用于影视后期与动态设计中。新版本支持多帧渲染（Multi-Frame Rendering），能充分利用多核CPU进行并行渲染，显著提升渲染效率；同时优化了在4K显示器上的UI缩放支持，改善用户体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/AK-Optical-Flares.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274013701666.mp4"
+  ],
+  "supported_versions": "AE CC 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-604997638-e16bf9?p=4431"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1RN95SE-DNdUyjrK20VyB2g?pwd=erzg"
+    },
+    {
+      "name": "英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/gATtPkJAizS"
+    },
+    {
+      "name": "中文版 - 下载链接",
+      "url": "https://www.lookae.com/of135-chn/"
+    }
+  ],
+  "other": {
+    "previews_download": {
+      "name": "更多预设下载",
+      "links": [
+        {
+          "name": "城通网盘",
+          "url": "https://url62.ctfile.com/f/680462-527829514-e5e2c3",
+          "password": "6688"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/16FVnzIasUBNwQ7XzaKLlwQ",
+          "password": "y114"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.aliyundrive.com/s/PqvrMoGUST2"
+        }
+      ],
+      "folder_path": "文档\\VideoCopilot\\Optical Flares\\Optical Flares Presets\\Lens Flares"
+    },
+    "tutorial_download": {
+      "name": "Optical Flares 官方15集视频教程 - 中文字幕",
+      "links": [
+        {
+          "name": "城通网盘",
+          "url": "https://089u.com/file/680462-9963544"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1iTJOe-T79_dk2u8-s7yoGQ",
+          "password": "vm47"
+        }
+      ]
+    },
+    "related_links": [
+      {
+        "title": "苹果M1版AE插件-真实镜头光晕耀斑特效 Optical Flares v1.3.8 Mac",
+        "url": "https://www.lookae.com/ofmac-138/"
+      }
+    ],
+    "installation_path": "效果-VideoCopilot-Optical Flares",
+    "features": [
+      "支持多帧渲染（多核并行）",
+      "4K显示器下增强缩放支持",
+      "独立界面，可自定义预设",
+      "提供丰富预设资源",
+      "兼容主流AE版本（2014-2025）"
+    ]
+  }
+}

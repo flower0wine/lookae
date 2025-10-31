@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-遮罩路径图形扭曲BAO Boa 1.4.1 Win/Mac版+中文教程",
+  "slug": "aecha-jian-zhe-zhao-lu-jing-tu-xing-niu-qu-bao-boa-1-4-1-win-macban-zhong-wen-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-09-17",
+  "source_url": "https://www.lookae.com/boa-141/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "BAO Boa 是一款 After Effects 插件，可让图层沿遮罩路径进行扭曲变形，快速制作路径跟随动画。1.4.1 版仅修复 16bit 纹理尺寸问题，兼容 AE CS6 – CC 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/BAO-Boa.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "插件-城通网盘",
+      "url": "https://tc5.us/file/680462-398277503"
+    },
+    {
+      "name": "插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1EZAwEvc8wN64gdBstWhbsA"
+    },
+    {
+      "name": "中文教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-395367140"
+    },
+    {
+      "name": "中文教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1cvahGasOL717SFmriVcwUw"
+    }
+  ],
+  "other": {
+    "official_site": "https://aescripts.com/bao-boa/",
+    "update_note": "1.4.1 修复了纹理大小问题（仅 16Bit）"
+  }
+}

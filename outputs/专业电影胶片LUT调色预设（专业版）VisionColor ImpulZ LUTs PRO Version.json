@@ -1,0 +1,83 @@
+{
+  "title": "专业电影胶片LUT调色预设（专业版）VisionColor ImpulZ LUTs PRO Version",
+  "slug": "zhuan-ye-dian-ying-xiao-pian-lutdiao-se-yu-she-zhuan-ye-ban-visioncolor-impulz-luts-pro-version",
+  "author": "大众脸",
+  "post_date": "2014-06-12T20:31:00",
+  "source_url": "https://www.lookae.com/impulz/",
+  "category": "aechajian",
+  "tags": [
+    "LUT",
+    "LUT预设",
+    "调色预设"
+  ],
+  "content": "VisionColor推出的ImpulZ是一套全新的胶片模拟3D LUT系列，涵盖柯达、富士等多种经典35mm胶片的色彩还原。适用于主流数字摄影机拍摄的素材，支持多种Gamma与色彩空间（如REC.709、Slog、Clog、log-C、REDLogFilm等），可广泛集成于各类后期软件中，快速实现电影级胶片质感。该预设包包含多个专业摄影机专用套装，共提供多组高质量LUT，满足不同项目需求。其专业版本支持包括佳能、尼康、索尼、RED、BMCC、Arri Alexa等主流设备，并兼容达芬奇、Premiere、After Effects、Final Cut Pro X、Nuke等主流剪辑与调色软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/ImpulZ.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/66452314"
+    },
+    {
+      "name": "百度云下载",
+      "url": "https://pan.baidu.com/s/1jGiLCqy"
+    }
+  ],
+  "other": {
+    "effect_demo": true,
+    "preset_description": "ImpulZ是全球最顶尖的电影胶片模拟LUT库，精准还原35mm胶片的色彩与质感，源自好莱坞调色工艺。包含基础版、专业版和终极版三档选择，适合不同预算与工作流程。",
+    "supported_camera_types": [
+      "佳能单反",
+      "尼康单反",
+      "佳能摄影机",
+      "索尼F系列摄影机",
+      "RED摄影机",
+      "BMCC摄影机",
+      "Arri Alexa"
+    ],
+    "preset_folders": [
+      "BMCC 2.5k Pack (64组)",
+      "BMPC 4k LUT Pack (64组)",
+      "Canon VisionColor LUT Pack (64组)",
+      "Nikon Standard LUT Pack (64组)",
+      "GoPro Hero 3 LUT Pack (64组)",
+      "Sony S-LOG LUT Pack (64组)",
+      "Cineon Conversions LUT Pack (6组)"
+    ],
+    "software_support": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade CS6-CC",
+      "Adobe Premiere CS5-CC",
+      "Adobe After Effects CS5-CC",
+      "Adobe Photoshop CS5-CC",
+      "Final Cut Pro X",
+      "Avid MC 6, 7",
+      "Shake",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5"
+    ],
+    "lut_plugin_recommendations": [
+      {
+        "name": "Magic Bullet LUT Buddy",
+        "url": "https://www.redgiant.com/downloads/free-products/",
+        "platform": "大部分软件"
+      },
+      {
+        "name": "FCPX软件 LUT 实用颜色工具",
+        "url": "https://www.lookae.com/fcpx-lut/",
+        "platform": "FCPX"
+      }
+    ],
+    "note": "若需将LUT应用于特定软件，建议使用配套插件以确保兼容性与易用性。"
+  }
+}

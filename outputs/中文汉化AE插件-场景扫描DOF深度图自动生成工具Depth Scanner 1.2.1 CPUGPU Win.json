@@ -1,0 +1,79 @@
+{
+  "title": "中文汉化AE插件-场景扫描DOF深度图自动生成工具Depth Scanner 1.2.1 CPU/GPU Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-gong-ju-depth-scanner-1-2-1-cpu-gpu-win",
+  "author": "大众脸",
+  "post_date": "2022-02-21T15:22:00Z",
+  "source_url": "https://www.lookae.com/depth-scanner/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Depth Scanner 是一款基于人工智能的插件，可自动计算深度图。支持从图像和视频中生成深度图，适用于多种后期处理任务，如添加雾效、将素材转换为立体3D以及其他图像特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "CPU版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545866466-be3d77"
+    },
+    {
+      "name": "CPU版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17auRl1vDw3yQ7s13JAQXuw?pwd=qg4h"
+    },
+    {
+      "name": "CPU版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/VrbmActaqFn"
+    },
+    {
+      "name": "GPU版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545867689-f55e62"
+    },
+    {
+      "name": "GPU版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1cVNTaxTvYYciSCx7IySJMQ?pwd=9s76"
+    },
+    {
+      "name": "GPU版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XoBVLL2ukDp"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+    },
+    {
+      "name": "视频教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "cpu_download": "6688",
+      "gpu_download": "9s76",
+      "tutorial_download": "r9ha"
+    },
+    "notes": [
+      "GPU版渲染速度更快，但可能不如CPU版稳定。",
+      "GPU版插件需要NVIDIA显卡支持。"
+    ],
+    "related_tags": [
+      "AE插件",
+      "中文汉化",
+      "深度图生成",
+      "AI插件",
+      "后期特效",
+      "立体3D",
+      "雾效添加"
+    ]
+  }
+}

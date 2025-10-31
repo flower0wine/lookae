@@ -1,0 +1,67 @@
+{
+  "title": "AE插件-漂亮真实高级辉光发光插件Deep Glow v1.2.3 Win/Mac版+使用教程",
+  "slug": "aecha-jian-piao-liang-zhen-shi-gao-ji-hui-guang-fa-guang-cha-jian-deep-glow-v1-2-3-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/05 23:02",
+  "source_url": "https://www.lookae.com/deep-glow-123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Deep Glow 是一款比 AE 自带 Glow 插件效果更真实、过渡更自然的高级发光插件。支持实时预览，具备 GPU 加速、多采样质量控制、HDR 阈值处理等功能，适用于非线性色彩空间，可实现物理精确的反平方衰减发光效果，并支持多种分辨率（8, 16, 32bpc）和高动态范围图像处理。插件提供丰富的合成控件，包括发光宽高比、传播、色差、模糊质量等调节选项，还支持查看发光源或最终渲染结果。内置 Unmult 去黑底功能，特别适合文字特效。新版更新优化了缓冲区处理、模糊效率、色调模式迁移至 GPU，修复多个错误并改进抖动控制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Deep-Glow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-372629087"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Irexo3cO3LOm4TuLBP3kCw"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-328767396"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1JDjE2_TJ_7Ebph8iWY2emw"
+    }
+  ],
+  "other": {
+    "extracted_from": "https://www.lookae.com/deep-glow-123/",
+    "update_notes": [
+      "更安全的缓冲扩展",
+      "不推荐使用Spread（排列），使用radius（半径）更改发光的大小",
+      "更好地处理下采样缓冲区",
+      "提高模糊算法的效率",
+      "已将色调模式从CPU移到GPU",
+      "Unmult现在默认开启",
+      "修正了抖动和增加最大抖动量的错误"
+    ],
+    "features": [
+      "物理精确的基于反平方的衰减",
+      "GPU加速",
+      "8,16和32bpc兼容",
+      "HDR阈值处理",
+      "阈值平滑（减少时间闪烁）",
+      "伽马校正（即使在非线性色彩空间中工作也会产生线性结果）",
+      "合成控件",
+      "发光宽高比",
+      "发光传播",
+      "色差",
+      "多采样质量控制",
+      "模糊质量控制",
+      "查看控件：发光源或最终渲染",
+      "Unmult去黑底（对文本有用）",
+      "Generates a beautiful, physically accurate glow. You’ll never want to touch After Effect’s default glow again."
+    ],
+    "demo_link": "https://aescripts.com/deep-glow/"
+  }
+}

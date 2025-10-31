@@ -1,0 +1,39 @@
+{
+  "title": "国人原创-AE节点式脚本功能编辑器 LZNode Beta Win/Mac",
+  "slug": "guo-ren-yuan-chuang-aejie-dian-shi-jiao-ben-gong-neng-bian-ji-qi-lznode-beta-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/03/30 09:47",
+  "source_url": "https://www.lookae.com/lznode/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "国人原创",
+    "奇趣魔法屋"
+  ],
+  "content": "由国内团队奇趣魔法屋出品的一款AE脚本，此扩展脚本将开发AE脚本所用到的代码可视化，变成了一个个节点，旨在让不会写代码的人也能通过连线的方式快速实现自己想要的脚本功能。除了AE脚本的功能，里面还提供了AE脚本之外的功能，例如调用外部api接口、chatGPT接入等功能，以满足用户的各种不同需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/LZNode.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2019 – 2023或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-833466031-f0e4e3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/10-EgNoUFyEeEFrFXXTcYkg?pwd=vpsh"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/JUHj6yKzER3"
+    }
+  ],
+  "other": {
+    "download_password": {
+      "城通网盘": "6688"
+    }
+  }
+}

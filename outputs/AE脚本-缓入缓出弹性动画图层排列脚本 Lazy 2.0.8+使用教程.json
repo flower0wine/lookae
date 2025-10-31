@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-缓入缓出弹性动画图层排列脚本 Lazy 2.0.8+使用教程",
+  "slug": "aejiao-ben-huan-ru-huan-chu-dan-xing-dong-hua-tu-ceng-pai-lie-jiao-ben-lazy-2-0-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/10/13 09:52",
+  "source_url": "https://www.lookae.com/lazy-208/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层排列",
+    "缓入缓出"
+  ],
+  "content": "脚本可以在AE软件里选中多个图层或关键帧，然后通过脚本选择的曲线来排列图层的分布。在制作MG动画的时候这个教程非常适用，带高清视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Lazy-2-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2fSnucwoQMeJjy0FoXXcShVXa_!!705956171.gif"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/486821483770.mp4"
+  ],
+  "supported_versions": "AE CC 2015 或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1383231643-003378?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XNJY3Qogip8Qpf3VeY3Ucg?pwd=adz6"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Fi7UDnFuZG7"
+    }
+  ],
+  "other": {
+    "update_log": "2.0.8 更新内容：删除了隐藏文件",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "adz6"
+    }
+  }
+}

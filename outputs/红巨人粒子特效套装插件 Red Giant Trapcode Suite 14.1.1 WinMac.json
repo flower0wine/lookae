@@ -1,0 +1,115 @@
+{
+  "title": "红巨人粒子特效套装插件 Red Giant Trapcode Suite 14.1.1 Win/Mac",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-cha-jian-red-giant-trapcode-suite-14-1-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2018/05/10 17:54",
+  "source_url": "https://www.lookae.com/trapcode1411/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Red Giant",
+    "trapcode",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Trapcode Suite 14.1.1 是一款功能强大的粒子特效插件套装，支持 Adobe After Effects 和 Premiere Pro。本次更新主要修复了 Particular、Form、3D Stroke、Mir、Tao 等多个插件的 BUG 和渲染问题，提升了稳定性与性能。该版本包含多个核心插件，如 Trapcode Particular（超炫粒子）、Form（三维空间粒子）、Tao（三维几何图形）、Mir（三维图形）、Shine（放射光）、Lux（聚光灯）、3D Stroke（3D路径描边）、Echospace（三维拖尾延迟）、Starglow（星光）、Sound Keys（音频关键帧）和 Horizon（无限场景）等，广泛应用于影视后期特效制作中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/Trapcode-14.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2014 - CC 2018, Adobe Premiere Pro CC 2014 - CC 2018",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win 系统版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-290194290"
+    },
+    {
+      "name": "Win 系统版 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1XMh9IOdcCP0c9Lj1EDpOpw"
+    },
+    {
+      "name": "Mac 苹果版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-290206323"
+    },
+    {
+      "name": "Mac 苹果版 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1sREz_GTmV4LNzSDojJ-yow"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/",
+    "registration_methods": [
+      {
+        "method": "套装序列号注册",
+        "serial": "TCBK2245868172939255",
+        "description": "一个序列号可注册所有插件，安装后在界面点击 Enter Licensing Info… 输入序列号提交即可。"
+      },
+      {
+        "method": "单个序列号注册",
+        "details": [
+          {
+            "plugin": "Trapcode Tao 1.2",
+            "serial": "90509642123479776933"
+          },
+          {
+            "plugin": "Trapcode Mir 2.1",
+            "serial": "85079585234586664989"
+          },
+          {
+            "plugin": "Trapcode Particular 3.0.0",
+            "serial": "92608846345644048269"
+          },
+          {
+            "plugin": "Trapcode Shine 2.0",
+            "serial": "92338513256767241817"
+          },
+          {
+            "plugin": "Trapcode 3D Stroke 2.6",
+            "serial": "91588738256767692766"
+          },
+          {
+            "plugin": "Trapcode Form 3.0.0",
+            "serial": "TCBK2245868172939255"
+          },
+          {
+            "plugin": "Trapcode EchoSpace v1.1",
+            "serial": "91769344123491994523"
+          },
+          {
+            "plugin": "Trapcode Horizon v1.1",
+            "serial": "87419480123494067600"
+          },
+          {
+            "plugin": "Trapcode Lux v1.4",
+            "serial": "87689194123456089091"
+          },
+          {
+            "plugin": "Trapcode Sound Keys v1.4",
+            "serial": "88419208123489637676"
+          },
+          {
+            "plugin": "Trapcode StarGlow v1.7",
+            "serial": "86068670256777585702"
+          }
+        ]
+      }
+    ],
+    "plugins_included": [
+      "Trapcode Tao 1.2.2",
+      "Trapcode Particular 3.1.0",
+      "Trapcode Form 3.1.0",
+      "Trapcode Mir 2.2.0",
+      "Trapcode Shine 2.0.4",
+      "Trapcode Lux 1.4.1",
+      "Trapcode 3D Stroke 2.7.0",
+      "Trapcode Echospace 1.1.10",
+      "Trapcode Starglow 1.7.4",
+      "Trapcode Sound Keys 1.4.1",
+      "Trapcode Horizon 1.1.11"
+    ],
+    "update_notes": "修复 Particular, Form, 3D Stroke, Mir, Tao 等插件的 BUG 和渲染问题"
+  }
+}

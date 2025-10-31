@@ -1,0 +1,66 @@
+{
+  "title": "FCPX/AE/PR/达芬奇/VEGAS插件 V5.1.0 Win/Mac红巨人视觉特效和转场",
+  "slug": "fcpx-ae-pr-da-fen-qi-vegascha-jian-v5-1-0-win-machong-ju-ren-shi-jue-te-xiao-he-zhuan-chang",
+  "author": "大众脸",
+  "post_date": "2022/03/16 16:35",
+  "source_url": "https://www.lookae.com/universe-51/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Universe 5.1 是红巨人推出的视频转场与视觉特效插件套装的最新升级版本。该版本新增对搭载 M1 芯片的 Mac 设备的支持，并通过将底层语言从 JavaScript 全面重构为 C++，为未来更强大的功能、创意选项和性能优化奠定了基础。此外，此版本修复了影响 Adobe Premiere 用户的两个主要错误，并包含多项稳定性与体验改进。Universe 5 现已支持 Adobe After Effects 的多帧渲染（MFR）功能，可充分利用多核 CPU 提升渲染效率。插件包含不断扩展的特效库，涵盖转场、调色、光效、粒子预设等多种视觉效果，适用于各类视频编辑与动态图形创作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/Universe-5.1.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/326566544941.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2019或更高版本, Adobe Premiere Pro CC 2019或更高版本, Apple Final Cut Pro X 10.5或更高版本, Apple Motion 5.5或更高版本, Avid Media Composer 8.2或更高版本, Magix VEGAS Pro 14或更高版本, DaVinci Resolve 14或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-555912201-6c370f"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1z9rQMN9YiEq56YqOxy0Izg?pwd=2sc5"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/zhPB77rH5Ma"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-555913613-9c14b2"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Rq3OoFdATyvRv6O-XUX_ZA?pwd=6wta"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/F7jCkoZ3bgY"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688"
+    },
+    "registration_codes": [
+      "RLPK2245855360592319",
+      "RLPK2245831771673083"
+    ],
+    "installation_notes": "请先卸载旧版插件。安装步骤：1. 安装 Maxon App 程序；2. 安装 Universe Installer 插件程序后关闭；3. 打开 Maxon App，注册或登录账号，通过 'Import serial Registration' 手动输入注册码完成激活。",
+    "compatibility_notes": {
+      "Avid Media Composer": "不支持 Prism Displacement、Compound Blur 和画中画功能。",
+      "DaVinci Resolve": "不能与 Mac App Store 版本的 DaVinci Resolve 一起使用。"
+    }
+  }
+}

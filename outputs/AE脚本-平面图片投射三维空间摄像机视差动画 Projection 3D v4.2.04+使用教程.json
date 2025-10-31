@@ -1,0 +1,84 @@
+{
+  "title": "AE脚本-平面图片投射三维空间摄像机视差动画 Projection 3D v4.2.04+使用教程",
+  "slug": "aejiao-ben-ping-mian-tu-pian-tou-she-san-wei-kong-jian-she-xiang-ji-shi-chai-dong-hua-projection-3d-v4-2-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/08 14:29",
+  "source_url": "https://www.lookae.com/projection-3d-4204/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Projection 3D",
+    "视差动画"
+  ],
+  "content": "用于相机投影映射和照片视差动画的高级工具。可以在AE软件中将静态的二维图片转换制作成带真实三维空间的摄像机动画，自带多种基本模式，支持导入低精度的三维OBJ文件，含视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Projection-3D-V4-.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN016U0O4h1vSMlPtkE5w_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/408362459561.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1354084295-4b6bc8?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1JeFNUZ7LPpeZ91YTtI7azQ?pwd=78mw"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.alipan.com/s/n8MsEAxAjyk"
+    },
+    {
+      "name": "新版教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-846019263-60d537?p=4431"
+    },
+    {
+      "name": "新版教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/11kUGMcixqnLaN38FDfMpoQ?pwd=2ur6"
+    },
+    {
+      "name": "新版教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XanyJ4CzNZu"
+    },
+    {
+      "name": "旧版教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-475195133"
+    },
+    {
+      "name": "旧版教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17NAYd-Es5X2qeaeEsQ8iPw"
+    }
+  ],
+  "other": {
+    "projection_3d_v4_new_features": [
+      "新结构",
+      "将视图导出到 fSpy",
+      "更新了将摄像机导出到 Cinema 4D 和 Maya",
+      "调整大小/填充多边形",
+      "取消组合对象",
+      "用纹理替换多边形",
+      "复制蒙版（透视）",
+      "更新插入相机",
+      "稳定 3D Matchmove",
+      "单节点相机",
+      "创建相机目标",
+      "投影分辨率",
+      "新基元",
+      "直接在 After Effects 中编辑投影图像",
+      "在 Photoshop 中打开投影图像"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_脚本": "78mw",
+      "百度网盘_新版教程": "2ur6",
+      "百度网盘_旧版教程": "f0qw"
+    },
+    "english_description": "Advanced tool for camera projection mapping and photo parallax animation in After Effects.",
+    "update_notes": "Projection 3D v4.2.04 更新内容：重要修复"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "平面图片投射三维空间摄像机视差动画AE脚本 Projection 3D v4.03+使用教程",
+  "slug": "ping-mian-tu-pian-tou-she-san-wei-kong-jian-she-xiang-ji-shi-chai-dong-hua-aejiao-ben-projection-3d-v4-03-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/06/14 17:52",
+  "source_url": "https://www.lookae.com/projection-3d-v4/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Projection 3D v4.03+ 是一款用于在 After Effects 中实现相机投影映射和照片视差动画的高级工具。它能够将静态二维图像转换为具有真实三维空间感的摄像机动画，支持多种基础模式，并可导入低精度的三维OBJ文件，同时兼容视频内容。该脚本具备强大的功能扩展性，适用于视觉特效与三维合成工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Projection-3D-V4-.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN016U0O4h1vSMlPtkE5w_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/408362459561.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6, CS5.5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-870015423-de9979?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1M150DP9GwxyBUnX1kO6HGw?pwd=y855"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/5sD1VQV5Ga7"
+    },
+    {
+      "name": "新版教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-846019263-60d537?p=4431"
+    },
+    {
+      "name": "新版教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/11kUGMcixqnLaN38FDfMpoQ?pwd=2ur6"
+    },
+    {
+      "name": "新版教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XanyJ4CzNZu"
+    },
+    {
+      "name": "旧版教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-475195133"
+    },
+    {
+      "name": "旧版教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/17NAYd-Es5X2qeaeEsQ8iPw?pwd=f0qw"
+    }
+  ],
+  "other": {
+    "description": "Advanced tool for camera projection mapping and photo parallax animation in After Effects.",
+    "new_features": [
+      "新结构",
+      "将视图导出到 fSpy",
+      "更新了将摄像机导出到 Cinema 4D 和 Maya",
+      "调整大小/填充多边形",
+      "取消组合对象",
+      "用纹理替换多边形",
+      "复制蒙版（透视）",
+      "更新插入相机",
+      "稳定 3D Matchmove",
+      "单节点相机",
+      "创建相机目标",
+      "投影分辨率",
+      "新基元",
+      "直接在 After Effects 中编辑投影图像",
+      "在 Photoshop 中打开投影图像"
+    ],
+    "update_notes_v4_03": "小修复；添加了宣传视频投影场景",
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ]
+  }
+}

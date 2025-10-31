@@ -1,0 +1,43 @@
+{
+  "title": "AE插件：镜头真实Z景深插件 RowbyteBuena Depth Cue v2.5.3",
+  "slug": "aecha-jian-jing-tou-zhen-shi-zjing-shen-cha-jian-rowbytebuena-depth-cue-v2-5-3",
+  "author": "大众脸",
+  "post_date": "2018/08/07 13:26",
+  "source_url": "https://www.lookae.com/depth253/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Buena Depth Cue 由 Rowbyte 公司出品，该公司以知名点线粒子插件 Plexus 著称。该插件可在 After Effects 中以独特方式模拟真实 Z 景深效果，支持在 Windows 系统上运行 AE CS5 至 CC 2018 版本。其工作流创新，能有效处理视觉深度的常见操控问题，实现更自然的三维空间感。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/Depth-Cue-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2018",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-302395509"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1zvSaoyBmnV61aS7XRoVkBA"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "http://www.rowbyte.com/buena-depth-cue/"
+    ],
+    "plugin_company": "Rowbyte",
+    "plugin_features": [
+      "模拟真实 Z 景深效果",
+      "创新工作流",
+      "支持多种 AE 版本",
+      "适用于视觉深度创作"
+    ]
+  }
+}

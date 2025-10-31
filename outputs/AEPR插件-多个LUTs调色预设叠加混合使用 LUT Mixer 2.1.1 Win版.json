@@ -1,0 +1,33 @@
+{
+  "title": "AE/PR插件-多个LUTs调色预设叠加混合使用 LUT Mixer 2.1.1 Win版",
+  "slug": "ae-prcha-jian-duo-ge-lutsdiao-se-yu-she-die-jia-hun-he-shi-yong-lut-mixer-2-1-1-winban",
+  "author": "大众脸",
+  "post_date": "2019-07-07",
+  "source_url": "https://www.lookae.com/lut-mixer/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "LUT Mixer 是一个可以同时加载使用多个LUTs调色预设的插件，并可以独立控制每个预设效果的浓度。解决了传统LUT应用中，后加载的LUT效果因前一个LUT已改变图像而导致效果不佳的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/LUT-Mixer-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC - CC 2019",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-386295085"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1aqcK0gPzG2BemTp4ziDZkQ"
+    }
+  ],
+  "other": {
+    "installation_instructions": "1.安装LUT Mixer Plugin 2.1.1.exe插件程序\n2.复制LUT Mixer.aex到以下路径替换原文件：C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\n3.打开软件，使用插件。",
+    "baidu_extraction_code": "jxam"
+  }
+}

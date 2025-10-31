@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本：点线连接整列动画 AEscripts NodeKit V1.00 + 视频教程",
+  "slug": "aejiao-ben-dian-xian-lian-jie-zheng-lie-dong-hua-aescripts-nodekit-v1-00-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/09/27 11:55",
+  "source_url": "https://www.lookae.com/nodekit/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "NodeKit可用于创建、布局、连接和动画化基于节点的流程图、信息图形和图表，简单灵活且直观，适合制作复杂信息图形效果和创建设计阵列。内置文本生成器，可导入图片，快速生成连接组合。官网地址为https://aescripts.com/nodekit/。适用于Win/Mac系统下AE CC 2018或更高版本。脚本安装需拷贝.jsxbin脚本文件到AE安装目录下Support Files\\Scripts\\ScriptUI Pane\\ ，使用时在AE软件中点击Window（窗口菜单）即可找到脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/NodeKit.jpg",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_2_2.gif",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_1_1.gif",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_3_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-312051462"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1V-S2301qH7ME5jzI0X4b5g"
+    }
+  ]
+}

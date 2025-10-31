@@ -1,0 +1,42 @@
+{
+  "title": "AE/PR/PSNUKE/达芬奇/VEGAS/OFX 电影胶片模拟调色插件 Digital Film Tools Film Stocks v2.0v10",
+  "slug": "ae-pr-psnuke-da-fen-qi-vegas-ofx-dian-ying-xiao-pian-mo-ni-diao-se-cha-jian-digital-film-tools-film-stocks-v2-0v10",
+  "author": "大众脸",
+  "post_date": "2016/10/27 10:56",
+  "source_url": "https://www.lookae.com/film-stocks-2010/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件"
+  ],
+  "content": "Film Stocks 是一款独特的滤镜，可模拟 288 种不同的彩色、黑白静态胶片、电影胶片以及历史摄影工艺。基于在数百部电影特效制作中的经验，以及胶片扫描和录制技术的专业知识，Digital Film Tools 公司精心研究并分析了多种胶片特性，打造出一系列富有胶片质感、电影感和复古风格的视觉效果。使用该插件，可以让任何数字图像焕发胶片般的艺术魅力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/FilmStocks.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5+, Premiere Pro CS5+, Photoshop CS5+, Nuke v8+, DaVinci Resolve v11+, Sony Vegas v13+, Avid, Assimilate Scratch v8+",
+  "supported_os": "Windows (64位)",
+  "download_links": [
+    {
+      "name": "电影胶片模拟调色插件 Digital Film Tools Film Stocks v2.0v10",
+      "url": "http://lookae.ctfile.com/fs/R2E159554959"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/filmstocks/",
+    "update_notes": "– Some bug fixes.   修复众多错误BUG",
+    "additional_categories": [
+      "After Effects",
+      "DaVinci Resolve",
+      "Photoshop",
+      "Premiere",
+      "Vegas",
+      "其他辐射",
+      "软件/插件"
+    ]
+  }
+}

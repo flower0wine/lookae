@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-高级色彩控制工具 Advanced Color Control v1.0.1+使用教程",
+  "slug": "aejiao-ben-gao-ji-se-cai-kong-zhi-gong-ju-advanced-color-control-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-02-28",
+  "source_url": "https://www.lookae.com/advanced-color-control/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "色彩工具",
+    "调色插件"
+  ],
+  "content": "高级类型的色彩控制脚本，它将所有不同的颜色属性从“拾色器”对话框带到After Effects的“效果和控制”面板，您可以在其中为这些属性设置动画或应用表达式。提供不同的颜色模型、操作模式、自动化创建控件以及更多自定义功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/02/Advanced-Color-Control.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/450936793584.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1026514003-d45e9a?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1lPNdYgNiLNopBMRx_Io-sw?pwd=yyo1"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/pqG9AX3b19Z"
+    }
+  ],
+  "other": {
+    "color_models": [
+      "HSB（色相饱和度亮度）",
+      "HSL（色相饱和度亮度）",
+      "RGB（红绿蓝）"
+    ],
+    "operation_modes": [
+      "值控制颜色",
+      "颜色控制值"
+    ],
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "yyo1"
+    }
+  }
+}

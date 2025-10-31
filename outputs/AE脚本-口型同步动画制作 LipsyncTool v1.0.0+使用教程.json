@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-口型同步动画制作 LipsyncTool v1.0.0+使用教程",
+  "slug": "aejiao-ben-kou-xing-tong-bu-dong-hua-zhi-zuo-lipsynctool-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-26T09:35:00Z",
+  "source_url": "https://www.lookae.com/lipsynctool/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "口型动画"
+  ],
+  "content": "LipsyncTool 是一款专为 After Effects 设计的脚本，用于快速实现口型同步动画。基于标记同步关键帧预设，无需表达式、无需定格或表情设置。通过简单的预设和艺术层系统，用户只需点击即可插入 viseme（发音体态）关键帧，极大简化复杂嘴部动画的制作流程。支持多版本 After Effects，适用于需要高效完成配音动画的创作者。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/LipsyncTool.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/524693276531.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1522513858-06f214?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1duuJjDwnklNz4idxQEX-wg?pwd=2p8q"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/7W3vCikdN7L"
+    }
+  ],
+  "other": {
+    "additional_tags": [
+      "AE脚本",
+      "口型动画"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "image_alt": "AE脚本-口型同步动画制作 LipsyncTool v1.0.0+使用教程-LookAE.com"
+  }
+}

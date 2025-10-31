@@ -1,0 +1,50 @@
+{
+  "title": "AE/PS/AI脚本-字体编辑导入插件 FontShaper V1.0.1",
+  "slug": "ae-ps-aijiao-ben-zi-ti-bian-ji-dao-ru-cha-jian-fontshaper-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2024-05-18",
+  "source_url": "https://www.lookae.com/fontshaper/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AI脚本",
+    "FontShaper",
+    "PS脚本",
+    "字体"
+  ],
+  "content": "FontShaper 是一款用于 Adobe 软件应用程序的脚本插件，允许用户直接在 Photoshop、After Effects 和 Illustrator 中使用谷歌字体或本地字体文件。它支持无需安装字体，即可创建文本并作为矢量形状导入到相应软件中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/05/FontShaper.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/463206619279.mp4"
+  ],
+  "supported_versions": "After Effects: 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018 | Illustrator: 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018 | Photoshop: 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1247196559-916855?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dXtDmp7im3gYA4rTZJHKNQ?pwd=1owp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/EQfJUcKVJV1"
+    }
+  ],
+  "other": {
+    "access_code": {
+      "城通网盘": "6688",
+      "百度网盘": "1owp"
+    },
+    "supported_font_formats": [
+      "TTF",
+      "OTF",
+      "WOFF"
+    ],
+    "google_fonts_count": "780+"
+  }
+}

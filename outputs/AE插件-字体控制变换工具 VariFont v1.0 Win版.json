@@ -1,0 +1,34 @@
+{
+  "title": "AE插件-字体控制变换工具 VariFont v1.0 Win版",
+  "slug": "aecha-jian-zi-ti-kong-zhi-bian-huan-gong-ju-varifont-v1-0-winban",
+  "author": "大众脸",
+  "post_date": "2020/08/26 11:05",
+  "source_url": "https://www.lookae.com/varifont/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "VariFont 是一款用于 After Effects 的原生插件，用于支持可变字体（Variable Fonts）。After Effects 本身不支持可变字体，但通过该插件，用户可以在 AE 中动态控制字体的多个轴（如粗细、宽度和倾斜度），并利用其内置的“动画器”功能实现范围选择、形状控制和随机性，从而实现高度灵活和强大的字体动画效果。插件目前似乎仅支持英文字体。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/08/VariFont.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/277055593148.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-458712994"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1gzMF41U1Qd9SfbJmoVfYCA"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_code": "2um0",
+    "official_plugin_page": "https://aescripts.com/varifont/"
+  }
+}

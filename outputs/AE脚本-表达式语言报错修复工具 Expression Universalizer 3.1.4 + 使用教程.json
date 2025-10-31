@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-表达式语言报错修复工具 Expression Universalizer 3.1.4 + 使用教程",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-gong-ju-expression-universalizer-3-1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-07-28T21:37:00Z",
+  "source_url": "https://www.lookae.com/expression-314/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Expression Universalizer 是一款用于修复因语言差异导致的 After Effects 表达式报错问题的脚本。当从不同语言环境下载的 AE 模板在本地运行时出现表达式错误，该工具可将表达式转换为通用兼容格式，确保中文版或其他语言版本的 AE 能正常运行。使用流程：先用英文版 AE 打开工程，再通过脚本批量转换表达式，实现跨语言兼容。适用于多种 AE 版本，并支持批量处理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ExpressionUniversalizer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50032760914.mp4"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-390180744"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Y-aXnh4BzjOucxFg9DT-Hg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了使用效果名称索引的表达式的问题",
+      "修复了仅使用索引的表达式的问题"
+    ],
+    "official_website": "https://aescripts.com/expressionuniversalizer/",
+    "download_password": "oi25",
+    "related_links": [
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

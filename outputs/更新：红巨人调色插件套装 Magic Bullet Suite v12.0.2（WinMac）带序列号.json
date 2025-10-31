@@ -1,0 +1,78 @@
+{
+  "title": "更新：红巨人调色插件套装 Magic Bullet Suite v12.0.2（Win/Mac）带序列号",
+  "slug": "geng-xin-hong-ju-ren-diao-se-cha-jian-tao-zhuang-magic-bullet-suite-v12-0-2-win-mac-dai-xu-lie-hao",
+  "author": "大众脸",
+  "post_date": "2015-03-13T15:00:00Z",
+  "source_url": "https://www.lookae.com/mb1202/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX插件",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "Win/Mac"
+  ],
+  "content": "Magic Bullet Suite v12.0.2 是 Red Giant 推出的调色插件套装更新版本，包含多个核心插件的重大升级与新功能。该版本修复了 Colorista III 在 Premiere Pro 自定义界面的问题及 Vegas Pro 安装问题，并修正了若干已知错误。主要更新包括：Magic Bullet Looks 3.0（新增约200个调色预设，支持自定义管理）、Colorista III（UI简化、支持 GPU 加速、新增高光/阴影/暗角控制）、Film（全新电影质感模拟插件，支持22种负片与4种印片库存）、Mojo 2.0（快速打造好莱坞大片风格）、Cosmo 2.0（高效皮肤美化处理）。插件兼容 Adobe Premiere Pro C6–CC 2014、After Effects C6–CC 2014、Photoshop C5–CC 2014、Final Cut Pro X/7、Vegas Pro、Motion 4/5 等主流视频编辑软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/02/MBS12.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Looks_Hero_Stu_ALT_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Colorista-Hero_STU_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/MB-Film-Hero_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Mojo-Hero_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/Cosmo-Hero-Master_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/DenoiserII-Hero_540.jpg",
+    "http://cache.redgiant.com/wp-base/wp-content/uploads/2015/01/LUT-Hero_540.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v12.0.2",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/magicbullet/archive/MBSuite_Win_Full_12.0.2.zip"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/magicbullet/archive/MBSuite_Mac_Full_12.0.2.zip"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Magic Bullet Colorista III",
+      "Magic Bullet Cosmo 2.0",
+      "Magic Bullet Film 1.0",
+      "Magic Bullet Looks 3.0",
+      "Magic Bullet Mojo 2.0",
+      "Red Giant Denoiser II",
+      "Red Giant LUT Buddy"
+    ],
+    "new_features": [
+      "Magic Bullet Looks 3.0: 198 个全新预设，41 个工具（含 9 个新工具），包括 ColorSpace、Colorista、4-Way Color、Shadows/Highlights、Lens Vignette、Duotone、Film Negative、Film Print、Mojo",
+      "Magic Bullet Colorista III: GPU 加速（Open GL）、简化界面、支持高光/阴影/暗角控制、支持 FCPX/Motion",
+      "Magic Bullet Film: 模拟真实胶片化学过程，22 种负片 + 4 种印片，支持复古/现代色调调节",
+      "Magic Bullet Mojo 2.0: 快速实现好莱坞大片调色，保护肤色，冷却背景",
+      "Magic Bullet Cosmo 2.0: 快速皮肤修复，平衡肤色，减少皱纹和瑕疵",
+      "Denoiser II: 一键降噪，保留细节，适用于低光或高 ISO 拍摄素材",
+      "LUT Buddy: 支持导入/导出 1D/3D LUT，跨平台使用"
+    ],
+    "registration_keys": {
+      "Magic Bullet Colorista III": "CL3K1245864582715611",
+      "Magic Bullet Cosmo 2.0": "MBOK1245884249899024",
+      "Magic Bullet Film 1.0": "FILK1245884461501298",
+      "Magic Bullet Looks 3.0": "MBLK1245875960562349",
+      "Magic Bullet Mojo 2.0": "MBMK1245868236810616",
+      "Red Giant Denoiser II": "MBNK1245865095746168",
+      "Red Giant LUT Buddy": "免费"
+    },
+    "host_apps_supported": [
+      "Adobe Premiere Pro C6 – CC 2014",
+      "Adobe Photoshop C5 – CC 2014",
+      "Adobe After Effects C6 – CC 2014",
+      "Avid Media Composer",
+      "Vegas Pro",
+      "Motion 4, 5",
+      "Final Cut Pro X, 7"
+    ]
+  }
+}

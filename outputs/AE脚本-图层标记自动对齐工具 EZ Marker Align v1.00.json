@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-图层标记自动对齐工具 EZ Marker Align v1.00",
+  "slug": "aejiao-ben-tu-ceng-biao-ji-zi-dong-dui-qi-gong-ju-ez-marker-align-v1-00",
+  "author": "大众脸",
+  "post_date": "2021/06/12 09:49",
+  "source_url": "https://www.lookae.com/marker-align/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "一种免费实用程序，可将一层上的标记与另一层上的标记对齐。只需先选择带有标记的图层进行调整，然后选择参考标记图层，然后单击“对齐”。非常适合在 EditMonkey 和 MonkeyWords 页面中同步文本层，或用于其他任何需要标记对齐的场景。注意：每层上的标记数量应匹配。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/06/EZ-Marker-Align.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-498566240-955c7e"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1itpxukAHO1JAiESXFaGG1Q"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "image_alt": "AE脚本-图层标记自动对齐工具 EZ Marker Align v1.00-LookAE.com",
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "1jzv"
+    }
+  }
+}

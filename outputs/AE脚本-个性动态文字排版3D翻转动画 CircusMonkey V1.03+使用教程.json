@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-个性动态文字排版3D翻转动画 CircusMonkey V1.03+使用教程",
+  "slug": "aejiao-ben-ge-xing-dong-tai-wen-zi-pai-ban-3dfan-zhuan-dong-hua-circusmonkey-v1-03-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/25 16:39",
+  "source_url": "https://www.lookae.com/circusmonkey-103/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "这个脚本可以很轻松制作出个性动态文字标题排版翻转动画，脚本还包括文字的旋转、焦距等7种绑定方式和其他功能设置，以最轻松的方式创建文字动力学类型。在3D空间中处理文本的新方法释放出惊人的可能性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/CircusMonkey-103.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5.5 – CC2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368265193"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/19Bc-ueQG0G1kXPxOfjZo_A"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.400gb.com/file/136012445"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1XMkHChnAgHprshG-2U311Q"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/circusmonkey/",
+    "version": "V1.03",
+    "changelog": [
+      "修复了使用变音字符处理文本的问题",
+      "更新AE的新JavaScript引擎的表达式",
+      "更新许可框架",
+      "修复切割时重叠单词的错误"
+    ],
+    "baidu_netdisk_codes": {
+      "script": "s8nq",
+      "tutorial": "dboy"
+    }
+  }
+}

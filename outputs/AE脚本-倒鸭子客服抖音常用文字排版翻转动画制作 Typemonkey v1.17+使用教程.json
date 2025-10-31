@@ -1,0 +1,59 @@
+{
+  "title": "AE脚本-倒鸭子客服抖音常用文字排版翻转动画制作 Typemonkey v1.17+使用教程",
+  "slug": "aejiao-ben-dao-ya-zi-ke-fu-dou-yin-chang-yong-wen-zi-pai-ban-fan-zhuan-dong-hua-zhi-zuo-typemonkey-v1-17-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/25 15:34",
+  "source_url": "https://www.lookae.com/typemonkey/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "使用Typemonkey插件可以快速自动生成带有摄像机动画的动态文字排版效果，不需要繁琐的关键帧控制，简单快捷。\n\nOur best-selling Monkey! Automatically generates kinetic typography & camera, dynamically linked to markers w/o keyframes. The easiest way to create kinetic type.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/TypeMonkey.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/304636241813.mp4"
+  ],
+  "supported_versions": "AE CS 5.5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368253626"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/18hvbdpr1OEgozvUU1_ylhQ"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368254969"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1K4T5UhkLZNHgYzm8iZGACA"
+    }
+  ],
+  "other": {
+    "tutorial_passwords": [
+      {
+        "target": "脚本下载-百度网盘",
+        "password": "s38t"
+      },
+      {
+        "target": "教程下载-百度网盘",
+        "password": "unzr"
+      }
+    ],
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://aescripts.com/typemonkey/"
+    ]
+  }
+}

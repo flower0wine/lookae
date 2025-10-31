@@ -1,0 +1,70 @@
+{
+  "title": "更新：新一代AE三维粒子插件：Plexus 2.0.8 （Win64位）",
+  "slug": "geng-xin-xin-yi-dai-aesan-wei-li-zi-cha-jian-plexus-2-0-8-win64wei",
+  "author": "大众脸",
+  "post_date": "2013-12-27 15:49",
+  "source_url": "https://www.lookae.com/plexus208/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "Win64位"
+  ],
+  "content": "超强的三维粒子插件Plexus，终于出新版本了，更强大，渲染更快，操作更简洁，轻松创建个性漂亮的动画，支持AE摄像机和灯光，支持景深，和32位色彩深度。支持 Cinema 4D 的 OBJ 文件导入。注：从 Plexus 2.0 起就只支持CS5-CC（及以上版本）的AE版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/12/plexus208.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5-CC及以上版本",
+  "supported_os": "Win64位",
+  "download_links": [
+    {
+      "name": "新一代AE三维粒子插件：Plexus 2.0.8 （Win64位）",
+      "url": "https://www.400gb.com/file/49998014"
+    }
+  ],
+  "other": {
+    "related_plugins": [
+      {
+        "name": "Mac版本：Plexus 2.02",
+        "url": "http://www.ctdisk.com/file/10666082"
+      },
+      {
+        "name": "Win版本：Plexus 2.02 （附汉化）",
+        "url": "http://www.ctdisk.com/file/10666070"
+      },
+      {
+        "name": "Win版本：Plexus 2.04",
+        "url": "http://www.ctdisk.com/file/11307866"
+      }
+    ],
+    "related_tutorials": [
+      {
+        "name": "AE新三维粒子 Plexus 2 教程全集（共14集）",
+        "url": "https://www.lookae.com/plexus2-tutorial/"
+      },
+      {
+        "name": "AE粒子插件Plexus1.4.5（ 32Bit – 64Bit）",
+        "url": "https://www.lookae.com/plexus1-4-5-32bit64bit/"
+      },
+      {
+        "name": "Plexus1-完整教程(中文字幕)",
+        "url": "https://www.lookae.com/plexus-full-tutorial/"
+      }
+    ],
+    "related_works": [
+      {
+        "name": "Plexus作品：释放你的手指第一季Unleash Your Fingers 01",
+        "url": "https://www.lookae.com/unleash-your-fingers-01/"
+      },
+      {
+        "name": "释放你的手指第一季Unleash Your Fingers 01 AE制作教程",
+        "url": "https://www.lookae.com/unleash-your-fingers-tutorial/"
+      },
+      {
+        "name": "Plexus作品：释放你的手指第二季Unleash Your Fingers 02",
+        "url": "https://www.lookae.com/unleash-your-fingers-tutorial/"
+      }
+    ]
+  }
+}

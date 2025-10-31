@@ -1,0 +1,45 @@
+{
+  "title": "专业字幕编辑软件+插件 NewBlue Titler PRO Ultimate 4.0 build 151002",
+  "slug": "zhuan-ye-zi-mu-bian-ji-ruan-jian-cha-jian-newblue-titler-pro-utlimate-4-0-build-151002",
+  "author": "大众脸",
+  "post_date": "2015-10-26T16:27:00Z",
+  "source_url": "https://www.lookae.com/nb-titler-utlimate/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "DaVinci Resolv 插件",
+    "EDIUS插件",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "NewBlue Titler PRO Ultimate 4.0 是一款功能强大的独立字幕编辑软件及多平台插件，支持在 After Effects、Premiere、DaVinci Resolve 等主流视频剪辑软件中使用。该工具提供超过 40 种 4K/5K 分辨率的预设标题模板，包含人名字幕条信息框，支持直接拖拽使用，并可导入 EPS、PSD 等格式进行自定义修改。其内置专业时间线与动态动画功能，可在一分钟内快速创建高质量动态标题，无需复杂操作或导出导入流程。即使非专业运动图形设计师也可轻松使用大量高品质模板进行实时修改。适用于 Windows 系统，兼容从 AE 5.0 到 CC 2015，Premiere CS6 至 CC 2015，Avid Media Composer 6+，DaVinci Resolve 11+，EDIUS 7 及 Sony Vegas Pro 10+（64位）等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/NBTitlerUtl.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects 5.0 - CC 2015, Adobe Premiere CS6 / 6.5, CC - CC 2015, Avid Media Composer & Symphony 6+, Black Magic DaVinci Resolve 11+, Grass Valley EDIUS 7, HitFilm 3 Pro, Sony Vegas Pro 10+ (64-bit OpenX), Titler Standalone Host",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "专业字幕编辑软件+插件 NewBlue Titler PRO Utlimate 4.0 build 151002",
+      "url": "https://www.400gb.com/file/127394987"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.newbluefx.com/titling",
+    "features": [
+      "40+ 4K/5K 高清标题模板",
+      "拖拽式动画生成",
+      "支持自定义导入 EPS/PSD 文件",
+      "独立程序与多软件插件版本",
+      "无需导出即可实时修改",
+      "适合非专业用户快速上手"
+    ],
+    "unsupported_platforms": [
+      "Apple Final Cut Pro X"
+    ],
+    "release_date": "2015-10-26",
+    "author_url": "https://www.lookae.com/author/da-zhong-lian/"
+  }
+}

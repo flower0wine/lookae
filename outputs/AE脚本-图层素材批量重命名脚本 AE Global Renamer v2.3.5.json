@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-图层素材批量重命名脚本 AE Global Renamer v2.3.5",
+  "slug": "aejiao-ben-tu-ceng-su-cai-pi-liang-zhong-ming-ming-jiao-ben-ae-global-renamer-v2-3-5",
+  "author": "大众脸",
+  "post_date": "2021/10/14 22:40",
+  "source_url": "https://www.lookae.com/global-renamer-235/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "AE Global Renamer v2.3.5 是一款用于 Adobe After Effects 的脚本，可实现对项目中图层、预合成、文字层、属性名、表达式、效果插件名称及输出文件的批量重命名。支持添加前后缀，并具备强大的正则表达式功能，适用于复杂项目的高效管理。该版本全面重构，功能增强，界面极简。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/07/Global-Renamer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/331434366984.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://url62.ctfile.com/f/680462-517654640-42b47e"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1I441luY-2prg-mg9KuidOQ"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载（教程）",
+        "url": "https://lookae.ctfile.com/fs/680462-314558688"
+      },
+      {
+        "name": "百度网盘下载（教程）",
+        "url": "https://pan.baidu.com/s/1O-wwK970Y1PRY9wyWmvkvA"
+      }
+    ],
+    "update_notes": [
+      "正则表达式空字符串替换的错误修复",
+      "修复了图层和合成标记重命名的问题",
+      "修复了使用正则表达式时多行支持的问题",
+      "修复了撤消组不匹配错误的问题"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects",
+      "AE脚本"
+    ]
+  }
+}

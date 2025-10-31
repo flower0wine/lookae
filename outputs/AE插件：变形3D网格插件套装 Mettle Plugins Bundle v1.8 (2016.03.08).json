@@ -1,0 +1,50 @@
+{
+  "title": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle v1.8 (2016.03.08)",
+  "slug": "aecha-jian-bian-xing-3dwang-ge-cha-jian-tao-zhuang-mettle-plugins-bundle-v1-8-2016-03-08",
+  "author": "大众脸",
+  "post_date": "2016/03/08 00:03",
+  "source_url": "https://www.lookae.com/mettle182/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle公司是AE的重要插件提供商，其插件数量不多但质量精良。本次发布的Mettle Plugins Bundle v1.8为变形3D网格插件套装，更新支持Adobe CC 2015，并新增全景环境贴图插件SkyBox及其他插件的优化升级。该套装适用于After Effects用户，提供丰富的3D网格变形、文字动画及VR内容制作功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Mettle-Pluginsb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Win版",
+  "download_links": [
+    {
+      "name": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle v1.8 (2016.03.08)",
+      "url": "http://lookae.ctfile.com/file/145200287"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "FreeForm V2.11 - 网格变形插件（普通版）",
+      "FreeForm Pro v1.8 - 3D网格变形插件（专业版）",
+      "ShapeShifter v1.8 - 3D立体文字插件",
+      "SkyBox Creator v2.3",
+      "SkyBox Extractor v1.3",
+      "SkyBox Converter v2.3",
+      "SkyBox Viewer v1.3",
+      "SkyBox VR Player v1.02",
+      "SkyBox 360 Post FX v1.0"
+    ],
+    "plugin_details_en": [
+      "FreeForm V2.11: 3D Mesh Warp Plug-in for After Effects. Bend, Warp and Distort a 3D layer in After Effects. Practical to create cylinders, curves, ribbons, and folds. Easy to create terrains, tunnels, animate water, character animation, and much more!",
+      "FreeForm Pro v1.8: Pro-Level 3D Mesh Warp Plug-in for After Effects. Create and animate terrains, water, billowing fabric, backgrounds in After Effects. Great for character animation, shape morphing, and much more!",
+      "ShapeShifter v1.8: Organic Text & Logo Plug-in for After Effects. Design and animate 3D logos directly in After Effects. Create backgrounds, 3D morphing shapes, and much more, all customizable.",
+      "SkyBox Creator v2.3: Script that lets you generate a 360-degree animation from your After Effects comp. It automatically places a Camera with 6 views in your comp, renders and stitches them together seamlessly.",
+      "SkyBox Extractor v1.3: Converts stitched equirectangular footage into 6 separate camera views for motion tracking, object removal, etc.",
+      "SkyBox Converter v2.3: Converts between Cubic Cross, Equirectangular and Spherical formats with camera re-orientation controls.",
+      "SkyBox Viewer v1.3: Emulates 360° viewing experience for YouTube 360, Oculus Rift, etc., useful for preview and testing.",
+      "SkyBox VR Player v1.02: Free plugin for previewing 360° content in After Effects and Premiere Pro using Oculus Rift (Windows only).",
+      "SkyBox 360 Post FX v1.0: Seamless post effects for cinematic 360°/VR production in After Effects."
+    ],
+    "compatibility": "WIN64 After Effects CC 2015, CC 2014, CC, CS6",
+    "installation_note": "插件为一键安装版，安装即可使用，无功能限制"
+  }
+}

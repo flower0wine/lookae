@@ -1,0 +1,38 @@
+{
+  "title": "AE三维粒子插件：Rowbyte Plexus 2.0.12（支持CS5 – CC 2015）",
+  "slug": "aesan-wei-li-zi-cha-jian-rowbyte-plexus-2-0-12-zhi-chi-cs5-cc-2015",
+  "author": "大众脸",
+  "post_date": "2015/06/25 09:53",
+  "source_url": "https://www.lookae.com/plexus2012/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Plexus是aescripts发布的AE 3D粒子插件，此插件类似Trapcode Form，优势是渲染速度快，支持3D模型导入。你可以将3D模型存储为兼容性高的OBJ格式，导入AE可作为粒子发射器。你还可以借助路径、文字以及灯光创建粒子发射，同时直接提供六种自定义特效，包括分形、颜色、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Plexus-2.0.10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "WIN系统64位",
+  "download_links": [
+    {
+      "name": "AE三维粒子插件：Rowbyte Plexus 2.0.12 （Win64位）",
+      "url": "https://www.400gb.com/file/102073463"
+    }
+  ],
+  "other": {
+    "related_resources": [
+      {
+        "name": "Mac版本：Plexus 2.02",
+        "url": "http://www.ctdisk.com/file/10666082"
+      },
+      {
+        "name": "AE新三维粒子 Plexus 2 教程全集（共14集）",
+        "url": "https://www.lookae.com/plexus2-tutorial/"
+      }
+    ],
+    "update_content": "修复随机帧消失问题，支持AE CC 2015软件",
+    "official_website": "http://aescripts.com/plexus/"
+  }
+}

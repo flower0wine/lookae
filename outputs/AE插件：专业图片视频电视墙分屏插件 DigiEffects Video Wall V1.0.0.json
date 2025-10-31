@@ -1,0 +1,35 @@
+{
+  "title": "AE插件：专业图片视频电视墙分屏插件 DigiEffects Video Wall V1.0.0",
+  "slug": "aecha-jian-zhuan-ye-tu-pian-shi-pin-dian-shi-qiang-fen-ping-cha-jian-digieffects-video-wall-v1-0-0",
+  "author": "大众脸",
+  "post_date": "2015/05/18 10:10",
+  "source_url": "https://www.lookae.com/video-wall/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "这是DigiEffects公司出品的一款最新插件，非常炫酷的专业图片视频电视墙分屏插件，可以在AE中简单快速地制作视频/图片排列和分屏效果，高效而直观地操控。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/05/Video-Wall.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6-CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "AE插件：专业图片视频电视墙分屏插件 DigiEffects Video Wall V1.0.0",
+      "url": "https://www.400gb.com/file/94401788"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "FCPX插件：专业三维视频墙特效 PROWALL（60种效果）",
+        "url": "https://www.lookae.com/prowall/"
+      }
+    ],
+    "official_website": "http://www.digieffects.com/products/video-wall",
+    "plugin_features": "可自定义视频照片墙的行数、列数、间距、旋转等参数，支持三维空间摄像机，使用多达10,000个元素并支持数十种参数动画，高度可定制且操作直观。",
+    "installation": "一键安装即用"
+  }
+}

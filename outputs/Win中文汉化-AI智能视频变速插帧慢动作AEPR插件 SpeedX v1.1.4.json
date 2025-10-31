@@ -1,0 +1,45 @@
+{
+  "title": "Win中文汉化-AI智能视频变速插帧慢动作AE/PR插件 SpeedX v1.1.4",
+  "slug": "winzhong-wen-yi-hua-aizhi-neng-shi-pin-bian-su-cha-zheng-man-dong-zuo-ae-prcha-jian-speedx-v1-1-4",
+  "author": "大众脸",
+  "post_date": "2024/06/28 10:20",
+  "source_url": "https://www.lookae.com/speedx-114/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "SpeedX",
+    "中文汉化",
+    "人工智能",
+    "视频变速"
+  ],
+  "content": "SpeedX是一款采用AI技术的高级时间重映射插件，通过智能地在帧之间插入额外图像来加速或减慢视频速度。该插件采用基于人工智能的复杂光流方法计算视频序列中的物体运动，能感知运动边界周围的遮挡，并在精确的基于像素的光流和遮挡信息的指导下自适应地融合图像像素，生成高质量和更逼真的中间帧。它是一款专业且经济实惠的时间重映射工具，适合视频帧率转换、超慢动作、变速、可变反向播放和更具创意的视频效果。此外，该插件针对Adobe After Effects和Adobe Premiere Pro进行GPU加速，适用于Mac和Windows。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/SpeedX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325915094533.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": "2024, 2023, 2022, 2021, 2020（仅Win系统）",
+    "Premiere": "2024, 2023, 2022, 2021, 2020（仅Win系统）"
+  },
+  "supported_os": "Mac和Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1315208663-fedffd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1VMvzc0I0JkC1znzzdu-b5A?pwd=belr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/51ga9Br6Kx4"
+    }
+  ],
+  "other": {
+    "v1.1.4更新内容": "修复闪烁问题；修复内存泄漏问题；提高稳定性。"
+  }
+}

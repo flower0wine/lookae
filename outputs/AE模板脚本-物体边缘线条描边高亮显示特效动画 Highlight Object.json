@@ -1,0 +1,47 @@
+{
+  "title": "AE模板脚本-物体边缘线条描边高亮显示特效动画 Highlight Object",
+  "slug": "aemo-ban-jiao-ben-wu-ti-bian-yuan-xian-tiao-miao-bian-gao-liang-xian-shi-te-xiao-dong-hua-highlight-object",
+  "author": "大众脸",
+  "post_date": "2023-03-01",
+  "source_url": "https://www.lookae.com/highlight-object/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "描边特效"
+  ],
+  "content": "14种轮廓样式，没有限制在一个排版中有多少个轮廓或多少个对象将被突出显示。一些样式可以组合在一起，也适用于简单的形状和文本。包括有助于使用模板的特殊脚本，每种样式都有几个修改其外观的控件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/43837663.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/399848498279.mp4"
+  ],
+  "supported_versions": "After Effects 2023或更高",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-815366188-5edb31?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1X7o7_ORvFU0HPb_LGtpiqQ?pwd=lv60"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/KBV3R1tWFmh"
+    }
+  ],
+  "other": {
+    "resolution": "1920*1080",
+    "plugin_required": "无需外置插件",
+    "music_included": "无音乐",
+    "file_size": "178M",
+    "tutorial": "包含视频教程",
+    "usage_steps": [
+      "使用RotoBrush工具从视频中剪切对象",
+      "通过特殊脚本将大纲整合到排版中",
+      "使用控件自定义大纲"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "AE脚本-人物角色骨骼IK绑定动画控制 Limber v1.7.4 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-gu-ge-ikbang-ding-dong-hua-kong-zhi-limber-v1-7-4-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-07-20",
+  "source_url": "https://www.lookae.com/limber-174/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Limber",
+    "角色绑定"
+  ],
+  "content": "Limber 是 After Effects 的 IK 系统，通过形状图层为角色动画生成可定制的肢体。支持样式、颜色控制，防止动画“弹出”，平滑切换 IK/FK，并可替换不同肢体类型。提供控制器层动画髋、踝点，可一键生成 FK 控制器；支持深度自定义形状层，附带不断更新的“肢体库”。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/limber-174.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/369165525589.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-622229853-760ed5?p=4431"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1UxKSGhgYErISz2_k1cjanQ?pwd=9mgd"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/zoqMyQE9h3m"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-323818611"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1WsJDPaCp-3a8MJVhHH-bug"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复某些用户的 JSON 验证错误",
+      "用户设置迁移到 Settings_Limber 下的 AE 内置首选项",
+      "更新肢体库（错误修复）"
+    ],
+    "access_codes": {
+      "城通网盘": "6688",
+      "百度网盘": "9mgd"
+    }
+  }
+}

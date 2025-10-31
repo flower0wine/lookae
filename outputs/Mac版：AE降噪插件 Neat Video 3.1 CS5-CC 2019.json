@@ -1,0 +1,49 @@
+{
+  "title": "Mac版：AE降噪插件 Neat Video 3.1 CS5-CC 2019",
+  "slug": "macban-aejiang-zao-cha-jian-neat-video-3-1-cs5-cc-2019",
+  "author": "大众脸",
+  "post_date": "2015/01/09 18:02",
+  "source_url": "https://www.lookae.com/aeneatvideoy/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "Neat Video 是一款比较著名的专业视频降噪插件，优秀的降噪技术和高效率的渲染得到很多使用者的认可。插件支持 GPU 和 CPU 协同工作，具有较好的降噪效果和处理速度。该插件主要用于减少数字摄像机、摄像机、电视调谐器、胶片或模拟视频数字化设备所生成视频中的可见噪点和颗粒。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/01/neatvideot.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2019",
+  "supported_os": "Mac OSX (Yosemite 10.10 或更高版本)",
+  "download_links": [
+    {
+      "name": "Mac版：AE降噪插件 Neat Video 3.1（支持 Yosemite10.10）",
+      "url": "https://www.400gb.com/file/82093131"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "Premiere Pro 降噪插件：Neat Video Pro v3.5（Win64）",
+        "url": "https://www.lookae.com/neatvideo35/"
+      },
+      {
+        "title": "EDIUS 降噪插件：Neat Video v3.4 CE",
+        "url": "https://www.lookae.com/edneatvideo34/"
+      },
+      {
+        "title": "专业降噪插件：Neat Video v3.5 for OFX（适用：Nuke,Fusion,达芬奇）",
+        "url": "https://www.lookae.com/neat-video-ofx/"
+      },
+      {
+        "title": "FCPX/7插件：专业降噪插件 Neat Video 3.2 (支持Yosemite10.10）",
+        "url": "https://www.lookae.com/neatvideo32y/"
+      },
+      {
+        "title": "Ae/Pr降噪插件 Neat Video 使用教程",
+        "url": "https://www.lookae.com/neatvideot/"
+      }
+    ]
+  }
+}

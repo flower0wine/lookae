@@ -1,0 +1,51 @@
+{
+  "title": "免费版交互式色轮调色配色AE脚本 COCO Color Wheel V1.0.0",
+  "slug": "mian-fei-ban-jiao-hu-shi-se-lun-diao-se-pei-se-aejiao-ben-coco-color-wheel-v1-0-0",
+  "author": "大众脸",
+  "post_date": "2022-04-21T10:57:00Z",
+  "source_url": "https://www.lookae.com/coco-color-wheel/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "COCO Color Wheel",
+    "调色插件",
+    "配色插件"
+  ],
+  "content": "COCO Color Wheel 是一款在 After Effects 中直接使用的免费交互式色轮工具，专为快速创建和管理色彩方案设计。它支持多种色彩理论公式（如单色、相似、互补、三色和四色），并可无缝与 Coco Color CoWorker 配合使用，实现调色板的快速保存与跨平台访问。界面简洁，操作便捷，支持一键应用颜色或导入调色板，并支持 Windows 与 Mac 系统下的 Adobe After Effects 2021 及 2022 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/COCO-Color-Wheel.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/357210195302.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2022, 2021",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-572143722-6752af"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1akADfbsP4rKdP-RfYjQjsQ?pwd=hw55"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/VJs8kmQ8mW6"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "hw55"
+    },
+    "description": "A FREE interactive color wheel directly in After Effects. The perfect companion to make color palettes in Coco Color CoWorker.",
+    "features": [
+      "支持多种色彩理论公式（单色、相似、互补、三色、四色）",
+      "完全免费使用",
+      "一键应用颜色或导入调色板",
+      "与 Coco Color CoWorker 无缝同步",
+      "兼容 Win/Mac 系统，支持 AE 2021/2022"
+    ]
+  }
+}

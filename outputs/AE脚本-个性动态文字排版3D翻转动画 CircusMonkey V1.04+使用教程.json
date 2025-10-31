@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-个性动态文字排版3D翻转动画 CircusMonkey V1.04+使用教程",
+  "slug": "aejiao-ben-ge-xing-dong-tai-wen-zi-pai-ban-3dfan-zhuan-dong-hua-circusmonkey-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/03 10:17",
+  "source_url": "https://www.lookae.com/circusmonkey-104/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "CircusMonkey 是一款用于 After Effects 的脚本，可轻松创建个性化的动态文字排版与3D翻转动画。支持文字旋转、焦距等7种绑定方式，提供多种功能设置，帮助用户以最简便的方式实现文字动力学效果。该脚本为在3D空间中处理文本提供了全新的方法，释放出惊人的创作可能性。适用于 Windows 和 Mac 系统下的 AE CS5.5 至 CC2019 版本，并已更新兼容 macOS 10.15 Catalina。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/CircusMonkey-103.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5.5 - CC2019",
+  "supported_os": "Windows, Mac (macOS 10.15 Catalina 及以上兼容)",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-410973217"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Dq-vvJyyuNiLX8p_0Kg_Ew"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.400gb.com/file/136012445"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1XMkHChnAgHprshG-2U311Q"
+    }
+  ],
+  "other": {
+    "extract_code": "dboy",
+    "script_website": "https://aescripts.com/circusmonkey/",
+    "update_note": "V1.04 新版更新：兼容 macOS 10.15 Catalina 系统"
+  }
+}

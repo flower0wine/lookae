@@ -1,0 +1,35 @@
+{
+  "title": "AE插件-骨骼关节绑定扭曲变形联动 BAO Joint v1.0.2 Win/Mac版 + 使用教程",
+  "slug": "aecha-jian-gu-ge-guan-jie-bang-ding-niu-qu-bian-xing-lian-dong-bao-joint-v1-0-2-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/01/16 21:42",
+  "source_url": "https://www.lookae.com/bao-joint-102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "在After Effects中为2个不同的父级创建一个图层，它会在它们之间产生“联合”并相应地扭曲。该插件可完美添加到IK装备中用于手臂、腿等部位，支持用户定义的“挤压和拉伸”强度、可定义的贝塞尔曲线张力和中点，并具备精确的运动模糊（包括失真）、避免自我相交、超快渲染以及完全本机插件等特性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/BAO-Joint-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-418544840"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ZzvZ3aHCAiivWzNyenii-A"
+    }
+  ],
+  "other": {
+    "version_details": {
+      "Windows": "v1.0.2",
+      "Mac": "v1.0.1"
+    },
+    "update_notes": "V1.0.2更新内容：增加了16位支持"
+  }
+}

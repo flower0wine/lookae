@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-精品表达式合集效果库 iExpressions 3.2.005",
+  "slug": "aejiao-ben-jing-pin-biao-da-shi-he-ji-xiao-guo-ku-iexpressions-3-2-005",
+  "author": "大众脸",
+  "post_date": "2022/05/05 11:00",
+  "source_url": "https://www.lookae.com/iexpressions-3205/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AE表达式",
+    "iExpressions"
+  ],
+  "content": "iExpressions 是由 mamoworld 开发的一款功能强大的 After Effects 脚本，包含九大类超过百余种常用表达式，无需编写任何代码即可创建复杂的表达式驱动模板、角色绑定、形状动画、摄像机动画、音频控制、层关联、抖动动画及物理模拟等效果。脚本提供简洁直观的用户界面，极大简化了表达式的使用流程，并支持创建可在未安装 iExpressions 的设备上正常运行的项目，包括 Premiere Pro 的 Motion Graphics 模板。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/iExpressions-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/281004569620.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577495553-69d439?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15IVKftwNF90igasdNahSOw?pwd=v2w9"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/SN1X2My2uu4"
+    }
+  ],
+  "other": {
+    "update_notes": "修复了与较新操作系统版本的兼容性，并增加了对时间限制许可证的支持"
+  }
+}

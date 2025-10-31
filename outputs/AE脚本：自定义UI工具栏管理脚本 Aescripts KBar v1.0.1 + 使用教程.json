@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本：自定义UI工具栏管理脚本 Aescripts KBar v1.0.1 + 使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-uigong-ju-lan-guan-li-jiao-ben-aescripts-kbar-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-07-15 15:41",
+  "source_url": "https://www.lookae.com/kbar/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "KBar 脚本可以轻松的管理AE常用的插件，效果，表达式，脚本等其他功能整理放在一个面板中，这样可以节省我们查找效果的时间，提高工作效率。Create custom toolbars unique to your workflows. Save time and clicks by putting your most used effects, presets and more at your fingertips. Multiple toolbars let you switch between different tasks and keep your productivity up. Focus on creativity, not digging through menus.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/07/KBar.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-211885079"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bo3KwqV"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/kbar/"
+  }
+}

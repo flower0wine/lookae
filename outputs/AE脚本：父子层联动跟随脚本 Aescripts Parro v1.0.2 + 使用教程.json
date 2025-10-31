@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本：父子层联动跟随脚本 Aescripts Parro v1.0.2 + 使用教程",
+  "slug": "aejiao-ben-fu-zi-ceng-lian-dong-gen-sui-jiao-ben-aescripts-parro-v1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/11/21 19:22",
+  "source_url": "https://www.lookae.com/parro102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Parro 是一个非常好用的图层属性联动脚本，可以让制作好的父层动画属性直接传送给子层。脚本还支持调节延迟时间等参数，在制作 MG 图形动画时能显著提升效率。Parrot 是一个用于动态连接和偏移动画的动画系统，非常适合动态图形设计工作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/Parro.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-229196836"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1i5aj3nB"
+    }
+  ],
+  "other": {
+    "installation_path": "…..\\Adobe After Effects 版本号\\Support Files\\Scripts\\ScriptUI Panels\\",
+    "official_website": "https://aescripts.com/parrot/"
+  }
+}

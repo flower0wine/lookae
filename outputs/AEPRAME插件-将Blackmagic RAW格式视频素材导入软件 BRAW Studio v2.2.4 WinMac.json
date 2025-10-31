@@ -1,0 +1,56 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材导入软件 BRAW Studio v2.2.4 Win/Mac",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-dao-ru-ruan-jian-braw-studio-v2-2-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/12/29 16:49",
+  "source_url": "https://www.lookae.com/braw-studio-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "BRAW Studio 是一款专为 Adobe After Effects、Premiere Pro 和 Media Encoder 设计的原生 Blackmagic RAW (.braw) 格式导入插件。它支持将 Blackmagic RAW 视频素材直接导入到上述软件中，并提供参数设置功能，提升工作流程效率。该插件适用于 Windows 和 Mac 系统，兼容多个版本的 Adobe CC 软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017; Premiere Pro 2020, CC 2019, CC 2018, CC 2017; Media Encoder 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-477806727"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/14lVOI493U3X_K8C-rqFm_g"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "version": "v2.2.4",
+    "update_notes": [
+      "添加了对Nikon Z 6和由Blackmagic Video Assist捕获的Z 7 Blackmagic RAW剪辑的支持",
+      "新增BRAW Gamma设置：N-Log",
+      "PrPro面板新功能：支持会话间缓存数据保存，提高面板性能；可手动清除缓存；支持在解码中使用‘摄影机元数据’和‘BRAW默认值’中的‘加载和保存Sidecar’按钮",
+      "元数据新增‘具有嵌入式LUT’字段",
+      "修复：PrPro Panel v2.2.3速度问题",
+      "修复：更新BRAW时，若下拉列表中有新选项（如新Gamma），打开旧项目无法选择新选项的问题（现已修复）",
+      "修复：BRAW Studio面板在同一个Premiere Pro会话中处理多个项目时的异常",
+      "‘重置为BRAW默认’按钮现在将白平衡设为固定值（5500,10），而非之前的‘AsShot’",
+      "修复工具箱转换BMD错误"
+    ],
+    "homepage": "https://aescripts.com/braw-studio/",
+    "additional_info": "支持多种相机录制的BRAW格式素材，适合专业影视后期制作流程"
+  }
+}

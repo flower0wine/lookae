@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：快速动画脚本 Aescripts Motion Monkey V1.0（附教程）",
+  "slug": "aejiao-ben-kuai-su-dong-hua-jiao-ben-aescripts-motion-monkey-v1-0-fu-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014-07-07 17:37",
+  "source_url": "https://www.lookae.com/motionmonkey/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE教程",
+    "AE模板"
+  ],
+  "content": "MotionMonkey 是 AEScripts出品的一个快速创建各种PSR动画的脚本，无需关键帧，简单但是超级实用的脚本，可以给视频添加动态motion，简单点击就可以无限增加motion动画。这是一个强大而直观的新方式，为您的设计添加动态效果。只需点击几下即可创建无限多样的动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/07/Motion-Monkey-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：快速动画脚本 Aescripts Motion Monkey V1.0（附教程）",
+      "url": "https://www.400gb.com/file/67966656"
+    }
+  ],
+  "other": {
+    "official_url": "http://aescripts.com/motionmonkey/",
+    "key_features": [
+      "基于控制面板输入的参数为分层设计创建各种动画",
+      "随机或自定义设置可创建从温和到狂野的动画变化",
+      "适用于大多数图层类型（文本、静态图像、视频、预合成、实体、形状、AI、PSD、空对象和父子图层）",
+      "Motion Mixer选项为动画添加额外的变化和复杂性",
+      "多种插值、速度和强度可营造从微妙到充满活力的各种氛围",
+      "支持Kuler颜色调色板轻松导入",
+      "包含MonkeyTools工具集"
+    ]
+  }
+}

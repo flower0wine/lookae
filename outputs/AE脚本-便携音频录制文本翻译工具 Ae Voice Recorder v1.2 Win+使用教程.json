@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-便携音频录制文本翻译工具 Ae Voice Recorder v1.2 Win+使用教程",
+  "slug": "aejiao-ben-bian-xi-yin-pin-lu-zhi-wen-ben-fan-yi-gong-ju-ae-voice-recorder-v1-2-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/10/08 12:00",
+  "source_url": "https://www.lookae.com/voice-recorder/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "文本翻译",
+    "音频录制"
+  ],
+  "content": "Ae Voice Recorder 是一款专为 After Effects 设计的便携式音频录制与文本翻译工具，支持在软件内直接录音、语音转文字、文本转语音及多语言翻译功能，适用于配音（VO）、临时音轨、笔记和客户评论等场景。该脚本界面简洁高效，提供一键录制、字幕生成与文本处理能力，极大提升后期制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/AeVoiceRecorder.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/485662161386.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1381866487-3f8a31?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1x_DR_Q-EkMfU74acqb17hA?pwd=vigb"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/ck3HuLyyFfd"
+    }
+  ],
+  "other": {
+    "subtitle": "Quickly and easily record voice and audio directly in after effects. Perfect for VO’s, scratch tracks, notes and client comments.",
+    "features": [
+      "在 After Effects 中直接录制任何声音",
+      "简单高效的录音机界面，支持开始/停止录制",
+      "语音转文本：支持多语言转换，用于字幕生成",
+      "设置字幕：可从语音层提取或手动输入文本创建字幕",
+      "文本转语音：将多语言文本转换为语音输出",
+      "文本翻译器：支持从语音层或手动输入进行多语言翻译，适用于字幕制作"
+    ],
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "tags_links": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)",
+      "[文本翻译](https://www.lookae.com/tag/%e6%96%87%e6%9c%ac%e7%bf%bb%e8%af%91/)",
+      "[音频录制](https://www.lookae.com/tag/%e9%9f%b3%e9%a2%91%e5%bd%95%e5%88%b6/)"
+    ],
+    "download_password": "6688",
+    "extract_code": "vigb"
+  }
+}

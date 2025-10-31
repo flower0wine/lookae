@@ -1,0 +1,83 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v3.0.2 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v3-0-2-win",
+  "author": "大众脸",
+  "post_date": "2023/12/06 09:53",
+  "source_url": "https://www.lookae.com/lockdown-301/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Lockdown",
+    "中文汉化",
+    "跟踪插件"
+  ],
+  "content": "Lockdown 是一款专为 After Effects 设计的高级物体表面跟踪与特效合成插件，支持在扭曲表面上进行精准跟踪。其最新版本 V3.0.2 提供了强大的 3D 深度生成能力，可将网格导入 Cinema 4D、Blender 等 3D 软件用于附加对象、数字重照明等操作。该插件已实现中文汉化，提升中文用户使用体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/07/Lockdown-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/418228988572.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-985883578-3fc064?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1nOqXvXPLghWfAMr9nrEMbg?pwd=yb4a"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/jTCXmWTaFTR"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-977780632-58547f?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1oEuYK1gKApbHFL9B6uNbBw?pwd=2ttk"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.alipan.com/s/ExzfNiB7qdo"
+    }
+  ],
+  "other": {
+    "update_notes_v3_0_1": [
+      "发布了新的免费版本 Lockdown，支持所有用户进行 1 点和 2 点跟踪（试用模式下可用）。",
+      "使用 Lockdown 创建 C4D 文件后可自动导入 After Effects。",
+      "After Effects UI 中的 3D 功能已启用 GPU 加速。",
+      "新增键盘热键 WASD 用于微调点位置。",
+      "新增 'J' 和 'K' 键用于在关键帧间快速移动时间指针。",
+      "修复了英雄框架在入点/出点外时的 3D 导出问题（UV 数据、变换比例）。",
+      "修复了部分 Unicode 路径无法读取的问题。",
+      "修复了透视变形在渲染中未正确应用参数状态的问题。",
+      "修复了烘焙功能未完整烘焙整个时间线的问题。",
+      "优化了部分参数值文本对齐，避免按钮拥挤或分散。",
+      "插件二进制文件大小显著减小（约 90MB）。",
+      "深度估计器为大体积 sidecar 文件（1.3GB），名为 \"depth_estimator_384x384_low_vram.vrl\"。",
+      "默认启用跟踪文件缓存。",
+      "‘烘焙’功能现在可在烘焙后自动填充轨道空白。",
+      "移除了 3D 工作区中无网格时的帧图像渲染。",
+      "将 AE UI 中的‘正常’渲染模式重命名为‘网格’。",
+      "新增‘使用英雄帧深度’复选框参数。",
+      "当平面跟踪器关闭时，隐藏其相关 UI 控件。",
+      "主跟踪选项卡中新增变换控件"
+    ],
+    "update_notes_v3_0_2": [
+      "修复了在 After Effects 2024 中点击‘面部跟踪器导入’导致 Lockdown 崩溃的错误。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/lockdown/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "https://www.lookae.com/tag/%e8%b7%9f%e8%b8%aa%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

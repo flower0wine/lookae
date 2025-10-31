@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-VR全景视觉合成工具 Aescripts Canvas 360 Pro v1.61",
+  "slug": "aejiao-ben-vrquan-jing-shi-jue-he-cheng-gong-ju-aescripts-canvas-360-pro-v1-61",
+  "author": "大众脸",
+  "post_date": "2019/04/14 22:09",
+  "source_url": "https://www.lookae.com/canvas-161/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "使用脚本可以在AE软件中制作360 VR视觉特效视频，可在画面中添加素材、粒子、三维物体等。支持导入C4D、Unity、Maya、Nuke等软件的三维摄像机信息，还可以与Skybox和MochaVR工具配合使用，简化VR 360°后期制作流程，充分发挥After Effects在360°后期制作中的潜力，节省时间和成本，提升VR内容质量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Canvas-360.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-365500637"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1RY7XIfbIPIINP-ANpJ-ZUA"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_extract_code": "k807",
+    "official_store_url": "https://lookae.taobao.com/",
+    "sponsor_url": "https://www.lookae.com/sponsor/",
+    "product_official_url": "http://aescripts.com/canvas-360pro/"
+  }
+}

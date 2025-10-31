@@ -1,0 +1,54 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材导入软件 BRAW Studio v1.8.0 Win版",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-dao-ru-ruan-jian-braw-studio-v1-8-0-winban",
+  "author": "大众脸",
+  "post_date": "2019/11/24 16:29",
+  "source_url": "https://www.lookae.com/braw-18/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AME插件",
+    "PR插件"
+  ],
+  "content": "BRAW Studio 是一款用于 Adobe Creative Cloud 的原生 Blackmagic RAW (.braw) 导入插件，支持在 After Effects、Premiere Pro 和 Media Encoder 中直接导入 .braw 格式素材，并可对 Blackmagic RAW 参数进行调整。插件已内置注册，无需序列号。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/03/BRAW-Studio.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects / Premiere / Media Encoder: 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-409118399"
+    },
+    {
+      "name": "插件 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1gc_QVlyQq59-S8FB0ltBwA"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "tutorial_extract_code": "n67x",
+    "installation_steps": [
+      "复制 Autokroma BRAW Studio 文件夹到：C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore",
+      "运行 BRAW Studio Panel 文件夹里的 Install (Run as Admin).bat",
+      "打开软件使用插件。插件已经内部注册，不需要序列号。"
+    ],
+    "version_update_notes": [
+      "BRAW Studio 现在支持 After Effects！",
+      "导入任何 .braw 素材，目前支持 8 bpc 和 16 bpc",
+      "在“效果”列表中“Autokroma”下的“图层设置”效果中更改 Blackmagic RAW 参数（应仅应用于 .braw 源素材图层）",
+      "应用层设置后，以“RX-SY-TZ-GB-CR.W”的形式（在 Reel X，Scenery Y，Take Z，GoodTake B 1 或 0 下设置），在项目面板的“注释”列中设置元数据，压缩比 W）",
+      "Premiere Pro：新的“BR 压缩率”元数据，由 BRAW Studio 面板设置"
+    ],
+    "official_website": "https://aescripts.com/braw-studio/"
+  }
+}

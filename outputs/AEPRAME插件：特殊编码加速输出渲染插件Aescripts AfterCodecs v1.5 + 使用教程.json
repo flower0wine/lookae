@@ -1,0 +1,70 @@
+{
+  "title": "AE/PR/AME插件：特殊编码加速输出渲染插件Aescripts AfterCodecs v1.5 + 使用教程",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-10-22T11:07:00Z",
+  "source_url": "https://www.lookae.com/aftercodecs-15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Aescripts AfterCodecs v1.5 是一款专为 After Effects、Premiere Pro 和 Media Encoder 设计的编码输出插件，可显著提升视频渲染速度并优化文件体积。支持 H264、H265、ProRes 等多种主流编码格式，尤其适用于需要高质量压缩与快速导出的专业用户。该插件在性能和画质方面均优于 AE 内建输出功能，并提供对 Alpha 通道、高分辨率（包括 8K）及多线程加速的支持。新版更新增强了对 CC 2019 的兼容性，优化了 HAP 编码算法，引入新压缩模式与更高分辨率支持，同时修复了部分使用中的稳定性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015, CC 2015.3, CC 2017, CC 2018, CC 2019; Premiere CC 2015, CC 2015.3, CC 2017, CC 2018, CC 2019; Media Encoder CC 2015, CC 2017, CC 2018, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-315913629"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1KcW2lvHtkly4kPG6sNZaKw"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载（教程）",
+        "url": "https://www.pipipan.com/fs/680462-221741711"
+      },
+      {
+        "name": "百度网盘下载（教程）",
+        "url": "https://pan.baidu.com/s/1c2nhMI8"
+      }
+    ],
+    "official_website": "http://aescripts.com/aftercodecs/",
+    "update_notes": {
+      "version": "v1.5",
+      "date": "2018-10-20",
+      "features": [
+        "更新支持 CC 2019",
+        "ffmpeg fork 可执行文件更名为 ffkroma，需手动更新至至少 4.0.2-93 版本",
+        "改进 HAP 编码：新增 Hap Q Alpha 配置，支持更优质量与更快压缩（含 AVX512 优化和多线程支持）",
+        "支持 4 个额外分辨率用于 HAP 极限模式",
+        "修复无法撤销（Ctrl+Z）时的自动 AE RQ 评论错误，新增独立子菜单"
+      ],
+      "notes": [
+        "macOS 用户在使用 ProRes 422 时需注意颜色空间转换问题，建议使用 ProRes 4444",
+        "HAP 编码提供三种压缩方式，可根据需求权衡速度与质量"
+      ]
+    },
+    "supported_codecs": {
+      "ProRes": [
+        "LT",
+        "Proxy",
+        "Normal",
+        "HQ",
+        "444 (支持 Alpha 通道)"
+      ],
+      "x264": "最佳 H264/AVC 实现，优于 Adobe Media Encoder、QuickTime H264 及 AE 内建输出",
+      "x265": "文件体积比 x264 小 30%，支持 8K 分辨率",
+      "x264 RGB": "避免 YUV 色彩空间，适合存储分离通道（如 UV 映射、Alpha）"
+    }
+  }
+}

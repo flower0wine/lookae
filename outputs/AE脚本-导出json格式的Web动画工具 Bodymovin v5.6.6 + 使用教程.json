@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-导出json格式的Web动画工具 Bodymovin v5.6.6 + 使用教程",
+  "slug": "aejiao-ben-dao-chu-jsonge-shi-de-webdong-hua-gong-ju-bodymovin-v5-6-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/03/06 12:42",
+  "source_url": "https://www.lookae.com/bodymovin-566/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "用于导出Web动画的After Effects扩展。动画导出为.json文件，使用随插件附带的bodymovin.js播放器。您可以在svg，canvas和html上在浏览器中渲染动画。它支持After Effects功能的子集。动画也可以通过Lottie在iOS和Android上本地播放。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Bodymovin.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://72k.us/file/680462-426695448"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1yNkLKqUx6D2IkomVoDoikQ"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382843706"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1qGkQJb27DRqeeOMZ-73uKg"
+    }
+  ],
+  "other": {
+    "baidu_password": "7041",
+    "tutorial_extract_code": "tm91",
+    "update_details": [
+      "复制原始资产时正确读取文件扩展名",
+      "修复带回车符的内联json对象",
+      "添加了对横幅的循环支持",
+      "将调整层导出为空层",
+      "添加了选择复合名称为默认值的复选框",
+      "添加了过滤器大小配置并默认为100％",
+      "添加缺少的动画事件名称定义"
+    ],
+    "original_website": "https://aescripts.com/bodymovin/"
+  }
+}

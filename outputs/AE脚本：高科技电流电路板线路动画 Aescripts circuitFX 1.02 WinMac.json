@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本：高科技电流电路板线路动画 Aescripts circuitFX 1.02 Win/Mac",
+  "slug": "aejiao-ben-gao-ke-ji-dian-liu-dian-lu-ban-xian-lu-dong-hua-aescripts-circuitfx-1-02-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/03/03 18:23",
+  "source_url": "https://www.lookae.com/circuitfx102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "circuitFX是AE软件中一款高科技电流电路板线路动画脚本，能够随机生成各种电路图，还可创建CUP、电阻、电流器、芯片等，可将部件放在同一电路图层或单个图层，控制操作简单，适用于制作HUD高科技背景动画等科技动画。1.02版本更新：增加防止电路交叉选项，可调整外部及内部电容器颜色。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/circuitFX-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：高科技电流电路板线路动画 Aescripts circuitFX 1.02",
+      "url": "https://lookae.ctfile.com/fs/qJX173558920"
+    }
+  ],
+  "other": {
+    "官网地址": "http://aescripts.com/circuitfx/",
+    "脚本使用": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "相关链接": [
+      "【大众脸官方淘宝店】：https://lookae.taobao.com/",
+      "点击自愿赞助 LookAE.com 网站 【送精品资源】：https://www.lookae.com/sponsor/"
+    ]
+  }
+}

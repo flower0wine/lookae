@@ -1,0 +1,33 @@
+{
+  "title": "AE插件-多遮罩蒙板控制抠像助手 KeyMix v1.0.1 Win版 + 使用教程",
+  "slug": "aecha-jian-duo-zhe-zhao-meng-ban-kong-zhi-kou-xiang-zhu-shou-keymix-v1-0-1-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/11/13 10:46",
+  "source_url": "https://www.lookae.com/keymix-101/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE插件"
+  ],
+  "content": "KeyMix允许您使用多个蒙版或MASK遮罩层在单个图层上混合多个抠像键控；搭配Keylight抠像插件使用，使其获得更加完美的抠像通道，通常包括使用不同的设置添加多个键控，然后将它们混合在一起。KeyMix简化了这一过程，允许您将所有抠像键控复合到单个层，而不是单独的合成里。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/KeyMix.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019,CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-407058268"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Qy6vm_suwo96fwCxx45Xsw"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/keymix/",
+    "render_limitation": "Free and un-watermarked for renders under 720p!"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "AE插件-点线面三维粒子特效 Plexus v3.2.10 Win",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-te-xiao-plexus-v3-2-10-win",
+  "author": "大众脸",
+  "post_date": "2025/09/17 09:07",
+  "source_url": "https://www.lookae.com/plexus-3210/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "粒子插件"
+  ],
+  "content": "强大的 Plexus 粒子插件拥有众多功能，制作点线面三维粒子效果非常方便，渲染速度快，支持3D模型导入。你可以将3D模型存储为兼容性高的OBJ格式，导入AE可作为粒子发射器。你还可以借助路径、文字以及灯光创建粒子发射，操作模式有违常规。同时直接提供多种自定义特效，如分形、颜色、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/341819600475.mp4"
+  ],
+  "supported_versions": "After Effects 2015, 2017, CC 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8435528985-5ce916?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/16X6TawTRsAInTnWvPCETUQ?pwd=kxas"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/dfzKowsBcei"
+    }
+  ],
+  "other": {
+    "update_log": "v3.2.10更新内容：新功能：线、面和三角剖分渲染对象的最小距离参数。",
+    "tutorials": [
+      {
+        "name": "使用教程-城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "name": "使用教程-百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      }
+    ],
+    "mac_version": {
+      "title": "苹果版AE插件-点线面三维粒子特效 Plexus v3.2.6",
+      "url": "https://www.lookae.com/plexus-326/"
+    },
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "kxas"
+    }
+  }
+}

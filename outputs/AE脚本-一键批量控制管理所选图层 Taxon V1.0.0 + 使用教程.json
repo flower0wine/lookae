@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-一键批量控制管理所选图层 Taxon V1.0.0 + 使用教程",
+  "slug": "aejiao-ben-yi-jian-pi-liang-kong-zhi-guan-li-suo-xuan-tu-ceng-taxon-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/06 10:24",
+  "source_url": "https://www.lookae.com/taxon/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Taxon",
+    "图层管理"
+  ],
+  "content": "Taxon是一款用于After Effects的脚本，通过控制具有共享属性的图层来管理合成。它可以根据类型、名称、标签颜色、混合模式等多种属性来批量选择和管理图层，提高工作效率。脚本支持自定义选项卡，可以组合不同选择器创建个性化工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Taxon.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/358805978311.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577678570-5f2003?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1uNKXD2vE6VjyRbuokKZCyg?pwd=i47i"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ciXpTfyBsxY"
+    }
+  ],
+  "other": {
+    "extraction_codes": {
+      "城通网盘": "6688",
+      "百度网盘": "i47i"
+    },
+    "script_features": [
+      "类型：按类型（形状、相机、空值、文本等）选择图层",
+      "名称：按名称选择图层",
+      "属性：选择共享相同属性（锁定、可见、父级等）的图层",
+      "标签颜色：按标签选择图层",
+      "混合模式：通过混合模式选择图层",
+      "自定义：组合所有选项卡中的选择器创建自定义选项卡"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-自动适配动态方框动画 Pins & Boxes v.1.1.003",
+  "slug": "aejiao-ben-zi-dong-gua-pei-dong-tai-fang-kuang-dong-hua-pins-boxes-v-1-1-003",
+  "author": "大众脸",
+  "post_date": "2022-05-05",
+  "source_url": "https://www.lookae.com/boxes-11003/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "自动适配"
+  ],
+  "content": "轻松创建动态方框布局：将元素对齐并附加到文本边界框的任意点，生成随内容自动伸缩的方框，文本或尺寸变化时无需手动调整，是制作动画图形效果的理想工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Pins-Boxes.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577485892-525d5c?p=4431"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1BBwZRDzmtQkrZACKwHlF0g?pwd=vvzz"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/yKgSkmthncw"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-374997725"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1OP_N5HX1oBgbr9ifyH5njQ"
+    }
+  ],
+  "other": {
+    "update_note": "v.1.1.003 修复了与较新操作系统版本的兼容性，并增加了对时间限制许可证的支持",
+    "passwords": {
+      "城通网盘脚本": "6688",
+      "百度网盘脚本": "vvzz",
+      "百度网盘教程": "ux2p"
+    }
+  }
+}

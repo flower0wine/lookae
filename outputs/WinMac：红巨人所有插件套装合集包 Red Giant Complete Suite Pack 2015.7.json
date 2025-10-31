@@ -1,0 +1,146 @@
+{
+  "title": "Win/Mac：红巨人所有插件套装合集包 Red Giant Complete Suite Pack 2015.7",
+  "slug": "win-mac-hong-ju-ren-suo-you-cha-jian-tao-zhuang-he-ji-bao-red-giant-complete-suite-pack-2015-7",
+  "author": "大众脸",
+  "post_date": "2015/07/17 20:51",
+  "source_url": "https://www.lookae.com/wmrg/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "FCPX",
+    "PR插件",
+    "PS插件",
+    "Red Giant",
+    "Win/Mac",
+    "达芬奇插件"
+  ],
+  "content": "2015.07更新Mac苹果版红巨人所有插件套装合集包 Red Giant Complete Suite Pack，包括了Red Giant红巨人所有的插件套装，且都为目前最新版，支持众多后期软件，含序列号。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/RGPACK2015.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: CC 2015, 2014, CC, CS6, CS5.5, CS5; Premiere Pro: CC 2015, 2014, CC, CS6, CS5.5, CS5; Photoshop: CC 2015, 2014, CC, CS6, CS5.5, CS5; Final Cut Pro: 6, 7, X; Davinci Resolve: 11; Avid Media Composer: 5.5, 6, 6.5 or later",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://www.400gb.com/file/106554425"
+    },
+    {
+      "name": "Mac 版本下载",
+      "url": "https://www.400gb.com/file/104664611"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "plugin_packages": {
+      "Color Suite": {
+        "version": "11.1.4",
+        "description": "调色套装",
+        "plugins": [
+          "Colorista II（调色师）含二级调色",
+          "Cosmo 1.0（润肤插件）",
+          "Denoiser II（降噪插件）",
+          "LUT Buddy（色彩共享系统）",
+          "Magic Bullet Looks 2（调色插件）多预设"
+        ]
+      },
+      "Effects Suite": {
+        "version": "11.1.5",
+        "description": "效果套装（光工厂这套）",
+        "plugins": [
+          "Composite Wizard 1.4.6（复合向导插件）",
+          "Holomatrix 3.0（矩阵插件）",
+          "Image Lounge 1.4（图像管理插件）",
+          "Knoll Light Factory 3.0（光工厂插件）",
+          "PlaneSpace 1.4（平面空间插件）",
+          "Psunami 1.4（水流插件）",
+          "Text Anarchy 2.4（文字插件）",
+          "ToonIt 2.1（图像风格化插件）",
+          "Warp 1.1（扭曲插件）"
+        ]
+      },
+      "Keying Suite": {
+        "version": "11.1.4",
+        "description": "抠像套装",
+        "plugins": [
+          "Key Correct 1.3（修正抠像插件）",
+          "Primatte Keyer 5.1（超级抠像插件）",
+          "Warp 1.1（扭曲插件）"
+        ]
+      },
+      "Magic Bullet Suite": {
+        "version": "12.0.5",
+        "description": "MB调色套装",
+        "plugins": [
+          "Magic Bullet Looks 3.0（Looks调色插件-多预设）",
+          "Magic Bullet Colorista III（调色师3）",
+          "Magic Bullet Film 1.0（电影质感调色）",
+          "Magic Bullet Mojo 2.0（快速调色插件）",
+          "Magic Bullet Cosmo 2.0（润肤磨皮插件）",
+          "Denoiser II（降噪插件）",
+          "LUT Buddy（LUT调色工具）"
+        ]
+      },
+      "Shooter Suite": {
+        "version": "12.7.1",
+        "description": "后期套装",
+        "plugins": [
+          "BulletProof 1.2.2（专业后期流程软件）",
+          "PluralEyes 3.5.8（音视频自动同步插件）",
+          "Denoiser II 1.4.3（降噪插件）",
+          "Instant 4K 1.51（高清插件，支持4K）",
+          "Frames 1.1.3（转场插件）",
+          "LUT Buddy 1.0.1（色彩共享系统）",
+          "Offload 1.0.1（素材备份工具）"
+        ]
+      },
+      "Trapcode Suite": {
+        "version": "12.1.8",
+        "description": "特效套装（粒子这套）",
+        "plugins": [
+          "Trapcode 3D Stroke 2.6.4（3D描边插件）",
+          "Trapcode Echospace 1.1.4（三维立体拖尾延迟插件）",
+          "Trapcode Form 2.0.7（三维空间粒子插件）",
+          "Trapcode Horizon 1.15（无限场景（天空）插件）",
+          "Trapcode Lux 1.3.3（聚光灯插件）",
+          "Trapcode Mir 2.1.2（三维图形插件）",
+          "Trapcode Particular 2.2.4（超炫粒子插件）",
+          "Trapcode Shine 1.6.4（放射光插件）",
+          "Trapcode Sound Keys 1.2.4（音频关键帧插件）",
+          "Trapcode Starglow 1.6.4（星光插件）"
+        ]
+      },
+      "Other Plugins": [
+        {
+          "name": "PluralEyes",
+          "version": "3.5.5",
+          "description": "多机位音视频自动对齐插件"
+        },
+        {
+          "name": "Red Giant Universe",
+          "version": "1.5.0",
+          "description": "宇宙套装特效+转场插件"
+        }
+      ]
+    },
+    "external_links": [
+      {
+        "text": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "text": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

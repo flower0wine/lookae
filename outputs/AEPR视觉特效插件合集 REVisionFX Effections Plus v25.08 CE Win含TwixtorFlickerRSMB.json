@@ -1,0 +1,112 @@
+{
+  "title": "AE/PR视觉特效插件合集 REVisionFX Effections Plus v25.08 CE Win含Twixtor/Flicker/RSMB",
+  "slug": "ae-prshi-jue-te-xiao-cha-jian-he-ji-revisionfx-effections-plus-v25-08-ce-winhan-twixtor-flicker-rsmb",
+  "author": "大众脸",
+  "post_date": "2025-08-19T11:28:00Z",
+  "source_url": "https://www.lookae.com/revisionfx-2508/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Twixtor",
+    "变速插件",
+    "插件合集",
+    "运动模糊"
+  ],
+  "content": "REVisionFX 提供了一系列专业的视觉特效插件，涵盖视频降噪、超级慢动作无极变速、去闪烁、变形、调色、镜头修复等功能。其中 Twixtor、Flicker、RSMB、Flex 等为广受欢迎的常用工具。该合集版本为 v25.08，适用于 Windows 系统下的 After Effects 与 Premiere Pro。RE:vision Effects 是一家专注于数字视频图像增强的软件研发公司，其产品广泛应用于影视制作、电视广播、网络视频及视觉特效等领域。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/revisionfx2018.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC2014 – 2025, Premiere Pro CC2014 – 2025",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8418335470-1466c8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17JxKdzAxb90aQVlPRiI7RQ?pwd=zpjn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/tGqMDuB2Zpw"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "DE:Flicker v2.3.2",
+        "description": "视频去闪烁插件"
+      },
+      {
+        "name": "DE:Noise v3.7.1",
+        "description": "视频降噪插件"
+      },
+      {
+        "name": "FieldsKit v4.2.0",
+        "description": "动画反交错插件"
+      },
+      {
+        "name": "PV Feather v1.8.1",
+        "description": "逐点羽化插件"
+      },
+      {
+        "name": "RE:Fill v3.0.4",
+        "description": "智能修补和填充插件"
+      },
+      {
+        "name": "RE:Flex v5.6.1",
+        "description": "扭曲变形/变脸插件"
+      },
+      {
+        "name": "RE:Grade v1.3.1",
+        "description": "调色插件"
+      },
+      {
+        "name": "RE:Lens v2.4.3",
+        "description": "鱼眼广角镜头畸变扭曲修复插件"
+      },
+      {
+        "name": "RE:Map v4.2.2",
+        "description": "UV贴图映射插件"
+      },
+      {
+        "name": "RE:Match v2.7.3",
+        "description": "色彩匹配插件"
+      },
+      {
+        "name": "RE:Zup v2.0.1",
+        "description": "无损放大插件"
+      },
+      {
+        "name": "ReelSmart Motion Blur Pro v6.4.4",
+        "description": "RSMB动态模糊插件"
+      },
+      {
+        "name": "Shade/Shape v5.1.0",
+        "description": "形状阴影插件"
+      },
+      {
+        "name": "SmoothKit v4.1.0",
+        "description": "降噪磨皮美颜插件"
+      },
+      {
+        "name": "Twixtor Pro v8.0.7",
+        "description": "超级慢动作变速插件"
+      },
+      {
+        "name": "Video Gogh v4.0.1",
+        "description": "水彩油画插件"
+      }
+    ],
+    "related_links": [
+      {
+        "title": "中文汉化版-慢动作降噪去闪动态模糊视觉套装AE/PR插件REVisionFX v25.08 Win",
+        "url": "https://www.lookae.com/revisionfx-21-zh/"
+      }
+    ],
+    "company_info": "RE:vision Effects is a research and development company focused on providing innovative, advanced custom software to create, modify, control, and enhance digital video imagery at the highest quality. Their products have a broad range of applications and are currently used in every phase of television, motion picture, internet and visual effects industries. The company supplies its cutting edge software through partnerships and direct sales for a large segment of customers ranging from at-home editors, wedding and other live event videographers, industrial video providers to those creating high-end effects for commercials, broadcast TV and big-budget films."
+  }
+}

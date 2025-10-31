@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-智能标记设置工具 Smart Marker v1.2+使用教程",
+  "slug": "aejiao-ben-zhi-neng-biao-ji-she-zhi-gong-ju-smart-marker-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-17",
+  "source_url": "https://www.lookae.com/smart-marker/",
+  "category": "aescripts",
+  "tags": [
+    "AE标记",
+    "AE脚本",
+    "Smart Marker",
+    "标记设置"
+  ],
+  "content": "这是一款专为 After Effects 设计的脚本工具，旨在通过智能标记系统提升动画制作的效率和灵活性。非常适合需要在动画中精确控制时间点的用户，如在音乐节奏上同步动画、制作复杂的过渡效果等。通过其强大的标记系统，用户可以更高效地管理和调整动画时间线，提升整体制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/04/Smart-Marker-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/515771420329.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1498248263-908e39?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wZ2kWcTVYwFE9YbPGPttLa?pwd=q5ty"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Y1pwccBTxuX"
+    }
+  ],
+  "other": {
+    "main_features": [
+      "在图层或组合上快速创建标记",
+      "从当前时间或关键帧创建标记",
+      "标记从关键帧继承标签",
+      "在关键帧之间的最高速度点处创建标记",
+      "在组合和图层之间移动标记",
+      "捕捉关键帧或标记的时间"
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "q5ty"
+    }
+  }
+}

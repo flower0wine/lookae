@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-条件过滤选中图层 Advanced Selection v1.5",
+  "slug": "aejiao-ben-tiao-jian-guo-lu-xuan-zhong-tu-ceng-advanced-selection-v1-5",
+  "author": "大众脸",
+  "post_date": "2022/01/04 11:11",
+  "source_url": "https://www.lookae.com/advanced-15/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该AE脚本可在AE中通过一些条件筛选出需要选中的图层，提供大量过滤器，如图层类型、选项、混合模式、按名称搜索、标签颜色等帮助缩小选择范围。同时介绍了使用方法及v1.5更新内容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/Advanced-Selection.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/280929169723.mp4"
+  ],
+  "supported_versions": "After Effects 2022、2021、2020、CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-532904119-3fb4f6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1my1e2592qjmtaOBwSdKRAg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XDcmfUhVdzX"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ]
+  }
+}

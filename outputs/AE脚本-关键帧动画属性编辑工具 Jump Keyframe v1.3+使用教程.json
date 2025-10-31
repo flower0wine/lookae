@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-关键帧动画属性编辑工具 Jump Keyframe v1.3+使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-dong-hua-shu-xing-bian-ji-gong-ju-jump-keyframe-v1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/11/19 09:13",
+  "source_url": "https://www.lookae.com/jump-keyframe/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "关键帧动画"
+  ],
+  "content": "Jump Keyframe 是一个便捷的小脚本，允许用户在不移动当前时间指示器（CTI）到已有关键帧的情况下，快速修改任意动画属性。特别适用于需要同时编辑多个图层和/或属性但时间点不同的场景。只需点击一次，即可在任意时间点更改值，脚本将自动用新关键帧替换最后一个原始关键帧，保持正确的时间位置以及原有的缓动效果和标签颜色。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/Jump-Keyframe-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/493980284472.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1427841019-111119?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1R_y86CLGYWuJvNpqOaGG-A?pwd=rr2w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/WduJ5qFHJjN"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "AE脚本",
+      "关键帧动画"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "image_alt": "AE脚本-关键帧动画属性编辑工具 Jump Keyframe v1.3+使用教程-LookAE.com"
+  }
+}

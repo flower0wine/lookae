@@ -1,0 +1,29 @@
+{
+  "title": "更新：AE PR色彩匹配插件 RE:VisionFX RE:Match v1.3.3 (仅64位)",
+  "slug": "geng-xin-ae-prse-cai-pi-pei-cha-jian-re-visionfx-re-match-v1-3-3-jin-64wei",
+  "author": "大众脸",
+  "post_date": "2014/03/24 11:19",
+  "source_url": "https://www.lookae.com/rem133ae/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "win64"
+  ],
+  "content": "RE:Match 是一组视图颜色匹配插件，用于使不同镜头或机位拍摄的视频看起来如同使用相同相机和设置拍摄。它适用于多机位拍摄、单相机多镜头场景，以及3D立体影片的色彩匹配，能统一反射、镜面高光和镜头眩光等细节。插件已完美，安装即可使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/03/REVisionFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CS6, CC",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE PR色彩匹配插件 RE:VisionFX RE:Match v1.3.3 (仅64位)",
+      "url": "https://www.400gb.com/file/60932268"
+    }
+  ],
+  "other": {
+    "official_website": "http://revisionfx.com/products/rematch/",
+    "fixes": "修正了Premiere无响应的问题，和内存不足。"
+  }
+}

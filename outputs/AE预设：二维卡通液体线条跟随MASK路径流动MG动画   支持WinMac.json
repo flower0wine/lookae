@@ -1,0 +1,46 @@
+{
+  "title": "AE预设：二维卡通液体线条跟随MASK路径流动MG动画   支持Win/Mac",
+  "slug": "aeyu-she-er-wei-qia-tong-ye-ti-xian-tiao-gen-sui-masklu-jing-liu-dong-mgdong-hua-zhi-chi-win-mac",
+  "author": "大众脸",
+  "post_date": "2016/04/19 16:06",
+  "source_url": "https://www.lookae.com/vpreset/",
+  "category": "aechajian",
+  "tags": [
+    "AE模板",
+    "AE预设",
+    "Win/Mac"
+  ],
+  "content": "一套很不错的 AE 预设，不需要借助第三方插件即可制作出二维卡通液体线条跟随MASK路径流动MG动画，很容易使用，只需要将预设拖动到MASK路径遮罩图层上（支持多个MASK）即可看到动画效果。是制作MG动画的福音。\n\n还可以对动作元素进行控制：颜色，速度，拖尾长度，宽度，扩张与收缩，延迟，扩散，随机扩散，扭曲变形，扭曲抖动，抽帧动画。\n\n预设含两大模式：\n1. 所有多个MASK路径同时出现动画；\n2. 所有多个MASK路径依次出现动画。\n\n不但提供了预设（含安装说明），还提供了预览视频中前14秒的原版AE模板工程文件；预设和模板均提供了视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/04/VPreset.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2z6ronpXXXXbtXpXXXXXXXXXX_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2HT6inpXXXXcBXpXXXXXXXXXX_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2015 或更高版本（须使用英文版AE）",
+  "supported_os": "Windows 和 Mac OSX 系统",
+  "download_links": [
+    {
+      "name": "AE预设：二维卡通液体线条跟随MASK路径流动MG动画   支持Win/Mac",
+      "url": "https://item.taobao.com/item.htm?id=530374875582"
+    }
+  ],
+  "other": {
+    "resolution": "1920×1080 高清分辨率",
+    "plugins_required": "不需要外置第三方插件",
+    "file_formats": [
+      ".ffx",
+      ".aep"
+    ],
+    "file_size": "225M （解压后253M）",
+    "bonus": "附送视频预览中的音乐",
+    "tutorial": "视频修改操作教程",
+    "notes": "为更好的适配预设，工程分辨率须 1920×1080；含英文表达式，须使用英文版AE软件",
+    "payment_info": "支付¥10下载",
+    "related_links": [
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

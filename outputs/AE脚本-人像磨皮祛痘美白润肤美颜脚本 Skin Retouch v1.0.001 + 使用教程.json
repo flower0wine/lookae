@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-人像磨皮祛痘美白润肤美颜脚本 Skin Retouch v1.0.001 + 使用教程",
+  "slug": "aejiao-ben-ren-xiang-mo-pi-qu-dou-mei-bai-run-fu-mei-yan-jiao-ben-skin-retouch-v1-0-001-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-11-11T14:51:00Z",
+  "source_url": "https://www.lookae.com/skin-retouch-1001/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Skin Retouch 是一款专为人像皮肤美容修饰设计的 After Effects 脚本，能够快速实现磨皮、祛痘、美白与润肤效果，同时保留皮肤纹理细节。相比传统平滑方法容易丢失细节的问题，该脚本通过智能模糊技术在柔化肌肤的同时保持真实质感，适用于去除皱纹及多种美容修饰任务。支持多版本 AE，安装简单，使用便捷。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/05/Skin-Retouch.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/38947163.mp4"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-406933078"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BZ_T0IB41AVlAq40p1fc1w"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "update_notes": "v1.0.001 更新内容：删除损坏的更新检查",
+    "official_store": "https://lookae.taobao.com/",
+    "donation_link": "https://www.lookae.com/sponsor/",
+    "original_source": "http://aescripts.com/skin-retouch/"
+  }
+}

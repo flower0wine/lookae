@@ -1,0 +1,54 @@
+{
+  "title": "AE插件 Element 3D 文字预设包 MotionWorks MovieType for Element 3D V2",
+  "slug": "aecha-jian-element-3d-wen-zi-yu-she-bao-motionworks-movietype-for-element-3d-v2",
+  "author": "大众脸",
+  "post_date": "2015-02-16T08:30:00Z",
+  "source_url": "https://www.lookae.com/movietyp2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Element 3D"
+  ],
+  "content": "MotionWorks出品的MovieType for Element 3D V2 是一套专为After Effects设计的强大3D文字预设包，支持快速创建电影预告片风格的动态图形。该预设包包含超过1000个预设资源，涵盖3D文字、摄像机、材质、倒角、背景及配套教程，适用于Element 3D V2及以上版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/MotionWorks-MovieType.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 / CC 版本",
+  "supported_os": "Windows & Mac",
+  "download_links": [
+    {
+      "name": "AE插件 Element 3D 文字预设包 MotionWorks MovieType",
+      "url": "https://www.400gb.com/file/84680646"
+    },
+    {
+      "name": "MoBacks 高清运动图形背景（56组）",
+      "url": "https://www.lookae.com/motionworksmovietype/"
+    }
+  ],
+  "other": {
+    "official_description_url": "http://motionworks.net/shop/movietype-for-element-3d/",
+    "software_requirements": [
+      "Adobe After Effects CS6 或 CC 版本"
+    ],
+    "plugin_requirements": [
+      "VideoCoPilot Element 3D 1.6.2 或 V2 及以上版本"
+    ],
+    "features": [
+      "220个3D文字预设",
+      "60组摄像机预设",
+      "450组材质预设",
+      "150组倒角预设",
+      "35组3D背景",
+      "1个AE脚本",
+      "64组绑定摄像机与灯光的合成效果",
+      "6个使用视频教程"
+    ],
+    "related_links": [
+      "https://www.lookae.com/e3d-162/",
+      "https://item.taobao.com/item.htm?spm=a1z10.3.w4002-2793086484.61.Ap0rme&id=19341174489"
+    ],
+    "size": "约800MB",
+    "update_note": "本次更新主要支持 Element 3D V2 新版本"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "30种欧美电影大片婚礼视频调色LUTs预设 Kreativ Wedding LUTs",
+  "slug": "30chong-ou-mei-dian-ying-da-pian-hun-li-shi-pin-diao-se-lutsyu-she-kreativ-wedding-luts",
+  "author": "大众脸",
+  "post_date": "2019-01-03",
+  "source_url": "https://www.lookae.com/kreativ-luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUTS",
+    "调色预设"
+  ],
+  "content": "Kreativ Wedding LUTs 是一套专为婚礼视频打造的欧美电影级调色预设，共30组.cube格式3D LUT。预设已在多种机型及图片配置文件上反复打磨，可适应不同场景与风格。使用前需先进行色彩校正（白平衡、饱和度、对比度），如为Log素材需先转Rec709。快速获得胶片质感与电影色彩，支持主流后期软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/KreativWedding-LUTs..jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/217258510411.mp4"
+  ],
+  "supported_versions": "CS6 – CC 2018 及以上",
+  "supported_os": "Mac / Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-328753317"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1tizugVPqfESkk23UJ_BCqg"
+    }
+  ],
+  "other": {
+    "调用插件": {
+      "FCPX": "LUT Gallery / FCPX LUT Loader",
+      "Vegas": "OFX LUT 插件",
+      "通用": "Magic Bullet LUT Buddy"
+    },
+    "使用教程": {
+      "在线观看": "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4",
+      "高清下载": "https://pan.baidu.com/s/1dEdBwA1"
+    },
+    "推荐相关": [
+      "LookAE – LUTS 几千种电影级预设",
+      "LUT-Soft 60组唯美柔和清新预设",
+      "PFS – LUT Film 60组古典/现代浓郁预设"
+    ],
+    "赞助/店铺": {
+      "官方淘宝店": "https://lookae.taobao.com",
+      "自愿赞助": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-图层拼合分组快速预览工具 Flatten Layers v1.2.0 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-pin-he-fen-zu-kuai-su-yu-lan-gong-ju-flatten-layers-v1-2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 12:04",
+  "source_url": "https://www.lookae.com/flatten-layers/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Flatten Layers 是一款无需预渲染即可对图层进行分组和拼合的 After Effects 脚本工具。它可将所选图层在背景中展平为单个无损 PNG 序列图层，支持在原始图层与展平图层之间快速切换，极大提升时间线管理效率。适用于处理图层过多导致性能下降的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Flatten-Layers.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337249079041.mp4"
+  ],
+  "supported_versions": "AE CC 2015 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520600355-4af2e6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1uzJ1ZH80IoI4FUdrwQ9SGg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/rAE1a8bhgw3"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "bz4t"
+    },
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "description": "该脚本允许用户在不进行预渲染的情况下，将多个图层合并为一个背景图层，避免因图层过多导致的时间线卡顿问题，同时保持图像质量无损。"
+  }
+}

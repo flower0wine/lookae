@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-为基本图形属性参数自定义命名 Essential Namer 2 V2.4.2+使用教程",
+  "slug": "aejiao-ben-wei-ji-ben-tu-xing-shu-xing-can-shu-zi-ding-yi-ming-ming-essential-namer-2-v2-4-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-27T09:07:00Z",
+  "source_url": "https://www.lookae.com/essential-namer-242/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Essential Namer 2 是一款用于 After Effects 的脚本，可帮助用户将常用图层属性快速添加至基本图形面板（EGP），并支持自定义命名。无需切换到活动合成即可完成设置，极大提升工作效率。支持变换属性（如锚点、位置、缩放、旋转、不透明度）的一键添加，并可通过快捷键快速操作。新版新增功能包括：控制图层命名、添加文本图层源文本、自定义名称前缀、紧凑型用户界面优化，以及自动关闭 EGP 的选项，提升使用体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Essential-Namer-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/363310495140.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1522674058-0fe595?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/140FXqkyPEdfw9PI7FEws1w?pwd=9gvq"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/pJa5SsNJkiZ"
+    }
+  ],
+  "other": {
+    "additional_info": "提示：建议将基本图形面板设为最小尺寸且无法停靠，以使自动关闭功能更安全可靠。",
+    "features": [
+      "通过添加或删除图层名称控制命名",
+      "一键添加文本图层的源文本",
+      "支持自定义前缀",
+      "新紧凑UI适配任何工作区",
+      "支持变换属性批量添加（A=锚点，P=位置，S=缩放，R=旋转，T=不透明度，Shift+A=全部添加）",
+      "新增自动关闭EGP功能（适用于V2.4.5+）"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

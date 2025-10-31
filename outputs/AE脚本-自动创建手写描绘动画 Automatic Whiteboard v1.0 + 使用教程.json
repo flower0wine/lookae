@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-自动创建手写描绘动画 Automatic Whiteboard v1.0 + 使用教程",
+  "slug": "aejiao-ben-zi-dong-chuang-jian-shou-xie-miao-hui-dong-hua-automatic-whiteboard-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/12/26 20:34",
+  "source_url": "https://www.lookae.com/automatic/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Automatic Whiteboard 可将 After Effects 中的文本图层和蒙版自动转换为手写描绘动画。只需输入文本或绘制蒙版，点击按钮即可生成即时手绘风格动画，支持有手绘效果或无手绘效果。提供8种渲染样式，包括清洁纸、脏纸、旧羊皮纸、黑板等，可自由选择以匹配不同视觉风格。适用于多种 AE 版本及操作系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/Automatic-Whiteboard.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293275487472.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-477392324"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1P3GehgJL2ymunDnL7b7xtg"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-477392244"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1-1NTupJdotDJ2cHGRJlVww"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "extract_code": {
+      "script": "z9rp",
+      "tutorial": "4f6m"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-图层素材批量重命名脚本 AE Global Renamer v2.2 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-su-cai-pi-liang-zhong-ming-ming-jiao-ben-ae-global-renamer-v2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/09 23:13",
+  "source_url": "https://www.lookae.com/renamer-22/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以在AE软件中给素材图层批量重命名：图层，文字层，属性名字，表达式，效果插件名字，输出文件等，还可以给名字添加前后缀，非常适合管理多图层的项目。Bulk rename anything in After Effects. Completely rewritten with lots more functionality and a super tiny UI!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/07/Global-Renamer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-373553249"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/14DzBtp-Kcb3HHXYJhcB7jw"
+    },
+    {
+      "name": "使用教程城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-314558688"
+    },
+    {
+      "name": "使用教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1O-wwK970Y1PRY9wyWmvkvA"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "b7r7",
+    "update_content": "v2.2更新内容：添加了changeCase选项，修复了多个搜索的图标",
+    "official_url": "http://aescripts.com/ae-global-renamer/"
+  }
+}

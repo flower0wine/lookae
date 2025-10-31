@@ -1,0 +1,74 @@
+{
+  "title": "Win/Mac版：红巨人调色插件套装 Red Giant Magic Bullet Suite v12.1.1",
+  "slug": "win-macban-hong-ju-ren-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v12-1-1",
+  "author": "大众脸",
+  "post_date": "2015-10-10T11:44:00Z",
+  "source_url": "https://www.lookae.com/mb1211/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant 红巨人调色插件套装 Magic Bullet Suite v12.1.1 是一款专为视频调色设计的多功能插件集合，支持 Windows 与 Mac 平台。该版本在 v12.1.0 基础上进行了功能优化与修复，涵盖多个核心调色工具，包括 Colorista III、Cosmo 2.0、Film 1.0、Looks 3.0、Mojo 2.0 以及 Denoiser II、LUT Buddy 等。插件适用于 Adobe After Effects、Premiere Pro、Final Cut Pro X、DaVinci Resolve 等主流视频编辑软件，提供高效、专业的调色解决方案。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/02/MBS12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v12.1.1",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Windows 版本下载（序列号版）",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/magicbullet/MBSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac OSX 版本下载（序列号版）",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/magicbullet/MBSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Windows 版本下载（一键安装版）",
+      "url": "https://www.400gb.com/file/123169277"
+    }
+  ],
+  "other": {
+    "update_notes": "修复 LUT Buddy, Magic Bullet Looks, and Colorista III",
+    "plugin_list": [
+      "Magic Bullet Colorista III 1.0.4 - 调色师3",
+      "Magic Bullet Cosmo 2.0 - 润肤磨皮插件",
+      "Magic Bullet Film 1.0.4 - 电影质感调色",
+      "Magic Bullet Looks 3.0.5 - 调色插件（多预设）",
+      "Magic Bullet Mojo 2.0.3 - 快速调色",
+      "Red Giant Denoiser II 1.4.6 - 降噪插件",
+      "Red Giant LUT Buddy - 色彩共享系统"
+    ],
+    "new_features": [
+      "Magic Bullet Looks 3.0：优化UI界面，新增约200个调色预设，9大新调色工具",
+      "Magic Bullet Colorista III：简化界面，支持OpenGL GPU加速，新增高光/阴影、暗角功能",
+      "Magic Bullet Film：新增多种摄像机电影效果预设，增强画面电影质感"
+    ],
+    "supported_software": [
+      "Davinci Resolve 11, 12",
+      "Adobe Premiere Pro C6 – CC 2015",
+      "Adobe Photoshop C5 – CC 2015",
+      "Adobe After Effects C6 – CC 2015",
+      "Avid Media Composer",
+      "Vegas Pro",
+      "Motion 4, 5",
+      "Final Cut Pro X, 7"
+    ],
+    "registration_keys": {
+      "Magic Bullet Colorista III": "CL3K1245864582715611",
+      "Magic Bullet Cosmo 2.0": "MBOK1245884249899024",
+      "Magic Bullet Film 1.0": "FILK1245884461501298",
+      "Magic Bullet Looks 3.0": "MBLK1245875960562349",
+      "Magic Bullet Mojo 2.0": "MBMK1245868236810616",
+      "Red Giant Denoiser II": "MBNK1245865095746168",
+      "Red Giant LUT Buddy": "免费"
+    },
+    "note": "本文内容为 www.LookAE.com 原创，转载请注明出处。"
+  }
+}

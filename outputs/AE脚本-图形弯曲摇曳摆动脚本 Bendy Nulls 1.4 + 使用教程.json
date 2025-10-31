@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-图形弯曲摇曳摆动脚本 Bendy Nulls 1.4 + 使用教程",
+  "slug": "aejiao-ben-tu-xing-wan-qu-yao-yi-bai-dong-jiao-ben-bendy-nulls-1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/06 17:58",
+  "source_url": "https://www.lookae.com/bendy-nulls/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Bendy Nulls是一个简单的可停靠面板脚本，它能将全局弯曲效果应用于选定的图层上。选择一个图层，然后单击“创建弯曲和绑定”，脚本将对该图层应用“弯曲效果”，并将全局表达式应用于“起点”和“终点”。 然后它将生成并生成两个新的空值，这些空值将控制弯曲的起点和终点，允许图层在合成内移动，保持弯曲效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Bendy-Nulls.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372789551"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/16eoZKJEiIch22vU2j2uNsQ",
+      "extra": "提取码：2b2j"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

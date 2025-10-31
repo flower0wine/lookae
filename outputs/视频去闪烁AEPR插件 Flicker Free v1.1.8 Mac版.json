@@ -1,0 +1,34 @@
+{
+  "title": "视频去闪烁AE/PR插件 Flicker Free v1.1.8 Mac版",
+  "slug": "shi-pin-qu-shan-shuo-ae-prcha-jian-flicker-free-v1-1-8-macban",
+  "author": "大众脸",
+  "post_date": "2020-12-12 22:54",
+  "source_url": "https://www.lookae.com/flicker-free-118/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "由于我们肉眼和摄像机捕捉的光线频率不一样，所以我们有时候用摄像机捕捉的视频会出现光闪烁的现象，Digital Anarchy Flicker Free 插件能帮助我们弥补这一缺陷，能够很好的处理光闪烁、延时拍摄闪烁、动态闪烁等问题。解决做延时摄影或拍摄慢动作（高帧速率）视频产生的闪光，同时也能有效去除LED灯、电脑显示器或电气干扰时产生的闪烁。插件通过分析画面的颜色和亮度计算匹配出平滑的视频图像，支持4K。\n\nFlicker Free is a powerful new way to deflicker video. It solves an issue common for many types of footage, be it from lights/electricity and cameras being out of sync, time lapse or slow motion (high frame rate) video. It’s very effective at removing rolling flicker from LED & fluorescent lights or computer monitors.\n\nFlicker Free was originally designed to fix flicker caused by varying exposures in time lapse videography. However, we discovered it handles most flicker types well. HOME – http://digitalanarchy.com/Flicker/main.html",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Flicker-Free116.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50267252257.mp4?_=1"
+  ],
+  "supported_versions": "Premiere Pro CC, CC 2014, 2015, 2017, 2018, 2019, 2020; After Effect CC, CC 2014, 2015, 2017, 2018, 2019, 2020",
+  "supported_os": "Mac系统（兼容Big Sur，不支持M1芯片电脑）",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-475526800"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1fvpnu7ENuKMEv3oPgXAxUw"
+    }
+  ],
+  "other": {
+    "baidu_disk_extract_code": "rvs4"
+  }
+}

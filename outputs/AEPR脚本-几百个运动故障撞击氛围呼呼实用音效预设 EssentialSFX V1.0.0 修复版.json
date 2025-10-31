@@ -1,0 +1,41 @@
+{
+  "title": "AE/PR脚本-几百个运动故障撞击氛围呼呼实用音效预设 EssentialSFX V1.0.0 修复版",
+  "slug": "ae-prjiao-ben-ji-bai-ge-yun-dong-gu-zhang-zhuang-ji-fen-wei-hu-hu-shi-yong-yin-xiao-yu-she-essentialsfx-v1-0-0-xiu-fu-ban",
+  "author": "大众脸",
+  "post_date": "2024/08/30 11:18",
+  "source_url": "https://www.lookae.com/essentialsfx/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本",
+    "音效"
+  ],
+  "content": "EssentialSFX 是一款专为 Adobe Premiere Pro 和 After Effects 设计的高级音效预设脚本，提供数百种定制音效，涵盖运动、故障、撞击、氛围、呼啸等多种类型。用户可在软件界面中实时预览并一键应用音效，大幅提升剪辑与合成效率。脚本支持收藏夹功能，便于快速访问常用音效，并通过有序分类帮助用户精准定位所需音频元素。该工具旨在无缝融入现有工作流，简化音效导入与管理过程，适用于电影、视频、动画及演示文稿等多种创作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/DJordanMedia-EssentialSFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018 或更高版本、PR CC 2020 或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1349341712-c3835e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1chSVITwPtRg5x7MvS9xvTA?pwd=45gf"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/xBVt7JtTM5X"
+    }
+  ],
+  "other": {
+    "access_password": {
+      "城通网盘": "6688",
+      "百度网盘": "45gf"
+    },
+    "notes": "修复无法正常激活的问题，安装后即可正常使用！"
+  }
+}

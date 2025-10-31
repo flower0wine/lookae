@@ -1,0 +1,51 @@
+{
+  "title": "AE与PS动态链接关键帧逐帧动画绘制插件 Paint Link V1.0.5 Mac苹果版+使用教程",
+  "slug": "aeyu-psdong-tai-lian-jie-guan-jian-zheng-zhu-zheng-dong-hua-hui-zhi-cha-jian-paint-link-v1-0-5-macping-guo-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/06/20 10:46",
+  "source_url": "https://www.lookae.com/paint-link-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Paint Link",
+    "PS插件",
+    "动态链接"
+  ],
+  "content": "Paint Link 为逐帧动画提供了全新的工作流程，可在 After Effects 与 Photoshop 之间建立动态连接，充分发挥两种工具的优势。用户可直接在项目帧上绘图，Paint Link 将自动将更改同步至 After Effects，实现无需渲染的实时预览。只需一键即可建立项目与新 PSD 文件之间的动态链接，无需手动保存、渲染或管理文件。该插件支持 Mac 系统上的 After Effects 2022、2023、2024 以及 Photoshop 2022、2023、2024。配套提供详细的使用视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/Paint-Link.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/374558288027.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2023, 2024; Photoshop 2022, 2023, 2024",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1312173958-8158f8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ZOyUVkqyOij5o6xwZJB7BQ?pwd=h0zc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/aRcqp9iM677"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "删除了“添加 VFX 关键帧”按钮。",
+      "添加了 VFX 模式复选框。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/paint-link-108/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "h0zc"
+    }
+  }
+}

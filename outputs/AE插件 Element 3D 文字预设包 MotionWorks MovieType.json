@@ -1,0 +1,51 @@
+{
+  "title": "AE插件 Element 3D 文字预设包 MotionWorks MovieType",
+  "slug": "aecha-jian-element-3d-wen-zi-yu-she-bao-motionworks-movietype",
+  "author": "大众脸",
+  "post_date": "2014/06/10 20:58",
+  "source_url": "https://www.lookae.com/motionworksmovietype/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE预设",
+    "Element 3D"
+  ],
+  "content": "MovieType for Element 3D 是一套专为快速创建动态电影预告片风格图形而设计的 Element 3D 预设与 After Effects 工具合集。该预设包内容丰富，适合用于高效制作高质量的3D文字动画和视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/06/MotionWorks-MovieType.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 或 CC；VideoCoPilot Element 3D 1.6.2 或更高版本",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "AE插件 Element 3D 文字预设包 MotionWorks MovieType",
+      "url": "https://www.400gb.com/file/66279457"
+    }
+  ],
+  "other": {
+    "official_website": "http://motionworks.net/shop/movietype-for-element-3d/",
+    "package_size": "2G",
+    "preset_details": {
+      "3d_text_presets": 220,
+      "camera_presets": 60,
+      "material_presets": 450,
+      "bevel_presets": 150,
+      "3d_backgrounds": 35,
+      "ae_scripts": 1,
+      "ae_compositions": 64,
+      "video_tutorials": 6,
+      "motion_graphics_backgrounds": 56
+    },
+    "related_resources": [
+      {
+        "name": "AE插件：Element 3D 1.6.2 下载（Win&Mac）",
+        "url": "https://www.lookae.com/e3d-162/"
+      },
+      {
+        "name": "173种材质包及163种水花模型包 Mac/Win",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3.w4002-2793086484.61.Ap0rme&id=19341174489"
+      }
+    ]
+  }
+}

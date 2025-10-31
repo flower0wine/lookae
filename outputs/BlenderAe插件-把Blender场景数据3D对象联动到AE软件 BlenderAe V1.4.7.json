@@ -1,0 +1,55 @@
+{
+  "title": "BlenderAe插件-把Blender场景数据3D对象联动到AE软件 BlenderAe V1.4.7",
+  "slug": "blenderaecha-jian-ba-blenderchang-jing-shu-ju-3ddui-xiang-lian-dong-dao-aeruan-jian-blenderae-v1-4-7",
+  "author": "大众脸",
+  "post_date": "2024/10/25 22:03",
+  "source_url": "https://www.lookae.com/blenderae-147/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BlenderAe",
+    "Blender插件"
+  ],
+  "content": "BlenderAe 是一款用于将 Blender 场景中的 3D 对象和场景数据无缝连接、选择并导出至 After Effects 的插件。支持相机、灯光、对象转换为 Null 层，以及平面和顶点在编辑模式下的映射。适用于 Windows 和 Mac 系统，兼容 After Effects 2014 至 2025 及 Blender 3.0 至 4.2。v1.4.7 版本修复了 macOS 权限问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/BlenderAe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325084112211.mp4"
+  ],
+  "supported_versions": "After Effects 2014 - 2025, Blender 3.0 - 4.2",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1418315749-ec7070?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RKaqUTBpiyKwyz6U2DnUSQ?pwd=j47v"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Uz3FXERCr3k"
+    }
+  ],
+  "other": {
+    "tutorial_link": "https://www.bilibili.com/video/BV1Nq4y1U7KQ/",
+    "features": [
+      "相机同步至 AE 相机",
+      "灯光同步至 AE 灯光",
+      "对象转换为 Null 层",
+      "转换清空为 Null",
+      "平面转预合成形状层",
+      "顶点选择转 Null",
+      "面选择转预合成形状层"
+    ],
+    "known_issues": [
+      "不支持非平面面或非平面平面",
+      "若路径正确但 AE 未打开，会自动启动再关闭而不保存",
+      "大量选择或长帧处理时间较长，可按 Esc 中止",
+      "部分修饰符会影响导出数据"
+    ],
+    "update_notes": "v1.4.7 修复了 MacOS 权限错误，建议使用最新版 After Effects (v25) 以解决权限问题"
+  }
+}

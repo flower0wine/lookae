@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-字体颜色效果表达式查找修改工具 Utility Buddy V1.3+使用教程",
+  "slug": "aejiao-ben-zi-ti-yan-se-xiao-guo-biao-da-shi-cha-zhao-xiu-gai-gong-ju-utility-buddy-v1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/05/08 09:17",
+  "source_url": "https://www.lookae.com/utility-buddy-13/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Utility Buddy"
+  ],
+  "content": "Utility Buddy是一个有用的工具，可以帮助您查找和更新项目中的字体、表达式和效果。新功能：颜色搜索！脚本特性包括字体查找替换、样式和效果管理、颜色查找替换以及表达式查找等功能，对于项目开发和客户交付非常实用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Utility-Buddy.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/480892052360.mp4"
+  ],
+  "supported_versions": "AE 2024, 2025",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1503882590-268021?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1V90B5sdePFVpn79yHTIsLg?pwd=ifca"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/w2xyQUww2Py"
+    }
+  ],
+  "other": {
+    "update_content": [
+      "跳转到树中选中的内容",
+      "范围已添加到所有图层",
+      "批量移除/禁用/启用多个图层的效果/样式",
+      "批量移除/禁用/启用带有字体的图层",
+      "批量移除表达式"
+    ],
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "ifca"
+    }
+  }
+}

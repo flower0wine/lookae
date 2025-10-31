@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-ASCII文本乱码艺术视频映射特效 L3tt3rM4pp3r2 V2.3 Win",
+  "slug": "aecha-jian-asciiwen-ben-luan-ma-yi-zhu-shi-pin-ying-she-te-xiao-l3tt3rm4pp3r2-v2-3-win",
+  "author": "大众脸",
+  "post_date": "2025/01/16 10:47",
+  "source_url": "https://www.lookae.com/l3tt3rm4pp3r2-23/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "L3tt3rM4pp3r2 是一款用于 After Effects 的 GPU 加速文本模式与 ASCII 艺术视频映射插件。该插件提供重新设计的用户界面和内置的文本模式预设（如 VGA、CGA 符号集等），支持快速创建文本艺术效果，无需从头制作纹理。内附使用视频教程，适合希望实现数字乱码、复古风格视觉效果的用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/L3tt3rm4pp3r.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/405413705047.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1447966915-f55cd0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JpQr3g7WtJbFIllFNUbZxw?pwd=ywxc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/K8kLtVk6cMh"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ywxc"
+    },
+    "update_log": "v2.2更新内容：MFR 多帧渲染支持；AE2025 崩溃修复"
+  }
+}

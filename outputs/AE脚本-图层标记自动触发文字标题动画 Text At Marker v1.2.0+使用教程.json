@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-图层标记自动触发文字标题动画 Text At Marker v1.2.0+使用教程",
+  "slug": "aejiao-ben-tu-ceng-biao-ji-zi-dong-hong-fa-wen-zi-biao-ti-dong-hua-text-at-marker-v1-2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-05-09T09:06:00Z",
+  "source_url": "https://www.lookae.com/text-at-marker-120/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "在图层标记处触发自定义文本动画，并完全控制在每个标记处动画的单词、字符或行的数量和内容。非常适合动态排版、动画音乐和匹配的画外音。支持对标记进行分组、方向设置（默认、反转、随机、用户定义）、忽略标记、按前缀响应、偏移时间等精细控制，可堆叠多种效果并独立调整关键帧与缓动，实现高度定制化的文本动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/04/Text-At-Marker.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/517420770841.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1504194431-12cf92?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1lyBs0S8kXB1TpzBr7MznMA?pwd=5jgh"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/upfFEzopBBk"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "update_notes": [
+      "新功能：用于批量操作图层和合成标记的完整工具集 – 包括创建、重命名、移动、删除和传播。",
+      "更新：切换效果实例的可见性现在也会相应地切换链接的文本动画器。",
+      "修复：如果文本图层用作另一个图层的遮罩，则在应用“标记处文本”时链接不再断开。"
+    ],
+    "features": [
+      "通过在标记上添加数字来分组制作动画",
+      "支持方向设置：默认、反转、随机、用户定义（通过图层名称定义顺序）",
+      "提供忽略标记、仅响应特定前缀标记、偏移动画时间等选项以实现与音乐/画外音同步",
+      "支持堆叠多种效果，独立调整每个效果的关键帧和缓动，制作自定义文本动画"
+    ]
+  }
+}

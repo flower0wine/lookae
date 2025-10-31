@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-表达式语言报错修复工具 Expression Universalizer 4.0.5 + 使用教程",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-gong-ju-expression-universalizer-4-0-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/05/18 23:53",
+  "source_url": "https://www.lookae.com/expression-405/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Expression Universalizer 4.0.5 是一款专为 After Effects 设计的脚本工具，用于修复因软件语言不同导致的表达式报错问题。该工具可将英文版或其他语言版本的表达式转换为兼容任意语言版本 AE 的通用表达式，从而实现跨语言工程模板的无缝使用。特别适用于从海外获取的 AE 模板在中文版或其它语言版本中运行时出现表达式错误的情况。通过先用英文版打开工程，再使用此脚本进行批量转换，即可解决语言不匹配带来的兼容性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/ExpressionUniversalizer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50032760914.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-496416578-ee9225"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1CKGCiA130cdLzjtnn0Cqfw"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "jn0j"
+    },
+    "features": [
+      "全新的基于 C++ 的表达式解析引擎，提升速度与准确性约 10-20%",
+      "支持英语、西班牙语、法语、德语、意大利语、日语、韩语、葡萄牙语、俄语和中文等所有本地语言",
+      "支持数据层引用（如 JSON、CSV 等）",
+      "支持批量处理"
+    ],
+    "usage_principle": "先用英文版 AE 打开工程模板，再使用脚本将其表达式转换为通用格式，使工程可在中文版或其他语言版本的 AE 中正常运行"
+  }
+}

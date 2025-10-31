@@ -1,0 +1,93 @@
+{
+  "title": "AE插件超强整理合集（Windows版）32位/64位",
+  "slug": "aecha-jian-chao-qiang-zheng-li-he-ji-windowsban-32wei-64wei",
+  "author": "大众脸",
+  "post_date": "2014-01-25",
+  "source_url": "https://www.lookae.com/aecjc/",
+  "category": "aechajian",
+  "tags": [
+    "32/64位",
+    "AE插件",
+    "AE汉化插件"
+  ],
+  "content": "本合集收录数百款 After Effects 第三方插件，涵盖粒子、调色、抠像、三维、光效、降噪、变形、字幕、特效等类别，提供 32/64 位原版及汉化版本，适用于 AE 7.0 至 CC 世代。资源来自 115 网盘，需先转存至个人网盘再下载。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/01/AECJC.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 7.0, CS3, CS4, CS5, CS5.5, CS6, CC",
+  "supported_os": "Windows 32/64-bit",
+  "download_links": [
+    {
+      "name": "Trapcode Form 汉化+注册",
+      "url": "http://u.115.com/file/e6yuv27k"
+    },
+    {
+      "name": "Trapcode Particular 2.0 中英双语+注册机",
+      "url": "http://115.com/file/cltq6dfy"
+    },
+    {
+      "name": "Red Giant Magic Bullet Suite 11 英文原版+注册机+汉化",
+      "url": "http://115.com/file/bhi5d5lj"
+    },
+    {
+      "name": "Video Copilot Optical Flares v1.2 完美注册+汉化",
+      "url": "http://115.com/file/dn1s8utw"
+    },
+    {
+      "name": "Sapphire 6.0 蓝宝石插件",
+      "url": "http://115.com/file/e65220o3"
+    },
+    {
+      "name": "Twixtor 5.02 变速插件原版+汉化",
+      "url": "http://115.com/file/aqk2fmf6"
+    },
+    {
+      "name": "Plexus 1.3 3D粒子插件 64bit",
+      "url": "http://115.com/file/clsgo8yk"
+    },
+    {
+      "name": "Neat Video 2.21 降噪插件",
+      "url": "http://115.com/file/bhiz0n14"
+    },
+    {
+      "name": "Turbulence2D 1.2.5 流体插件汉化版",
+      "url": "http://115.com/file/aqkzapq6"
+    },
+    {
+      "name": "Color Finesse 3.04 调色插件中文版 64位",
+      "url": "http://115.com/file/bhi109vo"
+    }
+  ],
+  "other": {
+    "mac_download": "https://www.lookae.com/mac-aecj/",
+    "adobe_official_links": {
+      "CS4": "https://www.lookae.com/adobe/",
+      "CS5": "https://www.lookae.com/adobe/",
+      "CS5.5": "https://www.lookae.com/adobe/",
+      "CS6": "https://www.lookae.com/adobe/",
+      "CC": "https://www.lookae.com/adobecc/"
+    },
+    "resource_origin": "萌晕死的网易博客",
+    "download_tip": "需注册115账号，先“存至网盘”再到个人网盘下载",
+    "plugin_categories": [
+      "Red Giant Trapcode 系列",
+      "Red Giant Magic Bullet 系列",
+      "Video Copilot 系列",
+      "Sapphire 蓝宝石系列",
+      "The Foundry 系列",
+      "DigiEffects 系列",
+      "Zaxwerks 系列",
+      "Revisionfx 系列",
+      "Boris FX 系列",
+      "Digital Film Tools 系列",
+      "Frischluft 系列",
+      "Synthetic Aperture 系列",
+      "Cycore FX 系列",
+      "Panopticum 系列",
+      "Pixelan 系列",
+      "Digital Element 系列",
+      "其他实用小插件"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Silhouette 2022.0.2 Win影视后期ROTO跟踪抠像合成软件AE/PR/VEGAS/OFX/达芬奇插件",
+  "slug": "silhouette-2022-0-2-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-vegas-ofx-da-fen-qi-cha-jian",
+  "author": "大众脸",
+  "post_date": "2022/07/16 10:24",
+  "source_url": "https://www.lookae.com/silhouette-20222/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Silhouette",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 2022 是一款业界领先的 ROTO 跟踪、抠像与合成软件，专为影视后期制作设计。它集成超过 400 个专业节点，涵盖颜色、合成、滤镜、光效、变形、时间处理等模块，并内置 Sapphire、Mocha Pro、Particle Illusion 等顶级 VFX 插件，支持 After Effects、Premiere Pro、DaVinci Resolve、NUKE、Vegas Pro 等主流剪辑与特效平台。该版本引入多项新功能，包括 InPaint 去除瑕疵、PowerMeshWarp 反向扭曲稳定、增强的跟踪与 Roto 工具、多格式导出支持（Nuke/Fusion/Flame/Alembic/FBX）以及对 Apple M1 芯片和 OCIO v2 色彩管理的优化，显著提升创作效率与视觉质量。曾获奥斯卡与艾美奖技术奖项，广泛应用于《沙丘》《蜘蛛侠：无路可走》《曼达洛人》等大片制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Silhouette-2022.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/363083205749.mp4"
+  ],
+  "supported_versions": "2022.0.2",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-616424548-ce42e7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1oskFr-TuZKrH9jhxcnV0Lw?pwd=sx1c"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/w3Jf4mgwZyZ"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "sx1c"
+    },
+    "features": [
+      "包含 Boris FX Sapphire、Mocha Pro、Particle Illusion 等高级插件",
+      "支持 AE、PR、DaVinci Resolve、NUKE、Vegas Pro 等多平台",
+      "支持 M1 Mac 芯片优化",
+      "支持 OCIO v2 色彩管理与 GPU 加速渲染",
+      "新增 InPaint、PowerMeshWarp 等智能节点",
+      "支持多种跟踪与 Roto 数据导出格式（Alembic, FBX, Nuke, Fusion 等）",
+      "提供高动态范围 32 位绘画工具，适用于皮肤修复与细节美化"
+    ],
+    "awards": [
+      "奥斯卡技术奖项",
+      "艾美奖技术奖项",
+      "Netflix 制作技术联盟成员"
+    ],
+    "notable_projects": [
+      "《沙丘》",
+      "《蜘蛛侠：无路可走》",
+      "《自由人》",
+      "《曼达洛人》"
+    ]
+  }
+}

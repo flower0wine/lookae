@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-骨骼动作捕捉导入生成动画脚本 BVH Importer 1.5.1 + 视频教程",
+  "slug": "aejiao-ben-gu-ge-dong-zuo-bu-zhuo-dao-ru-sheng-cheng-dong-hua-jiao-ben-bvh-importer-1-5-1-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/22 21:36",
+  "source_url": "https://www.lookae.com/bvh-importer/",
+  "category": "aechajian",
+  "tags": [
+    "AES",
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "BVH是人体运动捕捉设备（如BioVision）生成的文件格式，包含角色骨骼和关节旋转数据。该格式为通用人体动画标准，被广泛支持于各类动画软件中，通常由动作捕捉硬件获取。本脚本为After Effects专用的BVH文件导入工具，可解析骨骼结构与运动数据，并将其转换为基于固态层（Solid）或空对象（Null）的骨骼动画系统。支持多种旋转顺序（如ZXY Euler、XYZ、XZY、YXZ等），兼容混合联合旋转方式，适用于复杂动作还原。适用于多个版本的Adobe After Effects。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/BVH-Importer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375435707"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1sREV63AN7nBZ4Q6Fz1yhag"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://aescripts.com/bvh-importer/"
+    ],
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/aes/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "image_alt": "AE脚本-骨骼动作捕捉导入生成动画脚本 BVH Importer 1.5.1 + 视频教程-LookAE.com",
+    "download_password": "b8mo"
+  }
+}

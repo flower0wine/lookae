@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：英文字母书写MG动画 Aescripts Font Manager+使用教程",
+  "slug": "aejiao-ben-ying-wen-zi-mu-shu-xie-mgdong-hua-aescripts-font-manager-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/10/10 16:46",
+  "source_url": "https://www.lookae.com/font-manager/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本提供了一种全新的方式来处理动态字体，能够通过简单快速的操作创建英文字母和字符的书写MG动画（不支持中文汉字）。用户只需点击几下即可完成文字动画的创建。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/10/Font-Manager.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345271726101.mp4"
+  ],
+  "supported_versions": "AE CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-223584885"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1o8MGckU"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/font-manager/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

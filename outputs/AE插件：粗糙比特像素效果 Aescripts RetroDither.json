@@ -1,0 +1,41 @@
+{
+  "title": "AE插件：粗糙比特像素效果 Aescripts RetroDither",
+  "slug": "aecha-jian-cu-cao-bi-te-xiang-su-xiao-guo-aescripts-retrodither",
+  "author": "大众脸",
+  "post_date": "2014-08-29T23:16:00Z",
+  "source_url": "https://www.lookae.com/retrodither/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件"
+  ],
+  "content": "Aescripts RetroDither 是一款专为 Adobe After Effects 设计的 GPU 加速插件，可模拟复古游戏主机和家用电脑平台的像素化视觉效果。它支持超过 10 种不同的有序抖动（ordered dithering）与误差扩散（error diffusion）算法，并提供多种经典硬件色彩调色板，如 ZX Spectrum、CGA、MSX 等，适用于打造具有怀旧感的动态图形或视频素材。该插件特别适合希望在作品中融入 80 年代游戏风格的创作者。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/RetroDither.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "适用于 Windows 版 Adobe After Effects",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE插件：粗糙比特像素效果 Aescripts RetroDither",
+      "url": "https://www.400gb.com/file/72246536"
+    }
+  ],
+  "other": {
+    "demo_link": "",
+    "official_website": "http://aescripts.com/retrodither/",
+    "related_resources": [
+      "LookAE 大众脸官方淘宝商城（精品资源）: https://lookae.taobao.com/"
+    ],
+    "original_post_date": "2014/08/29 23:16",
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/aescripts/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

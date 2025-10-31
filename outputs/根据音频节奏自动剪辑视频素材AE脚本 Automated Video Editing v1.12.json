@@ -1,0 +1,43 @@
+{
+  "title": "根据音频节奏自动剪辑视频素材AE脚本 Automated Video Editing v1.12",
+  "slug": "gen-ju-yin-pin-jie-zou-zi-dong-jian-ji-shi-pin-su-cai-aejiao-ben-automated-video-editing-v1-12",
+  "author": "大众脸",
+  "post_date": "2023/06/05 17:37",
+  "source_url": "https://www.lookae.com/automated-video/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "自动剪辑"
+  ],
+  "content": "Automated Video Editing 是一款After Effects脚本，能够根据音乐节奏和其他应用规则自动完成整个视频编辑过程。导入视频剪辑和音乐，进行简单设置，即可获得与音乐同步的完整编辑视频，如有必要还可轻松调整。脚本提供剪辑规则，可自定义组合。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/Automated-Video-Editing.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/44207095.mp4"
+  ],
+  "supported_versions": "AE CS 6 – CC 2023",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-865097862-955c13?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1aKiOGHo2KfC5db-dQsyeWA?pwd=o883"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ji9sDKiMxX6"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "o883"
+    }
+  }
+}

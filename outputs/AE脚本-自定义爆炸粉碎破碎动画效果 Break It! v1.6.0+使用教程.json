@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-自定义爆炸粉碎破碎动画效果 Break It! v1.6.0+使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-bao-zha-fen-sui-po-sui-dong-hua-xiao-guo-break-it-v1-6-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-12-08 13:59",
+  "source_url": "https://www.lookae.com/break-it-160/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "破碎动画"
+  ],
+  "content": "Break It! 是一款在 After Effects 中快速生成爆炸、粉碎、破碎视觉效果的脚本工具，无需第三方插件即可一键创建可自定义的碎片动画。用户可自由调节碎片数量、重力、间距、破断力方向，并支持多次、多区域连续破碎，轻松实现电影级破坏特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/Break-It.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/413644773843.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1433890153-bf6174?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JA7oDrDuREMQc2V8dEUgrg?pwd=a5qp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/qX2ZKYFUPe1"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "a5qp"
+    },
+    "v1.6.0更新": "修复已知错误并针对 After Effects 2025 优化"
+  }
+}

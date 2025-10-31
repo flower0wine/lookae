@@ -1,0 +1,47 @@
+{
+  "title": "AE/PR特效合成套装插件 FXhome HitFilm Plugins v1.0 （Win64位）",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-hitfilm-plugins-v1-0-win64wei",
+  "author": "大众脸",
+  "post_date": "2014/04/23 21:36",
+  "source_url": "https://www.lookae.com/aehitfilm/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FXhome",
+    "HitFilm",
+    "Win64位"
+  ],
+  "content": "FXHOME公司推出的HitFilm插件套装，首次在After Effects, Premiere Pro, FCPX 和 Vegas Pro中拥有HitFilm效果。该插件集成了130款插件，支持GPU加速，提供从特效合成、跟踪到调色的多种功能，包括先进的键控/抠像技术、各种光效效果、烟火效果、火灾模拟、雷电等电影分级和视觉增强功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/FXhome-HitFilm.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v1.0",
+  "supported_os": "Win64位",
+  "download_links": [
+    {
+      "name": "百度云下载",
+      "url": "https://pan.baidu.com/s/1pJi8RVX"
+    },
+    {
+      "name": "插件修复版本下载（去水印干扰）",
+      "url": "https://www.400gb.com/file/63629098"
+    }
+  ],
+  "other": {
+    "original_price": "499美元（约3100人民币）",
+    "compatible_software": [
+      "After Effects",
+      "Premiere Pro",
+      "FCPX",
+      "Vegas Pro"
+    ],
+    "release_date": "2014年4月底",
+    "features": {
+      "effects_compositing": "超过130种特效效果，包括qiang火插件、失真扭曲效果、三维挤压、变形校正等",
+      "organic_particle_arrays": "能创建复杂的粒子系统，控制成千上万粒子的分布形状和发射形态",
+      "keying_matte_generation": "使用专业的色度键抠像，综合抑制溢出，通道控制和良好的色彩校正",
+      "lights_flares": "美丽漂亮的镜头光斑，以及镜头发散效果，拥有体积光线和高细节的发光"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "红巨人抠像套装插件 Red Giant Keying Suite 11.1.9 支持 CC 2018",
+  "slug": "hong-ju-ren-kou-xiang-tao-zhuang-cha-jian-red-giant-keying-suite-11-1-9-zhi-chi-cc-2018",
+  "author": "大众脸",
+  "post_date": "2017-10-19T18:47:00Z",
+  "source_url": "https://www.lookae.com/ks1119/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CC 2018",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Keying Suite 11.1.9 是 Red Giant 公司推出的专业抠像插件套装，正式支持 Adobe CC 2018 和 Final Cut Pro X。该套件包含 Primatte Keyer、Key Correct 和 Warp 等插件，适用于 After Effects、Premiere Pro、Final Cut Pro X 及 Motion 5 等主流视频剪辑与合成软件。插件具备强大的抠像能力，支持复杂场景如低光、模糊画面及透明材质等，提供边缘细节优化、色溢去除、线缆清理等功能，显著提升合成真实感。更新后进一步优化渲染性能，提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Keying1110.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC2018, Adobe Premiere Pro CS5 – CC2018, Final Cut Pro X, Motion 5",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win 版本 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-224611998"
+    },
+    {
+      "name": "Win 版本 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1qYwofX6"
+    },
+    {
+      "name": "Mac 版本 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-224610978"
+    },
+    {
+      "name": "Mac 版本 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1dFPaIjf"
+    },
+    {
+      "name": "完美序列号下载",
+      "url": "https://www.400gb.com/file/70980601"
+    }
+  ],
+  "other": {
+    "plugin_included": [
+      "Primatte Keyer 5.1.3 超级抠像插件",
+      "Key Correct 1.3.2 抠像修正插件（更新）",
+      "Red Giant Warp 1.1.4 扭曲变形插件"
+    ],
+    "update_notes": [
+      "更新支持 Adobe CC 2018"
+    ],
+    "official_website": "http://www.redgiantsoftware.com/products/all/keying-suite/",
+    "related_resources": [
+      "Final Cut Pro X 中文系列教程：001.Primatte keyer 抠像插件讲解 - https://www.mfcpx.com/primattekeyer/"
+    ],
+    "registration_keys": {
+      "Primatte Keyer 5": [
+        "8368-4058-5000-9345-3345",
+        "1376-4092-5000-6656-1346",
+        "1504-4036-5000-5010-1474",
+        "1848-4000-5000-9134-6818",
+        "1697-4070-5000-8631-6667",
+        "8838-7046-1234-6096-4409",
+        "8563-7078-1234-5603-1134",
+        "9007-7010-1234-5027-1578",
+        "8766-7062-1234-8619-7337",
+        "9209-7032-1234-9896-0780",
+        "8339-7050-1234-5932-3910",
+        "8710-7074-1234-7025-1281"
+      ],
+      "Key Correct 1.3.2": [
+        "8315-4032-5678-9238-4970",
+        "9030-4002-5678-9973-4685",
+        "9192-4058-5678-6814-4847",
+        "8658-4046-5678-6319-4313",
+        "8951-4076-5678-5973-6606",
+        "8635-4012-5678-8971-0290",
+        "9046-4062-5678-4312-6701",
+        "8519-4068-5678-4950-0174"
+      ],
+      "Warp & Radium Glow 1.1.4": [
+        "1724-0389-1213-4212-1963",
+        "1370-0333-1738-7326-2134",
+        "1284-0377-1026-4537-2336",
+        "1806-0393-1541-4760-5373",
+        "1809-0306-1057-4290-3892",
+        "1450-0313-1930-4718-1406",
+        "1560-0393-1226-4144-2812",
+        "1383-0366-1238-6962-7647",
+        "2119-0350-1155-4637-4300"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "场景扫描DOF深度图自动生成AE插件 Depth Scanner 1.7.2 GPU Win完整离线版",
+  "slug": "chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-aecha-jian-depth-scanner-1-7-2-gpu-winwan-zheng-chi-xian-ban",
+  "author": "大众脸",
+  "post_date": "2023/02/07 20:45",
+  "source_url": "https://www.lookae.com/depth-scanner-172/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "DOF深度"
+  ],
+  "content": "用于自动深度图计算的基于人工智能的插件。可让您从图像和视频创建深度图。生成的深度图可用于各种后期处理任务，例如添加雾、将素材转换为立体3D以及更多图像效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2022, 2023",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-803778534-16d6f7?p=4431"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10iazZrjyX5RztnzJCKy_3A?pwd=qx2l"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/J7FqTW68jeq"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+    },
+    {
+      "name": "视频教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ],
+  "other": {
+    "gpu_requirement": "NVIDIA-GPU",
+    "update_notes": "v1.7.2 更新内容：修复导致某些预览分辨率崩溃的错误",
+    "access_passwords": {
+      "城通网盘": "6688"
+    }
+  }
+}

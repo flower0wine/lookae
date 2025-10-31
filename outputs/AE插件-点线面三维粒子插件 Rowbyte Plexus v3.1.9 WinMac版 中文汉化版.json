@@ -1,0 +1,72 @@
+{
+  "title": "AE插件-点线面三维粒子插件 Rowbyte Plexus v3.1.9 Win/Mac版 中文汉化版",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-9-win-macban-zhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2019/01/08 14:44",
+  "source_url": "https://www.lookae.com/plexus-319/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac",
+    "中文汉化"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。不仅可渲染粒子，还能基于多种参数建立粒子间的复杂关系。其工作流高度模块化，允许用户构建无限多的配置与参数组合。该插件适用于从 After Effects CS6 到 CC 2019 的版本，支持在 Windows 和 Mac 系统上运行。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [
+    "https://lookae.ctfile.com/fs/ZI4154455817",
+    "https://pan.baidu.com/s/1hsvzYvi"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 英文版插件",
+      "url": "https://lookae.ctfile.com/fs/680462-329976075"
+    },
+    {
+      "name": "Win 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1gWdXgFCpGhQW5lawIkjI0w"
+    },
+    {
+      "name": "Win 中文汉化补丁",
+      "url": "https://lookae.ctfile.com/fs/680462-350951659"
+    },
+    {
+      "name": "Win 百度网盘中文汉化",
+      "url": "https://pan.baidu.com/s/1nZ0dNCcksToVnPzHqtMf-A%20"
+    },
+    {
+      "name": "Mac 英文版插件",
+      "url": "https://lookae.ctfile.com/fs/680462-329976087"
+    },
+    {
+      "name": "Mac 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Dvv_-RJ7fjzxgXIYZLVolQ"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/plexus/ or https://www.rowbyte.com/plexus/",
+    "update_notes": "修复了Instance Object创建比set更多实例的问题。",
+    "new_features": [
+      "Object based UI - 全新定制的UI操控界面",
+      "Depth Map Culling - 深度贴图",
+      "Motion Blur - 运动模糊",
+      "Sound Effector - 音频效果器",
+      "Null Object Performance - 空物体控制提升",
+      "Slicer Object - 物体切割",
+      "Path Object Improvements - 物体路径改进",
+      "Seamless Beams - 无缝线条动画",
+      "Custom Visibility Settings - 粒子可视化控制",
+      "Improved OBJ ImportOBJ - 导入提升",
+      "Unified Rendering - 统一渲染",
+      "Nested Compositions - 镶嵌合成模式",
+      "Loop Noise - 循环噪波"
+    ],
+    "additional_info": {
+      "description": "支持将3D模型导出为OBJ格式并导入AE作为粒子发射器，也可通过路径、文字和灯光创建粒子发射，操作模式具有创新性。",
+      "tutorial_download": "视频教程已提供，可通过城通网盘或百度云网盘下载"
+    }
+  }
+}

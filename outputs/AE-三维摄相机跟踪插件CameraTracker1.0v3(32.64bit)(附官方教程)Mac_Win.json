@@ -1,0 +1,47 @@
+{
+  "title": "AE-三维摄相机跟踪插件CameraTracker1.0v3(32.64bit)(附官方教程)Mac_Win",
+  "slug": "ae-san-wei-she-xiang-ji-gen-zong-cha-jian-cameratracker1-0v3-32-64bit-fu-guan-fang-jiao-cheng-mac-win",
+  "author": "大众脸",
+  "post_date": "2012-06-29T15:59:00Z",
+  "source_url": "https://www.lookae.com/cameratracker1-0v3/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "国外教程",
+    "插件"
+  ],
+  "content": "CAMERATRACKER 是一款专为 After Effects 设计的三维摄相机跟踪插件，可实现三维相机轨道反求与动向匹配。通过分析实拍素材，提取原始相机的镜头参数和运动轨迹，支持在 After Effects 中进行二维与三维素材的精准合成。适用于 2.5D 环境下的动态对位，如创建场景内标题、插入动画元素、虚拟场景延伸及运动纹理投影等。该技术曾仅限于 Foundry 的 NUKEX 软件，现可在 Adobe After Effects 内直接使用。本版本提供 32 位和 64 位兼容版本，特别适合 CS4 至 CS5.5 用户；CS6 及以上版本已内置类似功能，无需额外安装。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/06/3DCameraTracker.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS4, CS5, CS5.5",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "CameraTracker 1.0v2 AE CS4 (Win)",
+      "url": "http://www.ctdisk.com/file/8766230"
+    },
+    {
+      "name": "CameraTracker 1.0v2 AE CS5 (Win)",
+      "url": "http://www.ctdisk.com/file/8766239"
+    },
+    {
+      "name": "CameraTracker 1.0v2 AE CS5.5 (Win)",
+      "url": "http://www.ctdisk.com/file/8766245"
+    },
+    {
+      "name": "The Foundry Camera Tracker 1.0v3 (64位, Mac)",
+      "url": "http://www.ctdisk.com/file/11534951"
+    }
+  ],
+  "other": {
+    "tutorial_urls": [
+      "http://thefoundry.s3.amazonaws.com/products/cameratracker/ae/assets/CameraTracker-201/CameraTracker_201_Class_01.zip",
+      "http://thefoundry.s3.amazonaws.com/products/cameratracker/ae/assets/CameraTracker-201/CameraTracker_201_Class_02.zip",
+      "http://thefoundry.s3.amazonaws.com/products/cameratracker/ae/assets/CameraTracker-201/CameraTracker_201_Class_03.zip",
+      "http://thefoundry.s3.amazonaws.com/products/cameratracker/ae/assets/CameraTracker-201/CameraTracker_201_Class_04.zip"
+    ],
+    "note": "32位版本较为稀有，本资源为珍贵的32位软件备份；CS6及以上版本已内置3D摄像机跟踪功能，无需使用此插件。"
+  }
+}

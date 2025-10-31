@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本：关键帧动画图层生成标记 Aescripts trigger v1.1 + 使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-dong-hua-tu-ceng-sheng-cheng-biao-ji-aescripts-trigger-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/01/20 11:18",
+  "source_url": "https://www.lookae.com/trigger11/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts trigger v1.1 脚本可以根据关键帧或者图层起始来做记号标记，非常智能人性化，预合成后也会在合成上生成标记。压缩包内含脚本和使用视频教程。该脚本可以将线性工作流程转变为基于事件的自动化工作流程，允许您非破坏性地重新调整复杂动画的时间，轻松测试动画的多个版本，并从全局组合中轻松序列化多个动画事件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/trigger-splash.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/t/r/trigger_demo.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4/CS5/CS6/CC/CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本文件下载",
+      "url": "http://lookae.ctfile.com/file/141246745"
+    },
+    {
+      "name": "视频教程下载",
+      "url": "https://lookae.400gb.com/file/131143025"
+    }
+  ],
+  "other": {
+    "version_update": "Version 1.1 新版更新：– Fixed licensing issue",
+    "official_website": "http://aescripts.com/trigger/",
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane"
+  }
+}

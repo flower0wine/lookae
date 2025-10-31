@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本-表达式特效自定义控件组合 Pseudo Effect Maker V2.2.16 + 使用教程",
+  "slug": "aejiao-ben-biao-da-shi-te-xiao-zi-ding-yi-kong-jian-zu-he-pseudo-effect-maker-v2-2-16-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-24T21:28:00Z",
+  "source_url": "https://www.lookae.com/pseudo-effect-2216/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Pseudo Effect Maker 是一款用于 After Effects 的脚本，可将多个表达式组合为自定义控件，支持命名、组织和保存预设，提升表达式控制的效率与整洁性。该脚本允许用户创建类似内置效果的自定义控件组，便于项目管理与协作。适用于 AE CC 2014 至 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/06/Pseudo-Effect-Maker.jpg"
+  ],
+  "video_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2nKhGcSvHfKJjSZFPXXbttpXa_!!705956171.gif"
+  ],
+  "supported_versions": "CC 2014 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368192149"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1JsqKa9joMbOEzNXVVh_yeA"
+    }
+  ],
+  "other": {
+    "description": "这是一个用于 After Effects 的表达式控件组合工具，可将多个表达式整合为可自定义的控件组，支持预设保存、拖放操作、多种界面样式、滑块属性自定义、不可见控件、撤消重做等功能。",
+    "update_notes": [
+      "After Effects CC2019 兼容性更新",
+      "修复打开旧预设时名称和 matchnames 加载错误问题",
+      "支持使用 JSON 格式直接粘贴控件配置",
+      "新增撤销与重做功能",
+      "滑块控件属性顺序可自定义",
+      "支持不可见控件",
+      "选中控件在面板中标记以便参考",
+      "支持多项目拖放",
+      "滑块最小值/最大值可在面板显示",
+      "支持多种效果面板样式（CC, CC2014, CC2015, CC2018）",
+      "新增组合已保存控件功能（附加而非覆盖）",
+      "保存位置记忆功能，自动打开上次文件夹",
+      "控件名称宽度优化，防止截断",
+      "修复灰暗文本控件在效果面板显示异常问题",
+      "拖放性能优化，避免重复问题",
+      "滑块输入不再自动校正，无效值仅提示警告",
+      "特殊字符在应用/保存/加载时不再出错",
+      "修复角度控件负默认值重置异常问题"
+    ],
+    "installation_guide": "详细图文安装方法说明",
+    "usage_tutorial": "含视频使用教程",
+    "official_website": "http://aescripts.com/pseudo-effect-maker/",
+    "related_tags": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

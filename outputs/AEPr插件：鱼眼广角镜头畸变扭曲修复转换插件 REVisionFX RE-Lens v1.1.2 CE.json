@@ -1,0 +1,29 @@
+{
+  "title": "AE/Pr插件：鱼眼广角镜头畸变扭曲修复转换插件 REVisionFX RE-Lens v1.1.2 CE",
+  "slug": "ae-prcha-jian-yu-yan-yan-jiao-jing-tou-ji-bian-niu-qu-xiu-fu-zhuan-huan-cha-jian-revisionfx-re-lens-v1-1-2-ce",
+  "author": "大众脸",
+  "post_date": "2016/08/15 11:26",
+  "source_url": "https://www.lookae.com/re-lens-112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Revisionfx"
+  ],
+  "content": "RE-Lens是REVisionFX公司新出的一款鱼眼广角镜头畸变扭曲修复转换插件，1.1.2新版修复一个GPU加速问题。该插件能够校正弯曲的镜头素材，从单个摄像机创建全景图像，非常适合360度全景工作流程。可以捕捉高分辨率的超广角镜头，并在后期制作中实现摄像机旋转和变焦动画，为引导观众视线提供更大的灵活性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/RE-Lens.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5–CC 2015.3, Adobe Premiere Pro CS5–CC 2015.3",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "AE/Pr插件：鱼眼广角镜头畸变扭曲修复转换插件 REVisionFX RE-Lens v1.1.2 CE",
+      "url": "http://lookae.ctfile.com/fs/IOp155321491"
+    }
+  ],
+  "other": {
+    "official_website": "http://revisionfx.com/products/relens/after-effects/"
+  }
+}

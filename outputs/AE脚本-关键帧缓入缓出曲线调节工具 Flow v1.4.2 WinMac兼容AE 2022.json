@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-关键帧缓入缓出曲线调节工具 Flow v1.4.2 Win/Mac兼容AE 2022",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-qu-xian-diao-jie-gong-ju-flow-v1-4-2-win-macjian-rong-ae-2022",
+  "author": "大众脸",
+  "post_date": "2021-12-02 10:34",
+  "source_url": "https://www.lookae.com/flow-142/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Flow",
+    "关键帧插件",
+    "曲线工具",
+    "缓入缓出"
+  ],
+  "content": "Flow为After Effects带来了一个简单的操作界面，用于自定义动画曲线，而无需进入陈旧、混乱的图形编辑器。脚本能够自定义动画曲线的效果，包含25种关键帧曲线效果，可自定义修改编辑，还可自定义保存自己调整的预设。图形和库支持键盘快捷键；在库中使用 Shift/Alt/Ctrl 快速设置缓入/缓入和缓出/缓出，或在图表中以不同方式捕捉手柄或对称移动它们。v1.4.2更新内容：更改了内部文档，修复了AE 22.x中未显示流程的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/Flow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-585069316-7169f9?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1iDr1nG3n7mudgCM9ZYctmA?pwd=d6px"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XMG1n56jtrc"
+    }
+  ],
+  "other": {
+    "download_access_codes": {
+      "城通网盘": "6688",
+      "百度网盘": "d6px"
+    }
+  }
+}

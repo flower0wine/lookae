@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-将标记处画面另存为静帧图片 Render Frame at Markers v1.93",
+  "slug": "aejiao-ben-jiang-biao-ji-chu-hua-mian-ling-cun-wei-jing-zheng-tu-pian-render-frame-at-markers-v1-93",
+  "author": "大众脸",
+  "post_date": "2021-09-11",
+  "source_url": "https://www.lookae.com/render-frame/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "将向渲染队列发送由合成工作区域内的图层标记标记的任何帧，相当于在合成中每个标记处执行“将帧另存为->文件”操作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/Render-Frame-at-Markers.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6–2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-513303704-22d8c9"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1GE5IaDPuhzl8fNka949s_w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/u5bUfdc8SLU"
+    }
+  ],
+  "other": {
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "5mfv"
+  }
+}

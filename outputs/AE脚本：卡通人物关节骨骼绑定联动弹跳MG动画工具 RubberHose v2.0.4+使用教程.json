@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本：卡通人物关节骨骼绑定联动弹跳MG动画工具 RubberHose v2.0.4+使用教程",
+  "slug": "aejiao-ben-qia-tong-ren-wu-guan-jie-gu-ge-bang-ding-lian-dong-dan-tiao-mgdong-hua-gong-ju-rubberhose-v2-0-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/06/05 12:40",
+  "source_url": "https://www.lookae.com/rubberhose204/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "RubberHose 是一款用于 After Effects 的高效 MG 动画角色绑定脚本，专为简化卡通人物关节骨骼绑定与联动弹跳动画而设计。它采用开放系统架构，仅需两个控制点即可实现对整个角色绑定动画的完整控制，支持自由变形与拉伸，并能快速生成手脚等肢体结构并与身体绑定。该工具显著提升动画制作效率，使用户在保持角色表现力的同时享受动画创作过程。下载包内附带视频使用教程，便于快速上手。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2wSlbfXXXXXX7XpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2dqB6shXlpuFjSsphXXbJOXXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2Wk8wsgJkpuFjSZcXXXfsFXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB27X_RvOpnpuFjSZFIXXXh2VXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2G4HdvQqvpuFjSZFhXXaOgXXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2KnYwvItnpuFjSZFKXXalFFXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2O3L8vJRopuFjSZFtXXcanpXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2m1DmvSVmpuFjSZFFXXcZApXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2w7UrvH4npuFjSZFmXXXl4FXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2quDyvUlnpuFjSZFjXXXTaVXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2qESdsbtlpuFjSspfXXXLUpXa_!!705956171.gif",
+    "https://static1.squarespace.com/static/55972c7ee4b069786e8c66ae/5849234c9f74568ff2d019b5/584a4e81d2b857c1bca62dff/1481264804629/dbb.gif?format=500w",
+    "https://static1.squarespace.com/static/55972c7ee4b069786e8c66ae/5849234c9f74568ff2d019b5/584a4d83e6f2e113671d3cc8/1481264557776/bad-bitch.gif?format=500w",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BGF6shXlpuFjSsphXXbJOXXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2jSaZsbRkpuFjSspmXXc.9XXa_!!705956171.gif",
+    "https://static1.squarespace.com/static/55972c7ee4b069786e8c66ae/5849234c9f74568ff2d019b5/584924cab8a79bbd070e798b/1481188573315/happy.gif?format=500w"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50009708942.mp4"
+  ],
+  "supported_versions": "AE CS4 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-205673661"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1pKSwkJ5"
+    },
+    {
+      "name": "RubberHose 使用视频教程下载",
+      "url": "https://www.lookae.com/rubberhose/"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.battleaxe.co/rubberhose/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_guide": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

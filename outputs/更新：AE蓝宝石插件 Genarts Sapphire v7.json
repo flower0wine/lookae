@@ -1,0 +1,45 @@
+{
+  "title": "更新：AE蓝宝石插件 Genarts Sapphire v7",
+  "slug": "geng-xin-aelan-bao-shi-cha-jian-genarts-sapphire-v7",
+  "author": "大众脸",
+  "post_date": "2013-04-01 19:11",
+  "source_url": "https://www.lookae.com/sapphire7/",
+  "category": "aechajian",
+  "tags": [
+    "windows版",
+    "多平台支持"
+  ],
+  "content": "大名鼎鼎的AE外置插件蓝宝石 GenArts Sapphire，拥有几百种非常炫的强力效果。此次更新新加入了很多效果，修正一些BUG。主要更新包括Beauty（润肤）、edgeawareblur（边缘模糊）、Advanced Sharpen（高级锐化）、MotionBlur（动态模糊）等新效果，以及性能优化、更多预设和实时渲染等功能改进。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/04/Sapphire7.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects, OFX (Nuke, Fusion, SCRATCH, Sony Vegas)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Sapphire v7.0 for After Effects",
+      "url": "http://files.genarts.com/sapphire/sapphire-ae-install-7.0.exe"
+    },
+    {
+      "name": "Sapphire v7 for OFX",
+      "url": "http://files.genarts.com/sapphire/sapphire-ofx-install-7.0.exe"
+    },
+    {
+      "name": "Keygen 文件",
+      "url": "https://www.400gb.com/file/18683504"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "更新：AE插件：蓝宝石 GenArts Sapphire 6.13",
+        "url": "https://www.lookae.com/gs-613/"
+      },
+      {
+        "title": "AE插件:蓝宝石 GenArts Sapphire 6.0 一键完美 (32&64Bit)",
+        "url": "https://www.lookae.com/genarts-sapphire-6/"
+      }
+    ]
+  }
+}

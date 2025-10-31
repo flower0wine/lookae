@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-快速景深模糊插件专业版 Fast Bokeh Pro v1.1.1 Win/Mac版",
+  "slug": "aecha-jian-kuai-su-jing-shen-mo-hu-cha-jian-zhuan-ye-ban-fast-bokeh-pro-v1-1-1-win-macban",
+  "author": "大众脸",
+  "post_date": "2019/09/26 17:21",
+  "source_url": "https://www.lookae.com/fastbokeh-pro11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Fast Bokeh Pro专业版是After Effects的快速景深模糊插件，可使用深度贴图创建平滑的景深散景模糊效果。渲染处理速度非常快，且能够正确处理边缘，易于使用。与Crossphere Bokeh模糊插件相比，Fast Bokeh Pro渲染速度更快，但可配置性较差。该插件支持32位颜色模式，建议使用以获得最佳质量。焦点选择功能可通过参数自动确定对焦点，无需手动输入。适用于After Effects CS6 – CC 2019，支持Windows和Mac系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Fast-Bokeh-Pro-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/237051912055.mp4"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-400019584"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1shhTbjW_CCpcH_DVTaZEwg"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "球形光圈散景模糊（专业版独有）",
+      "快速对焦点参数（专业版独有）",
+      "自动焦点选择",
+      "支持32 bpc颜色模式",
+      "独立模糊半径，性能稳定",
+      "边缘处理良好，减少锯齿硬边",
+      "高斯模糊等效质量"
+    ],
+    "update_notes_v1_1_1": [
+      "新增‘Intensity Boost – 强度增强’参数",
+      "小错误修复"
+    ],
+    "note": "建议使用不带抗锯齿的深度贴图以获得最佳效果。",
+    "official_website": "https://www.rowbyte.com/fast-bokeh"
+  }
+}

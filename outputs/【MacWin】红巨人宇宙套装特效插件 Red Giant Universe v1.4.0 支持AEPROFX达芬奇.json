@@ -1,0 +1,49 @@
+{
+  "title": "【Mac/Win】红巨人宇宙套装特效插件 Red Giant Universe v1.4.0 支持AE/PR/OFX/达芬奇",
+  "slug": "mac-win-hong-ju-ren-yu-zhou-tao-zhuang-te-xiao-cha-jian-red-giant-universe-v1-4-0-zhi-chi-ae-pr-ofx-da-fen-qi",
+  "author": "大众脸",
+  "post_date": "2015-05-06T12:14:00Z",
+  "source_url": "https://www.lookae.com/universe14mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Red Giant"
+  ],
+  "content": "Red Giant Universe v1.4.0 是一个集成了多种特效与转场效果的插件套装，包含89套已更新的特效和转场插件。该版本支持多款主流视频编辑软件，包括 Adobe After Effects、Premiere Pro、DaVinci Resolve、HitFilm 3 Pro 等，并兼容 Windows 7/8 64位及 Mac OS X 系统。所有插件均提供 GPU 加速支持，且同时支持 Mac 与 Windows 平台。此套装由 Red Giant 公司推出，包含免费与付费插件，持续扩展特效库（如光效、粒子预设、调色、转场等），为创作者提供一站式视觉特效解决方案。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Universe.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5.5+, Premiere Pro CS6+, DaVinci Resolve v11+, Sony Vegas v13+, Nuke v8+, HitFilm 3 Pro",
+  "supported_os": "Windows 7/8 64-bit, Mac OS X",
+  "download_links": [
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "https://www.400gb.com/file/92262558"
+    },
+    {
+      "name": "Windows 版本下载",
+      "url": "https://www.400gb.com/file/88686250"
+    }
+  ],
+  "other": {
+    "plugin_version": "v1.4.0",
+    "update_notes": "更新了更多效果，支持 HitFilm 3 Pro 软件，插件库已更新89套特效和转场效果插件。",
+    "official_website": "http://www.redgiant.com/store/universe/",
+    "featured_plugins": [
+      "Universe Noise: Luminance Noise",
+      "Universe Blur: Compound Blur (Labs)",
+      "Universe Utilities: Color Gamma Conversion",
+      "Universe Glow: Glimmer",
+      "Universe Stylize: Carousel",
+      "Universe Stylize: Holomatrix EZ",
+      "Universe CrumplePop: SplitScreen Blocks",
+      "Universe CrumplePop: SplitScreen Custom Block",
+      "Universe ToonIt: ToonIt Sketch",
+      "ToonIt Paint: Add Halftone (P)",
+      "ToonIt Outlines: Added Chalk presets (P)",
+      "Universe Holomatrix: Added glitching, distortion, flicker and more (P)"
+    ],
+    "additional_info": "部分插件为付费版本（标注为 P），新版本增加了 ToonIt 工具的新预设和功能。"
+  }
+}

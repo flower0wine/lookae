@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本：人物角色骨骼绑定脚本Duik Bassel v16.0 Win/Mac+使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-gu-ge-bang-ding-jiao-ben-duik-bassel-v16-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/07/10 14:55",
+  "source_url": "https://www.lookae.com/duik16/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Duik 是由 DuDuF 出品的用于 After Effects 的动力学与动画工具集，旨在简化角色动画制作流程。该脚本提供反向动力学（IK）、骨骼系统、自动绑定、动态效果、图形变形器等核心功能，并支持多国语言（含中文）。其自适应操控系统可自动识别角色结构（如手臂、腿部关节），即使角色结构不完整（如缺少膝盖）也能智能适配。此外，Duik 还包含多种高级动画控制器，如弹簧、延迟、反弹、自动旋转等，并支持动画的复制与粘贴，便于高效制作复杂动画。整体设计注重用户友好性，适合用于人物、机械等各类角色动画创作。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2WgYJfVXXXXb4XXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50192796653.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-297858162"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1w28UvimK1RvexK8lkmQuwQ"
+    },
+    {
+      "name": "脚本使用操作教程下载",
+      "url": "https://www.400gb.com/file/122991244"
+    }
+  ],
+  "other": {
+    "project_funding_url": "https://www.indiegogo.com/projects/duik-16-a-free-animation-software#/",
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

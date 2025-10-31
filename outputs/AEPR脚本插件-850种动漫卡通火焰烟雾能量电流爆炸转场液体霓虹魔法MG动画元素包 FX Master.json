@@ -1,0 +1,48 @@
+{
+  "title": "AE/PR脚本插件-850种动漫卡通火焰烟雾能量电流爆炸转场液体霓虹魔法MG动画元素包 FX Master",
+  "slug": "ae-prjiao-ben-cha-jian-850chong-dong-man-qia-tong-huo-yan-yan-wu-neng-liang-dian-liu-bao-zha-zhuan-chang-ye-ti-ni-hong-mo-fa-mgdong-hua-yuan-su-bao-fx-master",
+  "author": "大众脸",
+  "post_date": "2020/03/31 15:04",
+  "source_url": "https://www.lookae.com/fx-master/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Motion Factory",
+    "PR插件",
+    "PR脚本"
+  ],
+  "content": "这是一个可创建具有卡通效果的逼真MG视觉效果的元素脚本扩展包，用法简单，物品手绘且透明，可修改颜色等，能在AE和PR中处理视频或图像，通过Motion Factory脚本加载使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/03/FX-Master.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01I6nud21vSMiGOEgWm_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/258120822815.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019 – 2020，Premiere Pro CC 2019 – 2020 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "AE/PR脚本插件-850种动漫卡通火焰烟雾能量电流爆炸转场液体霓虹魔法MG动画元素包 FX Master",
+      "url": "https://72k.us/file/680462-433778859"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "PR模板",
+      "软件/插件"
+    ],
+    "分辨率": "不限制",
+    "提供扩展": "Motion Factory 脚本",
+    "动画音乐": "无音乐（[更多AE模板精选参考音乐合集下载](https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486))",
+    "文件编号": "26021811",
+    "文件大小": "约 1G",
+    "使用帮助": "安装方法+视频使用教程",
+    "特别注意": "安装后请勿移动安装文件，否则失效。",
+    "安装方法": "1.拷贝com.pixflow.motionfactory文件夹到以下位置:\n   Win : C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\\n   Mac : 系统盘/Library（中文叫资源库）/Application Support/Adobe/CEP/extensions\n2.Win运行一下Add Keys.reg，Mac运行一下install-as-admin\n3.打开AE软件设置，勾选上*允许脚本读写和访问网络（PR忽略这步）\n   Win：编辑–首选项–常规\n   Mac：After Effects CC-首选项–常规\n4.在AE/PR软件顶部window窗口菜单–扩展下即可打开Motion Factory脚本\n5.需要登陆，点击 Log In，输入下面的账号密码点击Continue登陆（你也可免费申请账号）\n   账号：lookae@lookae.com\n   密码：lookae\n6.在脚本窗口的右下角点击 Import – Import Folder ，选中安装包里的FX Master AE文件夹，点击打开即可。（加载其他预设方法相同）\n7.脚本的具体操作使用，可以参考安装包里的视频教程。",
+    "百度网盘下载": "隐藏内容：*****,[支付¥0](https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ffx-master%2F)下载"
+  }
+}

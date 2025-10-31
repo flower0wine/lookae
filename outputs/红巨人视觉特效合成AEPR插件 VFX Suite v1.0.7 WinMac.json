@@ -1,0 +1,84 @@
+{
+  "title": "红巨人视觉特效合成AE/PR插件 VFX Suite v1.0.7 Win/Mac",
+  "slug": "hong-ju-ren-shi-jue-te-xiao-he-cheng-ae-prcha-jian-vfx-suite-v1-0-7-win-mac",
+  "author": "大众脸",
+  "post_date": "2020-04-21",
+  "source_url": "https://www.lookae.com/vfx-suite-107/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "红巨人公司推出的一套全新视频特效合成插件，整合光工厂、辉光、抠像、跟踪等多种特效工具，适用于 After Effects 与 Premiere Pro。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/VFX-Suite.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2018 – CC 2019, 2020",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win插件-城通网盘",
+      "url": "https://72k.us/file/680462-438780547"
+    },
+    {
+      "name": "Win插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1OvNyk1p7QB9JaF54s-M8Yw"
+    },
+    {
+      "name": "Win插件-官网直链",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/vfx/archive/VFXSuite_Win_Full_1.0.7.zip"
+    },
+    {
+      "name": "Mac插件-城通网盘",
+      "url": "https://72k.us/file/680462-438779817"
+    },
+    {
+      "name": "Mac插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1P4VgxM_su1Gfyj1DZ6yxag"
+    },
+    {
+      "name": "Mac插件-官网直链",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/vfx/archive/VFXSuite_Mac_Full_1.0.7.zip"
+    },
+    {
+      "name": "视频教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-385102287"
+    },
+    {
+      "name": "视频教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1gMJuNxgWJBbalScTiHiUFQ"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "Chromatic Displacement",
+      "Knoll Light Factory",
+      "King Pin Tracker",
+      "Optical Glow",
+      "Primatte Keyer",
+      "Shadow",
+      "Reflection",
+      "Spot Clone Tracker",
+      "Supercomp"
+    ],
+    "installation_notes": "先安装插件程序，最后点击左下角蓝色的Activate，在弹出Red Giant Application Manager中点击Cancel（无需登录），然后点击右上角的按钮，选择Enter Serial Number，依次输入插件序列号完成注册激活。",
+    "serial_numbers": {
+      "Chromatic Displacement": "VXBF1575880378218299",
+      "King Pin Tracker": "VKPF1505910585082579",
+      "Knoll Light Factory": "KLPF3989222681789065",
+      "Optical Glow": "VOGF1595830396520891",
+      "Primatte Keyer": "VP6F1585909270728158",
+      "Reflection": "VXXF1545921787095659",
+      "Shadow": "VSHF1525831092422292",
+      "Spot Clone Tracker": "VXAF1535866988923613",
+      "Supercomp": "VXCF1575894268749950"
+    },
+    "baidu_extraction_codes": {
+      "Win插件": "6j68",
+      "Mac插件": "ncd2",
+      "视频教程": "v9u7"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-有趣滚动MG动画制作 Roll it! v1.2 + 使用教程",
+  "slug": "aejiao-ben-you-qu-gun-dong-mgdong-hua-zhi-zuo-roll-it-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-07-14T21:56:00Z",
+  "source_url": "https://www.lookae.com/rollit-12/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Roll it 脚本可在 After Effects 中实现任意复杂形状或蒙版的滚动效果，适用于制作 MG 动画。只需选择一个形状或多个形状，点击按钮后修改图层变换中的旋转属性，即可看到图形自然滚动。脚本支持复杂路径，仅需将参数形状转换为贝塞尔路径即可使用。无需限制，适合各类动态设计需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Roll-it.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-387622538"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1s8V-8SaPf8on7ig6tyaUsQ"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "支持 Bodymovin 扩展",
+      "提供更多脚本演示项目下载链接（lottiefiles.com/rendertom）",
+      "更快的表达式解析",
+      "新的许可框架",
+      "修复表达式中非标准 JS 数组减法方法",
+      "新增通过 Alt+Cmd+点击主界面按钮恢复报告窗口可见性的功能",
+      "修复主 UI 中按钮水平缩放至消失的问题"
+    ],
+    "demo_link": "https://aescripts.com/roll-it/",
+    "download_password": "xrwv",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

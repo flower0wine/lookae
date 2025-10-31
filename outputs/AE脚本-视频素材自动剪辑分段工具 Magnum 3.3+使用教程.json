@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-视频素材自动剪辑分段工具 Magnum 3.3+使用教程",
+  "slug": "aejiao-ben-shi-pin-su-cai-zi-dong-jian-ji-fen-duan-gong-ju-magnum-3-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-06-13T22:34:00Z",
+  "source_url": "https://www.lookae.com/magnum-33/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Magnum是一款专为After Effects设计的脚本工具，能够自动检测视频素材中的镜头切换，并将每个镜头智能剪辑为独立片段。该工具适用于Win/Mac系统下的AE CC 2019至CS6版本，支持多种版本兼容。新版本3.3引入了更高效的检测引擎，显著提升处理速度（在CC2019中提速超过2倍），并新增基于场景颜色的剪切检测功能。同时，界面进行了重新设计，提供更清晰的高级设置选项，使用更加直观便捷。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/Magnum-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-382843445"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Ma0OuG7MzKUESasnd4vxTg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "大幅提升在CC2019中的处理速度，超过2倍",
+      "新增使用场景颜色进行剪切检测",
+      "高级设置部分的重新格式化UI界面"
+    ],
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_description": "Automagically detects edits in footage. Now with an all new detection engine that is easier to use and gives better results. What’s not to love?",
+    "script_download_link": "https://aescripts.com/magnum/",
+    "download_extract_code": "8mgt"
+  }
+}

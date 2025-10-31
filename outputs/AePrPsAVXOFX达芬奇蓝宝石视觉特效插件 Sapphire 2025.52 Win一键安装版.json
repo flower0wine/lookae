@@ -1,0 +1,87 @@
+{
+  "title": "Ae/Pr/Ps/AVX/OFX/达芬奇蓝宝石视觉特效插件 Sapphire 2025.52 Win一键安装版",
+  "slug": "ae-pr-ps-avx-ofx-da-fen-qi-lan-bao-shi-shi-jue-te-xiao-cha-jian-sapphire-2025-52-winyi-jian-an-zhuang-ban",
+  "author": "大众脸",
+  "post_date": "2025-09-23T09:02:00Z",
+  "source_url": "https://www.lookae.com/sapphire-252/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "PR插件",
+    "PS插件",
+    "蓝宝石插件",
+    "达芬奇插件"
+  ],
+  "content": "Sapphire 2025.52 是一款功能强大的视觉特效插件，支持 After Effects、Premiere Pro、Photoshop、DaVinci Resolve、Fusion Studio、VEGAS Pro、Nuke 和 Avid Media Composer 等主流视频与图像处理软件。该版本提供超过 270 种特效和 3000 多个预设，集成 Mocha 跟踪系统，具备卓越的图像质量、高效渲染速度与精细控制能力，显著提升创作效率。新版修复了多个平台的兼容性问题，包括 Media Composer 的缩放与裁剪异常，以及 Autodesk 渲染崩溃等关键错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/Sapphire-2025.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/435811159933.mp4"
+  ],
+  "supported_versions": "After Effects 2022-2025, Premiere Pro 2022-2025, Photoshop 2022-2025, DaVinci Resolve 17-19, Fusion Studio 18-19, VEGAS Pro 21-22, Nuke 14-15, Avid Media Composer 2021-2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8438498046-5f8afc?p=4431"
+    },
+    {
+      "name": "AE/PR插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1rsYhVKw0FQ4LxvwJ6FluZA?pwd=j9mu"
+    },
+    {
+      "name": "AE/PR插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/PiYLggL7k7y"
+    },
+    {
+      "name": "OFX版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8438498073-23cb22?p=4431"
+    },
+    {
+      "name": "OFX版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1AsfSJiTSDoaTkqfvoFcvLg?pwd=xcbw"
+    },
+    {
+      "name": "OFX版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/XNqbjUJTF3a"
+    },
+    {
+      "name": "PS版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8438497893-6c33c5?p=4431"
+    },
+    {
+      "name": "PS版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1NQJ2rqEJFtRYwYherAwJbw?pwd=69uf"
+    },
+    {
+      "name": "PS版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/FkDFw6ZxVgF"
+    },
+    {
+      "name": "AVID插件 - 城通云盘",
+      "url": "https://url70.ctfile.com/f/2827370-8438498042-77e530?p=4431"
+    },
+    {
+      "name": "AVID插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Pgp9qFiFr55u7wT7i6tN6A?pwd=qun2"
+    },
+    {
+      "name": "AVID插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/1PXWN8ywsMA"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "Media Composer：修复了 8 位合法强度级别的缩放并避免了缩放 alpha。",
+      "Media Composer：修复了 PanAndZoom 中的裁剪顶部和底部，因此图像不会移动。",
+      "Autodesk：修复了渲染刻录节点时发生的崩溃。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/sapphire-2024-mac/",
+      "Mac苹果版-蓝宝石AE/PR/PS/Nuke/Avid/OFX达芬奇插件 Sapphire 2024.03"
+    ],
+    "note": "达芬奇用户请下载 OFX 版插件"
+  }
+}

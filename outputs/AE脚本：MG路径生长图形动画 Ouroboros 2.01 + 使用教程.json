@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本：MG路径生长图形动画 Ouroboros 2.01 + 使用教程",
+  "slug": "aejiao-ben-mglu-jing-sheng-chang-tu-xing-dong-hua-ouroboros-2-01-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/06/15 16:30",
+  "source_url": "https://www.lookae.com/ouroboros/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可在AE的单个路径上创建多个笔画，适合制作MG图形动画，带脚本使用视频教程，适用于Win/Mac系统下AE CS6 - CC 2017 ，介绍了脚本安装及使用方法。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Ouroboros.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 - CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-207746460"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1eRLnDHg"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本简介英文": "With Ouroboros you can create multiple strokes on one single path in After Effects. This can quickly create some really detailed looking stroke effects in your scene. I teamed up with Remco Janssen ( who created Expressionist ) to create this new version. http://aescripts.com/ouroboros-2/"
+  }
+}

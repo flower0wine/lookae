@@ -1,0 +1,60 @@
+{
+  "title": "中文汉化AE插件-点线面三维粒子插件 Plexus v3.1.14 Win版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-plexus-v3-1-14-winban",
+  "author": "大众脸",
+  "post_date": "2020/08/31 23:03",
+  "source_url": "https://www.lookae.com/plexus-31114/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "中文汉化"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的新一代粒子引擎，能够以程序化方式创建、操控和可视化数据。它不仅支持粒子渲染，还能基于多种参数在粒子之间建立丰富的关系。该插件工作流高度模块化，可实现无限组合的配置与效果。用户可导入 OBJ 格式的 3D 模型作为粒子发射器，也可通过路径、文字或灯光创建粒子，并内置多种自定义特效，如分形、颜色控制、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 6 – CC 2019, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-459745881"
+    },
+    {
+      "name": "英文版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1oeBGJbRTVcTuWKIbSFnyug"
+    },
+    {
+      "name": "中文版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-459769726"
+    },
+    {
+      "name": "中文版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jJt1s8qLwPs6ljaxuue6Dg"
+    },
+    {
+      "name": "使用教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "使用教程 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "official_website": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ],
+    "update_notes": "修复了路径对象中的细微细分问题",
+    "related_posts": [
+      "https://www.lookae.com/plexus-3113-mac/"
+    ],
+    "baidu_netdisk_passwords": {
+      "english_version": "iaj0",
+      "chinese_version": "pl0s"
+    }
+  }
+}

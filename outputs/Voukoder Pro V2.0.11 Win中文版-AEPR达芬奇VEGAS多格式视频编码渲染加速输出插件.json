@@ -1,0 +1,64 @@
+{
+  "title": "Voukoder Pro V2.0.11 Win中文版-AE/PR/达芬奇/VEGAS多格式视频编码渲染加速输出插件",
+  "slug": "voukoder-pro-v2-0-11-winzhong-wen-ban-ae-pr-da-fen-qi-vegasduo-ge-shi-shi-pin-bian-ma-xuan-ran-jia-su-shu-chu-cha-jian",
+  "author": "大众脸",
+  "post_date": "2025-04-28T09:42:00Z",
+  "source_url": "https://www.lookae.com/voukoder-2011/",
+  "category": "aechajian",
+  "tags": [
+    "Voukoder Pro",
+    "加速渲染",
+    "编码插件",
+    "输出插件"
+  ],
+  "content": "Voukoder Pro 是一种系统范围的视频和音频编码服务，可显著改善媒体编码体验。它支持多种现代滤镜、编码器、多路复用器和输出格式，并提供一组后处理滤镜。该插件适用于 DaVinci Resolve Studio、Adobe Premiere Pro、After Effects、Media Encoder 以及 Vegas Pro。所有组件均集成在安装包中，无需额外依赖外部连接器，且可与现有 Voukoder 版本共存。支持 Windows 系统下从 Adobe Premiere CS6 到 2025、Media Encoder CS6 到 2025、After Effects CC 2015 到 2025、DaVinci Resolve 17 及以上版本、VEGAS Pro 18 至 22 的完整兼容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/Voukoder-9.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297172470493.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6 – 2025, Adobe Media Encoder CS6 – 2025, Adobe After Effects CC 2015 – 2025, DaVinci Resolve 17 及以上, VEGAS Pro 18 – 22",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1501708324-1f2fc9?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1CxjxAdS7urwZkEAtqMOs1w?pwd=etqq"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/A34pJ5Wozk2"
+    }
+  ],
+  "other": {
+    "update_notes": "v2.0.11 更新内容：修复了 Adobe Premiere Pro CC 2025 的 5.1 音频支持问题。",
+    "plugin_description_en": "Voukoder Pro is a system wide video- and audio encoding service that improves your media encoding experience. It supports various modern filters, encoders, muxers, outputs and also provides a set of post processing filters.",
+    "related_tags": [
+      "Adobe Premiere Pro",
+      "After Effects",
+      "DaVinci Resolve",
+      "Vegas Pro",
+      "Accelerated Rendering",
+      "Encoding Plugin",
+      "Output Plugin"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/resolvezy/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/vegaszy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/voukoder-pro/",
+      "https://www.lookae.com/tag/%e5%8a%a0%e9%80%9f%e6%b8%b2%e6%9f%93/",
+      "https://www.lookae.com/tag/%e7%bc%96%e7%a0%81%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e8%be%93%e5%87%ba%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

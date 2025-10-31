@@ -1,0 +1,46 @@
+{
+  "title": "AE插件-节点式三维粒子特效星尘粒子插件 Stardust 1.6.0b Win 支持AE 2022",
+  "slug": "aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-xing-chen-li-zi-cha-jian-stardust-1-6-0b-win-zhi-chi-ae-2022",
+  "author": "大众脸",
+  "post_date": "2021/10/28 13:28",
+  "source_url": "https://www.lookae.com/stardust-160b/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust",
+    "三维粒子",
+    "星尘粒子"
+  ],
+  "content": "Stardust是AE软件新一代节点式的三维粒子插件（也称星辰/星尘粒子插件），拥有独立的操控界面，功能强大，包含多种预设，可轻松制作出漂亮而复杂的效果。插件提供发射器、粒子、复制、力场、辅助发射器、3D模型、文字、Masks等多种控制模块，模式丰富。Stardust引入了体积渲染功能，可通过任何粒子系统创建烟雾效果，并支持从其他3D软件导入VDB文件进行仿真，便于在After Effects中使用相机控制和渲染，无缝集成到合成工作流中。该插件采用创新的模块化工作流程，结合3D物理、副本动画引擎、3D模型库及数百种功能，支持用户快速实现复杂的粒子与对象运动图形效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Stardust-16.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518886177-248f84"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/11D73R3bmoy1eUfvpriAr0w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/jRFca6G1pLq"
+    },
+    {
+      "name": "3D模型预设库下载",
+      "url": "https://www.lookae.com/stardust-3d-library/"
+    },
+    {
+      "name": "Mac版插件下载（Stardust 1.2.1）",
+      "url": "https://www.lookae.com/mac-stardust-121/"
+    }
+  ],
+  "other": {
+    "update_notes": "Stardust 1.6.0b 无实质更新，仅在程序包中添加对AE 2022的支持。"
+  }
+}

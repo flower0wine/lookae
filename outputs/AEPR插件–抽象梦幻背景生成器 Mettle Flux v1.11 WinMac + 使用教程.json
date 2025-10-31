@@ -1,0 +1,48 @@
+{
+  "title": "AE/PR插件–抽象梦幻背景生成器 Mettle Flux v1.11 Win/Mac + 使用教程",
+  "slug": "ae-prcha-jian-chou-xiang-meng-huan-bei-jing-sheng-cheng-qi-mettle-flux-v1-11-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/09/08 16:24",
+  "source_url": "https://www.lookae.com/mettle-flux/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "插件可以制作一些漂亮抽象的梦幻背景动画，如银河星云分形噪波等。支持GPU加速和体积渲染功能，支持软件内置摄像机，方便制作动画。还带了预设预览器，直接预览使用预设和观察效果动画。3D Volumetric Fractal Flames. Create beautiful backgrounds, Nebulas and sci-fi fx, in traditional and 360/VR formats.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Mettle-Flux.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC - CC 2019, Premiere Pro CC - CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win 版下载",
+      "url": "https://www.lookae.com/mettle-201810/"
+    },
+    {
+      "name": "Mac 版城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-396949416"
+    },
+    {
+      "name": "Mac 版百度网盘下载",
+      "url": "https://pan.baidu.com/s/1THq_WM57fekA5hYtbHR_yg"
+    },
+    {
+      "name": "使用教程城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-396949334"
+    },
+    {
+      "name": "使用教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1melARqCCB2zFsFoFqII2nw"
+    }
+  ],
+  "other": {
+    "official_links": [
+      "https://www.mettle.com/product/flux/",
+      "https://aescripts.com/mettle-flux/"
+    ]
+  }
+}

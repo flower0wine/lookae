@@ -1,0 +1,42 @@
+{
+  "title": "添加删除编辑标记AE脚本 MarkerMaestro v1.3.1",
+  "slug": "tian-jia-shan-chu-bian-ji-biao-ji-aejiao-ben-markermaestro-v1-3-1",
+  "author": "大众脸",
+  "post_date": "2023-09-09",
+  "source_url": "https://www.lookae.com/markermaestro-131/",
+  "category": "aescripts",
+  "tags": [
+    "AE标记",
+    "AE脚本",
+    "MarkerMaestro"
+  ],
+  "content": "MarkerMaestro 是 After Effects 的扩展脚本，可一次性添加、编辑、删除、移动或复制任意数量的图层/合成标记，相当于为 AE 补上缺失的“标记面板”。v1.3.1 主要修复启动时功能缺失、移动标记偶发 NAN 错误以及版本号混乱问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/MarkerMaestro.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337262763201.mp4"
+  ],
+  "supported_versions": "CC 2017 – 2023",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-932311947-b50ac8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jsH1iOY5uhbeJAdTWbmv6w?pwd=tr99"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/JZxL9DAYif6"
+    }
+  ],
+  "other": {
+    "网盘访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "tr99"
+    }
+  }
+}

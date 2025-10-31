@@ -1,0 +1,57 @@
+{
+  "title": "场景扫描DOF深度图自动生成AE插件 Depth Scanner 1.16.3 Win/Mac",
+  "slug": "chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-aecha-jian-depth-scanner-1-16-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2025/01/10 09:50",
+  "source_url": "https://www.lookae.com/depth-scanner-1163/",
+  "category": "AE插件",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Depth Scanner",
+    "MAC插件"
+  ],
+  "content": "用于自动深度图计算的基于人工智能的插件。可让您从图像和视频创建深度图。生成的深度图可用于各种后期处理任务，例如添加雾、将素材转换为立体3d以及更多图像效果。\n\nDepth Scanner lets you create depth maps from images and videos. The resulting depth map can be used for a variety of post processing tasks, like adding fog, converting footage to stereo-3d and many more image effects.\n\nv1.16.3 更新内容：修复原始输出模式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘插件下载",
+      "url": "https://url70.ctfile.com/f/2827370-1445403455-9af747?p=4431"
+    },
+    {
+      "name": "百度网盘插件下载",
+      "url": "https://pan.baidu.com/s/1jG7yc2T8D4QWuTlV75SV9g"
+    },
+    {
+      "name": "阿里云盘插件下载",
+      "url": "https://www.alipan.com/s/PFxnRCa5cyV"
+    },
+    {
+      "name": "城通网盘视频教程",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "百度网盘视频教程",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A"
+    },
+    {
+      "name": "阿里云盘视频教程",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘插件下载": "6688",
+      "城通网盘视频教程": "6688",
+      "百度网盘插件下载": "uch9",
+      "百度网盘视频教程": "r9ha"
+    }
+  }
+}

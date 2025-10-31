@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本：嵌套多合成中直接预览主合成音乐 Aescripts Universal Audio v1.3",
+  "slug": "aejiao-ben-qian-tao-duo-he-cheng-zhong-zhi-jie-yu-lan-zhu-he-cheng-yin-le-aescripts-universal-audio-v1-3",
+  "author": "大众脸",
+  "post_date": "2017/09/22 12:03",
+  "source_url": "https://www.lookae.com/universal-audio/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "在 After Effects 中制作动画时，通常需要将音乐放在主合成中进行预览。然而，当使用多个子合成或嵌套合成进行效果制作时，每次都需要返回主合成才能与音乐同步预览，过程繁琐。Universal Audio 脚本解决了这一问题，允许用户在任意嵌套或子合成中直接预览主合成中的音乐。只需一键操作，即可让音频贯穿整个项目，始终提供音频参考和标记，便于动画制作和编辑。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/09/Universal-Audio.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-220589400"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1nuRk4YX"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/universal-audio/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

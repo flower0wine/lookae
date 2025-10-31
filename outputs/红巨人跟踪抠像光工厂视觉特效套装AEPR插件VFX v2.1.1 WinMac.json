@@ -1,0 +1,52 @@
+{
+  "title": "红巨人跟踪抠像光工厂视觉特效套装AE/PR插件VFX v2.1.1 Win/Mac",
+  "slug": "hong-ju-ren-gen-zong-kou-xiang-guang-gong-han-shi-jue-te-xiao-tao-zhuang-ae-prcha-jian-vfx-v2-1-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-01-20T18:08:00Z",
+  "source_url": "https://www.lookae.com/vfx-211/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "VFX Suite 是一套专为 After Effects 和 Premiere Pro 设计的高级视觉特效插件集合，涵盖抠像、跟踪、光效合成与镜头处理等功能。最新版本 v2.1.1 对多项功能进行了优化和修复，尤其针对 Apple 芯片 Mac 系统全面升级，提升性能与兼容性。新增 Bang 插件，可实现完全程序化的 3D 枪口闪光效果，支持形状、颜色、衰减与持续时间等创意控制。同时，Primatte Keyer 已适配 Apple Metal GPU 加速，显著提升运行效率。整体支持 After Effects CC 2019 至 2022 以及部分 Premiere Pro 功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/VFXSuite-21.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/326995793203.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021, 2022; Premiere Pro CC 2019, 2020, 2021, 2022（部分插件支持）",
+  "supported_os": "Win10 / Mac 系统（含 Apple Silicon 芯片）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-538545609-fc6b71"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XPgjBSsVYtvYdqzb-7GCzw?pwd=voxv"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/1b5dzqmkZwE"
+    }
+  ],
+  "other": {
+    "update_notes": "BUG修复：无论复选框如何，King Pin Crop to Pins 设置默认开启；修复Bang插件在Mac上更改随机种子值会改变闪光灯颜色的问题。Spot Clone Tracker、King Pin Tracker、Lens Distortion Matcher 已针对 Apple 芯片全面优化。Bang 已优化为在 GPU 上计算模糊和发光效果以提高性能。修复了光辉衰减、Bang Null 创建、Supercomp 匹配背景等错误。",
+    "plugins_included": [
+      "Bang V2.0.0 - 3D枪口闪光插件（新加入）",
+      "Chromatic Displacement v1.0.4 - 色差置换插件",
+      "Lens Distortion Matcher v1.0.2 - 镜头失真变形",
+      "Knoll Light Factory v3.1.2 - 光工厂镜头光晕插件",
+      "King Pin Tracker v1.5.1 - 平面跟踪插件",
+      "Optical Glow v1.5.2 - 智能辉光插件",
+      "Primatte Keyer v6.0.3 - 专业抠像插件",
+      "Shadow v1.5.1 - 投影插件",
+      "Reflection v1.5.1 - 反射插件",
+      "Spot Clone Tracker v1.0.5 - 物体移除替换克隆跟踪插件",
+      "Supercomp v1.5.4 - 超强特效合成插件"
+    ],
+    "additional_info": "分类标签包括：AE插件、After Effects、Mac 专区、Premiere、软件/插件。文章发布于 2022 年 1 月 20 日，作者为‘大众脸’。"
+  }
+}

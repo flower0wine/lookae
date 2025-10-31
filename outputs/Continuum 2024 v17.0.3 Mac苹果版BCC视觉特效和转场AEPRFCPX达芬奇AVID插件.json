@@ -1,0 +1,100 @@
+{
+  "title": "Continuum 2024 v17.0.3 Mac苹果版BCC视觉特效和转场AE/PR/FCPX/达芬奇/AVID插件",
+  "slug": "continuum-2024-v17-0-3-macping-guo-ban-bccshi-jue-te-xiao-he-zhuan-chang-ae-pr-fcpx-da-fen-qi-avidcha-jian",
+  "author": "大众脸",
+  "post_date": "2024-04-11T16:26:00Z",
+  "source_url": "https://www.lookae.com/bcc-2024-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "AVID插件",
+    "BCC插件",
+    "FCPX插件",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "Continuum 2024 v17.0.3 是专为 Mac 苹果系统设计的 BCC 视觉特效与转场插件，原生支持 Intel 和 Apple M 芯片。该插件是后期制作领域最完整的工具集之一，包含超过 300 种特效、40 多种转场以及 5000 多个预设。其功能涵盖 AI 噪声消除、AI 缩放、音频可视化、粒子幻觉等先进特性，并通过 Mocha 遮罩技术实现精准平面跟踪与复杂蒙版控制。插件支持 Adobe After Effects、Premiere Pro、DaVinci Resolve、Final Cut Pro、Avid Media Composer 等主流视频编辑软件，全面优化性能并提供 GPU 加速渲染能力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/BCC-2024-MAC-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2020-2024, Premiere Pro CC 2020-2024, DaVinci Resolve 17-18+, Nuke 13-15+, Fusion 17-18+, Final Cut Pro 10.6+, Motion 5.6+, Avid Media Composer 2021-2023",
+  "supported_os": "macOS (原生支持 Intel 与 Apple M 芯片)",
+  "download_links": [
+    {
+      "name": "AE/PR插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1051338325-69859b?p=4431"
+    },
+    {
+      "name": "AE/PR插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1ah4i2zjOYzanjiXWosLMKQ?pwd=9ia9"
+    },
+    {
+      "name": "AE/PR插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/EF2iXNmvGUw"
+    },
+    {
+      "name": "OFX版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1051337998-28ca71?p=4431"
+    },
+    {
+      "name": "OFX版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1lOEx_KPtoq_dtSKJ3TnwuQ?pwd=seak"
+    },
+    {
+      "name": "OFX版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/oEH3xTs1Tf5"
+    },
+    {
+      "name": "FCPX插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1051337851-06e522?p=4431"
+    },
+    {
+      "name": "FCPX插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1hYAjA1OCLxbHGMc9nhJLhA?pwd=r1a3"
+    },
+    {
+      "name": "FCPX插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/3Ptkf6d1aKz"
+    },
+    {
+      "name": "AVID插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1051338085-75d2d8?p=4431"
+    },
+    {
+      "name": "AVID插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1LnhZi4JjNJK-OuLui4izcA?pwd=tbx6"
+    },
+    {
+      "name": "AVID插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/8nann7WhYw7"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "BCC+ DeNoise ML：人工智能驱动的噪声消除，一键式简单性和智能细节保留",
+      "BCC+ UpRes ML（仅限AE）：使用 Continuum 的全新集成AI缩放工具轻松调整大小为任何格式",
+      "BCC+ 音频可视化工具：通过 poppin 的自动动画动态图形让您的音乐发声",
+      "粒子幻觉：使用 AI 生成精灵、粒子线作为真正的 3D 对象、继承速度等",
+      "性能提升：在 FX 编辑器中体验更快的播放、分布式渲染以及 Avid 中更紧密的集成",
+      "更多预设：150 多个专业设计和策划的预设"
+    ],
+    "related_links": [
+      "https://www.lookae.com/bcc-2024-ce/"
+    ],
+    "download_passwords": {
+      "ctfile": "6688",
+      "baidu": {
+        "ae_pr": "9ia9",
+        "ofx": "seak",
+        "fcpx": "r1a3",
+        "avid": "tbx6"
+      }
+    },
+    "platform_support": {
+      "mac": true,
+      "windows": false
+    }
+  }
+}

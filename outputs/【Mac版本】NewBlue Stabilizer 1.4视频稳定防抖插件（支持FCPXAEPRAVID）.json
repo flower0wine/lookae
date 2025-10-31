@@ -1,0 +1,49 @@
+{
+  "title": "【Mac版本】NewBlue Stabilizer 1.4视频稳定防抖插件（支持FCPX/AE/PR/AVID）",
+  "slug": "macban-ben-newblue-stabilizer-1-4shi-pin-wen-ding-fang-dou-cha-jian-zhi-chi-fcpx-ae-pr-avid",
+  "author": "大众脸",
+  "post_date": "2014/03/14 21:57",
+  "source_url": "https://www.lookae.com/stabilizer/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "MAC插件",
+    "Newblue"
+  ],
+  "content": "NewBlue Stabilizer 1.4 是一款专为 Mac 平台设计的视频稳定防抖插件，支持 Final Cut Pro X、Adobe After Effects、Premiere Pro 及 Avid Media Composer 等主流视频编辑软件。该插件通过智能分析视频每一帧的运动轨迹，自动校正位移与旋转，实现流畅无抖动的视频输出。具备准确的运动检测、直观的参数控制、实时分析回放和多分辨率支持，显著提升视频处理效率与质量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/03/NewBlue-Stabilizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro CS4, CS5, CS6/6.5, CC; Adobe After Effects CS4, CS5, CS6, CC; Apple Final Cut Pro 6, 7, X/FCPX; Apple Motion 4/5; Avid Media Composer & Symphony 5, 6/6.5, 7",
+  "supported_os": "MAC OSX 苹果电脑",
+  "download_links": [
+    {
+      "name": "Mac版本下载",
+      "url": "https://www.400gb.com/file/59885578"
+    },
+    {
+      "name": "Win版本下载",
+      "url": "https://www.lookae.com/nb-stabilizer/"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/nbt2/",
+      "https://www.lookae.com/tag/fcpx/",
+      "https://www.lookae.com/others/sucaigongcheng/",
+      "https://lookae.taobao.com/"
+    ],
+    "official_info_url": "http://www.newbluefx.com/product/stabilizer",
+    "plugin_features": [
+      "准确可靠的运动检测，位移和旋转属性",
+      "直观的控制设置，微调视频参数",
+      "智能计算，减少抖动",
+      "提供快速修复",
+      "支持多分辨率视频：高清/标清",
+      "实时分析和回放"
+    ]
+  }
+}

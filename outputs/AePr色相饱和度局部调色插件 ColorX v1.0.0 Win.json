@@ -1,0 +1,43 @@
+{
+  "title": "Ae/Pr色相饱和度局部调色插件 ColorX v1.0.0 Win",
+  "slug": "ae-prse-xiang-bao-he-du-ju-bu-diao-se-cha-jian-colorx-v1-0-0-win",
+  "author": "大众脸",
+  "post_date": "2024-10-31 11:53",
+  "source_url": "https://www.lookae.com/colorx/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "局部调色",
+    "调色插件"
+  ],
+  "content": "ColorX 是一款同时支持 Adobe After Effects 与 Premiere Pro 的 GPU 加速调色插件，可在特定颜色范围内对色相、饱和度、亮度与密度进行高精度联动调整。插件提供色调、色调自定义、饱和度、亮度及高级五种模式，既可直接对红、绿、蓝、青、洋红、黄六色进行单独校正，也可通过颜色选择器或自定义 HSL 范围灵活限定调色区域，实现暗部提亮、高光压暗、局部饱和度增强等创意效果，为影片带来独特且细腻的色彩分级风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/ColorX.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/490409895416.mp4"
+  ],
+  "supported_versions": "After Effects 2020-2025, Premiere Pro 2020-2025",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1419497747-0b2bb1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1M8TAofBLh41eTCHVGHu-Tw?pwd=v6yf"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/5Jf3tb1te5g"
+    }
+  ],
+  "other": {
+    "网盘访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "v6yf"
+    }
+  }
+}

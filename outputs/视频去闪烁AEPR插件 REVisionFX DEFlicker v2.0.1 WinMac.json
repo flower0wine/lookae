@@ -1,0 +1,35 @@
+{
+  "title": "视频去闪烁AE/PR插件 REVisionFX DEFlicker v2.0.1 Win/Mac",
+  "slug": "shi-pin-qu-shan-shuo-ae-prcha-jian-revisionfx-deflicker-v2-0-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/02/24 16:31",
+  "source_url": "https://www.lookae.com/deflicker-201/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "由于人眼与摄像机捕捉光线频率不同，拍摄的视频可能出现光闪烁现象。REVision DEFlicker 插件通过分析画面的颜色和亮度，有效处理光闪烁、延时拍摄闪烁及动态闪烁等问题，生成平滑的视频图像。插件包含四个功能模块：自动去除闪烁（Auto Levels）、高速闪烁处理（High Speed）、延时闪烁处理（Timelapse）以及滚动条带消除（Rolling Bands），可模拟滚动带参数以减少视频中缓慢移动的暗色水平条纹。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/DEFlicker-OFX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50251246337.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC – CC 2019,2020; Premiere Pro CC – CC 2019,2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-483765191-5b2644"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wKUSu-1EtYoZZnWQxknyAw"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "z99p"
+  }
+}

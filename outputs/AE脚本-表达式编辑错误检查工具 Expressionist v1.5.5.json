@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-表达式编辑错误检查工具 Expressionist v1.5.5",
+  "slug": "aejiao-ben-biao-da-shi-bian-ji-cuo-wu-jian-cha-gong-ju-expressionist-v1-5-5",
+  "author": "大众脸",
+  "post_date": "2019/10/08 11:30",
+  "source_url": "https://www.lookae.com/expressionist-155/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Expressionist 脚本提升了 After Effects 表达式编写的工作流程，提供直观简洁的操作体验。它具备语法高亮、多属性同时添加表达式、内联错误提示等基本 IDE 功能，帮助频繁编写表达式的用户显著提高工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/04/Expressionist-155.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/36377094.mp4"
+  ],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-401892734"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BZLfO93_o1GMMCEnboSPTw"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "支持MACOS 10.15系统",
+      "修复与Templater 2的冲突",
+      "更新检查未连接到服务器",
+      "支持浮动许可证"
+    ],
+    "official_website": "http://aescripts.com/expressionist/"
+  }
+}

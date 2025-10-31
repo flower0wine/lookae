@@ -1,0 +1,69 @@
+{
+  "title": "Win/Mac AE插件：点线面三维粒子插件Rowbyte Plexus v3.1.3+使用教程",
+  "slug": "win-mac-aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/02/28 20:35",
+  "source_url": "https://www.lookae.com/plexus313/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "这是一款强大的AE粒子插件Plexus的v3.1.3版本介绍与使用教程。Plexus是一款面向After Effects的下一代粒子引擎，支持通过程序化方式创建、操控和可视化数据。用户可以通过点、线、面构建复杂的三维粒子效果，并支持基于参数建立粒子之间的关系。该插件操作模式独特，提供多种内置特效如分形、颜色控制、球形场、阴影等，适用于创意视觉设计。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版插件下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-239367650"
+    },
+    {
+      "name": "Win版插件下载（百度云）",
+      "url": "https://pan.baidu.com/s/1bri5iTx"
+    },
+    {
+      "name": "Mac版插件下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-239504106"
+    },
+    {
+      "name": "Mac版插件下载（百度云）",
+      "url": "https://pan.baidu.com/s/1ghbB8Mf"
+    },
+    {
+      "name": "视频教程下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "视频教程下载（百度云）",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "plugin_description": "Plexus is a next-gen particle engine for After Effects that lets you create, manipulate and visualize data in a procedural manner. Not only you can render the particles, but also create all sorts of interesting relationships between them based on various parameters. The workflow for Plexus is very modular allowing you to create truly infinite set of configurations and parameters.",
+    "official_links": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ],
+    "update_log": "修复在 AE CC 2018 软件中Object面板不能正常打开的问题",
+    "new_features": [
+      "Object based UI 全新定制的UI操控界面",
+      "Depth Map Culling 深度贴图",
+      "Motion Blur 运动模糊",
+      "Sound Effector 音频效果器",
+      "Null Object Performance 空物体控制提升",
+      "Slicer Object 物体切割",
+      "Path Object Improvements 物体路径",
+      "Seamless Beams 无缝线条动画",
+      "Custom Visibility Settings 粒子可视化控制",
+      "Improved OBJ ImportOBJ 导入提升",
+      "Unified Rendering 统一渲染",
+      "Nested Compositions 镶嵌合成模式",
+      "Loop Noise 循环噪波"
+    ]
+  }
+}

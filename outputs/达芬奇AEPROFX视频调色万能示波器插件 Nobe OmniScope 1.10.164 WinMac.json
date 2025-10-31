@@ -1,0 +1,82 @@
+{
+  "title": "达芬奇/AE/PR/OFX视频调色万能示波器插件 Nobe OmniScope 1.10.164 Win/Mac",
+  "slug": "da-fen-qi-ae-pr-ofxshi-pin-diao-se-mo-neng-shi-bo-qi-cha-jian-nobe-omniscope-1-10-164-win-mac",
+  "author": "大众脸",
+  "post_date": "2025-07-21T08:58:00",
+  "source_url": "https://www.lookae.com/nobe-164/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nobe OmniScope",
+    "PR插件",
+    "示波器插件",
+    "达芬奇插件"
+  ],
+  "content": "Nobe OmniScope 是一款功能强大的视频调色示波器插件，适用于 DaVinci Resolve、After Effects、Premiere 等支持 OFX 的软件。插件采用 GPU 加速技术，支持 HDR 和实时图像监控，延迟极低。提供多种示波器类型，可自由排列和保存布局，便于不同项目快速切换。支持直方图范围蒙版、肤色色调分析、单独模式查看，并兼容 StreamDeck 快捷操作，提升调色效率。\n\n该插件具备高度可定制性，支持 OpenColorIO 颜色管理、NDI® 5、12 位信号输入以及杜比视界工作流程，全面适配专业调色需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Nobe-OmniScope.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442587104088.mp4"
+  ],
+  "supported_versions": "v1.10.164",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1538046358-45d102?p=4431"
+    },
+    {
+      "name": "Win版-百度网盘",
+      "url": "https://pan.baidu.com/s/1eojQN8J775uBw-PE671AtQ?pwd=2m4p"
+    },
+    {
+      "name": "Win版-阿里云盘",
+      "url": "https://www.alipan.com/s/xfS4S1gdmBJ"
+    },
+    {
+      "name": "Mac版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1431738163-ca4637?p=4431"
+    },
+    {
+      "name": "Mac版-百度网盘",
+      "url": "https://pan.baidu.com/s/1MJ_gu-_IaLjiDs8SiqOVwQ?pwd=rdi7"
+    },
+    {
+      "name": "Mac版-阿里云盘",
+      "url": "https://www.alipan.com/s/AaMvwonUnTQ"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": {
+        "Win": "2m4p",
+        "Mac": "rdi7"
+      }
+    },
+    "compatible_software": [
+      "DaVinci Resolve",
+      "Scratch",
+      "After Effects",
+      "Premiere",
+      "Photoshop",
+      "Lightroom",
+      "Vegas"
+    ],
+    "features": [
+      "18 种范围类型",
+      "多种输入支持",
+      "支持杜比视界工作流程",
+      "极快的性能",
+      "12位信号支持",
+      "高度通用且可定制",
+      "先进的质量控制和新的质量控制时间表",
+      "使用 OpenColorIO 进行颜色管理",
+      "原生 StreamDeck 支持",
+      "NDI® 5 支持",
+      "Apple Silicon 就绪（M1 芯片）"
+    ],
+    "update_log": "v1.10.164更新内容：修复了旧版 BMD SDK 捕获信号的问题"
+  }
+}

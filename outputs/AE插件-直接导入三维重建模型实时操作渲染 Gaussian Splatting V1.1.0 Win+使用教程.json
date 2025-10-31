@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-直接导入三维重建模型实时操作渲染 Gaussian Splatting V1.1.0 Win+使用教程",
+  "slug": "aecha-jian-zhi-jie-dao-ru-san-wei-zhong-jian-mo-xing-shi-shi-cao-zuo-xuan-ran-gaussian-splatting-v1-1-0-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/04/30 11:42",
+  "source_url": "https://www.lookae.com/gaussian-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Gaussian Splatting",
+    "实时渲染",
+    "模型导入"
+  ],
+  "content": "该插件允许用户在 After Effects 中使用 GPU 实时导入、操作和渲染 3D Gaussian Splatting (.ply) 格式的三维重建模型，从而直接在 AE 中制作动画。插件支持多种模型处理功能，包括裁剪、组合、着色、不透明度控制、Splat Scale 动画以及噪声失真等，并提供用于 3D 合成的深度通道输出。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Gaussian-Splatting.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/459436708480.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024, 2023, 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1063949018-32956b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1xL4JyG_ZzcE5Tfrr4VRl1A?pwd=ho6b"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/wM2ZPiz6LD1"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.1更新内容：添加了 Z 深度输出。",
+    "password": "城通网盘访问密码：6688；百度网盘提取码：ho6b"
+  }
+}

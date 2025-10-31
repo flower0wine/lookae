@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-动态贴图快速制作 Ray Dynamic Texture V1.5.6 + 视频教程",
+  "slug": "aejiao-ben-dong-tai-tie-tu-kuai-su-zhi-zuo-ray-dynamic-texture-v1-5-6-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/14 00:03",
+  "source_url": "https://www.lookae.com/texture-156/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Ray Dynamic Texture 脚本可以解决繁琐的图层纹理贴图工作。能够快速方便在AE软件里给图层添加各种纹理贴图，包括图层的设置、应用效果、关键帧和图层样式，表达式等；除此之外，该脚本工具可以存储您最常用的贴图效果预设，点击即可应用到图层上。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Ray-Dynamic-Texture-ZH.jpg"
+  ],
+  "video_urls": [
+    "https://www.lookae.com/ray-dynamic-texture-zh/"
+  ],
+  "supported_versions": "AE CC 2017 或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520635247-af7b7e"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1c5-QlbN5MdvrM1vVu_YI-A"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/tJh569T4F7r"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "f03m"
+    },
+    "update_notes": "V1.5.6更新内容：- 更新许可框架"
+  }
+}

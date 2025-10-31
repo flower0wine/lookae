@@ -1,0 +1,42 @@
+{
+  "title": "AE插件：视频叠加风格化渲染生成个性视觉 Aescripts StylaRender V1.0.1 + 使用教程",
+  "slug": "aecha-jian-shi-pin-die-jia-feng-ge-hua-xuan-ran-sheng-cheng-ge-xing-shi-jue-aescripts-stylarender-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/06/21 11:55",
+  "source_url": "https://www.lookae.com/stylarender/",
+  "category": "aescripts",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "StylaRender 是一款基于神经网络的任意风格迁移系统，专为 Adobe After Effects 设计。它能够将任意图像作为风格源，对视频内容进行艺术风格化渲染，实现无限可能的视觉创意表达。该技术利用深度学习中的神经风格迁移（Neural Style Transfer）原理，可将一张图片的美学风格无缝融合到另一张图像或视频内容中，无需预设风格模板，支持自由探索多样化的艺术效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/StylaRender-.jpg",
+    "https://aescripts.com/media/catalog/product/s/t/stylarender_style_examples.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50173268168.mp4?_=1"
+  ],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-295328865"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1f_f0LLUbOQrf8KBestYRBw"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/stylarender/",
+    "classification": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE插件"
+    ]
+  }
+}

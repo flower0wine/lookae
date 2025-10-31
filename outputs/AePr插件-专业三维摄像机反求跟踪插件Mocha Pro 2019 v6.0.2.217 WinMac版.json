@@ -1,0 +1,56 @@
+{
+  "title": "Ae/Pr插件-专业三维摄像机反求跟踪插件Mocha Pro 2019 v6.0.2.217 Win/Mac版",
+  "slug": "ae-prcha-jian-zhuan-ye-san-wei-she-xiang-ji-fan-qiu-gen-zong-cha-jian-mocha-pro-2019-v6-0-2-217-win-macban",
+  "author": "大众脸",
+  "post_date": "2019-03-04T13:48:00",
+  "source_url": "https://www.lookae.com/mocha-adobe-602/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mocha Pro 2019",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Mocha Pro 是一款独立的2D跟踪软件，基于图形独特的2.5平面跟踪系统。作为一种低成本的有效跟踪解决方案，具有多种功能，产生二维立体跟踪能力，即使在最艰难的短片拍摄中，也能节省大量时间和金钱。mocha 是一个单独的二维跟踪工具软件，它可以使影视特效合成艺术家的生活变得更容易，以便减少压力。mocha 致力于商业、电影、企业影片后制作的一款工具，它的直觉画面，简单易学用，工业标准2.5D平面的追踪技术，比起使用传统工具，它提供比透过传统工具的制作方法还要快3-4倍的速度，建立高品质影片。（来自百度百科）\n\nSay hello to MOCHA PRO 2019! Mocha Pro is the Academy Award-winning planar tracking tool for visual effects and post-production. With a proven record on the world’s most notable film and television projects, Mocha is valued by effects artists and editors for its unique ability to reduce the time-consuming keyframing associated with high-end VFX and finishing。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/mocha2019Plugin.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/210411712106.mp4?_=1",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/210485235768.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-345810033"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1co55MutNthdvgQdzIU5qQA%20"
+    },
+    {
+      "name": "Mac 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-345830406"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1-v4TO3PMGTFOlNbHop4oxQ%20"
+    }
+  ],
+  "other": {
+    "official_website": "https://borisfx.com/products/mocha/",
+    "new_features": [
+      "集成 Mocha Essentials 新的软件工作界面",
+      "GPU加速对象删除提供更快的渲染速度",
+      "新的样条工具：磁性样条与边缘对齐，手绘样条，和几何形状的工具",
+      "支持Retina /高DPI监视器分辨率",
+      "集成360/VR到 Mocha Pro 2019"
+    ],
+    "baidu_pan_extract_codes": {
+      "win": "ey3t",
+      "mac": "3lff"
+    }
+  }
+}

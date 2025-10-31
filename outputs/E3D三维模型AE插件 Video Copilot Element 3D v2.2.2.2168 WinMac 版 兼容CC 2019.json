@@ -1,0 +1,76 @@
+{
+  "title": "E3D三维模型AE插件 Video Copilot Element 3D v2.2.2.2168 Win/Mac 版 兼容CC 2019",
+  "slug": "e3dsan-wei-mo-xing-aecha-jian-video-copilot-element-3d-v2-2-2-2168-win-mac-ban-jian-rong-cc-2019",
+  "author": "大众脸",
+  "post_date": "2019/04/22 18:42",
+  "source_url": "https://www.lookae.com/e3d-2222168/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "Element 3D",
+    "Video Copilot"
+  ],
+  "content": "videocopilot 强大的AE三维模型 E3D 插件。新版本添加了众多新功能和改进：可以直接加载C4D的材质和贴图，界面更加美观实用，添加新视图。官方售价 $199.95（约人民币1230元），建议有条件用户支持正版。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/E3D222.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-367481372"
+    },
+    {
+      "name": "Win版本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Xzsycto9a4DXOH-lN5gp9A"
+    },
+    {
+      "name": "Mac版本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-367471969"
+    },
+    {
+      "name": "Mac版本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10zpcRaHuLpxecsvxQwoYVA"
+    }
+  ],
+  "other": {
+    "installation_instructions": {
+      "win": [
+        "安装ElementInstaller_2.2.2.2160_Win.exe原版程序（如已装E3D请跳过）",
+        "安装ElementInstaller-update_build 2168.exe升级补丁",
+        "选择AE版本安装路径，建议默认路径；若无对应版本可选Custom-Browse指向AE安装目录下的\\Support Files\\Plug-ins",
+        "复制补丁文件夹中的Element.aex到AE安装目录下的Plug-ins\\Videocopilot\\，替换原文件",
+        "打开AE，新建图层，应用效果 → VideoCopilot → Element，在弹窗中点击Step 3，选择ElementLicense.license完成注册"
+      ],
+      "mac": [
+        "安装ElementInstaller 2.2.2.2147 原版（如已安装可跳过）",
+        "安装ElementInstaller 2.2.2.2168 升级补丁",
+        "选择目标AE版本，若未显示可点击Custom → Browser，选择应用程序/你的AE版本/Plug-ins",
+        "拷贝注册补丁文件夹中的Element.plugin和ElementLicense.license到AE插件目录，例如：应用程序/Adobe After Effects <版本>/Plug-ins/VideoCopilot/",
+        "打开AE，新建图层，使用效果 → VideoCopilot → Element，弹窗中选择Step 3并拾取许可文件ElementLicense.license（若无弹窗则表示已注册成功）"
+      ]
+    },
+    "additional_resources": [
+      {
+        "name": "E3D V2 模型/材质/贴图/灯光包",
+        "url": "https://www.lookae.com/e3dv2mx/"
+      },
+      {
+        "name": "自愿赞助 LookAE.com",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      }
+    ],
+    "official_website": "https://www.videocopilot.net/products/element2/",
+    "update_log_url": "https://www.videocopilot.net/products/element2/update/",
+    "plugin_version": "v2.2.2 build 2168",
+    "price_usd": 199.95,
+    "price_cny": 1230
+  }
+}

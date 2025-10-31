@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本：高清ProRes编码解码脚本 Aescripts AEmpeg v1.2.5+ffmpeg编解码器+使用教程",
+  "slug": "aejiao-ben-gao-qing-proresbian-ma-jie-ma-jiao-ben-aescripts-aempeg-v1-2-5-ffmpegbian-jie-ma-qi-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/01/10 01:14",
+  "source_url": "https://www.lookae.com/aempeg125/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE脚本",
+    "After Effects"
+  ],
+  "content": "AEmpeg 是一款强大的 Adobe After Effects 输出渲染脚本，支持通过 FFmpeg 实现高清视频的编码与解码。该脚本可直接在 AE 渲染过程中调用 FFmpeg，扩展了原生支持的编解码器，尤其适用于 Windows 系统下实现 ProRes 编码。支持创建代理文件，并可自定义输出路径。兼容 AE CC 2017、CC 2015.3、CC 2015、CC 2014、CC 及 CS6、CS5.5 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/aempg.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：高清ProRes编码解码脚本 Aescripts AEmpeg v1.2.5+ffmpeg编解码器+使用教程",
+      "url": "https://lookae.ctfile.com/fs/Ugc167049946"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "Fixed linking to FFmpeg",
+      "CC 2017 Compatible"
+    ],
+    "installation_instructions": "将 AEmpeg v1.2.5.jsxbin 脚本放入 Adobe After Effects 支持文件夹下的 Scripts\\ScriptUI Panels 目录。首次运行会提示下载 FFmpeg；若提示未安装，需将压缩包中的 ffmpeg 文件夹内容复制到 C:\\Users\\用户名\\AppData\\Roaming\\Aescripts\\AEmpeg\\executables 目录。",
+    "additional_info": "支持超过100种编解码器，可用于创建代理文件，适用于高级工作流。更多资源请访问 www.lookae.com"
+  }
+}

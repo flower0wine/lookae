@@ -1,0 +1,31 @@
+{
+  "title": "Win/Mac版：AE脚本：快速创建刻度标尺图形动画脚本 Aescripts easyRulers v1.01",
+  "slug": "win-macban-aejiao-ben-kuai-su-chuang-jian-ke-du-biao-chi-tu-xing-dong-hua-jiao-ben-aescripts-easyrulers-v1-01",
+  "author": "大众脸",
+  "post_date": "2015/12/23 12:38",
+  "source_url": "https://www.lookae.com/easyrulers/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Aescripts easyRulers 脚本可以很轻松地创建带有数字刻度标尺的图形效果，支持快速简单地创建多种类型的图形测量标尺，操作简便。该脚本专为需要制作仪表盘、示波器、速度表、图形均衡器、HUD、UI 元素、历史时间线、仪器布局、信息图表等内容的设计师打造。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/easyruler_-_example_9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6/CC/CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE脚本：快速创建刻度标尺图形动画脚本 Aescripts easyRulers v1.01",
+      "url": "http://lookae.ctfile.com/file/139199863"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/easyrulers/",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

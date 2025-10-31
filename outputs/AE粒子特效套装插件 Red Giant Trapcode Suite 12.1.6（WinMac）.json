@@ -1,0 +1,46 @@
+{
+  "title": "AE粒子特效套装插件 Red Giant Trapcode Suite 12.1.6（Win/Mac）",
+  "slug": "aeli-zi-te-xiao-tao-zhuang-cha-jian-red-giant-trapcode-suite-12-1-6-win-mac",
+  "author": "大众脸",
+  "post_date": "2014-09-20T21:14:00Z",
+  "source_url": "https://www.lookae.com/trapcode1216/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Trapcode Suite 12.1.6 是 After Effects 中广受好评的粒子特效插件套装，包含多个核心插件，适用于 Windows 和 Mac 平台。该版本更新了多项功能与修复，提升了稳定性与兼容性。主要更新包括：Particular 2.2.3 修复渲染闪烁问题；Sound Keys 升级至 1.2.3；新增更多预设效果。支持 AE CS3 至 CC 2014，部分插件兼容 Premiere Pro。插件涵盖 3D Stroke、Echospace、Form、Horizon、Lux、Mir、Shine、Starglow 等，全面满足动态图形设计需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/10/Trapcode-Suite-12.1.0.jpg"
+  ],
+  "video_urls": [
+    "http://v.youku.com/v_show/id_XNDY4MzU1NDY0.html"
+  ],
+  "supported_versions": "AE CS3 - CC 2014",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/trapcode/TCSuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/trapcode/TCSuite_Mac_Full.zip"
+    },
+    {
+      "name": "SN序列号下载",
+      "url": "https://www.400gb.com/file/26701927"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/trapcode-suite-12-0/",
+      "https://www.lookae.com/red-giant-trapcode-for-ae32bit64bit/",
+      "https://www.lookae.com/red-giant-magic-bullet-suite11-3-chs/",
+      "https://www.lookae.com/effects-suite-11/"
+    ],
+    "donation_link": "https://me.alipay.com/lookae",
+    "note": "网站资源仅供参考，请自觉购买正版，使用正版。"
+  }
+}

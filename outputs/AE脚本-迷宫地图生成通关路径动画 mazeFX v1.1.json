@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-迷宫地图生成通关路径动画 mazeFX v1.1",
+  "slug": "aejiao-ben-mi-gong-di-tu-sheng-cheng-tong-guan-lu-jing-dong-hua-mazefx-v1-1",
+  "author": "大众脸",
+  "post_date": "2019/06/01 09:11",
+  "source_url": "https://www.lookae.com/mazefx-11/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "mazeFX是Adobe After Effects的工具，专门用于随机创建矢量的迷宫。脚本能够为每个迷宫生成独特的通关路径解决方案，并创建适当的效果控制，以完全控制迷宫的外观。它能够使用蒙版来控制每个迷宫的形状，并且还可以将所有需要的部分放在单个形状图层中，或者为迷宫的每个部分创建单独的形状图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/mazeFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376709573"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Y2BV94SGBsUi3T_fheeyew"
+    }
+  ],
+  "other": {
+    "update_info": {
+      "version": "v1.1",
+      "new_features": [
+        "支持贝塞尔路径，可以使用具有贝塞尔顶点的MASK",
+        "可以生成一个空图层，该图层附加在解决方案路径的顶端并跟随其位置（仅限CC2018及以上）"
+      ]
+    },
+    "baidu_extraction_code": "396n"
+  }
+}

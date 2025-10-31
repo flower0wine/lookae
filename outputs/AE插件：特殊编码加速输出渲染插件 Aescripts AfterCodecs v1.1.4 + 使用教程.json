@@ -1,0 +1,44 @@
+{
+  "title": "AE插件：特殊编码加速输出渲染插件 Aescripts AfterCodecs v1.1.4 + 使用教程",
+  "slug": "aecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/07/16 11:29",
+  "source_url": "https://www.lookae.com/aftercodecs114/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE插件"
+  ],
+  "content": "AfterCodecs 是一款AE编码输出插件，支持输出H264、H265和ProRes等特殊编码，渲染输出速度比AE自带输出更快，且压缩的文件更小，画质更佳。插件可以在Windows系统上输出ProRes格式，并提供优秀的H264编码实现，支持Alpha通道和8K分辨率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014 – CC 2017",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-211996270"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1qYPoOKs"
+    }
+  ],
+  "other": {
+    "supported_codecs": [
+      "ProRes (LT/Proxy/Normal/HQ/444)",
+      "x264",
+      "x265",
+      "x264 RGB"
+    ],
+    "version_features": [
+      "修复了AE退出崩溃问题",
+      "改进了ProRes整体质量",
+      "提升了渲染速度",
+      "支持16bpc渲染",
+      "新增无损模式"
+    ]
+  }
+}

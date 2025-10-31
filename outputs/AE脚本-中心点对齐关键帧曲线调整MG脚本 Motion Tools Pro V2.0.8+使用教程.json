@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-中心点对齐关键帧曲线调整MG脚本 Motion Tools Pro V2.0.8+使用教程",
+  "slug": "aejiao-ben-zhong-xin-dian-dui-qi-guan-jian-zheng-qu-xian-diao-zheng-mgjiao-ben-motion-tools-pro-v2-0-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-24T13:56:00Z",
+  "source_url": "https://www.lookae.com/motion-tools-208/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Motion Tools Pro"
+  ],
+  "content": "Motion Tools Pro 是一款强大的 After Effects 脚本工具，旨在提升您的工作流程效率。它提供一个命令中心界面，支持一键访问多种常用功能，包括轴心点调整、关键帧曲线优化、弹性效果、图层克隆、空物体层添加等。该工具采用现代自适应界面，支持可定制面板与交互式控件，并集成数十个脚本和表达式，有效减少重复性操作时间。适用于 After Effects 2022 至 2025 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/Motion-Tools-Pro-206.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/522726110527.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2023, 2024, 2025",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1521919564-00a5e6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1BYGaf7Xy7HCC8zKuC0uArw?pwd=gje4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/oJrv8JAU2s5"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "缓动管理器小部件：改进了缓动预设中的速度图表，增强鼠标悬停时显示的缓动信息。",
+      "超级 Gif 小部件：新增安装库模式窗口，优化后台进程查看体验。",
+      "扩展功能：为样式操作增加更多帮助提示；补充自定义脚本链接文件说明。",
+      "修复问题：左上角‘设置’按钮可正确打开当前面板布局；修复多面板切换时布局重置异常；改善启动期间多面板同步问题；修正选择器误选所有路径的问题；修复含相机/灯光图层的合成裁剪显示错误。"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "MG动画",
+      "Motion Tools Pro"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

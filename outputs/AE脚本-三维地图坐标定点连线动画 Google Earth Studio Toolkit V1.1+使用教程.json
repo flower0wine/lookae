@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-三维地图坐标定点连线动画 Google Earth Studio Toolkit V1.1+使用教程",
+  "slug": "aejiao-ben-san-wei-di-tu-zuo-biao-ding-dian-lian-xian-dong-hua-google-earth-studio-toolkit-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/05 09:08",
+  "source_url": "https://www.lookae.com/google-earth-toolkit/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "连线动画"
+  ],
+  "content": "本教程介绍 Google Earth Studio Toolkit V1.1+ AE 脚本的使用方法，帮助用户在 After Effects 中轻松创建三维地图上的坐标定点连线动画。该脚本支持图钉、标签和连接线的添加与管理，可自定义笔触宽度、颜色和动画效果，适用于提升 Google Earth Studio 动画的专业度与工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Google-Earth-Studio-Toolkit.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/480060005775.mp4"
+  ],
+  "supported_versions": "After Effects 2024",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1353249104-a7051e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Nr1asJ_2ZK0eVn95uYW6JA?pwd=8u9c"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/YPTyF2wRzpc"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "script_features": [
+        "钉子和标签管理：轻松将钉子和标签附加到选定的空层。",
+        "动态连接：在空层之间创建视觉上引人注目的连接线、路线和区域，并具有可自定义的笔触宽度、颜色和动画设置。",
+        "用户友好界面：直观的用户界面，带有用于管理引脚、标签和连接的选项卡式面板。"
+      ],
+      "description": "Introducing our After Effects script designed specifically for enhancing your Google Earth Studio exports. This powerful tool allows you to seamlessly add pins, labels, and connection lines, providing a professional touch to your projects."
+    }
+  }
+}

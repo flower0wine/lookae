@@ -1,0 +1,42 @@
+{
+  "title": "中文汉化AE/PR插件-三维真实体积雾气朦胧生成特效 Fog v1.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-san-wei-zhen-shi-ti-ji-wu-qi-meng-long-sheng-cheng-te-xiao-fog-v1-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/10/21 14:51",
+  "source_url": "https://www.lookae.com/aepr-fog/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "立即创建一层雾、扩散和薄雾，无需使用深度贴图。此插件适用于需要重新点亮场景、为照片制作动画以及创建情绪和粒子 VFX 的高级用户。雾是在图像中提供距离提示的视觉元素。立即添加雾、薄雾和扩散可以节省视觉特效和创意色彩分级的时间。可以使用深度图为 2D 层伪造深度。对于大多数 2D 图像，创建深度图并非易事。其他雾插件可以通过一些调整来创建雾的形状。不可能创建扩散、散射、分散、薄雾、可变密度和光晕。Prosya Fog 不需要 3D 合成。它包含一种智能算法，可以估计场景中的深度。它不需要任何用户生成的深度图。综上所述，其他雾插件可以提供雾的形状。Prosya Fog 提供雾的形状、扩散、散射、分散、薄雾、可变密度和辉光/绽放，以实现完整的幻觉。此外，Prosya Fog 可以处理任何 2D 视频和照片。因此，它同时在 Premiere Pro 和 After Effects 上发布。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/AE-PR-FOG.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/331730024788.mp4"
+  ],
+  "supported_versions": "2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518296368-23f164"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cwgGhB-o-dT5o1cZRDvu0Q"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Ebrnj2mvtN9"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "in30"
+    }
+  }
+}

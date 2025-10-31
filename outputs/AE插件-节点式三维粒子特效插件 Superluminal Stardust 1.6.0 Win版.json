@@ -1,0 +1,60 @@
+{
+  "title": "AE插件-节点式三维粒子特效插件 Superluminal Stardust 1.6.0 Win版",
+  "slug": "aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-superluminal-stardust-1-6-0-winban",
+  "author": "大众脸",
+  "post_date": "2020/07/10 23:41",
+  "source_url": "https://www.lookae.com/stardust-16/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust",
+    "星辰粒子"
+  ],
+  "content": "Stardust 是 Adobe After Effects 的新一代节点式三维粒子插件，也被称为星辰/星尘粒子插件。它拥有独立的操控界面和强大的功能，包含发射器、粒子、复制、力场、辅助发射器、3D模型、文字、Masks 等多种控制模块，支持多种模式和数百种出厂预设，可轻松创建复杂而精美的粒子效果。Stardust 1.6 版本引入了体积渲染功能，支持从 VDB 文件加载或从粒子生成烟雾效果，并可与 AE 相机无缝集成，便于合成工作流。插件还提供 3D 物理引擎、副本动画系统、3D 模型库等高级功能，支持模块化工作流程，适用于专业动态图形和特效制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Stardust-16.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-452731329"
+    },
+    {
+      "name": "英文版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1z7AjMROwurb9c4dk1BPEXA"
+    },
+    {
+      "name": "3D模型预设库下载",
+      "url": "https://www.lookae.com/stardust-3d-library/"
+    },
+    {
+      "name": "中文汉化AE插件 Stardust 1.6.0 Win",
+      "url": "https://www.lookae.com/stardust-zh/"
+    }
+  ],
+  "other": {
+    "mac_version_url": "https://www.lookae.com/mac-stardust-121/",
+    "official_website": "http://aescripts.com/stardust/",
+    "stardust_1_6_update_features": [
+      "体积渲染：从VDB文件加载或从粒子创建",
+      "新的UI界面：新节点的设计和颜色",
+      "物理：保存并加载状态-保存物理初始状态",
+      "模型：使用Null复制-使用AE Null复制3D模型",
+      "物理：空气密度-添加可设置动画的空气密度",
+      "材质：模板-添加了将材质设置为模板的选项",
+      "物理：属性时间样本-当前时间/粒子出生时的物理属性样本",
+      "模型：UV重复和偏移",
+      "星尘工作室：工作室灯光-为工作室相机添加自定义灯光",
+      "模型：导出OBJ-将当前模型导出为OBJ文件",
+      "粒子：限制旋转-将粒子随机旋转设置为固定值。例如90度",
+      "发射器：添加了灯光发射器大小",
+      "图形：添加了翻转选项",
+      "物理：生命值中的动荡",
+      "辅助：修复了不可见粒子的问题"
+    ],
+    "baidu_netdisk_password": "rqap"
+  }
+}

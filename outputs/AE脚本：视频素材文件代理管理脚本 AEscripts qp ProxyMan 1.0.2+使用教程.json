@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本：视频素材文件代理管理脚本 AEscripts qp ProxyMan 1.0.2+使用教程",
+  "slug": "aejiao-ben-shi-pin-su-cai-wen-jian-dai-li-guan-li-jiao-ben-aescripts-qp-proxyman-1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-08-12T13:10:00Z",
+  "source_url": "https://www.lookae.com/qp-proxyman/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "QP ProxyMan 是一个专为 After Effects 设计的全功能专业代理管理工具，可显著提升工作流程效率。通过使用代理文件，用户能够加快项目处理速度，优化渲染与预览性能。该脚本支持在 AE 中高效管理视频素材的代理文件，适用于大型或高分辨率项目。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/qp-ProxyMan.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "1.0.2+",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：视频素材文件代理管理脚本 AEscripts qp ProxyMan 1.0.2+使用教程",
+      "url": "https://www.400gb.com/file/112239395"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Panels",
+    "original_description_en": "qp ProxyMan is a fully featured professional proxy management tool for After Effects. Dramatically speed up your workflow."
+  }
+}

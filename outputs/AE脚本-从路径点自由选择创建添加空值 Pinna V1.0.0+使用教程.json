@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-从路径点自由选择创建添加空值 Pinna V1.0.0+使用教程",
+  "slug": "aejiao-ben-cong-lu-jing-dian-zi-you-xuan-ze-chuang-jian-tian-jia-kong-zhi-pinna-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-02-19 22:15",
+  "source_url": "https://www.lookae.com/pinna/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Pinna 是一款 After Effects 扩展脚本，可在选定的路径点上灵活添加空值（Null）。相比 AE 内置的“从路径创建空值”，它支持自由选择任意路径点，并可生成控制器空值、跟随路径点的空值或跟踪路径的空值，极大提升路径动画的可控性与效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/02/Pinna.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/507942295387.mp4"
+  ],
+  "supported_versions": "2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1461917677-bebc81?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1LNLOSjqj_v4d2SF-bL7zRw?pwd=miid"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/8s7BE9nSeTP"
+    }
+  ],
+  "other": {
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "miid"
+  }
+}

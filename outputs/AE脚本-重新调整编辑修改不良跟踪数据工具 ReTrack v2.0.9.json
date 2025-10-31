@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-重新调整编辑修改不良跟踪数据工具 ReTrack v2.0.9",
+  "slug": "aejiao-ben-zhong-xin-diao-zheng-bian-ji-xiu-gai-bu-liang-gen-zong-shu-ju-gong-ju-retrack-v2-0-9",
+  "author": "大众脸",
+  "post_date": "2022-05-27",
+  "source_url": "https://www.lookae.com/retrack-209/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "ReTrack",
+    "跟踪助手"
+  ],
+  "content": "ReTrack 是一个运动跟踪引擎和编辑器。它可以一起使用所有类型的AE跟踪数据，并通过选择精确地重新跟踪困难的镜头。重建部分跟踪的数据。通过在跟踪的关键帧上方进行操作来调整不良跟踪。V2.0.9 版本修复了编辑蒙版工具在第一次编辑后停止工作、在某些情况下脚本无法加载跟踪数据以及在重新跟踪时停止工作等问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/ReTrack-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/311019151074.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（脚本）",
+      "url": "https://url70.ctfile.com/f/2827370-585070290-d7a9b6?p=4431"
+    },
+    {
+      "name": "百度网盘（脚本）",
+      "url": "https://pan.baidu.com/s/1zC8S3p94R3NZLwoDbEApBA?pwd=t4ai"
+    },
+    {
+      "name": "阿里云盘（脚本）",
+      "url": "https://www.aliyundrive.com/s/kz3e7bpLTEx"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://089u.com/f/680462-496416451-dfa17c"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1qAn1ITk3EjkXfCiq77kLOQ"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘（脚本）": "6688",
+      "百度网盘（脚本）": "t4ai",
+      "城通网盘（教程）": "6688",
+      "百度网盘（教程）": "16qj"
+    }
+  }
+}

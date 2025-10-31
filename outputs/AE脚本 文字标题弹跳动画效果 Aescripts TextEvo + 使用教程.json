@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本 文字标题弹跳动画效果 Aescripts TextEvo + 使用教程",
+  "slug": "aejiao-ben-wen-zi-biao-ti-dan-tiao-dong-hua-xiao-guo-aescripts-textevo-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/10/19 10:06",
+  "source_url": "https://www.lookae.com/textevo/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "TextEvo 是一款AE脚本，可以快速为文字标题制作大小缩放、缓入缓出动画，控制包括大小、位置、透明度、颜色、填充等属性。该脚本允许基于字母、单词或行来轻松制作带延迟的文字动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/10/aestextevo.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS4/CS5/CS6/CC/CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本 文字标题弹跳动画效果 Aescripts TextEvo + 使用教程",
+      "url": "https://www.400gb.com/file/125434742"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "official_website": "http://aescripts.com/textevo/",
+    "categories": [
+      "AE插件",
+      "AE教程",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

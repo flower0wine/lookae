@@ -1,0 +1,67 @@
+{
+  "title": "中文汉化版-人像磨皮润肤美颜视频AE/PR插件 Beauty Box Video 4.3.0 Win",
+  "slug": "zhong-wen-yi-hua-ban-ren-xiang-mo-pi-run-fu-mei-yan-shi-pin-ae-prcha-jian-beauty-box-video-4-3-0-win",
+  "author": "大众脸",
+  "post_date": "2021/05/22 14:03",
+  "source_url": "https://www.lookae.com/beauty-box-43/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Beauty Box",
+    "PR插件",
+    "磨皮插件"
+  ],
+  "content": "Beauty Box Video 是 Digital Anarchy 推出的一款高效人像磨皮润肤美颜插件，支持 After Effects 与 Premiere Pro。该插件基于先进的面部检测与平滑算法，可自动识别肤色并创建遮罩，仅对皮肤区域应用平滑处理，保留面部关键细节。支持实时渲染（依赖特定GPU），提供大量预设选项，显著提升视频后期修图效率。广泛应用于影视、广告及音乐视频制作中，被 Park Road Post Production、NBC、Universal Music 等公司采用。插件能实现自然真实的数字化妆效果，避免过度模糊或失真，使人物形象更出众。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Beauty-Box-4-NEW.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/211731022272.mp4"
+  ],
+  "supported_versions": "After Effects CC – CC 2018, 2019, 2020, 2021 及更高版本；Premiere Pro CC – CC 2018, 2019, 2020, 2021 及更高版本",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://089u.com/f/680462-496803457-57d21c"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1imQ2cgjmI1wfPUkLttvfAg"
+    },
+    {
+      "name": "中文版 - LookAE 官方下载",
+      "url": "https://www.lookae.com/beauty-box-chn/"
+    }
+  ],
+  "other": {
+    "original_source": "https://www.lookae.com/beauty-box-43/",
+    "related_tags": [
+      "AE插件",
+      "Beauty Box",
+      "PR插件",
+      "磨皮插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "featured_companies": [
+      "Park Road Post Production",
+      "NBC",
+      "Universal Music"
+    ],
+    "use_cases": [
+      "影视制作",
+      "商业广告",
+      "音乐视频"
+    ],
+    "features": [
+      "自动识别肤色与面部轮廓",
+      "实时渲染（需特定GPU）",
+      "智能遮罩生成",
+      "保留面部细节清晰度",
+      "丰富预设库",
+      "无需逐帧手动修图"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-文字图层属性遮罩动画工具Smart Text/Smart Animator/Smart Mask",
+  "slug": "aejiao-ben-wen-zi-tu-ceng-shu-xing-zhe-zhao-dong-hua-gong-ju-smart-text-smart-animator-smart-mask",
+  "author": "大众脸",
+  "post_date": "2021-11-23",
+  "source_url": "https://www.lookae.com/ukramedia-text/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "提供三个脚本，主要用于文字效果或动画制作。Smart Text 可直接给文字图层属性做关键帧动画；Smart Animator 可快速给文字制作动画效果；Smart Mask 给文字层做遮罩动画，且可自动适配遮罩大小。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Ukramedia-Text.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-521623923-571fca"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1N1tlna1O_EENeNllNCu3xg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/St5sMn1kPbX"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "3f7p"
+    },
+    "脚本版本": {
+      "Smart Text": "v1.2",
+      "Smart Animator": "v1.0",
+      "Smart Mask": "v1.0"
+    }
+  }
+}

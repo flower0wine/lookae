@@ -1,0 +1,80 @@
+{
+  "title": "中文汉化AE插件-静态图片局部流动循环动画特效 loopFlow v1.0.1 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-jing-tai-tu-pian-ju-bu-liu-dong-xun-huan-dong-hua-te-xiao-loopflow-v1-0-1-win",
+  "author": "大众脸",
+  "post_date": "2022-04-20T22:09:00Z",
+  "source_url": "https://www.lookae.com/loopflow-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "loopFlow",
+    "中文汉化",
+    "局部流动",
+    "循环动画"
+  ],
+  "content": "loopFlow 是一款 After Effects 插件，可将静止图像转换为循环动画视频。通过两个遮罩定义动画区域与流动方向，适用于模拟水流、烟雾、粒子飞散、火焰等连续流体运动效果。同时可用于头发、毛皮、织物或图案的动态表现。其动画原理基于两个遮罩之间生成的网格，滑动图像区域实现无缝循环动画。支持正向与反向播放，并提供多种混合模式（线性、柔和噪波、擦除）及独立控制曲线的功能。还可添加扭曲增强自然感，并通过 Speed Ramp 动态调节流速。该插件兼容 After Effects CC 2014 至 2022 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/loopFlow.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356262399652.mp44"
+  ],
+  "supported_versions": "After Effects CC 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-572020707-d7f98e"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/188FOr3TgMW-EVo3CPzlE1w?pwd=t3tp"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/qssKNL4zq1Y"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-568647430-70ed00"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1fImM_go9JHbpUgNr8oRd_A?pwd=3302"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/AVPwbCDL6ox"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-568647945-eb851b"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1NaqgifAlSS0i2g-ypBupwg?pwd=pn80"
+    },
+    {
+      "name": "视频教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Cg266DT5rAe"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.1 更新内容：修复了循环网格模式下的边缘故障",
+    "usage_instructions": [
+      "将静止图像添加到合成中",
+      "在图像层上绘制2个蒙版（建议相同方向）",
+      "将 loopFlow 效果应用到图层，分配 Mask1 和 Mask2",
+      "完成！（默认循环时长为3秒，可在动画部分调整）"
+    ],
+    "plugin_features": [
+      "动画区域由两个蒙版定义",
+      "支持带启动/停止选项的无缝循环动画",
+      "动画可正向或反向播放",
+      "混合方式包括线性、柔和噪波、擦除",
+      "可单独控制两图层的混合过渡曲线",
+      "支持可选扭曲，使动画更自然",
+      "支持 Speed Ramp 动态调节流速"
+    ]
+  }
+}

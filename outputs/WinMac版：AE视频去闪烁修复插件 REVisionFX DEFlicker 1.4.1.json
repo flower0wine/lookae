@@ -1,0 +1,39 @@
+{
+  "title": "Win/Mac版：AE视频去闪烁修复插件 RE:VisionFX DE:Flicker 1.4.1",
+  "slug": "win-macban-aeshi-pin-qu-shan-shuo-xiu-fu-cha-jian-re-visionfx-de-flicker-1-4-1",
+  "author": "大众脸",
+  "post_date": "2015/09/21 18:04",
+  "source_url": "https://www.lookae.com/deflicker141/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "Win/Mac"
+  ],
+  "content": "REVisionFX DE:Flicker是一款专业的AE视频去闪烁修复插件，能够有效处理视频中出现的光闪烁现象，包括光闪烁、延时拍摄闪烁和动态闪烁。插件通过分析画面的颜色和亮度，计算匹配出平滑的视频图像，自动修复闪烁问题。该插件包含三个专用工具：DE:Flicker High Speed用于高速率拍摄视频，DE:Flicker Timelapse用于延时拍摄视频，DE:Flicker Auto Levels自动分析并去除闪烁。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Flicker12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 和以上版本,含Adobe CC 2015版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE视频去闪烁插件 RE:VisionFX DE:Flicker 1.4.1",
+      "url": "https://www.400gb.com/file/119371517"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "DE:Flicker High Speed",
+      "DE:Flicker Timelapse",
+      "DE:Flicker Auto Levels"
+    ],
+    "version_update": "1.4.1",
+    "update_features": [
+      "更好的支持PR",
+      "GPU支持更好，运算更快",
+      "修复BUG"
+    ]
+  }
+}

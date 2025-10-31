@@ -1,0 +1,93 @@
+{
+  "title": "红巨人粒子特效套装插件 Red Giant Trapcode Suite 14.0.2 Win/Mac 更新支持 CC 2018",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-cha-jian-red-giant-trapcode-suite-14-0-2-win-mac-geng-xin-zhi-chi-cc-2018",
+  "author": "大众脸",
+  "post_date": "2017/10/19 14:11",
+  "source_url": "https://www.lookae.com/trapcode1402/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CC 2018",
+    "PR插件"
+  ],
+  "content": "著名而强大的红巨人粒子特效套装插件 Red Giant Trapcode Suite 更新至 14.0.2 版本，带来多项重大改进。此次更新包含 Particular 3.0、Form 3.0 和 Tao 1.2 等核心插件的全面升级，显著提升性能并新增大量预设与功能。插件套装支持在 After Effects 和 Premiere Pro 中使用，适用于 Windows 和 macOS 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/Trapcode-14.jpg"
+  ],
+  "video_urls": [
+    "http://v.youku.com/v_show/id_XMjk0MDc4ODQwOA==.html?spm=a2h3j.8428770.3416059.1#paction",
+    "http://v.youku.com/v_show/id_XMjk0MDc4ODQwMA==.html?spm=a2h3j.8428770.3416059.1",
+    "http://v.youku.com/v_show/id_XMjk0MDc4ODI2NA==.html?spm=a2h3j.8428770.3416059.1",
+    "http://v.youku.com/v_show/id_XMjk0MDc4ODM0MA==.html?spm=a2h3j.8428770.3416059.1"
+  ],
+  "supported_versions": "Adobe After Effects CC 2014, CC 2015, CC 2017, CC 2018; Adobe Premiere Pro CC 2014, CC 2015, CC 2017, CC 2018",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 系统版 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-224568964"
+    },
+    {
+      "name": "Win 系统版 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1nvmkOOx"
+    },
+    {
+      "name": "Mac 苹果版 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-224568926"
+    },
+    {
+      "name": "Mac 苹果版 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1c1SQtQK"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "Particular 3.0 高清教程 - 百度云",
+        "url": "https://pan.baidu.com/s/1hsBZb7m"
+      },
+      {
+        "name": "Form 3.0 高清教程 - 百度云",
+        "url": "https://pan.baidu.com/s/1c2GkTVy"
+      }
+    ],
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "included_plugins": [
+      "Trapcode Tao 1.2",
+      "Trapcode Particular 3.0.0",
+      "Trapcode Form 3.0.0",
+      "Trapcode Mir 2.1.2",
+      "Trapcode Shine 2.0.4",
+      "Trapcode Lux 1.4.1",
+      "Trapcode 3D Stroke 2.6.10",
+      "Trapcode Echospace 1.1.9",
+      "Trapcode Starglow 1.7.4",
+      "Trapcode Sound Keys 1.4.1",
+      "Trapcode Horizon 1.1.11"
+    ],
+    "license_keys": {
+      "suite_key": "TCBK2245868172939255",
+      "individual_keys": {
+        "Trapcode Tao 1.2": "90509642123479776933",
+        "Trapcode Mir 2.1": "85079585234586664989",
+        "Trapcode Particular 3.0.0": "92608846345644048269",
+        "Trapcode Shine 2.0": "92338513256767241817",
+        "Trapcode 3D Stroke 2.6": "91588738256767692766",
+        "Trapcode Form 3.0.0": "TCBK2245868172939255",
+        "Trapcode EchoSpace v1.1": "91769344123491994523",
+        "Trapcode Horizon v1.1": "87419480123494067600",
+        "Trapcode Lux v1.4": "87689194123456089091",
+        "Trapcode Sound Keys v1.4": "88419208123489637676",
+        "Trapcode StarGlow v1.7": "86068670256777585702"
+      }
+    },
+    "registration_methods": [
+      "套装序列号注册：安装完成后在 Enter Licensing Info 窗口中输入序列号完成注册。",
+      "单个序列号注册：在 AE 中应用插件后，通过插件参数中的 Licensing 选项输入对应序列号完成注册。"
+    ],
+    "external_links": {
+      "taobao_store": "https://lookae.taobao.com/",
+      "sponsor_page": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

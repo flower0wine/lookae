@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-头发细节优化还原抠像助手 After Keying v1.02 版+使用教程",
+  "slug": "aejiao-ben-tou-fa-xi-jie-you-hua-huan-yuan-kou-xiang-zhu-shou-after-keying-v1-02-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-08-23T12:06:00Z",
+  "source_url": "https://www.lookae.com/after-keying-102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "After Keying 是一款专为 After Effects 设计的抠像辅助插件，可显著提升绿屏抠像质量。其核心功能包括通过‘优化细节’功能恢复被丢失的头发边缘细节，并支持一键添加‘Atmosphere’效果，将物体自然融入背景场景中。适用于 AE CS6 至 CC 2019 版本，兼容 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/After-Keying.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本-头发细节优化还原抠像助手AEscripts After Keying v1.02（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-394207817"
+    },
+    {
+      "name": "AE脚本-头发细节优化还原抠像助手AEscripts After Keying v1.02（百度网盘）",
+      "url": "https://pan.baidu.com/s/1-XoXm_7cGytazlMpKnyjCA"
+    },
+    {
+      "name": "教程下载（城通网盘）",
+      "url": "https://lookae.ctfile.com/fs/680462-358304157"
+    },
+    {
+      "name": "教程下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/184x4Z4d0BETSPS11eAsOIA"
+    }
+  ],
+  "other": {
+    "update_notes": "修复了一些小错误BUG",
+    "demo_link": "https://aescripts.com/after-keying/",
+    "download_password": "bdrb",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "50个黑暗弱光夜晚环境电影视频调色LUTs预设Tropic Colour-Subtle Mood LUTs（FCPX/PR/PS/AE/达芬奇）",
+  "slug": "50ge-hei-an-ruo-guang-ye-wan-huan-jing-dian-ying-shi-pin-diao-se-lutsyu-she-tropic-colour-subtle-mood-luts-fcpx-pr-ps-ae-da-fen-qi",
+  "author": "大众脸",
+  "post_date": "2019-04-10T21:24:00Z",
+  "source_url": "https://www.lookae.com/subtle-mood-luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "MAC",
+    "WIN",
+    "调色预设"
+  ],
+  "content": "本套预设包含50个专为黑暗弱光夜晚环境设计的电影级调色LUTs，采用标准. CUBE格式，适用于各类后期图像处理软件。支持快速色彩校正与分级，提升画面电影感与创意表现力。每款LUT提供5种强度（100% / 80% / 60% / 40% / 20%），适配RAW、LOG、FLAT Gamma空间及SLOG/VLOG等主流拍摄模式。广泛兼容DaVinci Resolve、Adobe系列（Premiere Pro、After Effects、Photoshop）、Final Cut Pro X、Nuke、Vegas、Edius等多种专业软件，显著简化调色流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Subtle-Mood.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01cRY2GX1vSMdYuldbo_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4"
+  ],
+  "supported_versions": "Mac/Win",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-363450931"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/14vDPuVocHWFKmLTwvs0_cA"
+    }
+  ],
+  "other": {
+    "luts_count": 50,
+    "lut_format": ".CUBE",
+    "strength_levels": [
+      "100%",
+      "80%",
+      "60%",
+      "40%",
+      "20%"
+    ],
+    "compatible_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2018",
+      "Adobe After Effects CS6-CC 2018",
+      "Adobe Photoshop CS6-CC 2018",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "recommended_plugins": [
+      "LUT Gallery (FCPX)",
+      "FCPX LUT Loader",
+      "Magic Bullet LUT Buddy",
+      "FCPX软件 LUT 实用颜色工具",
+      "Vegas LUTS插件下载"
+    ],
+    "tutorial_video": {
+      "online": "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4",
+      "download": "https://pan.baidu.com/s/1dEdBwA1"
+    },
+    "related_recommendations": [
+      "https://www.lookae.com/lookaeluts/",
+      "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158",
+      "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+    ],
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "official_store": "https://lookae.taobao.com/",
+    "free_lut_collection": "https://www.lookae.com/tag/lut/"
+  }
+}

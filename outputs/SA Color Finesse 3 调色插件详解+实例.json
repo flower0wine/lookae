@@ -1,0 +1,37 @@
+{
+  "title": "SA Color Finesse 3 调色插件详解+实例",
+  "slug": "sa-color-finesse-3-diao-se-cha-jian-xiang-jie-shi-li",
+  "author": "大众脸",
+  "post_date": "2012/12/18 10:54",
+  "source_url": "https://www.lookae.com/ssa-cf3t/",
+  "category": "aechajian",
+  "tags": [
+    "国外教程",
+    "英语"
+  ],
+  "content": "Color Finesse 是一款用于 After Effects、Final Cut Pro 和 Premiere Pro 的专业调色插件，提供强大的局部调色能力。它支持 32 位浮点颜色空间，具备高分辨率与宽容度，可在 HSL、RGB、CMY 及 YC6CR 等多种颜色空间中进行精确校正。插件支持暗部、中间调和高光的独立调整，提供自动白平衡、自定义曲线、6 个间色修正通道等功能。新增蒙版模式、ALPHA 通道预览及外部监视器支持，便于在多屏环境下精准调色。本教程包含界面功能详解与实际案例演示，适合希望掌握专业调色流程的用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/12/SA-CF3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 及以上 64 位版本（插件自带）；另有 32 位版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "SA Color Finesse 3 调色插件详解+实例",
+      "url": "http://www.ctdisk.com/file/13731264"
+    },
+    {
+      "name": "Color Finesse.2.17汉化一件安装版（32位）下载",
+      "url": "http://www.ctdisk.com/file/13731705"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "AE教程",
+      "After Effects"
+    ],
+    "tutorial_language": "英文"
+  }
+}

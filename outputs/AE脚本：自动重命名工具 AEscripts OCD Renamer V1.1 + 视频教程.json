@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本：自动重命名工具 AEscripts OCD Renamer V1.1 + 视频教程",
+  "slug": "aejiao-ben-zi-dong-zhong-ming-ming-gong-ju-aescripts-ocd-renamer-v1-1-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/10/11 19:55",
+  "source_url": "https://www.lookae.com/renamer11/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "AE脚本 OCD Renamer 可在 After Effects 中基于效果、遮罩、父子关系等条件，实现图层的快速自动重命名。支持自定义设置，可按效果、子图层依据父图层、父图层依据子图层、遮罩类型及其关联图层进行智能命名。适用于 Windows 和 Mac 系统下的 AE CS6 至 CC 2018 及更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/OCD-Renamer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2018 及更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-314079832"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jMBsmAmQqxb3EteRGjSsCw"
+    }
+  ],
+  "other": {
+    "script_description": "Automatically rename layers based on effects, mattes, parents or children. OCD renamer intelligently renames layers based on customizable settings. You can rename layers based on effects, children based on parents, parents based on children, mattes based on which type of matte they are and which layer is matted to them.",
+    "official_website": "https://aescripts.com/ocd-renamer/",
+    "version_update": [
+      "移除外部配置文件XML文件的需要",
+      "增加了GUI定位功能"
+    ],
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane\\",
+    "usage_instruction": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

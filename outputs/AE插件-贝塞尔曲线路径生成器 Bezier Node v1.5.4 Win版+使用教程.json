@@ -1,0 +1,43 @@
+{
+  "title": "AE插件-贝塞尔曲线路径生成器 Bezier Node v1.5.4 Win版+使用教程",
+  "slug": "aecha-jian-bei-sai-er-qu-xian-lu-jing-sheng-cheng-qi-bezier-node-v1-5-4-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/10/24 20:59",
+  "source_url": "https://www.lookae.com/bezier-node-154/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Bezier Node插件简化了制作贝塞尔曲线和其他曲线的过程，可以从A点到B点绘制漂亮的曲线，能够控制从直线到曲线的曲率。支持控制起始和结束位置、对称模式、附加线、颜色、路径修改、多曲线路径、描边等功能，让曲线始终保持完美。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Bezier-Node.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（插件）",
+      "url": "https://tc5.us/file/680462-404000099"
+    },
+    {
+      "name": "百度网盘下载（插件）",
+      "url": "https://pan.baidu.com/s/1-c14oy92RyU84xOZgbR3UQ"
+    },
+    {
+      "name": "城通网盘下载（视频教程）",
+      "url": "https://tc5.us/file/680462-404005563"
+    },
+    {
+      "name": "百度网盘下载（视频教程）",
+      "url": "https://pan.baidu.com/s/1G-WOf7-M_VbO7DTP_otbUg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复用户UI界面错误",
+      "添加了新的封口样式"
+    ],
+    "official_website": "https://aescripts.com/bezier-node/"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "特殊编码加速输出渲染AE/PR/AME插件 AfterCodecs v1.10.11 Win",
+  "slug": "te-shu-bian-ma-jia-su-shu-chu-xuan-ran-ae-pr-amecha-jian-aftercodecs-v1-10-11-win",
+  "author": "大众脸",
+  "post_date": "2022/10/08 22:06",
+  "source_url": "https://www.lookae.com/aftercodecs-11011/",
+  "category": "aechajian",
+  "tags": [
+    "AfterCodecs",
+    "MP4插件",
+    "PR插件",
+    "输出插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Media Encoder 设计的高效输出渲染插件，支持 H264、H265 与 ProRes 等多种编码格式。相比 AE 原生导出，其渲染速度更快，文件体积更小，画质更佳，且提供丰富的参数设置选项。该插件在 Windows 平台实现 ProRes 编码，并支持 HAP GPU 加速编解码器、x264/x265 高效压缩以及 RGB 模式下的 x264 编码，适用于专业视频制作与交付场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AfterCodecs-197.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC2019, CC2018, CC2017, CC2015.3, CC2015, CC2014; Premiere Pro 2022, 2021, 2020, CC2019, CC2018, CC2017, CC2015.3, CC2015, CC2014; Media Encoder 2022, 2021, 2020, CC2019, CC2018, CC2017, CC2015, CC2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-690327442-25dd7d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1No0rjFUXH_LiuKXHxWQa5g?pwd=bd7k"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/CiEdWJCenZC"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "支持 After Effects、Premiere Pro 和 Media Encoder 2023/v23",
+      "After Effects：当仍在运行试用版（Unlicensed AfterCodecs）时，渲染队列末尾会出现 500 帧试用警告",
+      "After Effects：修复了有时 AfterCodecs 编码弹出窗口无法启动的问题"
+    ],
+    "features": [
+      "支持 ProRes 6 个官方配置文件和 2 个非官方配置文件（含 Alpha 通道）",
+      "支持 4 种 HAP GPU 加速编解码器，可自定义压缩算法与块数量",
+      "x264/x265 编码质量优于 Adobe Media Encoder 与 QuickTime，支持 8K 渲染",
+      "提供 YouTube 上传专用配置文件，一键优化上传参数",
+      "支持多渲染标记（MultiRender Markers）批量导出，适用于 Premiere Pro",
+      "渲染进度实时显示于任务栏图标中，提升工作流可视化体验",
+      "支持进阶功能：文件大小目标、10 bpc、完整范围、YUV 4:2:2/4:4:4、自定义档位等"
+    ],
+    "tutorial_links": [
+      "城通网盘下载：https://tc5.us/file/680462-406407782",
+      "百度网盘下载：https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+    ],
+    "related_tags": [
+      "ProRes",
+      "HAP",
+      "x264",
+      "x265",
+      "GPU加速",
+      "视频编码",
+      "高效导出",
+      "工作流程优化"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本：根据音频节奏自动剪辑视频素材 Aescripts Automated Video Editing v1.11",
+  "slug": "aejiao-ben-gen-ju-yin-pin-jie-zou-zi-dong-jian-ji-shi-pin-su-cai-aescripts-automated-video-editing-v1-11",
+  "author": "大众脸",
+  "post_date": "2017-07-09T22:50:00Z",
+  "source_url": "https://www.lookae.com/automated-video-editing-111/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可自动根据音频节奏对视频素材进行剪辑与组合，支持自定义剪辑规则。用户导入多段视频和音频后，通过简单设置即可生成与音乐同步的完整视频，且支持后期调整。适用于 After Effects CS6 至 CC 2017 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/Automated-Video-Editing.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/44207095.mp4"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-210855966"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mhS4hAw"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/automated-video-editing/",
+    "update_notes": "updated Automated Video Editing to work with the new version of After Effects 2017 (14.2.1.0) for users who use non english version of After Effects. Also now support french version of AE.",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instruction": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "related_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ]
+  }
+}

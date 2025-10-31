@@ -1,0 +1,71 @@
+{
+  "title": "场景扫描DOF深度图自动生成AE插件 Depth Scanner 1.16.15 Win+GPU离线版",
+  "slug": "chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-aecha-jian-depth-scanner-1-16-15-win-gpuchi-xian-ban",
+  "author": "大众脸",
+  "post_date": "2025-04-07 13:49",
+  "source_url": "https://www.lookae.com/depth-scanner-11615/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Depth Scanner",
+    "DOF插件",
+    "深度图"
+  ],
+  "content": "Depth Scanner 是一款基于人工智能的 After Effects 插件，可自动从图像和视频中生成深度图。生成的深度图可用于后期添加雾效、立体 3D 转换等多种图像特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Depth-Scanner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347812020335.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "在线下载版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1494205412-f907c4?p=4431"
+    },
+    {
+      "name": "在线下载版-百度网盘",
+      "url": "https://pan.baidu.com/s/1jDW_TPo48R0f1SC4rSSzDA?pwd=1k69"
+    },
+    {
+      "name": "在线下载版-阿里云盘",
+      "url": "https://www.alipan.com/s/Kd4GPkecZzf"
+    },
+    {
+      "name": "GPU离线版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1494209513-70970e?p=4431"
+    },
+    {
+      "name": "GPU离线版-百度网盘",
+      "url": "https://pan.baidu.com/s/1kI7v0MAvEEo4bVOVUtPFdQ?pwd=z72u"
+    },
+    {
+      "name": "GPU离线版-阿里云盘",
+      "url": "https://www.alipan.com/s/zcgYyPdanmQ"
+    }
+  ],
+  "other": {
+    "video_tutorials": [
+      {
+        "name": "视频教程-城通网盘",
+        "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+      },
+      {
+        "name": "视频教程-百度网盘",
+        "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+      },
+      {
+        "name": "视频教程-阿里云盘",
+        "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+      }
+    ],
+    "access_password": "6688",
+    "baidu_extract_codes": {
+      "在线下载版": "1k69",
+      "GPU离线版": "z72u",
+      "视频教程": "r9ha"
+    }
+  }
+}

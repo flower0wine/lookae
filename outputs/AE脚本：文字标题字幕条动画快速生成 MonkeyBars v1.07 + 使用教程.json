@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本：文字标题字幕条动画快速生成 MonkeyBars v1.07 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-biao-ti-zi-mu-tiao-dong-hua-kuai-su-sheng-cheng-monkeybars-v1-07-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/03 10:24",
+  "source_url": "https://www.lookae.com/monkeybars-107/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "MonkeyBars 脚本可以快速生成文字标题字幕条动画，风格多样。操作简单，控制直观，带使用教程。这是一款为动态设计师、编辑和制作人设计的新型文字动画工具。v1.06更新内容：兼容macOS 10.15 Catalina系统。适用于Win/Mac系统下的AE CS 6 – CC 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/monkeybars.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-410973225"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YIcxgXDtjYhfx-QQWLG38w"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202009510"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1cGkpjS"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_website": "http://aescripts.com/monkeybars/",
+    "taobao_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v2.1.0 Mac/Win + 视频教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v2-1-0-mac-win-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/04/29 10:21",
+  "source_url": "https://www.lookae.com/lockdown-21/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Lockdown 是一款革命性的 After Effects 插件，专用于跟踪运动物体扭曲不平的表面，适用于美容修饰、物体移除清理及复杂特效合成。新版 V2.1.0 引入了独立操作界面，提升跟踪流畅度与用户体验。支持 Win/Mac 系统，兼容 After Effects CC 2019 至 2020。插件具备高精度追踪能力，支持帧级 Alpha 通道作为蒙版、引导点插值等功能，并优化了渲染效率和用户交互逻辑。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/301157361765.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "Win 中英文版 - 城通网盘",
+      "url": "https://089u.com/f/680462-494370599-3d5992"
+    },
+    {
+      "name": "Win 中英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1-pB3jkuZ7yH8KmXu1DAC2A"
+    },
+    {
+      "name": "Mac 仅英文版 - 城通网盘",
+      "url": "https://089u.com/f/680462-494500314-62c569"
+    },
+    {
+      "name": "Mac 仅英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Ts7JQyt_yTaMs32QWPXcxA"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/f/680462-485541275-bfdeb4"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1P3KKlhdQNhXdSKib6HdcTA"
+    },
+    {
+      "name": "V1.4 使用教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-445330945"
+    },
+    {
+      "name": "V1.4 使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1YeFG07kBTePKT1C7wm_rZg"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "version": "v2.1.0",
+      "features": [
+        "新独立弹出式窗口跟踪器（已外测发布）",
+        "支持使用帧的 Alpha 通道作为死区蒙版",
+        "新增三个引导点（三角形）插值功能",
+        "改进关键帧间插值与轨道移动行为",
+        "所有新点自动创建调整点以保留位置",
+        "非活动点以半透明显示（可配置）",
+        "渲染管线优化，提升效率与扩展性"
+      ],
+      "fixes": [
+        "优化坐标计算与插值精度",
+        "修复大屏幕缩放下的 UI 控件问题",
+        "解决跟踪过程中弹出界面响应异常",
+        "修复失去所有点后跟踪中断的错误"
+      ],
+      "tutorial": {
+        "available_versions": [
+          "V1.4"
+        ],
+        "download_links": [
+          "https://089u.com/file/680462-445330945",
+          "https://pan.baidu.com/s/1YeFG07kBTePKT1C7wm_rZg"
+        ]
+      },
+      "passwords": {
+        "tongcheng": "6688",
+        "baidu": {
+          "win": "mjkn",
+          "mac": "aocl",
+          "tutorial": "kg8u",
+          "v1_4": "ts3a"
+        }
+      }
+    }
+  }
+}

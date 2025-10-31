@@ -1,0 +1,67 @@
+{
+  "title": "苹果M1版AE插件-点线面三维粒子特效 Plexus v3.2.6 Win/Mac中文汉化",
+  "slug": "ping-guo-m1ban-aecha-jian-dian-xian-mian-san-wei-li-zi-te-xiao-plexus-v3-2-6-win-maczhong-wen-yi-hua",
+  "author": "大众脸",
+  "post_date": "2022/06/10 11:32",
+  "source_url": "https://www.lookae.com/plexus-326/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Plexus",
+    "中文汉化",
+    "粒子插件"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。不仅可渲染粒子，还能基于多种参数建立粒子之间的复杂关系。其工作流高度模块化，可实现无限的配置与参数组合。该插件支持3D模型导入（如OBJ格式），可用作粒子发射器；同时支持通过路径、文字、灯光生成粒子效果，操作逻辑独特且富有创意。内置多种自定义特效，包括分形、颜色控制、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/341819600475.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014 – 2022, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-593150206-1ab088?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1fYq7KOjAzEiUrYL37D_qKw?pwd=5wgy"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/nXFziNh4775"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了 Nvidia GPU 上的 Sprite 渲染问题。",
+      "修正了一些小错误。",
+      "兼容 M1 芯片的苹果电脑（同时支持 Intel 芯片）"
+    ],
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "name": "百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      }
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "AE插件M1": "https://www.lookae.com/tag/aem1/",
+      "Plexus": "https://www.lookae.com/tag/plexus/",
+      "中文汉化": "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "粒子插件": "https://www.lookae.com/tag/%e7%b2%92%e5%ad%90%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

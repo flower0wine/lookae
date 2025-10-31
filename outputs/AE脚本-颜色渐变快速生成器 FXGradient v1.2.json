@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-颜色渐变快速生成器 FXGradient v1.2",
+  "slug": "aejiao-ben-yan-se-jian-bian-kuai-su-sheng-cheng-qi-fxgradient-v1-2",
+  "author": "大众脸",
+  "post_date": "2019/11/18 23:17",
+  "source_url": "https://www.lookae.com/fxgradient-12/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "这是一款在After Effects中创建高级渐变的工具，只需单击按钮，就能轻松创建和编辑线性、圆形径向、角度和反射斜坡等，还拥有众多颜色预设。v1.2新版解决了预设排序列表排序错误问题，该工具支持Win/Mac系统，适用于AE CC 2019 - CS 6。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/FXGradient.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019 - CS 6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-408384213"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1uNrx44uf_kkWamJJ-qQceQ"
+    }
+  ],
+  "other": {
+    "分类链接": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "标签链接": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "英文介绍": "The most user-friendly way to create advanced gradient ramps in After Effects! Easily create and edit linear, radial, angular and reflected ramps with the click of a button, and colorize them with one of the 30 trendy and useful color presets. Even add some special FX options like tiling, grain and turbulence !",
+    "原网址": "https://aescripts.com/fx-gradient/"
+  }
+}

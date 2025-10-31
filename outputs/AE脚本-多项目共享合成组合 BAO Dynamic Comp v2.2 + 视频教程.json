@@ -1,0 +1,60 @@
+{
+  "title": "AE脚本-多项目共享合成组合 BAO Dynamic Comp v2.2 + 视频教程",
+  "slug": "aejiao-ben-duo-xiang-mu-gong-xiang-he-cheng-zu-he-bao-dynamic-comp-v2-2-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/06/05 10:29",
+  "source_url": "https://www.lookae.com/bao-dynamic-comp/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本Dynamic Comp允许在多个项目之间共享组合，操作方式为在项目面板中选择一个合成，然后按«Export composition - 导出合成»按钮，作品将作为.aep项目导出至所选位置并使用所选名称，导出的合成可在使用Dynamic Comp的任何After Effects项目中使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/BAO-Dynamic-Comp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/227906352286.mp4"
+  ],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-377763775"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1eJ-D7emiLQG-TNi68R2zDA",
+      "extra": "提取码：szrn"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "related_tags_links": [
+      {
+        "name": "Aescaripts",
+        "url": "https://www.lookae.com/tag/aescaripts/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+      }
+    ],
+    "script_english_intro": "Dynamic Comp 2 allows you to share compositions between several After Effects projects.",
+    "script_official_url": "https://aescripts.com/bao-dynamic-comp/"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "AE/PR插件-画面故障干扰RGB色彩分离损坏特效 TV Distortion Bundle V2.7.2 Win/Mac",
+  "slug": "ae-prcha-jian-hua-mian-gu-zhang-gan-rao-rgbse-cai-fen-chi-sun-pi-te-xiao-tv-distortion-bundle-v2-7-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/03/20 22:47",
+  "source_url": "https://www.lookae.com/tv-distortion-272/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "TV Distortion Bundle包含五个故障失真插件，支持AE和PR软件，可帮助在视频中创建模拟失真、信号干扰、像素破损、RGB色彩分离等特效。V2.6.0更新内容：修复在PR中的BUG；插件整体更新到新版本号。更新内容还包括After Effects中的MFR支持以及Apple Silicon支持Premiere。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/TV-Distortion-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": {
+    "After Effects": [
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015.3",
+      "CC 2015",
+      "CC 2014"
+    ],
+    "Premiere": [
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015.3",
+      "CC 2015",
+      "CC 2014"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556963003-6c5383"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/15FGgs8XBUDEBDiSucqgQuA?pwd=o671"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/MdL6r2pZgsK"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "Bad TV v2.7.2 - 坏电视效果",
+      "Data Glitch v2.7.2 - 信号干扰破损效果",
+      "Dot Pixel v2.7.2 - 点阵像素效果",
+      "Separate RGB v2.7.2 - RGB色彩分离效果",
+      "TVPixel v2.7.2 - 电视像素损坏效果"
+    ]
+  }
+}

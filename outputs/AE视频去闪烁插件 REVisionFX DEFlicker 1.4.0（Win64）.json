@@ -1,0 +1,40 @@
+{
+  "title": "AE视频去闪烁插件 RE:VisionFX DE:Flicker 1.4.0（Win64）",
+  "slug": "aeshi-pin-qu-shan-shuo-cha-jian-re-visionfx-de-flicker-1-4-0-win64",
+  "author": "大众脸",
+  "post_date": "2015-08-16 13:12",
+  "source_url": "https://www.lookae.com/flicker14/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "REVision 插件能帮助我们弥补肉眼和摄像机捕捉光线频率不同导致的视频光闪烁缺陷，能够很好地处理光闪烁、延时拍摄闪烁和动态闪烁现象。插件通过分析画面的颜色和亮度，计算并匹配出平滑的视频图像。它专为解决在体育场馆、体育场、夜间公园、夜总会或家庭等人工光源环境下拍摄时，尤其是在使用高帧率或延时摄影时出现的光源闪烁问题而设计。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Flicker12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 和以上版本, 含Adobe CC 2015版本",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE视频去闪烁插件 RE:Vision Effects DE:Flicker 1.4.0（Win64）",
+      "url": "https://www.400gb.com/file/113016089"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "DE:Flicker High Speed (高速闪烁插件)：用于高速率拍摄视频",
+      "DE:Flicker Timelapse (间隔闪烁插件)：用于延时拍摄视频",
+      "DE:Flicker Auto Levels (自动去除闪烁插件)：分析画面的颜色和亮度，自动去除闪烁"
+    ],
+    "update_info": {
+      "version": "1.4.0",
+      "details": [
+        "增加了Premiere Pro支持",
+        "在Premiere Pro中，如果机器上有两个或更多相同类型的最快GPU，用户可以同时利用它们（After Effects尚不支持多GPU加速）",
+        "DE:Flicker High Speed：修复了Gamma控制问题（仅限GPU）",
+        "DE:Flicker Timelapse：修复了应用于颜色值小于0或大于1的视频（包括YUV编码电影）时的问题（仅限GPU）"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "AE插件-能量激光描边光效特效插件 Video Copilot Saber 1.0.39 Win/Mac + 中文汉化",
+  "slug": "aecha-jian-neng-liang-ji-guang-miao-bian-guang-xiao-te-xiao-cha-jian-video-copilot-saber-1-0-39-win-mac-zhong-wen-yi-hua",
+  "author": "大众脸",
+  "post_date": "2016-03-10T18:13:00Z",
+  "source_url": "https://www.lookae.com/saber1039/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AK",
+    "VC",
+    "Video Copilot",
+    "Win/Mac"
+  ],
+  "content": "Video Copilot 发布的免费能量激光描边光效特效插件 Saber 1.0.39，适用于 After Effects 软件。该插件可创建能量光束、光剑、激光、传送门、霓虹灯、闪电、电流、朦胧等视觉特效。操作直观，内置25种预设效果，并支持文字与遮罩轮廓动态应用。支持多层特效叠加，具备高级核心设置和内置能量扭曲变形功能。插件兼容从 AE CS5 到 AE 2021 的多个版本，提供 Windows 与 Mac 系统双版本。中文汉化由‘大众脸’制作完成。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/VCSaber.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/35272197.mp4"
+  ],
+  "supported_versions": "After Effects AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Windows 版 - 城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/FGq145483418"
+    },
+    {
+      "name": "Windows 版 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kUjXJO7"
+    },
+    {
+      "name": "Mac OSX 版 - 城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/Clr145483415"
+    },
+    {
+      "name": "Mac OSX 版 - 百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1bxNmKe"
+    },
+    {
+      "name": "视频教程下载 - 城通网盘",
+      "url": "http://lookae.ctfile.com/file/144973820"
+    },
+    {
+      "name": "视频教程下载 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1dDZZfwP"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "Create High quality energy & lights beams",
+      "Realistic Glow falloff",
+      "Advanced Core Settings",
+      "Built-in Distortion",
+      "25 Presets",
+      "Dynamic Text and Mask Outlines",
+      "Stackable FX"
+    ],
+    "official_website": "http://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/",
+    "update_notes": "Video Copilot Saber 1.0.39 更新修复了一些已知错误 bug",
+    "description": "等待几天的能量激光描边光效特效插件 Saber 终于发布了，插件完全免费，由 Video Copilot 提供。",
+    "translation_by": "大众脸",
+    "support_platforms": [
+      "After Effects AE 2021",
+      "After Effects AE 2020",
+      "After Effects CC 2019",
+      "After Effects CC 2018",
+      "After Effects CC 2017",
+      "After Effects CC 2015.3",
+      "After Effects CC 2015",
+      "After Effects CC 2014",
+      "After Effects CC",
+      "After Effects CS6",
+      "After Effects CS5"
+    ]
+  }
+}

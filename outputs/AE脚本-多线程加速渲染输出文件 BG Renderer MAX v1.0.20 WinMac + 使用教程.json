@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-多线程加速渲染输出文件 BG Renderer MAX v1.0.20 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-duo-xian-cheng-jia-su-xuan-ran-shu-chu-wen-jian-bg-renderer-max-v1-0-20-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/05/18 20:05",
+  "source_url": "https://www.lookae.com/renderer-1020/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "BG Renderer MAX 是一款专为 After Effects 设计的扩展脚本，可实现后台高速渲染合成。支持多线程处理、批量渲染、文件格式转换等功能，集成度高，操作便捷。用户可通过可调节的多处理功能控制处理器负载，并支持推送通知与多种后期渲染选项，优化整体渲染工作流。适用于 AE 2020、CC 2019、CC 2018 版本，兼容 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/BG-Renderer-MAX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/281324034261.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://089u.com/f/680462-496363445-47b941"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1HlGjM3zGhFEmIR-aZrNgrA"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382928723"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10YiohKtR7foX9pUVqR90RA"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了一种罕见的情况，即渲染过程未发布并且正在消耗资源",
+      "各种错误修复和引擎调整"
+    ],
+    "version": "v1.0.20",
+    "related_tags": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "三维路径遮罩顶点切线控制AE插件 BAO Mask Avenger 2.7.5 Win/Mac",
+  "slug": "san-wei-lu-jing-zhe-zhao-ding-dian-qie-xian-kong-zhi-aecha-jian-bao-mask-avenger-2-7-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/11/10 23:46",
+  "source_url": "https://www.lookae.com/mask-avenger-275/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "使用这款插件可以直接在AE中控制和编辑Mask路径和遮罩的顶点，可在三维空间做路径动画。Control mask vertices (and tangents) individually using a native plugin in After Effects!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/BAO-Mask-Avenger-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056480510.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-722574602-2fdbe4?p=4431"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1_pJT9x17djjHe8FlSlBq8A?pwd=av8a"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/oxYF9aUQ4j4"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-231224103"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kU7Gyur"
+    }
+  ],
+  "other": {
+    "update_notes": "2.7.5更新内容：Fixed a M1 compatibility issue (Mac)",
+    "access_password": {
+      "城通网盘": "6688"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本-给图层添加下拉菜单控件 AM Dropdown Effect Helper v1.0.1",
+  "slug": "aejiao-ben-gei-tu-ceng-tian-jia-xia-la-cai-dan-kong-jian-am-dropdown-effect-helper-v1-0-1",
+  "author": "大众脸",
+  "post_date": "2020/12/30 12:58",
+  "source_url": "https://www.lookae.com/am-dropdown/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "您是否曾经尝试过向下拉菜单控件效果添加更多项目？厌倦了一个一个地创建每个项目？并经历了在庞大列表的底部选择单个项目的麻烦？这是给您的快速解决方案。使用此脚本，您可以轻松地一次将多个项目添加到“下拉菜单控制效果”中，并在庞大的列表中选择任何项目，而无需花费时间上下滚动。简而言之，该脚本用于管理下拉菜单控制效果。注意：由于After Effects中下拉菜单控件效果的限制，您可以添加的最大项目数限制为1168。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/AM-Dropdown-Effect-Helper.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293440802579.mp4"
+  ],
+  "supported_versions": "AE 2020 V17.5.1或更高版本",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-477881487"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1TPqP1f1ARu0HepUgX8Vwbw"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "khm4"
+  }
+}

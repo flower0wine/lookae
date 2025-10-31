@@ -1,0 +1,36 @@
+{
+  "title": "AE插件-合成区域自动裁剪 Auto Crop v3.1.1 Win/Mac + 使用教程",
+  "slug": "aecha-jian-he-cheng-qu-yu-zi-dong-cai-jian-auto-crop-v3-1-1-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-01-05 10:38",
+  "source_url": "https://www.lookae.com/auto-crop-311/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Auto Crop 允许您立即裁剪合成内容的大小。在当前帧处裁剪合成或分析整个合成的内容和裁剪，而不会切断任何动画。Auto Crop 3现在甚至允许你裁剪当前的合成而不需要预合成。在最新版本中，Auto Crop已经从头开始重建为本机插件，以提供新功能和更好的结果。能够根据合成透明信息剪裁成适合的大小。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Auto-Crop.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-416230289"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/11C5xmpz-bk1tTzokdMijRw"
+    }
+  ],
+  "other": {
+    "plugin_version": {
+      "win": "v3.1.1",
+      "mac": "v3.1.0"
+    },
+    "official_website": "https://aescripts.com/auto-crop/"
+  }
+}

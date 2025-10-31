@@ -1,0 +1,71 @@
+{
+  "title": "中文汉化-动态线条路径描边绘制生长动画AE插件 Volna V2.4.7 Mac/Win+使用教程",
+  "slug": "zhong-wen-yi-hua-dong-tai-xian-tiao-lu-jing-miao-bian-hui-zhi-sheng-chang-dong-hua-aecha-jian-volna-v2-4-7-mac-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-01-25 11:58",
+  "source_url": "https://www.lookae.com/volna-244/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "中文汉化"
+  ],
+  "content": "Volna 是高级笔画插件，使用蒙版绘制动态线条路径描边，可混合双蒙版生成多笔触新形状。支持渐变填充、柏林噪声/正弦扭曲、坡度控制粗细、线/点模式、参数化箭头及随机化设计，轻松实现生长动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/volna-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334216310237.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "Win 中英文主插件-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-877168647-b3cc98?p=4431"
+    },
+    {
+      "name": "Win 中英文主插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1r-e97SjP37lQexFTmHC9EQ?pwd=ypbf"
+    },
+    {
+      "name": "Win 中英文主插件-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/JTZ1ZtRsCND"
+    },
+    {
+      "name": "Mac 英文主插件-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1013733736-d18b9c?p=4431"
+    },
+    {
+      "name": "Mac 英文主插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1hsnFCBu5Gkjw85kCHDgI2Q?pwd=082d"
+    },
+    {
+      "name": "Mac 英文主插件-阿里云盘",
+      "url": "https://www.alipan.com/s/qjvP6Vk3vmv"
+    },
+    {
+      "name": "使用教程-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-733890250-412a77?p=4431"
+    },
+    {
+      "name": "使用教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1FhdUg7gPIY5XpO8zlKvUrQ?pwd=x0o1"
+    },
+    {
+      "name": "使用教程-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/us1dGKqPYN6"
+    }
+  ],
+  "other": {
+    "update_notes": "V2.4.7 修复箭头与旧版兼容性；修复默认噪波等级值",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘提取码": {
+        "Win": "ypbf",
+        "Mac": "082d",
+        "教程": "x0o1"
+      }
+    }
+  }
+}

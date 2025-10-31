@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-300种多职业二维卡通人物角色MG动画预置 PremiumBuilder Characters",
+  "slug": "aejiao-ben-300chong-duo-zhi-ye-er-wei-qia-tong-ren-wu-jiao-se-mgdong-hua-yu-zhi-premiumbuilder-characters",
+  "author": "大众脸",
+  "post_date": "2020/07/21 14:02",
+  "source_url": "https://www.lookae.com/premiumbuilder-characters/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PremiumBuilder"
+  ],
+  "content": "300多个预制角色，自定义自己的角色，无限字符，每个角色最多50个姿势。进出动画，人脸控制器，头部尺寸控制器，面对情绪，自动唇形同步人脸效果，无需插件（忽略DUIK丢失效果），包括带语音的教程。包括Premium Builder脚本扩展，可视化预览，点击即可加载到AE合成中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/07/PremiumBuilder-Characters.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/273083791043.mp4"
+  ],
+  "supported_versions": "AE CC 2019 或更高版本",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-454492977"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/19gRQ4AD7A8PyNIO4Qihdrg"
+    }
+  ],
+  "other": {
+    "file_size": "1.9G（解压后16.8G）",
+    "installation_note": "脚本文件约占14G大小，必须要安装在系统C盘，不可更改位置",
+    "baidu_extract_code": "8vj2",
+    "plugins_required": "无需外置插件或Saber插件",
+    "language_support": "支持英文/中文版AE",
+    "tutorial": "官方英文视频使用教程",
+    "background_music": "没有背景音乐"
+  }
+}

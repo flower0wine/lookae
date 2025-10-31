@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-画面抗锯齿平滑柔和边缘插件 FXAA v1.0 Win/Mac + 使用教程",
+  "slug": "aecha-jian-hua-mian-kang-ju-chi-ping-hua-rou-he-bian-yuan-cha-jian-fxaa-v1-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-04-12T16:11:00Z",
+  "source_url": "https://www.lookae.com/fxaa/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "FXAA（Fast Approximate Anti-Aliasing）是一种由NVIDIA的Timothy Lottes开发的快速近似抗锯齿算法，专为在不显著增加计算负担的情况下平滑图像边缘而设计。该插件适用于After Effects中出现的锯齿边缘问题，尤其在使用Echo效果或Cartoon Moblur制作运动轨迹、拖尾时效果明显。它基于像素数据运行，利用GPU并行处理能力实现高速渲染，是PluginEverything公司出品的免费插件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/FXAA-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-436723907"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1wAh63fSeL4nh7dfee0fOWA"
+    }
+  ],
+  "other": {
+    "original_post_date": "2020/04/12 16:11",
+    "categories": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[Mac 专区](https://www.lookae.com/mac-osx/)"
+    ],
+    "related_tags": [
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)"
+    ],
+    "plugin_website": "https://www.plugineverything.com/fxaa",
+    "download_password": "exrk"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "AE脚本-快速给图层添加MG动画 Motion Monkey V1.03+使用教程",
+  "slug": "aejiao-ben-kuai-su-gei-tu-ceng-tian-jia-mgdong-hua-motion-monkey-v1-03-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/07/10 21:47",
+  "source_url": "https://www.lookae.com/motionmonkey-103/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画脚本",
+    "Motion Monkey"
+  ],
+  "content": "Motion Monkey 是一款强大且直观的 AE 脚本，可快速为图层添加丰富的 MG 动画效果。无需手动设置复杂的关键帧，只需简单点击即可生成无限多样的动态动画。支持多种图层类型（如文字、静态图像、视频、预合成、纯色层、形状、AI/PSD 文件、空对象及父子层级），并提供随机或自定义参数生成从柔和到激烈的各种动画风格。内置 Motion Mixer 可增加动画的复杂度与变化性，支持多种插值方式、速度和强度调节，适用于不同情绪氛围的设计需求。同时支持 Kuler 颜色调板导入，提升视觉一致性。该版本免费包含 MonkeyTools 工具集，持续扩展功能。新版本已适配苹果 M 系列芯片系统，兼容 Windows 与 Mac 平台，支持 AE 2022 至 CC 2014 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/Motion-Monkey-103.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-611651782-345bed?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1GK5jNdHjGZIo6SR34hb7zA?pwd=zdzz"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/AdWUWHWBxWD"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/file/67966656"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1R94zsT3HXLjCSIs6p8ODhQ?pwd=gko3"
+    }
+  ],
+  "other": {
+    "update_note": "V1.03 新版更新：兼容苹果新系统",
+    "features": [
+      "Creates a wide range of animations of your layered design based on parameters entered into the control panel.",
+      "Random or custom settings create animated variations from mild to wild.",
+      "Works with most layers including text, stills, video, pre-comps, solids, shapes, .ai, .psd, nulls and parented layers.",
+      "Motion Mixer option adds additional variation and complexity to animations.",
+      "Multiple interpolations, speeds and intensities allow for a wide range of moods, from subtle to energetic.",
+      "Kuler support allows for Kuler color palettes to be easily imported.",
+      "Free: Includes MonkeyTools - an ongoing collection of utilities specifically written to enhance the functionality of the Monkey Suite."
+    ],
+    "related_tags": [
+      "AE脚本",
+      "MG动画脚本",
+      "Motion Monkey"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

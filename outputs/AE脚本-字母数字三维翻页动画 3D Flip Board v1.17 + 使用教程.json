@@ -1,0 +1,64 @@
+{
+  "title": "AE脚本-字母数字三维翻页动画 3D Flip Board v1.17 + 使用教程",
+  "slug": "aejiao-ben-zi-mu-shu-zi-san-wei-fan-ye-dong-hua-3d-flip-board-v1-17-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/14 23:21",
+  "source_url": "https://www.lookae.com/flip-board-117/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可在 After Effects 中快速创建三维翻页动画，支持文字、字幕和图像的翻页效果，适用于制作计分、计时、倒计时、时间显示等动态视觉效果。提供全自动三维翻页功能，包含四种翻转模式：双向、前进、后退与翻转。仅需一键即可生成动画效果。适用于 Windows 和 Mac 系统下的 AE CS6 至 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/3D-Flip-Board.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50007662423.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-365509526"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1LKqNuXixyW96wpAIIWRbrg"
+    },
+    {
+      "name": "使用视频教程下载",
+      "url": "https://lookae.ctfile.com/fs/680462-201724557"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝 .jsxbin 脚本文件到 AE 安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在 AE 软件中通过 Window（窗口菜单）找到脚本",
+    "official_website": "http://aescripts.com/3d-flip-board/",
+    "update_notes": [
+      "更新的许可框架",
+      "投射阴影已打开",
+      "更友好的标记分析器"
+    ],
+    "sponsors": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

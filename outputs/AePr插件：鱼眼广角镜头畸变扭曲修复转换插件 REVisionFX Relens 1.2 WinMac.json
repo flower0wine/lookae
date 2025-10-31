@@ -1,0 +1,47 @@
+{
+  "title": "Ae/Pr插件：鱼眼广角镜头畸变扭曲修复转换插件 REVisionFX Relens 1.2 Win/Mac",
+  "slug": "ae-prcha-jian-yu-yan-yan-jiao-jing-tou-ji-bian-niu-qu-xiu-fu-zhuan-huan-cha-jian-revisionfx-relens-1-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/02/13 10:33",
+  "source_url": "https://www.lookae.com/relens12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "RE-Lens 是 REVisionFX 公司推出的一款用于修复和转换鱼眼广角镜头畸变扭曲的插件。适用于 Adobe After Effects 和 Premiere Pro，能够有效校正镜头畸变并提供多种投影转换功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/RE-Lens.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 – CC 2017, Adobe Premiere Pro CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 系统版下载",
+      "url": "https://lookae.ctfile.com/fs/HTu171129198"
+    },
+    {
+      "name": "Mac 苹果版下载",
+      "url": "https://lookae.ctfile.com/fs/sI1171128634"
+    }
+  ],
+  "other": {
+    "serial_number": {
+      "name": "Team AMPED",
+      "sn": "CvTXSt82rqHbqxwF"
+    },
+    "official_website": "http://revisionfx.com/products/relens/after-effects/",
+    "version": "1.2",
+    "update_notes": [
+      "Added new spherical stabilizer feature to the following plug-ins: To LatLong, From LatLong and Superfish. For use in After Effects only.",
+      "To LatLong: fixes bug that Longitude slider was disabled when converting Mirror Ball and Dome.",
+      "From LatLong: fixes bug where Adaptive Flat display mode did not work properly",
+      "From LatLong: Rotation orientation sign changed to match other plugins",
+      "RE:Lens Superfish: removes the Orientation Preset Menu Option",
+      "RE:Lens Superfish: if you use the stabilizer on an old project, must reset the orientation values you may have previously set.",
+      "Fixes a crashing bug. (Developer note: in premult/straight conversions)"
+    ]
+  }
+}

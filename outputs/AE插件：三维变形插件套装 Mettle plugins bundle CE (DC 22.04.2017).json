@@ -1,0 +1,36 @@
+{
+  "title": "AE插件：三维变形插件套装 Mettle plugins bundle CE (DC 22.04.2017)",
+  "slug": "aecha-jian-san-wei-bian-xing-cha-jian-tao-zhuang-mettle-plugins-bundle-ce-dc-22-04-2017",
+  "author": "大众脸",
+  "post_date": "2017-04-24",
+  "source_url": "https://www.lookae.com/mettle170422/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle Bundle 是 Mettle 公司出品的一套精良的 After Effects 三维变形与 VR 全景插件套装，包含 FreeForm、FreeForm Pro、ShapeShifter、SkyBox Studio 及多款 SkyBox 360/VR 工具，可一键安装，无功能限制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Mettle-Pluginsb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6, CC, CC 2014, CC 2015, CC 2015.3, CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Mettle plugins bundle CE 一键安装版",
+      "url": "https://lookae.ctfile.com/fs/680462-199582950"
+    }
+  ],
+  "other": {
+    "bundle_date": "22.04.2017",
+    "included_plugins": [
+      "FreeForm v2.18",
+      "FreeForm Pro v1.88",
+      "ShapeShifter v1.88",
+      "SkyBox Studio v2.61",
+      "SkyBox 360 Post FX v1.71",
+      "SkyBox 360/VR Post FX 2 v1.71"
+    ],
+    "official_site": "http://www.mettle.com/"
+  }
+}

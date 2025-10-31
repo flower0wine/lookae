@@ -1,0 +1,46 @@
+{
+  "title": "AE/PR/OFX/达芬奇视频延时闪屏去闪烁插件 Flicker Free 2.1.6 Mac支持苹果芯片",
+  "slug": "ae-pr-ofx-da-fen-qi-shi-pin-yan-shi-shan-ping-qu-shan-shuo-cha-jian-flicker-free-2-1-6-maczhi-chi-ping-guo-xin-pian",
+  "author": "大众脸",
+  "post_date": "2022/11/03 13:52",
+  "source_url": "https://www.lookae.com/flicker-free-m1/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Nuke插件",
+    "PR插件",
+    "去闪插件",
+    "达芬奇插件"
+  ],
+  "content": "由于我们肉眼和摄像机捕捉的光线频率不一样，有时候用摄像机拍摄的视频会出现光闪烁的现象。Flicker Free 插件能够有效处理光闪烁、延时拍摄闪烁、动态闪烁等问题，特别适用于延时摄影或高帧速率慢动作视频。该插件还可去除 LED 灯、电脑显示器或电气干扰导致的闪烁，通过分析画面颜色和亮度，计算并生成更平滑的视频图像。支持 4K 分辨率，并可利用 GPU 加速渲染。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Flicker-Free-CH.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345710686396.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023; PR CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023",
+  "supported_os": "Mac（支持 M1, M2, Intel 芯片，不支持 Windows）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-714810397-932131?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1kv2iGeLSYs5es9twBXP2Pg?pwd=sdb2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/eU82LMtdbas"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "sdb2"
+    },
+    "compatibility_notes": "支持 Davinci Resolve、Nuke 或其他 OFX 程序"
+  }
+}

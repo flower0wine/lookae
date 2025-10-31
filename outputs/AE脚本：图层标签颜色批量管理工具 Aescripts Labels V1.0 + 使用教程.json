@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本：图层标签颜色批量管理工具 Aescripts Labels V1.0 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-biao-qian-yan-se-pi-liang-guan-li-gong-ju-aescripts-labels-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/08/25 10:27",
+  "source_url": "https://www.lookae.com/labels/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "在 After Effects 中，当合成中的图层数量增多时，快速查找特定图层会变得繁琐。为便于区分，用户通常会给图层添加颜色标签。Aescripts Labels 脚本允许用户自定义颜色组，从而高效地管理和批量设置图层标签颜色，并支持一键选择特定标签组的图层，显著提升多图层项目的工作效率。该工具适用于合成面板和项目面板中的项目。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Label.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：图层标签颜色批量管理工具 Aescripts Labels V1.0 + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/rWB155639263"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/labels/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "related_links": [
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "https://www.lookae.com/sponsor/"
+    ]
+  }
+}

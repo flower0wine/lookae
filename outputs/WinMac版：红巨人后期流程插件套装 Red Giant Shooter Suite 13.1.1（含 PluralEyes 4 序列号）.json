@@ -1,0 +1,57 @@
+{
+  "title": "Win/Mac版：红巨人后期流程插件套装 Red Giant Shooter Suite 13.1.1（含 PluralEyes 4 序列号）",
+  "slug": "win-macban-hong-ju-ren-hou-qi-liu-cheng-cha-jian-tao-zhuang-red-giant-shooter-suite-13-1-1-han-pluraleyes-4-xu-lie-hao",
+  "author": "大众脸",
+  "post_date": "2016/10/08 11:06",
+  "source_url": "https://www.lookae.com/shooter1311/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Shooter Suite 13.1.1 是专为影视创作者和编辑人员设计的后期流程插件套装，支持从摄像机和音频设备采集的媒体素材进行高效处理。该套装包含四款核心工具，确保视频与音频在拍摄后能安全、准确地同步进入剪辑时间线。适用于 Adobe After Effects、Premiere Pro、Final Cut Pro X、Avid Media Composer 等主流剪辑软件，显著提升后期工作效率。最新版本修复了 PluralEyes 4 无响应的问题，并优化了多平台兼容性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/shooter13.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015.3; Adobe Premiere Pro CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015.3; Final Cut Pro 6, 7, Final Cut Pro X; Avid Media Composer 7 or later",
+  "supported_os": "Windows, Mac OS X",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://pan.baidu.com/s/1nvg079Z"
+    },
+    {
+      "name": "Mac OSX 苹果版下载",
+      "url": "https://pan.baidu.com/s/1sljGmO9"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "Plural Eyes v4.1.1",
+        "description": "音视频自动同步插件（主要更新）"
+      },
+      {
+        "name": "Offload v1.0.2",
+        "description": "素材备份工具"
+      },
+      {
+        "name": "Instant 4K v1.5.2",
+        "description": "高清插件（支持4K）"
+      },
+      {
+        "name": "Frames v1.1.5",
+        "description": "转场插件（用于素材上下场，非视频间切换转场）"
+      }
+    ],
+    "update_notes": "修复 Plural Eyes v4 无响应问题",
+    "official_website": "http://www.redgiant.com/products/shooter-suite/",
+    "release_date": "2016/10/08",
+    "author_notes": "一套非常不错的插件套装，能节约你后期工作流程，解决你多种后期方案。"
+  }
+}

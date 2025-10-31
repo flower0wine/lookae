@@ -1,0 +1,91 @@
+{
+  "title": "中文汉化AE/达芬奇插件-物体表面跟踪特效合成高级工具 Lockdown v2.4.0 Win/Mac",
+  "slug": "zhong-wen-yi-hua-ae-da-fen-qi-cha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v2-4-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/07/13 10:57",
+  "source_url": "https://www.lookae.com/lockdown-24/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Lockdown",
+    "中文汉化",
+    "达芬奇插件"
+  ],
+  "content": "Lockdown 是一款革命性的插件，能够直接跟踪运动物体上扭曲不平的表面，非常适合用于美容修饰、物体移除清理以及其他复杂的跟踪合成特效制作。该插件现已支持 DaVinci Resolve，拥有独立操作界面，使跟踪过程比以往在 After Effects 和达芬奇中更加流畅。插件支持使用蒙版或 Alpha 通道对跟踪区域进行修剪，并持续更新新功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/318386610195.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020, 2021 和 Davinci Resolve 17",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件下载",
+      "url": "https://089u.com/f/680462-502067591-ed2c6c"
+    },
+    {
+      "name": "百度网盘 - 插件下载",
+      "url": "https://pan.baidu.com/s/1-5TGnKr0elHN9L9KKO5gsw"
+    },
+    {
+      "name": "城通网盘 - V2.4 教程",
+      "url": "https://089u.com/f/680462-502067783-dcc3cb"
+    },
+    {
+      "name": "百度网盘 - V2.4 教程",
+      "url": "https://pan.baidu.com/s/141jyi3Nrba6Z6uUeccofpQ"
+    },
+    {
+      "name": "城通网盘 - V2 教程",
+      "url": "https://089u.com/f/680462-495135746-bf69b7"
+    },
+    {
+      "name": "百度网盘 - V2 教程",
+      "url": "https://pan.baidu.com/s/1yJ0tcRCvlspPF97iOHvM_g"
+    },
+    {
+      "name": "达芬奇版本更新修复",
+      "url": "https://www.lookae.com/lockdown-ofx/"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": {
+        "plugin": "rmc4",
+        "v24_tutorial": "02kh",
+        "v2_tutorial": "oiho"
+      }
+    },
+    "notes": "Win 版本为中文英文双语，Mac 仅英文版",
+    "update_notes": {
+      "version": "v2.4.0",
+      "added": [
+        "显示基本关键帧、调整关键帧、可跟踪关键帧和轨道优化状态的时间线",
+        "将关键帧点设置为可跟踪或不可跟踪的工具集，便于跟踪重叠对象",
+        "挂锁工具，用于锁定已完成的工作点"
+      ],
+      "changed": [
+        "更改跟踪算法会重置所有跟踪的“无更改”状态",
+        "优化基于两点的插值",
+        "三角形插值仅使用网格几何三角形作为引导点",
+        "跟踪模式（正常、定向、调整细化）受轨道“可跟踪/不可跟踪”区域的影响",
+        "更新了用户界面图标",
+        "当未选择任何点时，点按钮变灰以提高清晰度",
+        "日志自动创建"
+      ],
+      "fixed": [
+        "调整错误地改变了轨道状态，影响细化过程",
+        "插值过程中平均顶点计算溢出",
+        "合并过程中插值间隙的时间比较问题",
+        "引导点过滤：防止估计点成为引导点",
+        "基于丢失的未来帧丢弃符合条件的引导点的问题（取决于插值类型）",
+        "向后传递中丢失所有点时的跟踪取消问题",
+        "细化后将常规关键帧渲染为调整时的可视化问题",
+        "定向跟踪后调整点行为异常的问题"
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-导出json格式的Web动画工具 Bodymovin v5.5.4+使用教程",
+  "slug": "aejiao-ben-dao-chu-jsonge-shi-de-webdong-hua-gong-ju-bodymovin-v5-5-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/29 22:33",
+  "source_url": "https://www.lookae.com/bodymovin-554/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "这是一款用于导出Web动画的After Effects扩展，动画导出为.json文件，使用随插件附带的bodymovin.js播放器，可在svg、canvas和html上在浏览器中渲染动画，也可通过Lottie在iOS和Android上本地播放。V5.5.4更新内容包括修复对TypeScript定义的更新，特性为支持新表达式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Bodymovin.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-376188371"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1PCQX-G8cY0D2oA5aucdRpg",
+      "extra": "提取码：p23m"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE插件",
+        "链接": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "脚本简介英文": "An After Effects extension to export animations for web. Animations are exported as .json files that use the bodymovin.js player that comes along with the plugin. You can render animations in the browser on svg, canvas and html. It supports a subset of After Effects features. Animations can also be played natively on iOS and Android through Lottie",
+    "脚本官网": "https://aescripts.com/bodymovin/"
+  }
+}

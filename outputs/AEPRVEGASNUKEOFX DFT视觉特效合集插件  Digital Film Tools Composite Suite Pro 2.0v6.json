@@ -1,0 +1,38 @@
+{
+  "title": "AE/PR/VEGAS/NUKE/OFX DFT视觉特效合集插件 Digital Film Tools Composite Suite Pro 2.0v6",
+  "slug": "ae-pr-vegas-nuke-ofx-dftshi-jue-te-xiao-he-ji-cha-jian-digital-film-tools-composite-suite-pro-2-0v6",
+  "author": "大众脸",
+  "post_date": "2016/01/04 11:53",
+  "source_url": "https://www.lookae.com/dftcsp/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "Digital Film Tools Composite Suite Pro 2.0v6 是一套很好的专业视觉效果插件，包括特效合成、色彩校正、模糊、遮罩、磨砂处理，镜头畸变，光照效果，火灾，烟雾，爆炸和边缘融合等功能。这是一套经过好莱坞电影特效设施日常制作考验的专业工具集合。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/01/Composite-Suite-Pro.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5 - CC 2015 或者更高",
+  "supported_os": "Windows Vista 64 bit, Windows 7 64 Bit, Windows 8 64 Bit",
+  "download_links": [
+    {
+      "name": "DFT视觉特效合集插件 Digital Film Tools Composite Suite Pro 2.0v6",
+      "url": "http://lookae.ctfile.com/file/139993091"
+    }
+  ],
+  "other": {
+    "installation_note": "插件为整合一键安装版，安装即可使用",
+    "credits": "THANKS FOR Team V.R",
+    "supported_software": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro",
+      "Sony Vegas v13 and up",
+      "The Foundry's Nuke v8 and up"
+    ]
+  }
+}

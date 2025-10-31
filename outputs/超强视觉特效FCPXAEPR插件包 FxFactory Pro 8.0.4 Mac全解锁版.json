@@ -1,0 +1,60 @@
+{
+  "title": "超强视觉特效FCPX/AE/PR插件包 FxFactory Pro 8.0.4 Mac全解锁版",
+  "slug": "chao-qiang-shi-jue-te-xiao-fcpx-ae-prcha-jian-bao-fxfactory-pro-8-0-4-macquan-jie-suo-ban",
+  "author": "大众脸",
+  "post_date": "2022/10/31 09:57",
+  "source_url": "https://www.lookae.com/fxfactory-804/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "FCPX插件",
+    "FxFactory",
+    "PR插件"
+  ],
+  "content": "FxFactory Pro 8.0.4 是专为 Mac 平台设计的视觉特效、音频处理与视频编辑工具集合，支持 Final Cut Pro、Adobe Premiere Pro、After Effects 等主流视频软件。本版本提升对 Final Cut Pro 10.6.5、Premiere Pro 2023 及 After Effects 2023 的兼容性。所有插件可在线下载后自动注册激活，安装简单。涵盖数百个插件与上万种预设，功能包括片头、LOGO、炫光、粒子、胶片、调色、转场、文字、抠像、光效、风格化、数据统计、高科技全息、破碎、分屏、卡通人物等丰富特效。支持 OpenCL 与 Metal GPU 加速，兼容 M1/M2 及 Intel 芯片 Mac，系统要求 macOS 11.5.1 至 13.x。适用于多种专业视频剪辑和后期制作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/FxFactory-8.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/384363802933.mp4"
+  ],
+  "supported_versions": "FxFactory 8.0.4 (7286)",
+  "supported_os": "macOS 11.5.1 – 13.x (不支持 Windows)",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-705836482-94c09b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1X2h-1RfkCwd47xC1ELA95g?pwd=vm1i"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Wjqa56mhaXb"
+    }
+  ],
+  "other": {
+    "compatible_apps": [
+      "Final Cut Pro 10.6+",
+      "Motion 5.6+",
+      "Adobe Premiere Pro 2020–2023+",
+      "Adobe After Effects 2020–2023+",
+      "Adobe Audition CC 2018+",
+      "Logic Pro v10.3+",
+      "GarageBand v10.1+",
+      "DaVinci Resolve 12+",
+      "Avid Pro Tools",
+      "Avid Media Composer"
+    ],
+    "features": [
+      "数百个插件，上万种预设",
+      "支持 OpenCL 与 Metal GPU 加速",
+      "自动注册激活（在线下载后）",
+      "支持 M1/M2 及 Intel 芯片",
+      "覆盖片头、调色、转场、粒子、文字、抠像、光效、风格化、分屏、全息、破碎、数据统计等多种特效类型"
+    ],
+    "note": "音频插件仅兼容部分音频软件（如 Audition、Logic Pro、GarageBand、DaVinci Resolve）"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "快速图层父子链接AE脚本 Layer Sitter v1.3 + 视频教程",
+  "slug": "kuai-su-tu-ceng-fu-zi-lian-jie-aejiao-ben-layer-sitter-v1-3-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/03 21:59",
+  "source_url": "https://www.lookae.com/layer-sitter-13/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Layer Sitter",
+    "父子链接"
+  ],
+  "content": "脚本可以在AE软件中快速链接多个图层的父子关系动作，还可以设置链接条件，添加空物体层为主图层等。Layer Sitter makes managing parented layers easy。Quickly parent selected layers using a filterable list, by creating new customized nulls, or using Quick Parents。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/08/Layer-Sitter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2022",
+  "supported_os": "Win/Mac, 支持 Mac OS Catalina",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-576998038-447b6e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1_UJo1kL2P39tzE3kZCZPXw?pwd=6d7a"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TMd6JV7VqGR"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "6d7a"
+    },
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

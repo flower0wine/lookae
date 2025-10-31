@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-关键帧复制粘贴对齐镜像拉伸调节控制 Keystone v2.0.6+使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-fu-zhi-nian-tie-dui-qi-jing-xiang-la-shen-diao-jie-kong-zhi-keystone-v2-0-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-05-12",
+  "source_url": "https://www.lookae.com/keystone-206/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Keystone",
+    "关键帧动画"
+  ],
+  "content": "使用这个脚本可以让多个关键帧对齐、翻转、偏移、拉伸、颜色标签等等！在 After Effects 中操作关键帧和图层可能很乏味…使用Keystone 2所有基本任务（如对齐、拉伸、交错、颜色标签等）只需单击一下即可完成，并分组在一个扩展中！",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/05/keystone-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/461214537365.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1504794884-8635a5?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12m6gQpNo6Pn6k7Ck5afCNw?pwd=h9pq"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/cHoYa27F5GR"
+    }
+  ],
+  "other": {
+    "update_content": "Keystone v2.0.6 更新内容：增加了图层拉伸功能与'链接'选项的兼容性；修复了几个无法与时间重映射关键帧正常工作的功能；各种代码优化",
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "h9pq"
+    }
+  }
+}

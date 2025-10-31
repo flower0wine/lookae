@@ -1,0 +1,68 @@
+{
+  "title": "Win版：Ae/Pr 视觉特效插件包 v10.0.5 BCC",
+  "slug": "winban-ae-pr-shi-jue-te-xiao-cha-jian-bao-v10-0-5-bcc",
+  "author": "大众脸",
+  "post_date": "2017/02/16 11:00",
+  "source_url": "https://www.lookae.com/bcc1005/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "强大的 BCC（Boris Continuum Complete）视觉特效插件包为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持 OpenGL 和双 CPU 加速。BCC 10 拥有超过百种特效效果，包括字幕、3D粒子、老电影、光线、画中画、镜头光晕、烟雾、火等，以及调色、键控/抠像、遮罩、跟踪、发光等风格化工具。支持 Adobe After Effects 和 Premiere Pro CS6 至 CC 2017。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/BCC10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects 和 Premiere Pro CS6 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Win版：Ae/Pr 视觉特效插件包 Boris Continuum Complete v10.0.5 BCC",
+      "url": "https://lookae.ctfile.com/fs/d0p171984014"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "Mac版：Ae/Pr 视觉特效插件包 Boris Continuum Complete v10.0.2 BCC",
+        "url": "https://www.lookae.com/macbcc1002/"
+      },
+      {
+        "title": "AVID 视觉特效插件包 Boris Continuum Complete AVX v10 BCC",
+        "url": "http://page62.400gb.com/file/128904812"
+      }
+    ],
+    "new_features": {
+      "image_restoration_tools": [
+        "BCC Remover 填补缺失的像素，自动填充选取对象",
+        "BCC Dropout Fixer 恢复基于磁带的损坏画面",
+        "BCC Reframe 分辨率转换工具"
+      ],
+      "new_effects": [
+        "BCC Light Leaks 炫光光晕效果",
+        "BCC Video Glitch 信号干扰画面损坏特效",
+        "BCC Beauty Studio 美肤美容插件",
+        "BCC Dropout Fixer 特殊效果插件",
+        "BCC Fast Lens Blur 快速模糊插件",
+        "BCC Reframer 变速插件",
+        "BCC Remover 特殊效果插件",
+        "BCC Title Studio 文字标题效果插件"
+      ],
+      "new_transitions": [
+        "BCC Lens Blur Dissolve 镜头模糊转场",
+        "BCC Cross Glitch 信号干扰画面损坏转场",
+        "BCC Cross Melt 特殊视觉转场",
+        "BCC Lights Leak Dissolve 炫光光晕曝光转场",
+        "BCC Cross Zoom 缩放转场"
+      ]
+    },
+    "update_notes": [
+      "mocha PixelChooser 增强GPU和OpenCL的支持，提升性能",
+      "所有的3D对象的插件或者标题插件增强对多GPU的支持",
+      "新的特效浏览窗口/高级UI界面模式按钮，不再需要返回到主界面切换视图",
+      "修复大量的错误bug"
+    ],
+    "installation_note": "内附安装方法说明"
+  }
+}

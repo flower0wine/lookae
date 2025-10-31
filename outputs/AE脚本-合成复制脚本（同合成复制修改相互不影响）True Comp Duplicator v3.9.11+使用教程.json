@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-合成复制脚本（同合成复制修改相互不影响）True Comp Duplicator v3.9.11+使用教程",
+  "slug": "aejiao-ben-he-cheng-fu-zhi-jiao-ben-tong-he-cheng-fu-zhi-xiu-gai-xiang-hu-bu-ying-xiang-true-comp-duplicator-v3-9-11-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/16 18:14",
+  "source_url": "https://www.lookae.com/duplicator-3911/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "AE脚本True Comp Duplicator用于复制合成层次结构，包括子合成。当同一合成被多次使用时，该合成只被复制一次，其余引用指向第一个副本。如果在项目面板中合成以特殊文件夹层次结构排列，该文件夹层次结构将被保留或复制（根据用户偏好设置）。该脚本解决了AE中原有复制合成时修改一个合成会影响其他相同合成的问题，使复制后的合成可以独立修改效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/True-Comp-Duplicator.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS 3 – CC 2019",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-366048836"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/19vawKFPKncIJ3JMb5U6SCg"
+    }
+  ],
+  "other": {
+    "extraction_code": "gk74",
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "打开AE软件window（窗口）菜单的下拉菜单中即可看到脚本",
+    "update_content": "V3.9.11新版更新：加速更新表达式；即使未选中递增，也会修正名称递增的错误；由于重复不起作用，处理首选项的错误修复",
+    "official_website": "http://aescripts.com/true-comp-duplicator/"
+  }
+}

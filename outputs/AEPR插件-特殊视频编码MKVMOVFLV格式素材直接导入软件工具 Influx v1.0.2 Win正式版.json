@@ -1,0 +1,101 @@
+{
+  "title": "AE/PR插件-特殊视频编码MKV/MOV/FLV格式素材直接导入软件工具 Influx v1.0.2 Win正式版",
+  "slug": "ae-prcha-jian-te-shu-shi-pin-bian-ma-mkv-mov-flvge-shi-su-cai-zhi-jie-dao-ru-ruan-jian-gong-ju-influx-v1-0-2-winzheng-shi-ban",
+  "author": "大众脸",
+  "post_date": "2021/11/01 13:26",
+  "source_url": "https://www.lookae.com/influx-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Influx",
+    "PR插件",
+    "导入插件"
+  ],
+  "content": "Influx 是一款专为 Adobe After Effects 和 Premiere Pro 设计的插件，允许用户直接导入多种特殊视频编码格式（如 MKV、MOV、FLV 等）的素材，无需借助外部转码工具。该插件显著节省了处理时间、磁盘空间并简化了工作流程。用户可在 Premiere Pro 中直接编辑素材，在 After Effects 中处理项目，并通过 Adobe Media Encoder 导出或转码文件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/Influx-102.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334057662148.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019; Premiere: 2022, 2021, 2020, CC 2019; Media Encoder: 2022, 2021, 2020, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-519319555-40ba23"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JC4kRYLkZVyH_vJ8Hcwt8w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/EodJgFdYu2m"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "i6hk",
+    "supported_formats": [
+      ".MKV",
+      ".WebM",
+      ".FLV",
+      ".OGV",
+      ".BIK",
+      ".AVI",
+      ".MOV",
+      ".WMV",
+      ".VOB",
+      ".M4V",
+      ".TS",
+      ".MPG",
+      ".MP4",
+      ".WAV",
+      ".AAC",
+      ".MXF",
+      ".QT",
+      ".MP3",
+      ".GIF"
+    ],
+    "supported_video_codecs": [
+      "FFV1",
+      "VP8",
+      "VP9",
+      "Canopus HQ",
+      "H.264",
+      "H.265",
+      "Bink V1",
+      "ProRes",
+      "GoPro",
+      "Vidvox Hap",
+      "AV1"
+    ],
+    "supported_audio_codecs": [
+      "FLAC",
+      "OPUS",
+      "OGG Vorbis",
+      "MKA",
+      "WMA"
+    ],
+    "supported_image_formats": [
+      "WebP"
+    ],
+    "how_to_access_settings": {
+      "Premiere Pro": "右键单击项目项并单击“源设置…”",
+      "Media Encoder": "右键单击渲染队列项并单击“源设置…”",
+      "After Effects": "右键单击项目项 ->“解释素材”->“主要…”并单击底部的“更多选项…”按钮",
+      "Standalone": "直接从 Influx.exe 应用程序访问"
+    },
+    "changelog": {
+      "v1.0.2": [
+        "改进的 After Effects 音频解码",
+        "试用期结束后显示 500 帧的试用图像（而非绿松石图像）"
+      ],
+      "v1.0.1": [
+        "各种错误修复",
+        "新增多种容器和编解码器支持"
+      ]
+    }
+  }
+}

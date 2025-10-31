@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-关键帧缓入缓出动画工具 Ease and Wizz v2.6.0 + 使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-dong-hua-gong-ju-ease-and-wizz-v2-6-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/04/01 15:49",
+  "source_url": "https://www.lookae.com/ease-wizz-26/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Ease and Wizz 是一款适用于 After Effects 的脚本工具，提供多种关键帧插值方式，可实现更丰富的缓入缓出动画效果。支持所有类型的动画属性，使用界面友好，可自由停靠，操作简便。该工具特别适合需要精细控制动画节奏的创作者。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/Ease-and-Wizz-26.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/303517908631.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-487853871-6c5581"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1FP0cvG-pWHojp9XlOkhu1g"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "[新] Ease and Wizz 现在具有三次缓动类型，从一开始就不存在。不知道为什么。感谢J.B.指出这一点。",
+      "[新] 现在可以在“键”下选择“仅结束”，这将仅在最后两个关键帧之间应用缓动；所有其他键将使用其原始缓动值。"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "1z8p"
+    }
+  }
+}

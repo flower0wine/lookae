@@ -1,0 +1,54 @@
+{
+  "title": "红巨人宇宙套装特效插件Red Giant Universe v1.4.0（支持AE/PR/OFX/达芬奇）",
+  "slug": "hong-ju-ren-yu-zhou-tao-zhuang-te-xiao-cha-jian-red-giant-universe-v1-4-0-zhi-chi-ae-pr-ofx-da-fen-qi",
+  "author": "大众脸",
+  "post_date": "2015-03-24T11:47:00Z",
+  "source_url": "https://www.lookae.com/universe14/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant Universe 是一个集成了大量特效、转场、调色、光效和粒子预设的插件库，包含50个免费插件，支持GPU加速，适用于Windows和Mac系统。新版本v1.4.0新增了对HitFilm 3 Pro的支持，并更新了89套特效与转场效果。插件兼容Adobe After Effects、Premiere Pro、FCP X、Motion、Black Magic Resolve、Sony Vegas、Nuke等主流视频制作软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Universe.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5.5 及以上, Adobe Premiere Pro CS6 及以上, Black Magic Resolve v11 及以上, Sony Vegas v13 及以上, The Foundry’s Nuke v8 及以上, HitFilm 3 Pro",
+  "supported_os": "Windows 7 64-bit, Windows 8 64-bit",
+  "download_links": [
+    {
+      "name": "红巨人宇宙套装特效插件Red Giant Universe v1.4.0",
+      "url": "https://www.400gb.com/file/88686250"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Universe Noise: Luminance Noise",
+      "Universe Blur: Compound Blur (Labs)",
+      "Universe Utilities: Color Gamma Conversion",
+      "Universe Glow: Glimmer",
+      "Universe Stylize: Carousel",
+      "Universe Stylize: Holomatrix EZ",
+      "Universe CrumplePop: SplitScreen Blocks",
+      "Universe CrumplePop: SplitScreen Custom Block",
+      "Universe ToonIt: ToonIt Sketch",
+      "ToonIt Paint: Add Halftone (P)",
+      "ToonIt Outlines: Added Chalk presets (P)",
+      "Universe Holomatrix: Added glitching, distortion, flicker and more (P)"
+    ],
+    "update_notes": [
+      "更新免费和付费插件",
+      "支持 Hitfilm 3 Pro 软件",
+      "插件库已更新89套特效和转场效果插件",
+      "ToonIt Update – new Presets and tools added to the ToonIt tools"
+    ],
+    "official_website": "http://www.redgiant.com/store/universe/",
+    "installer_info": "插件由Team VR优化制作，一键安装，安装即可使用",
+    "promotion_video": "【插件宣传片】",
+    "introduction": "【插件介绍】"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "AE/PR插件-红巨人视觉特效合成插件包Red Giant VFX Suite v1.0 Win/Mac含注册码+使用教程",
+  "slug": "ae-prcha-jian-hong-ju-ren-shi-jue-te-xiao-he-cheng-cha-jian-bao-red-giant-vfx-suite-v1-0-win-machan-zhu-ce-ma-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/07/03 10:53",
+  "source_url": "https://www.lookae.com/vfx-suite/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "红巨人公司推出一套全新的视频特效合成插件，VFX Suite 是 Effects Suite 和 Keying Suite 插件包的合体，集成了光工厂、辉光、抠像、跟踪等多个实用特效功能。该插件包适用于 Adobe After Effects 及 Premiere Pro，支持 Windows 与 Mac 系统，建议使用 Win10 环境。插件包含多个专业级工具，如 Chromatic Displacement（色差置换）、Knoll Light Factory（光工厂镜头光晕）、King Pin Tracker（平面跟踪）等，广泛应用于影视后期特效制作中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/VFX-Suite.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2018 – CC 2019\nAdobe Premiere Pro CC 2018 – CC 2019（部分插件支持）",
+  "supported_os": "Win/Mac（建议 Win10）",
+  "download_links": [
+    {
+      "name": "Win插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-385609919"
+    },
+    {
+      "name": "Win插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1DuwdRNEN4WfSP0j--OsYEQ"
+    },
+    {
+      "name": "Mac插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-385609683"
+    },
+    {
+      "name": "Mac插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1Vhr1j9q4liUCt-8oqckcZw"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-385102287"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1gMJuNxgWJBbalScTiHiUFQ"
+    }
+  ],
+  "other": {
+    "extracted_codes": {
+      "Chromatic Displacement": "VXBF1575880378218299",
+      "King Pin Tracker": "VKPF1505910585082579",
+      "Knoll Light Factory": "KLPF3989222681789065",
+      "Optical Glow": "VOGF1595830396520891",
+      "Primatte Keyer": "VP6F1585909270728158",
+      "Reflection": "VXXF1545921787095659",
+      "Shadow": "VSHF1525831092422292",
+      "Spot Clone Tracker": "VXAF1535866988923613",
+      "Supercomp": "VXCF1575894268749950"
+    },
+    "download_extract_codes": {
+      "Win": "vto2",
+      "Mac": "l45t",
+      "Tutorial": "v9u7"
+    },
+    "installation_instructions": "安装插件程序，结束后关闭；打开 AE 软件，找到插件，点击 Licensing… 输入对应插件序列号，点击 Register 完成注册。",
+    "plugin_list": [
+      "Chromatic Displacement",
+      "Knoll Light Factory",
+      "King Pin Tracker",
+      "Optical Glow",
+      "Primatte Keyer",
+      "Shadow",
+      "Reflection",
+      "Spot Clone Tracker",
+      "Supercomp"
+    ]
+  }
+}

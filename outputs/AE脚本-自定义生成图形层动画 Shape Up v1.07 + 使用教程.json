@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本-自定义生成图形层动画 Shape Up v1.07 + 使用教程",
+  "slug": "aejiao-ben-zi-ding-yi-sheng-cheng-tu-xing-ceng-dong-hua-shape-up-v1-07-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/10/19 17:46",
+  "source_url": "https://www.lookae.com/shape-up-107/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "ShapeUp 是一款用于在创建形状图层并添加到合成之前预先定义形状的工具。它能够生成“干净”的形状，包括 After Effects 原生的参数化形状或使用自定义路径的形状（不使用合并路径）。部分形状可自动添加圆角和锯齿等矢量滤镜。脚本不会应用表达式或动画，旨在为用户提供一个干净的起点。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Shape-Up-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-467560811"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1u7v0JcPfUFyh41WhKto7GQ"
+    }
+  ],
+  "other": {
+    "extract_code": "xl75",
+    "official_website": "https://aescripts.com/shape-up/",
+    "update_notes": "v1.07 升级内容：兼容 macOS Catalina 系统"
+  }
+}

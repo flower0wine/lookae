@@ -1,0 +1,63 @@
+{
+  "title": "AE脚本-映射标记调整工具 Marker Remap v1.6+中文字幕视频教程",
+  "slug": "aejiao-ben-ying-she-biao-ji-diao-zheng-gong-ju-marker-remap-v1-6-zhong-wen-zi-mu-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/11/07 09:31",
+  "source_url": "https://www.lookae.com/marker-remap-16/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Marker Remap",
+    "标记映射"
+  ],
+  "content": "标记重新映射 Marker Remap 脚本允许您在两个简单的步骤中使用分割层标记重新计时合成。首先，添加时间线标记，围绕要重新计时的组合中的关键操作进行分割。一旦被放置到父组件中并选中，只需单击 ENABLE RETIMING 即可完成操作。脚本支持调整、删除、重新排列或重新计时相应命名的层标记等功能。该工具还包含标记管理器，便于高效处理标记。此外，v1.6 版本新增多项快捷操作功能，并提供辅助脚本以增强工作流。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Marker-Remap.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/211554343831.mp4?_=1"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1422197110-45867e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1BqFbmIWASZSDXXXdez6Whg?pwd=xqt8"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/wjjbzEHfkTy"
+    },
+    {
+      "name": "中文字幕教程",
+      "url": "https://www.lookae.com/marker-remap-zh/"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "v1_6_updates": {
+      "new_modifier_features": {
+        "delete_marker_button": [
+          "+X：删除当前时间之外的标记",
+          "+SHIFT+ALT：删除工作区之外的标记"
+        ],
+        "marker_panel_listbox": [
+          "+SHIFT：用列表框中选定的标记替换当前标记",
+          "+ALT：将标记设置为反向"
+        ],
+        "marker_duration_button_F": [
+          "+ALT：将当前标记重置为原始持续时间"
+        ]
+      },
+      "helper_script": {
+        "name": "AddMarker（适合最后一个）.jsxbin",
+        "feature": "在标记名称末尾添加左括号标志将把入点放置在 comp 工作区的入点处"
+      },
+      "backward_compatibility": "v1.6 向后兼容 v1.3 表达式"
+    }
+  }
+}

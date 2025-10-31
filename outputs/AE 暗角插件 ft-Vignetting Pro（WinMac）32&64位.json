@@ -1,0 +1,79 @@
+{
+  "title": "AE 暗角插件 ft-Vignetting Pro（Win/Mac）32&64位",
+  "slug": "ae-an-jiao-cha-jian-ft-vignetting-pro-win-mac-32-64wei",
+  "author": "大众脸",
+  "post_date": "2012-12-10T11:39:00Z",
+  "source_url": "https://www.lookae.com/ft-vignetting/",
+  "category": "aechajian",
+  "tags": [
+    "32-64位",
+    "AE插件",
+    "Mac&Win"
+  ],
+  "content": "ft-Vignetting Pro 是由 aescripts 网站推出的 After Effects 暗角插件，支持 Mac 与 Windows 平台，适用于 32 位和 64 位版本的 After Effects。该插件可快速为画面添加具有镜头感的暗角效果，支持多种形状（圆形、椭圆、方形、矩形）、羽化模式（线性、平滑、超平滑）、位置调节、颜色自定义、噪点添加及透明度控制。此外，还提供 Photoshop 版本的暗角插件。插件界面直观，适合用于增强画面真实感和视觉层次。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/12/Ft-Vignetting.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 32/64位",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "AE 暗角插件 ft-Vignetting Pro（Win_Mac）32&64位",
+      "url": "http://www.ctdisk.com/file/13188790"
+    }
+  ],
+  "other": {
+    "related_plugins": [
+      {
+        "name": "Separate RGB",
+        "description": "可在 RGB 通道中独立移动、旋转、缩放、模糊、融合、褪色、扭曲。",
+        "platforms": [
+          "After Effects",
+          "Premiere Pro"
+        ]
+      },
+      {
+        "name": "BadTV",
+        "description": "用于创建逼真的电视失真效果。",
+        "platforms": [
+          "After Effects",
+          "Premiere Pro"
+        ]
+      },
+      {
+        "name": "TvPixel",
+        "description": "将图像像素化，模拟真实电视/液晶屏像素效果。",
+        "platforms": [
+          "After Effects",
+          "Premiere Pro"
+        ]
+      },
+      {
+        "name": "Dot Pixel",
+        "description": "将图像像素化为圆形或环状结构。",
+        "platforms": [
+          "After Effects",
+          "Premiere Pro"
+        ]
+      },
+      {
+        "name": "Data Glitch",
+        "description": "创建真实的数字图像故障效果。",
+        "platforms": [
+          "After Effects",
+          "Premiere Pro"
+        ]
+      },
+      {
+        "name": "Plexus",
+        "description": "新一代 3D 粒子系统插件，功能强大，具备高品质渲染引擎。",
+        "platforms": [
+          "After Effects"
+        ]
+      }
+    ],
+    "sponsor_link": "https://me.alipay.com/lookae",
+    "note": "大脸一直致力于免费资源分享，欢迎自愿赞助以支持持续发展。"
+  }
+}

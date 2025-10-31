@@ -1,0 +1,34 @@
+{
+  "title": "中文汉化AE插件/PR插件-人工智能人脸自动识别马赛克模糊跟踪合成特效 Blace – AI Face Detection v1.2.0 Win版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-prcha-jian-ren-gong-zhi-neng-ren-lian-zi-dong-shi-bie-ma-sai-ke-mo-hu-gen-zong-he-cheng-te-xiao-blace-ai-face-detection-v1-2-0-winban",
+  "author": "大众脸",
+  "post_date": "2020/11/20 23:19",
+  "source_url": "https://www.lookae.com/blace-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "大众脸汉化"
+  ],
+  "content": "适用于After Effects和Premiere Pro的面部检测和基于人工智能的马赛克模糊插件。Face detection and blurring artificial Intelligence based plugin for After Effects and Premiere Pro。\n\n插件特征：\n-易于使用且基于AI的检测\n-控制检测区域并排除检测\n-包括几种款式\n-自定义检测尺寸\n-Premiere Pro支持：在具有相同功能集和性能的Premiere Pro上运行（仅限制遮罩工作流）\n-GPU加速：开普勒架构和更新版本的Nvidia卡可用于提高检测速度\n-全面的8/16/32位支持\n-使用检测来控制其他效果（例如自定义模糊）\n\nv1.2更新内容：\n-大大提高了cpu模式的速度和准确性->因此不再保留gpu版本\n-添加了使用自定义图层作为面罩的选项\n-修复了多个包含面罩的错误\n-注意：此更新破坏了与旧版本的兼容性，安装程序将覆盖旧版本\n\n免责声明：\n基于AI的解决方案可以胜过手动方法，但也会产生不可预测的结果。该检测框架经过了广泛的测试，但在某些情况下可能会失败，例如镜头中的人脸遗失或错误地检测到外观相似的物体。购买前请先测试该插件，以确定其是否适用于您的用例。特别是如果使用Blace进行身份保护，则必须验证其检测结果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/Blace-AI-Face-Detection.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020、CC 2019；Premiere 2020、2019及更高版本",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-471998844"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1P8CTZW9c8ifczGLX0ha_ow"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_extract_code": "evj8"
+  }
+}

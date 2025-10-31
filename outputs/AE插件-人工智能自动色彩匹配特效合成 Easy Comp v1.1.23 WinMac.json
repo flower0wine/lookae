@@ -1,0 +1,45 @@
+{
+  "title": "AE插件-人工智能自动色彩匹配特效合成 Easy Comp v1.1.23 Win/Mac",
+  "slug": "aecha-jian-ren-gong-zhi-neng-zi-dong-se-cai-pi-pei-te-xiao-he-cheng-easy-comp-v1-1-23-win-mac",
+  "author": "大众脸",
+  "post_date": "2025/05/23 09:06",
+  "source_url": "https://www.lookae.com/easy-comp-1123/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Easy Comp",
+    "色彩匹配"
+  ],
+  "content": "使用 Easy Comp 插件可轻松合成素材，该插件具有自动颜色匹配功能，能确保VFX和合成任务无缝集成，方便处理同场景下多图层颜色差异。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Easy-Comp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/477017272770.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024, 2023",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1506897247-9d6e3c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1eMV9ZbotT0usTtwSijsJ3A?pwd=623b"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/RLrRCyjivk5"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "v1.1.23更新内容": "使非 cuda 版本依赖于较少的系统库"
+  }
+}

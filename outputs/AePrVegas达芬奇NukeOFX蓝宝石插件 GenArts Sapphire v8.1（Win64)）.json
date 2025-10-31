@@ -1,0 +1,68 @@
+{
+  "title": "Ae/Pr/Vegas/达芬奇/Nuke/OFX蓝宝石插件 GenArts Sapphire v8.1（Win64）",
+  "slug": "ae-pr-vegas-da-fen-qi-nuke-ofxlan-bao-shi-cha-jian-genarts-sapphire-v8-1-win64",
+  "author": "大众脸",
+  "post_date": "2015-04-12T12:32:00Z",
+  "source_url": "https://www.lookae.com/sapphire81/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Genarts Sapphire",
+    "NUKE 插件",
+    "PR插件",
+    "VEGAS插件",
+    "win64",
+    "蓝宝石插件",
+    "达芬奇插件"
+  ],
+  "content": "GenArts Sapphire v8.1 是一款功能强大的视觉特效插件，适用于 Adobe After Effects、Premiere Pro、Nuke、DaVinci Resolve、Sony Vegas Pro 等主流视频后期软件。该版本支持 Win64 系统，提供超过 255 个特效工具，涵盖调整、模糊锐化、合成、变形、光照、渲染、风格化、时间处理及转场等类别。新版本引入 LightLeak（炫光）、Grunge（纹理）、Shake（抖动）、DigitalDamage（信号故障）、Crosshatch（线条素描）等全新效果，并优化了预设管理与界面体验。插件以卓越的图像质量与高效渲染性能著称，深受后期制作爱好者欢迎。官方已修复多项关键问题，包括项目损坏、内存泄漏、参数重置及 GPU 兼容性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/Sapphire8.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014 (v8.1 not supported); Adobe Premiere Pro CS6, CC, CC 2014; The Foundry Nuke; Blackmagic DaVinci Resolve; China Digital Video DX / EX (Windows); FilmLight Baselight; Eyeon Fusion64 (Windows); Sony Vegas Pro (Windows)",
+  "supported_os": "Windows (Win64)",
+  "download_links": [
+    {
+      "name": "蓝宝石插件 GenArts Sapphire v8.1 (Win64)",
+      "url": "https://www.400gb.com/file/90321080"
+    }
+  ],
+  "other": {
+    "official_website": "http://info.genarts.com/sapphire-8",
+    "sponsored_link": "https://www.lookae.com/sponsor/",
+    "release_notes": [
+      "After updating to this release, S_Effect instances containing Beauty, LightLeak, Grunge, or others may have a color parameter reset.",
+      "Fixed a bug in S_Effect that could corrupt AE projects on some machines.",
+      "Reduced intensity of some Swish3D presets to speed up renders and avoid Windows GPU driver issues.",
+      "Builder: fixed a bug where saved presets sometimes did not show up in the Preset Browser.",
+      "Fixed license activation problems on Mac.",
+      "VintageColor2Strip: improved results when Red Filter or Bluegreen Filter is set to black.",
+      "Fixed a memory leak in Builder.",
+      "FlickerMchMatteColor: fixed Set Hold Level button for certain types of match inputs.",
+      "GradientMulti now handles pixel aspect ratio correctly.",
+      "BleachBypass: Fixed incorrect renders when GrainAmpRed was set to zero.",
+      "Caustics: fixed artifacts at the edge of the image when using a custom Bumps pattern"
+    ],
+    "plugin_count": 255,
+    "new_effects": [
+      "LightLeak",
+      "Grunge",
+      "Shake",
+      "DigitalDamage",
+      "Crosshatch"
+    ],
+    "plugin_categories": [
+      "Sapphire Adjust",
+      "Sapphire Blur+Sharpen",
+      "Sapphire Builder",
+      "Sapphire Composite",
+      "Sapphire Distort",
+      "Sapphire Lighting",
+      "Sapphire Render",
+      "Sapphire Stylize",
+      "Sapphire Time",
+      "Sapphire Transitions"
+    ]
+  }
+}

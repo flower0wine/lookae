@@ -1,0 +1,53 @@
+{
+  "title": "AE/PR脚本-文件素材智能管理工具 Pro IO v2.16.2 + 使用教程",
+  "slug": "ae-prjiao-ben-wen-jian-su-cai-zhi-neng-guan-li-gong-ju-pro-io-v2-16-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/12/27 00:35",
+  "source_url": "https://www.lookae.com/proio-2162/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本"
+  ],
+  "content": "Pro IO 是专为 After Effects 和 Premiere Pro 设计的一站式媒体导入导出解决方案。它支持智能分类素材、批量输出，并可通过监视箱同步系统目录与项目文件夹，实现一键导入新资产。导出预设支持自定义命名规则和目标路径，可批量排队渲染任务。该工具能有效自动化重复的导入导出流程，提升工作效率，减少人为错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Pro-IO-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015; Premiere: 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-477403602"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1fN87NvhNRWeaAlFgRgKWIA"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-456060381"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1X9cU_mYH-_j_aKsDjPRprg"
+    }
+  ],
+  "other": {
+    "update_note": "v2.16.2 更新：修正了日语After Effects和Premiere Pro的导出错误。",
+    "extract_code": {
+      "script": "dyx0",
+      "tutorial": "evag"
+    },
+    "related_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/pr%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/",
+      "https://aescripts.com/pro-io/"
+    ]
+  }
+}

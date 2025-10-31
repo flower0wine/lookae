@@ -1,0 +1,52 @@
+{
+  "title": "AE/PR插件-视频背景智能抠像工具 Goodbye Greenscreen v1.11.5 Win",
+  "slug": "ae-prcha-jian-shi-pin-bei-jing-zhi-neng-kou-xiang-gong-ju-goodbye-greenscreen-v1-11-5-win",
+  "author": "大众脸",
+  "post_date": "2023-11-14T19:07:00Z",
+  "source_url": "https://www.lookae.com/goodbyegreenscreen/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Goodbye Greenscreen",
+    "PR插件",
+    "抠像插件"
+  ],
+  "content": "Goodbye Greenscreen 是一款基于人工智能的插件，专为 After Effects 和 Premiere 设计，支持复杂背景与纯色背景的智能抠像。可从视频中自动创建遮罩，并配备强大的颜色键控功能，无需绿幕即可实现高质量抠像效果。适用于影视后期制作中的背景替换、合成等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Goodbye-Greenscreen-12.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297235512328.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2023, 2024; Premiere 2022, 2023, 2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-975498583-959cff?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qzN7MrG4Tord7ohJyqgYFQ?pwd=nfox"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/S56ttSCDQsn"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.11.5 更新内容：将安装程序有效负载移至更稳定的服务器。没有功能变化。",
+    "categories_linked": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tags_linked": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/goodbye-greenscreen/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e6%8a%a0%e5%83%8f%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

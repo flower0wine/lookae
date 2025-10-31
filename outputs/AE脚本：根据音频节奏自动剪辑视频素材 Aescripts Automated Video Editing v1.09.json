@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本：根据音频节奏自动剪辑视频素材 Aescripts Automated Video Editing v1.09",
+  "slug": "aejiao-ben-gen-ju-yin-pin-jie-zou-zi-dong-jian-ji-shi-pin-su-cai-aescripts-automated-video-editing-v1-09",
+  "author": "大众脸",
+  "post_date": "2016/09/05 17:39",
+  "source_url": "https://www.lookae.com/automated/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "导入视频到AE软件中，视频素材会根据音频节奏自动剪辑分割并组合。脚本提供多种剪辑规则，支持用户自定义组合方式，实现整个视频编辑流程与音乐节拍同步自动化。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/09/Automated-Video-Editing.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6/CC/CC2014/CC2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：根据音频节奏自动剪辑视频素材 Aescripts Automated Video Editing v1.09",
+      "url": "http://lookae.ctfile.com/fs/z9D156114679"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/automated-video-editing/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_guide": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本+PR预设-6000种社交媒体文字标题排版设计转场LOGO图标MG图形动画 V5.6",
+  "slug": "aejiao-ben-pryu-she-6000chong-she-jiao-mei-ti-wen-zi-biao-ti-pai-ban-she-ji-zhuan-chang-logotu-biao-mgtu-xing-dong-hua-v5-6",
+  "author": "大众脸",
+  "post_date": "2021/09/14 15:46",
+  "source_url": "https://www.lookae.com/trendy-graphics-56/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "PR模板",
+    "PR预设"
+  ],
+  "content": "Trendy Graphics 包是一个包含超过6000个动态图形元素的完整集合，适用于各类视频创作场景，如社交媒体内容、开场动画、标题序列、宣传片等。支持 After Effects 和 Premiere Pro，通过 AtomX 脚本实现可视化预设调用，Mogrt 预设可直接拖入时间线使用。涵盖多种风格：简洁排版、故障风、粒子特效、转场过渡、背景、图标、音效等，满足从新手到专业制作人的多样化需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/Graphics-Pack-24321544.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/326591101723.mp4"
+  ],
+  "supported_versions": "AE CC 2018 及更高版本, PR CC 2019.1 及更高版本",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-513581849-b88df9"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1IZBZ_W9dPj3m28Eki5yZHA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/mSgW4bYNcxs"
+    }
+  ],
+  "other": {
+    "file_size": "3.64G",
+    "file_id": "24321544",
+    "audio_info": "无音乐，包含转场音效",
+    "included_extensions": "AtomX 3.0.5 脚本（已包含）",
+    "installation_note": "安装后请勿移动安装文件，否则失效",
+    "usage_guide": "安装方法",
+    "additional_music_reference": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+    "mogrt_install_methods": [
+      "关闭PR后复制预设文件夹至指定路径（Windows/Mac）",
+      "在Premiere中通过【基本图形】窗口添加.mogrt文件"
+    ]
+  }
+}

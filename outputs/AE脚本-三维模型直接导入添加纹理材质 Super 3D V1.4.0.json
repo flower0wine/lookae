@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-三维模型直接导入添加纹理材质 Super 3D V1.4.0",
+  "slug": "aejiao-ben-san-wei-mo-xing-zhi-jie-dao-ru-tian-jia-wen-li-cai-zhi-super-3d-v1-4-0",
+  "author": "大众脸",
+  "post_date": "2025-02-08",
+  "source_url": "https://www.lookae.com/super3d-140/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Super 3D"
+  ],
+  "content": "Super 3D 是一款强大的 After Effects 扩展，能够增强软件中的3D功能。用户可以使用脚本自带的模型，或轻松添加基础的外置三维模型对象（支持GLB、GLTF格式），进行模型替换、添加纹理材质等操作。主要功能包括：单击添加3D对象、替换现有图层上的模型或纹理（支持动画）、将3D图层转换为实体图层以应用效果，以及提供响应式用户界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Super-3D.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/458021991181.mp4"
+  ],
+  "supported_versions": "After Effects 2024.1、2025 或更高版本",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1456845754-681401?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bCHMugaLJy-5IY6s2vizFA?pwd=sqtd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/mPKLaZyvQmS"
+    }
+  ],
+  "other": {
+    "version_updates": {
+      "new_features": [
+        "字体库管理（支持多语言字体系列，可在粗体和常规样式之间切换）",
+        "增强的材料控制（新增法线贴图强度滑块）",
+        "更流畅的自定义文件处理（文件缓存以缩短加载时间）",
+        "新的参数装备（测试版）：波浪面、曲面板、扭曲棱镜、螺旋"
+      ],
+      "major_improvements": [
+        "重新设计的扩展界面（支持隐藏/显示选项卡，拖放排序）",
+        "新增“显示 AE 设置”选项，便于调整模型大小和位置",
+        "性能提升（更快的数据处理、更好的内存管理）",
+        "材料工作流程优化（改进的纹理控制和预览功能）"
+      ],
+      "fixed_issues": [
+        "修复收藏夹同步、模型创建冻结等问题",
+        "修复纹理预览、文件路径及材料同步问题",
+        "修复GLTF/GLB文件处理及模型预览加载问题"
+      ]
+    }
+  }
+}

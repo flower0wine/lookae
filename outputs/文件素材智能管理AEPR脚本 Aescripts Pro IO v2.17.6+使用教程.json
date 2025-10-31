@@ -1,0 +1,59 @@
+{
+  "title": "文件素材智能管理AE/PR脚本 Aescripts Pro IO v2.17.6+使用教程",
+  "slug": "wen-jian-su-cai-zhi-neng-guan-li-ae-prjiao-ben-aescripts-pro-io-v2-17-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/06/24 22:36",
+  "source_url": "https://www.lookae.com/pro-io-2176/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "PR脚本"
+  ],
+  "content": "脚本可以在AE和PR中可以快速智能的将导入的素材分类，还可以批量输出。用于After Effects和Premiere Pro的Pro IO是一站式解决方案，可轻松地将媒体输入和输出到您的应用程序中。监视箱允许您将系统目录链接到项目箱，以便您轻松地同步箱并一键导入任何新资产。使您的项目保持最新状态并不断组织。导出预设允许您从多个伴奏或序列中将After Effects或Media Encoder中的多个渲染作业排队，一键匹配自定义命名约定和目标。Pro IO通过自动化和简化整个导入和导出过程来解决重复问题，使其更快，更准确，从而节省了时间并增加了工作量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Pro-IO-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v2.17.6",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-876381363-446e9b?p=4431"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1KE1gYPanEQDGLL1GT89C7g?pwd=r64k"
+    },
+    {
+      "name": "脚本下载-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/AGx7vt2Lm19"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://089u.com/file/680462-456060381"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1X9cU_mYH-_j_aKsDjPRprg"
+    }
+  ],
+  "other": {
+    "supported_software": {
+      "After Effects": [
+        "2023",
+        "2022"
+      ],
+      "Premiere": [
+        "2023",
+        "2022"
+      ]
+    },
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "r64k",
+      "教程百度网盘": "evag"
+    },
+    "update_description": "提高对2023软件的兼容性"
+  }
+}

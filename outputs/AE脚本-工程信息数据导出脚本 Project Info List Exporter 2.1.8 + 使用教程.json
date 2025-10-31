@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-工程信息数据导出脚本 Project Info List Exporter 2.1.8 + 使用教程",
+  "slug": "aejiao-ben-gong-cheng-xin-xi-shu-ju-dao-chu-jiao-ben-project-info-list-exporter-2-1-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/05 16:36",
+  "source_url": "https://www.lookae.com/list-exporter-218/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可以让用户访问大量项目数据，以方便查看的列表呈现，列表可按列排序或搜索，能更快找到不匹配的帧速率、检查数据连续性等。介绍了2.1.8版本更新内容，以及Mac用户使用注意事项，还说明了该脚本适用Win/Mac系统的AE版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Project-Info-List-Exporter-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（脚本）",
+      "url": "https://lookae.ctfile.com/fs/680462-372485054"
+    },
+    {
+      "name": "百度网盘下载（脚本）",
+      "url": "https://pan.baidu.com/s/1zNOvLlOO46a_ysEGQ4s8XQ"
+    },
+    {
+      "name": "城通网盘下载（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-322419910"
+    },
+    {
+      "name": "百度网盘下载（教程）",
+      "url": "https://pan.baidu.com/s/1TYgKhRCWOMZWNStJHfeXQA"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件(https://www.lookae.com/after-effects/aechajian/)",
+      "AE脚本(https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects(https://www.lookae.com/after-effects/)"
+    ],
+    "脚本英文简介": "AEProjectI.L.E. gives you access to a vast amount of project data in easy to view lists that can be sorted by column or searched. Find mis-matched frame rates faster, check various data for continuity, verify 3rd party plugins that are being used, see which plugins are missing, view asset folder locations easily, determine when and where renders were sent, and so much more.",
+    "2.1.8更新内容": [
+      "修复：( PC / Mac）占位符源导致某些用户出错。",
+      "更新：ReadMe.txt文件现在反转更改日志以列出列表顶部的最新更改。"
+    ],
+    "Mac用户注意事项": "列表视图行中的“Color Swatches-颜色样本”仍在处理修复。 目前，此功能与Mac不兼容。",
+    "提取码": "lx6o"
+  }
+}

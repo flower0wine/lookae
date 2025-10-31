@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-字母数字三维翻页动画 3D Flip Board v1.18+使用教程",
+  "slug": "aejiao-ben-zi-mu-shu-zi-san-wei-fan-ye-dong-hua-3d-flip-board-v1-18-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/04/18 20:04",
+  "source_url": "https://www.lookae.com/3d-flip-118/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "翻页动画"
+  ],
+  "content": "该脚本可在 After Effects 中快速创建三维翻页动画，支持文字、字幕和图像翻页，适用于制作计分、计时、倒计时、时间等效果。提供全自动三维翻页动画，并包含四种翻转模式：双向、前进、后退和翻转。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/3D-Flip-Board.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50007662423.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-571455841-7a5793"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ILkChrZP__LPc0iWf6VFwA?pwd=wmwm"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/6NnAZczoF9L"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.19更新内容：更新以支持 macOS 10.15 Catalina",
+    "access_password": {
+      "城通网盘": "6688"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "AE/PR 视频去闪烁插件 Digital Anarchy Flicker Free v1.1",
+  "slug": "ae-pr-shi-pin-qu-shan-shuo-cha-jian-digital-anarchy-flicker-free-v1-1",
+  "author": "大众脸",
+  "post_date": "2015-07-11T15:02:00Z",
+  "source_url": "https://www.lookae.com/flicker11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Digital Anarchy Flicker Free v1.1 是一款专为 After Effects 和 Premiere Pro 设计的视频去闪烁插件，可有效解决因光线频率不匹配导致的视频闪烁问题。适用于延时摄影、慢动作（高帧率）视频、LED灯、电脑显示器及电气干扰引起的动态闪烁现象。该插件通过分析画面颜色与亮度，智能计算并生成平滑的视频图像，提升画面稳定性与视觉质量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Flicker-Free-v1.0.2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Premiere Pro CS5, CS5.5, CS6, CC, CC 2014, CC 2015; After Effect CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE/PR 视频去闪烁插件 Digital Anarchy Flicker Free v1.1",
+      "url": "https://www.400gb.com/file/105529961"
+    }
+  ],
+  "other": {
+    "plugin_description_en": "Flicker Free is a powerful new way to deflicker video. It solves an issue that’s common for many types of footage, be it from lights/electricity and cameras being out of sync, time lapse or slow motion (high frame rate) video. It’s very effective at removing rolling flicker that occurs with LED & fluorescent lights or computer monitors. Flicker Free was originally designed to fix the flicker caused by varying exposures in time lapse videography. However, once we developed it, we discovered there are many reasons for flicker and that Flicker Free does a great job on most of them.",
+    "official_website": "http://digitalanarchy.com/Flicker/main.html",
+    "installation_type": "一键安装版",
+    "features": [
+      "处理光闪烁、延时拍摄闪烁、动态闪烁",
+      "适用于延时摄影与高帧率慢动作视频",
+      "有效去除LED灯、电脑显示器及电气干扰引起的闪烁",
+      "基于颜色和亮度分析实现平滑图像重建"
+    ],
+    "note": "安装即可使用，无功能限制"
+  }
+}

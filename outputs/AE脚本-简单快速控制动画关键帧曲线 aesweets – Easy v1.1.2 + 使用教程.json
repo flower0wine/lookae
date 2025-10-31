@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-简单快速控制动画关键帧曲线 aesweets – Easy v1.1.2 + 使用教程",
+  "slug": "aejiao-ben-jian-dan-kuai-su-kong-zhi-dong-hua-guan-jian-zheng-qu-xian-aesweets-easy-v1-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/21 12:01",
+  "source_url": "https://www.lookae.com/easy-112/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "aesweets",
+    "AE脚本"
+  ],
+  "content": "Easy 是 aesweets 网站出品的一款AE脚本，使用这个脚本将有助于您在构建流畅的MG动画，且能简单快速完成操作。脚本提供了很多种关键帧曲线形态预设，可直接应用到动画制作中，简单粗暴的完成流畅的动画制作，使得关键帧间的动画更加的柔和符合动力/视觉效果。轻轻一点，轻松完成动画制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/Easy-Keyframe-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC, CC 2014, CC 2015, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367223117"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1J8BzEEmeJDiVvfNtbPvrsA"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.aesweets.com/easy/",
+    "v1.1.2_update": "修复了一些小错误，添加了快速影响工具，修复/解决与Mac OS（消失用户界面）鼠标输出事件相关的AE错误",
+    "store_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "赞助LookAE.com网站",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

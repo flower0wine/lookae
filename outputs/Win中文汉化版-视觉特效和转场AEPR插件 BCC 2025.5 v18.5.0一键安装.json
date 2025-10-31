@@ -1,0 +1,47 @@
+{
+  "title": "Win中文汉化版-视觉特效和转场AE/PR插件 BCC 2025.5 v18.5.0一键安装",
+  "slug": "winzhong-wen-yi-hua-ban-shi-jue-te-xiao-he-zhuan-chang-ae-prcha-jian-bcc-2025-5-v18-5-0yi-jian-an-zhuang",
+  "author": "大众脸",
+  "post_date": "2025-06-21T22:30:00Z",
+  "source_url": "https://www.lookae.com/bcc-2021-ch/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC中文版",
+    "PR插件",
+    "中文汉化",
+    "精品资源"
+  ],
+  "content": "BCC 2025.5 v18.5.0 是一款专为 Adobe After Effects 和 Premiere Pro 打造的视觉特效与转场插件，提供超过300种效果、40多种转场和5000多种预设。支持多帧渲染和GPU加速，集成Mocha平面跟踪技术，可实现复杂蒙版与精准跟踪。本版本为Windows 64位系统专用的中文汉化版，支持从 After Effects CC 2020 到 2025，以及 Premiere Pro CC 2020 到 2025。插件需安装在C盘，安装包约1.8GB，安装后占用约2GB空间。采用一机一码激活机制，购买后需联系客服获取密钥。仅提供中文界面，部分参数可能未完全汉化，存在潜在兼容性问题。不提供使用教学支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/BCC-2022-ZH.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN013iqs6J1vSMl4fxYsz_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/490738345095.mp4"
+  ],
+  "supported_versions": "After Effects CC 2020-2025, Premiere Pro CC 2020-2025",
+  "supported_os": "Windows 64位（不支持32位系统，不支持Mac）",
+  "download_links": [
+    {
+      "name": "淘宝购买链接",
+      "url": "https://item.taobao.com/item.htm?id=631516772657"
+    },
+    {
+      "name": "站内直接购买（¥88）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fbcc-2021-ch%"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/bcc-185/"
+    }
+  ],
+  "other": {
+    "activation_method": "一机一码激活，需联系客服索取密钥",
+    "installation_note": "必须安装在C盘，安装包1.8G，安装后约占用2G空间",
+    "language": "仅提供中文版",
+    "translation_limitations": "极少数参数可能未做汉化，转译编码可能存在潜在BUG",
+    "support_notes": "不提供使用教学，仅提供工具支持",
+    "update_policy": "一次购买可享受免费更新"
+  }
+}

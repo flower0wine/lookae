@@ -1,0 +1,52 @@
+{
+  "title": "AE插件：DCP数字电影打包工具 FanDev CuteDCP v1.9.0 CE",
+  "slug": "aecha-jian-dcpshu-zi-dian-ying-da-bao-gong-ju-fandev-cutedcp-v1-9-0-ce",
+  "author": "大众脸",
+  "post_date": "2016/03/05 12:27",
+  "source_url": "https://www.lookae.com/cutedcp190/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "FanDev CuteDCP 是一款用于 After Effects 的数字电影包（DCP）创建工具，作为渲染导出插件，易于使用并可在大多数主流播放服务器上运行。该插件支持多种帧率、音频格式、字幕标准以及3D和4K内容，显著简化了DCP制作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/CuteDCP.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2015 or later",
+  "supported_os": "Windows Vista, 7 & 8",
+  "download_links": [
+    {
+      "name": "AE插件：DCP数字电影打包工具 FanDev CuteDCP v1.9.0 CE",
+      "url": "http://lookae.ctfile.com/file/144735101"
+    }
+  ],
+  "other": {
+    "plugin_introduction_en": "Fandev CuteDCP – An After Effects DCP exporter. It’s a DCP (Digital Cinema Package) creation tool for After Effects. The export plug-in allows users to create DCPs from any file imported into After Effects and minimizes the number of steps required to create a DCP. CuteDCP is easy to use and has been tested on most major play-out servers. It has never been easier to create a DCP package.",
+    "what_is_dcp": "DCP(Digital Cinema Package) is a collection of files used to store and convey Digital Cinema (DC) images, audio and data streams. The term ‘DCP’ has been defined by Digital Cinema Initiatives in its recommendations for the packaging of Digital Cinema content.",
+    "features": [
+      "SMPTE DCP操作标准",
+      "支持率24、25、30、48、50或60 fps",
+      "立体声，5.1和7.1环绕音频",
+      "操作字幕（cinecanvas）和 SMPTE 428-7 字幕",
+      "三维立体支持",
+      "DCP数据控制",
+      "多线程支持，更快的编码",
+      "标题辅助工具",
+      "内部 rec709 转 x’y’z 色彩空间，更快更准确",
+      "支持多达96fps HFR",
+      "支持3D HFR 48帧（96fps/eye）",
+      "支持4K",
+      "JPEG2000 编码速度提高",
+      "更新标题文字助手"
+    ],
+    "update_log_v1_9_0": [
+      "新的颜色空间变换：P3->xyz, itu709->xyz with gamma 2.4 or 2.2",
+      "Browse and select subtitle loadfonts",
+      "更新标题文字助手"
+    ],
+    "tutorial_section": "【使用教程】",
+    "download_note": "插件为一键注册安装，安装即可使用",
+    "official_website": "http://www.fandev.com/cutedcp.html"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-MG图形动画关键帧复制粘贴控制 Motioneer V1.1.1 + 使用教程",
+  "slug": "aejiao-ben-mgtu-xing-dong-hua-guan-jian-zheng-fu-zhi-nian-tie-kong-zhi-motioneer-v1-1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/05/10 21:03",
+  "source_url": "https://www.lookae.com/motioneer-111/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Motioneer 是一个动画库引擎，可实现对图层上关键帧的批量复制，并将动画附加或应用到其他图层，同时保持合成与图层的比例关系。适用于高效管理与复用图形动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Motioneer-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-442670303"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1DnGttmBe4JRQN_8o1230Iw"
+    }
+  ],
+  "other": {
+    "description": "v1.1.1 更新内容：\n- 将3D图层动画添加到2D图层时，脚本不会停止工作。\n- 更新了引擎：全面的3D图层支持。锚定/位置补偿问题已修复。\n- 替换了comp/layers比例调整位置切线的错误。\n- 在替换模式下，旋转图层的位置估计得到了很大改善。",
+    "related_links": [
+      "https://aescripts.com/motioneer/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

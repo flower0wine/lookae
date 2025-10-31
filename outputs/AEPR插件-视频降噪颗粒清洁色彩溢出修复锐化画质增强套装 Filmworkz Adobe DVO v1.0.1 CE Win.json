@@ -1,0 +1,57 @@
+{
+  "title": "AE/PR插件-视频降噪颗粒清洁色彩溢出修复锐化画质增强套装 Filmworkz Adobe DVO v1.0.1 CE Win",
+  "slug": "ae-prcha-jian-shi-pin-jiang-zao-ke-li-qing-ji-se-cai-yi-chu-xiu-fu-rui-hua-hua-zhi-zeng-qiang-tao-zhuang-filmworkz-adobe-dvo-v1-0-1-ce-win",
+  "author": "大众脸",
+  "post_date": "2024/08/19 09:51",
+  "source_url": "https://www.lookae.com/filmworkz-dvo/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Filmworkz DVO",
+    "PR插件",
+    "画质增强",
+    "色彩溢出",
+    "锐化插件",
+    "降噪插件"
+  ],
+  "content": "这是一套基于艾美奖获奖技术的图像增强插件套装，专为解决视频中的颗粒、极端噪点、压缩伪影、色彩溢出等问题而设计。该套装包含9款功能强大的插件，适用于需要高质量画质修复与增强的专业工作流程，帮助用户专注于创意本身。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Filmworkz-Adobe-DVO.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1343126425-3de234?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/11rgG7MIzJ2EBiOrKyO95yQ?pwd=syif"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/YoGPojipS4P"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "syif",
+    "compatible_software": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro"
+    ],
+    "plugin_list": [
+      "Brickwall",
+      "Chroma",
+      "Clarity",
+      "Decompress",
+      "Grain GT",
+      "Pixel",
+      "Regrain RGB",
+      "Sharpen",
+      "Velvet"
+    ]
+  }
+}

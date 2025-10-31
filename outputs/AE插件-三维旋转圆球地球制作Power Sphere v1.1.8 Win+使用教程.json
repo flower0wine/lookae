@@ -1,0 +1,55 @@
+{
+  "title": "AE插件-三维旋转圆球地球制作Power Sphere v1.1.8 Win+使用教程",
+  "slug": "aecha-jian-san-wei-xuan-zhuan-yuan-qiu-di-qiu-zhi-zuo-power-sphere-v1-1-8-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/12/08 12:08",
+  "source_url": "https://www.lookae.com/power-sphere-118/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Power Sphere 是一款功能强大的三维球体生成插件，可将平面图形快速转换为具备3D旋转属性的球体。支持对球体进行椭圆变形、展开效果、丰富的阴影、自阴影、反射、景深（DOF）以及合成灯光和摄像机动画控制。适用于After Effects多版本，提供高效便捷的地球或球体可视化制作体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Power-Sphere.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/339473780128.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-527548794-34b172"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1PQyTucG_wVT9QxMYPB_Y-g"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9aknkeEcJnM"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-387054451"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/182v5lDisZt9AkiampawsZA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.1.8 更新内容：更新与AE 2022的兼容性，许可证系统更新。",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_插件": "8356",
+      "百度网盘_教程": "vtgg"
+    },
+    "categories": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE插件](https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/)"
+    ]
+  }
+}

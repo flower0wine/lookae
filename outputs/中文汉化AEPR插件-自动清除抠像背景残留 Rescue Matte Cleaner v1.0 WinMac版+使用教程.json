@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE/PR插件-自动清除抠像背景残留 Rescue Matte Cleaner v1.0 Win/Mac版+使用教程",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-zi-dong-qing-chu-kou-xiang-bei-jing-can-liu-rescue-matte-cleaner-v1-0-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-08-12T18:02:00Z",
+  "source_url": "https://www.lookae.com/matte-cleaner/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac",
+    "中文汉化"
+  ],
+  "content": "Rescue Matte Cleaner 是一款专为 After Effects 和 Premiere Pro 设计的智能插件，可自动清除绿屏抠像后遗留的噪波、伪影等不干净残留。它能根据对象大小智能判断保留内容，如自动移除跟踪点。通过几次点击即可解决因照明不佳或绿屏设置不当导致的常见背景问题。插件还具备强大的后处理功能，可根据颜色、大小和位置规则快速隔离并删除特定区域，提升合成质量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/08/Rescue-Matte-Cleaner.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/p/1/e/6/t/1/275828315444.mp4"
+  ],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nPremiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014\nMedia Encoder: 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载 (英文版)",
+      "url": "https://089u.com/file/680462-456696557"
+    },
+    {
+      "name": "百度网盘下载 (英文版)",
+      "url": "https://pan.baidu.com/s/1E9zU0KH1E5ESomdZUduk9g"
+    },
+    {
+      "name": "城通网盘下载 (中文汉化版)",
+      "url": "https://089u.com/file/680462-456760520"
+    },
+    {
+      "name": "百度网盘下载 (中文汉化版)",
+      "url": "https://pan.baidu.com/s/11TUUTtoUInBMigbB9ws5kg"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "在初始设置时快速滤除大多数背景噪波和清洁边缘",
+      "在出现运动模糊的情况下对运动敏感",
+      "自动抗锯齿保留边缘细节，同时消除附近的噪点",
+      "根据大小和位置隔离图像部分，以快速获得强大的效果",
+      "兼容4K+"
+    ],
+    "official_website": "https://aescripts.com/rescue-matte-cleaner/",
+    "extract_code_en": "wdh5",
+    "extract_code_chs": "l0r5"
+  }
+}

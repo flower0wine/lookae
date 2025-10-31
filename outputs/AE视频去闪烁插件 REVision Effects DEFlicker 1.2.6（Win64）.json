@@ -1,0 +1,33 @@
+{
+  "title": "AE视频去闪烁插件 RE:Vision Effects DE:Flicker 1.2.6（Win64）",
+  "slug": "aeshi-pin-qu-shan-shuo-cha-jian-re-vision-effects-de-flicker-1-2-6-win64",
+  "author": "大众脸",
+  "post_date": "2015-01-23",
+  "source_url": "https://www.lookae.com/flicker126/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "win64"
+  ],
+  "content": "REVision Effects DE:Flicker 是一款专门用于去除视频闪烁现象的AE插件，能够处理光闪烁、延时拍摄闪烁和动态闪烁等问题。插件通过分析画面的颜色和亮度，计算匹配出平滑的视频图像，自动修复由于肉眼和摄像机捕捉光线频率不一致导致的闪烁现象。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Flicker12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 和以上版本,含Adobe CC 2014版本",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE视频去闪烁插件 RE:Vision Effects DE:Flicker 1.2.6（Win64）",
+      "url": "https://www.400gb.com/file/83310926"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "DE:Flicker High Speed（高速闪烁插件）：用于高速率拍摄视频",
+      "DE:Flicker Timelapse（间隔闪烁插件）：用于延时拍摄视频",
+      "DE:Flicker Auto Levels（自动去除闪烁插件）：分析画面的颜色和亮度，自动去除闪烁"
+    ],
+    "version_notes": "新版本特性：修复BUG、修复高光闪烁插件错误、修复间隔闪烁插件无响应问题"
+  }
+}

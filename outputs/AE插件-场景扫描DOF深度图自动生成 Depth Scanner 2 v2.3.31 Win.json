@@ -1,0 +1,64 @@
+{
+  "title": "AE插件-场景扫描DOF深度图自动生成 Depth Scanner 2 v2.3.31 Win",
+  "slug": "aecha-jian-chang-jing-sao-miao-dofshen-du-tu-zi-dong-sheng-cheng-depth-scanner-2-v2-3-31-win",
+  "author": "大众脸",
+  "post_date": "2025-07-17T11:19:00Z",
+  "source_url": "https://www.lookae.com/depth-scanner-2329/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Depth Scanner",
+    "DOF深度图"
+  ],
+  "content": "Depth Scanner 2 是一款基于 AI 的自动视频深度估算插件，可为图像和视频生成高质量的深度图，适用于后期处理中的雾气添加、立体3D转换等多种特效应用。该插件内置全新视频深度估算模型，支持多帧无闪烁输出，并提供总计8种不同模型（含4个新增模型），便于用户根据素材选择最佳匹配方案。适用于 Adobe After Effects 2025、2024、2023 版本，支持 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/05/Depth-Scanner-2-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/518851767017.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1534112458-693dbb?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1wm5G2E6GzbPlbW86gfbcIQ?pwd=67qm"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/kU5cWTP8mSj"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545973468-65b5c4"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bitEhT2gfaDWbcyUIr6y-A?pwd=r9ha"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7nX4Re3ipht"
+    }
+  ],
+  "other": {
+    "update_notes": "v2.3.31 更新内容：兼容性更新；修复某些设置下可能出现的内存泄漏。",
+    "related_tags": [
+      "AE插件",
+      "Depth Scanner",
+      "DOF深度图"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "author_url": "https://www.lookae.com/author/大众脸/",
+    "original_language": "zh-CN",
+    "translated_from": "en",
+    "translation_notes": "AI-based plugin for automatic video depth estimation. Depth Scanner 2 includes a brand new video depth estimation model for flicker-free results over multiple frames. Plus 4 new models for a total of 8 different models, so you can find the best match for your footage."
+  }
+}

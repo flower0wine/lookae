@@ -1,0 +1,51 @@
+{
+  "title": "AE插件-二维手绘笔刷动画绘制插件 Paint & Stick v2.1.2a + 使用教程",
+  "slug": "aecha-jian-er-wei-shou-hui-bi-shua-dong-hua-hui-zhi-cha-jian-paint-stick-v2-1-2a-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/23 21:50",
+  "source_url": "https://www.lookae.com/paint-stick-212a/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "这是一款很棒的AE插件，可在AE中快速绘制二维图形MG动画，处理速度快，4K分辨率工程运算渲染表现优越，能通过鼠标勾勒效果动画、用关键帧完成关键帧动画，有强大直观的UI控制界面，提供众多模式功能、工具、元素，还能导入PS笔刷及C4D场景。2.1.2a新版修复了Windows上安装程序、PS画笔导出器等问题，添加了Astropad应用程序支持、画笔平滑选项等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Paint-Stick-v2.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2Q5XGqSFjpuFjSszhXXaBuVXa_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB25r7OtJRopuFjSZFtXXcanpXa_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50008870500.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6；Cinema 4D R19,R20,R18, R17, R16, R15, R14",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367819241"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1K9k1ov2xVOhwVD_IHNxP2Q",
+      "extraction_code": "gsho"
+    }
+  ],
+  "other": {
+    "categories_links": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      },
+      {
+        "name": "Mac 专区",
+        "url": "https://www.lookae.com/mac-osx/"
+      }
+    ],
+    "plugin_introduction_en": "NEW version 2, stick live comps! Paint directly in comp with your custom and Photoshop brushes plus onion skinning (great for cel animation). “Stick” your paint on 3D renders. You gotta see it to believe it! http://aescripts.com/paint-and-stick/"
+  }
+}

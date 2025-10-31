@@ -1,0 +1,55 @@
+{
+  "title": "AE插件-人工智能快速自动制作深度图 Quick Depth V2.1.5 Win",
+  "slug": "aecha-jian-ren-gong-zhi-neng-kuai-su-zi-dong-zhi-zuo-shen-du-tu-quick-depth-v2-1-5-win",
+  "author": "大众脸",
+  "post_date": "2024-08-25T11:25:00Z",
+  "source_url": "https://www.lookae.com/quick-depth-215/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Quick Depth",
+    "人工智能",
+    "深度图插件"
+  ],
+  "content": "Quick Depth V2.1.5 是一款专为 After Effects 设计的AI驱动插件，可自动根据视频素材生成高质量深度图。新版引入了先进的 Depth Anything 模型，支持在 Mac 和 Windows 系统上快速、准确地完成深度估计。该插件极大简化了从镜头中获取深度信息的流程，适用于需要景深效果、3D 融合或虚拟场景构建的创意工作。最新版本优化了渲染引擎并修复多项问题，提升稳定性与性能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/02/Quick-Depth-v2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/451086974624.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1345300489-0a7b52?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Ol-fPTAhgm_VWiwZkj4Mbg?pwd=evwj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/dBCNofAaA1C"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "更新至最新渲染引擎",
+      "修复了各种错误并提高了性能"
+    ],
+    "model_version": "Depth Anything 2",
+    "description": "一个超级简单的插件，可在After Effects软件中根据您的素材制作自动深度图。绝对是从镜头中获得深度估计的最简单方法。Now with Depth Anything 2, an even faster and higher quality depth model. Easily make an automatic depth map from your footage in After Effects in Mac and Windows.",
+    "related_tags": [
+      "AE插件",
+      "Quick Depth",
+      "人工智能",
+      "深度图插件"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

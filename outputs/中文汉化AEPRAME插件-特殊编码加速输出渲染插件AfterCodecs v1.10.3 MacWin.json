@@ -1,0 +1,83 @@
+{
+  "title": "中文汉化AE/PR/AME插件-特殊编码加速输出渲染插件AfterCodecs v1.10.3 Mac/Win",
+  "slug": "zhong-wen-yi-hua-ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-10-3-mac-win",
+  "author": "大众脸",
+  "post_date": "2021/04/29 11:31",
+  "source_url": "https://www.lookae.com/aftercodecs-1103/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "AE软件虽然自带了很多输出格式选择，但是如果我们想输出特殊编码的时候，就需要借助其他工具。AfterCodecs 这款编码输出插件，就可以支持输出 H264、H265 和 ProRes 这些编码，渲染输出速度也比AE自带输出更快，且压缩的文件更小，画质更佳，可设置参数也很多。\n\nNative exporter for AE bringing you ProRes on Windows and h264 (x264 and x265) codecs for excellent quality and lightweight videos。\n\n插件主要特点包括填补编解码器空白、提供H264/H265最佳压缩、优化工作流程等，支持在After Effects、Premiere和Media Encoder中使用，提升视频导出效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AfterCodecs-197.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": "After Effects: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Media Encoder: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Win中英文",
+      "url": "https://089u.com/f/680462-494453695-af7b3e"
+    },
+    {
+      "name": "百度网盘（Win）",
+      "url": "https://pan.baidu.com/s/1N6-9FwxQ28Kt7ngBbErsjA"
+    },
+    {
+      "name": "Mac仅英文",
+      "url": "https://089u.com/f/680462-494505868-2e7ace"
+    },
+    {
+      "name": "百度网盘（Mac）",
+      "url": "https://pan.baidu.com/s/1a1bCR5PzfIgUQzTVdnfr0w"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "ffkroma/ffmpeg更新版本4.4“Rao”，自2021年4月8日起",
+      "删除了v1.8.0中引入的任务栏图标的进度条功能，因为它似乎不够稳定"
+    ],
+    "tutorials": [
+      {
+        "name": "视频使用教程（城通网盘）",
+        "url": "https://tc5.us/file/680462-406407782"
+      },
+      {
+        "name": "视频使用教程（百度网盘）",
+        "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+      }
+    ],
+    "additional_info": {
+      "codec_support": {
+        "MOV": [
+          "ProRes (6 official + 2 unofficial profiles)",
+          "HAP GPU-accelerated codecs (Hap, Hap Alpha, Hap Q, Hap Q Alpha)",
+          "x264",
+          "x265",
+          "x264 RGB"
+        ],
+        "MP4": [
+          "x264",
+          "x265",
+          "x264 RGB"
+        ]
+      },
+      "features": [
+        "支持Alpha通道（ProRes 4444 Light / 4444 / XQ）",
+        "HAP 编解码器无分辨率限制",
+        "Premiere 和 Media Encoder 特性：MultiRenders 标记、分别导出音轨、快速子分辨率按钮、自定义帧率",
+        "YouTube上传配置文件",
+        "支持8K渲染",
+        "支持10 bpc、YUV 4:2:2/4:4:4、档案大小目标等高级功能"
+      ],
+      "beta_version_link": "https://www.lookae.com/aftercodecs-22/"
+    }
+  }
+}

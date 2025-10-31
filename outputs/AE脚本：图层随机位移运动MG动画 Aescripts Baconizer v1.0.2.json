@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：图层随机位移运动MG动画 Aescripts Baconizer v1.0.2",
+  "slug": "aejiao-ben-tu-ceng-sui-ji-wei-yi-yun-dong-mgdong-hua-aescripts-baconizer-v1-0-2",
+  "author": "大众脸",
+  "post_date": "2018/04/11 09:57",
+  "source_url": "https://www.lookae.com/baconizer102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该AE脚本可让图层、文字层、图片、LOGO更具活力，适合制作MG动画。官网地址为https://aescripts.com/baconizer-for-ae/ 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/04/Baconizer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50105072911.mp4"
+  ],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-243698075"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1j9B6J6giX22BywJxRMzEWQ"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "脚本安装": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "脚本使用": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "淘宝店链接": "https://lookae.taobao.com/",
+    "赞助链接": "https://www.lookae.com/sponsor/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Ae/Pr视频去闪烁插件 REVisionFX DE:Flicker v1.4.3 CE（Win64）",
+  "slug": "ae-prshi-pin-qu-shan-shuo-cha-jian-revisionfx-de-flicker-v1-4-3-ce-win64",
+  "author": "大众脸",
+  "post_date": "2016-04-15",
+  "source_url": "https://www.lookae.com/deflicker143/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "REVisionFX DE:Flicker是一款专业的视频去闪烁插件，专门用于处理高速率拍摄和延时摄影中出现的闪烁和伪影问题。该插件通过分析画面的颜色和亮度，自动平滑闪烁现象，能够处理多种类型的闪烁，包括人工光源引起的闪烁、延时拍摄中的颜色和曝光不一致等问题。插件包含三个专用工具：DE:Flicker High Speed用于高速率拍摄视频，DE:Flicker Timelapse用于延时拍摄视频，DE:Flicker Auto Levels用于自动分析并稳定画面的颜色和亮度水平。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Flicker12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Windows Vista, 7, 8 and up",
+  "download_links": [
+    {
+      "name": "Ae/Pr视频去闪烁插件 REVisionFX DE:Flicker v1.4.3 CE（Win64）",
+      "url": "http://lookae.ctfile.com/fs/gWy148237322"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "DE:Flicker High Speed",
+      "DE:Flicker Timelapse",
+      "DE:Flicker Auto Levels"
+    ],
+    "version_notes": "修复在Premiere Pro中崩溃的问题，修复在Premiere Pro 9.0.2版本中的运算BUG，GPU支持更好，运算更快"
+  }
+}

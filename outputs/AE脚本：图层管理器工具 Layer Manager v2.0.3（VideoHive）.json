@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：图层管理器工具 Layer Manager v2.0.3（VideoHive）",
+  "slug": "aejiao-ben-tu-ceng-guan-li-qi-gong-ju-layer-manager-v2-0-3-videohive",
+  "author": "大众脸",
+  "post_date": "2015/11/30 12:47",
+  "source_url": "https://www.lookae.com/layermanager2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE脚本",
+    "VideoHive"
+  ],
+  "content": "图层管理器工具 Layer Manager 是 Adobe After Effects 一个专业的脚本，它有助于在时间轴和视窗中管理你图层，为处理图层节省大量时间。使用也很简单方便，因为使用它不需要任何特殊专业知识，脚本也拥有友好的用户界面。适合图层众多的项目来管理图层，它可以节省你大量的时间。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/LAYER-MANAGER-.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC2014/CC2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：图层管理器工具 Layer Manager v2.0.3（VideoHive）",
+      "url": "https://lookae.400gb.com/file/135228904"
+    }
+  ],
+  "other": {
+    "script_features": [
+      "任意数量的层：脚本可以用于超过 1000 层的管理",
+      "工作速度：脚本几秒钟内即可计算出图层",
+      "直观的界面：你不需要浪费你的时间读使用手册或观看视频教程",
+      "独立的项目"
+    ],
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "english_description": "Layer Manager 2 is a Professional Script for Adobe After Effects. It helps to manage your layers in a timeline and viewport, saving a lot of time while working with layers. It's easy to use with an intuitive interface and doesn't require special knowledge. Ideal for huge compositions and character rigging."
+  }
+}

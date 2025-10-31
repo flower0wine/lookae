@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-形状图形路径偏移混合动画制作 AE Shapes Blender 1.2.1+使用教程",
+  "slug": "aejiao-ben-xing-zhuang-tu-xing-lu-jing-pian-yi-hun-he-dong-hua-zhi-zuo-ae-shapes-blender-1-2-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-30T13:56:00",
+  "source_url": "https://www.lookae.com/shapes-blender-121/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "利用脚本可以在After Effects中轻松混合形状图形，并支持灵活控制路径的偏移与混合方式。通过选择两个或更多形状路径，点击按钮即可快速生成平滑的混合效果，适用于创建循环动画。用户可自由调节高级与基础属性以实现个性化动画控制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/AE-Shapes-Blender-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/350019902521.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8389684024-921937?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1OKIud-E899RNRTgkFxZ0CQ?pwd=w62w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/adRs1TT9s3h"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "调整图标使其在白色主题上可见。",
+      "将许可证框架更新至 v4.3.1。",
+      "修复配置许可证服务器时本地许可证激活的问题。",
+      "修复 -38 许可证停用错误。",
+      "修复 -6 激活错误。"
+    ],
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "post_time": "2025/07/30 13:56",
+    "description": "Now blend shapes easily in After Effects with many great features. Control the spine path the way you want them to blend and offset the paths easily. Create and animate beautiful loops."
+  }
+}

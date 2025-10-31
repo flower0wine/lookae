@@ -1,0 +1,41 @@
+{
+  "title": "Mac苹果版-画面颜色选取调色替换修改AE插件 Composite Brush v1.6.8",
+  "slug": "macping-guo-ban-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-aecha-jian-composite-brush-v1-6-8",
+  "author": "大众脸",
+  "post_date": "2025-01-13T09:15:00Z",
+  "source_url": "https://www.lookae.com/composite-brush-168/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Composite Brush"
+  ],
+  "content": "Composite Brush 是一款精准且易于使用的 After Effects 颜色选择与修改插件。仅需几笔操作即可创建选区，随后可对颜色进行修改或提取键值。支持在视频画面上直接选取颜色，并将选定区域替换为自定义颜色。通过单击并拖动可完成颜色选取，按住 Alt 键 + 鼠标左键可取消选择。该插件可与 Keylight 抠像插件协同使用，提升抠像的准确性和清洁度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Mac苹果系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1446466916-094ef1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1gG99xMpRqBTptE6Ldn4Z5Q?pwd=bcn2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/rkCWPcbXDdZ"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.6.8 更新内容：引入新的日志系统以帮助调试。",
+    "related_links": [
+      "https://www.lookae.com/composite-brush-167/"
+    ],
+    "related_title": "Win中文汉化-画面颜色选取调色替换修改AE插件 Composite Brush v1.6.7 Win"
+  }
+}

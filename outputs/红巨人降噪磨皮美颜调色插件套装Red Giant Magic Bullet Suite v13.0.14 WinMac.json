@@ -1,0 +1,78 @@
+{
+  "title": "红巨人降噪磨皮美颜调色插件套装Red Giant Magic Bullet Suite v13.0.14 Win/Mac",
+  "slug": "hong-ju-ren-jiang-zao-mo-pi-mei-yan-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v13-0-14-win-mac",
+  "author": "大众脸",
+  "post_date": "2019-12-06T16:52:00Z",
+  "source_url": "https://www.lookae.com/mbs-13014/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "EDIUS插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant 发布了最新的降噪磨皮调色插件套装 Magic Bullet Suite v13，支持实时色彩校正、OpenGL 和 OpenCL，所有工具均基于 GPU 加速以实现最大运行速度。该套装包含多个专业级插件，适用于多种视频剪辑与调色软件，可显著提升后期制作效率和视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50106864664.mp4"
+  ],
+  "supported_versions": "v13.0.14",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win 版本下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/magicbullet/archive/MBSuite_Win_Full_13.0.14.zip"
+    },
+    {
+      "name": "Mac 版本下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/magicbullet/archive/MBSuite_Mac_Full_13.0.14.zip"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Magic Bullet Colorista IV 4.0.4 - 调色师4（支持Lut）",
+      "Magic Bullet Cosmo II 2.0.1 - 润肤磨皮插件",
+      "Magic Bullet Film 1.2.2 - 电影质感调色",
+      "Magic Bullet Looks 4.0.3 - 调色插件（多预设、支持Lut）",
+      "Magic Bullet Mojo II 2.0.2 - 快速调色",
+      "Magic Bullet Denoiser III 3.0.1 - 视频降噪插件",
+      "Magic Bullet Renoiser 1.0.2 - 噪波颗粒插件"
+    ],
+    "supported_software": [
+      "Adobe After Effects CS6 – CC 2019, 2020",
+      "Adobe Premiere Pro CS6 – CC 2019, 2020",
+      "Davinci Resolve Studio 11, 12",
+      "Apple Final Cut Pro X",
+      "Apple Motion 5",
+      "Avid Media Composer 7.0, 8.0 或更高版本",
+      "Vegas Pro 12, 13, 14（64-bit）",
+      "Edius 8",
+      "HitFilm Pro"
+    ],
+    "update_notes": "更新以支持 1.0.6 版本的 RGA（Red Giant Application），用于管理插件的下载、更新、注册与卸载。",
+    "installation_method": "先安装插件程序，再点击左下角蓝色的 Activate；在弹出的 Red Giant Application Manager 中点击 Cancel（无需登录），然后点击右上角按钮选择 Enter Serial Number，依次输入序列号完成注册。",
+    "license_keys": [
+      "COBK2245921573563861",
+      "COBK2245846563534111"
+    ],
+    "tutorial_downloads": [
+      {
+        "name": "城通网盘下载",
+        "url": "http://lookae.ctfile.com/fs/EOV159613519"
+      },
+      {
+        "name": "百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1nu7VFYT"
+      }
+    ],
+    "official_store": "https://lookae.taobao.com/",
+    "donation_link": "https://www.lookae.com/sponsor/",
+    "additional_info": "本套件支持一个序列号激活全部插件，适合需要高效调色与美化处理的视频创作者。"
+  }
+}

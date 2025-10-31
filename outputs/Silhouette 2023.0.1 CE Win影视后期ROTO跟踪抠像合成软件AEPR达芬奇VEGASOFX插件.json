@@ -1,0 +1,55 @@
+{
+  "title": "Silhouette 2023.0.1 CE Win影视后期ROTO跟踪抠像合成软件AE/PR/达芬奇/VEGAS/OFX插件",
+  "slug": "silhouette-2023-0-1-ce-winying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-ae-pr-da-fen-qi-vegas-ofxcha-jian",
+  "author": "大众脸",
+  "post_date": "2023-06-25T09:40:00Z",
+  "source_url": "https://www.lookae.com/silhouette-2023/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ROTO抠像",
+    "ROTO跟踪",
+    "Silhouette",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 是业界领先的动态描边与绘画工具，具备强大的合成功能。其内置超过400个VFX节点，涵盖颜色、合成、滤镜、光效、变形、时间、色调、变换、特殊效果、图像、键控、蓝宝石、剪影、OFX组等类别，并集成 Boris FX Sapphire、Mocha Pro 与 Particle Illusion 等专业插件。该软件被全球顶级视觉艺术家广泛用于好莱坞大片制作，曾参与《黑豹：永远的瓦坎达》《壮志凌云：特立独行》《沙丘》《曼达洛人》等高影响力项目，并为Netflix生产技术联盟成员。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Silhouette-2023.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Silhouette 2023.0, After Effects CC 2019-2023+, Premiere 2020-2023+, OFX支持：Vegas、达芬奇、Nuke、Fusion等",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-876446865-d229ee?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1slt4A7MKTHnQYMviDqaFtQ?pwd=qrd9"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/AGFw6vga2Ls"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "AI/ML：生成式 AI 和机器学习工具在 Stability 和 Denoiser ML 节点中首次亮相。",
+      "Grain 管理工具：包括 Denoiser ML、Regrain 和 Sapphire UltraGrain 节点，提升画面电影级真实感。",
+      "Primatte：基于GPU加速算法和3D预览，高效完成绿/蓝屏素材键控与合成。",
+      "表达式功能：支持复杂动画、参数链接、数学运算及变量使用，无需编码。",
+      "新增节点：大气辉光、曲线控制等。",
+      "预设库：包含美容工作室、相机抖动、色差、日夜交替、显影、胶片发光、垃圾遮罩、漏光、棱镜、光线、涂抹模糊、日落、双条纹、晕影、X射线等实用效果。"
+    ],
+    "related_links": [
+      "https://www.lookae.com/silhouette-ch/"
+    ],
+    "license_type": "CE 一键安装版",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "qrd9"
+    }
+  }
+}

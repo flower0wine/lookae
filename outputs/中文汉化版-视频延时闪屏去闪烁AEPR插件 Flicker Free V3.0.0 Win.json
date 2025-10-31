@@ -1,0 +1,48 @@
+{
+  "title": "中文汉化版-视频延时闪屏去闪烁AE/PR插件 Flicker Free V3.0.0 Win",
+  "slug": "zhong-wen-yi-hua-ban-shi-pin-yan-shi-shan-ping-qu-shan-shuo-ae-prcha-jian-flicker-free-v3-0-0-win",
+  "author": "大众脸",
+  "post_date": "2025/06/13 11:33",
+  "source_url": "https://www.lookae.com/flicker-free-chn/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "去闪插件",
+    "精品资源"
+  ],
+  "content": "由于人眼和摄像机捕捉的光线频率不同，使用摄像机拍摄的视频有时会出现光闪烁现象。Flicker Free 插件可有效处理此类问题，包括光闪烁、延时拍摄闪烁和动态闪烁等，特别适用于延时摄影或高帧率慢动作视频中出现的闪光问题。该插件还能有效去除由 LED 灯、电脑显示器或电气干扰引起的闪烁。其原理是通过分析画面的颜色和亮度，计算并生成平滑的视频图像。支持 4K 分辨率及 GPU 加速渲染。\n\n（注：插件并非万能，无法百分百解决所有闪烁问题。）",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Flicker-Free-CH.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01odE0a51vSMrH2HNrN_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345710686396.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023, 2024, 2025; PR CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Windows 64位（不支持32位系统，不支持Mac）",
+  "download_links": [
+    {
+      "name": "淘宝购买（中文汉化版）",
+      "url": "https://item.taobao.com/item.htm?id=667670703465"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/flicker-free-300/"
+    },
+    {
+      "name": "站内支付下载（¥8）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fflicker-free-chn%2F"
+    }
+  ],
+  "other": {
+    "notes": [
+      "提供英文和中文版，一键集成安装。",
+      "仅支持 Windows 系统，不支持 Mac。",
+      "由于技术限制，极少部分参数可能未汉化。",
+      "因转译编码特殊性，可能存在潜在 BUG。",
+      "仅提供工具，不提供视频教程或使用教学。"
+    ]
+  }
+}

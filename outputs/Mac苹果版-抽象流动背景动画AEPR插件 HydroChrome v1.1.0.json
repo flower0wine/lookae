@@ -1,0 +1,67 @@
+{
+  "title": "Mac苹果版-抽象流动背景动画AE/PR插件 HydroChrome v1.1.0",
+  "slug": "macping-guo-ban-chou-xiang-liu-dong-bei-jing-dong-hua-ae-prcha-jian-hydrochrome-v1-1-0",
+  "author": "大众脸",
+  "post_date": "2025-01-07T11:18:00Z",
+  "source_url": "https://www.lookae.com/mac-hydrochrome/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "MAC插件",
+    "PR插件",
+    "苹果插件"
+  ],
+  "content": "HydroChrome 是一款支持 Mac 和 Windows 系统的 GPU 效果插件，可在 After Effects 与 Premiere Pro 中实时渲染。它能帮助用户创建抽象的流动背景，或为素材添加色彩变化效果，适用于创意视频制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/hydrochrome.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/470432289306.mp4"
+  ],
+  "supported_versions": "After Effects 2022-2025, Media Encoder 2022-2025, Premiere 2022-2025",
+  "supported_os": "Mac, Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1444706918-b035af?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1yEcaNFdc7v4ON1jQnqAUHQ?pwd=72bt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/dfBiGo68PHB"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/hydrochrome/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "72bt"
+    },
+    "system_requirements": {
+      "after_effects": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "media_encoder": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "premiere": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ]
+    }
+  }
+}

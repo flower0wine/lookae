@@ -1,0 +1,84 @@
+{
+  "title": "23种浪漫唯美婚礼 LUTs 电影调色预设 LAPARDIN WEDLUTS",
+  "slug": "23chong-lang-man-wei-mei-hun-li-luts-dian-ying-diao-se-yu-she-lapardin-wedluts",
+  "author": "大众脸",
+  "post_date": "2017/01/12 19:12",
+  "source_url": "https://www.lookae.com/wedding-lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "LAPARDIN WEDLUTS 共23种LUTS预设，有.cube格式和.3dl格式 。这套LUTS专为婚礼画面提供色彩调色，也可用于其他素材，提供行业标准的3D LUT，便于颜色校正和分级调色，让画面颜色富有创意。LUT能快速搞定画面调色步骤，具有丰富动态色彩，使画面呈现电影胶片色彩质感，大部分后期软件都可使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/01/wedding-lut.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/pyp167308898"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1eSspu0a"
+    }
+  ],
+  "other": {
+    "related_recommendations": [
+      "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）: https://www.lookae.com/lookaeluts/",
+      "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft: https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158",
+      "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film: https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+    ],
+    "lut_usage_methods": [
+      "Adobe Premiere Pro CC：视频特效 –  Lumetri",
+      "Adobe Photoshop CS6/CC： Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC：Effects → Utility → Apply Color LUT",
+      "Vegas Pro：[LUTS插件下载](https://www.lookae.com/ofxlut/)",
+      "Nuke: Vectorfield",
+      "SCRATCH: Color Scraffolds",
+      "Final Cut Pro X 调用插件：[FCPX LUT Loader](https://www.lookae.com/lut-loader-15s/)",
+      "DaVinci Resolve 直接使用或导入",
+      "[Magic Bullet LUT Buddy](https://www.redgiant.com/downloads/free-products/) 适用于大部分软件",
+      "[FCPX软件 LUT 实用颜色工具](https://www.lookae.com/fcpx-lut/) FCPX可用",
+      "只要软件能安装 Looks 新版的调色插件，就能使用Looks导入LUT使用"
+    ],
+    "related_downloads": [
+      "上万种LUT调色预设免费下载: https://www.lookae.com/tag/lut/"
+    ],
+    "other_links": [
+      "【大众脸官方淘宝店】: https://lookae.taobao.com/",
+      "点击自愿赞助 LookAE.com 网站 【送精品资源】: https://www.lookae.com/sponsor/"
+    ],
+    "lut_usage_tutorials": [
+      "在线观看视频使用教程: https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf",
+      "高清教程视频文件下载: https://pan.baidu.com/s/1dEdBwA1"
+    ],
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2016",
+      "Adobe After Effects CS6-CC 2016",
+      "Adobe Photoshop CS6-CC 2016",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Mac苹果版 : AE插件-点线面三维粒子插件 Rowbyte Plexus v3.1.8 版",
+  "slug": "macping-guo-ban-aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-8-ban",
+  "author": "大众脸",
+  "post_date": "2018/12/16 21:43",
+  "source_url": "https://www.lookae.com/mac-plexus-318/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "强大的Plexus粒子插件制作点线面三维粒子效果非常方便，渲染速度快，支持3D模型导入。你可以将3D模型存储为OBJ格式导入AE作为粒子发射器，还可以借助路径、文字和灯光创建粒子发射。插件提供多种自定义特效，包括分形、颜色、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-325766160"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/15Q7d6Dj7gqltmS4ZsHfaZQ"
+    }
+  ],
+  "other": {
+    "version_updates": {
+      "v3.1.8": [
+        "支持CC 2019软件",
+        "修正了组中顶点大小设置问题",
+        "渲染轻微增强"
+      ],
+      "v3_new_features": [
+        "基于对象的UI界面",
+        "深度贴图",
+        "运动模糊",
+        "音频效果器",
+        "空物体控制提升",
+        "物体切割",
+        "物体路径改进",
+        "无缝线条动画",
+        "粒子可视化控制",
+        "OBJ导入提升",
+        "统一渲染",
+        "镶嵌合成模式",
+        "循环噪波"
+      ]
+    },
+    "tutorial_downloads": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "name": "百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      }
+    ],
+    "official_links": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ],
+    "win_version_link": "https://www.lookae.com/plexus318win/"
+  }
+}

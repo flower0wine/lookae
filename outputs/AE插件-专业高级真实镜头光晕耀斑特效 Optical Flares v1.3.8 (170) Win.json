@@ -1,0 +1,67 @@
+{
+  "title": "AE插件-专业高级真实镜头光晕耀斑特效 Optical Flares v1.3.8 (170) Win",
+  "slug": "aecha-jian-zhuan-ye-gao-ji-zhen-shi-jing-tou-guang-yun-yao-ban-te-xiao-optical-flares-v1-3-8-170-win",
+  "author": "大众脸",
+  "post_date": "2024/06/27 21:39",
+  "source_url": "https://www.lookae.com/optical-flares-138170/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Optical Flares",
+    "镜头光晕"
+  ],
+  "content": "Optical Flares是一款强大专业的镜头光晕耀斑光效AE插件，因功能强大，操作方便，效果绚丽，渲染速度迅速，备受大家的喜爱。插件可以制作设计动画效果逼真的镜头耀斑灯光特效，拥有完整的独立界面，可自定义保存预设，插件安装包里也提供了众多预设，可直接在插件中使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/AK-Optical-Flares.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274013701666.mp4"
+  ],
+  "supported_versions": "AE CC 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 或更高版",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "英文版",
+      "url": "https://url70.ctfile.com/f/2827370-1315143533-8c6dda?p=4431"
+    },
+    {
+      "name": "百度网盘（英文版）",
+      "url": "https://pan.baidu.com/s/16pNz3oky1eKi2uc4N1NjJg?pwd=a6qj"
+    },
+    {
+      "name": "阿里云盘（英文版）",
+      "url": "https://www.alipan.com/s/SK5r61agbm1"
+    },
+    {
+      "name": "中文版",
+      "url": "https://www.lookae.com/of135-chn/"
+    },
+    {
+      "name": "更多预设 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-527829514-e5e2c3"
+    },
+    {
+      "name": "更多预设 - 百度网盘",
+      "url": "https://pan.baidu.com/s/16FVnzIasUBNwQ7XzaKLlwQ"
+    },
+    {
+      "name": "更多预设 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PqvrMoGUST2"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-9963544-87eb61?p=6688"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1iTJOe-T79_dk2u8-s7yoGQ"
+    }
+  ],
+  "other": {
+    "mfr_info": "新版本支持多帧渲染（MFR），可加速渲染。AE可在所有CPU核心上同时渲染多个帧，提升依赖CPU的插件性能；新的渲染管道共享内存并动态分配任务。GPU密集型插件如Optical Flares不会阻塞CPU执行其他任务，整体项目渲染更快。",
+    "ui_improvement": "在4K显示器上使用UI时，增加了对更大缩放的支持。",
+    "plugin_install_path": "效果-VideoCopilot-Optical Flares",
+    "preset_directory": "文档\\VideoCopilot\\Optical Flares\\Optical Flares Presets\\Lens Flares",
+    "related_link": "苹果M1版AE插件-真实镜头光晕耀斑特效 Optical Flares v1.3.8 Mac: https://www.lookae.com/ofmac-138/"
+  }
+}

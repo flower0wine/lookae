@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-点线连接阵列动画 NodeKit V1.03 + 视频教程",
+  "slug": "aejiao-ben-dian-xian-lian-jie-zhen-lie-dong-hua-nodekit-v1-03-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/12 20:37",
+  "source_url": "https://www.lookae.com/nodekit-103/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "NodeKit可用于创建、布局、连接和动画化基于节点的流程图、信息图形和图表，简单灵活且直观，适合制作复杂信息图形效果和创建设计阵列，内置文本生成器，可导入图片，快速生成连接组合。v1.03新版修复一些错误BUG，兼容苹果10.15系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/NodeKit.jpg",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_2_2.gif",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_1_1.gif",
+    "https://aescripts.com/media/catalog/product/n/k/nk_sample_3_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018，CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-413226050"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/112EZS9VTpWKhG7u9gVhz3w"
+    }
+  ],
+  "other": {
+    "script_introduction_en": "NodeKit is a complete system designed to create, layout, connect and animate node-based flow charts, info graphics and diagrams. Very simple, flexible and intuitive.",
+    "official_website": "https://aescripts.com/nodekit/"
+  }
+}

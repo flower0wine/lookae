@@ -1,0 +1,38 @@
+{
+  "title": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle 15.09.2016 CE",
+  "slug": "aecha-jian-bian-xing-3dwang-ge-cha-jian-tao-zhuang-mettle-plugins-bundle-15-09-2016-ce",
+  "author": "大众脸",
+  "post_date": "2016/09/26 12:04",
+  "source_url": "https://www.lookae.com/mettle-915/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle公司是AE重要的插件提供商，插件虽然不多但很精良。最新变形3D网格插件套装Mettle Bundle 15.09.2016支持Adobe CC 2015.3，提供加入了全景环境贴图插件SkyBox，其他插件也做了相应的更新。插件为一键安装版，安装即可使用，无功能限制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Mettle-Pluginsb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014, CC 2015, CC 2015.3",
+  "supported_os": "Win版",
+  "download_links": [
+    {
+      "name": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle 15.09.2016 CE",
+      "url": "http://lookae.ctfile.com/fs/QA7157126153"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      "FreeForm V2.12 网格变形插件（普通版）",
+      "FreeForm Pro v1.82 3D网格变形插件（专业版）",
+      "ShapeShifter v1.82 3D立体文字插件",
+      "SkyBox Creator v2.31",
+      "SkyBox Extractor v1.31",
+      "SkyBox Converter v2.33",
+      "SkyBox Viewer v1.33",
+      "SkyBox VR Player v1.1",
+      "SkyBox 360 Post FX v1.61",
+      "SkyBox 360/VR Transitions v1.02"
+    ]
+  }
+}

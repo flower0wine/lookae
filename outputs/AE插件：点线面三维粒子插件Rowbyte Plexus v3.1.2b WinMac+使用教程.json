@@ -1,0 +1,50 @@
+{
+  "title": "AE插件：点线面三维粒子插件Rowbyte Plexus v3.1.2b Win/Mac+使用教程",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-2b-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/12/15 12:10",
+  "source_url": "https://www.lookae.com/plexus312b/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "这是一款AE插件，名为Rowbyte Plexus v3.1.2b，可制作点线面三维粒子效果，具有渲染速度快等特点，支持3D模型导入。Plexus 3增加和改进众多功能，如全新定制UI操控界面、深度贴图、运动模糊等。插件支持Win和Mac系统，适用于After Effects CS6 - CC 2018。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 - CC 2018",
+  "supported_os": "WinMac",
+  "download_links": [
+    {
+      "name": "Win版插件城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-231498632"
+    },
+    {
+      "name": "Win版插件百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1c2OzYla"
+    },
+    {
+      "name": "Mac版插件城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-231498630"
+    },
+    {
+      "name": "Mac版插件百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1qYgIkhQ"
+    },
+    {
+      "name": "视频教程城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "视频教程百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "plugin_introduction": "强大的 Plexus 粒子插件迎来重大更新 Plexus 3，增加和改进众多功能，制作点线面三维粒子效果方便，渲染速度快，支持3D模型导入等。官方介绍：http://aescripts.com/plexus/  或 https://www.rowbyte.com/plexus/。Plexus 3.1.2 更新内容：Fixed container issues on some OBJs. Improved Plexus 2 project upgrades. Fixed ‘internal verification error’ in some comps.",
+    "new_features": "Object based UI 全新定制的UI操控界面；Depth Map Culling 深度贴图；Motion Blur 运动模糊；Sound Effector 音频效果器；Null Object Performance 空物体控制提升；Slicer Object 物体切割；Path Object Improvements 物体路径；Seamless Beams 无缝线条动画；Custom Visibility Settings 粒子可视化控制；Improved OBJ ImportOBJ 导入提升；Unified Rendering 统一渲染；Nested Compositions 镶嵌合成模式；Loop Noise 循环噪波"
+  }
+}

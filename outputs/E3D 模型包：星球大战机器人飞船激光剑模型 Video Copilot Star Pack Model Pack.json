@@ -1,0 +1,50 @@
+{
+  "title": "E3D 模型包：星球大战机器人飞船激光剑模型 Video Copilot Star Pack Model Pack",
+  "slug": "e3d-mo-xing-bao-xing-qiu-da-zhan-ji-qi-ren-fei-chuan-ji-guang-jian-mo-xing-video-copilot-star-pack-model-pack",
+  "author": "大众脸",
+  "post_date": "2016-05-05",
+  "source_url": "https://www.lookae.com/starpack/",
+  "category": "aechajian",
+  "tags": [
+    "E3D V2",
+    "E3D模型",
+    "E3D模型包",
+    "Video Copilot"
+  ],
+  "content": "Video Copilot 官方免费发布的星球大战主题 E3D V2 模型包，包含 Tie Fighter、X-Wing、R2-D2、BB-8、Luke/Obi-Wan/Vader 激光剑、帝国走廊组件、塔图因水蒸气机等高清 4K 贴图 OBJ 模型，适用于 Element 3D 快速渲染。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/05/StarPack.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2yBX8opXXXXbQXpXXXXXXXXXX_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Element 3D v2",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/rQO150282749"
+    },
+    {
+      "name": "官网直接下载",
+      "url": "http://vcproducts.s3.amazonaws.com/free/starwarspack/StarPack.1.zip"
+    }
+  ],
+  "other": {
+    "included_models": [
+      "Tie Fighter",
+      "Imperial Corridor Pieces",
+      "Luke Lightsaber",
+      "Obi-Wan Lightsaber",
+      "Darth Vader Lightsaber",
+      "R2-D2",
+      "BB-8",
+      "X-Wing",
+      "Tatooine Water Vaporator"
+    ],
+    "install_method": "拷贝模型包到：我的文档/VideoCopilot/Models",
+    "recommended_plugins": [
+      "Element 3D v2",
+      "Saber"
+    ]
+  }
+}

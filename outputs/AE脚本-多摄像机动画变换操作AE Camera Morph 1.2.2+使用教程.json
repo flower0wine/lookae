@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-多摄像机动画变换操作AE Camera Morph 1.2.2+使用教程",
+  "slug": "aejiao-ben-duo-she-xiang-ji-dong-hua-bian-huan-cao-zuo-ae-camera-morph-1-2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/22 18:26",
+  "source_url": "https://www.lookae.com/camera-morp-122/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本在AE中可实现类似Cinema 4D中多个摄像机动画的自由变换操作，无需繁琐操作即可实现复杂摄像机动画。v1.2.2更新内容包括正式支持CC 2019，兼容Legacy ExtendScript和JavaScript表达式引擎，并修复了在某些情况下变形相机创建不正确、变形选项面板无法打开以及脚本无法打开的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Camera-Morp.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375409987"
+    },
+    {
+      "name": "脚本-百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OJZ_0fS8dnSr7nWoVNfc-w"
+    },
+    {
+      "name": "教程-城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-322349923"
+    },
+    {
+      "name": "教程-百度网盘下载",
+      "url": "https://pan.baidu.com/s/181y5NETkGNXMqtXu-rBxDw"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件(https://www.lookae.com/after-effects/aechajian/)",
+      "AE脚本(https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects(https://www.lookae.com/after-effects/)"
+    ],
+    "脚本介绍链接": "https://aescripts.com/ae-camera-morph/"
+  }
+}

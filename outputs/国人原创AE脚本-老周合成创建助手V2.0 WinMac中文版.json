@@ -1,0 +1,47 @@
+{
+  "title": "国人原创AE脚本-老周合成创建助手V2.0 Win/Mac中文版",
+  "slug": "guo-ren-yuan-chuang-aejiao-ben-lao-zhou-he-cheng-chuang-jian-zhu-shou-v2-0-win-maczhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2021/12/20 13:50",
+  "source_url": "https://www.lookae.com/make-comp/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "国人原创",
+    "老周"
+  ],
+  "content": "在AE创建合成的时候，总会弹出一个合成设置的弹窗，而有时候我们需要频繁地创建合成，就得频繁地创建与设置参数。老周合成助手，告别弹窗式创建与修改合成，是可以将自己常用的合成设置保存到预设，一键即可生成预设合成的脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/MAKE-comp-V2.jpg"
+  ],
+  "video_urls": [
+    "https://www.bilibili.com/video/BV1c3411x7np"
+  ],
+  "supported_versions": "After Effects CC 2015 – 2022 或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-529716327-75e4d6"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jtdFEXe11W-xxzbrHAGLYg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/oBvKDviafKQ"
+    }
+  ],
+  "other": {
+    "v2_update_log": [
+      "支持预设名的更改",
+      "支持修改当前合成以及修改选中的合成",
+      "新增面板的优化"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ell6"
+    }
+  }
+}

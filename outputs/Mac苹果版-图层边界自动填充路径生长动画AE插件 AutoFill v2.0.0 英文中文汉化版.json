@@ -1,0 +1,93 @@
+{
+  "title": "Mac苹果版-图层边界自动填充路径生长动画AE插件 AutoFill v2.0.0 英文/中文汉化版",
+  "slug": "macping-guo-ban-tu-ceng-bian-jie-zi-dong-tian-chong-lu-jing-sheng-chang-dong-hua-aecha-jian-autofill-v2-0-0-ying-wen-zhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2023/10/20 10:40",
+  "source_url": "https://www.lookae.com/autofill-mac-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "AutoFill",
+    "中文汉化"
+  ],
+  "content": "AutoFill 是一款革命性的 After Effects 插件，可自动填充图层边界，显著减少手动遮罩和关键帧设置的时间。支持 Mac 和 Windows 系统，兼容 After Effects 2021 至 2023 版本（包括 Intel 和 Apple M 芯片）。该插件具备先进的计算缓存机制、原生 MFR 多帧渲染支持，并提供多种高级功能如样式生成器、渐变编辑器、质量设置以及 CPU/GPU 渲染管道，适用于专业级动画制作与渲染农场环境。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/AutoFill-v2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/422484906006.mp4"
+  ],
+  "supported_versions": "After Effects 2021, 2022, 2023",
+  "supported_os": "Mac / Win (支持Intel和Apple M芯片)",
+  "download_links": [
+    {
+      "name": "Mac插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-961500828-8ad6fe?p=4431"
+    },
+    {
+      "name": "Mac插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/18EZ3Nr1I7fOvXI4ChQ-pyw?pwd=zibw"
+    },
+    {
+      "name": "Mac插件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/K8fvEPV3s2m"
+    },
+    {
+      "name": "Win插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-915631617-f44176?p=4431"
+    },
+    {
+      "name": "Win插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1JCqGxEpDz8xlbKQb5ELSaw?pwd=k81g"
+    },
+    {
+      "name": "Win插件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/eLS8gsDcsA4"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-910418937-29cff9?p=4431"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13yV4YgIrY-hO2xuo2Urtsw?pwd=g56s"
+    },
+    {
+      "name": "使用教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/jjSc4JnhVzU"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "MFR原生；巨大的性能提升",
+      "新的AE计算缓存具有坚如磐石的稳定性；即时预览（重新模拟按钮已删除）",
+      "添加了样式生成器；内置多轨合成解决方案",
+      "30个全新内部预设",
+      "改进了50个原始AE项目文件预设",
+      "具有直观渐变编辑器的RGBA渐变",
+      "内置质量设置：超级采样、自适应分辨率和智能抗锯齿",
+      "3种附加速度图模式；自动速度图重命名为“较慢的近边界”",
+      "自动填充桥来连接断开的元素",
+      "用于渲染农场和CPU后备的CPU和GPU管道"
+    ],
+    "description_en": "AutoFill is a revolutionary new plugin for After Effects that fluidly fills the bounds of your layer to save you hours of tedious masking & keyframing. Now with state-of-the-art compute caching and MFR native compatibility!",
+    "related_tags": [
+      "AE插件",
+      "AE插件M1",
+      "AutoFill",
+      "中文汉化"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/autofill/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/"
+    ]
+  }
+}

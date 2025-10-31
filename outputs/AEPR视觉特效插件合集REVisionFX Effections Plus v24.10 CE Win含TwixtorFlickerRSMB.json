@@ -1,0 +1,129 @@
+{
+  "title": "AE/PR视觉特效插件合集REVisionFX Effections Plus v24.10 CE Win含Twixtor/Flicker/RSMB",
+  "slug": "ae-prshi-jue-te-xiao-cha-jian-he-ji-revisionfx-effections-plus-v24-10-ce-winhan-twixtor-flicker-rsmb",
+  "author": "大众脸",
+  "post_date": "2024/10/23 08:49",
+  "source_url": "https://www.lookae.com/re-202410/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "RSMB",
+    "Twixtor"
+  ],
+  "content": "REVisionFX Effections Plus 是一套功能强大的视觉特效插件合集，适用于 Adobe After Effects 和 Premiere Pro，提供视频降噪、超级慢动作无极变速、去闪烁、变形、调色、镜头修复等多种专业工具。该套装包含 Twixtor、Flicker、RSMB、Flex 等广受欢迎的插件，适用于影视后期、广告制作及各类视频编辑场景，支持 Windows 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/revisionfx2018.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC2014 – 2019, 2020, 2021, 2022, 2023, 2024, 2025; Premiere Pro CC2014 – 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1389513658-eecc0d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1oCI9DlNPzjUtWG4WHb48Mg?pwd=ke98"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/yYDFqH3NmKM"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "ke98"
+    },
+    "included_plugins": [
+      {
+        "name": "DE:Flicker",
+        "version": "v2.2.4",
+        "description": "视频去闪烁插件"
+      },
+      {
+        "name": "Color Genius",
+        "version": "v1.0.1",
+        "description": "AI智能调色 (新插件)"
+      },
+      {
+        "name": "DE:Noise",
+        "version": "v3.6.1",
+        "description": "视频降噪插件"
+      },
+      {
+        "name": "FieldsKit",
+        "version": "v4.1.2",
+        "description": "动画反交错插件"
+      },
+      {
+        "name": "PV Feather",
+        "version": "v1.8.1",
+        "description": "逐点羽化插件"
+      },
+      {
+        "name": "RE:Fill",
+        "version": "v3.0.2",
+        "description": "智能修补和填充插件"
+      },
+      {
+        "name": "RE:Flex",
+        "version": "v5.6.1",
+        "description": "扭曲变形/变脸插件"
+      },
+      {
+        "name": "RE:Grade",
+        "version": "v1.3.1",
+        "description": "调色插件"
+      },
+      {
+        "name": "RE:Lens",
+        "version": "v2.4.3",
+        "description": "鱼眼广角镜头畸变扭曲修复插件"
+      },
+      {
+        "name": "RE:Map",
+        "version": "v4.2.2",
+        "description": "UV贴图映射插件"
+      },
+      {
+        "name": "RE:Match",
+        "version": "v2.7.2",
+        "description": "色彩匹配插件"
+      },
+      {
+        "name": "RE:Zup",
+        "version": "v1.1.2",
+        "description": "无损放大插件"
+      },
+      {
+        "name": "ReelSmart Motion Blur Pro",
+        "version": "v6.4.3",
+        "description": "RSMB动态模糊插件"
+      },
+      {
+        "name": "Shade/Shape",
+        "version": "v5.0.1",
+        "description": "形状阴影插件"
+      },
+      {
+        "name": "SmoothKit",
+        "version": "v4.0.3",
+        "description": "降噪磨皮美颜插件"
+      },
+      {
+        "name": "Twixtor Pro",
+        "version": "v7.5.6",
+        "description": "超级慢动作变速插件"
+      },
+      {
+        "name": "Video Gogh",
+        "version": "v4.0.1",
+        "description": "水彩油画插件"
+      }
+    ],
+    "related_link": "https://www.lookae.com/revisionfx-21-zh/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "AE插件：DCP数字电影打包工具 FanDev CuteDCPTools v1.0.22 CE + 使用教程",
+  "slug": "aecha-jian-dcpshu-zi-dian-ying-da-bao-gong-ju-fandev-cutedcptools-v1-0-22-ce-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-02-13 13:47",
+  "source_url": "https://www.lookae.com/cutedcptools-1022/",
+  "category": "aechajian",
+  "tags": [
+    "AEc插件"
+  ],
+  "content": "FanDev CuteDCP( DCP数字电影打包工具 )是After Effects一个数字电影包（DCP）的创作工具。是一个渲染导出（输出模块）插件，CuteDCP易于使用，可以在大多数主要服务器上播放。这是一个工具箱插件，允许用户将现有的DCP导入到After Effects中，用户可以进行各种修改和调整。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/FanDev-CuteDCPTools.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS 6 – CC 2017",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "AE插件：DCP数字电影打包工具 FanDev CuteDCPTools v1.0.22 CE + 使用教程",
+      "url": "https://lookae.ctfile.com/fs/nk3171213366"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.fandev.com/cutedcptools.html",
+    "installation_note": "插件为一键安装注册，装后即可使用，带使用教程",
+    "features": [
+      "Import DCPs",
+      "RePackage and export the modified DCP",
+      "Title Helper tool",
+      "Import subtitles (SMPTE and Cinecanvas)",
+      "Export subtitles (SMPTE and Cinecanvas)"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "AE/PR脚本-图像拖尾粒子破碎消散汇聚遮罩燃烧火焰线条视觉特效Photo Effects Animator V6",
+  "slug": "ae-prjiao-ben-tu-xiang-tuo-wei-li-zi-po-sui-xiao-san-hui-ju-zhe-zhao-ran-shao-huo-yan-xian-tiao-shi-jue-te-xiao-photo-effects-animator-v6",
+  "author": "大众脸",
+  "post_date": "2022/06/06 09:42",
+  "source_url": "https://www.lookae.com/photo-effects-animator/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本",
+    "PremiumBuilder",
+    "PR模板",
+    "PR脚本",
+    "粒子破碎"
+  ],
+  "content": "这是一款支持 Adobe After Effects 和 Premiere Pro 的视觉特效脚本，提供多种动态图像处理效果。用户只需拖放照片、制作带 Alpha 通道的蒙版 PNG 图像，即可通过可视化界面选择并应用各种特效，操作简单高效。内置丰富的预设效果库，适用于多种创意视频制作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/37693478-37697038.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/363838147968.mp4"
+  ],
+  "supported_versions": "AE 2021 或更高，PR 2021 或更高",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-589565752-8c7cff?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1NLtNnVtURZHT92CaZeRTPA?pwd=vu7i"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/m6pwRcCSnKa"
+    }
+  ],
+  "other": {
+    "included_effects": [
+      "燃烧",
+      "数字视觉",
+      "双重曝光",
+      "电动",
+      "爆炸",
+      "火焰",
+      "毛刺故障",
+      "墨滴",
+      "墨水飞溅",
+      "光线",
+      "线条",
+      "像素化",
+      "烟雾",
+      "风暴",
+      "拉伸"
+    ],
+    "resolution_support": [
+      "4K",
+      "1920*1080",
+      "1080*1920",
+      "1080*1080"
+    ],
+    "features": [
+      "无需插件",
+      "包含Universaliser控制器（与任何语言兼容）",
+      "包含PremiumBuilder脚本扩展",
+      "组织良好的可视化预设库"
+    ],
+    "file_size": "3.1G",
+    "password": {
+      "城通网盘": "6688"
+    }
+  }
+}

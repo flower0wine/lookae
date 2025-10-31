@@ -1,0 +1,29 @@
+{
+  "title": "AE插件：图像粒子像素破碎汇聚路径描边特效 FanDev BikiniDots v2.2.1 CE",
+  "slug": "aecha-jian-tu-xiang-li-zi-xiang-su-po-sui-hui-ju-lu-jing-miao-bian-te-xiao-fandev-bikinidots-v2-2-1-ce",
+  "author": "大众脸",
+  "post_date": "2016/12/02 16:29",
+  "source_url": "https://www.lookae.com/bikinidots221/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "BikiniDots是After Effects软件插件，包括两个插件：b_dots和b_stroke。b_stroke是路径描边插件，支持z深度置换功能，可以在XYZ方向制作路径变描边效果；b_dots是破碎生成器插件，可以创建一个矩阵的点，每个点的颜色值是从源图像的该区域的平均采样的像素值。插件可控制亮度，饱和度或色调等参数，支持三维摄像机。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/BikiniDots-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5- CC 2017",
+  "supported_os": "Win 系统",
+  "download_links": [
+    {
+      "name": "AE插件：图像粒子像素破碎汇聚路径描边特效 FanDev BikiniDots v2.2.1 CE",
+      "url": "http://lookae.ctfile.com/fs/vNM162521677"
+    }
+  ],
+  "other": {
+    "plugin_type": "一键安装版",
+    "installation_note": "安装即可使用",
+    "official_website": "http://fandev.com/bikinidots.html"
+  }
+}

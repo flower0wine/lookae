@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-文字分割分离成单独图层 TextExploder v2.0.004",
+  "slug": "aejiao-ben-wen-zi-fen-ge-fen-chi-cheng-dan-du-tu-ceng-textexploder-v2-0-004",
+  "author": "大众脸",
+  "post_date": "2021/11/14 00:22",
+  "source_url": "https://www.lookae.com/textexploder-2004/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "TextExploder v2.0.004 是一款用于 After Effects 的脚本，可将一整段文字按字母、单词、句子等单位精确分离为独立的文字图层，便于对每个字符进行独立控制和动画处理。该功能保留了每个字符的原始位置，确保排版准确。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Text-Exploder.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50027194666.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 - 脚本下载",
+      "url": "https://url62.ctfile.com/f/680462-520638172-bfeab4"
+    },
+    {
+      "name": "百度网盘 - 脚本下载",
+      "url": "https://pan.baidu.com/s/11nEUB1gRt2main7QzVzQUw"
+    },
+    {
+      "name": "阿里云盘 - 脚本下载",
+      "url": "https://www.aliyundrive.com/s/AYsMZvijGAh"
+    },
+    {
+      "name": "城通网盘 - 教程下载",
+      "url": "https://www.pipipan.com/fs/680462-220389175"
+    },
+    {
+      "name": "百度云网盘 - 教程下载",
+      "url": "https://pan.baidu.com/s/1miMJgOK"
+    }
+  ],
+  "other": {
+    "update_notes": "v2.0.004 更新内容：修复了 After Effects 的兼容性问题",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_disk": "mc9b"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-人物角色骨骼IK绑定动画控制 Limber V1.7.3 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-gu-ge-ikbang-ding-dong-hua-kong-zhi-limber-v1-7-3-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/03/02 09:25",
+  "source_url": "https://www.lookae.com/limber-173/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Limber 是一个专为 After Effects 设计的 IK（反向动力学）系统，通过形状图层实现可定制的角色肢体动画。它支持灵活的控制器样式与颜色设置，动态防止动画‘弹出’现象，平滑融合 IK 与 FK（正向动力学）之间的切换，并支持不同类型的肢体互换。用户可通过熟悉的控制器层对四肢的臀部和脚踝点进行动画控制。如需使用 FK 模式，只需创建一个 FK 控制器，将手或脚图层重新父化至该控制器，并调整旋转值即可实现自然的手臂摆动效果，适用于步行循环等场景。此外，用户可自由自定义肢体形状图层，包括添加、修改形状，应用笔触或渐变填充，拆分肢体部分为独立图层等。完成个性化设计后，可复制并粘贴至其他肢体分支。项目还附带一个‘肢体库’，包含多种高级定制肢体，部分复杂肢体本身即为带有额外属性和行为控制的完整装备。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/Limber.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022、2021、2020、CC 2019、CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-550456509-508ad5"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10Gh96M9OFfT9mkEgJuldgQ?pwd=nzus"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/HtuVED7CZrv"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-323818611"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WsJDPaCp-3a8MJVhHH-bug"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.7.3 更新内容：修复了‘ExtComms’错误处理；更新了肢体库（错误修复）",
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

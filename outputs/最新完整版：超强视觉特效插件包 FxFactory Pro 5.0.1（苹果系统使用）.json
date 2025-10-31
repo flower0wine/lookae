@@ -1,0 +1,84 @@
+{
+  "title": "最新完整版：超强视觉特效插件包 FxFactory Pro 5.0.1（苹果系统使用）",
+  "slug": "zui-xin-wan-zheng-ban-chao-qiang-shi-jue-te-xiao-cha-jian-bao-fxfactory-pro-5-0-1-ping-guo-xi-tong-shi-yong",
+  "author": "大众脸",
+  "post_date": "2015-02-05T12:25:00Z",
+  "source_url": "https://www.lookae.com/fxfpro501/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "FxFactory Pro",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "FxFactory Pro 5.0.1 是一款专为苹果系统设计的强大视觉特效插件包，支持 Final Cut Pro X、Motion 5、Adobe After Effects CS6/CC/CC 2014 以及 Adobe Premiere Pro CS6/CC/CC 2014。该版本全新界面与图标，优化预览速度，提升性能，完美兼容 OS X Yosemite 10.10.2 及 Mavericks 10.9 系统。包含数百个视觉效果插件，涵盖片头、炫光、调色、文字、转场、粒子、光效、抠像、分屏、全息、破碎等多种类型，内置大量预设，使用便捷且效果专业。支持 GPU 加速，安装后可立即使用，无需在线下载。提供普通简装版与专业完整版两种形式，其中完整版为 5.57GB 安装包，含全部插件无删减。还附带注册机，支持在新系统上直接激活。本版本更新包括新增 SUGARfx Splitter、Ripple TrainingTimelines 等插件，并修复已知问题，增强稳定性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/fxf5.jpg",
+    "http://gd1.alicdn.com/imgextra/i1/705956171/TB2vsjeaVXXXXaUXXXXXXXXXXXX-705956171.jpg",
+    "http://gd3.alicdn.com/imgextra/i3/705956171/TB2QtTcaVXXXXcVXXXXXXXXXXXX-705956171.jpg",
+    "http://gd1.alicdn.com/imgextra/i1/705956171/TB204veaVXXXXaLXXXXXXXXXXXX-705956171.jpg",
+    "http://gd3.alicdn.com/imgextra/i3/705956171/TB2UMYaaVXXXXX8XpXXXXXXXXXX-705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Final Cut Pro X 10.1.2+, Motion 5, Adobe After Effects CS6/CC/CC 2014, Adobe Premiere Pro CS6/CC/CC 2014",
+  "supported_os": "OS X Mavericks (10.9) / Yosemite (10.10)",
+  "download_links": [
+    {
+      "name": "普通简装版下载（325M）",
+      "url": "https://pan.baidu.com/s/1bnuAQWf"
+    },
+    {
+      "name": "专业完整版下载（5.57G）",
+      "url": "https://item.taobao.com/item.htm?id=42094760365"
+    },
+    {
+      "name": "专业完整版赞助下载",
+      "url": "https://www.lookae.com/wp-content/plugins/alipay/includes/tpl.cart.php?proid=101"
+    }
+  ],
+  "other": {
+    "note": "专业完整版默认包含 FxFactory Pro 5.0.1 与 4.1.9 两个版本，满足不同需求。曾购买过专业完整版的用户可凭证明免费获取更新。永久免费更新承诺真实有效。",
+    "installation_guide": "提供详细安装教程，操作简单，无需远程或复杂步骤，安全可靠。",
+    "update_log": [
+      "动态个性图文分屏效果 SUGARfx Splitter 1.0.1（新增）",
+      "时间线图文介绍 Ripple TrainingTimelines 1.0.3（更新）",
+      "绚丽文字效果 Yanobox Motype 1.4.1（更新）",
+      "文字标注效果 Ripple Training Callouts 2.0.4（更新）",
+      "地点位置标注 Ripple Training Jumps 1.0.2（更新）",
+      "修复已知BUG，提升稳定性",
+      "性能优化，运行速度更快",
+      "完美支持 Yosemite 10.10.2 系统"
+    ],
+    "system_requirements": {
+      "FxFactory_Pro_5_0_1": "OS X Mavericks / Yosemite (10.9 / 10.10)，支持 10.9.5 和 10.10.1",
+      "FxFactory_Pro_4_1_9": "OS X Lion / Mountain Lion / Mavericks (10.7-10.10)，支持 10.9.5 和 10.10.1"
+    },
+    "plugin_support": {
+      "FxFactory_Pro_5_0_1": [
+        "Final Cut Pro X 10.1.2+",
+        "Motion 5",
+        "Adobe After Effects CS6, CC, CC 2014",
+        "Adobe Premiere Pro CS6, CC, CC 2014"
+      ],
+      "FxFactory_Pro_4_1_9": [
+        "Final Cut Pro 7",
+        "Final Cut Pro X",
+        "Motion 4, 5",
+        "Adobe After Effects CS5, CS5.5, CS6, CC, CC 2014",
+        "Adobe Premiere Pro CS6, CC, CC 2014"
+      ]
+    },
+    "additional_info": {
+      "version": "5.0.1 Build 4464",
+      "release_date": "2015-02-05",
+      "package_size": {
+        "compressed": "3.85GB",
+        "installed": "5.57GB"
+      },
+      "registration": "普通简装版含注册机，专业完整版为直接安装版，安装即用。",
+      "purchase_link": "[支付¥48下载](https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ffxfpro501%2F)"
+    }
+  }
+}

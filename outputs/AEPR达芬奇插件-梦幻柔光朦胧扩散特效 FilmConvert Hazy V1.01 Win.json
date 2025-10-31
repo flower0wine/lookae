@@ -1,0 +1,45 @@
+{
+  "title": "AE/PR/达芬奇插件-梦幻柔光朦胧扩散特效 FilmConvert Hazy V1.01 Win",
+  "slug": "ae-pr-da-fen-qi-cha-jian-meng-huan-rou-guang-meng-long-kuo-san-te-xiao-filmconvert-hazy-v1-01-win",
+  "author": "大众脸",
+  "post_date": "2024/12/12 10:42",
+  "source_url": "https://www.lookae.com/hazy-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FilmConvert Hazy",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "滤镜是任何电影制作人工具包的重要组成部分，现在，您可以使用 Hazy 插件在后期拍摄中获得使用扩散滤镜的所有好处。使用滤镜预设，柔化图像中的任何明亮区域，平滑任何不均匀的肤色，并为强光源添加漂亮的绽放效果。Hazy 柔和插件可帮助在图像中柔和强光，为您的素材营造柔和梦幻的效果。根据我们最喜欢的滤镜样式，从一系列预设中进行选择，并设置不同的强度来控制效果的扩散和强度。使用我们的自定义控件将您的效果提升到一个新的水平，并根据您的喜好调整效果的分布和强度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/FilmConvert-Hazy-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495418416331.mp4"
+  ],
+  "supported_versions": "After Effects CC 2018 – 2025 或更高版本, Premiere Pro CC 2018 – 2025 或更高版本",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1435423813-709796?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1lh1HC1dzi4L7A1e_QZ6x3A?pwd=ishj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/bxCncaHwQj5"
+    }
+  ],
+  "other": {
+    "da_vinci_support": "DaVinci Resolve 16 – 19 或更高版本",
+    "update_log": "v1.01更新内容：非对数伽马的饱和度和对比度修复",
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ishj"
+    }
+  }
+}

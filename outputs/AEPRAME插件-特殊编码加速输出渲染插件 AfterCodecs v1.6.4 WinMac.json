@@ -1,0 +1,61 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.6.4 Win/Mac",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-6-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2019/06/24 10:37",
+  "source_url": "https://www.lookae.com/aftercodecs-164/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Adobe Media Encoder 设计的编码输出插件，支持输出 H.264、H.265 和 ProRes 等高质量编码格式。相比 AE 自带的输出功能，该插件渲染速度更快、文件体积更小且画质更佳。它特别适合需要高效输出专业视频格式的用户，支持带 Alpha 通道的 ProRes 444 编码，并提供多种 x264/x265 优化选项，包括专为高级用户设计的 x264 RGB 模式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2019; Premiere CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2019; Media Encoder CC 2018, CC 2017, CC 2015, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-384238197"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1UlOXs2ZDmN4siFNGobhZ2w"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "授权错误修复和新的“粘贴剪贴板”按钮在MAC上很有用，用于粘贴许可证的命令+V不起作用。",
+      "Mac：当使用多屏幕设置时，弹出窗口将消失，现在它显示在主屏幕上。"
+    ],
+    "supported_codecs": {
+      "ProRes": [
+        "LT",
+        "Proxy",
+        "Normal",
+        "HQ",
+        "444 (支持 Alpha Channel)"
+      ],
+      "x264": "最佳 H264/AVC 实现，优于 Adobe Media Encoder、QuickTime H264 和 AE 内置 H264",
+      "x265": "文件比 x264 小 30%，支持 8K 分辨率",
+      "x264_RGB": "与 x264 相同，但避免使用 YUV 色彩空间，适合高级用户存储独立通道（如 UV 贴图、Alpha 等）"
+    },
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://www.pipipan.com/fs/680462-221741711"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1c2nhMI8"
+      }
+    ],
+    "official_website": "http://aescripts.com/aftercodecs/",
+    "baidu_extract_code": "rwod"
+  }
+}

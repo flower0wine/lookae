@@ -1,0 +1,69 @@
+{
+  "title": "AE脚本-强大实用工作流程优化工具 Workflower v1.1.4 Win/Mac",
+  "slug": "aejiao-ben-qiang-da-shi-yong-gong-zuo-liu-cheng-you-hua-gong-ju-workflower-v1-1-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-06-17T22:54:00Z",
+  "source_url": "https://www.lookae.com/workflower-114/",
+  "category": "aescripts",
+  "tags": [
+    "Workflower",
+    "流程优化"
+  ],
+  "content": "Workflower 是一款专为 After Effects 设计的强大实用工作流程优化脚本，帮助用户高效管理复杂的合成项目。它支持创建图层组、仅对选定图层应用调整图层、图层克隆以及遮罩合并等功能，显著提升工作效率。适用于 AE 2022、2021、2020、CC 2019 及 CC 2018 版本，支持 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Workflower.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355133255678.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-598691804-1feecf?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1CPHNjpbwRTfuPW1soHVL9Q?pwd=vqct"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/1uEGoiGWPyA"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520634784-41200a?p=4431"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1dljmp0JE8CzG7VVmwubheg?pwd=x02h"
+    },
+    {
+      "name": "教程下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Ds7j7Eb4ciG"
+    }
+  ],
+  "other": {
+    "original_post_date": "2022/06/17 22:54",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Workflower",
+      "流程优化"
+    ],
+    "version": "v1.1.4",
+    "update_notes": [
+      "添加：如果默认分隔位置维度（在 AE 22.4 中引入），组标题以及其他 Workflower 层现在也将分隔维度。",
+      "添加：使用‘存储图层’和‘粘贴存储的图层’时，将保留效果中的图层引用。",
+      "更改：合并遮罩时，具有分离尺寸但其他未更改的变换的遮罩层现在将直接添加到‘遮罩合并’中，而不是被克隆。",
+      "更改：居中组标题时，禁用图层以及‘父异常图层’现在将在平均位置时被忽略。",
+      "修复：修复了阻止在‘刷新布局’中检查‘组调整图层’是否需要刷新才能在某些情况下工作的错误。",
+      "修复：修复了一个错误，该错误会阻止使用‘粘贴存储的图层’粘贴整个组。",
+      "修复：修复了一个错误，该错误会错误地将‘Compone in Comp’创建为父级组中的‘Collapse Transformation’层创建的父级。",
+      "修复：修复了当图层包含 sampleImage() 表达式时不会预先组合图层而将所有属性留在合成中的错误。"
+    ]
+  }
+}

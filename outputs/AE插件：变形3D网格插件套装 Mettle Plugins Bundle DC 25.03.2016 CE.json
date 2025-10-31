@@ -1,0 +1,40 @@
+{
+  "title": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle DC 25.03.2016 CE",
+  "slug": "aecha-jian-bian-xing-3dwang-ge-cha-jian-tao-zhuang-mettle-plugins-bundle-dc-25-03-2016-ce",
+  "author": "大众脸",
+  "post_date": "2016-05-29T14:51:00Z",
+  "source_url": "https://www.lookae.com/mettle25/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle公司是Adobe After Effects的重要插件提供商，其插件以精良著称。本套装为2016年3月25日发布的DC版本，支持Adobe CC 2015，包含多个3D网格变形与全景环境贴图相关插件，适用于Windows系统下的After Effects CS6至CC 2015版本。插件提供一键安装，无功能限制，广泛用于3D建模、动画、水体模拟、角色动画及360°/VR内容后期制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Mettle-Pluginsb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle DC 25.03.2016 CE",
+      "url": "http://lookae.ctfile.com/fs/QwN151543469"
+    }
+  ],
+  "other": {
+    "plugin_suite": {
+      "FreeForm V2.11": "网格变形插件（普通版）",
+      "FreeForm Pro v1.8": "3D网格变形插件（专业版）",
+      "ShapeShifter v1.8": "3D立体文字插件",
+      "SkyBox Creator v2.3": "生成360°动画的脚本",
+      "SkyBox Extractor v1.3": "将全景图转换为六个相机视角的脚本",
+      "SkyBox Converter v2.3": "全景格式转换插件（立方体十字、等距柱状、球面）",
+      "SkyBox Viewer v1.3": "模拟YouTube 360、Oculus Rift等显示效果",
+      "SkyBox VR Player v1.1": "支持Oculus Rift预览360°内容的插件",
+      "SkyBox 360 Post FX v1.0": "用于无缝拼接360°视频的后期特效"
+    },
+    "description": "Mettle公司以其在Adobe After Effects插件领域的卓越表现而闻名。其核心产品FreeForm曾被Adobe授权并集成于CS5中。后续推出的FreeForm Pro和ShapeShifter为After Effects带来了强大的3D能力，使艺术家能使用简单工具创建、渲染和动画化3D内容。该插件套装极大提升了创作效率与创意自由度。",
+    "website": "http://www.mettle.com",
+    "compatibility": "WIN64 After Effects CC 2015, CC 2014, CC, CS6"
+  }
+}

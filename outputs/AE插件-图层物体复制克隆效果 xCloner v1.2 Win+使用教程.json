@@ -1,0 +1,42 @@
+{
+  "title": "AE插件-图层物体复制克隆效果 xCloner v1.2 Win+使用教程",
+  "slug": "aecha-jian-tu-ceng-wu-ti-fu-zhi-ke-long-xiao-guo-xcloner-v1-2-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/09/14 09:40",
+  "source_url": "https://www.lookae.com/xcloner-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "图层克隆"
+  ],
+  "content": "xCloner 是一款 After Effects 插件，可以非常快速地克隆任何类型的图层。即克隆任何类型的图层 – 素材、矢量、形状图层、文本等，并且速度非常快，同时在您调整 xCloner 的众多选项时提供实时预览。\n\n该插件允许您克隆：\n\n* 线性模式，从 A 点克隆到 B 点\n* 径向模式，沿圆形路径克隆\n* 网格阵列模式，可按行和列进行克隆",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/06/xCloner.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/522463346784.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8432894784-025f93?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1S8DV_SkwMlQ4Ml4skQoSTA?pwd=ig7c"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/tYZjts9nCrS"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ig7c"
+    },
+    "update_log": "v1.2更新内容：性能大幅升级，速度提升高达 10 倍"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-打字机光标文字输入生成动画 AM Typewrite Text v1.0 Win/Mac",
+  "slug": "aejiao-ben-da-zi-ji-guang-biao-wen-zi-shu-ru-sheng-cheng-dong-hua-am-typewrite-text-v1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/04/29 10:25",
+  "source_url": "https://www.lookae.com/am-typewrite-text/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "利用脚本在After Effects中创建可选和可自定义的光标为文本图层创建打字机动画效果，支持段落和从右至左的文字。只需单击一下，它就可以创建新的文本层或将效果应用于现有的文本层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/AM-Typewrite-Text.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-440315674"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ciy0FywlaEjrw5fpc_Xp5g"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_extract_code": "x38u",
+    "note": "到目前为止，只能在没有光标的情况下创建多行从右到左文本图层的打字效果"
+  }
+}

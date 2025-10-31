@@ -1,0 +1,45 @@
+{
+  "title": "【Mac/Win】AE视觉特效插件包 v9.0.4 BCC",
+  "slug": "mac-win-aeshi-jue-te-xiao-cha-jian-bao-v9-0-4-bcc",
+  "author": "大众脸",
+  "post_date": "2015/07/06 12:16",
+  "source_url": "https://www.lookae.com/bcc904mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Boris Continuum Complete 为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持Open GL 和双 CPU加速。BCC 9拥有超过百种特效效果：字幕（3D字幕），3D粒子，老电影，光线，画中画，镜头光晕，烟雾，火等等，还有调色，键控/抠像，遮罩，跟踪，发光等等一系列风格化工具。BCC 9 包括多种视频特效和多种视频转场，Boris FX是VFX领域领先的软件和插件开发商之一，以其产品线而闻名，包括Boris Continuum Complete (BCC)、Final Effects Complete (FEC)、Boris RED、Boris Graffiti、Boris FX等插件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/BCC91B.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro CS5 – CC 2015, Adobe After Effects CS5 – CC 2015",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "Mac 苹果版下载",
+      "url": "https://www.400gb.com/file/104417696"
+    },
+    {
+      "name": "Win 版本下载",
+      "url": "https://www.lookae.com/bcc904/"
+    }
+  ],
+  "other": {
+    "product_highlights": [
+      "230+ filters and transitions",
+      "3000+ presets included FREE",
+      "FX Browser™",
+      "3D Particle Effects",
+      "Image Restoration",
+      "Keys & Mattes",
+      "True 3D Lens Flares",
+      "Extrusions",
+      "Volumetric Lighting Effects",
+      "Time-Based Effects",
+      "Blurs & Glows",
+      "Cinematic Effects"
+    ]
+  }
+}

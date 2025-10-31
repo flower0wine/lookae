@@ -1,0 +1,60 @@
+{
+  "title": "AE脚本-多样式风格化文字标题动画生成工具 Textyle Studio v1.2 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-duo-yang-shi-feng-ge-hua-wen-zi-biao-ti-dong-hua-sheng-cheng-gong-ju-textyle-studio-v1-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/04/17 22:47",
+  "source_url": "https://www.lookae.com/textyle-studio/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Textyle Studio",
+    "文字动画",
+    "标题动画"
+  ],
+  "content": "Textyle Studio 是一款专为 After Effects 设计的脚本工具，可快速生成多样化的风格化文字标题动画。它提供独立操作界面，支持在 AE 中高效创建和自定义文本动画效果，适用于视频制作中的片头、字幕、宣传素材等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Textyle-Studio.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356303962192.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-570011440-7afd46"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1f27JLEsgSPxz_Z37k4IHgQ?pwd=2iyx"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/gdWW7mJis6C"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/textyle-studio/",
+      "https://www.lookae.com/tag/%e6%96%87%e5%ad%97%e5%8a%a8%e7%94%bb/",
+      "https://www.lookae.com/tag/%e6%a0%87%e9%a2%98%e5%8a%a8%e7%94%bb/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "2iyx"
+    },
+    "features": [
+      "8类超过550个标题动画",
+      "超过30种风格的4类标题",
+      "标题动画的完整设置",
+      "样式设置完整",
+      "分离进出动画和持续时间控制"
+    ]
+  }
+}

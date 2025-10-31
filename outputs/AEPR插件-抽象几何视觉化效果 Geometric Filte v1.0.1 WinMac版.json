@@ -1,0 +1,48 @@
+{
+  "title": "AE/PR插件-抽象几何视觉化效果 Geometric Filte v1.0.1 Win/Mac版",
+  "slug": "ae-prcha-jian-chou-xiang-ji-he-shi-jue-hua-xiao-guo-geometric-filte-v1-0-1-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/01/09 12:50",
+  "source_url": "https://www.lookae.com/geometric-filte/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Geometric Filte 插件将源图像转换为大量几何形状，通过自定义的邻近匹配算法逼近原始图像，能够追踪轮廓和相似区域，呈现出带有手绘风格的独特视觉效果。该效果类似于“风格迁移”滤镜，但具有自身鲜明特色，并支持完全自定义参数。插件内置20种预设，适用于音乐可视化、视频艺术、VJ视觉等领域。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/Geometric-Filter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Premiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-416859297"
+    },
+    {
+      "name": "Win版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1rLNJXyI7jKc2brDvGgP5zg"
+    },
+    {
+      "name": "Mac版 - 城通网盘下载",
+      "url": "https://72k.us/file/680462-442018092"
+    },
+    {
+      "name": "Mac版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/117QhjdLxXV0ZzYahE8iVkQ"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "软件/插件"
+    ],
+    "baidu_netdisk_password_mac": "oz86",
+    "official_product_url": "https://aescripts.com/geometric-filter/"
+  }
+}

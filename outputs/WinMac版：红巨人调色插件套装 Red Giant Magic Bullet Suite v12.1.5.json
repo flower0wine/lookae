@@ -1,0 +1,72 @@
+{
+  "title": "Win/Mac版：红巨人调色插件套装 Red Giant Magic Bullet Suite v12.1.5",
+  "slug": "win-macban-hong-ju-ren-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v12-1-5",
+  "author": "大众脸",
+  "post_date": "2016-05-10T23:50:00Z",
+  "source_url": "https://www.lookae.com/mb1215/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件",
+    "Red Giant",
+    "VEGAS插件",
+    "Win/Mac",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant 红巨人调色插件套装 Magic Bullet Suite v12.1.5 更新版本，新增了多个插件并全面升级现有插件，引入大量新功能与工具。主要更新包括 Colorista III、Looks 3.0、Mojo 2.0、Cosmo 2.0 等核心组件的显著优化。该套装支持多款主流视频剪辑与调色软件，适用于 Mac 与 Windows 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/02/MBS12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v12.1.5",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://pan.baidu.com/s/1gfyLHE7"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "https://pan.baidu.com/s/1c2Bdhba"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "Adds failover server for volume subscription customers",
+      "New Looks TrackPad mode hotkeys",
+      "Fixes a potential issue with the Colorista III Keyer"
+    ],
+    "plugin_list": [
+      "Magic Bullet Colorista III 1.1.6 - 调色师3",
+      "Magic Bullet Cosmo 2.0.7 - 润肤磨皮插件",
+      "Magic Bullet Film 1.0.8 - 电影质感调色",
+      "Magic Bullet Looks 3.1.6 - 调色插件（多预设）",
+      "Magic Bullet Mojo 2.0.7 - 快速调色",
+      "Red Giant Denoiser II 1.4.8 - 降噪插件",
+      "Red Giant LUT Buddy 1.0.3 - LUT文件加载工具"
+    ],
+    "supported_software": [
+      "Davinci Resolve 11, 12",
+      "Adobe Premiere Pro C6 – CC 2015",
+      "Adobe Photoshop C5 – CC 2015",
+      "Adobe After Effects C6 – CC 2015",
+      "Avid Media Composer",
+      "Vegas Pro",
+      "Motion 4, 5",
+      "Final Cut Pro X, 7"
+    ],
+    "registration_keys": {
+      "Magic Bullet Colorista III": "CL3K1245864582715611",
+      "Magic Bullet Cosmo 2.0": "MBOK1245884249899024",
+      "Magic Bullet Film 1.0": "FILK1245884461501298",
+      "Magic Bullet Looks 3.0": "MBLK1245875960562349",
+      "Magic Bullet Mojo 2.0": "MBMK1245868236810616",
+      "Red Giant Denoiser II": "MBNK1245865095746168",
+      "Red Giant LUT Buddy": "免费"
+    },
+    "original_source_notice": "此文章内容为 www.LookAE.com 原创内容，转载请著名出处"
+  }
+}

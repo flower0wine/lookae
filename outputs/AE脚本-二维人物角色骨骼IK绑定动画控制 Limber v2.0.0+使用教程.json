@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-二维人物角色骨骼IK绑定动画控制 Limber v2.0.0+使用教程",
+  "slug": "aejiao-ben-er-wei-ren-wu-jiao-se-gu-ge-ikbang-ding-dong-hua-kong-zhi-limber-v2-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-09-06",
+  "source_url": "https://www.lookae.com/limber-v2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "IK绑定",
+    "Limber",
+    "MG动画",
+    "二维动画",
+    "绑定动画"
+  ],
+  "content": "Limber 2 是一套为 After Effects 设计的完整 IK 肢体绑定系统，通过形状图层快速生成可自定义的矢量或栅格肢体，支持弯曲路径、木偶针、仿 3D 锥度及 100+ 预设。新增 FreeK 动画模式、自动翻转、定位器追踪、一键贴图、动态 UI 与集中式肢体库，可平滑切换 IK/FK 并防止动画“弹出”。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Limber-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/480621007698.mp4"
+  ],
+  "supported_versions": "After Effects CC 2018 – 2025",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1353466415-681467?p=4431"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/18ctUb4GFl1uBLwwe5VGNtA?pwd=nq9f"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.alipan.com/s/1iv3KqcMHN1"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1353465788-c02a30?p=4431"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/10YD40qxCOBNhEZjSO_ph4w?pwd=tuyh"
+    },
+    {
+      "name": "教程-阿里云盘",
+      "url": "https://www.alipan.com/s/LEgBWKrdp5Q"
+    }
+  ],
+  "other": {
+    "网盘访问密码": {
+      "城通网盘": "6688",
+      "百度网盘脚本提取码": "nq9f",
+      "百度网盘教程提取码": "tuyh"
+    }
+  }
+}

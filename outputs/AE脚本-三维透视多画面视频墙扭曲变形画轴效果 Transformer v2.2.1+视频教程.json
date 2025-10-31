@@ -1,0 +1,65 @@
+{
+  "title": "AE脚本-三维透视多画面视频墙扭曲变形画轴效果 Transformer v2.2.1+视频教程",
+  "slug": "aejiao-ben-san-wei-tou-shi-duo-hua-mian-shi-pin-qiang-niu-qu-bian-xing-hua-zhou-xiao-guo-transformer-v2-2-1-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/03/07 11:05",
+  "source_url": "https://www.lookae.com/transformer-221/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Transformer脚本为一款强大的画面转换和动画工具，可以将图层扭曲变形，制作多画面视频墙效果，带视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/03/transformer.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2EDxujR0lpuFjSszdXXcdxFXa_!!705956171.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/b/y/bymask_2.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/s/c/screenwall_2.jpg",
+    "https://aescripts.com/media/catalog/product/cache/1/image/040ec09b1e35df139433887a97daa66f/b/e/bend_2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v2.2.1",
+  "supported_os": "Win/Mac系统：2020,CC 2019,CC 2018,CC 2017,CC 2015,CC 2014,CC,CS6,CS5.5,CS5",
+  "download_links": [
+    {
+      "name": "城通网盘（脚本下载）",
+      "url": "https://089u.com/f/680462-484781894-82f65d"
+    },
+    {
+      "name": "百度网盘（脚本下载）",
+      "url": "https://pan.baidu.com/s/1tB6NjSFOPsBZycKLqYA1Qw"
+    },
+    {
+      "name": "城通网盘（视频教程下载）",
+      "url": "https://lookae.ctfile.com/fs/680462-300591991"
+    },
+    {
+      "name": "百度网盘（视频教程下载）",
+      "url": "https://pan.baidu.com/s/1WP5-_MqUfCqD7j9I1qip9A"
+    }
+  ],
+  "other": {
+    "脚本特性": [
+      "保存和加载多个变换属性",
+      "调整多层大小",
+      "计算遮罩路径长度",
+      "偏移位置为网格或沿路径",
+      "随机位置",
+      "按行旋转",
+      "高级音序器",
+      "沿路径弯曲和动画素材",
+      "画面复制器",
+      "画面分割器/切纸器",
+      "制作全景图或视频墙",
+      "从多个图层中选择关键帧",
+      "动画路径",
+      "预设浏览器"
+    ],
+    "Transformer v2.2.1更新内容": [
+      "修复了After Effects 2020的预设预览",
+      "预设加载速度提高了5倍",
+      "修复了预设预览",
+      "次要修复",
+      "升级的许可框架以支持macOS 10.15’Catalina’"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "AE/PR数字转胶片调色插件 FilmConvert Nitrate 3.11 Win修复版",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-nitrate-3-11-winxiu-fu-ban",
+  "author": "大众脸",
+  "post_date": "2021/01/26 15:19",
+  "source_url": "https://www.lookae.com/filmconvert-311/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FilmConvert Nitrate 3 是一款专为 After Effects 和 Premiere Pro 打造的数字素材转胶片色彩调色插件。它能将数字摄影机拍摄的视频真实还原胶片质感，支持曝光、色温、颗粒等参数调节，并提供丰富的胶片预设。插件支持 3D LUT 导出与保存，适用于 RED、DSLR、MOV 等多种格式素材，内置 8MM 至 35MM 镜头噪点模拟，操作简便，支持 4K 输出。最新版本 v3.11 优化了代码结构，不再依赖 OpenCL（NVIDIA 平台），并兼容 CUDA 10.1+，提升性能与稳定性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/AEFilmConvert.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018 – 2020, Premiere Pro CC 2018 – 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-480303494-05500a"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ag6-cBAl8Z2Xvcku5onJxA"
+    }
+  ],
+  "other": {
+    "passwords": [
+      "6688",
+      "v720"
+    ],
+    "features": [
+      "Cineon Log 电影仿真：支持自定义胶片对比度与饱和度，保留真实胶片色调",
+      "完全自定义曲线控制：支持高光、阴影精细调节，可创建个性化胶片预设",
+      "先进胶片颗粒控制：可在高光、中间调、阴影中独立调整颗粒表现",
+      "支持 4K 输出，兼容 Adobe Creative Cloud 2015 及以上版本",
+      "v3.11 更新：重构代码，移除 OpenCL 依赖，支持 CUDA 10.1+"
+    ],
+    "supported_formats": [
+      "RED",
+      "DSLR",
+      "MOV"
+    ],
+    "plugin_type": "Adobe After Effects & Premiere Pro 插件",
+    "workflow_integration": "无缝集成 Adobe 工作流，快速实现专业级调色效果"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "AE插件-超赞阴影长拖尾投影特效 LongShadow 2 v1.6 Win",
+  "slug": "aecha-jian-chao-zan-yin-ying-chang-tuo-wei-tou-ying-te-xiao-longshadow-2-v1-6-win",
+  "author": "大众脸",
+  "post_date": "2025/04/09 10:21",
+  "source_url": "https://www.lookae.com/longshadow-216/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "LongShadow",
+    "阴影插件"
+  ],
+  "content": "LongShadow 2 是After Effects的全功能阴影插件。控制每个阴影方面并制作出色的图像！支持GPU加速阴影创建工具，速度更快，并且有更多的技巧。\n\nLongShadow 2 is a full-featured shadow plugin for After Effects. Control every shadow aspect and make outstanding images!\n\n插件特征：\n\n* 神奇的阴影抗锯齿\n* 阴影纹理！使用 1D 或 2D 纹理模式下的外部图层精确控制颜色和透明度\n* Extra Brute-Force Directional 阴影模式，保留原始图层半透明和抗锯齿\n* 新的软阴影功能\n* 后平滑算法\n* 最后但同样重要的是为那些只想要简单纯色阴影的人构建专用SoftShadow插件，提供简化的控制和柔和的阴影外观",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/02/LongShadow-2-15.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/348934496902.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1495235353-ca81e6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1V8bImlSiAQhdTvJyMOWQOg?pwd=b7st"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/ADd813LYk3m"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "苹果版AE插件-超赞阴影长拖尾投影特效 LongShadow 2 v1.1 Mac",
+        "url": "https://www.lookae.com/longshadow-211/"
+      }
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "b7st"
+    },
+    "update_log": "v1.6 更新内容：支持 AE 2025"
+  }
+}

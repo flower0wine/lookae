@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-自由拖拽动态模糊旋转缩放工具 Drag Zoom Pro v1.0.0",
+  "slug": "aejiao-ben-zi-you-tuo-zhuai-dong-tai-mo-hu-xuan-zhuan-suo-fang-gong-ju-drag-zoom-pro-v1-0-0",
+  "author": "大众脸",
+  "post_date": "2021/10/19 11:15",
+  "source_url": "https://www.lookae.com/drag-zoom-pro/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "使用自然运动模糊创建平滑过渡以放大帧的各个部分，而无需手动调整图层的“位置”、“缩放”和“旋转”值。使用此扩展程序，您实际上只需单击并拖动即可围绕帧的一部分绘制一个矩形，仅此而已 - 将自动设置关键帧和适当的值。编辑流亮点超级方便。该扩展允许大量的可定制性，并包括在项目中实现一致外观的工具。\n\nCreate smooth transitions with natural motion blur to zoom into portions of the frame without the need to fiddle manually with “position”, “scale” and “rotation” values of a layer.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/Drag-Zoom-Pro.jpg",
+    "https://aescripts.com/media/catalog/product/e/z/ezgif-4-91acf28b4245.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518139579-0c3909"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/167TDktLq9GdchLTbeZ7ksw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/X3TMoqeCNkv"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "von8"
+    },
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

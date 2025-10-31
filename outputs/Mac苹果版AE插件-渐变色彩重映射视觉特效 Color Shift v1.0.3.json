@@ -1,0 +1,50 @@
+{
+  "title": "Mac苹果版AE插件-渐变色彩重映射视觉特效 Color Shift v1.0.3",
+  "slug": "macping-guo-ban-aecha-jian-jian-bian-se-cai-zhong-ying-she-shi-jue-te-xiao-color-shift-v1-0-3",
+  "author": "大众脸",
+  "post_date": "2025-03-03T09:30:00Z",
+  "source_url": "https://www.lookae.com/mac-color-shift/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Color Shift",
+    "Mac苹果版",
+    "色彩映射"
+  ],
+  "content": "为您的视频增添新色彩，支持将色调、亮度、强度等参数重新映射至颜色渐变。通过‘颜色转换’功能，可将像素值（如强度或色调）映射到指定渐变，输出结果取决于像素的‘输入范围’值。提供15种输入范围选项，涵盖光强度、红色分量、alpha分量等。适用于Mac平台的Adobe After Effects 2023/2024版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Color-Shift.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/475448720691.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2023, 2024",
+  "supported_os": "Mac OS X",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1466096578-648e73?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JK5NrJO6BtfZf8ilfHrodA?pwd=uxuw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/WPPfPYg1SET"
+    }
+  ],
+  "other": {
+    "preview_video": "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/475448720691.mp4",
+    "related_links": [
+      "https://www.lookae.com/color-shift-103/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu_pan": "uxuw"
+    },
+    "platform": "Mac",
+    "effect_description": "Remap hue, lightness, intensity, and more to a color gradient. Convert pixel values (e.g., intensity or hue) to a gradient based on input range. 15 input range options available including light intensity, red component, alpha component, etc."
+  }
+}

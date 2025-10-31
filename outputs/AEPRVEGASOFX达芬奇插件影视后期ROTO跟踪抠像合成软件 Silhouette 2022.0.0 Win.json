@@ -1,0 +1,78 @@
+{
+  "title": "AE/PR/VEGAS/OFX/达芬奇插件影视后期ROTO跟踪抠像合成软件 Silhouette 2022.0.0 Win",
+  "slug": "ae-pr-vegas-ofx-da-fen-qi-cha-jian-ying-shi-hou-qi-rotogen-zong-kou-xiang-he-cheng-ruan-jian-silhouette-2022-0-0-win",
+  "author": "大众脸",
+  "post_date": "2022-06-07T21:39:00Z",
+  "source_url": "https://www.lookae.com/silhouette-2022/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "ROTO抠像",
+    "ROTO跟踪",
+    "Silhouette",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Silhouette 2022 是一款业界领先的 ROTO 跟踪、抠像与合成软件，专为影视后期制作设计。该软件集成了超过400个专业节点，涵盖颜色、合成、滤镜、光效、变形、时间、色调等多个功能组，并整合了 Sapphire、Mocha Pro、Particle Illusion 等高级插件。它支持 After Effects、Premiere Pro、DaVinci Resolve、NUKE、Magix Vegas Pro 等主流视频编辑和视觉特效平台，是好莱坞大片制作中的关键技术工具之一，曾应用于《沙丘》、《蜘蛛侠：无路可走》、《自由人》和《曼达洛人》等知名影片。其核心优势包括强大的绘画与跟踪能力、高效的节点化工作流、对 Apple M1 架构的支持以及先进的色彩管理（OCIO v2），并持续优化在专业后期制作环境中的性能表现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Silhouette-2022.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/363083205749.mp4"
+  ],
+  "supported_versions": "2022.0.0",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-590674915-7d0565?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1NALiEM0IxPvWSv8645S4iw?pwd=9o6d"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/aP4MWDqVS1W"
+    }
+  ],
+  "other": {
+    "release_date": "2022/06/07 21:39",
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/resolvezy/",
+      "https://www.lookae.com/qitarjcj/nukezy/",
+      "https://www.lookae.com/qitarjcj/ofxzy/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/vegaszy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/ofx/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/roto%e6%8a%a0%e5%83%8f/",
+      "https://www.lookae.com/tag/roto%e8%b7%9f%e8%b8%aa/",
+      "https://www.lookae.com/tag/silhouette/",
+      "https://www.lookae.com/tag/vegas%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e8%be%be%e8%8a%ac%e5%a5%87%e6%8f%92%e4%bb%b6/"
+    ],
+    "awards": [
+      "奥斯卡奖",
+      "艾美奖技术奖项"
+    ],
+    "membership": "Netflix 制作技术联盟成员",
+    "features": [
+      "支持 32 位高动态范围绘画",
+      "支持 After Effects、Premiere Pro、DaVinci Resolve、NUKE、Magix Vegas Pro 等平台",
+      "集成 Sapphire、Mocha Pro、Particle Illusion 等插件",
+      "支持 Apple M1 芯片加速",
+      "支持 OCIO v2 色彩管理与 GPU 渲染",
+      "提供 InPaint、PowerMeshWarp 等新节点",
+      "支持多种跟踪与 roto 导出格式（Nuke、Fusion、Flame、FBX、Alembic）"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "AE木偶图钉动画绑定脚本 Aescripts Puppet Tools 3（附教程）",
+  "slug": "aemu-ou-tu-ding-dong-hua-bang-ding-jiao-ben-aescripts-puppet-tools-3-fu-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014-08-01T10:04:00",
+  "source_url": "https://www.lookae.com/puppettools/",
+  "category": "aechajian",
+  "tags": [
+    "AE",
+    "Aescripts",
+    "AE教程",
+    "AE脚本"
+  ],
+  "content": "Aescripts Puppet Tools 3 是一款专为 After Effects 设计的木偶图钉动画绑定脚本，通过在图钉位置自动创建 Null 空物体并连接，实现类似 3D 软件中 IK（逆向运动学）的骨骼控制。该脚本特别适用于角色动画、对话动作等复杂运动场景，大幅提升工作效率。新版本支持一键创建 IK、自动保存设置、多图层蒙皮、形状图层优化，并附带免费练习角色绑定与工具图标。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Puppet-Tools.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2014 及以上版本",
+  "supported_os": "Windows & macOS",
+  "download_links": [
+    {
+      "name": "下载地址 - 400GB",
+      "url": "https://www.400gb.com/file/69763176"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/puppettools/",
+    "features": [
+      "New Create IK feature! A one-click IK setup.",
+      "Auto-saves your settings",
+      "Support for multiple mesh artwork",
+      "Better support for Shape layers",
+      "Fixed uncentered anchor point bug",
+      "FREE practice character rig!",
+      "FREE ft_Toolbar icon!"
+    ],
+    "description": "PuppetTools creates and places nulls where AE Puppet Tool pins are located on the selected layer, then connects them via expressions. The new 'Create IK' feature offers an easy way to use Inverse Kinematics (IK) in your rig. Select three nulls (starting with the driving joint) and then click 'Create IK' – done.",
+    "additional_features": [
+      "Layer to Loop: Automates looping of animation cycles with time remapping and loop expressions.",
+      "Supports precomp automation if layer is not already precomposed."
+    ]
+  }
+}

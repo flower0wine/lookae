@@ -1,0 +1,66 @@
+{
+  "title": "Win/Mac版：Ae/Pr/Nuke/达芬奇/OFX/Avid蓝宝石视觉特效插件 Sapphire 2019",
+  "slug": "win-macban-ae-pr-nuke-da-fen-qi-ofx-avidlan-bao-shi-shi-jue-te-xiao-cha-jian-sapphire-2019",
+  "author": "大众脸",
+  "post_date": "2018-11-03T14:22:00Z",
+  "source_url": "https://www.lookae.com/sapphire-2019/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "OFX",
+    "PR插件",
+    "Sapphire 2019",
+    "Win/Mac"
+  ],
+  "content": "Sapphire 2019 是一款功能强大的视觉特效插件，支持 Adobe After Effects、Premiere Pro、DaVinci Resolve、Nuke 等主流视频后期软件。该插件提供数百种高质量的视觉效果与转场特效，具备卓越的图像质量与高效的渲染性能，广泛应用于影视后期制作中。其新特性包括增强的镜头光效、新增 PixelSort 故障特效、WhipLash 转场、动画形状工具支持以及 Mocha 基础工作空间和磁性边缘捕捉样条工具，显著提升创作效率与视觉表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Sapphire-2019.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC – CC 2019, Premiere Pro CC – CC 2019, DaVinci Resolve 10+, Fusion Studio 7+, Nuke 6.3v8+, 其他 OFX 兼容主机（如 Baselight、Pablo Rio、Fusion）, Avid Media Composer（任意版本），Meridien v9+，Symphony，Xpress Pro，Xpress DV，Newscutter v3+",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Ae/Pr版下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-318030393"
+    },
+    {
+      "name": "Ae/Pr版下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1_CT6HT2h9EdPRradCFFbmA"
+    },
+    {
+      "name": "OFX版下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-318030424"
+    },
+    {
+      "name": "OFX版下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/15GCIGOekucMTmvy9iSM8lQ"
+    },
+    {
+      "name": "AVID版下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-318030333"
+    },
+    {
+      "name": "AVID版下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1ON0pikf5qduwQxpvBaBXtg"
+    }
+  ],
+  "other": {
+    "official_website": "https://borisfx.com/products/sapphire/",
+    "release_date": "2018-11-03",
+    "features": [
+      "增强和改进镜头光效",
+      "新增 PixelSort 信号损坏故障特效",
+      "新增 WhipLash 转场效果",
+      "新增动画形状工具的特效和转场",
+      "新增 Mocha 基本工作空间与磁性边缘捕捉样条工具",
+      "提升 CPU 和 GPU 性能"
+    ],
+    "software_support": [
+      "Adobe OFX 系列软件",
+      "OFX 系列软件（达芬奇、Fusion、Nuke 等）",
+      "AVID 系列软件（包括 Media Composer、Symphony、Xpress 等）"
+    ]
+  }
+}

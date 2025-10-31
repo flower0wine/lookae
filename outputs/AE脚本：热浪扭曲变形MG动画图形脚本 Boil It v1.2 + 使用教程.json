@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：热浪扭曲变形MG动画图形脚本 Boil It v1.2 + 使用教程",
+  "slug": "aejiao-ben-re-lang-niu-qu-bian-xing-mgdong-hua-tu-xing-jiao-ben-boil-it-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/05/07 10:31",
+  "source_url": "https://www.lookae.com/boil-it-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款用于After Effects的脚本工具，能够快速为单个或多个图层添加热浪扭曲变形的MG动画图形效果。用户可通过直观的界面轻松控制变形风格、强度、速度、大小、随机性及复杂程度等参数。支持一键应用到选定图层或通过调节层全局应用，极大简化了传统表达式制作流程，提升工作效率。适合希望为作品增添动态视觉风格的设计师使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/05/Boil-It.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-289654945"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1EDrzGgbX1MNNvoXH7vwMIg"
+    }
+  ],
+  "other": {
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本。",
+    "official_website": "http://www.eyedesyn.com/product/boil-it/",
+    "english_description": "Boil It is your all in one solution for quickly and easily applying custom animated ‘boil’ effects to your After Effects animations. With it’s dockable UI, you save time applying custom animated boil to any selected layers all at once in your comp, or comp wide as an Adjustment Layer with just one click! Never waste time writing complicated expressions for boil effects ever again. Boil It makes adding boil and adjusting boil effects super simple by allowing the ability to link or unlink individual boil properties to easily adjust boil comp wide or on a per layer basis. Make your work stand out by adding a stylish animated boil effect!"
+  }
+}

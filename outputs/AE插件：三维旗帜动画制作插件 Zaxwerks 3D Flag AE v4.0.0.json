@@ -1,0 +1,29 @@
+{
+  "title": "AE插件：三维旗帜动画制作插件 Zaxwerks 3D Flag AE v4.0.0",
+  "slug": "aecha-jian-san-wei-qi-zhi-dong-hua-zhi-zuo-cha-jian-zaxwerks-3d-flag-ae-v4-0-0",
+  "author": "大众脸",
+  "post_date": "2015/10/16 11:32",
+  "source_url": "https://www.lookae.com/3dflag4/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Zaxwerks 3D"
+  ],
+  "content": "Zaxwerks 3D Flag是AE的三维旗帜动画制作插件，可以把任何图片作为旗帜，利用它，能够制作出逼真的旗帜飘扬的视频动画效果。Zaxwerks 3D Flag AE v4.0.0有引擎渲染提升、添加环境真实阴影等多项更新。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/10/Z3D-Flag-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 ，CC，CC 2014，CC 2015",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "AE插件：三维旗帜动画制作：Zaxwerks 3D Flag AE v4.0.0",
+      "url": "https://www.400gb.com/file/124357184"
+    }
+  ],
+  "other": {
+    "插件说明": "插件为 Team V.R 一键安装版，安装即可使用",
+    "英文介绍": "Zaxwerks 3D Flag is a plug-in for Adobe After Effects that turns any picture, comp or movie into a realistic animated flag. The motion of the flag is based on physics so keyframes are not needed to get realistic motion. The cloth of the flag responds to wind, gravity and the movement of the pole.Apply different pictures on the front and back of the cloth  Play movies on the cloth  Create looping animations of any length  Create curtains, roll-down and drop-down animations  Keyframable wind speed, wind direction, and gravity  Animate the position of the poles to wave your flag! 3D Flag Poles that look like wood, steel, etc. and respond to the After Effects Camera  Comes with a wide variety of caps for the top and stands for the bottoms of the flag poles  Ability to make your own caps and stands  New In 3D Flag Version 4: 25 Times Faster Rendering with Reactor Rendering Engine  Realistic Shadows  Ambient Occlusion  Image-Based Lighting  Rotating Reflection Maps  New Dark Interface  Interaction Improvements  After Effects CC 2015 Compatibility"
+  }
+}

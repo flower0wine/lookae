@@ -1,0 +1,58 @@
+{
+  "title": "关键帧缓入缓出曲线调节AE脚本 Flow v1.5.2 Win/Mac+使用教程",
+  "slug": "guan-jian-zheng-huan-ru-huan-chu-qu-xian-diao-jie-aejiao-ben-flow-v1-5-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/02/21 20:32",
+  "source_url": "https://www.lookae.com/flow-152/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Flow脚本"
+  ],
+  "content": "Flow为After Effects带来了一个简单的操作界面，用于自定义动画曲线，而无需进入陈旧、混乱的图形编辑器。只需做一个曲线，点击应用即可。脚本能够自定义动画曲线的效果，而不需要触摸图形编辑器，包含25种关键帧曲线效果，可自定义修改编辑，还可自定义保存自己调整的预设。图形和库支持键盘快捷键；在库中使用 Shift/Alt/Ctrl 快速设置缓入/缓入和缓出/缓出，或在图表中以不同方式捕捉手柄或对称移动它们。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/Flow.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/418587765382.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1023384265-6e259b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1j5IX92cv5KkEenlkjbNAVQ?pwd=whng"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/3My5JzS56nr"
+    }
+  ],
+  "other": {
+    "update_details": {
+      "added": [
+        "使用不受支持的 AE 版本时出现错误消息",
+        "“正弦”预设"
+      ],
+      "changed": [
+        "控制点 Shift + 拖动捕捉逻辑",
+        "“缓和”预设使用 AE 的缓动，而不是 CSS 缓动"
+      ],
+      "fixed": [
+        "一些“无法加载 Flow”问题",
+        "开始单击和拖动时控制点跳转",
+        "从旧版本 Flow 导入库时出现问题",
+        "KBar 按钮未正确显示错误",
+        "KBar 按钮在 MacOS 上不起作用"
+      ]
+    },
+    "password": {
+      "ctfile": "6688",
+      "baidu": "whng"
+    }
+  }
+}

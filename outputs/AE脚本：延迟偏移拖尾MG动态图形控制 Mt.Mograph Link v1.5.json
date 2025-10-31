@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本：延迟偏移拖尾MG动态图形控制 Mt.Mograph Link v1.5",
+  "slug": "aejiao-ben-yan-chi-pian-yi-tuo-wei-mgdong-tai-tu-xing-kong-zhi-mt-mograph-link-v1-5",
+  "author": "大众脸",
+  "post_date": "2015-04-02 13:41",
+  "source_url": "https://www.lookae.com/mograph-link/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG",
+    "Mt.Mograph",
+    "动态图形"
+  ],
+  "content": "Link v1.5 脚本由 Mt.Mograph 出品，用于延迟偏移拖尾MG动态图形控制。该脚本可以“链接”任意数量的属性到同一组关键帧，通过简单的UI实现强大的功能控制，包括复制、链接、选择和控件操作。非常适合MG多图形排列动画效果，还可控制颜色、阴影和排列。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/04/Mograph-Link.jpg",
+    "http://static1.squarespace.com/static/5344a472e4b092b8f017d821/54deeb00e4b0a566f11e8a8d/54dfddb9e4b0cb82a5a5a190/1423957511213/Link_ex1.gif?format=500w",
+    "http://static1.squarespace.com/static/5344a472e4b092b8f017d821/54deeb00e4b0a566f11e8a8d/54dfe186e4b00965efc28f77/1423958523501/Link_ex3.gif?format=500w",
+    "http://static1.squarespace.com/static/5344a472e4b092b8f017d821/54deeb00e4b0a566f11e8a8d/54dfdefae4b0902efd5bd556/1423957796653/Link_ex2.gif?format=500w",
+    "http://static1.squarespace.com/static/5344a472e4b092b8f017d821/54deeb00e4b0a566f11e8a8d/54dfe3f9e4b0bb15dca58461/1423959134048/link_ex4.gif?format=500w",
+    "http://static1.squarespace.com/static/5344a472e4b092b8f017d821/54deeb00e4b0a566f11e8a8d/54dfe6e2e4b0406fb3d5d65e/1423959882240/Link_ex5.gif?format=500w",
+    "http://static1.squarespace.com/static/5344a472e4b092b8f017d821/54deeb00e4b0a566f11e8a8d/54e01025e4b00d4519ace397/1423970455245/link_ex6.gif?format=500w"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 – CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：延迟偏移拖尾MG动态图形控制 Mt.Mograph Link v1.5",
+      "url": "https://www.400gb.com/file/89510437"
+    }
+  ],
+  "other": {
+    "installation_path": "\\Adobe After Effects CC\\Scripts\\ScriptUI Panels",
+    "official_website": "http://www.mtmograph.com/link/",
+    "price": "25美元",
+    "recommended_tutorial": "Mt. Mograph ：AE+C4D 高级教程系列 – MG运动图形动画教程大合集",
+    "tutorial_url": "https://www.lookae.com/mtmograph/"
+  }
+}

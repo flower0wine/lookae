@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-工程项目清理整理组织分类管理 Declutter v1.5.1+使用教程",
+  "slug": "aejiao-ben-gong-cheng-xiang-mu-qing-li-zheng-li-zu-zhi-fen-lei-guan-li-declutter-v1-5-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/02/19 16:31",
+  "source_url": "https://www.lookae.com/declutter-151/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Declutter",
+    "工程整理",
+    "工程项目"
+  ],
+  "content": "Declutter是一个After Effects扩展，用于将项目资产组织到预定义的文件夹结构中，用户可创建并存储自定义的文件夹结构以适应不同项目需求。脚本具有多功能、可自定义、快速、易用等特征，能按类型对资产排序。使用时也有相关提示，v1.5.1更新修复了无法正常运行的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/Declutter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/280785988709.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1461876781-204f1c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1W5KhAKTUJg0geoA5JI2Ctg?pwd=b7b9"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/QMo4bJrsyBD"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "脚本特征": "多功能： 创建并保存所需的多个文件夹结构；可自定义： 编辑文件夹名称和标签以适合您的组织需求；快速： 在几秒钟内按类型组织数千个资产；易于使用： 超级干净的用户界面",
+    "按类型对资产排序": "可指定资产放置的文件夹并按类型分开，未指定类型的资产自动放入根文件夹，支持的资产类型包括合成、预合成等多种",
+    "使用提示": "选择文件夹结构时按Shift键仅创建文件夹；使用前先减少项目；确保在首选项中启用“允许脚本写入文件和访问网络”；可通过撤消回到原文件夹结构"
+  }
+}

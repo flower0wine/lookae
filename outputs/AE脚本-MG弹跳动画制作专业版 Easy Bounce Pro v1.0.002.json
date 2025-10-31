@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本-MG弹跳动画制作专业版 Easy Bounce Pro v1.0.002",
+  "slug": "aejiao-ben-mgdan-tiao-dong-hua-zhi-zuo-zhuan-ye-ban-easy-bounce-pro-v1-0-002",
+  "author": "大众脸",
+  "post_date": "2023/11/03 10:43",
+  "source_url": "https://www.lookae.com/easy-bounce-1001/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "弹跳动画"
+  ],
+  "content": "Easy Bounce Pro 是一款专为 After Effects 设计的 MG 弹跳动画制作脚本，可一键生成逼真的弹跳运动效果。用户只需粗略设置运动路径的关键帧，脚本将自动计算物理参数，完成重力、反弹、壁球等动态效果的精准模拟。适用于快速创建高质量的动态图形动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Easy-Bounce-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345003874050.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019-2014, CS4-CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-968964922-acfd60?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1LCSiyuHup2_GemKfRyL0Yg?pwd=462b"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/SWEktiyyBj8"
+    }
+  ],
+  "other": {
+    "description": "简单的方式创建弹跳动画！只需粗略地设置您想要的运动路径的关键帧，然后让 Easy Bounce 处理其余的事情。工作流程极为简便：第1步是粗略设置路径关键帧（在反弹点和峰值处），无需关注时间或精确路径；第2步点击“Easy Bounce”按钮，脚本自动计算物理参数并调整动画。功能包括：一键式工作流程、地面反弹、弹跳墙、重定时位置与其它关键帧、重力控制、壁球、子帧精度、工作区支持、保留 Apex 选项、支持脚本与 KBar API。v1.0.002 更新：不再每次发布都询问使用免费版或专业版。",
+    "features": [
+      "一键式工作流程",
+      "地面反弹",
+      "弹跳墙",
+      "重定时位置关键帧",
+      "重定时其他关键帧",
+      "重力控制",
+      "壁球",
+      "子帧精度",
+      "工作区支持",
+      "保留 Apex 选项",
+      "脚本和 KBar API 支持"
+    ],
+    "update_notes": "v1.0.002 更新：该工具不再在每次发布时询问是否应该使用免费或专业版",
+    "related_tags": [
+      "AE脚本",
+      "MG动画",
+      "弹跳动画"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

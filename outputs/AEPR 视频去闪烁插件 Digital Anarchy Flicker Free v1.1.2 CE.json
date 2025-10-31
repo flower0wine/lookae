@@ -1,0 +1,41 @@
+{
+  "title": "AE/PR 视频去闪烁插件 Digital Anarchy Flicker Free v1.1.2 CE",
+  "slug": "ae-pr-shi-pin-qu-shan-shuo-cha-jian-digital-anarchy-flicker-free-v1-1-2-ce",
+  "author": "大众脸",
+  "post_date": "2015-12-07T12:19:00",
+  "source_url": "https://www.lookae.com/flicker112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Digital Anarchy Flicker Free v1.1.2 是一款专为 After Effects 和 Premiere Pro 设计的视频去闪烁插件，可有效解决因光线频率不一致导致的视频闪烁问题。适用于延时摄影、慢动作视频（高帧率）以及 LED 灯、显示器或电气干扰引起的动态闪烁现象。该插件通过分析画面的颜色与亮度，智能计算并生成平滑的视频图像，显著提升视觉质量。支持 Windows 64 位系统下的多个版本的 Adobe 软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/Flicker-Free-v1.0.2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Premiere Pro CS5, CS5.5, CS6, CC, CC 2014, CC 2015; After Effect CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Win64",
+  "download_links": [
+    {
+      "name": "AE/PR 视频去闪烁插件 Digital Anarchy Flicker Free v1.1.2",
+      "url": "https://lookae.400gb.com/file/136602862"
+    }
+  ],
+  "other": {
+    "official_website": "http://digitalanarchy.com/Flicker/main.html",
+    "description_en": "Flicker Free is a powerful new way to deflicker video. It solves an issue that’s common for many types of footage, be it from lights/electricity and cameras being out of sync, time lapse or slow motion (high frame rate) video. It’s very effective at removing rolling flicker that occurs with LED & fluorescent lights or computer monitors. Flicker Free was originally designed to fix the flicker caused by varying exposures in time lapse videography. However, once we developed it, we discovered there are many reasons for flicker and that Flicker Free does a great job on most of them.",
+    "installation_type": "一键安装版，安装即可使用，无功能限制",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "PR插件": "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

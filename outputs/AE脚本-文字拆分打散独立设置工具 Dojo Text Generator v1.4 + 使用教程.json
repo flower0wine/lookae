@@ -1,0 +1,32 @@
+{
+  "title": "AE脚本-文字拆分打散独立设置工具 Dojo Text Generator v1.4 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-chai-fen-da-san-du-li-she-zhi-gong-ju-dojo-text-generator-v1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/08/08 11:50",
+  "source_url": "https://www.lookae.com/dojo-text-generator/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Dojo Text Generator是After Effects的一个脚本，它基于文本输入或现有文本图层让生成文本图层变得简单。基于单个文字或短语并将其拆分为单独文本图层，自动快速有效地生成许多文本图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Dojo-Text-Generator.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-391939205"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1CVVFzUNoDQCfnzjOr8YpjQ"
+    }
+  ],
+  "other": {
+    "original_link": "https://creativedojo.net/store/dojo-text-generator-script/",
+    "english_description": "Dojo Text Generator is a script for After Effects that makes it dead simple to generate text layers based on either text input or existing text layers. Paste in sentences or paragraphs and instantly generate text layers for each word or phrase. Select existing text layers and break them apart into separate text layers based on word or phrases."
+  }
+}

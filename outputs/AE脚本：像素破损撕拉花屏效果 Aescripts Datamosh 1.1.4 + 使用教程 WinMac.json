@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本：像素破损撕拉花屏效果 Aescripts Datamosh 1.1.4 + 使用教程 Win/Mac",
+  "slug": "aejiao-ben-xiang-su-po-sun-si-la-hua-ping-xiao-guo-aescripts-datamosh-1-1-4-shi-yong-jiao-cheng-win-mac",
+  "author": "大众脸",
+  "post_date": "2018-09-11",
+  "source_url": "https://www.lookae.com/datamosh114/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "非常有意思的一个AE脚本，可以把图像处理成像素破损花屏等效果。该脚本是After Effects中实现真正Datamosh效果的唯一方式。下载安装后可在【窗口】-【扩展】里找到脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Datamosh.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50214370933.mply?_=1"
+  ],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-309183532"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/17-bYCHIUaXEVIKI_cpOVCw"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-300610585"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1DgbD3wsE2AWo5fh4NC0_Ew"
+      }
+    ],
+    "official_website": "https://aescripts.com/datamosh/",
+    "description": "Break your videos and find the pixel wonderland 😉 The only way to true Datamosh inside of After Effects"
+  }
+}

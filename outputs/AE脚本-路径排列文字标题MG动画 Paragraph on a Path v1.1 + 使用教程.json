@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-路径排列文字标题MG动画 Paragraph on a Path v1.1 + 使用教程",
+  "slug": "aejiao-ben-lu-jing-pai-lie-wen-zi-biao-ti-mgdong-hua-paragraph-on-a-path-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-23T19:22:00Z",
+  "source_url": "https://www.lookae.com/paragraph-path/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可让文字标题在After Effects中沿指定路径排列，并支持路径动画，适用于制作MG风格的文字动画，大幅提升制作效率。功能为自动对齐段落文字到运动路径上。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Paragraph-on-a-Path.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367745581"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1uvoE4ufMjO-RTEycaP7OyQ"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "demo_link": "https://aescripts.com/paragraph-on-a-path/",
+    "download_password": "fz2k"
+  }
+}

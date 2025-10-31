@@ -1,0 +1,61 @@
+{
+  "title": "Ae/Pr视觉特效和转场BCC插件包 Continuum 2021 v14.0.1.602 Win",
+  "slug": "ae-prshi-jue-te-xiao-he-zhuan-chang-bcccha-jian-bao-continuum-2021-v14-0-1-602-win",
+  "author": "大众脸",
+  "post_date": "2020-12-18T10:31:00",
+  "source_url": "https://www.lookae.com/bcc-1401/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC",
+    "PR插件"
+  ],
+  "content": "强大的 BCC 视觉特效插件包 Boris Continuum Complete，功能强大，省时的插件通过十七种创意效果、标题和快速修复插件类别简化了工作流程。包括超过350种效果和4000多种预设。一个可以满足每个项目需求的插件集合。Boris Continuum Complete 为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持 OpenGL 和双 CPU 加速。BCC 2020 拥有超过百种特效效果：字幕（3D字幕）、3D粒子、老电影、光线、画中画、镜头光晕、烟雾、火等，还有调色、键控/抠像、遮罩、跟踪、发光等一系列风格化工具。包括多种视频特效和多种视频转场。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/284897462397.mp4"
+  ],
+  "supported_versions": "After Effects CC 2015, 2017, CC 2018, CC 2019, 2020; Premiere Pro CC 2015, 2017, CC 2018, CC 2019, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-476374502"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IWemNTsea6AYwMR1OoySWA"
+    }
+  ],
+  "other": {
+    "english_description": "The film and television industry’s busiest editors and artists choose Boris FX Continuum. The powerful, timesaving plugins streamline post workflows with seventeen creative effect, titling, and quick fix plug-in categories. Includes over 250 effects and 4000+ presets. One collection that fits every project need.",
+    "official_website": "https://borisfx.com/products/continuum/",
+    "new_features": [
+      "Continuum 2021具有超过80种新的电影效果，超过1000种专业设计的预设",
+      "81个全新的全GPU加速BCC滤镜，100% OpenCL加速，兼容HDR",
+      "新增FX Editor预设浏览器和自定义预设生成器",
+      "OCIO颜色管理工具，元数据标记，支持在浏览器内编辑参数",
+      "电影摄影师的工具包：80+电影效果，兼容HDR，OCIO支持，GPU加速",
+      "新增电影胶片、外观开发、滤光器模拟、Flare Editor镜头光晕、gobo库等",
+      "1000+由专业艺术家设计的预设",
+      "粒子错觉：支持3D发射粒子、湍流控制和线条选项",
+      "Primatte Studio的“边缘清洁器”：优化压缩素材的键控处理",
+      "Title Studio：新增程序噪声生成器和纹理合成着色器",
+      "Mocha AdjustTrack：可轻松编辑和修正复杂跟踪镜头"
+    ],
+    "related_links": [
+      {
+        "title": "AE/PR插件 BCC 2021 v14.0 中文汉化版",
+        "url": "https://www.lookae.com/bcc-2021-ch/"
+      }
+    ],
+    "passwords": [
+      {
+        "source": "百度网盘下载",
+        "code": "yqz2"
+      }
+    ]
+  }
+}

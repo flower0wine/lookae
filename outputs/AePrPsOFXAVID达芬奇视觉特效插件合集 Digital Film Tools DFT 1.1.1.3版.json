@@ -1,0 +1,54 @@
+{
+  "title": "Ae/Pr/Ps/OFX/AVID/达芬奇视觉特效插件合集 Digital Film Tools DFT 1.1.1.3版",
+  "slug": "ae-pr-ps-ofx-avid-da-fen-qi-shi-jue-te-xiao-cha-jian-he-ji-digital-film-tools-dft-1-1-1-3ban",
+  "author": "大众脸",
+  "post_date": "2018-10-20 12:50",
+  "source_url": "https://www.lookae.com/dft-1113/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "PS插件"
+  ],
+  "content": "DFT（Digital Film Tools）是一套强大的视觉特效插件合集，几乎囊括了该公司的所有插件，支持众多软件。该插件集用于模拟光学相机滤镜、专业镜头、电影胶片和颗粒、镜头光晕、光学实验过程、色彩校正、键控抠像、合成以及自然光和摄影等众多效果。所有插件均为一键安装版，集成注册，安装即可使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/09/DFT1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "V1.1.1.3",
+  "supported_os": "Win 64位系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-315686116"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mcHH8YD5ItcvNPbd9gx_CA"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "Adobe After Effects CS5 – CC 2019",
+      "Adobe Premiere Pro CS5 – CC 2019",
+      "Adobe Photoshop CC – CC 2019（仅64位）",
+      "Adobe Photoshop Elements 13 and up (Non-app store version)",
+      "Adobe Photoshop Lightroom 3 and up",
+      "Avid Editing Systems (64 Bit versions only)",
+      "Assimilate Scratch v8 and up",
+      "Black Magic Resolve v11 and up",
+      "Sony Catalyst Edit 2015 and up",
+      "The Foundry’s Nuke v8 and up",
+      "Vegas Pro v13 and up",
+      "OFX（OpenFX）系列软件"
+    ],
+    "features": {
+      "general": "125个插件过滤器，数以千计的定制预置",
+      "film_stocks_looks": "329种不同颜色的黑白胶卷、电影胶片和历史复古摄影风格，89个电影颜色分级预置，68种风格化颜色和黑色白色的外观",
+      "lighting": "331个光学镜头光晕预设，193种不同的照明效果，751个图案照明效果",
+      "compositing": "合成技巧和技术，火灾、爆炸和烟雾特效，边缘工具，颜色纠正，模糊复合",
+      "keying": "从蓝色/绿色中创建遮罩，多蒙板操作，复杂的色彩校正和抑制，光照控制"
+    }
+  }
+}

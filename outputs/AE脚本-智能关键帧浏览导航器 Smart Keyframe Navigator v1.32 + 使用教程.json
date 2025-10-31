@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-智能关键帧浏览导航器 Smart Keyframe Navigator v1.32 + 使用教程",
+  "slug": "aejiao-ben-zhi-neng-guan-jian-zheng-liu-lan-dao-hang-qi-smart-keyframe-navigator-v1-32-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/05/29 01:00",
+  "source_url": "https://www.lookae.com/keyframe-132/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Smart Keyframe Navigator 是一款用于 After Effects 的脚本，旨在提供更直观、高效的關鍵帧导航体验。相比默认的 'k' 和 'j' 键，该脚本通过自定义快捷键（推荐使用 Shift + k 和 Shift + j）实现精准跳转。支持在未选择任何内容时遍历所有关键帧，或仅在选定图层/属性范围内进行导航，提升复杂项目中的操作效率。适用于多版本 AE 系统，兼容性强。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/AE-SKN.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-497431248-4ddeff"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1VpUF-vjYoNl86t3qbbenKA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.32版本更新内容：修复了aeplugins Manager应用程序的兼容性问题",
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "axye"
+    },
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

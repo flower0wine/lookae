@@ -33,7 +33,7 @@ json_str = """
 }
 ```
 
-注意: content 不要包含其他 JSON 字段所属的信息，解析 content 内容，其中包含其他的字段的信息，将其提取出来
+注意: 尽可能将 content 当中的信息提取出来，只让它具有介绍性信息，content 不要包含已经被提取出来的信息
 """
 
 def get_use_prompt(content: str) -> str:

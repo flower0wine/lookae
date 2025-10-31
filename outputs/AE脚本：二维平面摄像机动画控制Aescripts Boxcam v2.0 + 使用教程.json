@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：二维平面摄像机动画控制Aescripts Boxcam v2.0 + 使用教程",
+  "slug": "aejiao-ben-er-wei-ping-mian-she-xiang-ji-dong-hua-kong-zhi-aescripts-boxcam-v2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/12/28 11:12",
+  "source_url": "https://www.lookae.com/boxcam-2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Boxcam可以在AE中提供2D摄像头解决方案，允许用户轻松展示他们的场景，类似于传统的3D摄像头。V2.0有多项更新，包括重新设计UI界面、制作新文档和教程视频、支持多个独立Boxcams等。该脚本适用于Win/Mac系统下AE CS 6 - CC 2019，安装需拷贝.jsxbin脚本文件到指定目录，使用时在AE软件窗口菜单中找到脚本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/Boxcam.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-327751287"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1xj8RUqUAQFuKP25BCM2X-g"
+    }
+  ],
+  "other": {
+    "original_classification": [
+      "[AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "script_introduction_en": "Boxcam is the 2D camera solution that allows users to easily showcase their scene similar to a traditional 3D camera",
+    "script_download_title": "AE脚本：二维平面摄像机动画控制Aescripts Boxcam v2 + 使用教程",
+    "thanks_to": "monter4"
+  }
+}

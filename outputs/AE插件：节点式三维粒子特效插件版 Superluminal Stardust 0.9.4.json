@@ -1,0 +1,56 @@
+{
+  "title": "AE插件：节点式三维粒子特效插件版 Superluminal Stardust 0.9.4",
+  "slug": "aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-ban-superluminal-stardust-0-9-4",
+  "author": "大众脸",
+  "post_date": "2017-01-03T13:03:00Z",
+  "source_url": "https://www.lookae.com/stardust094/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Stardust",
+    "粒子插件"
+  ],
+  "content": "Superluminal Stardust 是一款专为 Adobe After Effects 打造的节点式三维粒子特效插件，支持 Win 和 Mac 系统。它采用模块化设计，提供强大的节点操控界面，可轻松创建复杂而精美的粒子效果。内置多种预设、支持发射器、粒子、复制、力场、3D模型、文字、遮罩、路径等元素，并具备空间变形器、球体、盒子、弯曲、扭曲、黑洞等多种控制工具。适用于制作高质量的动态视觉效果，广泛用于影视后期与创意动画中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/Stardust-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2WUUecH1K.eBjSsphXXcJOXXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2017",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.4",
+      "url": "https://lookae.ctfile.com/fs/X14165928306"
+    },
+    {
+      "name": "Win版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.4",
+      "url": "https://pan.baidu.com/s/1mihnoIc"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.1",
+      "url": "http://lookae.ctfile.com/fs/r88161067043"
+    },
+    {
+      "name": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.1",
+      "url": "https://pan.baidu.com/s/1c14lmkK"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/stardust/",
+    "update_notes": "从安装程序大小来看，以前14M，现在新版有57M；新添加众多精品预设/材质纹理贴图/发射器；OBJ发射器新增距离细分选项；修复了在某些情况下取消纹理贴图粒子会导致AE崩溃的问题。",
+    "features": [
+      "三维粒子系统",
+      "基于节点操控界面",
+      "丰富的预设动画",
+      "复制功能（独特工具）",
+      "无限2D和3D粒子控制",
+      "支持发射器、粒子、复制、力场、辅助发射器、3D模型、文本、遮罩、路径",
+      "空间变形器、球体、方形/盒子、3D模型、弯曲、扭曲、路径、黑洞",
+      "支持样条（Splines）动画路径和发射器",
+      "可在球体、盒子或3D模型中封装或发射颗粒"
+    ]
+  }
+}

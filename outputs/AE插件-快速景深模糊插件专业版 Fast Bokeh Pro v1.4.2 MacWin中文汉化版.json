@@ -1,0 +1,61 @@
+{
+  "title": "AE插件-快速景深模糊插件专业版 Fast Bokeh Pro v1.4.2 Mac/Win中文汉化版",
+  "slug": "aecha-jian-kuai-su-jing-shen-mo-hu-cha-jian-zhuan-ye-ban-fast-bokeh-pro-v1-4-2-mac-winzhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2020/07/06 12:42",
+  "source_url": "https://www.lookae.com/bokeh-142/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Fast Bokeh Pro专业版是After Effects的快速景深模糊插件，可使用深度贴图创建平滑的景深散景模糊效果。渲染处理速度非常快，且能够正确处理边缘，易于使用。与Crossphere Bokeh模糊插件的主要区别在于，Fast Bokeh Pro渲染速度更快，但可配置性较差。插件支持32位颜色（建议使用此模式以达到最佳质量），并提供自动对焦点选择功能，无需手动输入聚焦深度。该插件在模糊半径独立性、边缘处理和平滑模糊质量方面表现优异，适用于需要高效景深效果的视频后期制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Fast-Bokeh-Pro-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/237051912055.mp4"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2019, 2020",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-447242271"
+    },
+    {
+      "name": "Win版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/14g50-HuIHJxqD-mwXmEA2Q"
+    },
+    {
+      "name": "Mac版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-452095267"
+    },
+    {
+      "name": "Mac版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1M1TCFvZodypDTlFUYVnVnQ"
+    }
+  ],
+  "other": {
+    "extract_code": {
+      "win_baidu": "8hzz",
+      "mac_baidu": "4jux"
+    },
+    "official_website": "https://www.rowbyte.com/fast-bokeh",
+    "update_notes_v1.4.1": [
+      "浮动许可证兼容性",
+      "较小的稳定性改进/轻微的性能改进",
+      "添加了选项以每帧或仅一帧采样焦点深度值",
+      "多边形Iris形状（六边形，五边形，八边形等）",
+      "总部渲染选项",
+      "亮点调整带亮度和饱和度",
+      "变形散景（Iris长宽比）",
+      "线性色彩工作空间"
+    ],
+    "professional_features": [
+      "球形光圈散景模糊",
+      "快速对焦点"
+    ],
+    "usage_tip": "建议使用不带抗锯齿的深度贴图以获得最佳效果"
+  }
+}

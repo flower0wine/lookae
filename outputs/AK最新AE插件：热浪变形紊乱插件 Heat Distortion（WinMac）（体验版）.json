@@ -1,0 +1,40 @@
+{
+  "title": "AK最新AE插件：热浪变形紊乱插件 Heat Distortion（Win/Mac）（体验版）",
+  "slug": "akzui-xin-aecha-jian-re-lang-bian-xing-wen-luan-cha-jian-heat-distortion-win-mac-ti-yan-ban",
+  "author": "大众脸",
+  "post_date": "2013-10-14 12:24",
+  "source_url": "https://www.lookae.com/heat-distortio/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Video Copilot"
+  ],
+  "content": "Heat Distortion（热浪变形紊乱插件）是Video Copilot推出的一款AE插件，专门用于简化波形紊乱效果的制作过程。相比AE内置的turbulent displace（紊乱置换效果）和fractal noise（分形噪波）的繁琐操作，该插件能快速实现热浪变形效果。插件操作简单，支持模糊、扭曲、错乱、形态等属性调整，并直接支持MASK操作。目前为体验版，支持Win/Mac平台，完美版尚未发布。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/10/Heat-Distortion.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版：热浪变形插件 Heat Distortion（64位）",
+      "url": "https://www.400gb.com/file/31834383"
+    },
+    {
+      "name": "Mac 版：热浪变形插件 Heat Distortion",
+      "url": "https://www.400gb.com/file/31834382"
+    },
+    {
+      "name": "AK 演示教程：HeatDistortion 插件演示教程",
+      "url": "https://www.400gb.com/file/31834384"
+    }
+  ],
+  "other": {
+    "additional_categories": [
+      "After Effects",
+      "Mac 专区"
+    ],
+    "official_intro_url": "http://www.videocopilot.net/blog/2013/10/new-heat-distortion-plug-in-sneak-peak/"
+  }
+}

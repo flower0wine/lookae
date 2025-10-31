@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本-使用电子表格创建合成图层 CompsFromSpreadsheet 5.21",
+  "slug": "aejiao-ben-shi-yong-dian-zi-biao-ge-chuang-jian-he-cheng-tu-ceng-compsfromspreadsheet-5-21",
+  "author": "大众脸",
+  "post_date": "2024/09/22 22:37",
+  "source_url": "https://www.lookae.com/compsfromspreadsheet-521/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "电子表格"
+  ],
+  "content": "该脚本可以简单快速的根据电子表格来生成After Effects合成，还能替换合成中的文字内容，如增加文字层，替换合成中原图层等操作。已被NBC、HBO、迪士尼等数千家公司使用。5.21更新内容为修复一个错误，若选择“带有递增数字的原始合成名称”作为新合成名称，有时合成会使用模板中的一个预合成重命名。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/CompsFromSpreadsheet.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355558608781.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017,CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1364198071-dce0e7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Cy4TI4ixrwTNv2g9edTdwQ?pwd=kmcd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/GeS3C2tGXfW"
+    }
+  ]
+}

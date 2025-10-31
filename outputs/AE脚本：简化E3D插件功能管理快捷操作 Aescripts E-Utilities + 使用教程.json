@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本：简化E3D插件功能管理快捷操作 Aescripts E-Utilities + 使用教程",
+  "slug": "aejiao-ben-jian-hua-e3dcha-jian-gong-neng-guan-li-kuai-jie-cao-zuo-aescripts-e-utilities-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/09/15 09:53",
+  "source_url": "https://www.lookae.com/e-utilities/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "在AE中有一款强大的三维模型插件Element 3D，因功能强大，操控的参数和功能较多，如设置关键帧时比较繁琐。E-Utilities这款脚本整合了E3D常用功能，可便捷使用E3D功能制作动画。Collection of tools to automate working with Element 3D。官网地址http://aescripts.com/e-utilities/。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/09/E-Utilities.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC2017,CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-219723249"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kVxcrqR"
+    }
+  ],
+  "other": {
+    "E3D插件下载": [
+      "https://www.lookae.com/e3d-2222155cn/"
+    ],
+    "相关链接": [
+      "【大众脸官方淘宝店】：https://lookae.taobao.com/",
+      "点击自愿赞助 LookAE.com 网站 【送精品资源】：https://www.lookae.com/sponsor/"
+    ]
+  }
+}

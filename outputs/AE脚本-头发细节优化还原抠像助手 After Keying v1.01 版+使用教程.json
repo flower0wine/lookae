@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-头发细节优化还原抠像助手 After Keying v1.01 版+使用教程",
+  "slug": "aejiao-ben-tou-fa-xi-jie-you-hua-huan-yuan-kou-xiang-zhu-shou-after-keying-v1-01-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/03 09:11",
+  "source_url": "https://www.lookae.com/keying-101/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "使用After Keying插件可以将您的绿屏抠像合成提升到一个新的水平。使用“优化细节”功能恢复丢失的头发，并通过单击添加“Atmosphere”将任何对象集成到场景中。是抠像很不错的助手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/After-Keying.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-358304052"
+    },
+    {
+      "name": "脚本 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1HsXBYRV5RSalWpllyNIVIg"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-358304157"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/184x4Z4d0BETSPS11eAsOIA"
+    }
+  ],
+  "other": {
+    "version": "v1.01",
+    "update_notes": "解决UI界面不正常显示的问题",
+    "developer": "MONTER GROUP©",
+    "extract_code": {
+      "script_baidu": "t4h6",
+      "tutorial_baidu": "bdrb"
+    }
+  }
+}

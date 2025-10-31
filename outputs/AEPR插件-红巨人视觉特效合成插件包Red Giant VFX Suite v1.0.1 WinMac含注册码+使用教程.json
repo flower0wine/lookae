@@ -1,0 +1,78 @@
+{
+  "title": "AE/PR插件-红巨人视觉特效合成插件包Red Giant VFX Suite v1.0.1 Win/Mac含注册码+使用教程",
+  "slug": "ae-prcha-jian-hong-ju-ren-shi-jue-te-xiao-he-cheng-cha-jian-bao-red-giant-vfx-suite-v1-0-1-win-machan-zhu-ce-ma-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/07/30 21:07",
+  "source_url": "https://www.lookae.com/vfxs-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "红巨人公司推出一套全新的视频特效合成插件，VFX Suite 应该是Effects Suite和Keying Suite插件包的合体，包含了光工厂，辉光，抠像，跟踪等多个特效插件，非常的实用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/VFX-Suite.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2018 – CC 2019, Adobe Premiere Pro CC 2018 – CC 2019（部分插件支持）",
+  "supported_os": "Win/Mac（建议Win10）",
+  "download_links": [
+    {
+      "name": "Win插件下载",
+      "url": "https://lookae.ctfile.com/fs/680462-390432564"
+    },
+    {
+      "name": "Win插件下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1Zli6ceyyV7AO-iUOFdQNPw"
+    },
+    {
+      "name": "Mac插件下载",
+      "url": "https://lookae.ctfile.com/fs/680462-390432109"
+    },
+    {
+      "name": "Mac插件下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1gwu2zNBM2OrLuYPjfm2lcw"
+    },
+    {
+      "name": "教程下载",
+      "url": "https://lookae.ctfile.com/fs/680462-385102287"
+    },
+    {
+      "name": "教程下载（百度网盘）",
+      "url": "https://pan.baidu.com/s/1gMJuNxgWJBbalScTiHiUFQ"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Chromatic Displacement 色差置换插件",
+      "Knoll Light Factory 光工厂镜头光晕插件",
+      "King Pin Tracker 平面跟踪插件",
+      "Optical Glow 智能辉光插件",
+      "Primatte Keyer 专业抠像插件",
+      "Shadow 投影插件",
+      "Reflection 反射插件",
+      "Spot Clone Tracker 物体移除替换克隆跟踪插件",
+      "Supercomp 超强特效合成插件"
+    ],
+    "update_log": "对 King Pin Tracker，Supercomp 和 Chromatic Displacement 插件错误修复和性能改进",
+    "installation_instructions": "安装插件程序，结束点击关闭；打开AE软件，找到插件使用，点击Licensing… 输入对应插件的序列号，点击Register完成插件注册。",
+    "license_keys": {
+      "Chromatic Displacement": "VXBF1575880378218299",
+      "King Pin Tracker": "VKPF1505910585082579",
+      "Knoll Light Factory": "KLPF3989222681789065",
+      "Optical Glow": "VOGF1595830396520891",
+      "Primatte Keyer": "VP6F1585909270728158",
+      "Reflection": "VXXF1545921787095659",
+      "Shadow": "VSHF1525831092422292",
+      "Spot Clone Tracker": "VXAF1535866988923613",
+      "Supercomp": "VXCF1575894268749950"
+    },
+    "baidu_pan_extract_codes": {
+      "Win插件": "5ie2",
+      "Mac插件": "m1zc",
+      "教程": "v9u7"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "BCC视觉特效和转场AE/PR/达芬奇/AVID插件Continuum 2024.5 v17.5.3 Win CE",
+  "slug": "bccshi-jue-te-xiao-he-zhuan-chang-ae-pr-da-fen-qi-avidcha-jian-continuum-2024-5-v17-5-3-win-ce",
+  "author": "大众脸",
+  "post_date": "2024/09/19 10:09",
+  "source_url": "https://www.lookae.com/bcc-1753/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "BCC插件",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "BCC插件提供令人惊叹的视觉效果和工作流程解决方案，满足内容创作需求。其界面易用，含300多种效果、40种过渡和5000多种预设，在多种视频编辑和VFX应用程序中有快速性能。可使用AI工具降噪、提升画质，添加电影纹理、应用广播级过渡等。BCC 2024.5有多项更新，包括新功能及效果更新、幻影粒子改进和性能提升。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/BCC-1753.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/468907698279.mp4"
+  ],
+  "supported_versions": {
+    "Adobe软件": [
+      "After Effects CC 2020, 2021, 2022, 2023, 2024",
+      "Premiere Pro CC 2020, 2021, 2022, 2023, 2024"
+    ],
+    "OFX软件": [
+      "DaVinci Resolve 达芬奇软件17 - 19或更高版本",
+      "Nuke 13 – 15或更高版本",
+      "Fusion 17 - 19或更高版本"
+    ],
+    "AVX系列软件": "Avid Media Composer 2021, 2022, 2023, 2024"
+  },
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "AE/PR插件城通云盘",
+      "url": "https://url70.ctfile.com/f/2827370-1361825119-873ef4?p=4431"
+    },
+    {
+      "name": "AE/PR插件百度网盘",
+      "url": "https://pan.baidu.com/s/1Ldvm9bxyfwy5IqI5Qms_Kw?pwd=imiz"
+    },
+    {
+      "name": "AE/PR插件阿里云盘",
+      "url": "https://www.alipan.com/s/my7RCQ72Q5s"
+    },
+    {
+      "name": "OFX版插件城通云盘",
+      "url": "https://url70.ctfile.com/f/2827370-1361825185-8be349?p=4431"
+    },
+    {
+      "name": "OFX版插件百度网盘",
+      "url": "https://pan.baidu.com/s/1PF3nhLcWhBr8DxtMTGCZmA?pwd=nusb"
+    },
+    {
+      "name": "OFX版插件阿里云盘",
+      "url": "https://www.alipan.com/s/gLtawupNxCo"
+    },
+    {
+      "name": "AVID插件城通云盘",
+      "url": "https://url70.ctfile.com/f/2827370-1361825215-ba7b53?p=4431"
+    },
+    {
+      "name": "AVID插件百度网盘",
+      "url": "https://pan.baidu.com/s/1yr5zoa8nF8l1a5RpLBm4aw?pwd=tsei"
+    },
+    {
+      "name": "AVID插件阿里云盘",
+      "url": "https://www.alipan.com/s/XaMRfu3LXUh"
+    }
+  ],
+  "other": {
+    "相关链接": [
+      "Win中文汉化-视觉特效和转场AE/PR插件 BCC 2024 v17: https://www.lookae.com/bcc-2021-ch/",
+      "Mac苹果版-BCC视觉特效和转场AE/PR/FCPX/达芬奇/AVID插件 Continuum 2024 v17.0.3: https://www.lookae.com/bcc-2024-mac/"
+    ]
+  }
+}

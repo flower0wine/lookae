@@ -1,0 +1,42 @@
+{
+  "title": "动态线条路径描边绘制生长动画AE插件 Volna V2.3 Mac苹果版兼容M1M2",
+  "slug": "dong-tai-xian-tiao-lu-jing-miao-bian-hui-zhi-sheng-chang-dong-hua-aecha-jian-volna-v2-3-macping-guo-ban-jian-rong-m1m2",
+  "author": "大众脸",
+  "post_date": "2023/03/19 10:24",
+  "source_url": "https://www.lookae.com/volna-23/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "Volna 是一款高级笔画插件，支持使用蒙版绘制线条路径描边，并可将一个或两个蒙版混合生成具有多笔触的新形状。每个笔画可填充渐变、通过柏林噪声或正弦函数进行扭曲，粗细可通过坡度控制调节。支持线型或点型笔画，末端可添加参数化箭头。内置大量随机控件，帮助用户为设计增添独特视觉效果。插件适用于 AE 2023 至 CC 2014 版本，现推出兼容 M1/M2 芯片的 Mac 苹果版。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/volna-V2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334216310237.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Mac (M1/M2 兼容), Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-826032393-6c186d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1KsdZeKo6tCBmSKyRr6Fn8A?pwd=qdms"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/vmVQhakYcGP"
+    }
+  ],
+  "other": {
+    "update_note": "V2.3 更新内容：苹果版兼容 M1/M2 和 Intel 芯片",
+    "related_links": [
+      "https://www.lookae.com/volna-244/"
+    ],
+    "related_title": "中文汉化-动态线条路径描边绘制生长动画AE插件 Volna V2.4.5 Win+使用教程"
+  }
+}

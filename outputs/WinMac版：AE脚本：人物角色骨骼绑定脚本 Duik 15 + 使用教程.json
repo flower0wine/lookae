@@ -1,0 +1,28 @@
+{
+  "title": "Win/Mac版：AE脚本：人物角色骨骼绑定脚本 Duik 15 + 使用教程",
+  "slug": "win-macban-aejiao-ben-ren-wu-jiao-se-gu-ge-bang-ding-jiao-ben-duik-15-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015/10/09 10:35",
+  "source_url": "https://www.lookae.com/duik15/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "Duik 是由 DuDuF 出品的一款专为 After Effects 设计的动力学与动画工具集，旨在简化角色动画制作流程。该脚本提供反向动力学（IK）、骨骼系统、自动骨骼绑定、动态效果、图形变形器等核心功能，使创建复杂角色动画变得更加直观高效。\n\n其反向运动学系统可自动处理复杂的三角函数表达式，让用户专注于动画创作本身，通过简单控制器即可操控肢体各部分。骨骼和傀儡工具可替代传统傀儡图钉，实现局部精细控制，并支持 3D 角色操作。自适应操控功能能自动识别角色结构（如单臂、无膝腿等），智能适配控制器。\n\n此外，Duik 还包含多种高级操控与动画工具，如弹簧模拟、延迟与反弹效果、自动旋转等，并支持动画复制粘贴与便捷管理。脚本界面支持多语言，包括中文，提升本地用户使用体验。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2WgYJfVXXXXb4XXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE脚本：人物角色骨骼绑定脚本 Duik 15 + 使用教程",
+      "url": "https://www.400gb.com/file/122991244"
+    }
+  ],
+  "other": {
+    "external_project_link": "https://www.indiegogo.com/projects/duik-15–2#/"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-人物角色骨骼IK绑定动画控制 Limber V1.7.1 Win/Mac",
+  "slug": "aejiao-ben-ren-wu-jiao-se-gu-ge-ikbang-ding-dong-hua-kong-zhi-limber-v1-7-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/01/11 10:49",
+  "source_url": "https://www.lookae.com/limber-171/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Limber 是一款专为 After Effects 设计的 IK（反向运动）系统，通过形状图层实现角色动画中可自定义的肢体绑定。支持动态防止动画‘弹出’，平滑融合 IK 与 FK（正向运动）之间的切换，并可灵活更换四肢类型。用户可通过熟悉的控制器层对臀部和脚踝点进行动画控制。若需使用 FK 模式，只需创建一个 FK 控制器，将手或脚层重新父化至该控制器，并调整旋转值即可实现自然的手臂摆动效果。肢体形状层支持高度自定义：可添加、修改形状，调整笔触、填充样式，删除部分结构以获得独立分层。完成定制后可复制或跨分支粘贴配置。附带“肢体库”，包含多种高级自定义肢体，部分复杂结构具备额外属性与行为控制。适用于 AE 2022、2021、2020、CC 2019、CC 2018 及以上版本，支持 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/Limber.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022、2021、2020、CC 2019、CC 2018 及更高版本",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-534515809-8ff4ad"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1DdXw4TIswuad7mJgfvLsRg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Z4WnH7vXUJ9"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      "https://lookae.ctfile.com/fs/680462-323818611",
+      "https://pan.baidu.com/s/1WsJDPaCp-3a8MJVhHH-bug"
+    ],
+    "update_notes": [
+      "修复了导致启动错误的错误",
+      "添加了带有控制器的新选项的设置面板和更多",
+      "在主 UI 下拉列表中添加了 Legacy Taper 和三圈肢体",
+      "添加了高 DPI 按钮图标",
+      "更新和简化了帮助面板",
+      "更新了肢体库",
+      "更新了在线用户指南",
+      "各种错误修复",
+      "与 Limber v1.6.x 兼容，支持 AE CC2018 及更高版本"
+    ],
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ]
+  }
+}

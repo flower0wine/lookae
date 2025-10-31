@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-裁剪图层蒙版动画处理工具 Masks to Cropped Layers II v2.1+使用教程",
+  "slug": "aejiao-ben-cai-jian-tu-ceng-meng-ban-dong-hua-chu-li-gong-ju-masks-to-cropped-layers-ii-v2-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/06/30 10:51",
+  "source_url": "https://www.lookae.com/masks-layers/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Masks to Cropped Layers II 是一个用于 After Effects 的实用工具，旨在帮助动画师高效处理带有多个矢量蒙版的图层。该工具适用于从 Illustrator 粘贴的图形或在 Mocha 中跟踪的区域等场景。每个蒙版会被复制为一个新的实心层（用于动画）或用于创建预合成，且新生成的图层将被裁剪至对应蒙版的尺寸，从而提升动画灵活性并显著优化视觉特效合成性能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/Masks-to-Cropped-Layers-II.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/416752196022.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-878952258-b3dabe?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1VZQLfHnaBrh-hiG7JCtCBQ?pwd=57ab"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/3wYrbiyMQnE"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-878952303-209861?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bTWrjmfo7fiLZbJf_tJgQA?pwd=2fj6"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9r4uXYzNcPw"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "thumbnail_alt": "AE脚本-裁剪图层蒙版动画处理工具 Masks to Cropped Layers II v2.1+使用教程-LookAE.com"
+  }
+}

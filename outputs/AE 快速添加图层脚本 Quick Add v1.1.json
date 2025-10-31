@@ -1,0 +1,32 @@
+{
+  "title": "AE 快速添加图层脚本 Quick Add v1.1",
+  "slug": "ae-kuai-su-tian-jia-tu-ceng-jiao-ben-quick-add-v1-1",
+  "author": "大众脸",
+  "post_date": "2014-04-04 10:54",
+  "source_url": "https://www.lookae.com/quickadd/",
+  "category": "aescripts",
+  "tags": [
+    "AE插件",
+    "AE脚本"
+  ],
+  "content": "Quick Add 脚本可以让用户通过鼠标点击快速添加新图层到合成中，绕过设置对话框。支持预先设置折叠变换、运动模糊和3D切换，并使用播放指针的当前位置作为新图层起点。适用于After Effects多个版本，并在所选图层的上方新建图层。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/Quick-Add-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE 快速添加图层脚本 Quick Add v1.1",
+      "url": "https://www.400gb.com/file/61819543"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本：MG卡通人物角色骨骼绑定动画工具AEscripts Character Swing Rigging v1.5.1+使用教程",
+  "slug": "aejiao-ben-mgqia-tong-ren-wu-jiao-se-gu-ge-bang-ding-dong-hua-gong-ju-aescripts-character-swing-rigging-v1-5-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/09/27 11:26",
+  "source_url": "https://www.lookae.com/rigging151/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可在 After Effects 中为 MG 卡通人物角色创建骨骼绑定动画，支持为头发、衣服、毛皮、耳朵、舌头等部位快速制作高级的二级动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Character-Swing-Rigging.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-312050622"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1zhaxrkQSv64W4jwVsvtjeQ"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/character-swing-rigging/",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane\\",
+    "usage_instructions": "在AE软件中点击 Window（窗口菜单）即可找到脚本。"
+  }
+}

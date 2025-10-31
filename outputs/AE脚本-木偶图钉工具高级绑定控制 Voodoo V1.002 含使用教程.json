@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-木偶图钉工具高级绑定控制 Voodoo V1.002 含使用教程",
+  "slug": "aejiao-ben-mu-ou-tu-ding-gong-ju-gao-ji-bang-ding-kong-zhi-voodoo-v1-002-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-08-29T15:03:00Z",
+  "source_url": "https://www.lookae.com/voodoo-1002/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "木偶图钉"
+  ],
+  "content": "Voodoo 是一款专为 After Effects 设计的高级绑定控制工具，用于实现无缝的木偶工具操作与复杂层级关系管理。其核心功能包括流线型的引脚跟踪和自动控制器生成，显著提升动画制作效率并增强创作自由度。适用于需要精细控制角色或物体变形的视觉特效项目。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/voodoo.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/403647953729.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8420792685-2425b9?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1t7PVdpeHIrm6H7Jv1XzrUg?pwd=ma3b"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/ur4VmSKStRi"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.002 更新内容：已修复多国语言支持（包括日语）；新增功能：可调整控制器大小。",
+    "related_tags": [
+      "AE脚本",
+      "木偶图钉"
+    ],
+    "original_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "translation": "The After Effects Tool for Seamless Puppet Tools Control and advanced parenting. Enhance your After Effects experience and unlock creative freedom using Voodoo’s streamlined pin tracking and controller generation."
+  }
+}

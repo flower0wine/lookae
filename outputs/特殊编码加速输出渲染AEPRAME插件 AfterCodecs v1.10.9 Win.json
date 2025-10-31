@@ -1,0 +1,106 @@
+{
+  "title": "特殊编码加速输出渲染AE/PR/AME插件 AfterCodecs v1.10.9 Win",
+  "slug": "te-shu-bian-ma-jia-su-shu-chu-xuan-ran-ae-pr-amecha-jian-aftercodecs-v1-10-9-win",
+  "author": "大众脸",
+  "post_date": "2022/04/05 23:08",
+  "source_url": "https://www.lookae.com/aftercodecs-1109/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件",
+    "渲染插件",
+    "输出插件"
+  ],
+  "content": "AE软件自带很多输出格式选择，但输出特殊编码需借助其他工具。AfterCodecs这款编码输出插件，支持输出H264，H265和ProRes等编码，渲染输出速度比AE自带输出更快，压缩文件更小，画质更佳，可设置参数多。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AfterCodecs-197.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2022",
+      "2021",
+      "2020",
+      "CC2019",
+      "CC2018",
+      "CC2017",
+      "CC2015.3",
+      "CC2015",
+      "CC2014"
+    ],
+    "Premiere": [
+      "2022",
+      "2021",
+      "2020",
+      "CC2019",
+      "CC2018",
+      "CC2017",
+      "CC2015.3",
+      "CC2015",
+      "CC2014"
+    ],
+    "Media Encoder": [
+      "2022",
+      "2021",
+      "2020",
+      "CC2019",
+      "CC2018",
+      "CC2017",
+      "CC2015",
+      "CC2014"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-563428682-641052"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ixtmrcPfJdYY1qEfDYqA3g?pwd=dzio"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/cVV1NUM8bMj"
+    }
+  ],
+  "other": {
+    "视频使用教程下载": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://tc5.us/file/680462-406407782"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+      }
+    ],
+    "相关链接": [
+      {
+        "name": "AfterCodecs v2.2.0beta1 Mac/Win 测试版",
+        "url": "https://www.lookae.com/aftercodecs-22/"
+      }
+    ],
+    "编解码器和容器": {
+      "[MOV] ProRes": "6个官方配置文件（422 LT / Proxy / Normal / HQ / 4444 / XQ）和2个非官方配置文件（422 Ultra / 4444 Light）。ProRes 4444 Light / 4444 / XQ支持Alpha通道。",
+      "[MOV] HAP GPU加速编解码器": "4个编解码器（Hap、Hap Alpha、Hap Q和Hap Q Alpha），可选择禁用Snappy压缩并更改CPU块的数量，对于Hap和Hap Alpha，可选择压缩算法（每个人在速度和质量之间都有自己的权衡）",
+      "[MOV] [MP4] x264": "最佳H264 / AVC实现，优于Adobe Media Encoder和QuickTime H264。提供了一个特殊的Youtube上传配置文件，非常容易使用！",
+      "[MOV] [MP4] x265": "相同质量的文件比x264轻约25%，但编码速度较慢",
+      "[MOV] [MP4] x264 RGB": "与x264相同，但避免使用YUV色彩空间，最适合在一个视频中存储单独的通道，如UV贴图、alpha、3D通道等（对于高级用户！）"
+    },
+    "插件主要特点": {
+      "填补编解码器的空白": "AfterCodecs为您带来所需的所有编解码器和功能的一致性，而无需Quicktime以及in .MP4和.MOV：ProRes 422/4444 / XQ：即使在Windows和旧版本的Adobe上也可以。包括新的ProRes 4444 Light非官方配置文件，可同时获取Alpha通道和较低的文件大小；来自Vidvox的所有4个HAP编解码器，但算法更快且没有分辨率限制；Premiere和Media Encoder的特殊功能：MultiRenders标记，分别导出所有音轨，快速子分辨率按钮，自定义帧率等",
+      "H264 / H265：最佳和最快的压缩": "选择所需的效率：快速编码预览或低文件大小以最终交付。低比特率视频的质量比以前更好，并且可以8K渲染！一种快速，易于使用（可以选择一个参数）的YouTube上传配置文件，该配置文件尊重YTB上传建议；直接在After Effects渲染队列中节省时间，而无需使用命令行和Adobe Media Encoder；进阶功能：档案大小目标，10 bpc，完整范围，YUV 4：2：2/4：4：4，调整设定档等。",
+      "优化您的工作流程！": "AfterCodecs会定期更新，以提供新的编解码器，功能或速度方面的改进，请参阅我们的Changelog。最新功能是可以在Premiere Pro中批量导出的MultiRender Markers，并在渲染时在After Effects中的任务栏图标中显示进度栏！请在此表格上给我们您对AfterCodecs的反馈，需求和想法！"
+    },
+    "1.10.9更新内容": [
+      "MultiRender PrPro/AME：导出的文件现在具有序列中的正确时间代码",
+      "修复了关闭Premiere Pro和Media Encoder应用程序时发生的崩溃，导致Adobe要求您发送错误报告"
+    ]
+  }
+}

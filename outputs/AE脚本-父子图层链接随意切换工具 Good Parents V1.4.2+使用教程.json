@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-父子图层链接随意切换工具 Good Parents V1.4.2+使用教程",
+  "slug": "aejiao-ben-fu-zi-tu-ceng-lian-jie-sui-yi-qie-huan-gong-ju-good-parents-v1-4-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-07-28T22:52:00Z",
+  "source_url": "https://www.lookae.com/good-parents-142/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Good Parents 是一款 After Effects 脚本，允许用户自由地将一个或多个图层链接或取消链接到一个或多个目标对象上。通过关键帧控制，可随时切换父子关系，在制作MG动画时极为实用。该脚本支持多版本 AE 并持续更新兼容性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Good-Parents.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/331281384217.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-899318958-2fb79b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1E8CPBOf1e9uYnhfzKmD_UA?pwd=xk0z"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/wa6BxLs4NdW"
+    }
+  ],
+  "other": {
+    "additional_info": {
+      "update_note": "v1.4.2 更新：增加 bodymovin 兼容性支持",
+      "categories": [
+        "AE脚本",
+        "After Effects"
+      ],
+      "related_tags": [
+        "AE脚本"
+      ],
+      "image_alt": "AE脚本-父子图层链接随意切换工具 Good Parents V1.4.2+使用教程-LookAE.com"
+    }
+  }
+}

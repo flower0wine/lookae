@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-平面图片转三维空间摄像机视差动画 Face 3D v1.1.2+使用教程",
+  "slug": "aejiao-ben-ping-mian-tu-pian-zhuan-san-wei-kong-jian-she-xiang-ji-shi-chai-dong-hua-face-3d-v1-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-06-30 22:05",
+  "source_url": "https://www.lookae.com/face-3d-112/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Face 3D 是一款由 AI 驱动的 3D 肖像与照片动画工具，可将平面照片快速转换为可完全动画的真实 3D 模型，操作简单、渲染速度快。脚本后台依赖免费软件 Blender 进行深度计算，请提前安装。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Face-3D.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/478477485024.mp4"
+  ],
+  "supported_versions": "After Effects v24.2 及以上",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1523353792-627658?p=4431"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1v9a-jpalEn7HdDzKGPQu9g?pwd=kjd3"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.alipan.com/s/vmpVPgPEuKF"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1345507579-a43474?p=4431"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1ZWVcZbsMW9QagrcbdHiprA?pwd=92q7"
+    },
+    {
+      "name": "教程-阿里云盘",
+      "url": "https://www.alipan.com/s/w5qKu14u3Qg"
+    }
+  ],
+  "other": {
+    "blender_requirement": "必须安装免费 Blender 软件",
+    "update_v1.1.2": [
+      "新增深度图页面：Marigold、Distill-any-depth、Depth-anything-v2-small",
+      "修复深度图页面：Depth Compare、IMAGEamigo"
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘脚本": "kjd3",
+      "百度网盘教程": "92q7"
+    }
+  }
+}

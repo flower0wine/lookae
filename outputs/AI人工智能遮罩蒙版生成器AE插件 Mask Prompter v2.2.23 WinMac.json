@@ -1,0 +1,57 @@
+{
+  "title": "AI人工智能遮罩蒙版生成器AE插件 Mask Prompter v2.2.23 Win/Mac",
+  "slug": "airen-gong-zhi-neng-zhe-zhao-meng-ban-sheng-cheng-qi-aecha-jian-mask-prompter-v2-2-23-win-mac",
+  "author": "大众脸",
+  "post_date": "2025-05-23",
+  "source_url": "https://www.lookae.com/mask-prompter-2223/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Mask Prompter",
+    "遮罩蒙版插件"
+  ],
+  "content": "Mask Prompter 是一款基于 AI 的 After Effects 插件，可通过简单的点和框提示快速生成高精度遮罩与 Alpha 通道。新版集成 Segment Anything 2 模型，新增文本提示抠图功能，支持自然语言描述即可选取对象。插件提供可视化叠加、黑白遮罩、透明 Alpha 三种输出模式，并针对视频素材优化了时序一致性，实现一键稳定跟踪。整个流程无需复杂手绘，AI 自动完成繁琐转描，让创作者专注于创意本身。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Mask-Prompter-V2.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/476737549547.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2025, 2024, 2023",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "插件-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1506934282-99d6ac?p=4431"
+    },
+    {
+      "name": "插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1zy4WaNF3ZOCKhhVVl-swcg?pwd=qtds"
+    },
+    {
+      "name": "插件-阿里云盘",
+      "url": "https://www.alipan.com/s/Cke2ySMfjx5"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-926557887-95a34f?p=4431"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1X1-fgr0Akp5GzQIwmbJ2Yw?pwd=2vbx"
+    },
+    {
+      "name": "教程-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PtcaDWoGWb7"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘插件": "qtds",
+      "百度网盘教程": "2vbx"
+    },
+    "v2.2.23 更新日志": "减少非 CUDA 版系统依赖，部分设置性能小幅提升"
+  }
+}

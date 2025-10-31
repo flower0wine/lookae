@@ -1,0 +1,53 @@
+{
+  "title": "AE人工智能自动翻译助手 v1.8 免费开源/叶切MTG制作",
+  "slug": "aeren-gong-zhi-neng-zi-dong-fan-yi-zhu-shou-v1-8-mian-fei-kai-yuan-xie-qie-mtgzhi-zuo",
+  "author": "大众脸",
+  "post_date": "2025-05-15T08:48:00Z",
+  "source_url": "https://www.lookae.com/ae-fanyi/",
+  "category": "aescripts",
+  "tags": [
+    "AE翻译",
+    "AE脚本",
+    "翻译助手"
+  ],
+  "content": "本项目为 After Effects 用户开发的辅助工具，支持从图层效果中提取英文控件，并通过调用本地大语言模型（如 Yi-1.5-6B-Chat）或百度翻译 API 实现中英对照翻译，适合批量翻译插件参数、效果名称等用途。项目具备一键提取、一键翻译、一键读取及自动保存路径等功能，集成度高，提升工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/05/AE-FANYI.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1505300263-949dca?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1x97etU7H1b6APRerxkxEhQ?pwd=iaun"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/6BzAhjFUt8K"
+    }
+  ],
+  "other": {
+    "description": "由本地部署模型如 Yi-1.5-6B-Chat.gguf 驱动的翻译工具（通过 LM Studio 调用 API 实现），支持切换使用百度翻译 API 实现在线快速翻译，与 After Effects 深度集成。",
+    "features": [
+      "支持从图层效果中提取英文控件",
+      "可调用本地大语言模型（如 Yi-1.5-6B-Chat）",
+      "支持百度翻译 API 在线翻译",
+      "一键提取、一键翻译、一键读取功能",
+      "自动保存路径设置",
+      "适用于批量翻译插件参数、效果名称等场景"
+    ],
+    "license": "免费开源",
+    "creator": "叶切MTG",
+    "publisher": "LOOKAE",
+    "release_date": "2025/05/15",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "iaun"
+    }
+  }
+}

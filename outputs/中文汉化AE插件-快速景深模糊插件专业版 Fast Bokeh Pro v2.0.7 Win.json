@@ -1,0 +1,41 @@
+{
+  "title": "中文汉化AE插件-快速景深模糊插件专业版 Fast Bokeh Pro v2.0.7 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-kuai-su-jing-shen-mo-hu-cha-jian-zhuan-ye-ban-fast-bokeh-pro-v2-0-7-win",
+  "author": "大众脸",
+  "post_date": "2022-07-06T12:37:00Z",
+  "source_url": "https://www.lookae.com/fastbokeh-207/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Fast Bokeh Pro",
+    "中文汉化",
+    "快速模糊插件"
+  ],
+  "content": "Fast Bokeh Pro专业版是After Effects的快速景深模糊插件，可使用深度贴图创建平滑的景深散景模糊效果。渲染处理速度非常快，且能够正确处理边缘，易于使用。V2.0.7版本修复了ATI显卡上的渲染问题。该插件支持Win系统下的AE 2021、2020、CC 2019、CC 2018、CC 2017、CC 2015、CC 2014、CC。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/FastBokeh.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/307007679505.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-609572973-dafdbd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/13_Rti5t0kCiVdEw4Vsu_Aw?pwd=ek4p"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/uJm9qn8ob1r"
+    }
+  ],
+  "other": {
+    "additional_info": "Fast Bokeh v2 新增功能包括：自定义图像散景形状、区域控制，以及基于Metal/Compute的GPU加速技术。",
+    "original_description": "Fast Bokeh is a plug-in for After Effects that creates a smooth Depth of Field bokeh blur using a Depth Map. It’s very fast, handles edges properly and easy to use."
+  }
+}

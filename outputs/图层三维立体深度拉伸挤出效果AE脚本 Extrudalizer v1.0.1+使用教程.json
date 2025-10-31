@@ -1,0 +1,54 @@
+{
+  "title": "图层三维立体深度拉伸挤出效果AE脚本 Extrudalizer v1.0.1+使用教程",
+  "slug": "tu-ceng-san-wei-li-ti-shen-du-la-shen-ji-chu-xiao-guo-aejiao-ben-extrudalizer-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/06/07 10:58",
+  "source_url": "https://www.lookae.com/extrudalizer/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "三维效果",
+    "立体拉伸"
+  ],
+  "content": "Extrudalizer 是一款用于 After Effects 的脚本，可将任意 2D 形状层挤出到虚拟 3D 空间中，支持对深度、位置、旋转和缩放进行控制。用户可自定义外观与动画，并通过重复操作挤压形状来影响原始 2D 路径。该脚本完全兼容 Lottie，适用于网页及移动端应用（表达式可烘焙为关键帧），并支持通过 Bodymovin 插件导出。其创新机制基于 Adobe JavaScript 表达式引擎，在不改变原有 2D 层的基础上实现高级 3D 操控，充分发挥了 After Effects 对 2D 图层的强大原生支持能力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/Extrudalizer-1-1.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/413265104290.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-865952916-6e9817?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hUvFNVEpsIc9VIrU63LWdA?pwd=ybvi"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XY86q1NnEzj"
+    }
+  ],
+  "other": {
+    "original_tags": [
+      "AE脚本",
+      "三维效果",
+      "立体拉伸"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/%e4%b8%89%e7%bb%b4%e6%95%88%e6%9e%90/",
+      "https://www.lookae.com/tag/%e7%ab%8b%e4%bd%93%e6%8b%89%e4%bc%b8/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "ybvi"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "AE插件-点线面三维粒子插件 Plexus v3.1.13 Win/Mac中文汉化版",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-plexus-v3-1-13-win-maczhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2020/06/04 12:29",
+  "source_url": "https://www.lookae.com/plexus-3113/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "中文汉化",
+    "中文版"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的新一代粒子引擎，允许用户以程序化方式创建、操控和可视化数据。不仅可以渲染粒子，还能基于多种参数在粒子之间建立丰富的关联关系。其模块化工作流支持无限组合的配置与参数设置。Plexus 3 版本带来重大更新，显著增强了功能与性能，适用于制作点、线、面等三维粒子效果，渲染速度快，并支持导入 OBJ 格式的 3D 模型作为粒子发射器。此外，还支持通过路径、文字和灯光创建粒子发射，提供多种自定义特效，如分形、颜色控制、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 6 – CC 2019, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-446901960"
+    },
+    {
+      "name": "英文版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1vulM8d2OdtWUx8I0nTGwpw"
+    },
+    {
+      "name": "Win中文版 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-447235294"
+    },
+    {
+      "name": "Win中文版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/107ZuWDhFRpILA0yrZlhstg"
+    }
+  ],
+  "other": {
+    "official_links": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ],
+    "tutorial_links": [
+      {
+        "name": "使用教程 - 城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "name": "使用教程 - 百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      }
+    ],
+    "update_notes": "Plexus 3.1.13 更新内容：更新了浮动许可",
+    "new_features_plexus3": [
+      "Object based UI",
+      "Depth Map Culling",
+      "Motion Blur",
+      "Sound Effector",
+      "Null Object Performance",
+      "Slicer Object",
+      "Path Object Improvements",
+      "Seamless Beams",
+      "Custom Visibility Settings",
+      "Improved OBJ Import",
+      "Unified Rendering",
+      "Nested Compositions",
+      "Loop Noise"
+    ]
+  }
+}

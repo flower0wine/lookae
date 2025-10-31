@@ -1,0 +1,49 @@
+{
+  "title": "Ae/Pr视觉特效+转场BCC插件包 2019 v12.0.4 Win/Mac版",
+  "slug": "ae-prshi-jue-te-xiao-zhuan-chang-bcccha-jian-bao-2019-v12-0-4-win-macban",
+  "author": "大众脸",
+  "post_date": "2019-05-07 11:20",
+  "source_url": "https://www.lookae.com/bcc-1204/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "这是一篇关于 Boris Continuum Complete (BCC) 插件包的介绍文章。BCC 是一款功能强大的视觉特效和转场插件，适用于 Adobe After Effects 和 Premiere Pro，提供上百种特效，包括字幕、3D粒子、光线、烟雾、火、调色、抠像、遮罩、跟踪等风格化工具。本文介绍了 BCC 2019 的主要更新内容，并提供了适用于 Windows 和 Mac 系统的下载链接。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/213739335488.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019, Premiere Pro CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载 (Win)",
+      "url": "https://lookae.ctfile.com/fs/680462-372945355"
+    },
+    {
+      "name": "百度网盘下载 (Win)",
+      "url": "https://pan.baidu.com/s/1nTd4JQloWQIhM08rqLH8Vg"
+    },
+    {
+      "name": "城通网盘下载 (Mac)",
+      "url": "https://lookae.ctfile.com/fs/680462-373000004"
+    },
+    {
+      "name": "百度网盘下载 (Mac)",
+      "url": "https://pan.baidu.com/s/1pJgPwn82YooDhmzrWy0LGQ"
+    }
+  ],
+  "other": {
+    "installation_instructions_win": [
+      "卸载旧版本，然后安装插件程序，安装过程中选择No License",
+      "复制注册补丁文件夹里面的文件到C:\\Program Files\\BorisFX\\ContinuumAE\\12\\lib 完成替换注册",
+      "完成安装，打开软件使用插件"
+    ],
+    "official_website": "https://borisfx.com/products/continuum/",
+    "update_notes_en": "Continuum 2019 is the latest major upgrade for the most comprehensive plug-in collection on the market. Key features include the rebirth of Particle Illusion, the famed motion graphics generator, new Title Studio image-processing shaders such as glows, rays, and blurs for visually-stunning titles and lower thirds, new Mocha Essentials workspace with 4 new spline tools like magnetic edge snapping and geometric shapes for faster tracking and masking, new point-driven parameter tracking powered by Mocha, and overall GPU-acceleration."
+  }
+}

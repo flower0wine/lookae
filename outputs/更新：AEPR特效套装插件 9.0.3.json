@@ -1,0 +1,34 @@
+{
+  "title": "更新：AE/PR特效套装插件 9.0.3",
+  "slug": "geng-xin-ae-prte-xiao-tao-zhuang-cha-jian-9-0-3",
+  "author": "大众脸",
+  "post_date": "2014/09/04 14:46",
+  "source_url": "https://www.lookae.com/bcc903/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC",
+    "BorisFX",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete 9.0.3 是一款功能强大的视频特效插件套装，为视频图像合成、处理、键控、着色、变形等提供全面的解决方案。该版本支持Open GL 和双 CPU加速，拥有超过200种特效效果和上千种特效预设，包括3D字幕、3D粒子、光线、镜头光晕、烟雾、火等特效，以及调色、键控/抠像、遮罩、发光等风格化工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/BCC9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro 64位版 CS5-CC, Adobe After Effects 64位版 CS5-CC",
+  "supported_os": "Win64位系统",
+  "download_links": [
+    {
+      "name": "AE/PR特效套装插件：BorisFX Boris Continuum Complete 9.0.3 （BCC9）",
+      "url": "https://www.400gb.com/file/72577114"
+    }
+  ],
+  "other": {
+    "mac_version_download": {
+      "name": "Mac版本：Boris Continuum Complete 8.11（BBC-8.11）",
+      "url": "http://www.ctdisk.com/file/11312833"
+    },
+    "official_website": "http://www.borisfx.com/Continuum-Complete/BCC9.php"
+  }
+}

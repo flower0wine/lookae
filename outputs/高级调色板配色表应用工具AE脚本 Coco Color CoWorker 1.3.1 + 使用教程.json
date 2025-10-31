@@ -1,0 +1,46 @@
+{
+  "title": "高级调色板配色表应用工具AE脚本 Coco Color CoWorker 1.3.1 + 使用教程",
+  "slug": "gao-ji-diao-se-ban-pei-se-biao-ying-yong-gong-ju-aejiao-ben-coco-color-coworker-1-3-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/03/16 09:37",
+  "source_url": "https://www.lookae.com/coco-13/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "配色脚本"
+  ],
+  "content": "这是一款高级调色板配色表应用工具AE脚本，在界面中可快速得到调色配色，有多种使用方式，能让用户在After Effects中更好地完成色彩工作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Coco-Color-CoWorker-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355853761865.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-824720269-de18bd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1kDOhgVjueGBPRGkonybU8Q?pwd=iemj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/wxuLivX3Cbe"
+    }
+  ],
+  "other": {
+    "脚本功能特性": [
+      "调色板：访问数以千计的调色板，探索最新趋势，搜索颜色并获得可用结果或继续自定义颜色",
+      "对比检查：检查颜色对比，确保通过简单工作流程为设计选择正确颜色",
+      "色盲模拟：为视频生成不同的色盲模拟，确保所有人都能很好看到作品",
+      "图像中的调色板：从照片中获取颜色，获取与图像匹配的配色方案",
+      "颜色渐变：发现精选的精美渐变色系列并应用",
+      "流行品牌颜色：探索官方品牌调色板集合，从流行颜色选择中获取灵感并使用"
+    ],
+    "1.3.1更新内容": "修复了AE 2022中的颜色选择器问题；添加了库导入/导出"
+  }
+}

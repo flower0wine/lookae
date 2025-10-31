@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-根据电子表格生成合成图层 CompsFromSpreadsheet 5.1.5 + 使用教程",
+  "slug": "aejiao-ben-gen-ju-dian-zi-biao-ge-sheng-cheng-he-cheng-tu-ceng-compsfromspreadsheet-5-1-5-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/19 13:40",
+  "source_url": "https://www.lookae.com/compsfromspreadsheet-515/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该AE脚本可通过电子表格快速生成After Effects合成，还能替换合成中的文字内容等。支持Win/Mac系统，适用于Adobe After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/CompsFromSpreadsheet.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375082913"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BEUjDDsahTEdv3dVZBkvlw",
+      "extra": "提取码：7vp9"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "script_english_introduction": "CompsFromSpreadsheet allows you to quickly generate copies of your After Effects compositions, updating the new comps with data from a spreadsheet used to insert text and replace layers.",
+    "script_installation": "将jsxbin脚本文件拷贝到以下目录：…..\\Adobe After Effects 版本号\\Support Files\\Scripts\\ScriptUI Panels\\"
+  }
+}

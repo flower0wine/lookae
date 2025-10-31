@@ -1,0 +1,48 @@
+{
+  "title": "After Effects CS6（11.02）Win版中文化程序（制作：乐呵一世）",
+  "slug": "after-effects-cs6-11-02-winban-zhong-wen-hua-cheng-xu-zhi-zuo-le-he-yi-shi",
+  "author": "大众脸",
+  "post_date": "2013/04/15 09:45",
+  "source_url": "https://www.lookae.com/aecs6-ch/",
+  "category": "aechajian",
+  "tags": [
+    "AECS6汉化"
+  ],
+  "content": "本汉化补丁是通过手动替换，请替换前主动备份原文件。具体的汉化步骤以及说明可以在下载压缩包的说明文档中详阅，也可以参考原作者乐呵一世的百度博客。此汉化程序保持100%原样，尊重原作者劳动成果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/04/AECS6-CH.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 (11.02)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Adobe After Effects CS6 汉化补丁",
+      "url": "https://www.400gb.com/file/19209256"
+    }
+  ],
+  "other": {
+    "original_creator": "乐呵一世",
+    "original_blog": "http://hi.baidu.com/45652655455647",
+    "included_files": [
+      "AfterEffectsTrial-11.0.2-mul-AdobeUpdate-升级补丁",
+      "Adobe After Effects CS6（11.02）Win版中文化程序",
+      "Adobe After Effects CS6（11.02）Win版原版备份",
+      "说明 .doc"
+    ],
+    "categories_link": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE模板",
+        "url": "https://www.lookae.com/after-effects/other-after-effects/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

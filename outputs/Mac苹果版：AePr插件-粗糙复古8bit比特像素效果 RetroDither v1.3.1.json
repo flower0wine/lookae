@@ -1,0 +1,48 @@
+{
+  "title": "Mac苹果版：Ae/Pr插件-粗糙复古8bit比特像素效果 RetroDither v1.3.1",
+  "slug": "macping-guo-ban-ae-prcha-jian-cu-cao-fu-gu-8bitbi-te-xiang-su-xiao-guo-retrodither-v1-3-1",
+  "author": "大众脸",
+  "post_date": "2019-01-01T21:28:00Z",
+  "source_url": "https://www.lookae.com/mac-retrodither/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "RetroDither 是一款为 Adobe After Effects 设计的 GPU 加速插件，可模拟复古游戏机和家用电脑平台的抖动（dithering）效果与色彩方案。它支持超过 10 种不同的有序抖动和误差扩散算法，以及多种自适应至经典硬件色彩调色板（如 ZX Spectrum、CGA、MSX 等），适用于打造真实感十足的复古风格动态图形或视频素材。该插件特别适合希望在作品中添加怀旧氛围的创作者。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/RetroDither.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5; Premiere CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-328479273"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IW-5uXl8-BwUI_UAygxESA"
+    }
+  ],
+  "other": {
+    "registration_code": "TLC20*Look*AE*298394516728034SUL5",
+    "official_website": "http://aescripts.com/retrodither/",
+    "related_links": [
+      "https://www.lookae.com/retrodither-13/"
+    ],
+    "original_post_category": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "tags_in_post": [
+      "AE插件",
+      "PR插件"
+    ]
+  }
+}

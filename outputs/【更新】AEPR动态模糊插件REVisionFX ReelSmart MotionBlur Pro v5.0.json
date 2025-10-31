@@ -1,0 +1,39 @@
+{
+  "title": "【更新】AE/PR动态模糊插件RE:VisionFX ReelSmart MotionBlur Pro v5.0",
+  "slug": "geng-xin-ae-prdong-tai-mo-hu-cha-jian-re-visionfx-reelsmart-motionblur-pro-v5-0",
+  "author": "大众脸",
+  "post_date": "2014-04-06T01:01:00Z",
+  "source_url": "https://www.lookae.com/rsmb5/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Revisionfx"
+  ],
+  "content": "ReelSmart MotionBlur Pro v5.0 是由 REVisionFX 公司推出的高性能动态模糊插件，专为 Adobe After Effects 和 Premiere Pro 打造。该插件可自动在动画中添加自然真实的运动模糊效果，无需手动操作。其核心技术基于智能运动追踪，能够根据物体的运动轨迹自动生成模糊效果，并支持灵活调节模糊强度、添加或移除模糊。适用于多种版本的 AE 与 PR，支持多核处理器加速计算，提升渲染效率。此外，还可通过一个序列的运动数据来模糊另一个序列，实现创意特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/RSMB5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects: 7.0, CS3, CS4, CS5, CS5.5, CS6, CC\nAdobe Premiere Pro: 7.0, CS3, CS4, CS5, CS5.5, CS6, CC",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR动态模糊插件REVisionFX ReelSmart MotionBlur Pro 5.0",
+      "url": "https://www.400gb.com/file/61935242"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/twixtor604/",
+      "http://www.revisionfx.com/products/rsmb/",
+      "http://revisionfx.com/products/rsmb/overview/"
+    ],
+    "plugin_developer": "REVisionFX",
+    "notable_products": [
+      "Twixtor Pro",
+      "ReelSmart MotionBlur Pro"
+    ],
+    "description": "一款自动添加真实运动模糊效果的插件，广泛应用于影视后期制作中以增强动画的真实感。"
+  }
+}

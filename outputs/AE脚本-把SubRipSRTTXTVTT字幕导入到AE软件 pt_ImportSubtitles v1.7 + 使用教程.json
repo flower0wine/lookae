@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-把SubRip/SRT/TXT/VTT字幕导入到AE软件 pt_ImportSubtitles v1.7 + 使用教程",
+  "slug": "aejiao-ben-ba-subrip-srt-txt-vttzi-mu-dao-ru-dao-aeruan-jian-pt-importsubtitles-v1-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/08/27 10:25",
+  "source_url": "https://www.lookae.com/importsubtitles-17/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可用于将SubRip/SRT/TXT/VTT格式的字幕文件直接导入Adobe After Effects，适用于视频中嵌入字幕用于网络或磁带交付。支持通过alpha通道渲染后导入编辑软件，或使用动态链接直接导入Premiere Pro。支持Windows和Mac系统，兼容After Effects CC 2019至CS4多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/ImportSubtitles-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-395030424"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1bDCqxjyKl5MtcXDL-FM4wQ"
+    }
+  ],
+  "other": {
+    "script_url": "https://aescripts.com/pt_importsubtitles/",
+    "version": "v1.7",
+    "update_notes": [
+      "添加了基本的WebVTT格式支持",
+      "修复了双向文本上框大小不正确的问题",
+      "改进了格式变化的处理",
+      "许可证更新"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本：人工智能便捷式文字标题字幕条排版时尚设计动画（完美）+使用教程 Artificial Intelligence Titles",
+  "slug": "aejiao-ben-ren-gong-zhi-neng-bian-jie-shi-wen-zi-biao-ti-zi-mu-tiao-pai-ban-shi-shang-she-ji-dong-hua-wan-mei-shi-yong-jiao-cheng-artificial-intelligence-titles",
+  "author": "大众脸",
+  "post_date": "2018-08-01T15:31:00Z",
+  "source_url": "https://www.lookae.com/aititles/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "本脚本提供超过200种文字标题预设，支持快速排版与时尚动画效果。独立脚本控制，修改便捷，适用于 After Effects CC 2014.2 至 CC 2018，兼容 Windows 与 Mac 系统。已完美注册，无弹窗、无功能限制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/AI.T.jpg",
+    "https://wx2.sinaimg.cn/mw1024/a1916e89gy1ftszz4hybfj20he1cs7wh.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014.2 – CC 2018",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-301168668"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1zmygNb_xRFxznVFoZ1dNIw"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/after-effects/other-after-effects/",
+      "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "https://www.lookae.com/sponsor/"
+    ],
+    "installation_instructions": [
+      "复制 (AIT) Artificial Intelligence Titles.jsxbin 和 (AIT)Folder 文件夹到 AE 脚本目录：",
+      "Win：…Adobe After Effects CC\\Support Files\\Scripts\\ScriptUI Panels\\",
+      "Mac：应用程序\\Adobe After Effects CC\\Scripts\\ScriptUI Panels\\",
+      "打开 AE 软件设置，勾选‘允许脚本读写和访问网络’：",
+      "Win：编辑-首选项-常规；Mac：After Effects CC-首选项-常规",
+      "在窗口菜单下即可看到 (AIT) Artificial Intelligence Titles 脚本"
+    ],
+    "note": "已完美注册，无任何弹窗，无任何功能限制"
+  }
+}

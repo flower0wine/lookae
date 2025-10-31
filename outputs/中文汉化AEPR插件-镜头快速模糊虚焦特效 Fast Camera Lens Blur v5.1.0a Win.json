@@ -1,0 +1,43 @@
+{
+  "title": "中文汉化AE/PR插件-镜头快速模糊虚焦特效 Fast Camera Lens Blur v5.1.0a Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-jing-tou-kuai-su-mo-hu-xu-jiao-te-xiao-fast-camera-lens-blur-v5-1-0a-win",
+  "author": "大众脸",
+  "post_date": "2022/06/22 15:39",
+  "source_url": "https://www.lookae.com/fclb-510/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Fast Camera Lens Blur",
+    "PR插件",
+    "中文汉化",
+    "镜头模糊特效"
+  ],
+  "content": "Fast Camera Lens Blur 是一款可快速制作逼真摄像机镜头模糊效果的插件，渲染速度远超原生效果。支持多种模糊类型（正六边形、正八边形、十二边形、16边形），并能高效渲染通常需多层模糊组合才能实现的辉光效果。适用于 After Effects 与 Premiere Pro 多个版本，提供中文汉化支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Fast-Camera-Lens-Blur.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50213974004.mp4?_=1"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-599776176-ce596a?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1nx_srcZgVYaKDuvt8oem_g?pwd=0u9h"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/giETegZFzTa"
+    }
+  ],
+  "other": {
+    "update_notes": "5.1.0 更新内容：支持 MFR（多帧渲染）",
+    "plugin_homepage": "https://aescripts.com/fast-camera-lens-blur/",
+    "original_description_en": "Renders realistic camera lens blur just like the native “Camera Lens Blur” effect of Adobe After Effects but faster, way faster! In addition, it can also render glow that is generally expressed by combining several layers of blur."
+  }
+}

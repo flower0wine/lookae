@@ -1,0 +1,62 @@
+{
+  "title": "人体骨骼IK绑定联动AE插件 BAO Bones V1.5.10 Win/Mac",
+  "slug": "ren-ti-gu-ge-ikbang-ding-lian-dong-aecha-jian-bao-bones-v1-5-10-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/10/13 10:55",
+  "source_url": "https://www.lookae.com/bones-1510/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "BAO Bones 是一款专为 After Effects 设计的人体骨骼IK绑定联动插件，可实现角色骨骼的快速绑定与动画。仅需三步操作即可完成人物角色的骨骼绑定，相比其他插件更加简洁高效。支持 Windows 与 Mac 系统，兼容 AE 2022 至 CS6 多个版本，并已修复 Puppeteer 内存问题，同时适配 Apple M 芯片。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/BAO-Bones.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056438817.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-694003601-ba577d?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1E_w9L8HK6rU1tu2l1q4owQ?pwd=29ak"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/L5TkG2z9hwk"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-694159563-dc488c?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/16qn7meKLNmLsgLPkO97zgg?pwd=0ng9"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ihdY4ZCiraS"
+    }
+  ],
+  "other": {
+    "update_notes": "修复了Puppeteer内存问题；兼容Apple M芯片",
+    "tutorial_download_links": [
+      "https://lookae.ctfile.com/fs/680462-231219493",
+      "https://pan.baidu.com/s/1hr822US"
+    ],
+    "related_tags": [
+      "AE插件",
+      "AE插件M1",
+      "After Effects",
+      "角色绑定",
+      "IK绑定",
+      "骨骼动画"
+    ]
+  }
+}

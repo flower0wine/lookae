@@ -1,0 +1,49 @@
+{
+  "title": "中文汉化AE插件-蒙板遮罩底栏文字特效 Effect Matte v1.3.6 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-meng-ban-zhe-zhao-di-lan-wen-zi-te-xiao-effect-matte-v1-3-6-win-mac",
+  "author": "大众脸",
+  "post_date": "2021-10-11",
+  "source_url": "https://www.lookae.com/effect-matte-136/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Effect Matte 是一款 After Effects 插件，可以快速为文字添加蒙板遮罩效果，无需繁琐的图层遮罩设置。它能够自动为文字生成合适大小的遮罩，并支持控制面积、圆角、羽化等动画参数，也可以手动调整蒙板遮罩的边缘。V1.3.5 版本修复了禁用遮罩时的错误。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Effect-Matte-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50189362906.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 (插件)",
+      "url": "https://url62.ctfile.com/f/680462-517128428-e43acb"
+    },
+    {
+      "name": "百度网盘 (插件)",
+      "url": "https://pan.baidu.com/s/1ytv19sryQagxlwGQ1UYPBA"
+    },
+    {
+      "name": "阿里云盘 (插件)",
+      "url": "https://www.aliyundrive.com/s/XFKiHMyP33r"
+    },
+    {
+      "name": "城通网盘 (视频教程)",
+      "url": "https://lookae.ctfile.com/fs/680462-324510804"
+    },
+    {
+      "name": "百度网盘 (视频教程)",
+      "url": "https://pan.baidu.com/s/1A9mHyE2v9jZLuFziR4me0g"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘 (插件)": "6688",
+      "百度网盘 (插件)": "ql7n"
+    }
+  }
+}

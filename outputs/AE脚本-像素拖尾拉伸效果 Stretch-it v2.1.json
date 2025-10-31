@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-像素拖尾拉伸效果 Stretch-it v2.1",
+  "slug": "aejiao-ben-xiang-su-tuo-wei-la-shen-xiao-guo-stretch-it-v2-1",
+  "author": "大众脸",
+  "post_date": "2019/04/24 21:48",
+  "source_url": "https://www.lookae.com/stretch-it/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可以将文字或图层过度拉伸缩放，通过简单操作即可制作出效果。脚本适用于Win/Mac系统，支持AE CC 2018、CC 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Stretch-it-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368193305"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1wRUtzUpcAsSdANJ6T3ukGw",
+      "extra": "提取码：a1bp"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "script_introduction_en": "I created this tool because I’ve always liked the contrast between overstretched and condensed letters in a single word. But making the effect was time-consuming and tedious, then if I changed my mind on the chosen letter, the word itself, or the font, I simply had to start from the beginning. https://aescripts.com/stretch-it/"
+  }
+}

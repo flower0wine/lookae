@@ -1,0 +1,42 @@
+{
+  "title": "中文汉化版-视频人像磨皮润肤美颜AE/PR插件 Beauty Box V6.0.2 Win",
+  "slug": "zhong-wen-yi-hua-ban-shi-pin-ren-xiang-mo-pi-run-fu-mei-yan-ae-prcha-jian-beauty-box-v6-0-2-win",
+  "author": "大众脸",
+  "post_date": "2025-10-21T09:58:00Z",
+  "source_url": "https://www.lookae.com/beauty-box-chn/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "磨皮插件",
+    "精品资源"
+  ],
+  "content": "Beauty Box 是一款专为视频人像设计的磨皮润肤美颜插件，支持 After Effects 与 Premiere Pro。插件具备自动皮肤识别功能，可精准创建遮罩，仅对皮肤区域应用平滑效果，操作简单且高效。支持GPU加速，提供大量预设，显著提升修图效率。适用于需要快速美化人物肤色与质感的视频剪辑场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Beauty-Box-4-NEW.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01HrUjFL1vSMnN6vEEv_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/211731022272.mp4"
+  ],
+  "supported_versions": "AE CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023, 2024, 2025; PR CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Win 64位（不支持32位系统，不支持Mac苹果系统）",
+  "download_links": [
+    {
+      "name": "淘宝购买 - 中文汉化版",
+      "url": "https://item.taobao.com/item.htm?id=642950782377"
+    },
+    {
+      "name": "英文版免费下载",
+      "url": "https://www.lookae.com/beauty-box-602/"
+    },
+    {
+      "name": "站内直接购买（已更新至V6.0.2）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fbeauty-box-chn%"
+    }
+  ],
+  "other": {
+    "note": "提供中文和英文版，一键集成选择安装；仅支持Win版，不支持Mac版；由于技术限制和疏漏，极少部分参数可能未做汉化；转译编码的特殊性，可能存在潜在BUG；购买前请充分了解工具功能，仅提供工具，不提供视频教程或使用教学。"
+  }
+}

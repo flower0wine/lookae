@@ -1,0 +1,42 @@
+{
+  "title": "Ae Pr插件：特殊编码加速输出渲染插件 Aescripts AfterCodecs v1.4 + 使用教程",
+  "slug": "ae-prcha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/06/26 13:59",
+  "source_url": "https://www.lookae.com/aftercodecs14/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "AE软件虽自带多种输出格式，但输出特殊编码需借助其他工具。AfterCodecs这款编码输出插件，支持输出H264、H265和ProRes等编码，渲染输出速度比AE自带输出更快，压缩文件更小且画质更佳。官网为http://aescripts.com/aftercodecs/。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015；Premiere CC 2018, CC 2017, CC 2015.3, CC 2015；Media Encoder CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-295959438"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IQH292zvjXUK17sri-VWJg"
+    }
+  ],
+  "other": {
+    "使用教程下载链接": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://www.pipipan.com/fs/680462-221741711"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1c2nhMI8"
+      }
+    ],
+    "支持渲染的编码": "ProRes : LT / Proxy / Normal / HQ and even 444 that supports Alpha Channel. x264 : best H264/AVC implementation, outperforming both Adobe Media Encoder, QuickTime H264 and AE’s built - in H264. x265 : files are 30% lighter than x264 and it also supports 8K resolution. x264 RGB : same as x264 but avoids YUV colorspace, best for storing separate channels in one video (UV map, Alphas…) for power users only."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-二维平面摄像机动画控制 Boxcam v2.4 + 使用教程",
+  "slug": "aejiao-ben-er-wei-ping-mian-she-xiang-ji-dong-hua-kong-zhi-boxcam-v2-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-06-24T13:42:00Z",
+  "source_url": "https://www.lookae.com/boxcam-23/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Boxcam 是一款在 After Effects 中提供 2D 摄像机解决方案的脚本，允许用户轻松展示场景，效果类似于传统 3D 摄像机。该脚本支持从 AE CS6 到 CC 2019 的所有版本，适用于 Windows 和 Mac 系统。通过简单的操作即可实现复杂的镜头运动效果，提升二维动画的表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/Boxcam.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-384372774"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/11DnkQJQMBO45OlWaapJgpQ"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-327751287"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1xj8RUqUAQFuKP25BCM2X-g"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修正了在 CC 2019 中及时移动 Boxcam 输出层时的错误",
+      "修正了 Ctrl + 单击 Create Comp 按钮时的错误",
+      "验证从 CS6 到 CC 2019 所有版本仍能正常工作"
+    ],
+    "installation_guide": "将 .jsxbin 脚本文件复制到 AE 安装目录下的 Support Files\\Scripts\\ScriptUI Pane 文件夹中。",
+    "usage_guide": "在 AE 软件中通过 Window（窗口菜单）找到并运行脚本。",
+    "extract_code": "tztt",
+    "original_source": "https://aescripts.com/boxcam/",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ]
+  }
+}

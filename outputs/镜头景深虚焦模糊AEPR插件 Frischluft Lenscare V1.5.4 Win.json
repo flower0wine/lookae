@@ -1,0 +1,51 @@
+{
+  "title": "镜头景深虚焦模糊AE/PR插件 Frischluft Lenscare V1.5.4 Win",
+  "slug": "jing-tou-jing-shen-xu-jiao-mo-hu-ae-prcha-jian-frischluft-lenscare-v1-5-4-win",
+  "author": "大众脸",
+  "post_date": "2023/08/28 10:38",
+  "source_url": "https://www.lookae.com/lenscare/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "景深插件"
+  ],
+  "content": "Lenscare 将景深和失焦效果移至后期制作，适用于 Adobe After Effects 和 Premiere Pro。它提供高质量的相机模糊效果，兼具 2D 后处理的灵活性，可显著减少额外 3D 渲染时间。插件包含两个独立功能：Out of Focus 模拟镜头模糊；Depth of Field 支持复杂景深效果，优于内置的 Camera Lens Blur。开发目标是尽可能真实还原物理镜头特性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/FrischluftLenscare-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects, Premiere Pro",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-926110026-829980?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ZpD-aFmwGQuMTl4fkfaj9w?pwd=t1kw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/uajMQuEuc7e"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "t1kw"
+    },
+    "categories_linked": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tags_linked": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e6%99%af%e6%b7%b6%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

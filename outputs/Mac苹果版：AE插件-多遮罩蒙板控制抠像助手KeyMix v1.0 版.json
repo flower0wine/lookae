@@ -1,0 +1,35 @@
+{
+  "title": "Mac苹果版：AE插件-多遮罩蒙板控制抠像助手KeyMix v1.0 版",
+  "slug": "macping-guo-ban-aecha-jian-duo-zhe-zhao-meng-ban-kong-zhi-kou-xiang-zhu-shou-keymix-v1-0-ban",
+  "author": "大众脸",
+  "post_date": "2018-12-30 15:35",
+  "source_url": "https://www.lookae.com/keymix-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "KeyMix允许您使用多个蒙版或MASK遮罩层在单个图层上混合多个抠像键控；搭配Keylight抠像插件使用，使其获得更加完美的抠像通道，通常包括使用不同的设置添加多个键控，然后将它们混合在一起。KeyMix简化了这一过程，允许您将所有抠像键控复合到单个层，而不是单独的合成里。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/KeyMix.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019,CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-328105780"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1tsc2ggS8J_mwI337dAURPA"
+    }
+  ],
+  "other": {
+    "extraction_password": "lookae6",
+    "win_version_download": "https://pan.baidu.com/s/1fFtaSJmpYC8IE_f_1003rg",
+    "tutorial_download": "https://lookae.ctfile.com/fs/680462-327640396",
+    "official_website": "https://aescripts.com/keymix/"
+  }
+}

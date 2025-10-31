@@ -1,0 +1,79 @@
+{
+  "title": "AE/PR插件-特殊视频编码MKV/MOV/FLV格式素材直接导入软件工具Influx v1.1.4 Win",
+  "slug": "ae-prcha-jian-te-shu-shi-pin-bian-ma-mkv-mov-flvge-shi-su-cai-zhi-jie-dao-ru-ruan-jian-gong-ju-influx-v1-1-4-win",
+  "author": "大众脸",
+  "post_date": "2022-04-08T10:50:00Z",
+  "source_url": "https://www.lookae.com/influx-114/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "导入插件"
+  ],
+  "content": "Influx v1.1.4 是一款专为 Adobe After Effects 和 Premiere Pro 设计的插件，支持多种特殊视频编码格式（如 MKV、MOV、FLV 等）的直接导入，无需借助外部转码工具。安装后可直接在 AE 和 PR 中处理高兼容性音视频素材，提升工作效率并节省磁盘空间。同时支持在 Media Encoder 中导出项目，并实现从 AME 直接转码文件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/Influx-102.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334057662148.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019; Premiere: 2022, 2021, 2020, CC 2019; Media Encoder: 2022, 2021, 2020, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-563889049-cd1be9"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1zUxOwO10kuwOFmmu-EK_dQ?pwd=s73j"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/4FH3BgmD4im"
+    }
+  ],
+  "other": {
+    "format_support": [
+      ".MKV",
+      ".WebM",
+      ".FLV",
+      ".OGV",
+      ".BIK",
+      ".AVI",
+      ".MOV",
+      ".WMV",
+      ".VOB"
+    ],
+    "video_codecs": [
+      "FFV1",
+      "VP8",
+      "VP9",
+      "Canopus HQ",
+      "H.264",
+      "H.265"
+    ],
+    "audio_codecs": [
+      ".FLAC",
+      ".OPUS",
+      ".OGG Vorbis",
+      ".MKA",
+      ".WMA"
+    ],
+    "update_notes": [
+      "改进了新导入的音视频文件的内部导入流程，提高整体稳定性和兼容性。旧 PrPro 项目中的先前文件不受影响，仅影响新导入内容。",
+      "After Effects：优化长文件音频解码性能"
+    ],
+    "author_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e5%af%bc%e5%85%a5%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

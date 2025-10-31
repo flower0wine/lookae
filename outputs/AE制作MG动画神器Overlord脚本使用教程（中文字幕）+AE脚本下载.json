@@ -1,0 +1,50 @@
+{
+  "title": "AE制作MG动画神器Overlord脚本使用教程（中文字幕）+AE脚本下载",
+  "slug": "aezhi-zuo-mgdong-hua-shen-qi-overlordjiao-ben-shi-yong-jiao-cheng-zhong-wen-zi-mu-aejiao-ben-xia-zai",
+  "author": "大众脸",
+  "post_date": "2019/08/21 22:11",
+  "source_url": "https://www.lookae.com/overlord/",
+  "category": "aescripts",
+  "tags": [
+    "AE教程",
+    "AE脚本",
+    "MG与动画",
+    "中文字幕"
+  ],
+  "content": "Overlord 是一个专为 Adobe After Effects 和 Illustrator 设计的高效矢量工作流程工具。它通过两个面板在两个软件之间建立直接连接，实现图形形状的即时传输，支持动画同步，无需文件导出、导入、转换或重新绘制。用户可直接在 AE 中使用 AI 的矢量图形进行动画创作，同时也能将 AE 中的形状图层回传至 Illustrator 进行高级编辑。该脚本极大地简化了跨软件协作流程，特别适合需要频繁在矢量设计与动态动画间切换的创作者。支持 Windows 与 Mac 系统，兼容 AE CC 2014.2 至 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Overlord.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2014.2 - CC 2019",
+  "supported_os": "Win/MAC",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-393882836"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1kXHPl1bMvKO3GY7cgLXSCw"
+    }
+  ],
+  "other": {
+    "tutorial_structure": [
+      "软件切换",
+      "图形互导",
+      "拆分图形",
+      "参数图形",
+      "重置锚点",
+      "对齐中心",
+      "导入参考线",
+      "导入色板",
+      "新建画板",
+      "新功能",
+      "更新图形",
+      "导入渐变"
+    ],
+    "original_source": "公众号《MG与动画》免费提供翻译",
+    "project_website": "https://www.battleaxe.co/overlord",
+    "description": "The Prince that was promised. Our hope for the future. An end to blog posts about Prepping Illustrator Files for After Effects in 7 Easy Steps."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-文字字体类型变形工具 Type Morph v2.4 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-zi-ti-lei-xing-bian-xing-gong-ju-type-morph-v2-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-01-21T11:01:00Z",
+  "source_url": "https://www.lookae.com/type-morph-24/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Type Morph v2.4 是一款用于 After Effects 的可变字体动画脚本工具，支持通过动态属性（如宽度、粗细、衬线等）实时调整字体样式。该工具利用可变字体技术，将一个字体文件作为多种字重和字宽的组合使用，极大提升了文字动画的灵活性与表现力。其更新版本引入了新的动画预设、更平滑的渐变效果，并优化了用户界面布局。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Type-Morph.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-538746530-f78fa0"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1M_-gru6WJfu4Y8arV5Acyw?pwd=f2bn"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/37w9BsPxXiG"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-413455612"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1SE2DKRGK49OtBUhlQWA90g?pwd=ru8u"
+    }
+  ],
+  "other": {
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "update_notes": [
+      "添加了 1 个动画预设（径向渐变）",
+      "在默认预设上使用时渐变更平滑",
+      "更改了 UI（预设现在组织在下拉菜单中）"
+    ],
+    "description": "A Variable Font is a single font that acts as multiple fonts. Using dynamic attributes such as width, weight, serif and others, variable fonts can be modified live. It’s hardly an overstatement to claim that the variable font might revolutionize the way we design and use type, and it seems like we’re only beginning to tap into the possible implications that follow."
+  }
+}

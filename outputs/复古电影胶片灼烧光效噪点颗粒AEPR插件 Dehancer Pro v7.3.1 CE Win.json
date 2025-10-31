@@ -1,0 +1,62 @@
+{
+  "title": "复古电影胶片灼烧光效噪点颗粒AE/PR插件 Dehancer Pro v7.3.1 CE Win",
+  "slug": "fu-gu-dian-ying-xiao-pian-zhuo-shao-guang-xiao-zao-dian-ke-li-ae-prcha-jian-dehancer-pro-v7-3-1-ce-win",
+  "author": "大众脸",
+  "post_date": "2025/06/16 09:57",
+  "source_url": "https://www.lookae.com/dehancer-pro-731/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Dehancer Pro",
+    "PR插件",
+    "复古胶片"
+  ],
+  "content": "Dehancer 是一款基于真实摄影和电影胶片素材的胶片模拟插件，提供胶片颗粒、光晕（Halation）、泛光（Bloom）等效果，支持 ACES 工作流，可用于在画面中添加胶片边框、灼烧光效、噪点、刮痕等复古视觉特效，适用于追求电影感调色与风格化的后期制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Dehancer-Adobe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/365427639240.mp4"
+  ],
+  "supported_versions": "Adobe Premiere Pro 2022 及更高版本；Adobe After Effects 2021 及更高版本",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1517392159-83501c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1sJsBm__gE8UqPwlZYoodfQ?pwd=mqa8"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/EBErgwmSHiU"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "mqa8",
+    "included_tools": [
+      "输入相机配置文件",
+      "Cineon Film Log 支持",
+      "63个带有打印选项的胶片配置文件",
+      "适用于 8、16、35、65 mm 的工具轮廓",
+      "胶片显影剂",
+      "胶片压缩",
+      "Kodak 2383和Fujifilm 3513 Print",
+      "CMY彩色头",
+      "胶片颗粒",
+      "胶片损坏",
+      "Bloom",
+      "Halation 光晕",
+      "编织",
+      "电影颗粒",
+      "覆盖",
+      "去边",
+      "暗角",
+      "监视器（伪色、剪裁）",
+      "LUT生成器"
+    ]
+  }
+}

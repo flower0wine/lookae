@@ -1,0 +1,73 @@
+{
+  "title": "AE插件-E3D三维模型插件 Element 3D v2.2.2.2155 中文汉化版",
+  "slug": "aecha-jian-e3dsan-wei-mo-xing-cha-jian-element-3d-v2-2-2-2155-zhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2017-04-11T15:36:00Z",
+  "source_url": "https://www.lookae.com/e3d-2222155cn/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "e3d",
+    "Element 3D"
+  ],
+  "content": "Video Copilot 推出的 Element 3D v2.2.2 build 2155 是一款功能强大的 After Effects 三维模型插件，支持 AE CC 2017，修复了多个兼容性问题，并增强了对 Radeon R9 显卡的支持。新版本可直接加载 C4D 的材质与贴图，界面更美观实用，新增视图功能。但不再支持 32 位系统及 AE CS4 及以下版本。官方售价为 $199.95（约人民币 1230 元），建议有条件者支持正版。本版本为中文汉化版，由陌途与 LookAE 联合出品，免费提供下载。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/E3D222.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2HMQ2lgJlpuFjSspjXXcT.pXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/cP0197483895"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1cfBg2y"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.videocopilot.net/products/element2/",
+    "update_log_url": "https://www.videocopilot.net/products/element2/update/",
+    "model_material_pack_download": "https://www.lookae.com/e3dv2mx/",
+    "installation_guide": [
+      "以管理员身份安装 Element 3D 2.0.7.2008",
+      "将 .aex 文件复制到 AEF/Support Files/Plug-ins/VideoCopilot/ 目录并替换原有文件",
+      "以管理员身份运行 AE",
+      "添加 Element 3D 效果并点击安装许可证（通过 Element 3D 许可证表单）",
+      "注意：若已合法授权，请勿安装此破解版本，以免损坏许可证"
+    ],
+    "troubleshooting": [
+      {
+        "problem": "AE 报错：could not be loaded (126)：无法加载增效工具（48：46）",
+        "description": "After Effects 错误：位于 X:\\Program Files\\Adobe\\Adobe After Effects \\Support Files\\Plug-ins\\VideoCopilot\\Element.aex 的插件无法加载。",
+        "possible_causes": [
+          "插件文件损坏",
+          "依赖的外部组件（如 DLL）缺失或损坏",
+          "不支持特定处理器类型或多线程"
+        ],
+        "solutions": [
+          "彻底卸载旧版本后重新安装",
+          "尝试安装较新版本"
+        ]
+      },
+      {
+        "problem": "程序出现崩溃",
+        "description": "程序运行时崩溃。",
+        "possible_causes": [
+          "显卡驱动问题",
+          "显卡不兼容"
+        ],
+        "solutions": [
+          "确认显卡是否支持插件",
+          "更新显卡驱动",
+          "参考 Google 或 VideoCopilot 官方论坛获取解决方案"
+        ]
+      }
+    ],
+    "backup_instructions": "建议在使用破解版前备份原始 videocopilot 文件夹：\n- Windows Vista/Win7: C:\\programdata\\videocopilot\n- Windows XP: %AppData%\\videocopilot\n恢复时只需替换回去即可。",
+    "credits": "感谢 MrStock、捐赠者及 spider853"
+  }
+}

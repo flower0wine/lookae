@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本：二维卡通人物角色动作MG动画绑定控制AEscripts Joysticks’n Sliders v1.7.1+使用教程",
+  "slug": "aejiao-ben-er-wei-qia-tong-ren-wu-jiao-se-dong-zuo-mgdong-hua-bang-ding-kong-zhi-aescripts-joysticksn-sliders-v1-7-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-02-20 21:30",
+  "source_url": "https://www.lookae.com/joysticks-171/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "AEscripts Joystick‘n Sliders 是一个基于 After Effects 的 pose-based 绑定系统，可快速实现二维卡通人物面部及肢体 MG 动画控制。只需设置五个极限关键帧（原点、上下左右），即可生成平滑过渡动画，并支持滑块任意位置调节，大幅提升卡通角色与 MG 动画制作效率。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2h6NFkFXXXXcMXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2v.NWkFXXXXXLXXXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2k3XikFXXXXbYXpXXXXXXXXXX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2KpNJkFXXXXbTXXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/34897947.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-337761169"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1jz1wZ4cqrDQrj_MG3h9B1Q"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-304630671"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1II7S1v4_VA-Pq5u_r5ko6g"
+    }
+  ],
+  "other": {
+    "官网地址": "http://aescripts.com/joystick-n-sliders/",
+    "v1.7.1 更新要点": [
+      "修复阻止创建 UI 滑块的错误",
+      "修复无动画时操纵杆移至子合成的 bug",
+      "路径形状表达式性能大幅提升",
+      "支持将操纵杆移至已分离尺寸的父级",
+      "增强错误处理避免命名冲突",
+      "支持 BodyMovin’ 导出",
+      "修复滑块与路径相关错误",
+      "新增 CC 2019 支持"
+    ],
+    "安装方法": "将 .jsxbin 文件放入 AE 安装目录 Support Files\\Scripts\\ScriptUI Panels，重启后在 Window 菜单调用"
+  }
+}

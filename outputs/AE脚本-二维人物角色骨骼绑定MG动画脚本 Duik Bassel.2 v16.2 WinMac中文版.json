@@ -1,0 +1,77 @@
+{
+  "title": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2 Win/Mac中文版",
+  "slug": "aejiao-ben-er-wei-ren-wu-jiao-se-gu-ge-bang-ding-mgdong-hua-jiao-ben-duik-bassel-2-v16-2-win-maczhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2019/11/11 11:32",
+  "source_url": "https://www.lookae.com/duik-162/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG脚本",
+    "Win/Mac"
+  ],
+  "content": "Duik是一款功能强大且开源免费的动力学和动画工具，其动画基本工具包含反向动力学、骨骼变形器等，能让创建动画更简单，提供主要装配工具并适应AE中的2D动画，还拥有许多动画及自动化功能，且具有摄影机控件等有用工具，全面易用，支持多语言。脚本支持Win/Mac系统，适用于Adobe After Effects CC 2018或更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Duik-Bassel-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/242972619880.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2018或更高版本（其他版本也可用，但官网不推荐，怕有BUG）",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2 Win版-城通网盘下载",
+      "url": "https://tc5.us/file/680462-406908193"
+    },
+    {
+      "name": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2 Win版-百度网盘下载",
+      "url": "https://pan.baidu.com/s/19Ot0QQGucBrM0MRc8z5uWg"
+    },
+    {
+      "name": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2 Mac版-城通网盘下载",
+      "url": "https://tc5.us/file/680462-406908061"
+    },
+    {
+      "name": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2 Mac版-百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jvnIZbtFQT6J0XLWv6Lwvg"
+    },
+    {
+      "name": "脚本使用操作教程下载",
+      "url": "https://www.400gb.com/file/122991244"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE脚本",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "更新内容": {
+      "新的Kleaner": "通过表达式实现迪士尼三个动画原理，替代Spring工具，性能更好，计算速度更快",
+      "提取具有主属性的控制器（After Effects 2020）": "利用主属性从预合成中提取控制器，便于角色动画处理和装配更改",
+      "全新的3D和锥形运动轨迹": "运动轨迹重构，有锥形选项，可考虑3D空间和层规模自动调节笔划宽度",
+      "性能和UI改进": "许多工具性能改善，UI调整并重新组织"
+    },
+    "更新日志": {
+      "新功能": [
+        "New Kleaner通过表达式进行预测、跟踪和智能插值，取代Spring工具且性能更好",
+        "运动轨迹重构，有锥形选项，可考虑3D空间和层规模自动调节笔划宽度",
+        "提取控制器可只提取新控制器，[Alt +单击]可从选定预合成中“un-extracts-解压缩”控制器",
+        "界面的新上帝模式非常小"
+      ],
+      "改进之处": [
+        "界面改进并重新组织，便于更快访问常用工具",
+        "搜索和替换工具的表达式性能大大提高",
+        "性能结构创建和自动钻机改进",
+        "使用主属性提取控制器在影响CC2020及之后版本中得到改进",
+        "Wonder Unit Storyboarder导入可从Shot Generator导入图像",
+        "上下文帮助更新"
+      ],
+      "修正": [
+        "修复最新版本Wonder Unit Storyboarder导入Storyboarder的问题",
+        "修复自动装备的头部控制器添加零时正常工作问题"
+      ]
+    }
+  }
+}

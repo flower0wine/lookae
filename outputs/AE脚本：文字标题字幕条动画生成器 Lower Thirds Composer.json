@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：文字标题字幕条动画生成器 Lower Thirds Composer",
+  "slug": "aejiao-ben-wen-zi-biao-ti-zi-mu-tiao-dong-hua-sheng-cheng-qi-lower-thirds-composer",
+  "author": "大众脸",
+  "post_date": "2016/12/30 22:03",
+  "source_url": "https://www.lookae.com/lower-thirds-composer/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以简单快捷的制作出文字标题字幕条动画，支持批量制作，多种预设动画可选。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Lower-Thirds-Composer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：文字标题字幕条动画生成器 Lower Thirds Composer",
+      "url": "https://lookae.ctfile.com/fs/rI2165618284"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "official_url": "https://videohive.net/item/lower-thirds-composer-after-effects-script/14543539",
+    "additional_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      }
+    ]
+  }
+}

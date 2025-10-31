@@ -1,0 +1,40 @@
+{
+  "title": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle DC 31.03.2016 CE 更新支持 CC 2015.3",
+  "slug": "aecha-jian-bian-xing-3dwang-ge-cha-jian-tao-zhuang-mettle-plugins-bundle-dc-31-03-2016-ce-geng-xin-zhi-chi-cc-2015-3",
+  "author": "大众脸",
+  "post_date": "2016-07-03T11:12:00Z",
+  "source_url": "https://www.lookae.com/mettle31/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Mettle公司是Adobe After Effects的重要插件提供商，其插件虽不多但品质精良。最新发布的Mettle Plugins Bundle V25.03.2016支持Adobe CC 2015.3，新增全景环境贴图插件SkyBox，并对其他插件进行了更新。该套装包含FreeForm、FreeForm Pro、ShapeShifter、SkyBox系列多个工具，适用于创建3D网格变形、立体文字、360°/VR内容制作与后期处理。插件支持Win64平台的After Effects CS6至CC 2015.3版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/Mettle-Pluginsb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6, CC, CC 2014, CC 2015, CC 2015.3",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "AE插件：变形3D网格插件套装 Mettle Plugins Bundle DC 31.03.2016 CE",
+      "url": "http://lookae.ctfile.com/fs/t9M153422422"
+    }
+  ],
+  "other": {
+    "plugin_description": "Mettle is world-renowned for the excellence of its plug-ins for Adobe After Effects. FreeForm, the best 3D mesh-warp plug-in available, was licensed by Adobe and bundled with CS5. Mettle followed up that success with FreeForm Pro and ShapeShifter Ae, plug-ins that add 3D capabilities to After Effects. They allow artists to create, render and animate 3D inside After Effects using simple tools and techniques. The mettle plugins simply give artists more creative tools for Ae, and speed up workflow…",
+    "plugin_features": [
+      "FreeForm V2.11: 3D网格变形插件，用于弯曲、扭曲3D图层，适用于创建圆柱、曲线、褶皱、地形、隧道、水流动画等。",
+      "FreeForm Pro v1.8: 专业级3D网格变形插件，适用于地形、水体、布料飘动、角色动画和形状变形。",
+      "ShapeShifter v1.8: 3D文字与标志插件，可直接在AE中设计和动画化3D Logo，创建背景与3D形态变换。",
+      "SkyBox Creator v2.3: 生成360°动画的脚本，自动添加6视图相机并拼接输出，支持动态更新。",
+      "SkyBox Extractor v1.3: 将球面拼接视频转换为6个独立视角（前、右、后、上、左、下），支持运动追踪与特效添加。",
+      "SkyBox Converter v2.3: 支持立方体十字、球面与等距投影格式互转，具备倾斜、平移、旋转控制功能。",
+      "SkyBox Viewer v1.3: 模拟YouTube 360、Oculus Rift等格式预览效果，用于合成前测试。",
+      "SkyBox VR Player v1.1: 免费插件，可在AE和Premiere Pro中通过Oculus Rift预览360°内容。",
+      "SkyBox 360 Post FX v1.0: 专为360°/VR影视制作设计的无缝后期特效，应用于拼接后的360°视频无接缝失真。"
+    ],
+    "compatibility": "WIN64 After Effects CC 2015, CC 2014, CC, CS6",
+    "website": "http://www.mettle.com"
+  }
+}

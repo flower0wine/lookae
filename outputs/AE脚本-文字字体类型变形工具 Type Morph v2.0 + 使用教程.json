@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-文字字体类型变形工具 Type Morph v2.0 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-zi-ti-lei-xing-bian-xing-gong-ju-type-morph-v2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 23:15",
+  "source_url": "https://www.lookae.com/type-morph-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款在After Effects中的可变字体工具AE脚本。可以用作多种字体的文字，使用宽度，粗细，截线等动态属性，可以实时修改可变字体。v2.0更新内容包括添加主要功能可一次变形整个单词、改进控件、修复创建Null对象的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Type-Morph.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020，CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520633616-dc246f"
+    },
+    {
+      "name": "脚本百度网盘",
+      "url": "https://pan.baidu.com/s/1Gipw4udPvggmZWZ_ZDNzKw"
+    },
+    {
+      "name": "脚本阿里云盘",
+      "url": "https://www.aliyundrive.com/s/eDpW4KtEzJ8"
+    },
+    {
+      "name": "教程城通网盘",
+      "url": "https://tc5.us/file/680462-413455612"
+    },
+    {
+      "name": "教程百度网盘",
+      "url": "https://pan.baidu.com/s/1Jd4yEx7MwkE3nOSqFl18Gw"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

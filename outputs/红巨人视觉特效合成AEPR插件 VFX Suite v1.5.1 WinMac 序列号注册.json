@@ -1,0 +1,81 @@
+{
+  "title": "红巨人视觉特效合成AE/PR插件 VFX Suite v1.5.1 Win/Mac 序列号注册",
+  "slug": "hong-ju-ren-shi-jue-te-xiao-he-cheng-ae-prcha-jian-vfx-suite-v1-5-1-win-mac-xu-lie-hao-zhu-ce",
+  "author": "大众脸",
+  "post_date": "2020/06/18 10:32",
+  "source_url": "https://www.lookae.com/vfx-151/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "红巨人公司推出一套全新的视频特效合成插件，VFX Suite 应该是Effects Suite和Keying Suite插件包的合体，包含了光工厂、辉光、抠像、跟踪等多个特效插件，非常实用。VFX Suite 包含10个插件：色差置换、镜头失真变形、光工厂镜头光晕、平面跟踪、智能辉光、专业抠像、投影、反射、物体移除替换克隆跟踪、超强特效合成插件。v1.5.1 版本主要解决了 RenderGarden 和 Supercomp 之间的冲突。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/VFX-Suite.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01J161nX1vSMhCzEUfN_!!705956171.png"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2018 – CC 2019, 2020；Adobe Premiere Pro CC 2018 – CC 2019, 2020（部分插件支持）",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win插件 - 城通网盘",
+      "url": "https://089u.com/file/680462-449292648"
+    },
+    {
+      "name": "Win插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1hANqTKhczfN-xNnPYEHiIw"
+    },
+    {
+      "name": "Win插件 - 官网直接下载",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/vfx/archive/VFXSuite_Win_Full_1.5.1.zip"
+    },
+    {
+      "name": "Mac插件 - 城通网盘",
+      "url": "https://089u.com/file/680462-449292543"
+    },
+    {
+      "name": "Mac插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1lwySBqevo-t4icPm5nl2Dg"
+    },
+    {
+      "name": "Mac插件 - 官网直接下载",
+      "url": "http://downloads.redgiant.com/redgiant/products/singlesuites/vfx/archive/VFXSuite_Mac_Full_1.5.1.zip"
+    },
+    {
+      "name": "视频教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-385102287"
+    },
+    {
+      "name": "视频教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1gMJuNxgWJBbalScTiHiUFQ"
+    },
+    {
+      "name": "Win中文汉化",
+      "url": "https://www.lookae.com/vfx-suite-ch/"
+    }
+  ],
+  "other": {
+    "activation_instructions": "退出杀毒管家防护软件，安装插件程序，最后点击左下的Activate，在弹出Red Giant Application Manager中点击Cancel（无需登录），然后点击右上角的按钮，选择Enter Serial Number，输入插件序列号完成注册激活。",
+    "universal_serial": "VXXK2245843678913578",
+    "individual_serials": {
+      "Chromatic Displacement": "VXBF1575880378218299",
+      "Lens Distortion": "VXXK2245843678913578",
+      "King Pin Tracker": "VKPF1505910585082579",
+      "Knoll Light Factory": "KLPF3989222681789065",
+      "Optical Glow": "VOGF1595830396520891",
+      "Primatte Keyer": "VP6F1585909270728158",
+      "Reflection": "VXXF1545921787095659",
+      "Shadow": "VSHF1525831092422292",
+      "Spot Clone Tracker": "VXAF1535866988923613",
+      "Supercomp": "VXCF1575894268749950"
+    },
+    "baidu_netdisk_passwords": {
+      "win_plugin": "4m6c",
+      "mac_plugin": "jyt5",
+      "video_tutorial": "v9u7"
+    }
+  }
+}

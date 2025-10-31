@@ -1,0 +1,71 @@
+{
+  "title": "AE脚本-三维模型直接导入添加纹理材质 Super 3D V1.3.1+使用教程",
+  "slug": "aejiao-ben-san-wei-mo-xing-zhi-jie-dao-ru-tian-jia-wen-li-cai-zhi-super-3d-v1-3-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-09-23T08:51:00Z",
+  "source_url": "https://www.lookae.com/super-3d-131/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Super 3D",
+    "模型材质"
+  ],
+  "content": "Super 3D 是一款强大的 After Effects 扩展插件（支持版本 24.1 及以上），可显著增强软件的 3D 功能。用户可通过该脚本快速添加 3D 对象（支持 GLB、GLTF 格式），并实现模型替换、纹理材质应用、图层转换为实体图层以应用特效等操作。其响应式界面设计提升了交互体验，适用于创意制作与动态视觉项目。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/04/Super-3D.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/458021991181.mp4"
+  ],
+  "supported_versions": "After Effects 2024.1 及更高版本",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1364611657-2570d4?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1na3q8vX5_M98TrWTD6kKsA?pwd=s3vb"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/9NXRs8TwzAR"
+    }
+  ],
+  "other": {
+    "post_date_raw": "2024/09/23 08:51",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/super-3d/",
+      "https://www.lookae.com/tag/%e6%a8%a1%e5%9e%8b%e6%9d%90%e8%b4%a8/"
+    ],
+    "update_notes_v1_3_0": [
+      "修复了下载项目指示器",
+      "新的肢体装备",
+      "新的 grad 和 group 导入机制",
+      "使用拖放快速替换自定义模型和材料上的图像预览",
+      "导入自定义材料",
+      "在 GLTF 模型中添加和更改多种材料",
+      "生成器的形状动画序列",
+      "GLTF 模型的新重置位置",
+      "参数模型和生成器的自动居中切换",
+      "新的发射纹理",
+      "切换网格可见性的新可能性",
+      "用于导入 GLTF 序列的新功能",
+      "新功能用于在模型之间复制和粘贴材料",
+      "双击创建模型",
+      "改进参数选项 UI",
+      "修复导入 GLTF 模型错误",
+      "修复挤出尺寸参数",
+      "通过 id 修复选定图层",
+      "修复材料输入更新",
+      "解析 GLTF 文件的更多变体",
+      "无需导入即可更好地控制 GLTF 模型"
+    ]
+  }
+}

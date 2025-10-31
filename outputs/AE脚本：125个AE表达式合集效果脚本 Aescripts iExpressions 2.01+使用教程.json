@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本：125个AE表达式合集效果脚本 Aescripts iExpressions 2.01+使用教程",
+  "slug": "aejiao-ben-125ge-aebiao-da-shi-he-ji-xiao-guo-jiao-ben-aescripts-iexpressions-2-01-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/06 14:26",
+  "source_url": "https://www.lookae.com/iexpressions201/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "iExpressions是一个非常强大的AE脚本，由mamoworld大师编写，包含九大类超过125种常用AE表达式，包括摄像机动画、音频、层相关、抖动动画、物理模拟等。脚本界面简洁易操作，用户无需自己手写或记忆复杂的表达式即可使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/iExpressions-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/28845953.mp4"
+  ],
+  "supported_versions": "AE CS 4 – CC 2017",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202004843"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1dFb27Yh"
+    },
+    {
+      "name": "使用教程下载",
+      "url": "https://lookae.ctfile.com/file/112227013"
+    }
+  ],
+  "other": {
+    "expression_categories": [
+      "Audio 音频",
+      "Camera 摄像机",
+      "Layer Placement 图层置换/父子关系层",
+      "Linking 链接",
+      "Movement Modifier 运动修改器",
+      "Physics Simulations 物理模拟",
+      "Source Text 文本/文字表达式",
+      "Wiggles 抖动",
+      "Camera 相机"
+    ],
+    "total_expressions": 125,
+    "installation_path": "Support Files\\Scripts\\ScriptUI Pane",
+    "usage_method": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "shop_link": "https://lookae.taobao.com/"
+  }
+}

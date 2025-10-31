@@ -1,0 +1,37 @@
+{
+  "title": "AE插件-三维星球特效插件VideoCopilot ORB v1.0.3 Win/Mac 支持2022和多帧渲染",
+  "slug": "aecha-jian-san-wei-xing-qiu-te-xiao-cha-jian-videocopilot-orb-v1-0-3-win-mac-zhi-chi-2022he-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2021/11/22 17:52",
+  "source_url": "https://www.lookae.com/orb-103/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "VideoCopilot"
+  ],
+  "content": "由VideoCopilot推出的一款完全免费的三维星球ORB插件，可创建真实行星，支持设置颜色、大气层、贴图、反射、环境、灯光、阴影等参数，具备GPU加速能力，提供使用教程和6K地图贴图。插件特性包括真实物理渲染效果、环境反射贴图、运动模糊、高级UV贴图设置、亮度阴影遮罩设置、昼夜切换、基于亮度调节、支持AE内置灯光控制、360全景渲染、无限星空背景等。该插件最初是CC Sphere的替代工具，现已升级为完整3D行星生成器，包含物理着色器、大气层设计、自定义地形凹凸贴图、自动阴影照明等功能。V1.0.3版本更新支持AE2022和多帧渲染，兼容Win/Mac系统的AE CS6-2022及更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/VCOrb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6-2022 或更高版；V1.0.3支持AE2022和多帧渲染",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-521557351-ed9064 访问密码：6688"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1B1RLTbO2D3FgEx2h3S_OkA 提取码：zl8o"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/BbHH6SSeBxc"
+    }
+  ],
+  "other": {
+    "is_free": true,
+    "provided_resources": "使用教程和6K地图贴图"
+  }
+}

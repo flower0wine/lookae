@@ -1,0 +1,97 @@
+{
+  "title": "16种黑白风格专业电影LUTs调色预设 Black White Films Win/Mac",
+  "slug": "16chong-hei-bai-feng-ge-zhuan-ye-dian-ying-lutsdiao-se-yu-she-black-white-films-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/06/01 16:38",
+  "source_url": "https://www.lookae.com/black-white-films-lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "这套LUTs预设共16种效果，.cube格式，主要为黑白风格。专业的电影大片色彩风格，适用于众多视频调色素材；提供行业标准的3D LUT，帮助实现更高效、更具创意的颜色校正与分级调色。LUT能快速完成调色步骤，赋予画面丰富的动态色彩和电影胶片质感。大多数后期软件均支持LUT，可轻松集成到工作流程中。通过使用这些LUT，可迅速获得理想的胶片色彩效果，并在此基础上进行微调以达成独特风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/06/Black-White-Films.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2017, Adobe After Effects CS6-CC 2017, Adobe Photoshop CS6-CC 2017, Final Cut Pro X, DaVinci Resolve (Full & Lite), Avid MC 7, Shake, Sony Vegas, Edius, Pandora Revolution/Pixi, CineForm Studio Premium, Nuke, SCRATCH, Film Master, Quantel Pablo, BaseLight, Motion 5/4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-205086807"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1hs7lShu"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "推荐：【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "推荐：FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "推荐：CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      },
+      {
+        "title": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "title": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "title": "上万种LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ],
+    "tutorial_links": [
+      {
+        "type": "在线观看",
+        "url": "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+      },
+      {
+        "type": "高清教程下载",
+        "url": "https://pan.baidu.com/s/1dEdBwA1"
+      }
+    ],
+    "usage_instructions": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Vegas Pro": "需安装LUTS插件，下载地址：https://www.lookae.com/ofxlut/",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "需使用插件 FCPX LUT Loader，下载地址：https://www.lookae.com/lut-loader-15s/",
+      "DaVinci Resolve": "直接使用或导入",
+      "通用工具": [
+        "Magic Bullet LUT Buddy (https://www.redgiant.com/downloads/free-products/)",
+        "FCPX软件 LUT 实用颜色工具 (https://www.lookae.com/fcpx-lut/)"
+      ],
+      "备注": "只要软件支持 Looks 新版调色插件，即可通过 Looks 导入并使用 LUT。"
+    },
+    "original_category_tree": [
+      "AE插件",
+      "AE模板",
+      "After Effects",
+      "LUTs",
+      "Mac 专区",
+      "其他辐射",
+      "素材",
+      "软件/插件"
+    ]
+  }
+}

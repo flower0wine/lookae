@@ -1,0 +1,64 @@
+{
+  "title": "AE插件Element 3D MAC完美版（CS3-CS6）(附安装教程)",
+  "slug": "aecha-jian-element-3d-macwan-mei-ban-cs3-cs6-fu-an-zhuang-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2012-10-08 10:18",
+  "source_url": "https://www.lookae.com/mac-e3d/",
+  "category": "aechajian",
+  "tags": [
+    "MAC",
+    "大众脸"
+  ],
+  "content": "videocopilot 网站上的 AE插件Element 3d 1.0.345 的MAC版本终于完美了，亲测可用，还为大家录制了安装视频教程。如果不能完美请删除路径 /Users/<username>/Library/Application Support/VideoCopilot 下的文件，重新安装一次。PS:教程主要解决运行注册机崩溃的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/10/E3D2.jpg"
+  ],
+  "video_urls": [
+    "http://v.youku.com/v_show/id_XNDU5MDMwODQ0.html"
+  ],
+  "supported_versions": "CS3-CS6",
+  "supported_os": "MAC",
+  "download_links": [
+    {
+      "name": "AE插件Element 3D MAC 完美版（CS3-CS6）",
+      "url": "http://www.ctdisk.com/file/9886154"
+    },
+    {
+      "name": "高清视频E3D安装教程（大众脸录制）",
+      "url": "http://www.ctdisk.com/file/9890435"
+    }
+  ],
+  "other": {
+    "sponsor_link": "https://me.alipay.com/lookae",
+    "related_links": [
+      {
+        "title": "AK插件Element 3d 1.0.345-英文/中文完美版 – WIN 版本",
+        "url": "https://www.lookae.com/e3d-chn/"
+      },
+      {
+        "title": "更新：AK插件 Element 3D 实例教程",
+        "url": "https://www.lookae.com/e3d-jc2/"
+      },
+      {
+        "title": "Element3D PC+MAC 体验版（附安装说明）",
+        "url": "https://www.lookae.com/element3d-pcmac/"
+      },
+      {
+        "title": "videocopilot 最新插件Element 3D操作教程",
+        "url": "https://www.lookae.com/videocopilot-element-3d/"
+      },
+      {
+        "title": "Element 3D工作流程教程【中文字幕】",
+        "url": "http://115.com/file/benporas#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集–英文原版",
+        "url": "http://115.com/file/benmepto#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集–中文字幕",
+        "url": "http://115.com/file/beno9lkj#"
+      }
+    ]
+  }
+}

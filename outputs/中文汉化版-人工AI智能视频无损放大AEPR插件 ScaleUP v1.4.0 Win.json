@@ -1,0 +1,49 @@
+{
+  "title": "中文汉化版-人工AI智能视频无损放大AE/PR插件 ScaleUP v1.4.0 Win",
+  "slug": "zhong-wen-yi-hua-ban-ren-gong-aizhi-neng-shi-pin-wu-sun-fang-da-ae-prcha-jian-scaleup-v1-4-0-win",
+  "author": "大众脸",
+  "post_date": "2022-06-27T18:00:00Z",
+  "source_url": "https://www.lookae.com/scaleup-140/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ScaleUP",
+    "中文汉化"
+  ],
+  "content": "ScaleUP是一款高级视频增强工具，可将视频放大至原尺寸的10倍，同时最大程度减少图像质量损失。该插件基于AI技术，不仅能提升视频分辨率，还能优化画质、保留细节，并有效降低噪点与压缩带来的块效应。它采用神经网络分析大量图像和视频片段的像素信息，替代传统插值方法，实现更高质量的放大效果。该插件专为Adobe After Effects和Premiere Pro设计，支持GPU加速，兼容Windows和Mac系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/ScaleUp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/287454578393.mp4"
+  ],
+  "supported_versions": "After Effects 2022、2021、2020、CC 2019、CC 2018；Premiere 2022、2021、2020、CC 2019、CC 2018",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-602349761-a56771?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1td2fREmGGeZJ7vniHVECVQ?pwd=hbyo"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/M2xhvXLvLv6"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.4.0 更新内容：- 更好地处理瓷砖边界 - 更新许可框架",
+    "language": "中文汉化",
+    "plugin_type": "AE/PR 插件",
+    "features": [
+      "AI智能视频无损放大",
+      "支持高达10倍放大",
+      "减少噪点与块效应",
+      "GPU加速性能优化",
+      "兼容多版本AE和PR"
+    ]
+  }
+}

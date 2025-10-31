@@ -1,0 +1,78 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v2.7.3 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v2-7-3-win",
+  "author": "大众脸",
+  "post_date": "2022/02/23 14:04",
+  "source_url": "https://www.lookae.com/lockdown-273/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Lockdown是一款革命性的新插件，可以直跟踪运动物体扭曲不平的表面，非常适合进行美容修饰和其他先前困难的物体移除清理工作，或者用于其他跟踪合成特效制作。插件拥有独立操作界面，可让您轻松进行跟踪，操作比以前在After Effects和达芬奇界面中更加平滑。提供的功能之一是能够使用蒙版或Alpha通道修剪轨道。插件现已支持达芬奇软件，并持续更新更多功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/318386610195.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-546303418-7748ba"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10fOT_rWo4K__ZP6l77AgwA?pwd=vmbb"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/QvLGtmPr1VK"
+    },
+    {
+      "name": "V2.4教程 - 城通网盘",
+      "url": "https://089u.com/f/680462-502067783-dcc3cb"
+    },
+    {
+      "name": "V2.4教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/141jyi3Nrba6Z6uUeccofpQ"
+    },
+    {
+      "name": "V2 教程 - 城通网盘",
+      "url": "https://089u.com/f/680462-495135746-bf69b7"
+    },
+    {
+      "name": "V2 教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1yJ0tcRCvlspPF97iOHvM_g"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_v2_4": "02kh",
+      "百度网盘_v2": "oiho"
+    },
+    "update_notes": {
+      "added": [
+        "在弹出界面中添加了 Alembic 导入/导出对话框和设置。（这现在允许 Resolve 用户使用 Alembic 工具。）",
+        "添加了可以删除选定点的所有“基本关键帧”的按钮。这会留下一个只有调整轨迹的点，允许您在需要时重新生成所有跟踪数据。",
+        "现在所有网格点都显示在稳定网格选项卡中。这使得跟踪更加容易。",
+        "每次打开 Ae 或 Resolve 时，锁定窗口位置和缩放级别将在会话期间保存。（一个方便的功能）",
+        "允许点在稳定的网格内跟踪，即使它们有时会退出它的边界。",
+        "为所有选项卡添加了“重新应用插值”按钮。",
+        "添加了删除自定义 UV 的功能。"
+      ],
+      "changed": [
+        "从 After Effects 参数面板中删除了 Alembic 控件。",
+        "创建“不可跟踪”关键帧时，为它们自动生成插值关键帧。"
+      ],
+      "fixed": [
+        "按下 H 键会清除选择的错误。",
+        "清除 UV 时可能发生崩溃。",
+        "扩展点可能在选项卡之间错误转换的问题。"
+      ]
+    }
+  }
+}

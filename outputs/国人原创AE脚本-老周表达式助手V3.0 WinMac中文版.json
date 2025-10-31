@@ -1,0 +1,43 @@
+{
+  "title": "国人原创AE脚本-老周表达式助手V3.0 Win/Mac中文版",
+  "slug": "guo-ren-yuan-chuang-aejiao-ben-lao-zhou-biao-da-shi-zhu-shou-v3-0-win-maczhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2022/01/05 10:55",
+  "source_url": "https://www.lookae.com/laozhou/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "国人原创",
+    "老周"
+  ],
+  "content": "老周表达式助手，将表达式可视化、傻瓜化、便捷化，旨在让每个使用AE的小伙伴都能够享受到表达式带来的便利。支持Win/Mac系统：After Effects CC2015及以上，强烈建议使用AE2020以上的版本。3.0更新内容：1.新增公式面板、弹性面板、如果面板，并且模式多种多样，所见即所得；2.优化抖动面板、循环面板、随机面板；3.合并旧版的时间和序号两个面板，整合为”时序”面板；4.摒弃旧版的冻结面板(感觉使用率不高)；5.自定义表达式模块新增n个小功能，分别实现导入表达式、禁用表达式、给选中属性创建控制器、表达式转关键帧、属性转表达式、清除表达式；6.预设面板预设了老周珍藏的30+个实用表达式，并且每个表达式都注明是加在哪个属性里；7.预设列表支持删除或重命名预设；8.新增控制器面板，可以快速创建指定的控制器；9.新增保留原属性的功能，实现表达式与原数值共存；10.修复了旧版的无数个bug。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/biaodashi3.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01nRvwbi1vSMmoSJgGv_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://www.bilibili.com/video/BV19F411e7B2"
+  ],
+  "supported_versions": "After Effects CC2015及以上，强烈建议使用AE2020以上的版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-533023720-4bcffd"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1yz5TL0ZZr6cEzPp_C2nlsg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/WAfPQ1d2xLu"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "me8o"
+    }
+  }
+}

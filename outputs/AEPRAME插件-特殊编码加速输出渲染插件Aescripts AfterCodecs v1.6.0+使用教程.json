@@ -1,0 +1,43 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件Aescripts AfterCodecs v1.6.0+使用教程",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-6-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/03/01 21:42",
+  "source_url": "https://www.lookae.com/aftercodecs-16/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "AfterCodecs是一款编码输出插件，支持在AE、PR和AME中输出H264、H265和ProRes等特殊编码，渲染输出速度比AE自带输出更快，压缩文件更小且画质更佳。插件支持ProRes（LT/Proxy/Normal/HQ/444）、x264、x265和x264 RGB等多种编码格式，x265编码的文件比x264轻30%并支持8K分辨率。1.6.0版本新增VR360自动标记渲染、实验性GIF编码器等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2019; Premiere CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2019; Media Encoder CC 2018, CC 2017, CC 2015, CC 2019",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-344139399"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1E6bsuSCvNXrSIfE1-tjTfQ"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "城通网盘下载教程",
+        "url": "https://www.pipipan.com/fs/680462-221741711"
+      },
+      {
+        "name": "百度网盘下载教程",
+        "url": "https://pan.baidu.com/s/1c2nhMI8"
+      }
+    ],
+    "baidu_netdisk_code": "2pse"
+  }
+}

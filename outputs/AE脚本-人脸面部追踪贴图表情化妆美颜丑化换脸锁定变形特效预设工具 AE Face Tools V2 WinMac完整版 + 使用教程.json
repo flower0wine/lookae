@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-人脸面部追踪贴图表情化妆美颜丑化换脸锁定变形特效预设工具 AE Face Tools V2 Win/Mac完整版 + 使用教程",
+  "slug": "aejiao-ben-ren-lian-mian-bu-zhui-zong-tie-tu-biao-qing-hua-zhuang-mei-yan-chou-hua-huan-lian-suo-ding-bian-xing-te-xiao-yu-she-gong-ju-ae-face-tools-v2-win-macwan-zheng-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020-06-20",
+  "source_url": "https://www.lookae.com/face-tools-v2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "免费下载"
+  ],
+  "content": "AE Face Tools V2 是一款面向 After Effects 的强大扩展脚本，内置 500 余种预设，可一键完成人脸追踪、换脸、化妆、美颜、丑化、变形、稳定、遮挡等特效。脚本通过 AE 标准面部跟踪与遮罩识别，结合 Motion Bro v3.0.3 扩展，支持中英双语 AE CC 2018 及以上版本，兼容 Win/Mac 平台及任意分辨率（含 4K 与竖屏）。所有预设均可随时自定义编辑，无需背景音乐，附赠 PDF 中文图文安装说明与 7 集官方英文视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/AE-Face-Tools-V2.jpg",
+    "https://camo.envatousercontent.com/e35b7721543579245a7a58b61483f29babafabcd/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f456d6f6a692d332e676966",
+    "https://camo.envatousercontent.com/0f6281733118bbc9ab5bfdb8552d87e9ca497655/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f456d6f6a692d312e676966",
+    "https://camo.envatousercontent.com/7c52c2cdb10087d38edeff9b9813066dce5a0aa4/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f4d616b6575702d342e676966",
+    "https://camo.envatousercontent.com/5b063a8d03990106c58de389d2e89c913a73591a/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f4d616b6575702d352d2e676966",
+    "https://camo.envatousercontent.com/a789b46e1c751c2ceade4e2469871f281c411471/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f4d616b6575702d322e676966",
+    "https://camo.envatousercontent.com/37be4e6e95ea72ec7be4ad637e8f32bd7fcbfdbe/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f456d6f6a692d342e676966",
+    "https://camo.envatousercontent.com/41746123a1ab43c9d7a90d2d266ce835a72fa8fa/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f456d6f6a692d322e676966",
+    "https://camo.envatousercontent.com/87bd917e872acc837711c7f3cf60d43aa5fc2a01/68747470733a2f2f6d6f74696f6e62726f2e6e65742f757365722f766964656f6c616e6365722f666163652f4d616b6575702d332e676966"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/242278118724.mp4"
+  ],
+  "supported_versions": "AE CC 2018 – CC 2019, 2020 或更高",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/file/680462-449775163"
+    },
+    {
+      "name": "百度网盘（免费）",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Fface-tools-v2%2F"
+    }
+  ],
+  "other": {
+    "file_size": "898 MB (.zip)",
+    "archive_number": "24958166",
+    "included_extensions": [
+      "Motion Bro v3.0.3"
+    ],
+    "tutorials": [
+      "官方英文视频教程（7集）",
+      "大脸中文图文安装教程（PDF）"
+    ],
+    "v2_new_features": [
+      "预设增至 500+",
+      "Motion Bro 升级至 v3.0.3",
+      "修复已知错误与缺陷",
+      "改进自动尺寸调整",
+      "新增类别：眼睛、彩妆组合、变形毛刺、扭曲漫画"
+    ],
+    "fallback_version": "https://www.lookae.com/face-tools-free/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Mac/Win版：AE/PR动态模糊插件REVisionFX ReelSmart MotionBlur Pro v5.1.2",
+  "slug": "mac-winban-ae-prdong-tai-mo-hu-cha-jian-revisionfx-reelsmart-motionblur-pro-v5-1-2",
+  "author": "大众脸",
+  "post_date": "2015-09-25 13:11",
+  "source_url": "https://www.lookae.com/rsmb512/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "REVisionFX公司出品的动态模糊插件ReelSmart MotionBlur Pro v5.1.2（简称RSMB），能够自动在运动效果中添加自然真实的运动模糊效果。插件能自动跟踪动画运动的像素，可控制模糊效果，支持添加/删除运动模糊效果，并支持CPU多处理器运行计算。该插件解决了AE自带运动模糊在某些特定情况下不能满足动画需求的问题，帮助用户达到需要的视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/11/AE-REFXBlur.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://www.400gb.com/file/119975855"
+    },
+    {
+      "name": "Mac 苹果版本下载",
+      "url": "https://www.400gb.com/file/119972957"
+    }
+  ],
+  "other": {
+    "developer": "REVisionFX",
+    "related_products": [
+      "Twixtor Pro"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac专区",
+      "Premiere"
+    ]
+  }
+}

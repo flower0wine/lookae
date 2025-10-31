@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-制作无缝循环动画 LoopMaster 1.3.0",
+  "slug": "aejiao-ben-zhi-zuo-wu-feng-xun-huan-dong-hua-loopmaster-1-3-0",
+  "author": "大众脸",
+  "post_date": "2025-02-19",
+  "source_url": "https://www.lookae.com/loopmaster-130/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "LoopMaster",
+    "循环动画"
+  ],
+  "content": "LoopMaster 是一款用于制作无缝循环动画的AE脚本。它可以循环关键帧、项目、摆动、旋转和轨道，非常适合制作GIF、NFT、Lottie动画和社交媒体帖子。v1.3.0版本更新内容包括添加了循环关键帧和路径(PingPong)功能、添加了LoopItem (PingPong)功能，并改进了UI和更新了文档。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/LoopMaster.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/363943214175.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1461916798-13f042?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/11-nYxoqCcCgjN6O8nPFfuQ?pwd=hsas"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/mqj16UuANio"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "hsas"
+    }
+  }
+}

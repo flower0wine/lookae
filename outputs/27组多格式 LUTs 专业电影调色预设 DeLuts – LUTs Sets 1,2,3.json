@@ -1,0 +1,86 @@
+{
+  "title": "27组多格式 LUTs 专业电影调色预设 DeLuts – LUTs Sets 1,2,3",
+  "slug": "27zu-duo-ge-shi-luts-zhuan-ye-dian-ying-diao-se-yu-she-deluts-luts-sets-123",
+  "author": "大众脸",
+  "post_date": "2015/08/14 07:00",
+  "source_url": "https://www.lookae.com/deluts-luts/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "MAC",
+    "调色预设"
+  ],
+  "content": "27组多格式 LUTs 专业电影调色预设，支持众多后期软件。LUT 能够快速完成画面的调色步骤，使画面呈现出电影胶片般的色彩质感。用户可在其基础上进行微调，轻松实现高质量的色彩风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/DeLuts-luts.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6/CC 2014, Adobe Premiere CC 2014, Adobe Photoshop CS6/CC 2014",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "27组多格式 LUTs 专业电影调色预设 DeLuts – LUTs 1 2 3",
+      "url": "https://www.400gb.com/file/112463360"
+    }
+  ],
+  "other": {
+    "lut_formats": [
+      "3dl",
+      "cube",
+      "FCPX",
+      "16 Grid",
+      "32 Grid"
+    ],
+    "official_website": "http://deluts.businesscatalyst.com/deluts-set-1.html",
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CC 2014",
+      "Adobe After Effects CS6/CC 2014",
+      "Adobe Photoshop CS6/CC 2014",
+      "Final Cut Pro X",
+      "Avid MC 7",
+      "Shake",
+      "Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5"
+    ],
+    "usage_guides": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "DaVinci Resolve": "直接使用或导入"
+    },
+    "related_tools": [
+      {
+        "name": "Magic Bullet LUT Buddy",
+        "url": "https://www.redgiant.com/downloads/free-products/"
+      },
+      {
+        "name": "FCPX软件 LUT 实用颜色工具",
+        "url": "https://www.lookae.com/fcpx-lut/"
+      }
+    ],
+    "related_resources": [
+      {
+        "name": "推荐：【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "name": "更多LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Mac版：Rowbyte 插件合集 For AE",
+  "slug": "macban-rowbyte-cha-jian-he-ji-for-ae",
+  "author": "大众脸",
+  "post_date": "2012/12/01 16:21",
+  "source_url": "https://www.lookae.com/mac-rowbyte/",
+  "category": "aechajian",
+  "tags": [
+    "Adobe",
+    "合集"
+  ],
+  "content": "Rowbyte是一个比较强大的插件厂商，旗下有很多优秀的After Effects插件。这里分享几个Mac版本Rowbyte的插件，插件已完美，直接拷贝到AE插件目录即可使用，部分插件还适用于Premiere Pro，适用平台为Mac版本的AE和PR。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/12/Rowbyte-ALL.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "Mac版：Rowbyte 插件合集",
+      "url": "http://www.ctdisk.com/file/12640543"
+    },
+    {
+      "name": "Mac版：暗角插件 ft-Vignetting Pro（32-64bit）",
+      "url": "https://www.lookae.com/ft-vignetting/"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件(https://www.lookae.com/after-effects/aechajian/)",
+      "After Effects(https://www.lookae.com/after-effects/)",
+      "Mac 专区(https://www.lookae.com/mac-osx/)"
+    ],
+    "插件目录及介绍": [
+      "Separate RGB （独立RBG）：在RGB通道中独立允许移动，旋转，缩放，模糊，融合，褪色，扭曲的。",
+      "BadTV （坏电视）：支持After Effects和Premiere Pro，用于创建逼真的电视失真的效果。",
+      "TvPixel（像素化）：支持After Effects和Premiere Pro，像素化图像转换成R,G,B想一个真正的电视/液晶屏像素。",
+      "Dot Pixel（点像素）：支持After Effects和Premiere Pro，像素化图像转换成圈和环。",
+      "Data Glitch（数据故障）：支持After Effects和Premiere Pro，创建真实的数字图像故障。",
+      "Plexus （三维粒子）：新一代3D粒子系统插件，功能强大，拥有高品质渲染引擎。",
+      "ft-Vignetting Pro（暗角插件）：给画面制作暗角效果，方便快捷。"
+    ],
+    "插件官网": "http://aescripts.com/[/](http://aescripts.com/)",
+    "赞助链接": "https://lookae.taobao.com/",
+    "其他相关链接": "Mac 版 After Effects 插件合集（持续更新）(https://www.lookae.com/mac-aecj/)"
+  }
+}

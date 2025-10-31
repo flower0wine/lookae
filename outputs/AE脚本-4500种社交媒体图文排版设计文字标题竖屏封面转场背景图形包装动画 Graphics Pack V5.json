@@ -1,0 +1,85 @@
+{
+  "title": "AE脚本-4500种社交媒体图文排版设计文字标题竖屏封面转场背景图形包装动画 Graphics Pack V5",
+  "slug": "aejiao-ben-4500chong-she-jiao-mei-ti-tu-wen-pai-ban-she-ji-wen-zi-biao-ti-shu-ping-feng-mian-zhuan-chang-bei-jing-tu-xing-bao-zhuang-dong-hua-graphics-pack-v5",
+  "author": "大众脸",
+  "post_date": "2021/10/09 11:53",
+  "source_url": "https://www.lookae.com/graphics-pack-v5/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "图形动画",
+    "文字标题",
+    "社交媒体"
+  ],
+  "content": "Gaze图形库是唯一包含4500多个即用型元素和预设的设置和效果工具包，只需单击几下即可将您的内容变成杰作。为了获得更直观、更快速的体验，此图形库还附带了AtomX扩展，通过AtomX脚本调用预设，可视化预览，直接使用于时间线。该扩展程序使用起来非常简单，并且由于该工具包包含大量元素和预设，因此AtomX扩展程序使为正确的工作找到正确的资产变得非常简单。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/10/4500-Graphics-Pack-25010010.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/330017441720.mp4"
+  ],
+  "supported_versions": "AE CC 2018和更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-516735382-a36e49"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1EHFIEJoB4oyiUEBHC-zPgw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9kQJJnQ52YX"
+    }
+  ],
+  "other": {
+    "resolution": "不限制",
+    "extension_included": "AtomX 3.0.5 脚本（已包含）",
+    "audio_info": "无音乐, 有转场音效",
+    "file_size": "2.4G",
+    "usage_help": "安装方法，视频教程",
+    "special_note": "安装后请勿移动安装文件，否则失效",
+    "related_links": {
+      "music_collection": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "more_atomx_presets": "https://www.lookae.com/tag/atomx/"
+    },
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "xh3o"
+    },
+    "included_content": {
+      "slides": 70,
+      "typography_slides": 160,
+      "typography_backgrounds": 15,
+      "ig_stories": 60,
+      "titles": 200,
+      "wedding_floral_titles": 50,
+      "lower_thirds": 200,
+      "logo_reveals": 60,
+      "social_media_elements": 180,
+      "animated_devices": 30,
+      "callouts": 60,
+      "shape_elements": 300,
+      "icons": 200,
+      "backgrounds": 100,
+      "infographics": 50,
+      "audio_spectrums": 25,
+      "sound_effects": 500,
+      "brush_transitions": 50,
+      "flat_transitions": 100,
+      "ink_transitions": 60,
+      "seamless_transitions": 70,
+      "shape_transformations": 30,
+      "displacement_transitions": 60,
+      "animated_gradients": 50,
+      "animated_ig_posts": 30,
+      "audio_spectrum_variants": 25,
+      "filters": 75,
+      "color_palettes": 70,
+      "others": "还有更多……"
+    }
+  }
+}

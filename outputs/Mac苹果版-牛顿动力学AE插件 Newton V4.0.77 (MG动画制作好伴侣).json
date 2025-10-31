@@ -1,0 +1,75 @@
+{
+  "title": "Mac苹果版-牛顿动力学AE插件 Newton V4.0.77 (MG动画制作好伴侣)",
+  "slug": "macping-guo-ban-niu-dun-dong-li-xue-aecha-jian-newton-v4-0-77-mgdong-hua-zhi-zuo-hao-ban-lu",
+  "author": "大众脸",
+  "post_date": "2024/12/24 14:43",
+  "source_url": "https://www.lookae.com/newton-v4-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "MAC插件",
+    "Newton",
+    "牛顿插件"
+  ],
+  "content": "Newton V4.0.77 是一款专为 After Effects 设计的牛顿动力学插件，支持 Mac 苹果系统。该插件可将 2D 图层转化为真实物理世界中的对象模拟，实现重力、碰撞、摩擦、弹跳、密度、速度等物理属性的精确控制。通过微调动力学参数与全局力，用户能构建复杂的机械结构并进行逼真响应模拟，同时保留关键帧的可编辑性以供后期调整。新版新增了多种主体类型（如 Triggermatic、Waterlike、手榴弹）、传送机制、焊接接头、循环类型、样本浏览器、鼠标中键平移预览等功能，并优化了界面视觉质量、自动加载/保存系统及随机发生器。适用于制作高度真实的 MG 动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Newton-4.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/438833219112.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Mac苹果系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1440599288-dbeebf?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1D-6AIlHFHMYjcaByN0pG2g?pwd=kaxw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/88GK2bch8r1"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加了 Triggermatic 主体类型",
+      "添加了隐藏主体参数",
+      "添加了 Waterlike 主体参数",
+      "添加了手榴弹主体参数",
+      "添加了传送机制",
+      "添加了焊接接头",
+      "在关键帧面板中添加了循环类型",
+      "添加了样本浏览器对话框",
+      "添加了鼠标中键平移的支持预览",
+      "添加了对空图层的支持",
+      "添加了一个首选项，用于在导出的组件名称中附加后缀",
+      "改进了组件墙设置",
+      "改进了自动加载/保存设置系统",
+      "改进了随机发生器",
+      "改进了预览中的主体选择",
+      "改进了视觉质量带有 svg 图标的 UI",
+      "许多错误修复"
+    ],
+    "related_links": [
+      "https://www.lookae.com/newton-v4/",
+      "https://www.lookae.com/newton-ch/"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/mac%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/newton/",
+      "https://www.lookae.com/tag/%e7%89%9b%e9%a1%bf%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

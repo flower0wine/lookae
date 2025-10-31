@@ -1,0 +1,38 @@
+{
+  "title": "AE脚本-圆环矩阵排列循环运动跟随MG动画脚本 AutoCircularMotion v1.02",
+  "slug": "aejiao-ben-yuan-huan-ju-zhen-pai-lie-xun-huan-yun-dong-gen-sui-mgdong-hua-jiao-ben-autocircularmotion-v1-02",
+  "author": "大众脸",
+  "post_date": "2020/01/01 22:52",
+  "source_url": "https://www.lookae.com/autocircularmotion/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "AutoCircularMotion 允许您轻松地制作循环运动。可以链接多个文字或图层并安排它们的运动，您还可以设置其他运动，例如摆动和反弹。对Z轴的控制允许你表达运动的浅度或深度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/AutoCircularMotion.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/249975663065.mp4"
+  ],
+  "supported_versions": "After Effects CC 2015，CC 2014，CC，CS6",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-415824611"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/18BoFM0cdoO4RvJ9ey06M-Q"
+    }
+  ],
+  "other": {
+    "usage_steps": [
+      "选择一层或多层。点击[Apply]。",
+      "使用将自动创建的'ACM control'进行调整。"
+    ],
+    "shape_group_application": "选择包含形状组的单个形状层。然后单击[Apply]以将此形状组应用于不同的图层。"
+  }
+}

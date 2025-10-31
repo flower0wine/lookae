@@ -1,0 +1,74 @@
+{
+  "title": "红巨人降噪磨皮调色插件套装 Red Giant Magic Bullet Suite v13.0.11 Win/Mac",
+  "slug": "hong-ju-ren-jiang-zao-mo-pi-diao-se-cha-jian-tao-zhuang-red-giant-magic-bullet-suite-v13-0-11-win-mac",
+  "author": "大众脸",
+  "post_date": "2018/10/15 13:29",
+  "source_url": "https://www.lookae.com/mb13011/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "FCPX",
+    "PR插件",
+    "VEGAS插件",
+    "Win/Mac",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant 发布了最新的降噪磨皮调色插件套装 Magic Bullet Suite v13，支持 Adobe CC 2018。该套装提供实时色彩校正，并支持 OpenGL 和 OpenCL，所有工具均基于 GPU 加速以实现最大处理速度。此版本包含多个专业插件，涵盖调色、磨皮、降噪及胶片质感模拟等功能，适用于主流视频编辑与调色软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13.jpg",
+    "https://www.lookae.com/wp-content/uploads/2016/10/MBS13sn.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50106864664.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019, Adobe Premiere Pro CS6 – CC 2019, Davinci Resolve Studio 11/12, Apple Final Cut Pro X, Apple Motion 5, Avid Media Composer 7.0/8.0+, Vegas Pro 12/13/14 (64-bit), Edius 8, HitFilm Pro",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版本 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-314735758"
+    },
+    {
+      "name": "Win 版本 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1FTE1a4ff79j12HEPAgy-rw"
+    },
+    {
+      "name": "Mac 版本 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-314735725"
+    },
+    {
+      "name": "Mac 版本 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1DEF88jBjf4GRd6XFXf2Heg"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "http://lookae.ctfile.com/fs/EOV159613519"
+    },
+    {
+      "name": "教程 - 百度云网盘",
+      "url": "https://pan.baidu.com/s/1nu7VFYT"
+    }
+  ],
+  "other": {
+    "serial_numbers": [
+      "COBK2245921573563861",
+      "COBK2245846563534111"
+    ],
+    "plugin_list": [
+      "Magic Bullet Colorista IV 4.0.4",
+      "Magic Bullet Cosmo II 2.0.1",
+      "Magic Bullet Film 1.2.2",
+      "Magic Bullet Looks 4.0.3",
+      "Magic Bullet Mojo II 2.0.2",
+      "Magic Bullet Denoiser III 3.0.1",
+      "Magic Bullet Renoiser 1.0.2"
+    ],
+    "changelog": "Mac版修复在 MacOS Mojave 10.14 系统上插件不正常显示的问题",
+    "external_links": {
+      "official_taobao": "https://lookae.taobao.com/",
+      "sponsor": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "AE插件-点线面三维粒子特效 Plexus v3.2.8 Win",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-te-xiao-plexus-v3-2-8-win",
+  "author": "大众脸",
+  "post_date": "2025-07-15T10:03:00Z",
+  "source_url": "https://www.lookae.com/plexus-328/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "粒子插件"
+  ],
+  "content": "Plexus 是一款面向 After Effects 的下一代粒子引擎，支持以程序化方式创建、操控和可视化数据。不仅可渲染粒子，还能基于多种参数建立粒子间的复杂关系。其工作流高度模块化，可实现无限的配置与参数组合。该插件支持3D模型导入（如OBJ格式），可用于作为粒子发射器；还可通过路径、文字和灯光生成粒子效果，操作模式具有创新性。内置多种自定义特效，包括分形、颜色控制、球形场及阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/341819600475.mp4"
+  ],
+  "supported_versions": "After Effects 2015, 2017, CC 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1531226173-5829ec?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1EPx55Z3t0Em0DNDcEizrJQ?pwd=fejk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/2DYoxBKteyT"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "小错误修复。",
+      "新功能：线条渲染对象和面渲染对象中的颜色模式。"
+    ],
+    "related_links": [
+      {
+        "title": "使用教程 - 城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "title": "使用教程 - 百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      },
+      {
+        "title": "Mac版本：苹果版AE插件-点线面三维粒子特效 Plexus v3.2.6",
+        "url": "https://www.lookae.com/plexus-326/"
+      }
+    ],
+    "original_title": "AE插件-点线面三维粒子特效 Plexus v3.2.8 Win",
+    "original_category": [
+      "AE插件",
+      "After Effects"
+    ],
+    "original_tags": [
+      "AE插件",
+      "Plexus",
+      "粒子插件"
+    ]
+  }
+}

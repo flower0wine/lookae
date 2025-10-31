@@ -1,0 +1,55 @@
+{
+  "title": "把Mocha跟踪数据导入处理AE脚本 MochaImport+ v6.0.013 + 使用教程",
+  "slug": "ba-mochagen-zong-shu-ju-dao-ru-chu-li-aejiao-ben-mochaimport-v6-0-013-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-12-20T16:45:00Z",
+  "source_url": "https://www.lookae.com/mochaimport-6013/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MochaImport+",
+    "Mocha跟踪"
+  ],
+  "content": "MochaImport+ 是一款用于简化 mocha 与 After Effects 之间工作流程的脚本。它支持将跟踪镜头数据从 After Effects 发送到 mocha，再将处理后的跟踪数据以多种方式导入 AE，包括创建稳定预合成、移动蒙版、效果点和图层，并按透视进行变形。适用于 AE 2024 至 CS6 多个版本，兼容 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/MochaImport-V6.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-992934212-3f3966?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/19H8tIwasjaFgIsp1FJuLhA?pwd=j7ti"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.alipan.com/s/cc9eFP8PB3H"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-346371963"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1L_tHhZbRda2hhQVe5grybw?pwd=vce3"
+    }
+  ],
+  "other": {
+    "update_note": "v6.0.011 更新：修复了在 Premiere Pro 中创建的合成问题（以及其他具有异常符号（例如合成和图层名称中的反斜杠）的项目）",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/mochaimport/",
+      "https://www.lookae.com/tag/mocha%e8%b7%9f%e8%b8%aa/"
+    ]
+  }
+}

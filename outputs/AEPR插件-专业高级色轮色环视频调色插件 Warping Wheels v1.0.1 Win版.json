@@ -1,0 +1,40 @@
+{
+  "title": "AE/PR插件-专业高级色轮色环视频调色插件 Warping Wheels v1.0.1 Win版",
+  "slug": "ae-prcha-jian-zhuan-ye-gao-ji-se-lun-se-huan-shi-pin-diao-se-cha-jian-warping-wheels-v1-0-1-winban",
+  "author": "大众脸",
+  "post_date": "2019/07/07 13:02",
+  "source_url": "https://www.lookae.com/warping-wheels/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Warping Wheels 是一款专为 Adobe After Effects 和 Premiere Pro 设计的高级视频调色插件，提供比传统色轮更强大的色彩控制能力。它支持主色轮（Master Wheel）调节整体图像的色调、饱和度和亮度，并可实现二级调色与肤色单独调校。插件具有更精细的色彩调整功能，适用于专业级视频调色工作流程。其设计灵感源自 Picture Instruments，性能远超传统色轮工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Warping-Wheels.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/230388900051.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC - CC 2019, Adobe Premiere Pro CC - CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-386297615"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/11V5EWsZV7frN5nFZHIFOPQ"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://www.picture-instruments.com/products/index.php?id=19&back=5",
+    "installation_instructions": [
+      "安装Warping Wheels Plugin 1.0.1 for Windows.exe插件程序",
+      "复制Warping Wheels.aex到以下路径替换原文件：C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore",
+      "打开软件，使用插件"
+    ],
+    "additional_notes": "插件支持二级调色与肤色单独调色，具备更精密的色彩控制能力，适用于专业视频调色场景。"
+  }
+}

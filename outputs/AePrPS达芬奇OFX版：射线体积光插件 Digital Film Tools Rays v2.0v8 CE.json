@@ -1,0 +1,42 @@
+{
+  "title": "Ae/Pr/PS/达芬奇/OFX版：射线体积光插件 Digital Film Tools: Rays v2.0v8 CE",
+  "slug": "ae-pr-ps-da-fen-qi-ofxban-she-xian-ti-ji-guang-cha-jian-digital-film-tools-rays-v2-0v8-ce",
+  "author": "大众脸",
+  "post_date": "2016-08-17T13:28:00Z",
+  "source_url": "https://www.lookae.com/rays208/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Rays 是由 Digital Film Tools 公司出品的一款射线体积光插件，可快速、轻松地创建逼真的光线效果。该插件支持在多种专业视频与图像处理软件中使用，适用于生成黄昏光线、穿过树冠的光束、雾夜中的光流、文本发光等多种戏剧性视觉效果。其核心功能为基于体积照明技术（volumetric lighting）实现具有第三维度质感的光影表现，使画面更具真实感和艺术风格。官网地址：http://www.digitalfilmtools.com/rays/",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Rays.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5+, After Effects CS5+, Premiere Pro CS5+, Avid Editing Systems, Assimilate Scratch v8+, Black Magic Resolve v11+, Sony Vegas v13+, The Foundry’s Nuke v8+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "射线体积光插件 Digital Film Tools: Rays v2.0v8 CE",
+      "url": "http://lookae.ctfile.com/fs/A7c155362840"
+    }
+  ],
+  "other": {
+    "plugin_type": "OFX",
+    "features": [
+      "快速创建逼真光线效果",
+      "支持穿透物体的光束表现",
+      "增强图像的立体感与戏剧性",
+      "兼容多种主流视频/图像编辑软件",
+      "一键安装版，安装后可直接使用"
+    ],
+    "description": "Rays 插件通过模拟大气光学中的体积照明效果，广泛应用于影视后期制作中，尤其适合营造黄昏、森林透光、夜间氛围等场景。",
+    "official_website": "http://www.digitalfilmtools.com/rays/"
+  }
+}

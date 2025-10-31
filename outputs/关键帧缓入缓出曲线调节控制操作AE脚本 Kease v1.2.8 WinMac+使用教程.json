@@ -1,0 +1,56 @@
+{
+  "title": "关键帧缓入缓出曲线调节控制操作AE脚本 Kease v1.2.8 Win/Mac+使用教程",
+  "slug": "guan-jian-zheng-huan-ru-huan-chu-qu-xian-diao-jie-kong-zhi-cao-zuo-aejiao-ben-kease-v1-2-8-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/02/02 15:03",
+  "source_url": "https://www.lookae.com/kease-1010/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Kease 是一款专为 After Effects 设计的轻量级但功能强大的脚本工具，旨在简化关键帧的缓入缓出曲线调节操作。其简洁的界面设计确保在工作区中不占用过多空间，同时提供智能化的功能以提升工作效率。该脚本支持跨平台使用，兼容 AE CC 2019 至 2024 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/11/Kease-1.2.5.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/328373182912.mp4"
+  ],
+  "supported_versions": "AE CC 2019 - 2024",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1017406934-2ec54b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1_jXqoRb36bSGBH8tQvK3GA?pwd=ep46"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/LjRqLjpbure"
+    }
+  ],
+  "other": {
+    "description": "Keyframing is a tough and time-consuming routine. Make it simple with Kease, a small yet powerful tool available for Mac and Windows users. While its minimal layout makes its presence discreet within your After Effects workspace, its smart and powerful features help you get the job done faster.",
+    "features": [
+      "简单的缓动预设",
+      "扩展缓动预设",
+      "复制并粘贴缓动曲线",
+      "复制并粘贴值",
+      "线性化空间插值",
+      "复制多个关键帧",
+      "镜像多个关键帧",
+      "自定义键盘快捷键",
+      "支持Win/Mac系统",
+      "兼容 AE CC 2019 - 2024"
+    ],
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ],
+    "access_password": "6688",
+    "baidu_extract_code": "ep46"
+  }
+}

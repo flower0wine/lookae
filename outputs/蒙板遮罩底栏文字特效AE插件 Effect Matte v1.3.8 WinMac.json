@@ -1,0 +1,56 @@
+{
+  "title": "蒙板遮罩底栏文字特效AE插件 Effect Matte v1.3.8 Win/Mac",
+  "slug": "meng-ban-zhe-zhao-di-lan-wen-zi-te-xiao-aecha-jian-effect-matte-v1-3-8-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/12/19 14:02",
+  "source_url": "https://www.lookae.com/effect-matte-138/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "使用Effect Matte插件可以快速的给文字添加蒙板遮罩效果，无需繁琐的图层遮罩设置。能够给文字添加适合大小的遮罩，可控制面积、圆角、羽化等动画参数，也可以手动调整蒙板遮罩的边缘。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Effect-Matte-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50189362906.mp4?_=1"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-751069952-2d41cf?p=4431"
+    },
+    {
+      "name": "插件 百度网盘",
+      "url": "https://pan.baidu.com/s/1q6BsTrKIbbIQq7XGsEqftw?pwd=2wnp"
+    },
+    {
+      "name": "插件 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YB7eHtqAH7G"
+    },
+    {
+      "name": "教程 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-324510804"
+    },
+    {
+      "name": "教程 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1A9mHyE2v9jZLuFziR4me0g"
+    }
+  ],
+  "other": {
+    "access_passwords": [
+      {
+        "description": "城通网盘插件访问密码",
+        "password": "6688"
+      },
+      {
+        "description": "百度网盘插件提取码",
+        "password": "2wnp"
+      }
+    ],
+    "changelog": "v1.3.8更新：更新了许可框架。兼容苹果M芯片"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "AE插件：DCP数字电影打包工具 FanDev CuteDCP v1.8.6 CS5-CC 2015",
+  "slug": "aecha-jian-dcpshu-zi-dian-ying-da-bao-gong-ju-fandev-cutedcp-v1-8-6-cs5-cc-2015",
+  "author": "大众脸",
+  "post_date": "2015-12-21T12:17:00Z",
+  "source_url": "https://www.lookae.com/cutedcp186/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "FanDev CuteDCP 是一款专为 Adobe After Effects 设计的 DCP（数字电影包）创建工具，作为输出模块插件，可将导入 AE 的任意文件快速生成符合 SMPTE 与 InterOp 标准的 DCP 文件。该插件支持立体声、5.1 和 7.1 环绕音频，具备字幕支持（Interop 及 SMPTE）、3D 立体视觉支持、元数据控制以及多线程加速编码功能。内置 rec709 到 x'y'z' 色彩空间转换，适用于主流播放服务器。支持 Windows 系统下 AE CS5 至 CC 2015 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/CuteDCP.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 - CC 2015",
+  "supported_os": "Windows XP, Windows Vista, Windows 7, Windows 8",
+  "download_links": [
+    {
+      "name": "AE插件：DCP数字电影打包工具 FanDev CuteDCP v1.8.6 CS5-CC 2015",
+      "url": "http://lookae.ctfile.com/file/139081255"
+    }
+  ],
+  "other": {
+    "feature_overview": [
+      "SMPTE 和 InterOp 兼容的 DCP 创建",
+      "立体声、5.1 和 7.1 环绕音频支持",
+      "Interop 字幕支持",
+      "3D 立体视觉支持",
+      "DCP 元数据控制",
+      "多线程支持，加快编码速度",
+      "SMPTE 字幕支持",
+      "标题辅助工具",
+      "内置 rec709->x'y'z' 色彩空间转换"
+    ],
+    "official_website": "http://www.fandev.com/cutedcp.html",
+    "installation_note": "插件为一键安装注册，安装即可使用，无任何功能限制"
+  }
+}

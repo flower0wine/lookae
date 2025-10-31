@@ -1,0 +1,48 @@
+{
+  "title": "中文汉化AE/PR插件-人工AI智能人脸自动识别马赛克模糊跟踪合成特效Blace v1.4.1 Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-ren-gong-aizhi-neng-ren-lian-zi-dong-shi-bie-ma-sai-ke-mo-hu-gen-zong-he-cheng-te-xiao-blace-v1-4-1-win",
+  "author": "大众脸",
+  "post_date": "2022/01/10 18:43",
+  "source_url": "https://www.lookae.com/blace-141/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "这是一款适用于After Effects和Premiere Pro的面部检测和基于人工智能的马赛克模糊插件，具有易于使用且基于AI的检测、可控制检测区域并排除检测、包含几种款式等特征。需注意基于AI的解决方案可能产生不可预测结果，购买前应先测试。v1.3.2更新内容为修复安装程序。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/Blace-AI-Face-Detection.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CPU版本在AE 2020和PR 2020上运行，GPU版本在AE 2019和PR 2019以及更高版本上运行",
+  "supported_os": "仅支持Windows系统",
+  "download_links": [
+    {
+      "name": "城通网盘插件下载",
+      "url": "https://url70.ctfile.com/f/2827370-534411720-fd4047"
+    },
+    {
+      "name": "百度网盘插件下载",
+      "url": "https://pan.baidu.com/s/13akVT_0Dsh2RFjKIiJP5Fg?pwd=iq6z"
+    },
+    {
+      "name": "阿里云盘插件下载",
+      "url": "https://www.aliyundrive.com/s/jVrvJUqv6we"
+    },
+    {
+      "name": "城通网盘视频教程下载",
+      "url": "https://089u.com/file/680462-478271961"
+    },
+    {
+      "name": "百度网盘视频教程下载",
+      "url": "https://pan.baidu.com/s/1-6L2Mpu-fnCP4o4vq6E-DA"
+    }
+  ],
+  "other": {
+    "城通网盘插件下载密码": "6688",
+    "百度网盘插件下载提取码": "iq6z",
+    "百度网盘视频教程下载提取码": "z5pb",
+    "gpu_requirement": "需要基于Nvidia Turing，Volta，Xavier，Pascal，Maxwell或Kepler的GPU，且着色器模型为3.0或更高版本，驱动程序版本为r440或更高才能使用GPU版本，GPU版本可能不如CPU版本稳定"
+  }
+}

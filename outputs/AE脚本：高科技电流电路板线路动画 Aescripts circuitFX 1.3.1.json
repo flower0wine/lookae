@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本：高科技电流电路板线路动画 Aescripts circuitFX 1.3.1",
+  "slug": "aejiao-ben-gao-ke-ji-dian-liu-dian-lu-ban-xian-lu-dong-hua-aescripts-circuitfx-1-3-1",
+  "author": "大众脸",
+  "post_date": "2017-05-20",
+  "source_url": "https://www.lookae.com/circuitfx131/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "circuitFX 是 AE 软件中一款高科技电流电路板线路动画脚本，能够随机生成各种电路图，并可创建 CPU、电阻、电流器、芯片等部件，支持将这些部件放在同一电路图层或单独图层中，操作简单，适合制作 HUD 高科技背景动画及其他科技类动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/02/circuitFX-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-203522668"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1sltvJ0h"
+    }
+  ],
+  "other": {
+    "官网地址": "http://aescripts.com/circuitfx/",
+    "安装方法": "拷贝 .jsxbin 脚本文件到 AE 安装目录下：Support Files\\Scripts\\ScriptUI Panels",
+    "使用方法": "在 AE 软件中点击 Window（窗口菜单）即可找到脚本",
+    "更新日志": {
+      "1.3.1": [
+        "修正 “Using Masks” 模式不正常使用的 BUG",
+        "优化 更快的创建网格电路图层"
+      ]
+    },
+    "赞助链接": "https://www.lookae.com/sponsor/",
+    "淘宝店铺": "https://lookae.taobao.com/"
+  }
+}

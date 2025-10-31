@@ -1,0 +1,55 @@
+{
+  "title": "视频背景智能抠像AE/PR插件 Goodbye Greenscreen 1.9.4 GPU Win完整离线版",
+  "slug": "shi-pin-bei-jing-zhi-neng-kou-xiang-ae-prcha-jian-goodbye-greenscreen-1-9-4-gpu-winwan-zheng-chi-xian-ban",
+  "author": "大众脸",
+  "post_date": "2023/02/07 22:01",
+  "source_url": "https://www.lookae.com/greenscreen-194/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "抠像插件"
+  ],
+  "content": "基于人工智能的插件，用于复杂背景抠像和纯色背景抠像。从视频和干净的背景中创建遮罩，还拥有基于同一个引擎的非常强大的颜色键控器。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Goodbye-Greenscreen-12.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297235512328.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2023",
+      "2022",
+      "2021",
+      "2020"
+    ],
+    "Premiere": [
+      "2022",
+      "2021",
+      "2020"
+    ]
+  },
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-803783672-3e063c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1gNqjIXKvIzy7o1etYl9ELg?pwd=4h63"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/NtFttM3koUo"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "4h63"
+    },
+    "update_log": "1.9.4更新内容：修复导致某些预览分辨率崩溃的错误"
+  }
+}

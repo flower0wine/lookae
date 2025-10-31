@@ -1,0 +1,37 @@
+{
+  "title": "AE插件-人工智能背景遮罩抠像颜色键控插件Goodbye Greenscreen v1.2.0 CPU GPU Win中文汉化版",
+  "slug": "aecha-jian-ren-gong-zhi-neng-bei-jing-zhe-zhao-kou-xiang-yan-se-jian-kong-cha-jian-goodbye-greenscreen-v1-2-0-cpu-gpu-winzhong-wen-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2021-03-19",
+  "source_url": "https://www.lookae.com/greenscreen-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "基于人工智能的插件，用于复杂背景抠像和纯色背景抠像。从视频和干净的背景中创建遮罩，同时拥有基于同一个引擎的非常强大的颜色键控器。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Goodbye-Greenscreen-12.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297235512328.mp4"
+  ],
+  "supported_versions": "After Effects 2020 或更高版本",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-486263181-7663b7"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1MI19l7xrVGNIGvpq_O5T9g"
+    }
+  ],
+  "other": {
+    "访问密码": "6688",
+    "提取码": "pk80",
+    "版本更新": "1.2.0更新内容：更好的GPU稳定性；可视化检测到的匹配点",
+    "版本信息": "提供CPU和GPU两个版本，均提供中文版和英文版"
+  }
+}

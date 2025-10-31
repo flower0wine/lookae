@@ -1,0 +1,50 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材直接导入编辑 BRAW Studio v2.5.0 Mac",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-zhi-jie-dao-ru-bian-ji-braw-studio-v2-5-0-mac",
+  "author": "大众脸",
+  "post_date": "2022/01/13 10:40",
+  "source_url": "https://www.lookae.com/braw-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac版",
+    "PR插件"
+  ],
+  "content": "BRAW Studio v2.5.0 是一款专为 Mac 系统设计的插件，可支持在 After Effects、Premiere Pro 和 Media Encoder 中直接导入 Blackmagic RAW（.braw）格式视频素材，并提供参数设置功能。该插件实现 Adobe CC 软件对 BRAW 格式的原生支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/BRAW-Studio-V2-MAC.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017\nPremiere Pro: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017\nMedia Encoder: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘（插件）",
+      "url": "https://url70.ctfile.com/f/2827370-536266947-a12ee4"
+    },
+    {
+      "name": "百度网盘（插件）",
+      "url": "https://pan.baidu.com/s/1mLsrptqmGJJWTVWp3i78ww?pwd=d6kz"
+    },
+    {
+      "name": "阿里云盘（插件）",
+      "url": "https://www.aliyundrive.com/s/8LCavJegr4L"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg?pwd=n67x"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/braw-263/"
+    ],
+    "description": "该插件适用于 Mac 平台，支持多个版本的 Adobe CC 软件，便于高效处理 Blackmagic RAW 视频素材。"
+  }
+}

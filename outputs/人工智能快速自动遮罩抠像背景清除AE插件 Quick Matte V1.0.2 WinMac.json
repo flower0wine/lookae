@@ -1,0 +1,60 @@
+{
+  "title": "人工智能快速自动遮罩抠像背景清除AE插件 Quick Matte V1.0.2 Win/Mac",
+  "slug": "ren-gong-zhi-neng-kuai-su-zi-dong-zhe-zhao-kou-xiang-bei-jing-qing-chu-aecha-jian-quick-matte-v1-0-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2025-05-20T09:15:00Z",
+  "source_url": "https://www.lookae.com/quick-matte-102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Quick Matte",
+    "抠像插件"
+  ],
+  "content": "Quick Matte 是一款超级简单的插件，可在 After Effects 和 Premiere Pro 中自动对素材进行遮罩，是快速从背景中剔除人物的高效方法。虽然精度不是最高，但具有极快的速度，适用于快速构图、色彩校正或在主体后添加文字等场景。该插件支持 Windows 与 Mac 系统，兼容 After Effects 2025 至 2022 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/10/Quick-Matte.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/433309844434.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1506244195-3ffbe0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1DuJFZW7GuyoERXN-kwScvg?pwd=ww5w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/v9wAf4WRtGa"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了空闲时 CPU 过高的问题",
+      "修复了 Apple Silicon 上输出中的伪影",
+      "更新至最新渲染引擎",
+      "修复了各种错误并提高了性能"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/quick-matte/",
+      "https://www.lookae.com/tag/%e6%8a%a0%e5%83%8f%e6%8f%92%e4%bb%b6/"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "ww5w"
+    }
+  }
+}

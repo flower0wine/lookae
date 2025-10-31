@@ -1,0 +1,44 @@
+{
+  "title": "中文汉化AE/PR插件-画面故障干扰RGB色彩分离损坏特效 TV Distortion Bundle V2.6.0 Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-hua-mian-gu-zhang-gan-rao-rgbse-cai-fen-chi-sun-pi-te-xiao-tv-distortion-bundle-v2-6-0-win",
+  "author": "大众脸",
+  "post_date": "2021/06/09 13:03",
+  "source_url": "https://www.lookae.com/tv-distortion-26/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "TV Distortion Bundle 是一套包含五个故障失真插件的合集，适用于 After Effects 和 Premiere，帮助数字媒体艺术家轻松创建模拟失真、数字图像与卫星失真、数字像素模拟以及色差（Chromatic Aberration）等效果，可模拟从模拟电视时代到现代数字压缩时代的观看体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/TV-Distortion-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Premiere: 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-498250295-12a914"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RXYrPL7u1IryqOS6hn1XNg"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "6beb"
+    },
+    "included_plugins": [
+      "Bad TV v2.6.0",
+      "Data Glitch v2.6.0",
+      "Dot Pixel v2.6.0",
+      "Separate RGB v2.6.0",
+      "TVPixel v2.6.0"
+    ],
+    "update_notes": "修复在PR中的BUG；插件整体更新到新版本号"
+  }
+}

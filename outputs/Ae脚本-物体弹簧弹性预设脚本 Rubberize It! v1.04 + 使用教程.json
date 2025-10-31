@@ -1,0 +1,52 @@
+{
+  "title": "Ae脚本-物体弹簧弹性预设脚本 Rubberize It! v1.04 + 使用教程",
+  "slug": "aejiao-ben-wu-ti-dan-huang-dan-xing-yu-she-jiao-ben-rubberize-it-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-12-12T20:58:00Z",
+  "source_url": "https://www.lookae.com/rubberize-it-104/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Rubberize It! 是一款用于 After Effects 的脚本，可将图形层元素模拟为具有弹簧、橡胶或流体般的弹性效果，使动画更符合真实物理规律。无需关键帧即可自然响应运动。支持多种 AE 版本，并提供视频操作教程。适用于 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Rubberize-It-1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-413226031"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1jAG456qIGtLrXLp0JzOz3A"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://tc5.us/file/680462-413451513"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1v9tSCtLE8SQLXoyNLyteJA"
+    }
+  ],
+  "other": {
+    "script_description": "Turn your layers to Plastic, Rubber or Goop in seconds. Naturally reacts to motion w/o keyframes. Based on real physics!",
+    "homepage": "http://aescripts.com/rubberize-it/",
+    "update_note": "v1.04 更新内容：兼容苹果 10.15 系统",
+    "installation_guide": "拷贝 .jsxbin 脚本文件到 AE 安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_guide": "在 AE 软件中点击 Window（窗口菜单）即可找到脚本",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ]
+  }
+}

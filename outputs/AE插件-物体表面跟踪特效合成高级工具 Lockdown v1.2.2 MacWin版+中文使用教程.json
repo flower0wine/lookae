@@ -1,0 +1,73 @@
+{
+  "title": "AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.2.2 Mac/Win版+中文使用教程",
+  "slug": "aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v1-2-2-mac-winban-zhong-wen-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/01/10 10:19",
+  "source_url": "https://www.lookae.com/lockdown-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Lockdown"
+  ],
+  "content": "这是一款超级强大的AE插件，Lockdown是一款革命性的新插件，可以直跟踪运动物体扭曲不平的表面，非常适合进行美容修饰和其他先前困难的物体移除清理工作，或者其他跟踪合成特效制作。支持Win/Mac系统：After Effects CC 2019，2020。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/238517900336.mp4",
+    "https://www.bilibili.com/video/av77783819"
+  ],
+  "supported_versions": "After Effects CC 2019，2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.2.2 Mac版 城通网盘下载",
+      "url": "https://tc5.us/file/680462-416965664"
+    },
+    {
+      "name": "AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.2.2 Mac版 百度网盘下载",
+      "url": "https://pan.baidu.com/s/14RB7q3Af_AoIhh77lmesHQ"
+    },
+    {
+      "name": "AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.2.2 Win版 城通网盘下载",
+      "url": "https://tc5.us/file/680462-415848552"
+    },
+    {
+      "name": "AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.2.2 Win版 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BdadIO-pkMwMrtlg_NDg5Q"
+    },
+    {
+      "name": "英文视频教程 城通网盘下载",
+      "url": "https://tc5.us/file/680462-402524782"
+    },
+    {
+      "name": "英文视频教程 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ziayuRTOWWrlxu9HAsDzgQ"
+    },
+    {
+      "name": "中文字幕教程 城通网盘下载",
+      "url": "https://tc5.us/file/680462-403009657"
+    },
+    {
+      "name": "中文字幕教程 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1VIpX0gl6zw2GL4iBy5YX-w&shfl=sharepset"
+    }
+  ],
+  "other": {
+    "v1.2.2更新内容": [
+      "导入按钮现在可以从After Effects内置的Motion Tracker导入关键帧。 （附加点参数）",
+      "导入按钮现在将适用于非英语版本的After Effects。",
+      "该插件现在可以创建包含有用调试信息的日志文件。"
+    ],
+    "Win安装方法": [
+      "复制Lockdown.aex到AE安装目录，如： …\\Adobe After Effects CC 2019\\Support Files\\Plug-ins\\",
+      "复制LockdownScript.jsxbin 到AE安装目录，如： …\\Adobe After Effects CC 2019\\Support Files\\Scripts\\Script UI Panels\\",
+      "打开AE软件使用插件，点击Register输入序列号注册。"
+    ],
+    "Mac安装方法": [
+      "拷贝Lockdown.plugin文件到AE插件目录，如： 应用程序/Adobe After Effects CC 2019/Plug-ins",
+      "拷贝Lockdown.jsxbin文件到AE脚本目录，如： 应用程序/Adobe After Effects CC 2019/Scripts/Script UI Panels",
+      "打开软件，使用插件"
+    ]
+  }
+}

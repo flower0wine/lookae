@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本：父子层联动跟随脚本 Aescripts Parro v1.0.1 + 使用教程",
+  "slug": "aejiao-ben-fu-zi-ceng-lian-dong-gen-sui-jiao-ben-aescripts-parro-v1-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-07-02T16:27:00Z",
+  "source_url": "https://www.lookae.com/parro/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Parro 是一个用于动态连接和偏移动画的动画系统，特别适用于运动图形制作。该脚本可将父层的动画属性自动传递给子层，并支持调节延迟时间等参数，极大提升制作效率。适用于 Adobe After Effects CC 2015、CC 2014、CC、CS6、CS5.5、CS5、CS4 的 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/Parro.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：父子层联动跟随脚本 Aescripts Parro v1.0.1 + 使用教程",
+      "url": "https://www.400gb.com/file/103537730"
+    }
+  ],
+  "other": {
+    "original_post_date": "2015/07/02 16:27",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "installation_path": "……\\Adobe After Effects 版本号\\Support Files\\Scripts\\ScriptUI Panels\\",
+    "description_en": "Parrot is an animation system for dynamically connecting and offsetting animations. Extremely useful for motion graphics work."
+  }
+}

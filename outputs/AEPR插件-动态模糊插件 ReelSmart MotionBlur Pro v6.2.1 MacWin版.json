@@ -1,0 +1,45 @@
+{
+  "title": "AE/PR插件-动态模糊插件 ReelSmart MotionBlur Pro v6.2.1 Mac/Win版",
+  "slug": "ae-prcha-jian-dong-tai-mo-hu-cha-jian-reelsmart-motionblur-pro-v6-2-1-mac-winban",
+  "author": "大众脸",
+  "post_date": "2020-11-12 23:17",
+  "source_url": "https://www.lookae.com/rsmb-621/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "ReelSmart MotionBlur 简称（RSMB）由REVisionFX公司出品，是一款动态模糊插件插件，可以自动添加更多自然的运动模糊效果。插件能自动在运动的效果中添加自然真实的运动模糊效果。动态模糊或运动模糊(motion blur)是静态场景或一系列的图片像电影或是动画中快速移动的物体造成明显的模糊拖动痕迹。在AE中制作动画时，常常为运动的物体没有动态模糊而焦虑，觉得没有动态模糊，动画就失去了一定的真实性。AE自带的运动模糊在某些特定的情况下不能满足动画的需求，这时候这款插件就能帮助你达到需要的时间效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/RSMB-OFX.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50159754464.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CS 6 – CC 2019, 2020; Premiere Pro CS 6 – CC 2019, 2020",
+  "supported_os": "Mac, Win",
+  "download_links": [
+    {
+      "name": "Mac版（城通网盘）",
+      "url": "https://089u.com/file/680462-470830459"
+    },
+    {
+      "name": "Mac版（百度网盘）",
+      "url": "https://pan.baidu.com/s/1BrN-05A8o6QHvP_UxNMsgA"
+    },
+    {
+      "name": "Win版",
+      "url": "https://www.lookae.com/revisionfx-21/"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "4u5h",
+    "plugin_features": [
+      "自动跟踪动画运动的像素",
+      "可控制模糊效果",
+      "添加/删除运动模糊效果",
+      "支持CPU多处理器运行计算"
+    ],
+    "official_website": "http://www.revisionfx.com/products/rsmb/"
+  }
+}

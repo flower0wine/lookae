@@ -1,0 +1,45 @@
+{
+  "title": "达芬奇/AE/PR/ME/VEGAS多格式视频编码渲染加速输出插件Voukoder v10.1 Win中文版",
+  "slug": "da-fen-qi-ae-pr-me-vegasduo-ge-shi-shi-pin-bian-ma-xuan-ran-jia-su-shu-chu-cha-jian-voukoder-v10-1-winzhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2021/11/10 17:40",
+  "source_url": "https://www.lookae.com/voukoder-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件",
+    "Voukoder",
+    "达芬奇插件"
+  ],
+  "content": "Voukoder 是一款免费开源的 Windows 系统范围内的视频和音频编码服务，可显著提升媒体编码效率。支持多种编码器（包括基于 CPU 和 GPU 的 H.264、HEVC (H.265)、ProRes 等），并提供一系列后处理滤镜。若硬件支持硬件编码，编码速度最高可达实时的 4-8 倍，具体取决于项目复杂度。该插件适用于多个主流视频编辑软件，支持多版本 Windows 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/Voukoder-9.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01rMqTBm1vSMmOVwY7c_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297172470493.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6 – 2022, Adobe Media Encoder CS6 – 2022, Adobe After Effects CC 2015 – 2022, DaVinci Resolve 17+, VEGAS Pro 12-19",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520362238-d98812"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1_JYJBpuHyuiAu1W_gF93Gw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/h9jnxPsjMX5"
+    }
+  ],
+  "other": {
+    "update_notes": "10.1 更新内容：修复帧持续时间问题",
+    "language_support": "支持中文（点击 Settings 即可切换）",
+    "project_homepage": "https://www.voukoder.org/",
+    "description_en": "Voukoder is system wide video- and audio encoding service for Windows that improves your media encoding experience. It supports various encoders (both CPU and GPU based) and also provides a set of post processing filters."
+  }
+}

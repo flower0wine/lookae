@@ -1,0 +1,75 @@
+{
+  "title": "Ae/Pr/Nuke/达芬奇/Vegas/OFX视觉特效和转场BCC插件Continuum 2024 v17.0.2 Win",
+  "slug": "ae-pr-nuke-da-fen-qi-vegas-ofxshi-jue-te-xiao-he-zhuan-chang-bcccha-jian-continuum-2024-v17-0-2-win",
+  "author": "大众脸",
+  "post_date": "2023/12/23 09:44",
+  "source_url": "https://www.lookae.com/bcc-2024/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC插件",
+    "Nuke插件",
+    "OFX插件",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "Continuum插件是满足内容创作需求的一站式工具集，涵盖300多种效果、40多种转场和5000多种预设。支持Adobe多帧渲染与原生Apple M1 GPU加速，并集成Mocha遮罩技术，实现高效平面跟踪与复杂蒙版控制。该版本为Continuum 2024 v17.0.2.416，新增多项AI驱动功能，包括智能降噪、AI图像缩放、音频可视化及基于AI的粒子生成等，显著提升性能与创意效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/02/BCC-2023-OFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Continuum 2024 v17.0.2.416",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR 版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-995408860-966498?p=4431"
+    },
+    {
+      "name": "AE/PR 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13aqL2EpFYhC-38aN-Y0VUA?pwd=gev2"
+    },
+    {
+      "name": "AE/PR 版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/QrcL9UsSfzy"
+    },
+    {
+      "name": "OFX系列 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-995408839-137ddf?p=4431"
+    },
+    {
+      "name": "OFX系列 - 百度网盘",
+      "url": "https://pan.baidu.com/s/16cJE06iO1mMOVAeQUD5awQ?pwd=92qh"
+    },
+    {
+      "name": "OFX系列 - 阿里云盘",
+      "url": "https://www.alipan.com/s/SgqMLZqbAaU"
+    }
+  ],
+  "other": {
+    "supported_adobe_software": [
+      "After Effects CC 2020, 2021, 2022, 2023, 2024",
+      "Premiere Pro CC 2020, 2021, 2022, 2023, 2024"
+    ],
+    "supported_ofx_software": [
+      "DaVinci Resolve and Studio 17.x, 18.x +",
+      "Nuke 12, 13 +",
+      "Vegas 19, 20 +"
+    ],
+    "update_features": [
+      "BCC+ DeNoise ML：人工智能驱动的噪声消除，一键式简单性和智能细节保留",
+      "BCC+ UpRes ML（仅限AE）：全新集成AI缩放工具，支持任意格式调整",
+      "BCC+ 音频可视化工具：自动动画动态图形让音乐发声",
+      "粒子幻觉：使用AI生成精灵、粒子线作为真正的3D对象，支持速度继承",
+      "性能提升：在FX编辑器中体验更快播放、分布式渲染及与Avid更紧密集成",
+      "新增150多个专业设计预设"
+    ],
+    "related_links": [
+      {
+        "title": "Win中文汉化-视觉特效和转场AE/PR插件 BCC 2024 v17",
+        "url": "https://www.lookae.com/bcc-2021-ch/"
+      }
+    ]
+  }
+}

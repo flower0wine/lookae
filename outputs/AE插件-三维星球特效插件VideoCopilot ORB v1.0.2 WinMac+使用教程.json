@@ -1,0 +1,56 @@
+{
+  "title": "AE插件-三维星球特效插件VideoCopilot ORB v1.0.2 Win/Mac+使用教程",
+  "slug": "aecha-jian-san-wei-xing-qiu-te-xiao-cha-jian-videocopilot-orb-v1-0-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/01/18 18:28",
+  "source_url": "https://www.lookae.com/orb102/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "VideoCopilot 推出的免费三维星球特效插件，可生成真实物理渲染的行星。支持颜色、大气层、贴图、反射、环境光、阴影、灯光控制及GPU加速。具备360全景渲染、无限星空背景、昼夜切换、亮度调节等功能，并提供6K地图贴图与使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/orb.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-331814689"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1hCc_56hRCNCkjeH8uiUd_g"
+    }
+  ],
+  "other": {
+    "plugin_name": "VideoCopilot ORB",
+    "version": "v1.0.2",
+    "release_notes": [
+      "修复了某些AMD显卡的初始化问题。",
+      "修复了集成Intel和Nvidia GPU之间的冲突。"
+    ],
+    "official_website": "https://www.videocopilot.net/orb/",
+    "features": [
+      "真实的物理渲染效果",
+      "环境反射贴图",
+      "运动模糊",
+      "高级UV贴图设置",
+      "亮度阴影遮罩设置",
+      "随意切换白天和夜晚",
+      "基于亮度调节",
+      "亮度设置",
+      "支持AE内置灯光控制",
+      "360全景渲染",
+      "无限星空环境背景",
+      "GPU加速"
+    ],
+    "additional_resources": [
+      "提供使用教程",
+      "包含6K地图贴图"
+    ]
+  }
+}

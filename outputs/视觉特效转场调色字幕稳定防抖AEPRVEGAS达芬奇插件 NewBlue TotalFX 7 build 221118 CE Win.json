@@ -1,0 +1,56 @@
+{
+  "title": "视觉特效转场调色字幕稳定防抖AE/PR/VEGAS/达芬奇插件 NewBlue TotalFX 7 build 221118 CE Win",
+  "slug": "shi-jue-te-xiao-zhuan-chang-diao-se-zi-mu-wen-ding-fang-dou-ae-pr-vegas-da-fen-qi-cha-jian-newblue-totalfx-7-build-221118-ce-win",
+  "author": "大众脸",
+  "post_date": "2022/12/07 13:59",
+  "source_url": "https://www.lookae.com/totalfx-221118/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "这是 NewBlue 公司出品的插件 TotalFX 7，用于视频编辑器的完整工具包，将所有的效果、转场和字幕工具都捆绑在一起。包含调色、字幕标题、视频特效、稳定防抖、磨皮美颜、抠像、镜头修复、转场过渡等超过177款插件，约1500个预置效果，支持GPU加速。TotalFX 插件工具提供了各种滤镜、风格、效果、转场和文字效果，满足后期制作的多样化需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/02/TotalFX7.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 或更高版本, Premiere Pro CC 或更高版本, Avid Media Composer & Symphony 8+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-741352986-42732f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Tlj1-JG42eQz6i4_Cr7daA?pwd=hxw8"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/FuD1ARN7dSX"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "hxw8",
+    "included_packages": [
+      "Titler Pro 7 Ultimate",
+      "Elements 3 Ultimate",
+      "Essentials 5 Ultimate",
+      "Filters 5 Ultimate",
+      "Transitions 5 Ultimate",
+      "Stylizers 5 Ultimate"
+    ],
+    "total_effects_count": 177,
+    "total_presets_count": 1500,
+    "gpu_acceleration": true,
+    "ofx_hosts": [
+      "Vegas Pro (64-bit)",
+      "DaVinci Resolve",
+      "其他 OFX（OpenFX）兼容软件"
+    ]
+  }
+}

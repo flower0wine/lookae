@@ -1,0 +1,49 @@
+{
+  "title": "AE/PR/达芬奇插件-模拟电影胶片光晕特效 FilmConvert Halation V1.0.0 Win",
+  "slug": "ae-pr-da-fen-qi-cha-jian-mo-ni-dian-ying-xiao-pian-guang-yun-te-xiao-filmconvert-halation-v1-0-0-win",
+  "author": "大众脸",
+  "post_date": "2024-11-27",
+  "source_url": "https://www.lookae.com/filmconvert-halation/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "电影胶片",
+    "调色插件",
+    "达芬奇插件"
+  ],
+  "content": "为素材添加光晕效果，让您的项目更上一层楼。光晕效果是胶片拍摄的副产品，它会在图像明亮部分周围添加红色光晕，增添胶片的浪漫气息。Halation效果是您的创意调色的完美点睛之笔，它强调了胶片的有机感和触感。它为您的图像增添了天生的柔和感，增加了类似胶片的浪漫感，并将您的调色提升到一个新的水平。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/FilmConvert-Halation-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/495670455326.mp4"
+  ],
+  "supported_versions": "V1.0.0",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1430416042-596c33?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1VipSTKAD-Ht0tJtTN7LJzA?pwd=gjv2"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/CFjL7NkeiTN"
+    }
+  ],
+  "other": {
+    "supported_software": {
+      "After Effects": "CC 2018 – 2025 或更高版本",
+      "Premiere Pro": "CC 2018 – 2025 或更高版本",
+      "DaVinci Resolve": "16 – 19 或更高版本"
+    },
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "gjv2"
+    }
+  }
+}

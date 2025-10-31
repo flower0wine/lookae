@@ -1,0 +1,57 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.7.4 Win版+使用教程",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-7-4-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/10/18 12:54",
+  "source_url": "https://www.lookae.com/aftercodecs-174/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件"
+  ],
+  "content": "AfterCodecs是一款特殊的编码加速输出渲染插件，支持在After Effects、Premiere Pro和Adobe Media Encoder中使用。该插件可以输出H264、H265和ProRes等特殊编码，渲染速度比AE自带输出更快，压缩文件更小且画质更佳。支持ProRes（LT/Proxy/Normal/HQ/444带Alpha通道）、x264（优于Adobe Media Encoder和QuickTime H264）、x265（文件比x264小30%，支持8K分辨率）和x264 RGB（避免YUV色彩空间，适合高级用户存储分离通道）。v1.7.4版本新增了独立弹出窗口、快速子分辨率按钮和更新提示功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-403067898"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1rqWxvZsgPRrb8cD-lIALDA&shfl=sharepset"
+    }
+  ],
+  "other": {
+    "registration_codes": {
+      "After Effects": [
+        "AUKACAE*MONTER*GROUP*201908090913789SUL9",
+        "DSTAC*MONTER*GROUP*201908090913789SUL9"
+      ],
+      "Media Encoder": [
+        "AUKACME*MONTER*GROUP*201908090913789SUL9",
+        "DSTACME*MONTER*GROUP*201908090913789SUL9"
+      ],
+      "Premiere PRO": [
+        "AUKACPP*MONTER*GROUP*201908090913789SUL9",
+        "DSTACPP*MONTER*GROUP*201908090913789SUL9"
+      ]
+    },
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://www.pipipan.com/fs/680462-221741711"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1c2nhMI8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-批量转换Alpha通道视频为MP4/h264文件 MP4 + Alpha Converter v1.3.0",
+  "slug": "aejiao-ben-pi-liang-zhuan-huan-alphatong-dao-shi-pin-wei-mp4-h264wen-jian-mp4-alpha-converter-v1-3-0",
+  "author": "大众脸",
+  "post_date": "2024/12/08 09:44",
+  "source_url": "https://www.lookae.com/alpha-converter-130/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一个After Effects脚本，可以批量将带有Alpha通道的视频或项目转换为MP4/h264格式，同时保持背景透明。该脚本支持视频和图像序列，能够显著减少文件大小，节省存储空间。它具有简单易用的界面，使用原生MP4渲染器，无需额外插件，并提供了自动重命名、输出文件夹设置、音轨保留等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/MP4-Alpha-Converter.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/492158957327.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1433812768-92871d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1gKcljTc0sSPMtIc1N-6CSQ?pwd=th3d"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/6hmTwmsMnP6"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "th3d"
+    },
+    "version": "v1.3.0",
+    "update_content": [
+      "添加自动设置输出文件夹功能",
+      "删除'自动渲染'复选框",
+      "修复安装检测错误"
+    ]
+  }
+}

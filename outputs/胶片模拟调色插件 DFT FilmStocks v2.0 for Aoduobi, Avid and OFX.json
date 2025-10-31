@@ -1,0 +1,69 @@
+{
+  "title": "胶片模拟调色插件 DFT FilmStocks v2.0 for Aoduobi, Avid and OFX",
+  "slug": "xiao-pian-mo-ni-diao-se-cha-jian-dft-filmstocks-v2-0-for-aoduobi-avid-and-ofx",
+  "author": "大众脸",
+  "post_date": "2014-11-14T02:12:00Z",
+  "source_url": "https://www.lookae.com/filmstocks2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件",
+    "win64",
+    "调色插件",
+    "达芬奇插件"
+  ],
+  "content": "DFT FilmStocks v2.0 是由 DigitalFilm 公司推出的胶片模拟调色插件，支持 Adobe After Effects、Premiere Pro、Avid、Blackmagic Resolve（达芬奇）、Sony Vegas、The Foundry’s Nuke 等多个平台。该插件可模拟 288 种不同的彩色与黑白胶片色调，涵盖电影胶片和复古摄影工艺效果，广泛应用于影视后期特效制作中，帮助用户为数字画面增添专业级的胶片质感。插件新增了 Bleach Bypass、Cross Processing、Grunge、Three Strip、Two Strip 等多种滤镜，并支持 OFX 格式，兼容 Assimilate Scratch、Nuke、DaVinci Resolve 等软件。同时支持 Retina 显示屏与新预览尺寸（1024/2048/4096 像素），并支持在 Aperture 和 Lightroom 中保留和恢复设置。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/08/DFT.FilmStocks.v1.5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 及以上，Adobe Premiere Pro CS5 及以上，Avid Editing Systems (64位)，Assimilate Scratch v8 及以上，Black Magic Resolve v11 及以上，Sony Vegas v13 及以上，The Foundry’s Nuke v8 及以上",
+  "supported_os": "Windows, macOS (Retina Display 支持)",
+  "download_links": [
+    {
+      "name": "胶片模拟调色插件 DFT FilmStocks v2.0 for Adobe, Avid and OFX",
+      "url": "https://www.400gb.com/file/78272374"
+    }
+  ],
+  "other": {
+    "version": "v2.0",
+    "release_date": "2014-11-09",
+    "features": [
+      "Added Bleach Bypass Plug-in",
+      "Added Cross Processing Plug-in",
+      "Added Grunge Plug-in",
+      "Added Three Strip Plug-in",
+      "Added Two Strip Plug-in",
+      "Aperture Now Retrieves Film Stocks Setup Information",
+      "Lightroom Now Retrieves Film Stocks Setup Information",
+      "New Mask Types (Path, Snap, Selection)",
+      "OFX Host Support",
+      "Retina Display Support",
+      "User Interface – New Preview Size (4096px)"
+    ],
+    "description_en": "Film Stocks is a unique filter that simulates 288 different color and black and white still photographic film stocks, motion picture films stocks and historical photographic processes. Using our experience in creating special effects for hundreds of feature films as well as expertise in film scanning and recording techniques, we have laboriously researched and analyzed different film stocks to come up with a set of interesting analog photographic, motion picture and vintage looks. Make any digital image look interesting by applying some of our film magic.",
+    "developer": "DigitalFilm",
+    "original_title": "DFT FilmStocks v2.0 for Adobe, Avid and OFX",
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/qitarjcj/nukezy/",
+      "https://www.lookae.com/qitarjcj/ofxzy/",
+      "https://www.lookae.com/qitarjcj/vegaszy/",
+      "https://www.lookae.com/qitarjcj/otherzy/",
+      "https://www.lookae.com/others/",
+      "https://www.lookae.com/qitarjcj/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/nuke%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/ps%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/vegas%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/win64/",
+      "https://www.lookae.com/tag/%e8%b0%83%e8%89%b2%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e8%be%be%e8%8a%ac%e5%a5%87%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "苹果版图形矩阵网格排列自定义动画生成器AE插件 Reka Grid v1.3.2 Mac",
+  "slug": "ping-guo-ban-tu-xing-ju-zhen-wang-ge-pai-lie-zi-ding-yi-dong-hua-sheng-cheng-qi-aecha-jian-reka-grid-v1-3-2-mac",
+  "author": "大众脸",
+  "post_date": "2024/06/20 10:36",
+  "source_url": "https://www.lookae.com/reka-grid-132mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "Reka Grid 是一款强大的 After Effects 插件，专为创建和自定义图形矩阵网格动画而设计。每个网格点由参数化形状的实例表示，支持多种形状类型（如三角形、矩形、圆形、星形、“Y”或“X”），并可对形状的任意参数进行动态调整与动画处理。支持规则网格、六边形网格、螺旋线、正弦波及叶序等复杂排列方式。每个实例具备丰富的动画属性：半径、角度、位置偏移、颜色、透明度（Alpha）等。插件还支持通过噪声或自定义图层对网格参数进行动画控制，实现高度灵活的视觉效果。适用于 AE 2024 至 CC 2014 的多个版本，兼容 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Reka-Grid.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/344772353516.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1312172320-93190f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1PLFSvKFimPkUo_8R7vB7-w?pwd=gxz3"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/wLGS6RSrqFZ"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.3.2 更新内容：修复了 Timeremap 的崩溃问题；修复形状纹理索引",
+    "related_links": [
+      "https://www.lookae.com/rekagrid-122/"
+    ],
+    "language": "zh-CN",
+    "description": "Reka Grid 是一款用于 After Effects 的高级网格动画生成工具，支持自定义形状、多种排列方式与深度参数控制，适用于视觉创意与动态图形设计。",
+    "license": "非官方发布，需注意使用来源合法性"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "AE脚本-图形动态布局对齐工具 Flex v1.1.2 + 使用教程",
+  "slug": "aejiao-ben-tu-xing-dong-tai-bu-ju-dui-qi-gong-ju-flex-v1-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-06-15",
+  "source_url": "https://www.lookae.com/flex-112/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "对齐工具"
+  ],
+  "content": "Flex 是一款可在不同布局中动态重新对齐图层的 AE 脚本。Flex Line Rigs 用于单行或单列的快速处理，Flex Grid Rigs 则适用于多行/多列的复杂网格系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/Aescripts-Flex.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/310669506410.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-597367856-f4ff23?p=4431"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1wap6HlYq7JtCLVrulhhh-A?pwd=mnei"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/tFDLbKgcYwX"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://089u.com/f/680462-496415740-7d1785"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1nTLSAsBlgxmxo0y_4xhNBQ"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘脚本": "mnei",
+      "百度网盘教程": "leuj"
+    },
+    "版本更新": [
+      "更新许可和库",
+      "修复非 EN 安装中的网格遮罩圆度中断",
+      "修复使用具有非方形像素纵横比源的图层时结果不可靠"
+    ]
+  }
+}

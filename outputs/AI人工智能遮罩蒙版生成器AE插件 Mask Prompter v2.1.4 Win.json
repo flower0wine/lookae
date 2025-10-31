@@ -1,0 +1,59 @@
+{
+  "title": "AI人工智能遮罩蒙版生成器AE插件 Mask Prompter v2.1.4 Win",
+  "slug": "airen-gong-zhi-neng-zhe-zhao-meng-ban-sheng-cheng-qi-aecha-jian-mask-prompter-v2-1-4-win",
+  "author": "大众脸",
+  "post_date": "2024/10/25 21:53",
+  "source_url": "https://www.lookae.com/mask-prompter-214/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "人工智能"
+  ],
+  "content": "这是一款基于AI的AE插件，可轻松高效地生成遮罩，具有自动化AI驱动的转描功能，包含Segment Anything 2图像模型。新功能有基于文本的抠图，工作流程简单，通过指定点和矩形创建遮罩，还有交互、视频稳定、多种输出模式等特点。V2.1.4更新了安装程序以识别最新AE版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/Mask-Prompter-V2.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/476737549547.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024, 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1418314408-df0667?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10x5ZYO3KzLkM2bRFU89lbA?pwd=bx3f"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/F2j4qgk2oTC"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-926557887-95a34f?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1X1-fgr0Akp5GzQIwmbJ2Yw?pwd=2vbx"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PtcaDWoGWb7"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

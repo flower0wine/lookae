@@ -1,0 +1,38 @@
+{
+  "title": "中文汉化AE脚本-图层属性重置脚本 Quick Delete & Reset v1.1.4 + 使用教程",
+  "slug": "zhong-wen-yi-hua-aejiao-ben-tu-ceng-shu-xing-zhong-zhi-jiao-ben-quick-delete-reset-v1-1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/06/05 09:54",
+  "source_url": "https://www.lookae.com/delete-114/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该脚本可在AE中对选择图层的关键帧、特效、Mask、图层标记、表达式等进行删除重置等操作。v1.1.4更新许可框架，适用于Win/Mac系统下AE CC - CC 2019 。介绍了脚本安装及使用方法。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/Quick-Delete-Reset.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056522072.mp4"
+  ],
+  "supported_versions": "AE CC - CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-447413167"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1lNRgrQG1YV8Y-qQaEI-_CA",
+      "extraction_code": "il2g"
+    }
+  ],
+  "other": {
+    "script_english_name": "Quick Delete & Reset",
+    "script_description_en": "Quickly delete, disable, enable or reset different aspects of a layer with just a single click.",
+    "script_official_url": "https://aescripts.com/quick-delete-and-reset/",
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

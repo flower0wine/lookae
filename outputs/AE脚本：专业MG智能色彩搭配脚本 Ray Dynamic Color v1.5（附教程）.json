@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本：专业MG智能色彩搭配脚本 Ray Dynamic Color v1.5（附教程）",
+  "slug": "aejiao-ben-zhuan-ye-mgzhi-neng-se-cai-da-pei-jiao-ben-ray-dynamic-color-v1-5-fu-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-04-17T12:21:00",
+  "source_url": "https://www.lookae.com/raycolor/",
+  "category": "aechajian",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Ray Dynamic Color 是一款专为 After Effects 设计的智能色彩搭配脚本，适用于 MG 动态图形制作。该脚本可快速实现多图层统一配色，支持自定义颜色修改，大幅提升后期效率。支持从 Adobe Kuler 导入色彩方案，并具备高级表达式功能，实现颜色动画过渡。特别适合处理复杂项目中大量图层的颜色调整问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/04/Ray-Dynamic-Color.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 - CC 2014",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：专业MG智能色彩搭配脚本 Ray Dynamic Color v1.5（附教程）",
+      "url": "https://www.400gb.com/file/90723326"
+    },
+    {
+      "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+      "url": "https://www.lookae.com/sponsor/"
+    },
+    {
+      "name": "更多MG资源推荐",
+      "url": "https://www.lookae.com/?s=MG"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "AE教程",
+      "AE模板",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ],
+    "new_features_v1_5": [
+      "Scan project (learn more) for colors and link all of them to a color palette. (thanks to Seth Eckert!)",
+      "Replace the current palette applied for different color palette.",
+      "Fill & Stroke Color fills and Strokes of shape layers separately. (thanks to Andreas Bjørn Hansen!)",
+      "Swap the Fill and the Stroke color of shape layers. (thanks to Justin Lawes!)",
+      "New Advanced Expression: Animate between colors. (thanks to Tony Pinkevich!)"
+    ],
+    "description": "在后期制作中，配色是动画效果的重点。好的配色能显著提升作品档次。该脚本可快速自由配色，符合视觉美学，科学高效。支持从 Adobe Kuler 导入色彩搭配，适用于 MG 动态图形制作中大量图层的颜色调整，极大简化工作流程。"
+  }
+}

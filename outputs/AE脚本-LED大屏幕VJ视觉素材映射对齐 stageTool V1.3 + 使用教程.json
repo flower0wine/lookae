@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-LED大屏幕VJ视觉素材映射对齐 stageTool V1.3 + 使用教程",
+  "slug": "aejiao-ben-ledda-ping-mu-vjshi-jue-su-cai-ying-she-dui-qi-stagetool-v1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-18T16:01:00Z",
+  "source_url": "https://www.lookae.com/stagetool-13/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "stageTool 是一款专为 After Effects 设计的脚本，可帮助用户将 LED 屏幕按实际尺寸排列并进行像素映射，便于在 VJ 视频制作中使用。通过该脚本，用户可在 AE 中快速创建舞台布局，并导出至 Resolume Arena 5 & 6，实现高效视觉内容同步与控制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/05/stageTool.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-366562193"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1sVGo2QyWOCVoza8VxYplpA"
+    }
+  ],
+  "other": {
+    "website": "https://aescripts.com/stagetool/",
+    "update_notes": [
+      "修复了“未定义对象”启动错误。",
+      "修复角饰板的位置。",
+      "修复标志下拉菜单空指针。",
+      "修复了演示版上的刷新目标。",
+      "在“刷新用户界面”中捆绑刷新目标和刷新徽标。",
+      "奇数瓷砖大小错误修复。",
+      "修复了导致刷新目标在关闭脚本后无法工作的错误。",
+      "改进的徽标工作流。"
+    ],
+    "installation_note": "压缩包内包含安装方法说明。",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v2.7.4 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v2-7-4-win",
+  "author": "大众脸",
+  "post_date": "2022/03/21 18:31",
+  "source_url": "https://www.lookae.com/lockdown-274/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Lockdown",
+    "中文汉化"
+  ],
+  "content": "Lockdown是一款革命性的新插件，可直接追踪运动物体扭曲不平的表面，特别适用于美容修饰、物体移除清理及其他复杂的跟踪合成特效制作。该插件现已支持达芬奇软件，具备独立操作界面，使跟踪过程比以往在After Effects和达芬奇中更加流畅。支持使用蒙版或Alpha通道修剪轨道。最新版本v2.7.4已修复所有已知的插件未显示或无法打开的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/318386610195.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-557062862-4cff1b"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1TKYb3dMtCBM5TufNwYwLJQ?pwd=wpu6"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/nb9oMwWQLcQ"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "version": "V2.4",
+        "links": [
+          {
+            "name": "城通网盘",
+            "url": "https://089u.com/f/680462-502067783-dcc3cb",
+            "password": "6688"
+          },
+          {
+            "name": "百度网盘",
+            "url": "https://pan.baidu.com/s/141jyi3Nrba6Z6uUeccofpQ",
+            "password": "02kh"
+          }
+        ]
+      },
+      {
+        "version": "V2",
+        "links": [
+          {
+            "name": "城通网盘",
+            "url": "https://089u.com/f/680462-495135746-bf69b7",
+            "password": "6688"
+          },
+          {
+            "name": "百度网盘",
+            "url": "https://pan.baidu.com/s/1yJ0tcRCvlspPF97iOHvM_g",
+            "password": "oiho"
+          }
+        ]
+      }
+    ],
+    "additional_info": "即将推出更多功能与更新，建议关注官网获取最新动态。"
+  }
+}

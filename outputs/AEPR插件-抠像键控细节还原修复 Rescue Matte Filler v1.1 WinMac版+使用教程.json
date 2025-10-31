@@ -1,0 +1,36 @@
+{
+  "title": "AE/PR插件-抠像键控细节还原修复 Rescue Matte Filler v1.1 Win/Mac版+使用教程",
+  "slug": "ae-prcha-jian-kou-xiang-jian-kong-xi-jie-huan-yuan-xiu-fu-rescue-matte-filler-v1-1-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/07/11 12:07",
+  "source_url": "https://www.lookae.com/rescue-matte/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "Rescue Matte Filler 可一键修复键控抠像中常见的边缘缺口、颜色空洞及多余透明区域，智能恢复因光线不均或绿幕设置不佳而丢失的色彩数据，适用于已预抠或含噪点、快速运动镜头。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Rescue-Matte-Filler.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/230863098658.mp4"
+  ],
+  "supported_versions": "CC 2015–CC 2019",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-387075511"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1pIpvFg5yeVSv7CO2ajKESw"
+    }
+  ],
+  "other": {
+    "extraction_code": "9lt8",
+    "official_site": "https://aescripts.com/rescue-matte-filler/"
+  }
+}

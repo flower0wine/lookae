@@ -1,0 +1,32 @@
+{
+  "title": "红巨人群集特效插件套装：Red Giant Universe v2.0 支持AE/PR/OFX/达芬奇",
+  "slug": "hong-ju-ren-qun-ji-te-xiao-cha-jian-tao-zhuang-red-giant-universe-v2-0-zhi-chi-ae-pr-ofx-da-fen-qi",
+  "author": "大众脸",
+  "post_date": "2016/06/30 11:30",
+  "source_url": "https://www.lookae.com/universe2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "Red Giant Universe以前中文名字直译为宇宙特效插件套装，现正式取名为群集特效插件套装，该套装整合包含很多类型的视觉特效和转场插件，是为后期提供的一个Red Giant效果和转场集。公司提供了50个新的免费插件，支持GPU加速，有Win和Mac版，可用于AE、Premiere Pro等常用软件。Red Giant Universe 2.0更新添加了对Adobe CC 2015.3的支持、全新可视化特效预览窗口等内容，还添加4个新插件和更新18个插件，拥有直观可视化预设浏览器。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/06/Universe-2-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5.5 – CC 2015.3；Adobe Premiere Pro CS6 – CC 2015.3；Black Magic Resolve v11或更高版本；Sony Vegas v13或更高版本；The Foundry’s Nuke v8或更高版本；HitFilm 3 Pro",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "红巨人群集特效插件套装：Red Giant Universe v2.0 一键安装",
+      "url": "http://lookae.ctfile.com/fs/rJ0153366220"
+    }
+  ],
+  "other": {
+    "插件列表": "Universe Noise: Luminance Noise；Universe Blur: Compound Blur (Labs)；Universe Utilities: Color Gamma Conversion；Universe Glow: Glimmer；Universe Stylize: Carousel；Universe Stylize: Holomatrix EZ；Universe CrumplePop: SplitScreen Blocks；Universe CrumplePop: SplitScreen Custom Block；Universe ToonIt: ToonIt Sketch；ToonIt Paint: Add Halftone (P)；ToonIt Outlines: Added Chalk presets (P)；Universe Holomatrix: Added glitching, distortion, flicker and more (P)；ToonIt Update – new Presets and tools added to the ToonIt tools；更多：http://www.redgiant.com/universe/universe-tools/",
+    "包括插件": "3D Blinds；3D Cube；3D Fold；3D Inside Cube；3D Rubics Cube；3D Slide；3D Unfold；Carousel；Chromatic Aberration；Chromatic Glow；Diamond Wave；Finisher；Fisheye Fixer；Glimmer；Glitch；Glitch Transition；Grain16；Halflight；Holomatrix；Holomatrix EZ；Knoll Light Factory EZ；Knoll Light Transition；OverLight；Picture in Picture；Prism Displacement；Retrograde；ShrinkRay；SplitScreen Blocks；SplitScreen Custom Blocks；Texturize；ToonIt Cartoon；ToonIt Outlines；ToonIt Paint；ToonIt Presets；ToonIt Retouch；ToonIt Sketch；ToonIt Thermal；ToonIt Transition；Triangle Wave；Turbulence Noise；Turbulence Noise EZ；VHS",
+    "免费插件": "Billowed Background；Blackhole；Blur；Camera Shake；Channel Blur；Checkerboard；Color and Gamma Conversion；Compare Frames；Compound Blur；Diffuse Glow；Edge Glow；Elliptical Distortion；Exposure Blur Transition；Fade In；Fade Out；Fill Alpha；Fish Eye Distortion；Flip；Glo Fi；Glow Highlights；Grid；Hyperbolic Blur；Hyperbolic Dissolve Transition；Luminance Noise；Magnetic Displace；Masked Blur；Masked Clone；Masked Mosaic；Noir Moderne Light；Photo 2；PixelGlow EZ；Radial Blur；RGB Displacement；Ripples；Rotate；Shutter；Simple RGB Separation；Singularity；Sobel Edges；Soft Edge Wipe；Streak Blur；Swish Pan；Three Color Ramp；Two Color Ramp；Venetian；Zoom Blur；Zoom Blur Transition；More tools will be added regularly."
+  }
+}

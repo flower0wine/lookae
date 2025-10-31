@@ -1,0 +1,70 @@
+{
+  "title": "AE插件-画面颜色选取调色替换修改Composite Brush v1.6.4 Mac/Win",
+  "slug": "aecha-jian-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-composite-brush-v1-6-4-mac-win",
+  "author": "大众脸",
+  "post_date": "2022/04/10 20:41",
+  "source_url": "https://www.lookae.com/compositebrush-164/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Mac苹果版"
+  ],
+  "content": "Composite Brush 是一款适用于 After Effects 的精准且易于使用的颜色选择与修改工具。用户仅需几笔涂抹即可创建选区，随后可对颜色进行修改或提取键控（key）。该插件支持在视频画面上直接选取颜色，并将选定区域替换为自定义颜色。通过单击并拖动可完成颜色选取，按住 Alt 键 + 鼠标左键可取消选择。此外，该插件可与 Keylight 抠像插件协同使用，提升抠像的准确性与洁净度。此版本为 V1.6.4，已更新许可代码。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win中英文 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-567027546-fb0773"
+    },
+    {
+      "name": "Win中英文 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1mBglJ5B9Inxum_Z2Xqwj4w?pwd=5gp7"
+    },
+    {
+      "name": "Win中英文 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/DqEq3vtxbTG"
+    },
+    {
+      "name": "Mac英文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-564926435-c98aef"
+    },
+    {
+      "name": "Mac英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1DsauiqzHDV1H4qG0sVhpfg?pwd=zw2x"
+    },
+    {
+      "name": "Mac英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/svuDm8QbcLT"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-331097985"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1sd0XkNw_f09V3BXC2_Sxvw"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/mac%e8%8b%b9%e6%9e%90%e7%89%88/"
+    ],
+    "passwords": {
+      "ctfile_win": "6688",
+      "baidu_win": "5gp7",
+      "ctfile_mac": "6688",
+      "baidu_mac": "zw2x"
+    }
+  }
+}

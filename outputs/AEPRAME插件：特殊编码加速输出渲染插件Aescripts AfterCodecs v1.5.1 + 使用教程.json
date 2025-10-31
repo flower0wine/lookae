@@ -1,0 +1,51 @@
+{
+  "title": "AE/PR/AME插件：特殊编码加速输出渲染插件Aescripts AfterCodecs v1.5.1 + 使用教程",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aescripts-aftercodecs-v1-5-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-12-19 19:21",
+  "source_url": "https://www.lookae.com/aftercodecs151/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款适用于 After Effects、Premiere Pro 与 Media Encoder 的编码输出插件，支持 ProRes、H264（x264）、H265（x265）等高效编码，可在 Windows 平台实现比原生输出更快的渲染速度与更小的文件体积，同时保持更佳画质。插件提供多种 ProRes 等级、8K 支持、Alpha 通道及 YUV/RGB 色彩空间选项，并针对 YouTube 上传、音频布局、长时渲染及内存占用进行了优化。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://aescripts.com/media/catalog/product/r/e/rendu8_1.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2015 – CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-326364348"
+    },
+    {
+      "name": "插件百度网盘",
+      "url": "https://pan.baidu.com/s/1qQYy8tEshxhDwu3DWI112A"
+    },
+    {
+      "name": "教程城通网盘",
+      "url": "https://www.pipipan.com/fs/680462-221741711"
+    },
+    {
+      "name": "教程百度网盘",
+      "url": "https://pan.baidu.com/s/1c2nhMI8"
+    }
+  ],
+  "other": {
+    "official_site": "http://aescripts.com/aftercodecs/",
+    "changelog": [
+      "使用 ffkroma 4.1-84 替代 ffmpeg",
+      "修复 ProRes 色彩转换",
+      "新增 H264/H265 8/10 bpc、电视/全范围、YUV 子采样选择",
+      "YouTube 预设默认 AAC 音频",
+      "Premiere/AME 新增多轨单声道/立体声布局",
+      "AE Alpha 通道解释与遮罩颜色保存",
+      "新增渲染完成后自动打开目标目录选项",
+      "修复 Hap 编解码器崩溃与长时渲染内存优化"
+    ]
+  }
+}

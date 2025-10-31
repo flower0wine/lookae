@@ -1,0 +1,92 @@
+{
+  "title": "AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.0.0 Win/Mac中文汉化版+中文使用教程",
+  "slug": "aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v1-0-0-win-maczhong-wen-yi-hua-ban-zhong-wen-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/10/13 14:32",
+  "source_url": "https://www.lookae.com/lockdown/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "WIN",
+    "中文汉化"
+  ],
+  "content": "一款超级强大的AE插件，Lockdown是一款革命性的新插件，可以直跟踪运动物体扭曲不平的表面，非常适合进行美容修饰和其他先前困难的物体移除清理工作, 或者其他跟踪合成特效制作。感谢秋枫提供中文汉化版插件。\n\nLockdown is a revolutionary new plug-in that allows you to track warping surfaces inside After Effects. Perfect for beauty retouching and other previously difficult cleanup jobs!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01VXFFdD1vSMggMqE6H_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/238517900336.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "英文插件下载",
+      "url": "https://tc5.us/file/680462-402525339"
+    },
+    {
+      "name": "英文插件下载",
+      "url": "https://pan.baidu.com/s/1NLqIkREl1Y6HSpJ1KE0vIw"
+    },
+    {
+      "name": "中文插件下载",
+      "url": "https://tc5.us/file/680462-402643856"
+    },
+    {
+      "name": "中文插件下载",
+      "url": "https://pan.baidu.com/s/1ZFNmBwXW7SpxPToaa0iCYw"
+    },
+    {
+      "name": "英文视频教程",
+      "url": "https://tc5.us/file/680462-402524782"
+    },
+    {
+      "name": "英文视频教程",
+      "url": "https://pan.baidu.com/s/1ziayuRTOWWrlxu9HAsDzgQ"
+    },
+    {
+      "name": "中文字幕教程",
+      "url": "https://tc5.us/file/680462-403009657"
+    },
+    {
+      "name": "中文字幕教程",
+      "url": "https://pan.baidu.com/s/1VIpX0gl6zw2GL4iBy5YX-w&shfl=sharepset"
+    },
+    {
+      "name": "Mac版插件下载 (v1.2.2)",
+      "url": "https://tc5.us/file/680462-416965664"
+    },
+    {
+      "name": "Mac版插件下载 (v1.2.2)",
+      "url": "https://pan.baidu.com/s/14RB7q3Af_AoIhh77lmesHQ"
+    },
+    {
+      "name": "Win版插件下载 (v1.2.2)",
+      "url": "https://tc5.us/file/680462-415848552"
+    },
+    {
+      "name": "Win版插件下载 (v1.2.2)",
+      "url": "https://pan.baidu.com/s/1BdadIO-pkMwMrtlg_NDg5Q"
+    }
+  ],
+  "other": {
+    "official_link": "https://aescripts.com/lockdown/",
+    "installation_instructions": [
+      "复制Lockdown.aex到AE安装目录，如：…\\Adobe After Effects CC 2019\\Support Files\\Plug-ins\\",
+      "复制LockdownScript.jsxbin 到AE安装目录，如：…\\Adobe After Effects CC 2019\\Support Files\\Scripts\\Script UI Panels\\",
+      "打开AE软件使用插件，点击Register输入序列号注册。"
+    ],
+    "credits": {
+      "chinese_translation_by": "秋枫",
+      "tutorial_subtitle_by": "月离"
+    },
+    "additional_downloads": {
+      "version": "v1.2.2",
+      "platforms": [
+        "Mac",
+        "Win"
+      ]
+    }
+  }
+}

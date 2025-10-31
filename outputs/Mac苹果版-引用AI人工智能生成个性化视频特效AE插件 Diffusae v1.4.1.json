@@ -1,0 +1,48 @@
+{
+  "title": "Mac苹果版-引用AI人工智能生成个性化视频特效AE插件 Diffusae v1.4.1",
+  "slug": "macping-guo-ban-yin-yong-airen-gong-zhi-neng-sheng-cheng-ge-xing-hua-shi-pin-te-xiao-aecha-jian-diffusae-v1-4-1",
+  "author": "大众脸",
+  "post_date": "2024/09/03 12:13",
+  "source_url": "https://www.lookae.com/mac-diffusae/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Mac苹果版",
+    "人工智能",
+    "视频特效"
+  ],
+  "content": "Diffusae是一个将Stable Diffusion的强大功能引入After Effects的插件，允许用户直接在After Effects中探索和互动生成式AI。该插件提供简化的开源软件安装与运行流程，支持本地运行，且对生成图像数量无限制，无需支付使用费或订阅费用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Diffusae.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/410427474753.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1351884005-6b894e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ts2jgM7xQA39lBNoEkW9lA?pwd=cea6"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/S6AZ2iCt287"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复了使用负面提示时的错误消息",
+      "修复了在 Windows 上启用/禁用“使用 GPU”时的错误消息",
+      "修复了 AE 因提示太长而崩溃的问题",
+      "修复了 GTX 1650/1650 Ti 的黑色输出",
+      "各种错误修复和性能改进"
+    ],
+    "related_link": "https://www.lookae.com/diffusae-132/"
+  }
+}

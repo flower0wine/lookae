@@ -1,0 +1,63 @@
+{
+  "title": "12组索尼Sony摄像机专用视频调色LUTs预设（AE/PR/FCPX/PS/达芬奇/OFX）",
+  "slug": "12zu-suo-ni-sonyshe-xiang-ji-zhuan-yong-shi-pin-diao-se-lutsyu-she-ae-pr-fcpx-ps-da-fen-qi-ofx",
+  "author": "大众脸",
+  "post_date": "2019/05/24 21:53",
+  "source_url": "https://www.lookae.com/sony-lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "多软件支持",
+    "调色预设"
+  ],
+  "content": "这套预设共包含12个专为索尼Sony摄像机设计的视频调色LUTs，采用.CUBE格式，适用于各类后期图像处理软件，适用于电影、旅行、婚礼、生活、房地产、企业宣传等多种影片类型。预设完美适配cine4模式，能快速实现富有创意的胶片质感色彩，简化调色流程，提升画面表现力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Sony-LUT.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2019, Adobe After Effects CS6-CC 2019, Adobe Photoshop CS6-CC 2019, Final Cut Pro 7/X, DaVinci Resolve (Full & Lite), Avid MC 7, Sony Vegas, Edius, Motion 4/5 等",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375658103"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1f8ruzK-SJhtL307QYgrfrQ"
+    }
+  ],
+  "other": {
+    "compatible_cameras": [
+      "Sony A7III",
+      "A7RIII",
+      "A7II",
+      "A7RII",
+      "A7sII",
+      "A7s",
+      "a6500",
+      "a6300"
+    ],
+    "lut_format": ".CUBE",
+    "baidu_netdisk_code": "whhg",
+    "fcpx_plugin_recommendation": "LUT Gallery (https://www.lookae.com/lut-gallery/)",
+    "lut_usage_tips": {
+      "Premiere_Pro": "视频特效 – Lumetri",
+      "Photoshop": "Image → Adjustments → Color Lookup",
+      "After_Effects": "Effects → Utility → Apply Color LUT",
+      "Vegas_Pro": "需安装 LUTS 插件 (https://www.lookae.com/ofxlut/)",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final_Cut_Pro_X": "需使用 FCPX LUT Loader (https://www.lookae.com/lut-loader-15s/)",
+      "DaVinci_Resolve": "直接使用或导入",
+      "General": "Magic Bullet LUT Buddy 或 Looks 插件支持大部分软件"
+    },
+    "tutorial_download": "https://pan.baidu.com/s/1dEdBwA1",
+    "fcpx_color_tool": "https://www.lookae.com/fcpx-lut/"
+  }
+}

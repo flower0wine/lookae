@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-一键快速生成复杂图形路径生长特效动画 foxReveal v1.2 含使用教程",
+  "slug": "aejiao-ben-yi-jian-kuai-su-sheng-cheng-fu-za-tu-xing-lu-jing-sheng-chang-te-xiao-dong-hua-foxreveal-v1-2-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-08-27T10:54:00Z",
+  "source_url": "https://www.lookae.com/foxreveal-12/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "foxReveal 是一款专为 After Effects 设计的脚本，可一键快速生成复杂图形路径的生长特效动画。用户无需手动添加数百个关键帧，仅需两个简单关键帧即可控制路径的揭示过程，极大提升制作效率。该脚本支持从任意点开始揭示复杂路径结构，操作简便且效果流畅。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/foxReveal.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/531764403190.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8420364494-afb25d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1tk4ilH1Onfgj4qiiLWA65g?pwd=yfhk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/GWWdJLYVkSA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.2更新内容：速度增强并与 macOS Tahoe 26 和 Adobe After Effects 2025 兼容",
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "AE脚本"
+    ]
+  }
+}

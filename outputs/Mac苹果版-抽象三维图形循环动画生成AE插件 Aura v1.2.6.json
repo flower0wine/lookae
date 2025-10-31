@@ -1,0 +1,63 @@
+{
+  "title": "Mac苹果版-抽象三维图形循环动画生成AE插件 Aura v1.2.6",
+  "slug": "macping-guo-ban-chou-xiang-san-wei-tu-xing-xun-huan-dong-hua-sheng-cheng-aecha-jian-aura-v1-2-6",
+  "author": "大众脸",
+  "post_date": "2025-01-08",
+  "source_url": "https://www.lookae.com/mac-aura-126/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "MAC版插件"
+  ],
+  "content": "Aura 是一款 After Effects 程序型插件，可在 3D 空间生成优雅的几何波形动画。它类似粒子系统，但以矢量波形方式呈现，随时间演化出高频波浪，轻松渲染数十万级波形，带来极具视觉冲击的循环动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/Aura.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/503167559687.mp4"
+  ],
+  "supported_versions": "CC 2017 – 2024",
+  "supported_os": "macOS",
+  "download_links": [
+    {
+      "name": "Mac-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1444960307-dc9a08?p=4431"
+    },
+    {
+      "name": "Mac-百度网盘",
+      "url": "https://pan.baidu.com/s/1yHNAxIU_M3u9HAF_2QGcTQ?pwd=eqht"
+    },
+    {
+      "name": "Mac-阿里云盘",
+      "url": "https://www.alipan.com/s/weaxSmjBFRQ"
+    }
+  ],
+  "other": {
+    "win_download_links": [
+      {
+        "name": "Win-城通网盘",
+        "url": "https://url70.ctfile.com/f/2827370-1320371041-b74a6e?p=4431"
+      },
+      {
+        "name": "Win-百度网盘",
+        "url": "https://pan.baidu.com/s/1Fx1gR9yAxkHdT8pzGtTZpA?pwd=awh5"
+      },
+      {
+        "name": "Win-阿里云盘",
+        "url": "https://www.alipan.com/s/XNULQpPkJYV"
+      }
+    ],
+    "tutorial_links": [
+      {
+        "name": "教程-城通网盘",
+        "url": "https://lookae.ctfile.com/fs/680462-383547035"
+      },
+      {
+        "name": "教程-百度网盘",
+        "url": "https://pan.baidu.com/s/17xBymW8qBFmMaiuKaErWbA"
+      }
+    ],
+    "update_log": "v1.2.6 修复缓存问题及若干小错误"
+  }
+}

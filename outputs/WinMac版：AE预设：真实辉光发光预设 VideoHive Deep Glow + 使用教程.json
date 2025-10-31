@@ -1,0 +1,36 @@
+{
+  "title": "Win/Mac版：AE预设：真实辉光发光预设 VideoHive Deep Glow + 使用教程",
+  "slug": "win-macban-aeyu-she-zhen-shi-hui-guang-fa-guang-yu-she-videohive-deep-glow-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-11-03T11:23:00Z",
+  "source_url": "https://www.lookae.com/deep-glow/",
+  "category": "aechajian",
+  "tags": [
+    "AE预设"
+  ],
+  "content": "Deep Glow 是一款专为 Adobe After Effects 设计的高质量发光预设，效果比 AE 自带 Glow 插件更真实自然。支持 Windows 和 Mac 系统，适用于 After Effects 全系列版本。安装方式简单，只需将 Deep Glow.ffx 文件复制到 After Effects 的预设目录即可使用。建议在 32bpc 线性工作流下获得最佳效果，适合追求专业级发光视觉效果的用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/Deep-Glow.jpg"
+  ],
+  "video_urls": [
+    "https://0.s3.envato.com/h264-video-previews/504120fe-0498-4dda-ba38-ba0f4d6c7d4c/851631.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects 全系列（支持 Win/Mac）",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE预设：真实辉光发光预设 VideoHive Deep Glow + 使用教程",
+      "url": "http://page62.400gb.com/file/128901074"
+    }
+  ],
+  "other": {
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e9%a2%84%e8%ae%be/"
+    ],
+    "demo_video": "https://0.s3.envato.com/h264-video-previews/504120fe-0498-4dda-ba38-ba0f4d6c7d4c/851631.mp4?_=1"
+  }
+}

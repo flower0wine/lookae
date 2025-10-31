@@ -1,0 +1,62 @@
+{
+  "title": "【一键安装版】AE插件：E3D v2.2 三维模型插件 VC Element 3D v2.2.0.2100",
+  "slug": "yi-jian-an-zhuang-ban-aecha-jian-e3d-v2-2-san-wei-mo-xing-cha-jian-vc-element-3d-v2-2-0-2100",
+  "author": "大众脸",
+  "post_date": "2015/06/22 12:24",
+  "source_url": "https://www.lookae.com/e3d22ce/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Video Copilot"
+  ],
+  "content": "Video Copilot 强大的 AE 三维模型插件 E3D V2.2 终于推出完美版。该插件支持在 Windows 系统下 Adobe After Effects CS5 至 CC 2015 版本，但不再支持 32 位系统及 CS4 及以下版本。新版本带来了多项功能增强，包括直接加载 C4D 材质和贴图、全新 UI 界面、多视图支持、三维模型快速创建、模型复制、多选移动、独立显示灯光/反射/阴影等。此外，还提供了丰富的材质与变形工具，如动态反射贴图、三维噪声与变形（弯曲、扭曲、锥度）、细分表面散射材质、新导角工具等。官方售价为 $199.95（约合人民币 1230 元），建议有条件用户支持正版。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/E3D22.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2014, CC 2015",
+  "supported_os": "Windows（不支持 32 位系统）",
+  "download_links": [
+    {
+      "name": "【一键安装版】E3D v2.2",
+      "url": "https://www.400gb.com/file/101454011"
+    },
+    {
+      "name": "手动版 - Windows（城通网盘）",
+      "url": "https://www.400gb.com/file/100727594"
+    },
+    {
+      "name": "手动版 - Windows（百度云）",
+      "url": "https://pan.baidu.com/s/1jGDyNsE"
+    },
+    {
+      "name": "Mac OSX 版本",
+      "url": "https://www.lookae.com/mace3d22/"
+    },
+    {
+      "name": "E3D V2 模型/材质/贴图/灯光包（Mac/Win）",
+      "url": "https://www.lookae.com/e3dv2mx/"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.videocopilot.net/products/element2/",
+    "installation_notes": "安装时需以管理员身份运行；若已有正版授权，请勿覆盖安装破解版，以免损坏授权。如遇授权问题，可删除 C:\\programdata\\videocopilot（Vista/Win7）或 %AppData%\\videocopilot（XP）文件夹后重装。",
+    "common_issues": [
+      {
+        "issue": "AE报错：could not be loaded (126)",
+        "possible_causes": "插件损坏、依赖的 DLL 文件缺失、不兼容处理器或多线程环境",
+        "solution": "彻底卸载旧版后重新安装最新版本"
+      },
+      {
+        "issue": "程序崩溃",
+        "possible_causes": "显卡不兼容或驱动过旧",
+        "solution": "更新显卡驱动，参考 VideoCopilot 官方论坛或 Google 解决方案"
+      }
+    ],
+    "support_links": {
+      "taobao_store": "https://lookae.taobao.com/",
+      "sponsor_page": "https://www.lookae.com/sponsor/"
+    },
+    "credits": "Credits to MrStock and donors and spider853."
+  }
+}

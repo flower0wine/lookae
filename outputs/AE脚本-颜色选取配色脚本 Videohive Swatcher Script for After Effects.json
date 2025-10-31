@@ -1,0 +1,50 @@
+{
+  "title": "AE脚本-颜色选取配色脚本 Videohive Swatcher Script for After Effects",
+  "slug": "aejiao-ben-yan-se-xuan-qu-pei-se-jiao-ben-videohive-swatcher-script-for-after-effects",
+  "author": "大众脸",
+  "post_date": "2014/09/10 23:05",
+  "source_url": "https://www.lookae.com/swatcher/",
+  "category": "aescripts",
+  "tags": [
+    "AEjiaoc",
+    "AE脚本",
+    "VideoHive"
+  ],
+  "content": "Videohive 网站上分享的一款颜色选取配色脚本，可以在 Dribbble、Colourlovers、Kuler 等网站选取搭配好的颜色，也可以在调色板中设置自己的配色样本。脚本使用方便，配色简单快捷，符合色彩心理学，使画面更加美观。Swatcher 支持从多种服务加载调色板，并可从 .ase 或 .aco 文件导入调色板。内置 Colorizer 功能，可一键替换选定图层（如纯色层、文字层、形状层）中的颜色，支持对形状层中的填充和描边进行色彩控制，并可将所有颜色绑定到动态主调色板，便于统一管理与调整。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Swatcher-Script.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Mac OS X（部分功能如 kuler.adobe.com 仅支持 Mac OS X）",
+  "download_links": [
+    {
+      "name": "Videohive Swatcher Script for Adobe After Effects",
+      "url": "https://www.400gb.com/file/72972824"
+    }
+  ],
+  "other": {
+    "official_product_url": "http://videohive.net/item/swatcher-script-for-adobe-after-effects/5238472",
+    "supported_palette_sources": [
+      "dribble.com",
+      "colourlovers.com",
+      "colorcombos.com",
+      "design-seeds.com",
+      "kuler.adobe.com"
+    ],
+    "file_formats_supported": [
+      ".ase",
+      ".aco"
+    ],
+    "features": [
+      "从在线服务加载调色板",
+      "从文件导入调色板",
+      "编辑调色板（亮度控制、删除、排序）",
+      "创建动态主调色板并绑定所有颜色",
+      "一键用新调色板替换当前合成中的所有颜色",
+      "管理个人调色板库（Swatch Library）",
+      "Colorizer 功能：动态更改选定图层的颜色（支持文字层、带渐变或填充效果的纯色层、形状层等）"
+    ],
+    "notes": "脚本内包含使用教程和序列号，可完美使用，无功能限制。"
+  }
+}

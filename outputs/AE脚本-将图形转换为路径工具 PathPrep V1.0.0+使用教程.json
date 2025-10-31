@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-将图形转换为路径工具 PathPrep V1.0.0+使用教程",
+  "slug": "aejiao-ben-jiang-tu-xing-zhuan-huan-wei-lu-jing-gong-ju-pathprep-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-07-10",
+  "source_url": "https://www.lookae.com/pathprep/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "PathPrep是一款可停靠的AE脚本，能够简化您的形状图层工作流程。只需点击几下，即可将参数形状转换为贝塞尔路径、烘焙变换、选择所有路径以及复制干净的矢量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/PathPrep.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1524966688-ac7922?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12XHiHtxmu7MnZW_H8azgvg?pwd=7x5d"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/bfGXKBKyvkY"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "7x5d",
+    "features": [
+      "将多个参数形状转换为可编辑的贝塞尔路径",
+      "应用变换 - 将锚点、位置、缩放和旋转烘焙到贝塞尔路径中",
+      "一次选择所有路径属性",
+      "将路径复制到剪贴板"
+    ]
+  }
+}

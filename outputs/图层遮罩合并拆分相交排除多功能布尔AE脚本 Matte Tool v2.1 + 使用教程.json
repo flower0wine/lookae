@@ -1,0 +1,55 @@
+{
+  "title": "图层遮罩合并拆分相交排除多功能布尔AE脚本 Matte Tool v2.1 + 使用教程",
+  "slug": "tu-ceng-zhe-zhao-he-bing-chai-fen-xiang-jiao-pai-chu-duo-gong-neng-bu-er-aejiao-ben-matte-tool-v2-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/01/19 20:38",
+  "source_url": "https://www.lookae.com/matte-tool-21/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层遮罩",
+    "布尔工具"
+  ],
+  "content": "Matte Tool v2.1 是一款专为 After Effects 设计的多功能布尔遮罩处理脚本，提供约18种工具，帮助用户更高效地管理图层与遮罩。通过直观的界面，可轻松实现遮罩的合并、减去、相交、排除等操作，显著简化复杂遮罩逻辑的创建过程。适用于需要频繁进行遮罩运算的动画师与合成师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Matte-Tool.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/336858094062.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-769045304-c38040?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17EdefRpUr46QxiedvDe9aA?pwd=3swn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/X3QqykBEFeF"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新工具：合并形状图层、爆炸形状层、爆炸文字层、爆炸Ai层",
+      "新用户界面，响应式设计",
+      "修复了很多错误",
+      "普及化优化",
+      "其他小调整"
+    ],
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)"
+    ],
+    "tags_links": [
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)",
+      "[图层遮罩](https://www.lookae.com/tag/%e5%9b%be%e5%b1%82%e9%81%ae%e7%bd%a9/)",
+      "[布尔工具](https://www.lookae.com/tag/%e5%b8%83%e5%b0%94%e5%b7%a5%e5%85%b7/)"
+    ],
+    "description": "提供约18种工具，可让您更轻松地在 After Effects 中使用遮罩和图层。Matte遮罩的不同模式常常令人困惑。使用带有清晰图标的此工具，您可以应用所需的遮罩而无需任何特殊的复杂性。遮罩工具消除了在图层之间创建和组合遮罩的混乱，并使您更容易使用Matte。在易于使用的界面中合并、减去、相交和排除遮罩。相互减去一个图层。➤ 合并 ➤ 减去 ➤ 相交 ➤ 排除。A group of 18 tools that make it easier to work with layers in After Effects. Includes very useful and practical tools。"
+  }
+}

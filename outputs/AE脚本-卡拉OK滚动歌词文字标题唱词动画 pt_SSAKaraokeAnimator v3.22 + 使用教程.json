@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-卡拉OK滚动歌词文字标题唱词动画 pt_SSAKaraokeAnimator v3.22 + 使用教程",
+  "slug": "aejiao-ben-qia-la-okgun-dong-ge-ci-wen-zi-biao-ti-chang-ci-dong-hua-pt-ssakaraokeanimator-v3-22-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/06 22:14",
+  "source_url": "https://www.lookae.com/ssakaraokeanimator/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可直接导入 .ssa、.ass、.kfn 等卡拉OK字幕格式文件，并自动生成文字层与标题动画。支持两种动画系统：快速基础动画系统（如划像、淡入淡出、颜色变化）和 AE 内置动画预设系统，用于创建复杂自定义动画。支持预览功能，可在导入前测试不同设置。还提供弹跳球效果及字幕转为文本爬行等选项。适用于 Windows 和 Mac 平台，兼容 AE CC 2018 至 CS4 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/SSAKaraokeAnimator.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372837431"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1QpTeCLurD9M5fSHG4K4GSg"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "article_url": "https://www.lookae.com/ssakaraokeanimator/",
+    "demo_link": "https://aescripts.com/pt_sskaraokeanimator/",
+    "download_password": "3aby",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

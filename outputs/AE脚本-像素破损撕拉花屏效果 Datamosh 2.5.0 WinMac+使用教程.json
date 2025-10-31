@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-像素破损撕拉花屏效果 Datamosh 2.5.0 Win/Mac+使用教程",
+  "slug": "aejiao-ben-xiang-su-po-sun-si-la-hua-ping-xiao-guo-datamosh-2-5-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-08-25T11:33:00Z",
+  "source_url": "https://www.lookae.com/datamosh-250/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Datamosh 2",
+    "花屏效果"
+  ],
+  "content": "Datamosh 2是After Effects故障处理的最新版本，支持60多种moshing算法、16倍精度提升，并引入了全新的Mosh地图功能。用户可通过灰度图层控制破坏强度区域，实现帧删除、动作劫持与替换等创意效果。该版本全面重写了UI与引擎，显著提升处理速度，自动加载输出模板，无需手动安装，且修复了以往常见的启动与处理错误。适用于AE 2024 至 CC 2019 多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/04/Datamosh-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/404463793049.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1345301188-cc4301?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jYB8UV2jz0sKN9sDRzkBtQ?pwd=h3t4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/tteQnmX6SBH"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "完全重写 Datamosh 2 UI 和 moshing 引擎",
+      "更快的 moshing 时间",
+      "启动时自动获取输出模板，不再出现“选定的输出不存在”错误。",
+      "与 Datamosh 捆绑的可执行文件，无需手动安装。",
+      "添加了更详细的日志记录",
+      "不再有“启动错误”或“moshing 错误”",
+      "让项目为激动人心的新功能做好准备。"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "Datamosh 2",
+      "花屏效果"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

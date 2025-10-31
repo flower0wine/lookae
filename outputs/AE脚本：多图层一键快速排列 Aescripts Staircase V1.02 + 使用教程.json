@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本：多图层一键快速排列 Aescripts Staircase V1.02 + 使用教程",
+  "slug": "aejiao-ben-duo-tu-ceng-yi-jian-kuai-su-pai-lie-aescripts-staircase-v1-02-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/08/03 21:49",
+  "source_url": "https://www.lookae.com/staircase102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本Staircase可以将AE的多个图层快速排列，可设置交错或按照顺序排列，随机排列等。Staircase是一个After Effects工具，允许您快速交错、排序和随机化图层块。通过块大小或标签颜色将图层分成不同的块。悬停在UI上会突出显示选定的标签。可以单独偏移图层，或控制块内和块外。Staircase还具有一些很好的附加功能，如基于位置的交错、为每个块添加缓动以及在块之间淡入淡出。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/Staircase.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50172702035.mp4"
+  ],
+  "supported_versions": "AE CC 2014 – CC 2018",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-301598499"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1dts3AzXkYKmVwgtnB0gIVQ"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-295272918"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1dYankzcaUukmaDVdlJ5AHg"
+      }
+    ],
+    "official_website": "https://aescripts.com/staircase/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_guide": "在AE软件中点击 Window（窗口菜单）即可找到脚本"
+  }
+}

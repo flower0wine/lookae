@@ -1,0 +1,126 @@
+{
+  "title": "300组LUTs电影大片风格调色预设 Triune Digital: Cinematic LUTs",
+  "slug": "300zu-lutsdian-ying-da-pian-feng-ge-diao-se-yu-she-triune-digital-cinematic-luts",
+  "author": "大众脸",
+  "post_date": "2016-08-25T13:05:00Z",
+  "source_url": "https://www.lookae.com/cinematic-luts/",
+  "category": "aechajian",
+  "tags": [
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "Triune Digital: Cinematic LUTs 提供超过300种电影风格调色预设，支持 .3dl、.cube 和 .look 格式。适用于多种后期软件，可快速实现电影胶片质感色彩。包含35种电影灵感预设、3种数字黑白预设、以及55种实用型预设，并为不同摄像机格式（如 Alexa、REDLog、Standard LOG、.rec709）提供适配版本。通过使用LUT可高效提升画面质感，便于进一步微调。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Cinematic-LUTs.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf",
+    "https://pan.baidu.com/s/1dEdBwA1"
+  ],
+  "supported_versions": "DaVinci Resolve (Full & Lite), Adobe Speedgrade, Adobe Premiere CS6-CC 2016, Adobe After Effects CS6-CC 2016, Adobe Photoshop CS6-CC 2016, Final Cut Pro X, Final Cut Pro 7, Avid MC 7, Shake, Sony Vegas, Edius, Pandora Revolution/Pixi, CineForm Studio Premium, Nuke, SCRATCH, Film Master, Quantel Pablo, BaseLight, Motion 5/4",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/ucz155650129"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1crAfcq"
+    }
+  ],
+  "other": {
+    "related_recommendations": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      },
+      {
+        "title": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "title": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      },
+      {
+        "title": "上万种LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ],
+    "lut_list": [
+      "300",
+      "3h10 to Yuma",
+      "Alien",
+      "Batman vs Superman",
+      "Breaking Bad",
+      "Captain America Civil War",
+      "Casino Royale 1 (black and white)",
+      "Casino Royale 2 (black and white)",
+      "Drive",
+      "Game of Thrones",
+      "Gone Girl",
+      "Gravity",
+      "Guardians of the Galaxy",
+      "Harry Potter",
+      "House of Cards",
+      "Indiana Jones",
+      "Inglourious Basterds",
+      "Interstellar",
+      "Mad Max Fury Road",
+      "Minority Report",
+      "Mission Impossible",
+      "Noir (black and white)",
+      "Noir 2 (black and white)",
+      "Noir 3 (black and white)",
+      "Prometheus",
+      "Saving Private Ryan",
+      "Skyfall",
+      "Star Wars The Force Awakens",
+      "Suicide Squad",
+      "The Book of Eli",
+      "The Conjuring",
+      "The Grand Budapest Hotel",
+      "The Lord of the Rings",
+      "The Matrix",
+      "The Revenant",
+      "The Ring",
+      "The Walking Dead",
+      "Tron",
+      "Plus 55 Utility LUTs"
+    ],
+    "usage_tutorials": [
+      {
+        "title": "在线观看视频使用教程",
+        "url": "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+      },
+      {
+        "title": "高清教程视频文件下载",
+        "url": "https://pan.baidu.com/s/1dEdBwA1"
+      }
+    ],
+    "additional_tools": [
+      {
+        "name": "Magic Bullet LUT Buddy",
+        "url": "https://www.redgiant.com/downloads/free-products/",
+        "notes": "适用于大部分软件"
+      },
+      {
+        "name": "FCPX软件 LUT 实用颜色工具",
+        "url": "https://www.lookae.com/fcpx-lut/",
+        "notes": "FCPX可用"
+      }
+    ],
+    "note": "只要软件能安装 Looks 新版的调色插件，就能使用 Looks 导入 LUT 使用"
+  }
+}

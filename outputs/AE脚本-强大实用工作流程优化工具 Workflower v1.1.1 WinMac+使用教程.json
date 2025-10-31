@@ -1,0 +1,66 @@
+{
+  "title": "AE脚本-强大实用工作流程优化工具 Workflower v1.1.1 Win/Mac+使用教程",
+  "slug": "aejiao-ben-qiang-da-shi-yong-gong-zuo-liu-cheng-you-hua-gong-ju-workflower-v1-1-1-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/04/18 11:18",
+  "source_url": "https://www.lookae.com/workflower-111/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Workflower",
+    "优化工具",
+    "工作流程"
+  ],
+  "content": "对凌乱的 After Effects 合成感到恼火？使用 Workflower 脚本，您可以在合成中创建图层组，并使用其他工作流程增强工具，例如将调整图层仅应用于选定图层、图层克隆或遮罩合并。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Workflower.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355133255678.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-570281703-1792a7"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1R-_q-LRTO1hWYXRfRYHPrQ?pwd=8eig"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/vRjfqVkRLAh"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520634784-41200a"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1dljmp0JE8CzG7VVmwubheg"
+    },
+    {
+      "name": "教程下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Ds7j7Eb4ciG"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_脚本": "8eig",
+      "百度网盘_教程": "x02h"
+    },
+    "update_notes": {
+      "added": [
+        "当您创建“链接调整图层”并且您选择的图层之一当前具有选定的效果时，这些效果现在将从图层中剪切并粘贴到“链接调整图层”。"
+      ],
+      "fixed": [
+        "修复了更新到新 AE 版本后出现的问题。Workflower 现在将正确通知您转到 Workflower 快捷方式面板以应用新版本的快捷方式。",
+        "如果您从早期版本更新到 v1.1，则“仅将组遮罩 FX 修剪遮罩合并到遮罩图层”的默认设置已错误地设置为“关闭”。现在将设置为“开”。",
+        "如果您在“ScriptUI Panels”文件夹（系统或用户文件夹）中有 Workflower 的重复文件，Workflower 现在会通知您删除该文件。（否则，脚本将不起作用。）"
+      ]
+    }
+  }
+}

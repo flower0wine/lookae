@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-液体飞溅MG动画生成工具 Splash v1.04 + 使用教程",
+  "slug": "aejiao-ben-ye-ti-fei-jian-mgdong-hua-sheng-cheng-gong-ju-splash-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/03/18 10:17",
+  "source_url": "https://www.lookae.com/splash-104/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Splash 是一款用于 After Effects 的液体飞溅 MG 动画生成工具，可在图层上创建程序生成的液体痕迹和斑点，并提供高度可定制的控制。用户只需选择一个移动图层、选择预设并点击启动按钮，即可快速生成效果。脚本通过随机性与种子架构实现丰富的变化，并提供生成器、粒子、物理和斑点四大模块，分别用于控制粒子生成方式、外观、外力影响及动态液体斑点效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Splash.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2022、2021、2020、CC 2019、CC 2018、CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本文件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556355937-a17126"
+    },
+    {
+      "name": "脚本文件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1jFjVwQ4HCyWO_2Y8FhFIUA?pwd=8trq"
+    },
+    {
+      "name": "脚本文件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/fn73q3MT1XQ"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://089u.com/file/680462-467517518"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13a70T16dqXW3p5ls65mcbg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_脚本": "8trq",
+      "百度网盘_教程": "tmsh"
+    },
+    "update_notes": "v1.0.4更新内容：添加了恢复默认 Splash 预设的设置"
+  }
+}

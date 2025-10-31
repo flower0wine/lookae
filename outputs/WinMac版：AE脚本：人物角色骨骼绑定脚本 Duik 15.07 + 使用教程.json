@@ -1,0 +1,49 @@
+{
+  "title": "Win/Mac版：AE脚本：人物角色骨骼绑定脚本 Duik 15.07 + 使用教程",
+  "slug": "win-macban-aejiao-ben-ren-wu-jiao-se-gu-ge-bang-ding-jiao-ben-duik-15-07-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-03-13T17:48:00Z",
+  "source_url": "https://www.lookae.com/duik1507/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Duik 是由 DuDuF 开发的动力学与动画工具，专为 Adobe After Effects 设计。该脚本支持 Windows 和 Mac 系统，提供反向运动学（IK）、骨骼变形器、自动骨骼绑定、动态效果及图形学功能，极大简化了角色动画的制作流程。新版 Duik 15.07 修复了已知错误，提升稳定性。其核心功能包括：自适应操控（自动识别角色结构）、骨骼与傀儡工具（实现局部控制与蒙皮设置）、高级动画控制器（如弹簧、延迟反弹、轮盘旋转等），并支持多语言界面，可切换为中文以提升使用体验。适用于创建人物行走、跑步等复杂动作动画。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2WgYJfVXXXXb4XXXXXXXXXXXX_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects (Win/Mac)",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win/Mac版：AE脚本：人物角色骨骼绑定脚本 Duik 15.07",
+      "url": "http://lookae.ctfile.com/fs/98E145657232"
+    },
+    {
+      "name": "脚本使用操作教程下载",
+      "url": "https://www.400gb.com/file/122991244"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/",
+      "https://www.lookae.com/tag/aescripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.indiegogo.com/projects/duik-15–2#/"
+    ],
+    "release_notes": "Duik 15.07：修复错误BUG",
+    "features": [
+      "反向运动学（IK）自动化",
+      "骨骼与傀儡工具",
+      "自适应操控（自动识别角色结构）",
+      "多种动画控制器（弹簧、延迟反弹、轮盘旋转等）",
+      "支持多语言（含中文）",
+      "可复制粘贴动画，便于复用"
+    ]
+  }
+}

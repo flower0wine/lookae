@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-引用AI人工智能生成个性化视频特效 Diffusae v1.4.1 Win",
+  "slug": "aecha-jian-yin-yong-airen-gong-zhi-neng-sheng-cheng-ge-xing-hua-shi-pin-te-xiao-diffusae-v1-4-1-win",
+  "author": "大众脸",
+  "post_date": "2023/10/20 11:16",
+  "source_url": "https://www.lookae.com/diffusae-132/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AI人工智能"
+  ],
+  "content": "Diffusae是一个将Stable Diffusion的强大功能引入After Effects的插件。直接在您最喜欢的应用程序中探索生成式AI并与之互动！Diffusae提供了一个简化的工作流程来在您的计算机上安装和运行开源软件。您可以在本地运行它，对生成的图像数量没有限制。\n\nDiffusae is a plugin that brings the power of Stable Diffusion to After Effects. Explore and interact with generative AI directly in your favorite application! No usage fees or monthly subscription plans. Diffusae provides a simplified workflow to install and run open-source software on your computer. You run it locally with no limitations on how many images can be generated.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Diffusae.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/410427474753.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-961505331-454d07?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hzB15tcVCUnbaexXH6pnBg?pwd=gq3m"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/GfW9ZB1djnS"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "修复了使用负面提示时的错误消息",
+      "修复了在 Windows 上启用/禁用“使用 GPU”时的错误消息",
+      "修复了 AE 因提示太长而崩溃的问题",
+      "修复了 GTX 1650/1650 Ti 的黑色输出",
+      "各种错误修复和性能改进"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "gq3m"
+    }
+  }
+}

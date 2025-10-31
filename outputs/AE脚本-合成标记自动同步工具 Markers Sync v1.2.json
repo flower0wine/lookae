@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-合成标记自动同步工具 Markers Sync v1.2",
+  "slug": "aejiao-ben-he-cheng-biao-ji-zi-dong-tong-bu-gong-ju-markers-sync-v1-2",
+  "author": "大众脸",
+  "post_date": "2022-04-19T10:28:00",
+  "source_url": "https://www.lookae.com/markers-sync-12/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Markers Sync",
+    "自动同步"
+  ],
+  "content": "脚本能够快速自动同步不同合成上的标记，使得标记自动对齐，支持多个层和时间重新映射支持。Sync markers across multiple comps。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Markers-Sync.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC 2022",
+  "supported_os": "Win/Mac, macOS 10.15 Catalina",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-571564086-0d5384"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/10bnK4IuT2yqyRNgDexD2yQ?pwd=1b4k"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/BXdER2LrfEk"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "1b4k"
+    },
+    "update_log": "1.2更新内容：更新以支持 macOS 10.15 Catalina"
+  }
+}

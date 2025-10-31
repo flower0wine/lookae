@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-导出json格式的Web动画工具 Bodymovin v5.7.12 Win/Mac",
+  "slug": "aejiao-ben-dao-chu-jsonge-shi-de-webdong-hua-gong-ju-bodymovin-v5-7-12-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/07/14 09:32",
+  "source_url": "https://www.lookae.com/bodymovin-5712/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款用于导出Web动画的After Effects扩展，动画可导出为.json文件，并使用插件附带的bodymovin.js播放器，能在svg、canvas和html上在浏览器中渲染动画，也可通过Lottie在iOS和Android上本地播放，还带有使用视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Bodymovin.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/stAuoK8oYcn"
+    },
+    {
+      "name": "城通网盘（脚本下载）",
+      "url": "https://089u.com/f/680462-502142646-60c2aa"
+    },
+    {
+      "name": "百度网盘（脚本下载）",
+      "url": "https://pan.baidu.com/s/1cbcvAiP6m_K2fD_6sJ7tkg"
+    },
+    {
+      "name": "城通网盘（使用教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-382843706"
+    },
+    {
+      "name": "百度网盘（使用教程）",
+      "url": "https://pan.baidu.com/s/1qGkQJb27DRqeeOMZ-73uKg"
+    }
+  ],
+  "other": {
+    "V5.7.10更新内容": [
+      "功能：添加了对蒙版笔划线帽和线连接的支持",
+      "修复：回调列表执行超出索引列表",
+      "修复：缺少TextExpressionSelectorPropFactor",
+      "功能：导出器改进"
+    ],
+    "城通网盘（脚本下载）访问密码": "6688",
+    "百度网盘（脚本下载）提取码": "0ex5",
+    "百度网盘（使用教程）提取码": "tm91"
+  }
+}

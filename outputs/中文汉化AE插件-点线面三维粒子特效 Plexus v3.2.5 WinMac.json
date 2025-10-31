@@ -1,0 +1,70 @@
+{
+  "title": "中文汉化AE插件-点线面三维粒子特效 Plexus v3.2.5 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-dian-xian-mian-san-wei-li-zi-te-xiao-plexus-v3-2-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/05/11 11:31",
+  "source_url": "https://www.lookae.com/plexus-325/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Plexus",
+    "中文汉化",
+    "粒子插件"
+  ],
+  "content": "强大的 Plexus 粒子插件众多功能，制作点线面三维粒子效果非常的方便，渲染速度快，支持3D模型导入。你可以将3D模型，存储为兼容性高的OBJ格式，导入AE可作为粒子发射器。你还可以借助路径，和文字以及灯光创建粒子发射，操作模式有违常规。同时直接提供多种自定义特效，分形，颜色，球形场和阴影……\n\nPlexus is a next-gen particle engine for After Effects that lets you create, manipulate and visualize data in a procedural manner. Not only you can render the particles, but also create all sorts of interesting relationships between them based on various parameters. The workflow for Plexus is very modular allowing you to create truly infinite set of configurations and parameters.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/341819600475.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014 – 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-578775667-c07cb2?p=4431"
+    },
+    {
+      "name": "Win版-百度网盘",
+      "url": "https://pan.baidu.com/s/1HNRRY8Q-ei-AmF6PdMriWg?pwd=hfck"
+    },
+    {
+      "name": "Win版-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/5HffnZ8HkG4"
+    },
+    {
+      "name": "Mac版-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-579096489-897212?p=4431"
+    },
+    {
+      "name": "Mac版-百度网盘",
+      "url": "https://pan.baidu.com/s/1y7wn4ymN_CfOwqRHZn1h6A?pwd=kpla"
+    },
+    {
+      "name": "Mac版-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/rNWCBqeE9mg"
+    }
+  ],
+  "other": {
+    "update_log": [
+      "与MFR多帧渲染相关的性能改进。",
+      "解决了Nvidia GPU上的MFR多帧渲染问题。",
+      "小错误修复。"
+    ],
+    "tutorials": [
+      {
+        "name": "使用教程-城通网盘",
+        "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+      },
+      {
+        "name": "使用教程-百度云网盘",
+        "url": "https://pan.baidu.com/s/1hsvzYvi"
+      }
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "hfck, kpla"
+    }
+  }
+}

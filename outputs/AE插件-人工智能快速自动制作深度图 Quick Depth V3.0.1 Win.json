@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-人工智能快速自动制作深度图 Quick Depth V3.0.1 Win",
+  "slug": "aecha-jian-ren-gong-zhi-neng-kuai-su-zi-dong-zhi-zuo-shen-du-tu-quick-depth-v3-0-1-win",
+  "author": "大众脸",
+  "post_date": "2025/03/19 10:06",
+  "source_url": "https://www.lookae.com/quick-depth-301/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "DOF深度图",
+    "Quick Depth",
+    "人工智能"
+  ],
+  "content": "Quick Depth 3 插件能够从任何素材中快速生成高质量的深度图。与 Quick Depth 2 相比，速度提高了2倍，质量也提高了，现在还具有时间一致性和质量提升功能！\n\n主要功能包括：速度与质量提升、时间一致性模式确保视频处理更平滑、通过图像块处理增强深度图精度、支持多平台运行、以及零点击简化工作流程。\n\n该插件适用于为场景快速添加景深效果，或从单张照片创建逼真的3D相机移动。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/Quick-Depth-v3.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/511176927174.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1472331562-96ce8a?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1DYZMa7EkjgYTqOE0THpHHQ?pwd=kqhp"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/7u3NqjD4Lwk"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "update_notes": "V3.0.1更新内容：修复AE上经常出现的“Something went wrong”错误，尤其是旧版AE。"
+  }
+}

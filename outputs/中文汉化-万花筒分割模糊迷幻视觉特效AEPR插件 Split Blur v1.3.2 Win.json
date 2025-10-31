@@ -1,0 +1,42 @@
+{
+  "title": "中文汉化-万花筒分割模糊迷幻视觉特效AE/PR插件 Split Blur v1.3.2 Win",
+  "slug": "zhong-wen-yi-hua-mo-hua-tong-fen-ge-mo-hu-mi-huan-shi-jue-te-xiao-ae-prcha-jian-split-blur-v1-3-2-win",
+  "author": "大众脸",
+  "post_date": "2024/08/03 10:27",
+  "source_url": "https://www.lookae.com/split-blur-132/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "万花筒效果",
+    "中文汉化"
+  ],
+  "content": "Split Blur 插件提供千变万化的模糊视觉效果，具有有机的绘画质感。该效果将图像分割为多个动态混合的副本，分割距离基于像素亮度自动计算，并支持多种调制方式。在较小模糊级别下呈现常规高斯模糊效果，随着参数变化逐渐演化为独特的万花筒式图像。适用于 After Effects 与 Premiere，支持多版本系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Split-Blur.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6; Premiere: 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1339355174-2a3770?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1tk_mKIWchgfNowrOR_KSfg?pwd=j1hh"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/82GXtDRoFAd"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "调整适当参数时图表会立即更新（仅在 After Effects 中）",
+      "After Effects SDK 2023 年 5 月"
+    ],
+    "additional_info": "插件支持在不同分辨率和图层上实现动态分割模糊，适合用于创意视频、广告及艺术视觉设计。"
+  }
+}

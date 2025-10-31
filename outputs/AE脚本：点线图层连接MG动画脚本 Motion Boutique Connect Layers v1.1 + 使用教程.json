@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本：点线图层连接MG动画脚本 Motion Boutique Connect Layers v1.1 + 使用教程",
+  "slug": "aejiao-ben-dian-xian-tu-ceng-lian-jie-mgdong-hua-jiao-ben-motion-boutique-connect-layers-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2015-08-12",
+  "source_url": "https://www.lookae.com/motion-boutique/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE模板",
+    "AE脚本",
+    "After Effects"
+  ],
+  "content": "Motion Boutique Connect Layers 是一款After Effects脚本，能够将选中的图层对象通过直线、曲线或三角形面进行连接。该脚本特别适用于制作MG动画效果，并且可以与Newton牛顿插件配合使用，创造出更多丰富的视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Motion-Boutique.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：点线图层连接MG动画脚本 Motion Boutique Connect Layers v1.1 + 使用教程",
+      "url": "https://www.400gb.com/file/112211015"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Panels",
+    "description": "Connects the selected layers with segments or triangles created with shape layers."
+  }
+}

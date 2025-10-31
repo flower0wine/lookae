@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-图层运动拖尾变形MG特效 Motion Reaction 2 V1.1+使用教程",
+  "slug": "aejiao-ben-tu-ceng-yun-dong-tuo-wei-bian-xing-mgte-xiao-motion-reaction-2-v1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-08-15T16:10:00Z",
+  "source_url": "https://www.lookae.com/motion-reaction-211/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG特效",
+    "Motion Reaction",
+    "拖尾特效"
+  ],
+  "content": "Motion Reaction 2 是一款强大的 AE 脚本，可为图层添加动态拖尾与变形特效，模拟流星般闪耀的运动轨迹。支持静态、移动物体及文本对象，提供14种核心动作类型，实现从简单前进到复杂变形的多样化视觉效果。新增水滴控制器，增强自定义能力。适用于 After Effects 2021 至 2025 版本，支持 Win/Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/05/Motion-Reaction-2-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/518129608809.mp4"
+  ],
+  "supported_versions": "After Effects 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8417486947-d2bcb3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1l48FoPCi4Lz39bHFLf_d6w?pwd=y2sd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/oYq41wgZ3xY"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.1 更新内容：兼容日语、法语和其他语言。",
+    "description": "让所有物体都像流星般闪耀，以惊心动魄的力度冲入璀璨的光芒之心。如同雷霆万钧的火箭般推动一切，让观众见证唯有真正的运动反应才能带来的全新维度的光辉。",
+    "features": [
+      "动态且用户友好的界面设计",
+      "动作可应用于静态、不动的物体，具有 7 种不同的前进动作",
+      "对于移动的物体，单一的运动可演变为 7 种不同的运动类型",
+      "支持将动作添加到文本中，创建独特视觉效果和特殊效果",
+      "增加水滴控制器，实现更多自定义和设置"
+    ]
+  }
+}

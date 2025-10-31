@@ -1,0 +1,32 @@
+{
+  "title": "更新：AE三维粒子插件：Rowbyte Plexus 2.0.10a（Win64位）支持CC 2014",
+  "slug": "geng-xin-aesan-wei-li-zi-cha-jian-rowbyte-plexus-2-0-10a-win64wei-zhi-chi-cc-2014",
+  "author": "大众脸",
+  "post_date": "2015/02/01 17:18",
+  "source_url": "https://www.lookae.com/plexus2010a/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "win64"
+  ],
+  "content": "Plexus 是由 aescripts 发布的 Adobe After Effects 3D 粒子插件，最新版本为 2.0.10a，已更新支持 After Effects CC 2014。该插件具备高速渲染能力，支持导入 3D 模型（如 OBJ 格式）作为粒子发射源，并可通过路径、文字和灯光创建粒子效果。其操作逻辑具有创新性，提供六种内置特效，包括分形、颜色、球形场与阴影等。插件适用于 Windows 64 位系统，兼容 AE CS5、CS5.5、CS6、CC 及 CC 2014。其核心功能涵盖模块化工作流、物理模拟效应对、深度景深、32 位渲染及自定义渲染顺序控制。新特性包括基于 3D 层和灯光的点数据获取、面片生成与控制、三角化几何重构、多渲染对象管理等。此外还支持随机精灵模式、改进的 OBJ 支持、3D 光束与样条线、实例与回声、时间-距离平滑以及直观的图形化界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Plexus-2.0.10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5, CS5.5, CS6, CC, CC 2014",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "AE三维粒子插件：Rowbyte Plexus 2.0.10a （Win64位）",
+      "url": "https://www.400gb.com/file/84149389"
+    }
+  ],
+  "other": {
+    "related_mac_version": "Mac版本：Plexus 2.02",
+    "related_mac_url": "http://www.ctdisk.com/file/10666082",
+    "tutorial_series": "AE新三维粒子 Plexus 2 教程全集（共14集）",
+    "tutorial_url": "https://www.lookae.com/plexus2-tutorial/",
+    "official_description": "http://aescripts.com/plexus/"
+  }
+}

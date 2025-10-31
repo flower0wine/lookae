@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本-视频画面人物冻结定格静帧视觉风格化介绍包装工具 Freeze Frame intro ToolKit V2 Win/Mac",
+  "slug": "aejiao-ben-shi-pin-hua-mian-ren-wu-dong-jie-ding-ge-jing-zheng-shi-jue-feng-ge-hua-jie-shao-bao-zhuang-gong-ju-freeze-frame-intro-toolkit-v2-win-mac",
+  "author": "大众脸",
+  "post_date": "2019/12/09 16:41",
+  "source_url": "https://www.lookae.com/freeze-frame-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款用于 After Effects 的脚本工具，可轻松完成视频画面中人物的冻结定格静帧效果。用户只需使用画笔工具圈选人物或场景区域，即可一键生成风格化的定格画面。脚本内置12种视觉设计模板，支持添加火焰、泼墨、视差、粒子等动态元素，适用于创意包装、片头介绍等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Freeze-Frame-intro-ToolKit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018 或更高（支持英文和中文版）",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-413016215"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YW1L89idUGMhmNe-W6lzPw"
+    }
+  ],
+  "other": {
+    "requires_plugins": false,
+    "includes_audio": false,
+    "file_size": "244M",
+    "has_installation_guide": true,
+    "tutorial": "官方英文视频使用教程",
+    "extension_included": "Freeze Frame"
+  }
+}

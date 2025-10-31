@@ -1,0 +1,40 @@
+{
+  "title": "AE插件： Aescripts BAO Plugins Bundle CE 插件套装 支持 CS6 – CC 2017",
+  "slug": "aecha-jian-aescripts-bao-plugins-bundle-ce-cha-jian-tao-zhuang-zhi-chi-cs6-cc-2017",
+  "author": "大众脸",
+  "post_date": "2017-05-23 13:42",
+  "source_url": "https://www.lookae.com/bao-plugins/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "After Effects"
+  ],
+  "content": "Aescripts BAO Plugins出品的一套AE插件，非常实用，做扭曲，遮罩控制，透视等效果。作者最初是传统动画师，后来转向Flash，再到After Effects。他开始为自己的短片开发工具，包括表达式、脚本和Pixel Bender。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/BAO-Plugins.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2017",
+  "supported_os": "Win 系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-203856126"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mip2tkc"
+    }
+  ],
+  "other": {
+    "plugins_list": [
+      "Boa v1.1.1 - 遮罩路径扭曲插件",
+      "Bones v1.4.6 - 骨骼IK联动插件",
+      "Mask 3D Warper v1.6.1 - 三维模型扭曲变形插件",
+      "Mask Avenger v2.7.1 - 遮罩顶点/切线控制插件",
+      "Mask Brush v1.9.8 - 路径遮罩笔刷动画插件",
+      "Perspective Changer v1.1 - 三维透视插件"
+    ],
+    "official_website": "http://aescripts.com/authors/a-b/bao-plugins/"
+  }
+}

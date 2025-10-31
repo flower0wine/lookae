@@ -1,0 +1,53 @@
+{
+  "title": "更新：红巨人调色插件合集 Red Giant Color Suite 11.0.5（Mac/Win）",
+  "slug": "geng-xin-hong-ju-ren-diao-se-cha-jian-he-ji-red-giant-color-suite-11-0-5-mac-win",
+  "author": "大众脸",
+  "post_date": "2014-03-21T15:00:00Z",
+  "source_url": "https://www.lookae.com/rgcs1105/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "Red Giant（红巨人）公司于2014年3月17日发布了Color Suite调色插件套装的11.0.5版本。该套装以操作简单快捷著称，深受后期制作人员欢迎。包含6款核心工具：Colorista II（调色师2）、Cosmo（润肤）、Denoiser II（降噪）、LUT Buddy（LUT颜色工具）、Magic Bullet Looks（多预设调色）、Mojo（快速调色）。支持Mac和Windows平台，涵盖32位与64位系统，兼容Adobe After Effects、Premiere Pro、Final Cut Pro X、Motion、Avid及Sony Vegas Pro等多个主流视频编辑软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/03/rgcs1105.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC, CS6, CS5, CS4, CS3; Adobe Premiere Pro CC, CS6, CS5; Apple Final Cut Pro X 7（部分支持）; Apple Motion 5, 4, 3（部分支持）; Avid 5.5, 6.0, 6.5+; Sony Vegas Pro 10, 11, 12+",
+  "supported_os": "Mac OS X, Windows (32位和64位)",
+  "download_links": [
+    {
+      "name": "MAC 版本",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Color/Archive/CSuite_Mac_Full_11.0.5.zip"
+    },
+    {
+      "name": "WIN 版本",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Color/Archive/CSuite_Win_Full_11.0.5.zip"
+    },
+    {
+      "name": "SN序列号",
+      "url": "https://www.400gb.com/file/60586110"
+    }
+  ],
+  "other": {
+    "original_post_date": "2014/03/21 15:00",
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/others/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/fcpx%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/red-giant/",
+      "https://www.lookae.com/tag/winmac/"
+    ],
+    "official_description_url": "http://www.redgiant.com/products/all/color-suite/"
+  }
+}

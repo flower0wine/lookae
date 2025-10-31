@@ -1,0 +1,34 @@
+{
+  "title": "AE脚本-快速清除时间轴中未使用的素材图层 Reduce Footage Layers v1.23",
+  "slug": "aejiao-ben-kuai-su-qing-chu-shi-jian-zhou-zhong-wei-shi-yong-de-su-cai-tu-ceng-reduce-footage-layers-v1-23",
+  "author": "大众脸",
+  "post_date": "2020-03-13",
+  "source_url": "https://www.lookae.com/reduce-footage/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "一键快速清除时间轴中未使用的素材图层，保留引导层、活动轨道遮罩、音频活动层/预压缩、具有文件源的活动层、活动合成及因0%不透明度而启用的不活动层，图层索引、父图层和表达式不会中断，实现无损清理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/03/Reduce-Footage-Layers.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/255310829194.mp4"
+  ],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-428835705"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1-tSaz5WalzTPFo38fIpulA"
+    }
+  ],
+  "other": {
+    "提取码": "08c9",
+    "官方页面": "https://aescripts.com/reduce-footage-layers/"
+  }
+}

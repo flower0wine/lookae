@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本：快速图层父子链接Aescripts Layer Sitter v1.2 + 视频教程",
+  "slug": "aejiao-ben-kuai-su-tu-ceng-fu-zi-lian-jie-aescripts-layer-sitter-v1-2-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/08/16 12:48",
+  "source_url": "https://www.lookae.com/layer-sitter/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可以在AE软件中快速链接多个图层的父子关系动作，还能设置链接条件，添加空物体层为主图层。官网地址为https://aescripts.com/layer-sitter/，适用于Win/Mac系统下的AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/08/Layer-Sitter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-303981783"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1V_sK0GqjNNHVDr5bZ9WTJw"
+    }
+  ],
+  "other": {
+    "使用教程下载": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-234752512"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1mjBaT08"
+      }
+    ],
+    "相关链接": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

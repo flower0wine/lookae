@@ -1,0 +1,62 @@
+{
+  "title": "Mac苹果版-路径遮罩笔刷动画AE插件 BAO Mask Brush v1.9.18",
+  "slug": "macping-guo-ban-lu-jing-zhe-zhao-bi-shua-dong-hua-aecha-jian-bao-mask-brush-v1-9-18",
+  "author": "大众脸",
+  "post_date": "2025-01-10T10:32:00Z",
+  "source_url": "https://www.lookae.com/bao-mask-brush-1918/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "BAO Mask Brush",
+    "MAC插件"
+  ],
+  "content": "BAO Mask Brush 是一款专为 After Effects 设计的路径遮罩笔刷动画插件，支持在三维空间中沿路径应用自定义笔刷，实现动态喷漆、形状动画及挤压拉伸等效果。插件支持运动模糊（每笔刷独立计算），可切换 2D/3D 模式，3D 模式下响应相机并支持顶点级 3D 控制。包含两个核心功能：Mask Brush（沿路径对齐笔刷并创建动态效果）和 Mask Brush Fill（填充路径画笔，生成动态视觉模式）。适用于 Mac 系统下的 AE 2025 至 CC 2018 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/01/Mask-Brush.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056322866.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Mac 苹果系统",
+  "download_links": [
+    {
+      "name": "城通网盘（插件）",
+      "url": "https://url70.ctfile.com/f/2827370-1445421539-bee3a1?p=4431"
+    },
+    {
+      "name": "百度网盘（插件）",
+      "url": "https://pan.baidu.com/s/1kxjMIIVoOljFT8g9FxXGqA?pwd=6h5p"
+    },
+    {
+      "name": "阿里云盘（插件）",
+      "url": "https://www.alipan.com/s/oqUnMrPQ6zx"
+    },
+    {
+      "name": "城通网盘（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-231210596"
+    },
+    {
+      "name": "百度网盘（教程）",
+      "url": "https://pan.baidu.com/s/1eSB47xK"
+    }
+  ],
+  "other": {
+    "update_notes": "1.9.18 更新内容：修复了 UI 问题。",
+    "related_links": [
+      "https://www.lookae.com/mask-brush-1917/"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "AE插件M1": "https://www.lookae.com/tag/aem1/",
+      "BAO Mask Brush": "https://www.lookae.com/tag/bao-mask-brush/",
+      "MAC插件": "https://www.lookae.com/tag/mac%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

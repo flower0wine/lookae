@@ -1,0 +1,50 @@
+{
+  "title": "中文汉化AE/PR插件-模拟真实老录像带信号故障毛刺干扰特效 Signal v1.1.0 Win",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-mo-ni-zhen-shi-lao-lu-xiang-dai-xin-hao-gu-zhang-mao-ci-gan-rao-te-xiao-signal-v1-1-0-win",
+  "author": "大众脸",
+  "post_date": "2021/03/23 10:18",
+  "source_url": "https://www.lookae.com/signal-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "Signal 插件可真实模拟老式录像带视频信号的故障毛刺效果。通过调制模拟视频信号对视频信息进行编码，并解码为彩色图像，实现高度真实的模拟视频艺术效果。该信号是亮度与色度的线性组合，不伪造模拟信号，而是在数字环境中重现模拟技术。适用于 After Effects 与 Premiere Pro 的多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Signal.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/300625251860.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017; PR 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-486606895-368720"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Lng2uF1K3hymRTC5DLrimg"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.1.0 更新内容：添加了对 Premiere Pro 的支持",
+    "passwords": {
+      "chengtong": "6688",
+      "baidu": "1jtm"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "PR插件": "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "中文汉化": "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/"
+    }
+  }
+}

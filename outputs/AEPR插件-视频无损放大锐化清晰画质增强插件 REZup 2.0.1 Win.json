@@ -1,0 +1,58 @@
+{
+  "title": "AE/PR插件-视频无损放大锐化清晰画质增强插件 REZup 2.0.1 Win",
+  "slug": "ae-prcha-jian-shi-pin-wu-sun-fang-da-rui-hua-qing-xi-hua-zhi-zeng-qiang-cha-jian-rezup-2-0-1-win",
+  "author": "大众脸",
+  "post_date": "2025-08-18",
+  "source_url": "https://www.lookae.com/rezup/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "无损放大",
+    "清晰插件",
+    "画质增强"
+  ],
+  "content": "REZup 插件用于升级视频内容，可提升图像质量并获得更高分辨率的视频，而不会影响细节或引入伪影。插件包含两个组件：REZup Enhance 用于智能画质增强，允许用户控制外观、锐度、细节和对比度；REZup Resize 用于无损放大，支持倍数缩放、处理半透明胶片和扩展动态范围，适用于将标清内容升级到4K、提升AI视频分辨率等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/08/REZup.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/530720910827.mp4"
+  ],
+  "supported_versions": "After Effects CC 2014-2025, Premiere Pro CC 2014-2025",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "插件-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8418047405-81397a?p=4431"
+    },
+    {
+      "name": "插件-百度网盘",
+      "url": "https://pan.baidu.com/s/1DsajJjxtH9zkMBFAcoPnYA?pwd=b6am"
+    },
+    {
+      "name": "插件-阿里云盘",
+      "url": "https://www.alipan.com/s/TrvvjsXnq5B"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8418053231-d600ff?p=4431"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1_obsaKG76FhdVi-VK9f3Dg?pwd=i9h4"
+    },
+    {
+      "name": "教程-阿里云盘",
+      "url": "https://www.alipan.com/s/bfwtTzbhn46"
+    }
+  ],
+  "other": {
+    "author_website": "LookAE.com",
+    "additional_categories": [
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

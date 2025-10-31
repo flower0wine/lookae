@@ -1,0 +1,53 @@
+{
+  "title": "中文汉化AE/PR插件-镜头快速模糊虚焦特效 Fast Camera Lens Blur v5.0.2 Mac/Win版",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-jing-tou-kuai-su-mo-hu-xu-jiao-te-xiao-fast-camera-lens-blur-v5-0-2-mac-winban",
+  "author": "大众脸",
+  "post_date": "2020-11-12 22:27",
+  "source_url": "https://www.lookae.com/fast-blur-502/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化",
+    "大众脸汉化"
+  ],
+  "content": "插件可以快速制作逼真的摄像机镜头模糊效果，渲染速度快！多种参数可控制。此外，它还可以渲染通常通过组合几层模糊来表示的辉光。插件支持4种类型的模糊：正六边形，正八边形，十二边形和16边形。Renders realistic camera lens blur just like the native “Camera Lens Blur” effect of Adobe After Effects but faster, way faster! In addition, it can also render glow that is generally expressed by combining several layers of blur.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Fast-Camera-Lens-Blur.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50213974004.mp4"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2020, Premiere Pro CS6 – CC 2020",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win中英文版-城通网盘",
+      "url": "https://089u.com/file/680462-470566792"
+    },
+    {
+      "name": "Win中英文版-百度网盘",
+      "url": "https://pan.baidu.com/s/1-tkGpjOlm9XlSLqGQ4l5RQ"
+    },
+    {
+      "name": "Mac仅英文版-城通网盘",
+      "url": "https://089u.com/file/680462-470825821"
+    },
+    {
+      "name": "Mac仅英文版-百度网盘",
+      "url": "https://pan.baidu.com/s/12rEvrbbzXP78dRfhiER4gA"
+    }
+  ],
+  "other": {
+    "baidu_extraction_codes": {
+      "win": "9bb3",
+      "mac": "z98i"
+    },
+    "update_content": [
+      "修复了以前视频根据参数中断的问题，新版本中已修复",
+      "性能更快，尤其是十二边形表现优异",
+      "新增16边形模糊类型",
+      "修复了在Ivy Bridge之前不适用于CPU的错误"
+    ]
+  }
+}

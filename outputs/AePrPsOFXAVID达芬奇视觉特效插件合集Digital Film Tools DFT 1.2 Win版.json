@@ -1,0 +1,59 @@
+{
+  "title": "Ae/Pr/Ps/OFX/AVID/达芬奇视觉特效插件合集Digital Film Tools DFT 1.2 Win版",
+  "slug": "ae-pr-ps-ofx-avid-da-fen-qi-shi-jue-te-xiao-cha-jian-he-ji-digital-film-tools-dft-1-2-winban",
+  "author": "大众脸",
+  "post_date": "2018-12-22T21:32:00Z",
+  "source_url": "https://www.lookae.com/dft-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "PS插件"
+  ],
+  "content": "Digital Film Tools DFT 1.2 是一套强大的视觉特效插件合集，支持 Adobe After Effects、Premiere Pro、Photoshop、Avid、DaVinci Resolve、Nuke、Vegas 等主流视频与图像处理软件。该插件包涵盖光学滤镜模拟、电影胶片风格、镜头光晕、色彩校正、键控抠像、合成特效及自然光照效果，总计超过125个滤镜和数千个预设。所有插件均支持一键安装并集成注册，无需额外配置。适用于 Windows 64 位系统，兼容从 CS5 到 CC 2019 的多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/09/DFT1.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50023112620.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CS5 – CC 2019, Adobe Premiere Pro CS5 – CC 2019, Adobe Photoshop CC – CC 2019 (64位), Photoshop Elements 13+, Lightroom 3+, Avid Editing Systems (64位), Assimilate Scratch v8+, Black Magic Resolve v11+, Sony Catalyst Edit 2015+, Nuke v8+, Vegas Pro v13+, OFX 系列软件",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-326860296"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/18hdeaGaWzIa9OJLXm3tWwQ"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.digitalfilmtools.com/dft/",
+    "translation_note": "中文介绍由LOOKAE大众脸独家翻译整理，请勿复制",
+    "shop_link": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "DaVinci Resolve",
+      "Nuke",
+      "OFX",
+      "Photoshop",
+      "Premiere",
+      "Vegas",
+      "其他资源",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "plugin_features": {
+      "general": "光学玻璃相机滤光镜、专业镜头、电影胶片、镜头光晕、光学实验室过程、纹理、色彩校正、自然光与摄影模拟",
+      "film_stocks": "329种黑白胶卷、电影胶片与复古摄影风格，89个颜色分级预置，68种风格化外观",
+      "lighting": "331个镜头光晕预设（变形、圆形、多边形、星形、树形、程式化等），193种照明效果，751个图案照明效果（抽象、门、元素、树叶、雪花、纹理等）",
+      "compositing": "火灾、爆炸、烟雾特效；遮罩操作（收缩、增长、模糊、包装）；边缘工具、颜色纠正、模糊复合",
+      "keying": "蓝绿屏抠像，支持任意颜色屏幕的 zMatte keyer，多蒙板操作，蒙板处理功能，高清/标清模式，复杂色彩校正，光照控制，边缘颜色校正或模糊，屏幕平滑处理"
+    }
+  }
+}

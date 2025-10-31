@@ -1,0 +1,51 @@
+{
+  "title": "Ae/Pr视觉特效+转场BCC插件包 2019 v12.0.2 Win/Mac",
+  "slug": "ae-prshi-jue-te-xiao-zhuan-chang-bcccha-jian-bao-2019-v12-0-2-win-mac",
+  "author": "大众脸",
+  "post_date": "2019/02/28 22:25",
+  "source_url": "https://www.lookae.com/bcc-1202/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Win/Mac"
+  ],
+  "content": "强大的 BCC 视觉特效插件包 Boris Continuum Complete 为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持 OpenGL 和双 CPU 加速。BCC 拥有超过百种特效效果，包括 3D 字幕、3D 粒子、老电影、光线、画中画、镜头光晕、烟雾、火等，以及调色、键控/抠像、遮罩、跟踪、发光等一系列风格化工具。插件同时包含多种视频特效和视频转场，适用于 Adobe After Effects 和 Premiere Pro。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/213739335488.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019, Premiere Pro CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-343054384"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1KlNn4m96f443ct0u6J5nmA"
+    },
+    {
+      "name": "Mac 版 - 城通网盘下载（大众脸独家注册）",
+      "url": "https://lookae.ctfile.com/fs/680462-343003482"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载（大众脸独家注册）",
+      "url": "https://pan.baidu.com/s/1_hs2zCghxUUFyQkj6ukIBg"
+    }
+  ],
+  "other": {
+    "official_website": "https://borisfx.com/products/continuum/",
+    "continuum_2019_features": [
+      "Particle Illusion 幻影粒子插件重生",
+      "新的 Title Studio 文字图片处理着色器（发光、射线、模糊等）",
+      "新的 Mocha Essentials 工作区",
+      "4 个新工具：磁性边缘捕捉、几何形状等，用于更快的跟踪和遮罩",
+      "新的 point-driven 参数跟踪（由 Mocha 驱动）",
+      "整体 GPU 加速"
+    ]
+  }
+}

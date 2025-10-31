@@ -1,0 +1,47 @@
+{
+  "title": "路径弯曲线条气流电流动画生成AE插件 Omino Snake V2.1.41 Win/Mac+使用教程",
+  "slug": "lu-jing-wan-qu-xian-tiao-qi-liu-dian-liu-dong-hua-sheng-cheng-aecha-jian-omino-snake-v2-1-41-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-01-15",
+  "source_url": "https://www.lookae.com/omino-snake/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Omino Suite是一套老牌的免费插件，使用其中的Snake插件您可以在想要流动图像或噪波的位置绘制遮罩，这样很容易制作移动气流或直线图像（如火车、龙、蛇等流体）。插件最后一次更新是在2014年，所以在新版AE软件上可能不稳定，建议关闭多帧渲染。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/01/Omino-Suite-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-763820338-4c9c34?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dnsTUmc2yd2herPkkuNGcw?pwd=pvnk"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/mtKbevEpVgo"
+    }
+  ],
+  "other": {
+    "plugin_suite": "Omino Suite",
+    "included_plugins": [
+      "Omino Snake 弯曲路径图层",
+      "Omino Color Extract 着色插件",
+      "Omino Diffusion 扩散插件",
+      "Omino Halftone 半色调插件",
+      "Omino Kaleidoscope 万花筒插件",
+      "Omino Sphere Map 球体贴图映射插件",
+      "Omino Squares 方格插件",
+      "Omino Test API 程序测试插件"
+    ],
+    "official_website": "https://omino.com/store/",
+    "compatibility_notes": "建议关闭多帧渲染"
+  }
+}

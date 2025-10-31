@@ -1,0 +1,30 @@
+{
+  "title": "AE脚本：表达式语言报错修复脚本 Aescripts Expression Universalizer V2.1",
+  "slug": "aejiao-ben-biao-da-shi-yu-yan-bao-cuo-xiu-fu-jiao-ben-aescripts-expression-universalizer-v2-1",
+  "author": "大众脸",
+  "post_date": "2014/12/08 21:37",
+  "source_url": "https://www.lookae.com/universalizer/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE教程",
+    "AE脚本"
+  ],
+  "content": "该脚本用于解决因AE软件语言版本不同导致的表达式报错问题。当我们从网络下载或其他渠道获得的AE模板/工程时，由于作者使用的AE软件语言版本与我们使用的版本不同，可能会导致表达式因语言差异而报错。此脚本可以自动转换项目中的表达式，使其兼容运行在任何语言环境下的After Effects软件，特别适合AE模板作者或为国际客户创建项目的用户使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/Universalizer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本：表达式语言报错修复脚本 Aescripts Expression Universalizer V2.1",
+      "url": "https://www.400gb.com/file/80061847"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/expressionuniversalizer/",
+    "package_includes": "脚本和使用教程"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-流体渐变着色特效动画生成工具 Potok v1.1.1 Win + 使用教程",
+  "slug": "aecha-jian-liu-ti-jian-bian-zhao-se-te-xiao-dong-hua-sheng-cheng-gong-ju-potok-v1-1-1-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/03/15 10:17",
+  "source_url": "https://www.lookae.com/potok/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Potok 是一款专为 After Effects 设计的流体渐变着色特效动画生成插件。它通过生成噪波并使用渐变进行着色，实现动态视觉效果。用户可通过界面控制或任意图层设置渐变，同时支持用其他图层对噪波进行遮罩与混合。插件支持多种噪声类型、渐变控制模式及四种着色模式（渐变、层渐变、层反射、层折射），并可将渐变映射到任意图层或合成的噪声上，实现由动画或透明通道驱动的复杂渐变效果。此外，还支持基于法线映射的反射和基于亮度置换的折射功能，适用于高级动态视觉创作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/Potok.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/351333381919.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-555477016-e43527"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cm3Hj4ISz6piCeaiAnYk7Q?pwd=vi1m"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/3iXGSmFXazu"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "vi1m"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "related_tags": [
+      "ae插件"
+    ],
+    "thumbnail": "https://www.lookae.com/wp-content/uploads/2022/03/Potok.jpg"
+  }
+}

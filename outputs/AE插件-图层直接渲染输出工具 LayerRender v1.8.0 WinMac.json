@@ -1,0 +1,40 @@
+{
+  "title": "AE插件-图层直接渲染输出工具 LayerRender v1.8.0 Win/Mac",
+  "slug": "aecha-jian-tu-ceng-zhi-jie-xuan-ran-shu-chu-gong-ju-layerrender-v1-8-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/03/20 20:25",
+  "source_url": "https://www.lookae.com/layerrender-180/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "LayerRender 是一款直接在图层级别完成渲染的 AE 插件，相比传统合成级渲染器速度更快（可调用所有 CPU 核心），支持 8-16 bit 常见编解码器，使用简单。插件内置 VP9、H.264、H.265、DNxHD、Cineform、Prores 等丰富预设，可直接调用外部 FFmpeg 而无需中间文件，所有渲染参数均可在选项窗口内调整。v1.8 优化了 AE 内存管理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/LayerRender.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345664739667.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-556945510-ff9561"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1NAqcmxkR0T04epbqnEo0_w?pwd=97cr"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/gbAfXPBYHer"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "百度网盘": "97cr"
+    }
+  }
+}

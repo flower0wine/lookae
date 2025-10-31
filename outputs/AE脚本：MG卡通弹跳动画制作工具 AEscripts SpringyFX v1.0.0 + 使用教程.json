@@ -1,0 +1,59 @@
+{
+  "title": "AE脚本：MG卡通弹跳动画制作工具 AEscripts SpringyFX v1.0.0 + 使用教程",
+  "slug": "aejiao-ben-mgqia-tong-dan-tiao-dong-hua-zhi-zuo-gong-ju-aescripts-springyfx-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/05/06 17:36",
+  "source_url": "https://www.lookae.com/springyfx/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "SpringyFX 是一款专为 After Effects 设计的 MG 动画辅助脚本工具包，能够基于关键帧变换属性轻松创建丰富的二次运动效果。该工具集包含9种不同类型的动画变形工具，适用于制作时尚的卡通风格动画或为现有动画增添微妙的重叠动作，提升视觉表现力。支持多种动态效果如弹跳、溶解、弯曲、挤压、拉伸、抖动、膨胀、扭转和流体变形，并提供自定义工具以满足个性化需求。适合用于创意设计、广告动画及影视后期制作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/SPRINGY-FX-.jpg",
+    "http://aescripts.com/media/catalog/product/g/i/gif-1---parent-constraint.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-2---bend-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-3---shear-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-4---squashnstretch.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-5---jiggle-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-6---bulge-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-7---twist-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-8---liquid-deformer.gif",
+    "http://aescripts.com/media/catalog/product/g/i/gif-9---custom-effect.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS 6 – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-202011487"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1slrtkct"
+    },
+    {
+      "name": "大众脸官方淘宝店",
+      "url": "https://lookae.taobao.com/"
+    },
+    {
+      "name": "自愿赞助 LookAE.com 网站（送精品资源）",
+      "url": "https://www.lookae.com/sponsor/"
+    }
+  ],
+  "other": {
+    "description": "A cool toolset that allows you to easily create some fun secondary motion, based on your keyframed transform properties! Whether you want a stylish cartoon look or to add some subtle overlapping actions on your animations, you’ll certainly find the tool you need among the 9 tools available in the set!",
+    "website": "http://aescripts.com/springy-fx/",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本"
+    ]
+  }
+}

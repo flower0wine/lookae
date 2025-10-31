@@ -1,0 +1,45 @@
+{
+  "title": "Mac/Win版：AE/PR/PS/OFX/达芬奇影视后期特效插件 DFT Tiffen Dfx 4.0v2",
+  "slug": "mac-winban-ae-pr-ps-ofx-da-fen-qi-ying-shi-hou-qi-te-xiao-cha-jian-dft-tiffen-dfx-4-0v2",
+  "author": "大众脸",
+  "post_date": "2014-11-26",
+  "source_url": "https://www.lookae.com/tiffenmac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX插件",
+    "PR插件",
+    "Win/Mac",
+    "达芬奇插件"
+  ],
+  "content": "DFT Tiffen Dfx 4.0v2 是一款拥有完整独立界面的影视后期特效插件，内置超过 2000 种滤镜效果，涵盖玻璃过滤器、特殊镜头、专业光效、胶片颗粒、色彩校正、抠像等，可快速模拟电影级质感。插件支持 Win/Mac 双平台，兼容 Adobe 系列（AE/PR/PS）、达芬奇 Resolve、Nuke、Vegas、Scratch 等主流后期软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Dfx4.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5 及以上",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "Mac OSX 版本",
+      "url": "https://www.400gb.com/file/79045637"
+    },
+    {
+      "name": "Win 版本",
+      "url": "https://www.lookae.com/dfx4/"
+    }
+  ],
+  "other": {
+    "official_site": "http://digitalfilmtools.com/tiffendfx/",
+    "compatible_host_apps": [
+      "Adobe After Effects",
+      "Adobe Premiere Pro",
+      "Adobe Photoshop",
+      "Avid Editing Systems (64-bit)",
+      "Assimilate Scratch v8+",
+      "DaVinci Resolve v11+",
+      "Sony Vegas v13+",
+      "The Foundry Nuke v8+"
+    ]
+  }
+}

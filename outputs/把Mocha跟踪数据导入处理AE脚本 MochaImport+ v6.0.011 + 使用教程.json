@@ -1,0 +1,46 @@
+{
+  "title": "把Mocha跟踪数据导入处理AE脚本 MochaImport+ v6.0.011 + 使用教程",
+  "slug": "ba-mochagen-zong-shu-ju-dao-ru-chu-li-aejiao-ben-mochaimport-v6-0-011-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/05 10:04",
+  "source_url": "https://www.lookae.com/mochaimport-6011/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MochaImport+"
+  ],
+  "content": "该脚本简化mocha和After Effects之间的工作流程，可将跟踪镜头数据发送到mocha，并以任意方式将Mocha跟踪数据应用于After Effects。v6.0.011更新内容为修复与较新操作系统版本的兼容性，并增加对时间限制许可证的支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/MochaImport-V6.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-578154317-b69b8b?p=4431"
+    },
+    {
+      "name": "脚本百度网盘",
+      "url": "https://pan.baidu.com/s/1vLRxHxSW7_UAwgKHCR3qrg?pwd=upu0"
+    },
+    {
+      "name": "脚本阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YC1GpzNQrjA"
+    },
+    {
+      "name": "教程城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-346371963"
+    },
+    {
+      "name": "教程百度网盘",
+      "url": "https://pan.baidu.com/s/1L_tHhZbRda2hhQVe5grybw%20"
+    }
+  ],
+  "other": {
+    "脚本城通网盘密码": "6688",
+    "脚本百度网盘提取码": "upu0",
+    "教程百度网盘提取码": "vce3"
+  }
+}

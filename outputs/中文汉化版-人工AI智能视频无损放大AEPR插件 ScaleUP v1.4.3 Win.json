@@ -1,0 +1,57 @@
+{
+  "title": "中文汉化版-人工AI智能视频无损放大AE/PR插件 ScaleUP v1.4.3 Win",
+  "slug": "zhong-wen-yi-hua-ban-ren-gong-aizhi-neng-shi-pin-wu-sun-fang-da-ae-prcha-jian-scaleup-v1-4-3-win",
+  "author": "大众脸",
+  "post_date": "2024/07/03 11:12",
+  "source_url": "https://www.lookae.com/scaleup-143/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "ScaleUP",
+    "中文汉化"
+  ],
+  "content": "ScaleUP是一款先进的视频增强工具，可将视频放大至原分辨率的10倍，同时最大限度减少图像质量损失。该插件利用AI技术，不仅实现高清放大，还能提升整体视频画质，在保留细节的同时提高分辨率。与传统双线性或双三次插值不同，它通过神经网络分析大量图像和视频片段的像素数据，有效降低噪点并消除压缩带来的块效应。此外，ScaleUP已针对Adobe After Effects和Premiere Pro进行GPU加速优化，支持Windows和Mac系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/ScaleUp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/287454578393.mp4"
+  ],
+  "supported_versions": "After Effects 2020-2024, Premiere Pro 2020-2024",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1316495329-f6a890?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1H9YEEQpuKMyIz-CGQyBP-A?pwd=luwo"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/8Q7fimTE9mV"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.4.3 更新内容：使用最新的 Nvidia GPU 驱动程序修复 Windows 中的崩溃问题。",
+    "support_info": {
+      "after_effects": [
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "premiere": [
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ]
+    },
+    "original_content": "ScaleUp is an advanced video enhancing tool, it can enlarge videos by up to 10x with minimal image quality loss. With the AI-powered technology, ScaleUp tool can not only upscale your footage but also enhance the video quality. It can increase the image resolution while preserving the details. To enlarge the image, instead of interpolating the pixels using the traditional bilinear / bicubic methods, intelligent AI technology is used to study and analyze the pixels of large amount of images and clips using neural network to improve the image quality, and reduce the noises, even the block effects in the compressed video. Moreover, ScaleUp plugin is GPU accelerated for Adobe After Effects and Adobe Premiere Pro, and available for Mac and Windows."
+  }
+}

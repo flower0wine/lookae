@@ -1,0 +1,40 @@
+{
+  "title": "遮罩图形自由变换控制AE脚本 Mask Transformer v1.1.1+使用教程",
+  "slug": "zhe-zhao-tu-xing-zi-you-bian-huan-kong-zhi-aejiao-ben-mask-transformer-v1-1-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/09/16 10:01",
+  "source_url": "https://www.lookae.com/transformer-106/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Mask Transformer",
+    "自由变换"
+  ],
+  "content": "该脚本可在 After Effects 中对遮罩（Mask）图形进行自由变换控制并制作动画，无需设置繁琐的关键帧。支持通过真实数值输入和运动路径来实现遮罩变换。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Mask-Transformer-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/428070822319.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-937512756-4db22f?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Kt_IkLluF2oRDZkLl0zIKw?pwd=9yl3"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/t233B7JkvQQ"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "9yl3"
+  }
+}

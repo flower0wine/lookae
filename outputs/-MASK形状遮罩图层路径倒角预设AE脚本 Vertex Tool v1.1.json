@@ -1,0 +1,41 @@
+{
+  "title": "-MASK形状遮罩图层路径倒角预设AE脚本 Vertex Tool v1.1",
+  "slug": "maskxing-zhuang-zhe-zhao-tu-ceng-lu-jing-dao-jiao-yu-she-aejiao-ben-vertex-tool-v1-1",
+  "author": "大众脸",
+  "post_date": "2023-05-06 09:10",
+  "source_url": "https://www.lookae.com/vertex-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Vertex Tool 是一个非常适用方便的AE脚本，可以在画好的MASK形状遮罩图层路径上选择顶点利用脚本进行倒角变形操作。该脚本提供12个圆角算法可供选择，还可控制倒角的其他参数属性，适用于MG图形运动变化，且可自动生成图形动画。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/11/Vertex.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/32636813.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6, CS5, CS4",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-851836977-7e80d8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Zg6DQO1R5bTwSHEsUSc6JQ?pwd=tv8l"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/nSEqyiJAmdJ"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "tv8l"
+    },
+    "update_info": "1.0.2更新支持 AE CC 2019"
+  }
+}

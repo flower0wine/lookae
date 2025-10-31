@@ -1,0 +1,72 @@
+{
+  "title": "BCC视觉特效和转场AE/PR/达芬奇插件Continuum 2024 v17.0.5 CE Win一键安装版",
+  "slug": "bccshi-jue-te-xiao-he-zhuan-chang-ae-pr-da-fen-qi-cha-jian-continuum-2024-v17-0-5-ce-winyi-jian-an-zhuang-ban",
+  "author": "大众脸",
+  "post_date": "2024-04-21T22:39:00Z",
+  "source_url": "https://www.lookae.com/bcc-1705/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC插件",
+    "Continuum",
+    "OFX插件",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "Continuum插件是满足内容创作需求的一站式工具集，涵盖300多种视觉效果、40多种转场和5000多种预设。支持Adobe多帧渲染与原生Apple M1加速，全面GPU优化。通过集成Mocha遮罩技术，实现高级平面跟踪与复杂蒙版控制。插件版本为2024 v17.0.5，具备人工智能驱动的降噪、图像缩放、音频可视化及AI生成粒子系统等功能，性能显著提升，并新增150多个专业预设。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Continuum-BCC-2024.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Continuum 2024 v17.0.5",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR 版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1060036967-0986a4?p=4431"
+    },
+    {
+      "name": "AE/PR 版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1YVy6Ys9e55p3TcMfap9T7g?pwd=d79r"
+    },
+    {
+      "name": "AE/PR 版 - 阿里云盘",
+      "url": "https://www.alipan.com/s/yXFBirVpPVk"
+    },
+    {
+      "name": "OFX系列 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1060036958-3cb73c?p=4431"
+    },
+    {
+      "name": "OFX系列 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1x37HDb1pgc8SR3CMcKt3zQ?pwd=mcxy"
+    },
+    {
+      "name": "OFX系列 - 阿里云盘",
+      "url": "https://www.alipan.com/s/isshEQgjyvp"
+    }
+  ],
+  "other": {
+    "supported_adobe_software": [
+      "After Effects CC 2020, 2021, 2022, 2023, 2024",
+      "Premiere Pro CC 2020, 2021, 2022, 2023, 2024"
+    ],
+    "supported_ofx_software": [
+      "DaVinci Resolve and Studio 17.x, 18.x +",
+      "Nuke 12, 13 +",
+      "Vegas 19, 20 +"
+    ],
+    "related_links": [
+      "https://www.lookae.com/bcc-2021-ch/",
+      "https://www.lookae.com/bcc-2024-mac/"
+    ],
+    "update_notes": [
+      "BCC+ DeNoise ML：人工智能驱动的噪声消除，一键式简单性和智能细节保留",
+      "BCC+ UpRes ML（仅限AE）：使用 Continuum 的全新集成AI缩放工具轻松调整大小为任何格式",
+      "BCC+ 音频可视化工具：通过 poppin 的自动动画动态图形让您的音乐发声",
+      "粒子幻觉：使用 AI 生成精灵、粒子线作为真正的 3D 对象、继承速度等",
+      "性能提升：在 FX 编辑器中体验更快的播放、分布式渲染以及 Avid 中更紧密的集成",
+      "更多预设：150 多个专业设计和策划的预设"
+    ]
+  }
+}

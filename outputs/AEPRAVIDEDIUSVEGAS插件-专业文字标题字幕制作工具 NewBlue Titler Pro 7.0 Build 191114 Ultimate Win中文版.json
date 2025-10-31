@@ -1,0 +1,59 @@
+{
+  "title": "AE/PR/AVID/EDIUS/VEGAS插件-专业文字标题字幕制作工具 NewBlue Titler Pro 7.0 Build 191114 Ultimate Win中文版",
+  "slug": "ae-pr-avid-edius-vegascha-jian-zhuan-ye-wen-zi-biao-ti-zi-mu-zhi-zuo-gong-ju-newblue-titler-pro-7-0-build-191114-ultimate-winzhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2019/11/25 16:52",
+  "source_url": "https://www.lookae.com/nb-titler-7/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "由NewBlue公司出品的Titler Pro字幕工具（独立版+插件版），能制作多种字幕文字标题动画效果，文字属性完整，工具拥有独立界面、专业时间线、众多预设等，内置多个4K&5K分辨率人名字幕条信息框，可直接拖拽使用，也可导入EPS或PSD等文件修改制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Titler-Pro-7.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/244637316918.mp4"
+  ],
+  "supported_versions": "",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-409308947"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/173J8rq1jaMgut8Re4lT_SA"
+    }
+  ],
+  "other": {
+    "官网地址": "https://www.newbluefx.com/products/titling/titler-pro/",
+    "Titler Pro 7新功能": [
+      "性能提升：使用新引擎更快地工作，改进的时间表灵活性，简化的多标题管理",
+      "新的智能功能：简单流畅的积分，对象跟随，风格断裂，循环资产",
+      "500多种新设计：Titer Pro 7的丰富模板库已升级为数十个新的多功能集合，其中包括500多个新的专业设计",
+      "实时和后期集成图形：NewBlue的Titler Live和Titler Pro解决方案完全兼容，可在视频编辑器中无缝利用实时广播中使用的相同设计，节省时间并在所有生产环境中简化图形，轻松地对片段进行预编辑或调整实况转播的节目标题，简介等，零返工"
+    ],
+    "支持Win系统软件": [
+      "Adobe After Effects CC 或更高版",
+      "Adobe Premiere CC 或更高版",
+      "NewBlue Titler Pro 2+",
+      "Avid Media Composer & Symphony 6+",
+      "Grass Valley EDIUS 7, 8 & 9",
+      "Magix VEGAS Pro 10+, VEGAS Movie Studio"
+    ],
+    "安装方法": [
+      "安装 NewBlueTitlerPro7Ultimate-191114.exe 程序",
+      "复制注册文件夹里的 TitlerLive64.dll 文件到以下目录替换：C:\\Program Files\\NewBlueFX\\Titler",
+      "在这个目录C:\\Program Files\\NewBlueFX\\Common找到 ApplicationManager64.exe文件，然后修改成 ApplicationManager64.exe.old",
+      "完成安装，可使用（无水印）"
+    ],
+    "中文版切换方法": "在这个路径C:\\Program Files\\NewBlueFX\\Titler\\Resources\\Translations 把titler_cn修改成titler_zh即可",
+    "备注": "内附详细中文安装方法，大脸亲测可用（含使用小教程）"
+  }
+}

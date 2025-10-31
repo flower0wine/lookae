@@ -1,0 +1,53 @@
+{
+  "title": "Noise.降噪美肤AE插件5合1",
+  "slug": "noise-jiang-zao-mei-fu-aecha-jian-5he-1",
+  "author": "大众脸",
+  "post_date": "2012/06/21 12:25",
+  "source_url": "https://www.lookae.com/noise-5he1/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "插件"
+  ],
+  "content": "该插件包含5个插件，分别为MB_Steady AE 1.1.1（稳定降噪，官方不再更新，32bit）、AE降噪极品MB Denoiser 1.0.1原版加汉化（32&64bit）、Beauty Box AE 2.0（64bit）、Revisionfx_Denoise_v2.0.2_for_AE(降噪，32&64bit）、降噪插件Neat.Video.3.0.For.AE（32&64bit）。插件功能介绍和安装就不多说了，部分插件可复制到Premiere插件目录中使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/06/noise2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "01.MB_Steady AE 1.1.1(稳定降噪)(官方不再更新)（32bit）",
+      "url": "http://www.ctdisk.com/file/8777799"
+    },
+    {
+      "name": "02.AE降噪极品MB Denoiser 1.0.1原版加汉化（32&64bit）",
+      "url": "http://www.ctdisk.com/file/8777825"
+    },
+    {
+      "name": "03.Beauty Box AE 2.0（64bit）",
+      "url": "http://www.ctdisk.com/file/8777831"
+    },
+    {
+      "name": "04.Revisionfx_Denoise_v2.0.2_for_AE(降噪)（32&64bit）",
+      "url": "http://www.ctdisk.com/file/8777855"
+    },
+    {
+      "name": "05.降噪插件Neat.Video.3.0.For.AE（32&64bit）",
+      "url": "http://www.ctdisk.com/file/8777875"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE插件",
+        "链接": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

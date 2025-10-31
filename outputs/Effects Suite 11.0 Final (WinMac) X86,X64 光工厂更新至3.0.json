@@ -1,0 +1,74 @@
+{
+  "title": "Effects Suite 11.0 Final (Win/Mac) X86,X64 光工厂更新至3.0",
+  "slug": "effects-suite-11-0-final-win-mac-x86-x64-guang-gong-han-geng-xin-zhi-3-0",
+  "author": "大众脸",
+  "post_date": "2012-08-09T17:55:00Z",
+  "source_url": "https://www.lookae.com/effects-suite-11/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "插件"
+  ],
+  "content": "Effects Suite 11.0 Final 是 Red Giant 推出的 After Effects 插件合集，包含多个专业视觉特效工具。本次更新重点升级了 Knoll Light Factory 至 3.0 版本，新增真实感耀斑元素、动画行为、界面优化及超过 100 个精美预设。支持 3D 摄像机与灯光系统，全面兼容 Mac 和 Windows 平台，适用于 After Effects CS4 至 CS6。插件合集提供 32 位与 64 位版本，可实现快速稳定的效果制作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/08/ES11.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS4 - CS6",
+  "supported_os": "Windows (X86, X64), macOS",
+  "download_links": [
+    {
+      "name": "Windows 版本 (32&64位)",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Effects/ESuite_Win_Full.zip"
+    },
+    {
+      "name": "Mac 版本 (32&64位)",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Effects/ESuite_Mac_Full.zip"
+    }
+  ],
+  "other": {
+    "serial_numbers": {
+      "Image Lounge": "1847-7170-1592-8302-3281",
+      "Knoll Light Factory": [
+        "9035-3050-3333-6151-1225",
+        "8890-3030-3333-9159-3080"
+      ],
+      "Knoll Light Factory Photo": "1319-3198-3464-5707-8145",
+      "Red Giant Holomatrix": "9200-6158-1232-5354-9711",
+      "Red Giant PlaneSpace": "2165-5162-1724-8961-0491",
+      "Red Giant Psunami": "8620-5360-1929-6377-2182",
+      "Red GIant Text Anarchy": "9180-5468-2000-6564-9325",
+      "Red Giant ToonIt – LookAE": "2224-5529-2995-5538-1869",
+      "Red Giant Warp": "9137-0361-1084-5744-8254",
+      "Red.Giant Composite Wizard": "1709-7238-1590-5235-4653"
+    },
+    "related_resources": [
+      {
+        "title": "Knoll Light Factory 3.0 光工厂3 新功能教程全集",
+        "url": "https://www.lookae.com/kl3-tutorials/"
+      },
+      {
+        "title": "镜头光晕Optical Flares v1.2.132 Win(32&64Bit)带汉化",
+        "url": "https://www.lookae.com/optical-flares-v1-2-132-win-zh/"
+      },
+      {
+        "title": "Knoll Light Factory 灯光工厂插件(32&64Bit)(附100种预设)",
+        "url": "https://www.lookae.com/knoll-light-factory-presets/"
+      }
+    ],
+    "note": "由于115网盘限制，部分资源可能已迁移至其他网盘，下载可能存在不便，敬请谅解。",
+    "license_info": "Effects Suite 11.0 为收费软件，建议购买正版以获得稳定升级与售后服务。若经济有限，可参考提供的序列号（亲测可用）。",
+    "plugin_list": [
+      "Knoll Light Factory 3.0 AE",
+      "Knoll Light Factory Photo 3.2",
+      "Image Lounge 1.4.5",
+      "Red Giant Holomatrix 1.2",
+      "Red Giant PlaneSpace 1.4.0",
+      "Red Giant Psunami 1.4",
+      "Red GIant Text Anarchy 2.4",
+      "Red Giant ToonIt 2.1",
+      "Red Giant Warp 1.1",
+      "Red.Giant Composite Wizard 1.4.6"
+    ]
+  }
+}

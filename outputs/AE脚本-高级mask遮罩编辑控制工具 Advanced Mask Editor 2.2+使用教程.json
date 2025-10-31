@@ -1,0 +1,55 @@
+{
+  "title": "AE脚本-高级mask遮罩编辑控制工具 Advanced Mask Editor 2.2+使用教程",
+  "slug": "aejiao-ben-gao-ji-maskzhe-zhao-bian-ji-kong-zhi-gong-ju-advanced-mask-editor-2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/12 17:14",
+  "source_url": "https://www.lookae.com/mask-editor-22/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Advanced Mask Editor 是一款专为 Adobe After Effects 设计的高级遮罩编辑工具，支持设置路径起点、合并路径、镜像、翻转、旋转、弯曲、复制、转换为形状、单独显示遮罩、保存与加载遮罩以及应用遮罩特效等功能。内置50种动画预设，提升遮罩制作效率。兼容 Win/Mac 系统，支持 Adobe After Effects CS6 至 CC 2019。v2.2 版本已适配苹果 macOS 10.15 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/Advanced-Mask-Editor-.jpg",
+    "https://aescripts.com/media/catalog/product/p/r/presets_1.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/m/e/merge.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/c/u/curvature.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/m/i/mirror.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（脚本）",
+      "url": "https://tc5.us/file/680462-413225988"
+    },
+    {
+      "name": "百度网盘下载（脚本）",
+      "url": "https://pan.baidu.com/s/1fEdS1x3D2Q2z64GH1qFWXg"
+    },
+    {
+      "name": "城通网盘下载（教程）",
+      "url": "https://lookae.ctfile.com/fs/680462-391153987"
+    },
+    {
+      "name": "百度网盘下载（教程）",
+      "url": "https://pan.baidu.com/s/1jsMHgfr9BxuhJVaXCx5EVQ"
+    }
+  ],
+  "other": {
+    "script_website": "http://aescripts.com/advanced-mask-editor/",
+    "update_notes": "v2.2 更新内容：兼容苹果10.15系统",
+    "download_password": "e839",
+    "related_tags": [
+      "After Effects",
+      "Aescaripts",
+      "AE脚本"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

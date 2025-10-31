@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：锚点中心点移动对齐脚本 Move Anchor Point 3",
+  "slug": "aejiao-ben-mao-dian-zhong-xin-dian-yi-dong-dui-qi-jiao-ben-move-anchor-point-3",
+  "author": "大众脸",
+  "post_date": "2018/01/23 13:16",
+  "source_url": "https://www.lookae.com/move-anchor-point/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "脚本可以快速改变移动对齐一个或者一组图层的锚点中心点，且不影响任何其他属性，即使层关键帧。3.0版脚本经过重新设计，添加更多预设，可以更精确地控制移动锚点的位置。现在，您可以基于所选对象以及整体选择来移动它们。您还可以选择在构图坐标上进行移动。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/01/Move-Anchor-Point-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-234739458"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1eT9loL8"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.batchframe.com/",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

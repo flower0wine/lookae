@@ -1,0 +1,42 @@
+{
+  "title": "AE/PR/AVID套装集合特效插件 BCC9 Win64位",
+  "slug": "ae-pr-avidtao-zhuang-ji-he-te-xiao-cha-jian-bcc9-win64wei",
+  "author": "大众脸",
+  "post_date": "2014/04/13 23:35",
+  "source_url": "https://www.lookae.com/bcc9/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "PR插件",
+    "Win64位"
+  ],
+  "content": "BorisFX公司的插件 Boris Continuum Complete 终于更新到9版本：BCC9。Boris Continuum Complete 为视频图像合成、处理、键控、着色、变形等提供全面的解决方案，支持Open GL 和双 CPU加速。BCC 9拥有超过200种特效效果（上千种特效预设），包括字幕（3D字幕）、3D粒子、光线、镜头光晕、烟雾、火、调色、键控/抠像、遮罩、发光等风格化工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/BCC9.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro 64位版, Adobe After Effects 64位版, Avid Media Composer 64位版",
+  "supported_os": "Win64位",
+  "download_links": [
+    {
+      "name": "AE/PR/AVID套装集合特效插件：BorisFX Boris Continuum Complete 9 （BCC9）Win64位",
+      "url": "https://www.400gb.com/file/62453974"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "Mac版本：Boris Continuum Complete 8.11（BBC-8.11）",
+        "url": "http://www.ctdisk.com/file/11312833"
+      }
+    ],
+    "official_website": "http://www.borisfx.com/Continuum-Complete/BCC9.php",
+    "new_features": [
+      "操作界面更直观，效率更高。",
+      "新加入30种转场特效。",
+      "支持Open GL和CUDA显卡加速，运算更快"
+    ],
+    "company_info": "Boris FX is a one of the leading developers of software and plugins in the VFX field, is known for many of the product lines are plugins for video editing software like Boris Continuum Complete (BCC), Final Effects Complete (FEC), Boris RED, Boris Graffiti, Boris FX, …"
+  }
+}

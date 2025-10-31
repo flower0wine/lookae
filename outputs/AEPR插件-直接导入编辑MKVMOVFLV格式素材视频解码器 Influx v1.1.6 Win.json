@@ -1,0 +1,74 @@
+{
+  "title": "AE/PR插件-直接导入编辑MKV/MOV/FLV格式素材视频解码器 Influx v1.1.6 Win",
+  "slug": "ae-prcha-jian-zhi-jie-dao-ru-bian-ji-mkv-mov-flvge-shi-su-cai-shi-pin-jie-ma-qi-influx-v1-1-6-win",
+  "author": "大众脸",
+  "post_date": "2022/06/12 10:44",
+  "source_url": "https://www.lookae.com/influx-116/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Influx",
+    "PR插件",
+    "视频解码器"
+  ],
+  "content": "Influx 是一款适用于 Adobe After Effects 和 Premiere Pro 的视频解码器插件，允许用户直接导入并编辑多种常见但原生不支持的视频格式，无需借助外部转码工具。该插件可显著节省时间、磁盘空间并简化工作流程。用户可在 Premiere Pro 中直接导入和编辑素材，在 After Effects 中处理视频，并通过 Adobe Media Encoder 导出项目或直接转码文件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Influx-Mac.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/334057662148.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019; Premiere: 2022, 2021, 2020, CC 2019; Media Encoder: 2022, 2021, 2020, CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-595064231-ae1310?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/14JFIdSbrFNlSS7R3LOjFuQ?pwd=qx6q"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Cw7WzW7y63S"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "qx6q",
+    "related_link": "https://www.lookae.com/influx-mac114/",
+    "related_title": "AE/PR插件-直接导入MKV/MOV/FLV格式素材视频解码器 Influx v1.1.4 Mac苹果版",
+    "update_notes": [
+      "在视频缩略图右侧的项目面板顶部的 After Effects 中更好地输入文件描述",
+      "慢速音频符合错误修复",
+      "内存泄漏错误修复"
+    ],
+    "supported_formats": [
+      ".MKV",
+      ".WebM",
+      ".FLV",
+      ".OGV",
+      ".BIK",
+      ".AVI",
+      ".MOV",
+      ".WMV",
+      ".VOB"
+    ],
+    "supported_video_codecs": [
+      "FFV1",
+      "VP8",
+      "VP9",
+      "Canopus HQ",
+      "H.264",
+      "H.265"
+    ],
+    "supported_audio_codecs": [
+      "FLAC",
+      "OPUS",
+      "OGG Vorbis",
+      "MKA",
+      "WMA"
+    ]
+  }
+}

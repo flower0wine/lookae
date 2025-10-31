@@ -1,0 +1,40 @@
+{
+  "title": "中文汉化AE插件-设计制作MG人物角色肢体动作工具 HotDog v1.1.5 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-she-ji-zhi-zuo-mgren-wu-jiao-se-zhi-ti-dong-zuo-gong-ju-hotdog-v1-1-5-win",
+  "author": "大众脸",
+  "post_date": "2023/06/29 10:47",
+  "source_url": "https://www.lookae.com/hotdog-115/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "HotDog 是一款用于 After Effects 的插件，旨在以创新方式帮助用户设计和制作 MG 风格人物角色的肢体动画。通过其直观的构建器，用户可以快速从零开始创建角色，灵活调整肢体的形状、颜色、参数、修剪、偏移和蒙版等属性，并支持自定义手柄、参考线或形状层。插件还允许保存、导入和导出设计，并支持 IK（反向动力学）、FK（正向动力学）或两者混合的动画控制方式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/08/HotDog.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/322327270065.mp4"
+  ],
+  "supported_versions": "AE CC 2015 – 2023 或更高版",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-878628660-e49f67?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Et1202qieEK2WmeoBKOo0A?pwd=57zm"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/hQK5AVT5EQw"
+    }
+  ],
+  "other": {
+    "update_notes": "1.1.5更新内容：稳定性改进",
+    "related_link": "https://www.lookae.com/hotdog-114/",
+    "related_title": "AE插件-设计制作MG人物角色肢体动作工具 HotDog v1.1.4 Mac"
+  }
+}

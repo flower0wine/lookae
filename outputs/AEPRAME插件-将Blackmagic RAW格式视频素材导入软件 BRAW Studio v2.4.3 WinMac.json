@@ -1,0 +1,58 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材导入软件 BRAW Studio v2.4.3 Win/Mac",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-dao-ru-ruan-jian-braw-studio-v2-4-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/08/12 21:23",
+  "source_url": "https://www.lookae.com/braw-studio-243/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "RAW格式导入插件"
+  ],
+  "content": "BRAW Studio 是一款专为 Adobe Creative Cloud 设计的插件，允许用户将 Blackmagic RAW（.braw 格式）视频素材直接导入 After Effects、Premiere Pro 和 Media Encoder，并支持在导入时调整相关参数。该插件提供原生支持，提升工作流程效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects: 2021, 2020, CC 2019, CC 2018, CC 2017; Premiere: 2021, 2020, CC 2019, CC 2018, CC 2017; Media Encoder: 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-506073868-883fb0"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/10n7TfxOB7JPuZlKHvrFlRw"
+    },
+    {
+      "name": "插件下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/HkxmhvdR26d"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘插件": "vkjm",
+      "百度网盘教程": "n67x"
+    },
+    "update_notes": [
+      "PrPro 面板中的新功能：LUT 标题现在显示在可用的“应用 LUT”复选框旁边",
+      "修复：After Effects：修复了收集项目时的问题",
+      "修复：转换 BMD PrPro 面板：转换项目时出错（从Blackmagic Design Premiere Pro Plugin) 和一些特效插件",
+      "修复：源设置：更新 Sidecar 按钮正在从 .sidecar 中删除 LUT",
+      "修复：许可错误"
+    ]
+  }
+}

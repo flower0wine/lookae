@@ -1,0 +1,40 @@
+{
+  "title": "AE/PR/ME/VEGAS多格式视频编码渲染加速输出插件 Voukoder v7.2 Win中文版",
+  "slug": "ae-pr-me-vegasduo-ge-shi-shi-pin-bian-ma-xuan-ran-jia-su-shu-chu-cha-jian-voukoder-v7-2-winzhong-wen-ban",
+  "author": "大众脸",
+  "post_date": "2021-02-21",
+  "source_url": "https://www.lookae.com/voukoder-72/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "Voukoder 是一款免费开源、系统级的 Windows 视频/音频编码服务插件，可显著提升 Adobe Premiere、After Effects、Media Encoder、VEGAS Pro 等软件的渲染输出效率。它支持 H.264、HEVC(H.265)、ProRes 等多种主流 CPU/GPU 编码器，并提供丰富的后处理滤镜；若显卡具备硬件编码能力，编码速度可达实时 4–8 倍。v7.2 版重新加入 Matroska/MKV 多路复用器的 OPUS 与 WAVPACK 编码器，并升级 FFmpeg 核心，界面可一键切换中文。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/Voukoder-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01rMqTBm1vSMmOVwY7c_!!705956171.png"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/297172470493.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6–2020、Adobe Media Encoder CS6–2020、Adobe After Effects CS6–2020、VEGAS Pro 12–18、VirtualDub2",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-483098332-ced73a"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1QcjxIFdIBUZUrU_JjHWAWQ"
+    }
+  ],
+  "other": {
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "6rd4"
+    },
+    "官方主页": "https://www.voukoder.org/"
+  }
+}

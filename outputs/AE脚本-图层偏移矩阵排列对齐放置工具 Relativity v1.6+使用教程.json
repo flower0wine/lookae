@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-图层偏移矩阵排列对齐放置工具 Relativity v1.6+使用教程",
+  "slug": "aejiao-ben-tu-ceng-pian-yi-ju-zhen-pai-lie-dui-qi-fang-zhi-gong-ju-relativity-v1-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-02T10:01:00Z",
+  "source_url": "https://www.lookae.com/relativity-16/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层排列"
+  ],
+  "content": "Relativity 是一款用于 After Effects 的脚本工具，可根据图层之间的相对关系和构图需求，将图层以行、列、网格或圆形方式实现水平与垂直方向的自动排列。该工具支持灵活的偏移设置，并在 V1.6 版本中新增多项功能，包括独立尺寸、随机位置、比例及旋转偏移，以及仅基于 X 或 Y 轴的自动行列生成能力，极大提升复杂图层排布效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/Relativity.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/415269223885.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1488653843-513a71?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12pWNRZWPiVmfo6OPrytPGw?pwd=hvkn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Kr6xqg2Qs7o"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "AE脚本",
+      "图层排列"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "image_alt": "AE脚本-图层偏移矩阵排列对齐放置工具 Relativity v1.6+使用教程-LookAE.com",
+    "feature_description": "Arrange layers horizontally and vertically in rows, columns, grids, and circles, based on their relationship to other layers and the composition."
+  }
+}

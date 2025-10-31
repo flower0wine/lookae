@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-打字机光标文字输入生成动画 AM Typewrite Text v1.0.1 Win/Mac",
+  "slug": "aejiao-ben-da-zi-ji-guang-biao-wen-zi-shu-ru-sheng-cheng-dong-hua-am-typewrite-text-v1-0-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/12/31 16:55",
+  "source_url": "https://www.lookae.com/typewrite-101/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "AM Typewrite Text 是一款用于 After Effects 的脚本，可为文本图层创建打字机动画效果。支持自定义光标、多行文本以及从右到左的语言排版。只需单击一次即可创建新文本层或对现有文本层应用效果。支持 Windows 和 Mac 系统，兼容 AE 2020 至 CS5.5 等多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/AM-Typewrite-Text.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-477946952"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1inf7s2TzOgFsiVJo_6fZGA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.1 更新：用户界面更改；升级为通用表达式支持非英语AE。",
+    "features": [
+      "支持从右到左语言",
+      "支持多行文本层",
+      "支持多行无光标的从右到左文本层",
+      "可自定义的文本和光标",
+      "可自定义的文本和光标颜色"
+    ],
+    "homepage": "https://aescripts.com/am-typewrite-text/"
+  }
+}

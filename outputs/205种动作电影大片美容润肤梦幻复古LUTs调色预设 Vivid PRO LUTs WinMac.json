@@ -1,0 +1,91 @@
+{
+  "title": "205种动作电影大片美容润肤梦幻复古LUTs调色预设 Vivid PRO LUTs Win/Mac",
+  "slug": "205chong-dong-zuo-dian-ying-da-pian-mei-rong-run-fu-meng-huan-fu-gu-lutsdiao-se-yu-she-vivid-pro-luts-win-mac",
+  "author": "大众脸",
+  "post_date": "2018/06/26 16:09",
+  "source_url": "https://www.lookae.com/vividlut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "一套专业级LUTs调色预设，采用.CUBE格式，适用于各类主流后期图像处理软件。提供行业标准的3D LUT，可实现更快速、精准且富有创意的色彩校正与分级，帮助用户轻松获得电影胶片般的质感与动态色彩表现。预设涵盖动作电影、美容润肤、梦幻、复古等多种风格，适用于广泛的影视与图像后期创作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/VIVID-LUTs.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2016, Adobe After Effects CS6-CC 2016, Adobe Photoshop CS6-CC 2016, Final Cut Pro X, Final Cut Pro 7",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-295965391"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1wOkdDMNo1q9BbTjjqGVAdA"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "included_lut_categories": [
+      "Action",
+      "Basic",
+      "Beauty",
+      "Camera Patches",
+      "Cross Process",
+      "Detective",
+      "Fantasy",
+      "Historic",
+      "Mafia"
+    ],
+    "compatible_software_full_list": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2016",
+      "Adobe After Effects CS6-CC 2016",
+      "Adobe Photoshop CS6-CC 2016",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "lut_usage_methods": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Vegas Pro": "需安装LUTS插件（https://www.lookae.com/ofxlut/）",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "需使用FCPX LUT Loader插件（https://www.lookae.com/lut-loader-15s/）",
+      "DaVinci Resolve": "直接使用或导入",
+      "通用方案": "Magic Bullet LUT Buddy（https://www.redgiant.com/downloads/free-products/）或Looks插件"
+    },
+    "related_resources": [
+      "https://www.lookae.com/lookaeluts/",
+      "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158",
+      "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186",
+      "https://lookae.taobao.com/",
+      "https://www.lookae.com/sponsor/",
+      "https://www.lookae.com/tag/lut/"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "AE插件-方框底栏文字动画特效TextBox 1.2 Win版+使用教程",
+  "slug": "aecha-jian-fang-kuang-di-lan-wen-zi-dong-hua-te-xiao-textbox-1-2-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/12/13 13:27",
+  "source_url": "https://www.lookae.com/textbox/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "TextBox 是一款原生 AE 插件，可为文字标题快速创建带有方框底栏的视觉效果，无需复杂设置或表达式。适用于制作 MG 文本切换过渡、字幕条及标题设计。支持多种形状（自动、正方形、圆形）、大小调节、圆角设置、方向倾斜控制、描边选项，并兼容三维文本与段落文本。同时支持运动模糊，适用于 Windows 系统下的 After Effects CS6 至 CC 2019 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/12/TextBox.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Win 版插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-324945093"
+    },
+    {
+      "name": "Win 版插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1y14FtSlyD_2eVx3D6-skbg"
+    },
+    {
+      "name": "视频教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-324945108"
+    },
+    {
+      "name": "视频教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1YrCXyIWzM5shVMkdGwduig"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/textbox/",
+    "description_en": "TextBox is a native plugin that creates a perfectly sized, customisable shape behind your text that updates automatically and is applied directly to the text layer so no need for parenting, mattes or expressions!",
+    "features": [
+      "Direct application to text layers without masks, mattes, or expressions",
+      "Multiple shape options (auto, square, circle)",
+      "Adjustable shape size and corner rounding",
+      "Direction/tilt settings",
+      "Optional stroke",
+      "Supports 3D text and paragraph text",
+      "Motion blur compatible"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本-一键创建图层属性控制器 Link IT v1.0 Win/Mac",
+  "slug": "aejiao-ben-yi-jian-chuang-jian-tu-ceng-shu-xing-kong-zhi-qi-link-it-v1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/04/01 09:57",
+  "source_url": "https://www.lookae.com/link-it/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Link IT 是一个 After Effects 脚本，可通过强大高级的选项帮助您一键式创建图层属性的控制器。该脚本兼容变换、效果、内容等图层属性，支持多图层、多属性、2D 和 3D 图层，允许用户创建控制器并将其链接到另一层的分隔属性，还可添加自定义名称及分离属性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/04/LINK-IT-.jpeg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-433950731"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1FvRu4dfvd1YCcRRJOfquFQ"
+    }
+  ],
+  "other": {
+    "baidu_netdisk_extract_code": "un6s"
+  }
+}

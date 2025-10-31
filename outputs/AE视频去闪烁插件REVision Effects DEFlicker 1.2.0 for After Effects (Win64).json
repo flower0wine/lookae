@@ -1,0 +1,31 @@
+{
+  "title": "AE视频去闪烁插件RE:Vision Effects DE:Flicker 1.2.0 for After Effects (Win64)",
+  "slug": "aeshi-pin-qu-shan-shuo-cha-jian-re-vision-effects-de-flicker-1-2-0-for-after-effects-win64",
+  "author": "大众脸",
+  "post_date": "2014/11/10 19:34",
+  "source_url": "https://www.lookae.com/flicker12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "RE:Vision Effects",
+    "win64"
+  ],
+  "content": "由于肉眼和摄像机捕捉光线频率不同，用摄像机捕捉的视频有时会出现光闪烁现象，REVision插件能处理光闪烁、延时拍摄闪烁、动态闪烁等问题，它通过分析画面颜色和亮度计算匹配出平滑视频图像。官网介绍：http://www.revisionfx.com/products/deflicker/overview/。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/11/Flicker12.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 和以上版本,含Adobe CC 2014.1版本",
+  "supported_os": "Win64位",
+  "download_links": [
+    {
+      "name": "AE视频去闪烁插件RE:Vision Effects DE:Flicker 1.2.0 for After Effects (Win64)",
+      "url": "https://www.400gb.com/file/78022127"
+    }
+  ],
+  "other": {
+    "插件包含内容": "共包括三个插件：DE:Flicker High Speed （高速闪烁插件）用于高速率拍摄视频；DE:Flicker Timelapse（间隔闪烁插件）用于延时拍摄视频；DE:Flicker Auto Levels（自动去除闪烁插件）分析画面颜色和亮度自动去除闪烁。",
+    "新版本特性": "1. 修复BUG；2. 修复高光闪烁插件错误；3. 修复间隔闪烁插件无响应问题。",
+    "英文介绍": "DE:Flicker™ is designed to smooth out those annoying flicker and artifacts when shooting high frame rate or timelapse video. Whether you are shooting in an arena, a stadium, a park at night, a nightclub or in a home, man - made light sources can cause havoc, especially now that cameras and smart phones are being made with the ability to shoot at higher and higher frame rates. And of course this functionality is rapidly becoming the favorite of sports enthusiasts everywhere. Dealing with strobing and light source flicker has been very time consuming until now. Without DE:Flicker, fixing the problems usually involves creating mattes followed by hand - adjusting the elements. Fixing a short scene using frame - by - frame color correction and zone corrections could take hours, when it is even possible. REision Effects DE:Flicker handles these problems automatically while retaining image detail. DE:Flicker is unique because it not only fixes flicker from artificial light sources but also fixes flicker on multiple objects, even when those objects flicker at different rates. DE:Flicker also minimizes problems when shooting directly at light sources, causing them to “breathe” and change size when shot at higher frame rates. DE:Flicker consists of 3 plugins: DE:Flicker High Speed: specially designed for problems within high frame rate footage; DE:Flicker Timelapse: specially designed for timelapse photography; DE:Flicker Auto Levels: analyzes and then stabilizes the color and luminance levels of your footage and can be used before more specific processing with one of the other two plug - ins. What’s new in version 1.2.0? Posted November 6, 2014: •Fixes bugs that produce erroneous or blocky results in certain situations. •DE:Flicker HighSpeed: Fixes an issue with Method 6 providing incorrect results. •DE:Flicker Timelapse: The Limit slider has a slightly different response. Compatibility: Adobe After Effects CS5 and up, including Adobe CC versions."
+  }
+}

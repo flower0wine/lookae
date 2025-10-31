@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-自动适配动态方框动画 Pins & Boxes v.1.1.001 + 使用教程",
+  "slug": "aejiao-ben-zi-dong-gua-pei-dong-tai-fang-kuang-dong-hua-pins-boxes-v-1-1-001-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/07/04 17:15",
+  "source_url": "https://www.lookae.com/boxes-11001/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可轻松创建动态方框布局，将元素对齐并附加到文本边界框的任意点，创建随内容增长和缩小的框，在更改文本或调整元素大小时自动适配，适合制作动画图形效果。v.1.1.001版本修复了使用当前时间选项创建引脚的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Pins-Boxes.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-385825024"
+    },
+    {
+      "name": "脚本百度网盘下载",
+      "url": "https://pan.baidu.com/s/1kZCN_n6a92oEPsb6k9vzVQ"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-374997725"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1OP_N5HX1oBgbr9ifyH5njQ"
+    }
+  ],
+  "other": {
+    "脚本介绍英文": "Create dynamic layouts easily. Align and attach elements to any point of the bounding box of texts and create boxes that grow and shrink with their content.",
+    "脚本介绍链接": "https://aescripts.com/pins-and-boxes/",
+    "脚本百度网盘提取码": "hxcs",
+    "教程百度网盘提取码": "ux2p",
+    "分类链接": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "标签链接": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

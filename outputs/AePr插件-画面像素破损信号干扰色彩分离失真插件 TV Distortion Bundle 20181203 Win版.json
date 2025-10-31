@@ -1,0 +1,65 @@
+{
+  "title": "Ae/Pr插件-画面像素破损信号干扰色彩分离失真插件 TV Distortion Bundle 20181203 Win版",
+  "slug": "ae-prcha-jian-hua-mian-xiang-su-po-sun-xin-hao-gan-rao-se-cai-fen-chi-shi-zhen-cha-jian-tv-distortion-bundle-20181203-winban",
+  "author": "大众脸",
+  "post_date": "2018/12/23 12:38",
+  "source_url": "https://www.lookae.com/tv-distortion-181203/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "TV Distortion Bundle 是一套包含五个失真插件的合集，专为 After Effects 和 Premiere 设计，帮助数字媒体艺术家轻松创建模拟失真、数字图像与卫星失真、数字像素模拟以及色差效果，从而模拟从模拟电视时代到现代数字压缩时代的观看体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/TV-Distortion-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Premiere CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-326976915"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1TZNBTtIROQlyzwUYJkeIAQ"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "Bad TV",
+        "version": "v2.1.4",
+        "description": "坏电视效果"
+      },
+      {
+        "name": "Data Glitch",
+        "version": "v2.0.8",
+        "description": "信号干扰破损效果"
+      },
+      {
+        "name": "Dot Pixels",
+        "version": "v2.5.3",
+        "description": "点阵像素效果"
+      },
+      {
+        "name": "Separate RGB",
+        "version": "v3.0.3",
+        "description": "RGB色彩分离效果"
+      },
+      {
+        "name": "TVPixel",
+        "version": "v1.0.4",
+        "description": "电视像素损坏效果"
+      }
+    ],
+    "installation_instructions": [
+      "复制Rowbyte文件夹到以下路径：C:\\Program Files\\Adobe\\Common\\Plug-ins\\7.0\\MediaCore\\",
+      "复制RWBYTE文件夹到以下路径：C:\\ProgramData\\",
+      "完成安装，打开AE软件使用插件"
+    ],
+    "official_website": "https://www.rowbyte.com/tv-distortion-bundle",
+    "note": "关于这个新版的Mac版，我争取把他破出来吧！"
+  }
+}

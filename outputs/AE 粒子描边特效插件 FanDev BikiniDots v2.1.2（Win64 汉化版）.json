@@ -1,0 +1,36 @@
+{
+  "title": "AE 粒子描边特效插件 FanDev BikiniDots v2.1.2（Win64 汉化版）",
+  "slug": "ae-li-zi-miao-bian-te-xiao-cha-jian-fandev-bikinidots-v2-1-2-win64-yi-hua-ban",
+  "author": "大众脸",
+  "post_date": "2014-04-11T00:49:00Z",
+  "source_url": "https://www.lookae.com/bikinidots/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win64位"
+  ],
+  "content": "FanDev BikiniDots v2.1.2 是专为 Adobe After Effects 打造的粒子描边特效插件，包含 b_dots 和 b_stroke 两个组件。b_stroke 为路径行程插件，支持 Z 轴深度位移，可实现路径在 X、Y、Z 方向上的运动；b_dots 为点阵生成器，能根据源图像像素平均值生成彩色圆点矩阵。两者均支持基于亮度、饱和度和色调的 Z 深度位移与点/线大小动态调节。插件具备完整的摄像机与 3D 功能，适用于 Windows 系统下的 AE CS5 至 CC 版本。中文汉化由 Z 汉化提供。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/BikiniDots.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS5 - CC",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE 粒子描边特效插件 FanDev BikiniDots v2.1.2（Win64 汉化版）",
+      "url": "https://www.400gb.com/file/62272063"
+    }
+  ],
+  "other": {
+    "plugin_info_url": "http://www.fandev.com/bikinidots.html",
+    "original_author": "FanDev",
+    "translation_by": "Z 汉化",
+    "additional_tags": [
+      "After Effects",
+      "3D 功能",
+      "路径动画",
+      "点阵生成"
+    ]
+  }
+}

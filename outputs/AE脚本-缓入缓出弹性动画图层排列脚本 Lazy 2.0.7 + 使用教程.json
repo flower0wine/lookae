@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-缓入缓出弹性动画图层排列脚本 Lazy 2.0.7 + 使用教程",
+  "slug": "aejiao-ben-huan-ru-huan-chu-dan-xing-dong-hua-tu-ceng-pai-lie-jiao-ben-lazy-2-0-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/10/19 14:14",
+  "source_url": "https://www.lookae.com/lazy-207/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Lazy 脚本可让您在 After Effects 中选中多个图层或关键帧，并根据所选的贝塞尔曲线来分布它们的位置。该功能特别适用于制作 MG 动画，能够实现流畅的缓入缓出弹性动画效果。脚本支持跨时间轴的图层或关键帧沿自定义曲线排列，提升动画创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Lazy-2-.jpg"
+  ],
+  "video_urls": [
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2fSnucwoQMeJjy0FoXXcShVXa_!!705956171.gif"
+  ],
+  "supported_versions": "AE 2021、2020、CC 2019、CC 2018、CC 2017、CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518155534-2a0d85"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1NU8N8AP3wu1usDqvC9wQLg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/gYfmMJcVQBN"
+    }
+  ],
+  "other": {
+    "update_notes": "2.0.7 版本更新内容：更新许可框架",
+    "tutorial_video": true,
+    "usage_scenario": "适用于制作MG动画时对图层或关键帧进行弹性、缓入缓出的曲线排列",
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

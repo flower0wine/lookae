@@ -1,0 +1,121 @@
+{
+  "title": "50个电影大片风格LUTs调色预设 TropicColour – Bold Abstraction LUTS",
+  "slug": "50ge-dian-ying-da-pian-feng-ge-lutsdiao-se-yu-she-tropiccolour-bold-abstraction-luts",
+  "author": "大众脸",
+  "post_date": "2018/09/07 17:20",
+  "source_url": "https://www.lookae.com/bold-abstraction/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "调色预设"
+  ],
+  "content": "这套预设共50个LUTs调色预设，.CUBE 格式，适用于任何后期图像处理软件上。提供行业标准的3D LUT，更好、更快、更容易的颜色校正和分级调色，让画面颜色看起来富有创意。LUT 能够快速搞定调色步骤，具有丰富的动态色彩，使画面更接近电影胶片质感。大部分后期软件均可使用，可轻松集成到工作流程中。通过使用LUT可以迅速达到理想的色彩效果，并在此基础上进行微调以呈现独特风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/09/Bold-Abstraction-LUTS.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN011vSMZs4FRvPzo6r_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4",
+    "https://pan.baidu.com/s/1dEdBwA1"
+  ],
+  "supported_versions": "Adobe CS6 - CC 2018, DaVinci Resolve (Full & Lite), Final Cut Pro X/7, Avid MC 7, Sony Vegas, Edius, Nuke, SCRATCH, Motion 5/4 等",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-308383162"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1tAASLq1OYisa09P5J7VGdg"
+    }
+  ],
+  "other": {
+    "preset_details": {
+      "count": 50,
+      "format": ".CUBE",
+      "includes": "10 Tropic Colour Bold Abstraction LUTs",
+      "strengths_per_lut": [
+        "100%",
+        "80%",
+        "60%",
+        "40%",
+        "20%"
+      ],
+      "gamma_compatibility": [
+        "RAW",
+        "LOG",
+        "FLAT Gamma Space",
+        "REDLOGFILM",
+        "ARRILOG C",
+        "SLOG",
+        "VLOG",
+        "其他 FLAT Picture Profiles"
+      ]
+    },
+    "software_support": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2018",
+      "Adobe After Effects CS6-CC 2018",
+      "Adobe Photoshop CS6-CC 2018",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "usage_instructions": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects": "Effects → Utility → Apply Color LUT",
+      "Vegas Pro": "需安装 LUTS 插件（链接：https://www.lookae.com/ofxlut/）",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "需使用 FCPX LUT Loader 插件（链接：https://www.lookae.com/lut-loader-15s/）",
+      "DaVinci Resolve": "直接使用或导入",
+      "通用提示": "只要软件支持 Looks 新版调色插件，即可通过 Looks 导入 LUT 使用",
+      "推荐工具": [
+        {
+          "name": "Magic Bullet LUT Buddy",
+          "url": "https://www.redgiant.com/downloads/free-products/"
+        },
+        {
+          "name": "FCPX软件 LUT 实用颜色工具",
+          "url": "https://www.lookae.com/fcpx-lut/"
+        }
+      ]
+    },
+    "related_recommendations": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      }
+    ],
+    "additional_links": {
+      "fcpx_lut_loader": "https://www.lookae.com/lut-loader-15s/",
+      "official_taobao_store": "https://lookae.taobao.com/",
+      "sponsor_link": "https://www.lookae.com/sponsor/",
+      "free_luts_collection": "https://www.lookae.com/tag/lut/"
+    }
+  }
+}

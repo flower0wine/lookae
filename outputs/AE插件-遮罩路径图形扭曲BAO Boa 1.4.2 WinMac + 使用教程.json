@@ -1,0 +1,41 @@
+{
+  "title": "AE插件-遮罩路径图形扭曲BAO Boa 1.4.2 Win/Mac + 使用教程",
+  "slug": "aecha-jian-zhe-zhao-lu-jing-tu-xing-niu-qu-bao-boa-1-4-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/31 09:56",
+  "source_url": "https://www.lookae.com/boa-142/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "一款AE插件，用于制作沿着MASK遮罩路径扭曲的图层动画。Boa is a plugin for After Effects built to distort layers along mask paths。1.4.2更新内容：修复了纹理大小问题（仅16Bit）。支持After Effects CS6 – CC 2019。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/BAO-Boa.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-415641907"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1LYKj8nzLvNee4rNNjvAzPA"
+    }
+  ],
+  "other": {
+    "tutorial_download_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-395367140"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1cvahGasOL717SFmriVcwUw"
+      }
+    ],
+    "official_url": "https://aescripts.com/bao-boa/"
+  }
+}

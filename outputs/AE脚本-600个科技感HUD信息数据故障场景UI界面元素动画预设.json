@@ -1,0 +1,44 @@
+{
+  "title": "AE脚本-600个科技感HUD信息数据故障场景UI界面元素动画预设",
+  "slug": "aejiao-ben-600ge-ke-ji-gan-hudxin-xi-shu-ju-gu-zhang-chang-jing-uijie-mian-yuan-su-dong-hua-yu-she",
+  "author": "大众脸",
+  "post_date": "2020-06-28T18:15:00Z",
+  "source_url": "https://www.lookae.com/technology-constructor/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "精品资源"
+  ],
+  "content": "本项目提供600个科技感HUD信息数据故障场景的UI界面元素动画预设，包含独立的HUD小动画与预置的文字标题动画场景（支持自定义文字和颜色）。所有动画可在脚本中直接预览并一键加载使用，支持多预设组合叠加，实现多样化视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/06/Technology-Constructor.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01HDqpQk1vSMjJUOqq5_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v3peDw1vSMjJUNZsm_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/270553970679.mp4"
+  ],
+  "supported_versions": "AE CC 2017, 2018, 2019, 2020 及更高版本",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "淘宝购买",
+      "url": "https://item.taobao.com/item.htm?spm=a2126o.success.0.0.462e4831dd8XGY&id=621464784376"
+    },
+    {
+      "name": "站内直接购买",
+      "url": "https://www.lookae.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.lookae.com%2Ftechnology-constructor%2F"
+    }
+  ],
+  "other": {
+    "resolution": "不限制",
+    "plugins_required": "不需要外置第三方插件",
+    "extension_used": "Atom (已提供)",
+    "file_size": "974M",
+    "installation_method": "PDF中文图文安装方法（大脸整理，已严格测试）",
+    "tutorial": "英文视频教程",
+    "audio_music": "无",
+    "note": "脚本使用需具备一定AE基础，新手请慎重选购，不提供任何修改服务"
+  }
+}

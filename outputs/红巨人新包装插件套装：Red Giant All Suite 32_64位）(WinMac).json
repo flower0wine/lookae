@@ -1,0 +1,125 @@
+{
+  "title": "红巨人新包装插件套装：Red Giant All Suite 32_64位）(Win/Mac)",
+  "slug": "hong-ju-ren-xin-bao-zhuang-cha-jian-tao-zhuang-red-giant-all-suite-32-64wei-win-mac",
+  "author": "大众脸",
+  "post_date": "2013/08/01 18:16",
+  "source_url": "https://www.lookae.com/rgtz-news/",
+  "category": "aechajian",
+  "tags": [
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "Red Giant 对其插件进行了重新打包和分组，推出了新包装的新套装。该套装包含多个功能强大的插件系列，适用于影视后期制作，涵盖调色、粒子、抠像、视觉特效等多个领域。插件支持多平台，广泛兼容主流视频与图像处理软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/08/RGTZ-NEW.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "32位和64位",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Color Suite - Windows",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Color/CSuite_Win_Full.zip"
+    },
+    {
+      "name": "Color Suite - macOS",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Color/CSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Shooter Suite - Windows",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Shooter/SSuite_Win_Full.zip"
+    },
+    {
+      "name": "Shooter Suite - macOS",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Shooter/SSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Trapcode Suite - Windows",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Trapcode/TCSuite_Win_Full.zip"
+    },
+    {
+      "name": "Trapcode Suite - macOS",
+      "url": "http://files.redgiantsoftware.com/Products/SingleSuites/Trapcode/TCSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Keying Suite - Windows",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Keying/KSuite_Win_Full.zip"
+    },
+    {
+      "name": "Keying Suite - macOS",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Keying/KSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Effects Suite - Windows",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Effects/ESuite_Win_Full.zip"
+    },
+    {
+      "name": "Effects Suite - macOS",
+      "url": "http://files.redgiant.com/Products/SingleSuites/Effects/ESuite_Mac_Full.zip"
+    },
+    {
+      "name": "SN序列号",
+      "url": "https://www.400gb.com/file/26701927"
+    }
+  ],
+  "other": {
+    "compatible_software": [
+      "After Effects",
+      "Final Cut Pro",
+      "Motion",
+      "Premiere Pro",
+      "Photoshop",
+      "Lightroom",
+      "Aperture",
+      "Avid",
+      "Vegas",
+      "Nuke",
+      "Studio"
+    ],
+    "suites": {
+      "Color Suite": [
+        "Colorista II",
+        "Cosmo 1.0",
+        "Denoiser II 1.4",
+        "LUT Buddy 1.0.1",
+        "Magic Bullet Looks 2.1.0",
+        "Mojo 1.2"
+      ],
+      "Shooter Suite": [
+        "Frames 1.1",
+        "Instant HD 1.2",
+        "LUT Buddy 1.0.1",
+        "PluralEyes 3",
+        "Red Giant BulletProof 1.0"
+      ],
+      "Trapcode Suite": [
+        "Trapcode 3D Stroke 2.6",
+        "Trapcode Echospace 1.1",
+        "Trapcode Form 2.0.4",
+        "Trapcode Horizon 1.1",
+        "Trapcode Lux 1.2",
+        "Trapcode Mir 1.0",
+        "Trapcode Particular 2.2",
+        "Trapcode Shine 1.6",
+        "Trapcode Sound Keys 1.2",
+        "Trapcode Starglow 1.6"
+      ],
+      "Keying Suite": [
+        "Key Correct 1.2",
+        "Primatte Keyer 5.0",
+        "Warp 1.1"
+      ],
+      "Effects Suite": [
+        "Composite Wizard 1.4.6",
+        "Holomatrix 1.2",
+        "Image Lounge 1.4",
+        "Knoll Light Factory 3.0",
+        "PlaneSpace 1.4",
+        "Psunami 1.4",
+        "Text Anarchy 2.4",
+        "ToonIt 2.1",
+        "Warp 1.1"
+      ]
+    }
+  }
+}

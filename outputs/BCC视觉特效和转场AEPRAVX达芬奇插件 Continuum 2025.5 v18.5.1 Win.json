@@ -1,0 +1,88 @@
+{
+  "title": "BCC视觉特效和转场AE/PR/AVX/达芬奇插件 Continuum 2025.5 v18.5.1 Win",
+  "slug": "bccshi-jue-te-xiao-he-zhuan-chang-ae-pr-avx-da-fen-qi-cha-jian-continuum-2025-5-v18-5-1-win",
+  "author": "大众脸",
+  "post_date": "2025-09-23T09:13:00Z",
+  "source_url": "https://www.lookae.com/bcc-1851/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "BCC插件",
+    "PR插件",
+    "达芬奇插件"
+  ],
+  "content": "Continuum 插件为内容创作者提供超过300种视觉效果、40种转场和5000多个预设，支持AI驱动的图像降噪、质量提升、专业电影纹理添加、广播级转场、素材快速修复、3D粒子动画生成及2D/3D矢量标题构建。该插件包具备跨平台兼容性，适用于多种主流视频编辑与VFX软件，并持续优化性能以提升创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/11/BCC-2025.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/490738345095.mp4"
+  ],
+  "supported_versions": "After Effects 2021-2025, Premiere Pro 2021-2025, DaVinci Resolve 17-19+, Nuke 13-15+, Vegas 20-22+, Fusion 17-19+, Avid Media Composer 2021-2024",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR插件下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8438716278-6259fe?p=4431"
+    },
+    {
+      "name": "AE/PR插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/155YrJwU3ZiiMz33IaBVmFg?pwd=2hmv"
+    },
+    {
+      "name": "AE/PR插件下载 - 阿里云盘",
+      "url": "https://www.alipan.com/s/p6wueWCsx3Y"
+    },
+    {
+      "name": "OFX/达芬奇插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8438564712-15dab0?p=4431"
+    },
+    {
+      "name": "OFX/达芬奇插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1dxU9p7WonN5hf323ZVrdoA?pwd=9b89"
+    },
+    {
+      "name": "OFX/达芬奇插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/wbRktswfmNL"
+    },
+    {
+      "name": "AVX系列插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8438538409-fc9016?p=4431"
+    },
+    {
+      "name": "AVX系列插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/11WBUEOvNtUs7KzT7pYC_iA?pwd=uvpf"
+    },
+    {
+      "name": "AVX系列插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/3HqdSoBEmwR"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新增插件 BCC+ Motion Blur ML：运动模糊-在几秒钟内为视频和运动图形添加准确逼真的运动模糊",
+      "新增插件 BCC+ License Plate ML：牌照-立即查找和模糊字母数字牌照标识符",
+      "新增4 种转场：BCC+ 烟雾和雾、BCC+ 烟雾擦拭、BCC+ 大气辉光溶解、BCC+ 球体溶解",
+      "6 种更新效果：BCC+ 颗粒、BCC+ 线性色键、BCC+ 像素选择器、BCC+ 双向键控器、BCC+ 烟雾和 BCC+ 大气辉光",
+      "粒子粒子改进：轻松创建循环并使用重复动画功能扩展动画等",
+      "200 多个预设：由专业人士设计，包含多个效果类别",
+      "FX 编辑器：新的图像缓存系统可让您更快地播放并更快地进行细化外观",
+      "主机支持：Continuum 现在支持 Davinci Resolve 的 Fusion 页面"
+    ],
+    "related_links": [
+      {
+        "title": "Win中文汉化-视觉特效和转场AE/PR插件 BCC 2025 v18.0.3",
+        "url": "https://www.lookae.com/bcc-2021-ch/"
+      },
+      {
+        "title": "Mac苹果版-BCC视觉特效和转场AE/PR/FCPX/达芬奇/AVID插件 Continuum 2024 v17.0.3",
+        "url": "https://www.lookae.com/bcc-2024-mac/"
+      }
+    ],
+    "version": "2025.5 v18.5.1",
+    "plugin_type": "Visual Effects & Transitions",
+    "platform": "Windows",
+    "license": "Access password required for some download links (e.g., 6688, 2hmv, 9b89, uvpf)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "更新：AE点线面三维粒子插件：Rowbyte Plexus 2.0.15（支持CS5 – CC 2015)",
+  "slug": "geng-xin-aedian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-2-0-15-zhi-chi-cs5-cc-2015",
+  "author": "大众脸",
+  "post_date": "2015/09/21 17:35",
+  "source_url": "https://www.lookae.com/plexus2015/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Plexus是aescripts发布的AE 3D点线面粒子插件，类似Trapcode Form，优势在于渲染速度快，并支持导入3D模型作为粒子发射器。用户可将3D模型保存为OBJ格式导入After Effects，也可通过路径、文字和灯光创建粒子发射，操作方式独特。插件内置六种自定义特效，包括分形、颜色、球形场和阴影等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/05/Plexus-2.0.10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5, CS5.5, CS6, CC, CC 2014, CC 2015",
+  "supported_os": "Windows 64位",
+  "download_links": [
+    {
+      "name": "AE三维粒子插件：Rowbyte Plexus 2.0.15 （Win64位）",
+      "url": "https://www.400gb.com/file/119367545"
+    }
+  ],
+  "other": {
+    "official_url": "http://aescripts.com/plexus/",
+    "update_notes": "修复插件在 Adobe CC 2015 中的BUG错误",
+    "installation_instructions": [
+      "安装Plexus Installer.exe",
+      "复制Fixed Plexus 2.0.13文件夹内文件到以下目录覆盖：C:\\Program Files\\Adobe\\Common\\Plug-ins\\XXX\\MediaCore\\Rowbyte\\Plexu 或 AE插件目录内覆盖"
+    ],
+    "related_links": {
+      "mac_version": "http://www.ctdisk.com/file/10666082",
+      "tutorial": "https://www.lookae.com/plexus2-tutorial/"
+    }
+  }
+}

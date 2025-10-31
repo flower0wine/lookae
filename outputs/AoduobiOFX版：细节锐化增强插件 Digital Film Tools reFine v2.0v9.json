@@ -1,0 +1,33 @@
+{
+  "title": "Aoduobi/OFX版：细节锐化增强插件 Digital Film Tools: reFine v2.0v9",
+  "slug": "aoduobi-ofxban-xi-jie-rui-hua-zeng-qiang-cha-jian-digital-film-tools-refine-v2-0v9",
+  "author": "大众脸",
+  "post_date": "2017/04/15 08:20",
+  "source_url": "https://www.lookae.com/refine209/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "OFX",
+    "PR插件",
+    "PS插件",
+    "VEGAS插件"
+  ],
+  "content": "reFine 插件是由Digital Film Tools公司出品，完善了一种新技术，可进行选择性锐化，细节增强，边缘平滑，卡通铅笔效果。使用高品质的边缘保持滤波静态和动态图像，也有可观的速度提升和现有方法相比，节省内存。我们把图像分解成三个细节层：粗，中，细。每一个都可以被操纵，分别以不同的方式，例如，锐化或平滑。添加到复杂的、8/16/32位图像处理技术，多处理器的加速度。\n\nreFine presents a new technique for performing selective sharpening, detail enhancement, edge aware smoothing, cartoon and pencil effects. Using high-quality edge preserving filtering of still and moving images, there are considerable speedups and memory savings over existing methods. Our approach decomposes the image into three detail layers: Coarse, medium and fine. Each of the detail layers can be manipulated separately in various ways, for instance, sharpening or smoothing. Add to that sophisticated, but easy to use masking and you have quick isolation of image features for selective filtering.\n\n官网地址：http://www.digitalfilmtools.com/refine/",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/reFine.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5 and up (64 Bit Only)（兼容 CC 2017）；Photoshop Elements 13 and up (Non-app store version)；Photoshop Lightroom 3 and up；After Effects CS5 and up（兼容 CC 2017）；Premiere Pro CS5 and up（兼容 CC 2017）；Avid Editing Systems (64 Bit only)；Assimilate Scratch v8 and up；Black Magic Resolve v11 and up；Sony Vegas v13 and up；The Foundry’s Nuke v8 and up；other OFX",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/L8A198476574"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1geK2zeF"
+    }
+  ]
+}

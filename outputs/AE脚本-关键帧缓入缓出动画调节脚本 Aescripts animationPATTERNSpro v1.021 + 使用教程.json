@@ -1,0 +1,29 @@
+{
+  "title": "AE脚本-关键帧缓入缓出动画调节脚本 Aescripts animationPATTERNSpro v1.021 + 使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-dong-hua-diao-jie-jiao-ben-aescripts-animationpatternspro-v1-021-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-06-17 15:08",
+  "source_url": "https://www.lookae.com/animationpatternspro/",
+  "category": "aescripts",
+  "tags": [
+    "Aescript",
+    "AE脚本"
+  ],
+  "content": "通过使用这个脚本可以很容易的控制关键帧的动画，可以让动画缓入缓出更加的柔和，多种预设选择，带视频使用教程。这是一个基于关键帧的缓动辅助工具，允许您编辑和创建新的缓动类型。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/06/animationpatternsprosplash.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "AE脚本-关键帧缓入缓出动画调节脚本 Aescripts animationPATTERNSpro v1.021 + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/CP0152534183"
+    }
+  ],
+  "other": {
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "official_website": "http://aescripts.com/animationpatternspro/"
+  }
+}

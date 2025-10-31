@@ -1,0 +1,56 @@
+{
+  "title": "AE/PR插件-摄像机色彩空间匹配调色插件 CineMatch v1.41 Win",
+  "slug": "ae-prcha-jian-she-xiang-ji-se-cai-kong-jian-pi-pei-diao-se-cha-jian-cinematch-v1-41-win",
+  "author": "大众脸",
+  "post_date": "2025-04-18T09:41:00Z",
+  "source_url": "https://www.lookae.com/cinematch-141/",
+  "category": "aechajian",
+  "tags": [
+    "CineMatch",
+    "PR插件",
+    "色彩匹配"
+  ],
+  "content": "CineMatch 是一款专为剪辑师、调色师、DIT 和摄影师设计的摄影机色彩空间匹配工具。它可快速、简单地在时间轴上匹配来自不同摄像机的素材，无需预先转码或渲染。支持 S-Log2/3、C-Log、B-Raw、V-Log/L、RED IPP2 等多种 Log 格式之间的转换，并可一键应用正确的 Rec.709 色彩空间转换。插件还内置常规曲线、色相 vs 色相曲线及 LGG 色轮等调色工具。适用于 Premiere Pro 与 DaVinci Resolve，未来将支持 FCP。v1.41 版本新增对 Premiere Pro v25.2 新色彩管理系统及 ARM Windows 笔记本的支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/CineMatch-PR.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356080072638.mp4"
+  ],
+  "supported_versions": "AE/PR CC 2018 - 2025 及更高版本",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1499110607-357967?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/162GhxeNmzq3aUNA2mB94-w?pwd=m9dt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/UrPN4bzXSbY"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "增加了对 Premiere Pro v25.2 中新色彩管理系统的支持",
+      "增加了对 ARM Windows 笔记本电脑的支持"
+    ],
+    "description": "A revolutionary camera-matching tool from filmconvert. For editors, color graders, DITs and cinematographers. Match footage from a range of digital cinema cameras, mirrorless and DSLRs in a few clicks.",
+    "related_tags": [
+      "CineMatch",
+      "PR插件",
+      "色彩匹配"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "author_url": "https://www.lookae.com/author/大众脸/",
+    "source_site": "LookAE.com"
+  }
+}

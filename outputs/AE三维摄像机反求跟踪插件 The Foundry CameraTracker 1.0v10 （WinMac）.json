@@ -1,0 +1,62 @@
+{
+  "title": "AE三维摄像机反求跟踪插件 The Foundry CameraTracker 1.0v10 （Win/Mac）",
+  "slug": "aesan-wei-she-xiang-ji-fan-qiu-gen-zong-cha-jian-the-foundry-cameratracker-1-0v10-win-mac",
+  "author": "大众脸",
+  "post_date": "2017/01/09 13:09",
+  "source_url": "https://www.lookae.com/cameratracker1010/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "CAMERATRACKER 是 After Effects 的三维摄像机跟踪插件，支持在 After Effects 内进行三维相机轨道反求与动向匹配。通过分析实拍素材，提取原始相机的镜头参数和运动轨迹，实现二维与三维素材的精准合成。适用于创建 'in scene' 镜头内标题、插入动画素材、虚拟场景延伸及运动纹理投影对位等效果。该技术曾仅限于 Foundry 的 NUKEX 软件，现可在 Adobe After Effects CC – CC 2017 中直接使用，支持 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/12/camera-10v8.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC – CC 2017",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "AE三维摄像机反求跟踪插件The Foundry CameraTracker 1.0v10 （Win/Mac）",
+      "url": "https://lookae.ctfile.com/fs/thd167004782"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "title": "AE三维摄相机跟踪插件 CameraTracker 1.0v9（Win/Mac）",
+        "url": "https://www.lookae.com/tracker109/"
+      },
+      {
+        "title": "CameraTracker 1.0v7（64Bit）（附安装说明）",
+        "url": "https://www.lookae.com/camera-10v7/"
+      },
+      {
+        "title": "CameraTracker 1.0v6（64Bit）",
+        "url": "http://www.ctdisk.com/file/15448223"
+      },
+      {
+        "title": "CameraTracker 官方教程",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "CameraTracker 1.0v2 AE CS4",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "CameraTracker 1.0v2 AE CS5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "CameraTracker 1.0v2 AE CS5.5",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      },
+      {
+        "title": "The Foundry Camera Tracker 1.0v3 （64位）",
+        "url": "https://www.lookae.com/cameratracker1-0v3/"
+      }
+    ],
+    "official_description_url": "http://www.thefoundry.co.uk/products/cameratracker/"
+  }
+}

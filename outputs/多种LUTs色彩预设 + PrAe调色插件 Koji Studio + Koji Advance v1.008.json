@@ -1,0 +1,43 @@
+{
+  "title": "多种LUTs色彩预设 + Pr/Ae调色插件 Koji Studio + Koji Advance v1.008",
+  "slug": "duo-chong-lutsse-cai-yu-she-pr-aediao-se-cha-jian-koji-studio-koji-advance-v1-008",
+  "author": "大众脸",
+  "post_date": "2015-09-21T14:50:00Z",
+  "source_url": "https://www.lookae.com/kojilut/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "LUT",
+    "PR插件"
+  ],
+  "content": "Koji调色预设包含Koji Studio（官网799美元）和Koji Advance（官网199美元）两个版本。Koji Studio以LUT文件形式使用，适用于支持LUT的各类软件；Koji Advance为插件形式，支持多种摄像机型号的色彩匹配，如Arri、Blackmagic、Canon C系列、Canon DSLR、Generic Rec709、Pamasonic GH系列、RED系列、Sony系列等。用户可根据设备选择对应LUT进行调色。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/09/KojiLUT.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE/Premiere CS6/CC/CC2014/CC2015",
+  "supported_os": "Win64 (Koji Advance), Win/Mac通用 (Koji Studio)",
+  "download_links": [
+    {
+      "name": "多种LUTs色彩预设 + Pr/Ae调色插件 Koji Studio + Koji Advance v1.008",
+      "url": "https://www.400gb.com/file/119347472"
+    },
+    {
+      "name": "推荐：【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+      "url": "https://www.lookae.com/lookaeluts/"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.kojicolor.com/",
+    "additional_info": [
+      "Koji Advance v1.0.0.8 为英文+中文版",
+      "LUT使用方法支持 Adobe Premiere Pro CC、Photoshop、After Effects、Nuke、SCRATCH、Final Cut Pro X、DaVinci Resolve 等软件",
+      "推荐工具：Magic Bullet LUT Buddy（适用于大部分软件）、FCPX软件 LUT 实用颜色工具",
+      "只要软件支持安装新版本调色插件，即可导入并使用LUT"
+    ],
+    "related_resources": [
+      "https://www.lookae.com/tag/lut/",
+      "https://www.lookae.com/fcpx-lut/"
+    ]
+  }
+}

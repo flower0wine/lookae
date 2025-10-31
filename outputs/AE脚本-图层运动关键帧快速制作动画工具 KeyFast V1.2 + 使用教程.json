@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-图层运动关键帧快速制作动画工具 KeyFast V1.2 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-yun-dong-guan-jian-zheng-kuai-su-zhi-zuo-dong-hua-gong-ju-keyfast-v1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-07-03T22:22:00Z",
+  "source_url": "https://www.lookae.com/keyfast-12/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "KeyFast",
+    "关键帧脚本"
+  ],
+  "content": "KeyFast 是一款专为 After Effects 设计的高效动画辅助脚本，提供一键式动画功能，可快速为复杂场景中的多个图层添加运动关键帧。支持路径修整、滑动、缩放、旋转等操作的批量自动化处理，同时具备关键帧错开或对齐、多层关键帧复制粘贴等功能，显著减少重复劳动，提升动画制作效率。其紧凑的独立面板设计，使操作直观便捷，真正实现‘所见即所得’的快速动画体验。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/KeyFast.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50168450277.mp4?_=1"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-607577365-7cc8c3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qws0LGT-xmvE6PT3VKqWkQ?pwd=y75m"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9JNdS3Qud2V"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.2 更新内容：KeyFast 按钮图像已嵌入代码中，便于安装。",
+    "related_tags": [
+      "AE脚本",
+      "KeyFast",
+      "关键帧脚本"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

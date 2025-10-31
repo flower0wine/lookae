@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-将自定义标记快速添加到合成和图层 TimeMarker v1.0.4",
+  "slug": "aejiao-ben-jiang-zi-ding-yi-biao-ji-kuai-su-tian-jia-dao-he-cheng-he-tu-ceng-timemarker-v1-0-4",
+  "author": "大众脸",
+  "post_date": "2025/04/06 21:59",
+  "source_url": "https://www.lookae.com/timemarker-104/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "关键帧标记"
+  ],
+  "content": "脚本TimeMarker通过帮助您将自定义标记快速添加到After Effects中的合成和图层来节省时间。时间戳功能可帮助您沿时间轴测量时间（毫米，秒，帧）。调整颜色，添加注释，设置持续时间，并保护一系列关键帧不被拉伸。A smarter way to add custom markers to comps and layers in After Effects.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/TimeMarker.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/514589810006.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1494113972-68167b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1rgIqvzKWCe1kJQdZJQzb8A?pwd=kjqs"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/hS7f1HR92yc"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.4更新内容：修复启动时出现空错误。",
+    "access_password": "6688",
+    "baidu_netdisk_code": "kjqs"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-MG运动图形高级脚本 Motion v3.27 Win/Mac版 + 使用教程",
+  "slug": "aejiao-ben-mgyun-dong-tu-xing-gao-ji-jiao-ben-motion-v3-27-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/12/30 09:48",
+  "source_url": "https://www.lookae.com/motion-327-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款由 Mt. Mograph出品强大的AE脚本，Motion V3脚本拥有45多个强大的工具和数百个控件：曲线调节、颜色控制、中心点对齐、滑块控制、制作MG小动画的多种快捷操作等。被世界各地的专业人士用于在Adobe After Effects中创建高端MG运动图形。Motion v3具有可自定义UI操作界面，包含超过45种独特的工具和100多种自定义控件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Motion-3.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01oUP5ak1vSMhc2QyEq_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC2018，CC2019，2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://72k.us/file/680462-440164757"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1x8IIT19RTVwbTMRYmj19eg"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://tc5.us/file/680462-415312953"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/1e3WgrgrEwtFV3PNDIy28zg"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "j5wl",
+    "installation_instructions": "1.拷贝com.mtmograph.motion-next文件夹到指定位置；2.运行注册文件；3.开启AE脚本读写权限；4.在窗口-扩展下找到Motion-3脚本；5.输入注册码使用",
+    "note": "这个新版脚本不需要科学上网FQ即可打开使用。千万千万不要更新脚本，否则脚本注册失效。",
+    "official_website": "https://www.mtmograph.com/motion"
+  }
+}

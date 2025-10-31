@@ -1,0 +1,50 @@
+{
+  "title": "22组 LUTs 专业电影调色达芬奇预设 Sonduck LUTS Pack (Win/Mac)",
+  "slug": "22zu-luts-zhuan-ye-dian-ying-diao-se-da-fen-qi-yu-she-sonduck-luts-pack-win-mac",
+  "author": "大众脸",
+  "post_date": "2015-09-01T15:19:00Z",
+  "source_url": "https://www.lookae.com/22lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "调色预设"
+  ],
+  "content": "22组专业电影调色LUT预设，适用于达芬奇等主流后期软件。通过LUT可快速实现电影胶片质感的色彩风格，提升画面视觉表现力。支持多种平台与软件，使用便捷，适合影视制作中的高效调色流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/09/22lut.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Windows / Mac",
+  "download_links": [
+    {
+      "name": "22组 LUTs 专业电影调色预设 Sonduck LUTS Pack (Win/Mac)",
+      "url": "https://www.400gb.com/file/115925936"
+    },
+    {
+      "name": "推荐：【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+      "url": "https://www.lookae.com/lookaeluts/"
+    }
+  ],
+  "other": {
+    "support_software": [
+      "DaVinci Resolve (Full & Lite)"
+    ],
+    "lut_usage_methods": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "DaVinci Resolve": "直接使用或导入",
+      "Magic Bullet LUT Buddy": "适用于大部分软件",
+      "FCPX软件 LUT 实用颜色工具": "FCPX可用"
+    },
+    "note": "只要软件能安装 Looks 新版的调色插件，就能使用 Looks 导入 LUT 使用。",
+    "related_resources": [
+      "https://www.lookae.com/tag/lut/"
+    ]
+  }
+}

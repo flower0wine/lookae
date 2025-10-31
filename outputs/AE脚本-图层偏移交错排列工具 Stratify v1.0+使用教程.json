@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-图层偏移交错排列工具 Stratify v1.0+使用教程",
+  "slug": "aejiao-ben-tu-ceng-pian-yi-jiao-cuo-pai-lie-gong-ju-stratify-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-01-03 09:46",
+  "source_url": "https://www.lookae.com/stratify/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Stratify",
+    "图层排列"
+  ],
+  "content": "Stratify是一款After Effects脚本，可以以传统方式偏移图层，或使用可根据合成位置交错图层的图案将其提升到一个新的水平。包括在紧凑的UI中对所有图层进行排序的选项。脚本支持上升、下降、随机和顺序等多种偏移模式，并提供快捷键操作功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/Stratify.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-999267938-717aaf?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qqnxivqlzJefINSCa9k3FA?pwd=hj58"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/H4FvUjuzUVX"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "hj58",
+    "features": [
+      "上升模式：从底部图层到最上面的选定图层，每次单击增加图层偏移一帧",
+      "下降模式：从最上面的图层到底部选定的图层，每次单击增加图层偏移一帧",
+      "随机模式：通过输入图层应偏移的最小和最大帧数来随机偏移图层",
+      "顺序模式：按选择的顺序对图层进行排序",
+      "快捷键支持：CTRL/CMD可反转步进方向，SHIFT可将偏移量增加十帧"
+    ]
+  }
+}

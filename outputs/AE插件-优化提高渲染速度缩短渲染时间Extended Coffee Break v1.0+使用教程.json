@@ -1,0 +1,33 @@
+{
+  "title": "AE插件-优化提高渲染速度缩短渲染时间Extended Coffee Break v1.0+使用教程",
+  "slug": "aecha-jian-you-hua-ti-gao-xuan-ran-su-du-suo-duan-xuan-ran-shi-jian-extended-coffee-break-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/23 13:27",
+  "source_url": "https://www.lookae.com/extended-coffee-break/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "这是一个延长AE渲染时间的插件，通过设置CPU、GPU、内存的使用占有率，改变渲染进程来减慢AE的渲染速度，从而延长渲染时间，让用户有更长的休息时间。插件使用高度未优化的算法，提供可自定义的CPU可扩展性，且不会对渲染视觉效果产生影响。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Extended-Coffee-Break.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6 – CC2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367667087"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1v_dG-mGyc2zQbxJdvnfLtw"
+    }
+  ],
+  "other": {
+    "baidu_extraction_code": "hail",
+    "plugin_source": "https://aescripts.com/extended-coffee-break/"
+  }
+}

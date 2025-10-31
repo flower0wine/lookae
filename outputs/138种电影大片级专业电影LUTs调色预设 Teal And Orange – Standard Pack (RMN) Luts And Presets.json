@@ -1,0 +1,84 @@
+{
+  "title": "138种电影大片级专业电影LUTs调色预设 Teal And Orange – Standard Pack (RMN) Luts And Presets",
+  "slug": "138chong-dian-ying-da-pian-ji-zhuan-ye-dian-ying-lutsdiao-se-yu-she-teal-and-orange-standard-pack-rmn-luts-and-presets",
+  "author": "大众脸",
+  "post_date": "2017/06/01 18:47",
+  "source_url": "https://www.lookae.com/standard-luts-pack/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "这套LUTs预设包含138种电影大片级专业调色效果，涵盖多种Teal & Orange风格，适用于广泛的后期制作场景。预设采用行业标准的3D LUT格式，能快速实现富有创意的胶片质感色彩，大幅提升调色效率。支持在多种主流视频与图像处理软件中使用，只需简单导入即可应用，适用于各类视频素材的色彩校正与风格化处理。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/06/TEAL-AND-ORANGE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf"
+  ],
+  "supported_versions": "Adobe CS6 - CC 2017, Final Cut Pro 7/X, DaVinci Resolve (Full & Lite), Sony Vegas, Avid MC 7, Nuke, SCRATCH, Film Master, Quantel Pablo, BaseLight, Motion 4/5, Edius, CineForm Studio Premium, Shake, Pandora Revolution/Pixi",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-205114242"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1hrJgTMW"
+    },
+    {
+      "name": "高清教程视频文件下载",
+      "url": "https://pan.baidu.com/s/1dEdBwA1"
+    }
+  ],
+  "other": {
+    "pack_contents": [
+      "130-3D Luts & Presets",
+      "BROWN AQUA – RMN (PACK) 30 LUTS",
+      "TEAL AND ORANGE – CINEMATIC LUTs",
+      "MILD TEAL AND ORANGE LUTs",
+      "SOFT TEAL ORANGE 5 LUTS",
+      "TEAL ORANGE – CLASSIC 27 LUTS",
+      "Teal And Orange – Cine A-Z (RMN) 52 Luts",
+      "3D Luts & PRESETS",
+      "Lut Loaders",
+      "RMN Films",
+      "Lightroom Presets & Photoshop Camera Raw Presets/ACR"
+    ],
+    "file_formats": [
+      ".cube",
+      ".lrtemplate",
+      ".xmp"
+    ],
+    "lut_loaders": {
+      "FCPX": "https://www.lookae.com/lut-loader-15s/",
+      "Vegas": "https://www.lookae.com/ofxlut/",
+      "Magic Bullet LUT Buddy": "https://www.redgiant.com/downloads/free-products/",
+      "FCPX实用颜色工具": "https://www.lookae.com/fcpx-lut/"
+    },
+    "related_resources": [
+      {
+        "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "title": "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-2793086484.29.ksKbyZ&id=524413880158"
+      },
+      {
+        "title": "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+        "url": "https://item.taobao.com/item.htm?spm=0.0.0.0.OffltL&id=527320967186"
+      },
+      {
+        "title": "上万种LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      }
+    ],
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/"
+  }
+}

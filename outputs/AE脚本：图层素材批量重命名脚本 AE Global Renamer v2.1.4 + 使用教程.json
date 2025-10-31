@@ -1,0 +1,36 @@
+{
+  "title": "AE脚本：图层素材批量重命名脚本 AE Global Renamer v2.1.4 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-su-cai-pi-liang-zhong-ming-ming-jiao-ben-ae-global-renamer-v2-1-4-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/10/14 16:47",
+  "source_url": "https://www.lookae.com/renamer214/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可在AE软件中为素材图层批量重命名，包括图层、文字层、属性名字、表达式、效果插件名字、输出文件等，还能给名字添加前后缀，适用于管理多图层项目。官网地址为http://aescripts.com/ae-global-renamer/，适用于Win/Mac系统下的AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/07/Global-Renamer.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-314558688"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1O-wwK970Y1PRY9wyWmvkvA"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件](https://www.lookae.com/after-effects/aechajian/)",
+      "AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "After Effects](https://www.lookae.com/after-effects/)"
+    ]
+  }
+}

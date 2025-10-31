@@ -1,0 +1,58 @@
+{
+  "title": "AE插件-环境氛围光效环绕包裹特效 Crate’s Light Wrap 1.0.1 Win",
+  "slug": "aecha-jian-huan-jing-fen-wei-guang-xiao-huan-rao-bao-guo-te-xiao-crates-light-wrap-1-0-1-win",
+  "author": "大众脸",
+  "post_date": "2025/02/19 10:53",
+  "source_url": "https://www.lookae.com/crates-light-wrap-101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "光效插件"
+  ],
+  "content": "Light-wraps 是一种有效且未被充分利用的技术，可显著提升合成画面的视觉真实感。它模拟了前景周围极亮光源的扩散效果，帮助将前景层与背景自然融合，形成统一协调的最终图像。该技术广泛应用于明亮背景、天空、火焰特效以及强光源场景中，尤其适用于绿幕素材合成和将CG元素无缝融入实拍镜头。由于多数3D软件无法自动生成光环绕现象，因此在后期合成中添加光包裹成为关键步骤。本插件专为 After Effects 设计，支持 AE CS6 至 CC 2025 及更高版本，是 Blender、Cinema4D、Houdini 用户的重要辅助工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/10/Crate-s-Light-Wrap.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/380408798233.mp4"
+  ],
+  "supported_versions": "AE CS6 – CC 2025 及更高版本",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1461808777-16b1f1?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Oc65ZqjH6JsgbPFdvdShCQ?pwd=4qiw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/5ngzD7nSfK7"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "AE插件",
+      "光效插件"
+    ],
+    "description": "一款免费的 After Effects 插件，用于实现环境光效环绕包裹效果，增强合成的真实感和视觉冲击力。",
+    "usage_scenarios": [
+      "绿屏素材合成",
+      "CG元素融入实拍镜头",
+      "火焰、爆炸等强光源特效处理",
+      "提升场景整体融合度"
+    ],
+    "plugin_features": [
+      "模拟真实光源扩散",
+      "增强前景与背景的视觉整合",
+      "适用于多种照明场景",
+      "支持主流3D软件输出的后续合成"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "4qiw"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "AE/PS/Lightroom 描边插件 Digital Film Tools: Power Stroke v1.1v3 CE",
+  "slug": "ae-ps-lightroom-miao-bian-cha-jian-digital-film-tools-power-stroke-v1-1v3-ce",
+  "author": "大众脸",
+  "post_date": "2016-08-17T11:23:00Z",
+  "source_url": "https://www.lookae.com/power-stroke-113/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PS插件"
+  ],
+  "content": "Power Stroke 是 Digital Film Tools（DFT）公司推出的基于笔划互动工作流程的描边插件，支持 After Effects、Photoshop 及 Lightroom。它通过简单的画笔绘制即可快速隔离目标区域，无需复杂的手动遮罩绘制，实现精准的局部调色与效果处理。插件利用亮度加权色度混合与快速内在距离计算技术，显著降低操作复杂度和计算成本，提供高质量的边缘识别与调整结果。支持多种特效应用，包括色彩校正、重新着色、饱和度调节、黑白图像处理、模糊、补光、扩散/辉光等，适用于影视调色师、视频编辑、摄影师及设计师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/powerstroke.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Photoshop CS5 – CC 2015.5（仅64位）、Photoshop Elements 13 及以上（非App Store版）、Lightroom 3 及以上、After Effects CS5 – CC 2015.3",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PS/Lightroom 描边插件 Digital Film Tools: Power Stroke v1.1v3 CE",
+      "url": "http://lookae.ctfile.com/fs/o89155362501"
+    }
+  ],
+  "other": {
+    "plugin_company": "Digital Film Tools (DFT)",
+    "official_website": "http://www.digitalfilmtools.com/powerstroke/",
+    "installation_note": "一键安装版，安装后可直接使用",
+    "workflow_type": "交互式笔刷驱动工作流",
+    "key_features": [
+      "基于笔划的区域选择",
+      "自动边缘识别与融合",
+      "支持多层效果叠加",
+      "高效率、低计算开销",
+      "适用于调色、图像修复、视觉特效"
+    ]
+  }
+}

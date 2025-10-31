@@ -1,0 +1,73 @@
+{
+  "title": "Win/Mac版：红巨人后期流程插件套装 Red Giant Shooter Suite 13.0.4 更新支持 CC 2015.3",
+  "slug": "win-macban-hong-ju-ren-hou-qi-liu-cheng-cha-jian-tao-zhuang-red-giant-shooter-suite-13-0-4-geng-xin-zhi-chi-cc-2015-3",
+  "author": "大众脸",
+  "post_date": "2016/06/29 13:17",
+  "source_url": "https://www.lookae.com/ss1304/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "PR插件"
+  ],
+  "content": "Red Giant Shooter Suite 13 是一套面向摄像师和剪辑师的插件套装，适用于处理来自相机和音频设备的媒体素材。该套装包含四个工具，让用户能够自由拍摄，并确保素材能安全、完整、同步地从相机传输到剪辑时间线。这套插件能显著优化后期工作流程，适用于多种后期制作场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/shooter13.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3; Adobe Premiere Pro CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3; Final Cut Pro 6, 7, X; Avid Media Composer 7 or later",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "http://lookae.ctfile.com/fs/Yoc153351241"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "http://lookae.ctfile.com/fs/eQQ153351235"
+    },
+    {
+      "name": "SN序列号下载",
+      "url": "https://www.400gb.com/file/26701927"
+    },
+    {
+      "name": "Red Giant Shooter Suite 13.0.1 CE 一键安装版（Win 可用 PluralEyes 4.0）",
+      "url": "https://www.lookae.com/shooter1301/"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.redgiant.com/products/shooter-suite/",
+    "plugin_components": [
+      {
+        "name": "Plural Eyes",
+        "version": "v4.0.0",
+        "description": "音视频自动同步插件"
+      },
+      {
+        "name": "Offload",
+        "version": "v1.0.2",
+        "description": "素材备份工具"
+      },
+      {
+        "name": "Instant 4K",
+        "version": "v1.5.2",
+        "description": "高清插件（支持4K）"
+      },
+      {
+        "name": "Frames",
+        "version": "v1.1.5",
+        "description": "转场插件（用于素材上下场，非视频间切换）"
+      }
+    ],
+    "serial_numbers": {
+      "Denoiser II": "MBNK1245865095746168",
+      "Frames 1.1": "MBFK1245843484599512",
+      "Instant 4K": "IHDK1245843086124132",
+      "Offload 1.0": "OFLK1245858439487526",
+      "BulletProof 1.2.2": "RGBK1245874736628977",
+      "PluralEyes 3.5": "PLLK1245872562842515",
+      "PluralEyes 4.0": "暂无序列号",
+      "LUT Buddy": "included free"
+    }
+  }
+}

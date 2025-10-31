@@ -1,0 +1,65 @@
+{
+  "title": "Ae/Pr/Avid/达芬奇/Vegas/OFX 视觉特效+转场插件包 NewBlueFX TotalFX5 v6.0.180730 CE",
+  "slug": "ae-pr-avid-da-fen-qi-vegas-ofx-shi-jue-te-xiao-zhuan-chang-cha-jian-bao-newbluefx-totalfx5-v6-0-180730-ce",
+  "author": "大众脸",
+  "post_date": "2018/09/16 18:54",
+  "source_url": "https://www.lookae.com/totalfx6180730/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "OFX",
+    "Pinnacle Studio",
+    "PR插件",
+    "VEGAS插件",
+    "达芬奇插件"
+  ],
+  "content": "NewBlue 公司出品的 TotalFX 5 是一套全面的视频后期处理插件包，包含超过 129 款插件和 1400 多个预设效果，涵盖视频特效、转场、文字动画、调色、字幕和稳定防抖等功能，并支持 GPU 加速。该插件包整合了 Elements、Essentials、Filters、Stylizers、Transitions 和 Titling 等系列的 Ultimate 版本，包含 Titler Pro 5 和 Colorfast 2 等专业工具，适用于各类专业视频编辑需求。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/05/TotalFX3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2018, Adobe Premiere Pro CC – CC 2018, Sony Vegas Pro 10+, Black Magic DaVinci Resolve 11+, Avid Media Composer & Symphony 6+",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-310409649"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1-eCfchyD1zWfG9YaZoF4MQ"
+    }
+  ],
+  "other": {
+    "official_website": "https://www.newbluefx.com/products/totalfx",
+    "package_contents": {
+      "Elements 3 Ultimate": {
+        "plugins": 21,
+        "presets": 250,
+        "description": "简化多步合成任务"
+      },
+      "Essentials 3 Ultimate": {
+        "plugins": 24,
+        "presets": 270,
+        "description": "增强视频效果：稳定防抖、锐化等"
+      },
+      "Filters 3 Ultimate": {
+        "plugins": 22,
+        "presets": 250,
+        "description": "通过独特特效提升视频"
+      },
+      "Stylizers 3 Ultimate": {
+        "plugins": 23,
+        "presets": 250,
+        "description": "光，油漆和艺术效果"
+      },
+      "Transitions": {
+        "plugins": 37,
+        "presets": 400
+      },
+      "Colorfast 2": "专业调色插件"
+    },
+    "installer_note": "由Team V.R提供一键安装注册，安装即可使用"
+  }
+}

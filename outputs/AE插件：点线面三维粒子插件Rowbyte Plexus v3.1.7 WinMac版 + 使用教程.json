@@ -1,0 +1,66 @@
+{
+  "title": "AE插件：点线面三维粒子插件Rowbyte Plexus v3.1.7 Win/Mac版 + 使用教程",
+  "slug": "aecha-jian-dian-xian-mian-san-wei-li-zi-cha-jian-rowbyte-plexus-v3-1-7-win-macban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-10-23",
+  "source_url": "https://www.lookae.com/plexus-317/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Plexus 是新一代 After Effects 粒子引擎，可程序化创建、操控与可视化数据。不仅可渲染粒子，还能基于多种参数在粒子间建立丰富关系。模块化工作流支持无限配置。3.1.7 版新增 CC 2019 支持，修复顶点大小问题并优化渲染。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2BtAwXkfA11Bjy0FcXXc4cXXa_!!705956171.gif",
+    "https://www.lookae.com/wp-content/uploads/2016/07/plexus-3.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 – CC 2019",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "Win 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-316178802"
+    },
+    {
+      "name": "Win 百度云",
+      "url": "https://pan.baidu.com/s/1sQUc6ScX82Oyw99hbVN7NQ"
+    },
+    {
+      "name": "Mac 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-316269561"
+    },
+    {
+      "name": "Mac 百度云",
+      "url": "https://pan.baidu.com/s/1Nfjaz1lo6cpzdiEtnIa2eg"
+    },
+    {
+      "name": "视频教程 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/ZI4154455817"
+    },
+    {
+      "name": "视频教程 百度云",
+      "url": "https://pan.baidu.com/s/1hsvzYvi"
+    }
+  ],
+  "other": {
+    "official_intro": [
+      "http://aescripts.com/plexus/",
+      "https://www.rowbyte.com/plexus/"
+    ],
+    "new_features_3": [
+      "Object based UI",
+      "Depth Map Culling",
+      "Motion Blur",
+      "Sound Effector",
+      "Null Object Performance",
+      "Slicer Object",
+      "Path Object Improvements",
+      "Seamless Beams",
+      "Custom Visibility Settings",
+      "Improved OBJ Import",
+      "Unified Rendering",
+      "Nested Compositions",
+      "Loop Noise"
+    ]
+  }
+}

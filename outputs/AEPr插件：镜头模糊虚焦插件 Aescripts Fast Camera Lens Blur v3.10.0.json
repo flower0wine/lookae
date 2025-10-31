@@ -1,0 +1,45 @@
+{
+  "title": "AE/Pr插件：镜头模糊虚焦插件 Aescripts Fast Camera Lens Blur v3.10.0",
+  "slug": "ae-prcha-jian-jing-tou-mo-hu-xu-jiao-cha-jian-aescripts-fast-camera-lens-blur-v3-10-0",
+  "author": "大众脸",
+  "post_date": "2018/07/29 14:19",
+  "source_url": "https://www.lookae.com/fast-camera310/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "该插件可实现逼真的摄像机镜头模糊效果，渲染速度远超原生效果。支持多种参数调节，还能高效渲染通常需多层模糊组合才能实现的辉光效果。适用于 After Effects 与 Premiere 各主流版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Fast-Camera-Lens-Blur.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50213974004.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Premiere CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-300589710"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ZoXb4Zshju3Ou3qGVbBj0Q"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://aescripts.com/fast-camera-lens-blur/",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

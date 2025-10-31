@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-批量调整排列图层工具 Skew Pro v2.0.2 Win/Mac+使用教程",
+  "slug": "aejiao-ben-pi-liang-diao-zheng-pai-lie-tu-ceng-gong-ju-skew-pro-v2-0-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-12-05",
+  "source_url": "https://www.lookae.com/skew-pro-202/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Skew Pro 是一款专业的After Effects脚本，它通过专用的时间轴面板让批量调整图层变得非常容易。脚本可以直接在时间轴中操作图层，支持倾斜、间距、液化、对齐、分布、翻转、随机化等多种功能，能够以极快的速度制作动画，并对关键帧和图层进行高效控制。Skew Pro 在原有版本基础上进行了全面升级，首次重新设计的时间线完全支持关键帧，让用户可以轻松制作数百个关键帧的动画，实时在After Effects中更新效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/10/Skew.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2023, 2024, 2025",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1432794901-3403b6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1LcSpz0lgxaFSE-7o299mMg?pwd=uu52"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/qqKryX4MpP8"
+    }
+  ],
+  "other": {
+    "update_details": "2.0.2更新内容：修复了当关键帧设置为时间重映射属性时Skew Pro无法正常工作的错误；修复了在复制图层后立即在Skew Pro的时间轴内添加关键帧时关键帧不显示在AE中的错误；整体性能改进。",
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "uu52"
+    }
+  }
+}

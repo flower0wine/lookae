@@ -1,0 +1,49 @@
+{
+  "title": "Mac苹果版-摄像机色彩空间匹配AE/PR调色插件 CineMatch v1.41a",
+  "slug": "macping-guo-ban-she-xiang-ji-se-cai-kong-jian-pi-pei-ae-prdiao-se-cha-jian-cinematch-v1-41a",
+  "author": "大众脸",
+  "post_date": "2025/09/11 16:18",
+  "source_url": "https://www.lookae.com/cinematch-mac-adobe/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "色彩匹配"
+  ],
+  "content": "CineMatch 是一款专为剪辑师、调色师、DIT 和摄影师设计的革命性摄像机色彩空间匹配工具，由 FilmConvert 推出。它支持在 Premiere 和 DaVinci 等软件中快速匹配来自不同摄像机（如 S-Log2/3、C-Log、B-Raw、V-Log/L、RED IPP2 等）的素材，无需预先转码或渲染。通过专用相机包，可一键实现 Log 风格之间的转换，并自动应用正确的 Rec.709 转换。此外，还提供常规曲线、色相 vs 色相曲线及 LGG 色轮等调色工具。适用于 AE/PR CC 2018 至 2025 及更高版本的 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/CineMatch-PR.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/356080072638.mp4"
+  ],
+  "supported_versions": "AE/PR CC 2018 - 2025 及更高版本",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8429241577-8cb2f7?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1_E_EM76BUTEkML3RWPf7lQ?pwd=cdnd"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/gcEBH1UEftN"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.41a 版本新增对 DJI Mavic 4 Pro 和 Action 5 Pro 的支持",
+    "related_links": [
+      "https://www.lookae.com/cinematch-141/"
+    ],
+    "feature_summary": [
+      "传感器匹配：支持多种 Log 格式间转换（S-Log2/3, C-Log, B-Raw, V-Log/L, RED IPP2 等）",
+      "相机调整：提供定制化相机配置文件控件",
+      "匹配细化：内置智能拾色器优化匹配效果",
+      "兼容性：支持 Premiere、DaVinci，未来将支持 FCP"
+    ]
+  }
+}

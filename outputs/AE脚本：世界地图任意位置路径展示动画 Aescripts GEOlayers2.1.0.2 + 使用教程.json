@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本：世界地图任意位置路径展示动画 Aescripts GEOlayers2.1.0.2 + 使用教程",
+  "slug": "aejiao-ben-shi-jie-di-tu-ren-yi-wei-zhi-lu-jing-zhan-shi-dong-hua-aescripts-geolayers2-1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-01-10 01:04",
+  "source_url": "https://www.lookae.com/geolayers2102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "这是一款用于After Effects的脚本插件，能够快速在世界地图上展示任意位置之间的路径连接，支持国家、街道、建筑等地标。支持高清卫星地图和飞入飞出动画效果，适用于制作地图定位与路线动画。内置14种免费地图样式，并支持用户自定义地图源。可与Trapcode Mir插件结合使用，创建基于真实地理数据的3D地形效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/GEOlayers-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC – CC2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载",
+      "url": "https://lookae.ctfile.com/fs/nrE167049622"
+    },
+    {
+      "name": "使用教程",
+      "url": "http://lookae.ctfile.com/fs/OKc162908492"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "script_brief": "It connects After Effects to imagery tile servers for up-to-date maps. It also provides direct access to all kinds of geospatial features of the world. Like this you can easily draw buildings to After Effects shape layers, highlight certain country borders, streets, lakes, rivers, places, label regions, animate routes, extrude buildings… whatever you’ll need.",
+    "features": [
+      "14 default Server Profiles (free to use with attribution)",
+      "Supports custom map servers",
+      "Browse and animate maps directly in After Effects",
+      "Compatible with Trapcode Mir 2 for 3D terrains"
+    ],
+    "update_log": [
+      "Bugfix: no tile download in trial version",
+      "Name Features of a Collection by a certain Property",
+      "Repair Mapcomps and Labels Expressions automatically",
+      "Bugfix: Markers and Overlays snap to the wrong place if longitude is larger than 360°",
+      "Help Update"
+    ],
+    "installation": "安装包内附详细安装说明",
+    "official_website": "http://aescripts.com/geolayers/"
+  }
+}

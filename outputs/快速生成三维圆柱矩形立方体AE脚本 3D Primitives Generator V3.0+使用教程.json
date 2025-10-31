@@ -1,0 +1,54 @@
+{
+  "title": "快速生成三维圆柱矩形立方体AE脚本 3D Primitives Generator V3.0+使用教程",
+  "slug": "kuai-su-sheng-cheng-san-wei-yuan-zhu-ju-xing-li-fang-ti-aejiao-ben-3d-primitives-generator-v3-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-12-13T23:23:00",
+  "source_url": "https://www.lookae.com/primitives-v30/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "3"
+  ],
+  "content": "3D Primitives Generator V3.0+ 是一款专为 After Effects 设计的脚本，可快速通过原生图层生成三维几何体（如立方体、长方体、圆柱体、金字塔和棱镜），支持一键创建与材质自定义。该脚本优化了性能并提供更直观的界面，适用于多个版本的 AE，极大提升 3D 场景构建效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/12/3D-Primitives-Generator-v3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/390312496606.mp4"
+  ],
+  "supported_versions": "AE 2023、2022、2021、2020、CC 2019、CC 2018、CC 2017、CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-747081194-f38842?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1lDZwuUlJDZlxKh-pewsD2Q?pwd=xt1k"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/aQvYnuPBiYA"
+    }
+  ],
+  "other": {
+    "original_content": "# 快速生成三维圆柱矩形立方体AE脚本 3D Primitives Generator V3.0+使用教程\n\n2022/12/13 23:23\n\n作者：大众脸\n分类：[AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/)\n\n[AE脚本 3](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac-3/)\n\n![快速生成三维圆柱矩形立方体AE脚本 3D Primitives Generator V3.0+使用教程](https://www.lookae.com/wp-content/uploads/2022/12/3D-Primitives-Generator-v3.jpg \"快速生成三维圆柱矩形立方体AE脚本 3D Primitives Generator V3.0+使用教程-LookAE.com\")\n\n[﻿﻿﻿](https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/390312496606.mp4)\n\n使用原生After Effects图层生成3D对象。只需单击一下即可创建立方体/长方体和圆柱体。还可以添加材质。\n\nGenerate 3D objects using native After Effects layers. Create Cubes/Cuboids and Cylinders with a single click. Customize the materials to whatever you desire.\n\nV3中的新功能：\n\n* 一个重新设计的用户界面，最小的空间现在还有 MIGHT！（模拟 3D 软件面板的外观）\n* 现在可以使用具有完全控制的新基元（金字塔和棱镜）\n* 由于更新了应用的表达式，所以更快更轻\n* 完全控制立方体、金字塔和棱柱的锥形效果\n* 为生成的基元和层更好地命名和颜色，以便更容易将它们移动到其他项目\n\n支持Win/Mac：AE 2023、2022、2021、2020、CC 2019、CC 2018、CC 2017、CC 2015\n\n**【下载地址】**\n\n[城通网盘](https://url70.ctfile.com/f/2827370-747081194-f38842?p=4431) 访问密码：6688            [百度网盘](https://pan.baidu.com/s/1lDZwuUlJDZlxKh-pewsD2Q?pwd=xt1k) 提取码：xt1k           [阿里云盘](https://www.aliyundrive.com/s/aQvYnuPBiYA)",
+    "featured_image_alt": "快速生成三维圆柱矩形立方体AE脚本 3D Primitives Generator V3.0+使用教程-LookAE.com",
+    "related_tags": [
+      "AE脚本",
+      "3",
+      "After Effects",
+      "3D 建模",
+      "AE插件"
+    ],
+    "features": [
+      "一键生成立方体、长方体、圆柱体、金字塔、棱柱",
+      "支持完全自定义材质",
+      "全新重设计的用户界面（类3D软件风格）",
+      "支持锥形效果控制",
+      "智能命名与颜色区分图层",
+      "兼容多版本 AE 及跨平台使用"
+    ]
+  }
+}

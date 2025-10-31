@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-快速生成制作箭头图形动画 Easy Arrows v1.5.2",
+  "slug": "aejiao-ben-kuai-su-sheng-cheng-zhi-zuo-jian-tou-tu-xing-dong-hua-easy-arrows-v1-5-2",
+  "author": "大众脸",
+  "post_date": "2021/10/19 11:37",
+  "source_url": "https://www.lookae.com/arrows-152/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Easy Arrows 是一款用于 After Effects 的脚本，可快速生成箭头图形动画。用户只需在固态层上用遮罩（mask）绘制路径轨迹，脚本即可自动生成箭头动画，并支持自定义箭头样式、宽度、颜色及动画属性。箭头会自动沿路径方向对齐，并根据描边宽度自动调整大小。脚本内置默认箭头，也支持使用自定义图层作为箭头。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/Easy-Arrows.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-518140360-46e4e0"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wqEu_Lzwg0SBIgEHQyQ69w"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/RZmVfoAeQvb"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "y7zs"
+    },
+    "update_notes": "v1.5.2更新内容：更新了许可框架。"
+  }
+}

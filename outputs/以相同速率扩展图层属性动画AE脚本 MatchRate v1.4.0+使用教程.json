@@ -1,0 +1,38 @@
+{
+  "title": "以相同速率扩展图层属性动画AE脚本 MatchRate v1.4.0+使用教程",
+  "slug": "yi-xiang-tong-su-lu-kuo-zhan-tu-ceng-shu-xing-dong-hua-aejiao-ben-matchrate-v1-4-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/03/07 10:12",
+  "source_url": "https://www.lookae.com/matchrate-14/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "MatchRate 是一个 After Effects 脚本，用于以相同的速率扩展图层属性的动画。1.4 版本更新现已支持人偶图钉。使用时，用户可先选择两个关键帧获取动画速率，再在目标图层上指定起始关键帧和播放头位置，点击应用即可按匹配速率写入新的关键帧。用户还可自定义要定位的属性维度以及新关键帧比率的百分比。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/05/MatchRate.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/308958918858.mp4"
+  ],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2014-2019, CC, CS3-6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-817508587-246158?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1g4sWA7VW69M-kbWMbO4-Ig?pwd=615d"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/3uWMute66gV"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "615d"
+  }
+}

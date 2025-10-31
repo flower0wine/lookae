@@ -1,0 +1,39 @@
+{
+  "title": "AE脚本-把SubRip/SRT/TXT/VTT字幕导入到AE软件 pt_ImportSubtitles v1.7.1 + 使用教程",
+  "slug": "aejiao-ben-ba-subrip-srt-txt-vttzi-mu-dao-ru-dao-aeruan-jian-pt-importsubtitles-v1-7-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-05-23T09:43:00",
+  "source_url": "https://www.lookae.com/importsubtitles-171/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "如果您需要在视频中嵌入字幕以进行网络或磁带传送，那么这个脚本则非常有用。可以将SubRip/SRT/TXT/VTT字幕格式文件通过 pt_ImportSubtitles脚本直接加载到AE软件中，然后使用alpha渲染并导入编辑软件，或使用动态链接直接导入Premiere Pro中。\n\nUseful if you need to embed subtitles onto video for web or tape delivery. You can import subtitles into After Effects using either the Encore Text Script, SubRip SRT or WebVTT file formats, then render with an alpha and import into your editing software, or use Dynamic Link to import directly into Premiere Pro.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/ImportSubtitles-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC2019-2014, CC, CS6, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-860208801-026e4c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1TtHoDXWfA9rqucrdv4EknQ?pwd=xq2d"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/KjMPPfXiJkD"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "xq2d"
+    },
+    "update_log": "v1.7.1 更新内容：修复了导入 Encore 格式字幕的问题；许可证更新"
+  }
+}

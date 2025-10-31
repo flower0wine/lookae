@@ -1,0 +1,53 @@
+{
+  "title": "国人原创AE脚本-创建书页翻书动画 VE Page Maker + 使用教程",
+  "slug": "guo-ren-yuan-chuang-aejiao-ben-chuang-jian-shu-ye-fan-shu-dong-hua-ve-page-maker-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/07/19 11:55",
+  "source_url": "https://www.lookae.com/page-maker/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "veleap",
+    "国人原创"
+  ],
+  "content": "VE Page Maker是一款由国内veleap团队开发的After Effects脚本，旨在让用户通过简单快捷的方式实现图片和视频素材的书页翻动动画效果。支持弯曲与折叠两种翻页形式，可自定义翻页方向、翻页方式、页面细分、重叠距离、Z轴间距，并通过调节翻转角度（Flip Angles）和翻转衰减（Flip Falloff）来精细控制动画表现。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01lCGdDL1vSMofnYbCN_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01iS4xQZ1vSMoeH2ldD_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/KHFDGVyTXXb"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-502658428-044524"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Bkzaz-3RxGaVVQXRkvGzNA"
+    }
+  ],
+  "other": {
+    "post_tags": [
+      "AE脚本",
+      "veleap",
+      "国人原创"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/veleap/",
+      "https://www.lookae.com/tag/%e5%9b%bd%e4%ba%ba%e5%8e%9f%e5%88%9b/"
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "121e"
+    }
+  }
+}

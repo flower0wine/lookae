@@ -1,0 +1,51 @@
+{
+  "title": "AE/PS 视频图像特效处理插件汉化版 Fixel Algorithms v2.0.3 For Win",
+  "slug": "ae-ps-shi-pin-tu-xiang-te-xiao-chu-li-cha-jian-yi-hua-ban-fixel-algorithms-v2-0-3-for-win",
+  "author": "大众脸",
+  "post_date": "2015-09-10T10:06:00Z",
+  "source_url": "https://www.lookae.com/fixel-algorithms/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PS插件"
+  ],
+  "content": "Fixel Algorithms 套装可对图片或视频进行精准的边缘锐化与色彩调节。该套装包含多个专业级滤镜，适用于 After Effects 与 Photoshop，支持 Windows 系统，并提供汉化版本。插件功能涵盖局部色彩校正、对比度增强、细节优化及边缘处理，提升视觉效果质量。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/09/Fixel-Algorithms.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v2.0.3",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PS 视频图像特效处理插件汉化版 Fixel Algorithms v2.0.3 For Win",
+      "url": "https://www.400gb.com/file/117471329"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Fixel EdgeHancer 2 PS 边缘增强滤镜",
+      "Fixel Contrastica 2 PS 对比度增强滤镜",
+      "Fixel Detailizer 2 PS 多级别细节增强滤镜",
+      "Fixel LightIT 2 AE 局部色彩校正滤镜（配合 Fixel DeLightIT）",
+      "Fixel DeLightIT 2 AE 局部色彩校正滤镜（配合 Fixel LightIT）",
+      "Fixel Detailizer 2 AE 多级别细节增强滤镜",
+      "Fixel ALCE 2 AE 局部对比度增强滤镜",
+      "Fixel EdgeHancer 2 AE 边缘增强滤镜",
+      "Fixel Contrastica 2 AE 对比度增强滤镜"
+    ],
+    "official_website": "http://aescripts.com/authors/f-l/fixel-algorithms/",
+    "translation_credit": "感谢 Z 汉化",
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Photoshop",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "PS插件": "https://www.lookae.com/tag/ps%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

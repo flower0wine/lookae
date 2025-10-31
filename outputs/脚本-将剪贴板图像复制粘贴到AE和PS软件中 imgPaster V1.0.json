@@ -1,0 +1,66 @@
+{
+  "title": "脚本-将剪贴板图像复制粘贴到AE和PS软件中 imgPaster V1.0",
+  "slug": "jiao-ben-jiang-jian-tie-ban-tu-xiang-fu-zhi-nian-tie-dao-aehe-psruan-jian-zhong-imgpaster-v1-0",
+  "author": "大众脸",
+  "post_date": "2024/01/05 12:25",
+  "source_url": "https://www.lookae.com/imgpaster/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "imgPaster",
+    "PS脚本"
+  ],
+  "content": "imgPaster V1.0 是一款专为 After Effects 和 Photoshop 设计的实用脚本，可实现剪贴板图像的快速复制与粘贴。用户无需保存文件即可直接将网页或应用中的图像粘贴至项目中，支持透明 PNG 格式，并提供灵活的保存路径选项。该工具显著提升图像导入效率，尤其适用于频繁进行视觉素材处理的工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/imgPaster.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/444684844615.mp4"
+  ],
+  "supported_versions": "After Effects: 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018\nPhotoshop: 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-999847199-8c794c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1SBdcnHD65iFcb41YTN_a-Q?pwd=onta"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/h7MQXWprGbb"
+    }
+  ],
+  "other": {
+    "supported_formats": [
+      "PNG + ALPHA（透明度）",
+      "PNG",
+      "JPG",
+      "WEBP",
+      "JFIF",
+      "BASE64",
+      "AVIF",
+      "GIF（第一帧）"
+    ],
+    "unsupported_formats": [
+      "GIF（动画）",
+      "SVG",
+      "EPS",
+      "Ai",
+      "CDR",
+      "TIFF",
+      "PDF",
+      "BMP",
+      "RAW"
+    ],
+    "usage_instructions": [
+      "创建新作品",
+      "前往窗口 > 扩展 > imgPasterAE",
+      "选择时间轴面板（用于粘贴图像）",
+      "将图像复制到剪贴板（来自浏览器或其他程序）",
+      "点击扩展窗口区域使其聚焦，然后按 Ctrl+V（Mac为 ⌘+V）"
+    ]
+  }
+}

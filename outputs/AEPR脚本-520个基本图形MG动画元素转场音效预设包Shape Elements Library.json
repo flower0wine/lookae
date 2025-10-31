@@ -1,0 +1,55 @@
+{
+  "title": "AE/PR脚本-520个基本图形MG动画元素转场音效预设包Shape Elements Library",
+  "slug": "ae-prjiao-ben-520ge-ji-ben-tu-xing-mgdong-hua-yuan-su-zhuan-chang-yin-xiao-yu-she-bao-shape-elements-library",
+  "author": "大众脸",
+  "post_date": "2021/12/22 13:53",
+  "source_url": "https://www.lookae.com/520-shape/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "PR脚本"
+  ],
+  "content": "本预设包包含140个简单MG图形动画、210个图形转场过渡以及170个转场音效。通过AtomX脚本调用，支持可视化预览并一键加载至项目合成中，可自由修改颜色、大小、位置和旋转等属性。适用于AE CC 2018及以上版本及PR CC 2019及以上版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/12/Shape-Elements-Library-28873541.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/342008841936.mp4"
+  ],
+  "supported_versions": "AE CC 2018 或更高, PR CC 2019 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-530073615-6939f3"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1bWte2WOaWFP3jVfvB4kN3Q"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9uydyoBpVVP"
+    }
+  ],
+  "other": {
+    "file_size": "581M",
+    "resolution": "不限制",
+    "extension_included": "AtomX 3.0.5 脚本（已包含）",
+    "audio_info": "无音乐，有转场音效",
+    "installation_note": "安装后请勿移动安装文件，否则失效。",
+    "usage_guide": "安装方法",
+    "related_resources": [
+      "更多AE模板精选参考音乐合集下载: https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486",
+      "更多AtomX脚本预设下载: https://www.lookae.com/tag/atomx/"
+    ],
+    "categories": [
+      "AE模板",
+      "AE脚本",
+      "After Effects",
+      "Premiere",
+      "PR模板"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "红巨人插件：职业快速套装 Red Giant Shooter Suite 12.6.3 Win/Mac",
+  "slug": "hong-ju-ren-cha-jian-zhi-ye-kuai-su-tao-zhuang-red-giant-shooter-suite-12-6-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2015-03-27T13:40:00Z",
+  "source_url": "https://www.lookae.com/shooter1263/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "FCPX插件",
+    "PR插件",
+    "Red Giant"
+  ],
+  "content": "Red Giant Shooter Suite 是一套专为影视制作团队设计的职业级快速工作流程插件套装，支持多软件平台，涵盖从现场素材备份、音视频自动同步到后期处理的全流程解决方案。该套装显著提升拍摄与后期效率，尤其适用于多机位拍摄场景。核心功能包括自动音频同步、专业素材管理、降噪、色彩管理及高清输出支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/shoot125.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Shooter Suite 12.6.3",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Windows 一键安装版（推荐下载）",
+      "url": "https://www.400gb.com/file/88978794"
+    },
+    {
+      "name": "Mac 版本",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/shooter/SSuite_Mac_Full.zip"
+    },
+    {
+      "name": "Win 版本",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/shooter/SSuite_Win_Full.zip"
+    },
+    {
+      "name": "SN序列号下载",
+      "url": "https://www.400gb.com/file/26701927"
+    }
+  ],
+  "other": {
+    "update_notes": "更新 PluralEyes 3.5.8，提升多声道音频兼容性，增强在 Premiere Pro 和 Avid Media Composer 导入含 MP3 音频工程的稳定性。",
+    "supported_software": [
+      "Adobe After Effects CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+      "Adobe Premiere Pro CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+      "Final Cut Pro 6, 7, X",
+      "Avid Media Composer 7 或更高版本"
+    ],
+    "plugins": [
+      {
+        "name": "BulletProof 1.2.2",
+        "description": "专业后期流程软件，用于现场素材备份与交付"
+      },
+      {
+        "name": "PluralEyes 3.5.8",
+        "description": "音视频自动同步插件，主要更新"
+      },
+      {
+        "name": "Denoiser II 1.4.3",
+        "description": "降噪插件"
+      },
+      {
+        "name": "Instant 4K 1.51",
+        "description": "高清插件（支持4K）"
+      },
+      {
+        "name": "Frames 1.1.3",
+        "description": "转场插件（用于素材上下场，非视频间切换转场）"
+      },
+      {
+        "name": "LUT Buddy 1.0.1",
+        "description": "色彩共享系统，支持加载/创建LUT"
+      },
+      {
+        "name": "Offload 1.0.1",
+        "description": "素材备份工具"
+      }
+    ],
+    "license_info": {
+      "Denoiser II": "MBNK1245865095746168",
+      "Frames 1.1": "MBFK1245843484599512",
+      "Instant 4K": "IHDK1245843086124132",
+      "Offload 1.0": "OFLK1245858439487526",
+      "BulletProof 1.2": "RGBK1245874736628977",
+      "PluralEyes 3.5": "PLLK1245872562842515",
+      "LUT Buddy": "included free",
+      "Offload 1.0.1": "暂无序列号"
+    },
+    "related_links": [
+      "https://www.lookae.com/redgiant619/"
+    ]
+  }
+}

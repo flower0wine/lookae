@@ -1,0 +1,43 @@
+{
+  "title": "中文汉化版-高级马赛克动态平铺视觉特效AE插件 MosaicArt v1.1.1a Win",
+  "slug": "zhong-wen-yi-hua-ban-gao-ji-ma-sai-ke-dong-tai-ping-pu-shi-jue-te-xiao-aecha-jian-mosaicart-v1-1-1a-win",
+  "author": "大众脸",
+  "post_date": "2024/03/03 12:31",
+  "source_url": "https://www.lookae.com/mosaicart/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MosaicArt",
+    "中文汉化",
+    "马赛克插件"
+  ],
+  "content": "高级马赛克和平铺滤镜。将图像分割成网格，使用Unite Tiles Iterations参数将相邻单元格合并为更大的单元格。网格单元可以使用任何图像、图层或组合进行纹理化。通过行延迟、随机化和偏移渐变进行动画显示。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/09/MosaicArt.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/428213199848.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1027829119-699b76?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1jjNJs1gbDGl7AXlzZfRrSg?pwd=ntt8"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/oqw8rvhenGF"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688"
+    },
+    "update_notes": "V1.1.1更新内容：修复了多帧模式下的随机帧。"
+  }
+}

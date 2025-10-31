@@ -1,0 +1,65 @@
+{
+  "title": "AE脚本-人工智能将2D图像转换成3D模型 3D Wizard V1.3.3 Win+使用教程",
+  "slug": "aejiao-ben-ren-gong-zhi-neng-jiang-2dtu-xiang-zhuan-huan-cheng-3dmo-xing-3d-wizard-v1-3-3-win-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-03-26T09:48:00Z",
+  "source_url": "https://www.lookae.com/3d-wizard/",
+  "category": "aescripts",
+  "tags": [
+    "2D转3D",
+    "3D Wizard",
+    "AE脚本"
+  ],
+  "content": "3D Wizard 是一款基于人工智能的 After Effects 插件，可将任意 2D 图像快速转换为高质量 3D 模型。该工具支持在时间线中无缝集成生成的 3D 模型，适用于提升视觉项目的表现力。通过智能背景移除与多视角生成技术，结合先进 AI 算法完成 3D 建模，用户可通过文本提示对图像进行编辑和增强，实现从 2D 到 3D 的高效创作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/3D-Wizard.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/512273774029.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2024, 2025",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1486104520-8ca1dc?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1sr_-SyyLpE8336N5iPiMjA?pwd=3m97"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/fidkXsz3oXX"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tags_links": {
+      "2D转3D": "https://www.lookae.com/tag/2d%e8%bd%ac3d/",
+      "3D Wizard": "https://www.lookae.com/tag/3d-wizard/",
+      "AE脚本": "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    },
+    "update_notes": [
+      "修复了从多张图片生成 3D 模型的问题。现在用户可以从不同角度输入图片并将其转换为3D模型。",
+      "添加了从提示中设置图像生成宽度和高度的功能。",
+      "为 3D 模型引入了纹理细节参数。",
+      "解决了一些与 IP 相关的错误和其他一些问题。"
+    ],
+    "workflow_steps": [
+      "输入您的图像：从图层、构图框、文件夹中选择图像，或者简单地将文件拖放到扩展程序中。",
+      "去除背景：完全去除图像的背景，确保 3D 转换的主体清晰且聚焦。",
+      "生成六个视角：该扩展从各个角度创建图像的六个不同视图，为 3D 建模做准备。",
+      "转换为 3D 模型：使用先进的 AI，将六个视角转换为完全实现的 3D 模型。",
+      "导入到时间线：最终的 3D 模型无缝导入到您的时间线，可供您在项目中使用。",
+      "编辑和增强：使用人工智能工具根据任何语言的文本提示生成或修改 2D 图像，然后将其转换为 3D 模型以进一步细化。"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "3m97"
+    }
+  }
+}

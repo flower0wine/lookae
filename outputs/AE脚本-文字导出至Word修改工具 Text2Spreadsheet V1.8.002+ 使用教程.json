@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-文字导出至Word修改工具 Text2Spreadsheet V1.8.002+ 使用教程",
+  "slug": "aejiao-ben-wen-zi-dao-chu-zhi-wordxiu-gai-gong-ju-text2spreadsheet-v1-8-002-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/05/05 10:53",
+  "source_url": "https://www.lookae.com/text2spreadsheet-18/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Text2Spreadsheet"
+  ],
+  "content": "该脚本Text2Spreadsheet可在AE中把文字导出到Office、Excel或Apple Numbers ，修改后可重新导入回AE。支持Win/Mac系统：AE CS4 – CC 2022。V1.8.002更新：修复了与较新操作系统版本的兼容性，并增加了对时间限制许可证的支持。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/04/Text2Spreadsheet.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS4 – CC 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577494860-46ca7c?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XxzSJf59wSrBpijubVwrFQ?pwd=jutu"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/aNR2a5a42ZA"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

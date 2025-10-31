@@ -1,0 +1,63 @@
+{
+  "title": "AE脚本-英文字母书写MG动画 Font Manager 2.0.1 + 使用教程",
+  "slug": "aejiao-ben-ying-wen-zi-mu-shu-xie-mgdong-hua-font-manager-2-0-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/01/13 15:45",
+  "source_url": "https://www.lookae.com/font-manager-201/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "该AE脚本只需单击几下即可创建和编写文字书写MG动画，只支持英文字母和字符（不支持中文汉字）。支持Win/Mac系统：AE CS6 – 2022或更高版本，2022/1/16更新加入字体库。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/01/Font-Manager.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/345271726101.mp4"
+  ],
+  "supported_versions": "AE CS6 – 2022或更高版本",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-537319463-435fe0"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XxDkY_10aEDXWm8m-NiB7A?pwd=verz"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/wTvfeiw7ZPz"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "2.0.1更新内容": {
+      "新功能": [
+        "精致的用户界面。从头开始重建。",
+        "新增“标记控制器表达式”功能。使用它来为您的字体添加对 precomps 的支持。",
+        "新的父表达式行为。",
+        "将 JSX 字体的安装文件夹更改为“My Documents\\FMTypefaces”"
+      ],
+      "已修复": [
+        "设置现在支持 Unicode。",
+        "在使用“Layers To Comps”功能时修正comp的BG颜色。",
+        "许多小修复和改进",
+        "使用“Precompose type”功能时，控制器没有父级",
+        "precomp和层的启动时间错误"
+      ]
+    },
+    "城通网盘访问密码": "6688",
+    "百度网盘提取码": "verz"
+  }
+}

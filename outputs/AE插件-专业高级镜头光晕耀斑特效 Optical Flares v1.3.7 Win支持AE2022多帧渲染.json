@@ -1,0 +1,81 @@
+{
+  "title": "AE插件-专业高级镜头光晕耀斑特效 Optical Flares v1.3.7 Win支持AE2022多帧渲染",
+  "slug": "aecha-jian-zhuan-ye-gao-ji-jing-tou-guang-yun-yao-ban-te-xiao-optical-flares-v1-3-7-winzhi-chi-ae2022duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2021/12/06 15:42",
+  "source_url": "https://www.lookae.com/of-137/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Optical Flares"
+  ],
+  "content": "Optical Flares 是一款功能强大、操作便捷、效果绚丽的高级镜头光晕耀斑特效AE插件。支持自定义保存预设，提供大量内置预设可直接使用。新版v1.3.7支持多帧渲染（Multi-Frame Rendering），可在多核CPU上同时渲染多个帧，显著提升渲染效率。在4K显示器上使用时，对更大缩放比例提供了优化支持。该插件专为追求真实感镜头光效的设计者打造，适用于制作动画中逼真的灯光耀斑效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/01/AK-Optical-Flares.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/274013701666.mp4"
+  ],
+  "supported_versions": "AE CC 2014, 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-524578825-5e24ed"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1a9pZHE9VSC15VJdxX-JgAw"
+    },
+    {
+      "name": "英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/RSPezHeZcTf"
+    },
+    {
+      "name": "中文版 - 下载链接",
+      "url": "https://www.lookae.com/of135-chn/"
+    },
+    {
+      "name": "预设下载 - 城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-527829514-e5e2c3"
+    },
+    {
+      "name": "预设下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/16FVnzIasUBNwQ7XzaKLlwQ"
+    },
+    {
+      "name": "预设下载 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/PqvrMoGUST2"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://089u.com/file/680462-9963544"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1iTJOe-T79_dk2u8-s7yoGQ"
+    }
+  ],
+  "other": {
+    "installation_path": "效果-VideoCopilot-Optical Flares",
+    "features": [
+      "支持多帧渲染（多核并行处理）",
+      "4K显示器下支持更大缩放比例",
+      "独立界面，可自定义预设",
+      "包含丰富预设资源",
+      "兼容最新版After Effects（2022）"
+    ],
+    "english_description": "The new version of After Effects features Multi-Frame Rendering, which allows AE to render multiple frames at the same time to speed up rendering! We’re excited to announce that we’ve updated our plug-ins (including our free ones!) to be compatible with Multi-Frame Rendering! These updates are available now! We’ve added support for larger scaling when using the UI on 4K monitors!",
+    "tutorial": "Optical Flares 官方15集视频教程-中文字幕",
+    "passwords": {
+      "english_download": "6688",
+      "preset_download": "6688",
+      "tutorial_download": "vm47",
+      "baidu_extract_code": {
+        "english": "o64d",
+        "preset": "y114",
+        "tutorial": "vm47"
+      }
+    }
+  }
+}

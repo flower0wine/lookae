@@ -1,0 +1,28 @@
+{
+  "title": "AE脚本：快速生成制作箭头动画脚本 AEscripts Easy Arrows v1.2",
+  "slug": "aejiao-ben-kuai-su-sheng-cheng-zhi-zuo-jian-tou-dong-hua-jiao-ben-aescripts-easy-arrows-v1-2",
+  "author": "大众脸",
+  "post_date": "2015/07/02 17:10",
+  "source_url": "https://www.lookae.com/arrows/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "快速生成制作箭头动画脚本 AEscripts Easy Arrows v1.2。通过脚本可以非常简单快速的在AE中制作箭头动画，用mask在固态层上画出箭头路径轨迹，然后用脚本自动生成箭头动画，脚本还可控制箭头的样式、宽度、颜色、动画等属性。Animating arrows in After Effects has never been easier! With Easy Arrows you can attach an arrow to the front and end of a stroke with the click of a button. The arrow(s) will auto-orient along your mask path and change size to match the width of your stroke. There is a default arrow included, but you can also use custom layers of your own!",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/Arrows.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：快速生成制作箭头动画脚本 AEscripts Easy Arrows v1.2",
+      "url": "https://www.400gb.com/file/103539725"
+    }
+  ],
+  "other": {
+    "installation_steps": "将jsxbin脚本文件拷贝到以下目录：…..\\Adobe After Effects 版本号\\Support Files\\Scripts\\ScriptUI Panels\\"
+  }
+}

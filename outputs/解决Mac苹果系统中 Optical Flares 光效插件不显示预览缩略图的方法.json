@@ -1,0 +1,31 @@
+{
+  "title": "解决Mac苹果系统中 Optical Flares 光效插件不显示预览缩略图的方法",
+  "slug": "jie-jue-macping-guo-xi-tong-zhong-optical-flares-guang-xiao-cha-jian-bu-xian-shi-yu-lan-suo-lue-tu-de-fang-fa",
+  "author": "大众脸",
+  "post_date": "2020/08/19 16:13",
+  "source_url": "https://www.lookae.com/optical-flares-preview/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Optical Flares"
+  ],
+  "content": "许多用户在Mac苹果系统（尤其是macOS 10.15）上使用Optical Flares插件时，会遇到预览缩略图无法显示的问题。该问题主要影响插件独立面板的实时预览功能，但不影响最终渲染输出。官方已发布兼容新系统的版本，建议支持正版。临时解决方案为：进入系统偏好设置 -> 显示器 -> 颜色，将颜色描述文件更改为“普通RGB描述文件”，随后重新打开Optical Flares独立面板即可恢复预览功能。此操作无需重启After Effects，且可随时切换回默认颜色配置。此方法适用于需要在独立面板中查看效果的场景。",
+  "image_urls": [
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01CWRrn61vSMjswrmH7_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01Xs7oXa1vSMjv4oeg0_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01XpaFtl1vSMjkEmXPA_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "macOS 10.15 及以上",
+  "download_links": [
+    {
+      "name": "Optical Flares v1.3.5 Win/Mac 下载",
+      "url": "https://www.lookae.com/optical-flares/"
+    }
+  ],
+  "other": {
+    "article_source": "文章内容来自狐狸影视城，已征得站长同意转载和修改",
+    "note": "官方已更新兼容 macOS 10.15 的版本，推荐使用正版以获得最佳体验"
+  }
+}

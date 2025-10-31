@@ -1,0 +1,37 @@
+{
+  "title": "中文汉化AE插件-动态像素拉伸撕裂花屏故障视觉效果 Motion Mosh V1.0.2 Win",
+  "slug": "zhong-wen-yi-hua-aecha-jian-dong-tai-xiang-su-la-shen-si-lie-hua-ping-gu-zhang-shi-jue-xiao-guo-motion-mosh-v1-0-2-win",
+  "author": "大众脸",
+  "post_date": "2024/02/27 11:05",
+  "source_url": "https://www.lookae.com/motion-mosh/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Motion Mosh",
+    "中文汉化",
+    "花屏故障"
+  ],
+  "content": "借助此插件您可以在AE中实现与datamoshing方法类似的像素撕裂花屏故障结果，实时且无需导出。提供真正的互动体验，GPU加速插件实时响应，可实时设计数据传输效果并立即查看结果，一切都可设置关键帧。V1.0.2更新内容：添加了对旧版Nvidia卡的支持。Motion Mosh不适用于1050/1070等显卡。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/01/Motion-Mosh.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/448244846890.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1025441074-2e912a?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/14WEVrRc3an9ExQvnNKG-hg?pwd=1uly"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Ri1gE2rceH3"
+    }
+  ]
+}

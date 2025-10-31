@@ -1,0 +1,85 @@
+{
+  "title": "红巨人效果插件套装 Red Giant Effects Suite 11.1.13 Win/Mac（灯光工厂这套）",
+  "slug": "hong-ju-ren-xiao-guo-cha-jian-tao-zhuang-red-giant-effects-suite-11-1-13-win-mac-deng-guang-gong-han-zhe-tao",
+  "author": "大众脸",
+  "post_date": "2019-06-14T14:36:00Z",
+  "source_url": "https://www.lookae.com/effects-11113/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EDIUS插件",
+    "fcp",
+    "PR插件",
+    "Red Giant",
+    "Win/Mac"
+  ],
+  "content": "Red Giant Effects Suite 11.1.13 是一套功能强大的视觉特效插件集合，包含光工厂（Knoll Light Factory）等多个专业级插件。该套装支持多种主流视频剪辑与后期制作软件，可实现光效、光晕、水流模拟、文字特效、卡通风格化等多种高级视觉效果。适用于 After Effects、Premiere Pro、Avid Media Composer、Final Cut Pro、Motion 及 EDIUS 等平台。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/Effects-Suite.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS 5 – CC 2019, Adobe Premiere Pro CS 5 – CC 2019, Avid Media Composer 6.0-8.0 or later, Apple Final Cut Pro 7, Apple Motion 5, EDIUS",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 版本 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382910778"
+    },
+    {
+      "name": "Win 版本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1tCjeA33z-oLJcC4PSiLCQg"
+    },
+    {
+      "name": "Mac 版本 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382911024"
+    },
+    {
+      "name": "Mac 版本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1-_1RokLYySSGLZEsu5f15w"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Composite Wizard 1.4.10",
+      "Holomatrix 1.2.2",
+      "Image Lounge 1.4.9",
+      "Knoll Light Factory 3.0.4",
+      "PlaneSpace 1.4.4",
+      "Psunami 1.4.5",
+      "Text Anarchy 2.4.2",
+      "ToonIt 2.1.4",
+      "Warp 1.1.2"
+    ],
+    "update_notes": [
+      "修复了阻止现有项目迁移到Adobe CC 2019.1的问题"
+    ],
+    "registration_codes": {
+      "Image Lounge": "1847-7170-1592-8302-3281",
+      "Knoll Light Factory": [
+        "9035-3050-3333-6151-1225",
+        "8890-3030-3333-9159-3080"
+      ],
+      "Knoll Light Factory Photo": "1319-3198-3464-5707-8145",
+      "Red Giant Holomatrix": "9200-6158-1232-5354-9711",
+      "Red Giant PlaneSpace": "2165-5162-1724-8961-0491",
+      "Red Giant Psunami": "8620-5360-1929-6377-2182",
+      "Red GIant Text Anarchy": "9180-5468-2000-6564-9325",
+      "Red Giant ToonIt": "2224-5529-2995-5538-1869",
+      "Red Giant Warp": "9137-0361-1084-5744-8254",
+      "Red.Giant Composite Wizard": "1709-7238-1590-5235-4653"
+    },
+    "additional_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "extract_code_win": "enfs",
+    "extract_code_mac": "63uk"
+  }
+}

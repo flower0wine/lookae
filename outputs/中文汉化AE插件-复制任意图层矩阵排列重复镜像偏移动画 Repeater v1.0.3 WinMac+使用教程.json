@@ -1,0 +1,40 @@
+{
+  "title": "中文汉化AE插件-复制任意图层矩阵排列重复镜像偏移动画 Repeater v1.0.3 Win/Mac+使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-fu-zhi-ren-yi-tu-ceng-ju-zhen-pai-lie-zhong-fu-jing-xiang-pian-yi-dong-hua-repeater-v1-0-3-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/08/24 16:55",
+  "source_url": "https://www.lookae.com/repeater/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "中文汉化"
+  ],
+  "content": "Repeater是一款免费的重复AE中任意图层缺失的工具。您是否尝试过在文本或连续栅格图层上使用 CC Repetile 或 Motion Tile？如果你有的话，你会过得很糟糕。这就是我们制作Repeater中继器的原因。它就像形状图层中继器，但适用于整个图层。\n\n插件特性：\n\n* 保持活力，不再需要预合成文本或将其转换为形状图层\n* 适用于任何类型的图层，而不仅仅是文本（实体、素材、形状图层）以及 3D 图层\n* 生成任意方向的副本，具有可选的镜像模式\n* 与文本动画师兼容（跟踪、行间距、多行文本）\n* 继承所有父级变换\n* 及时偏移副本\n* 32bpc 精度、MFR 和 Apple Silicon 原生",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/Repeater.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/424419213889.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020, CC 2014 – 2019, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-924058923-0a5841?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1QcKOmOsDVJKwbTqcFVkYbg?pwd=hpm4"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/9q1g4bnQehP"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "hpm4"
+  }
+}

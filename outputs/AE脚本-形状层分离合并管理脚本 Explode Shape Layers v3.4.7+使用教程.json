@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-形状层分离合并管理脚本 Explode Shape Layers v3.4.7+使用教程",
+  "slug": "aejiao-ben-xing-zhuang-ceng-fen-chi-he-bing-guan-li-jiao-ben-explode-shape-layers-v3-4-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/04/27 10:03",
+  "source_url": "https://www.lookae.com/explode-347/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "此脚本可以精确分离和合并形状图层，包括AI文件转成形状图层，形状图层合并和分离。当我们将文字或者AI矢量文件转换成图形层时，所有的图形都是在一个图层中，不太好处理，这个AE脚本可以将任意图形层进行分解分组，合并等处理。脚本还可以进行其他属性处理，带视频教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/08/Explode-Shape.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/28847805.mp4"
+  ],
+  "supported_versions": "AE CS 5 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368610904"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1tGPgh2zYwh_BMFGJRcLkqA"
+    },
+    {
+      "name": "脚本使用教程下载",
+      "url": "https://lookae.ctfile.com/fs/PRa185943232"
+    }
+  ],
+  "other": {
+    "baidu_pan_extraction_code": "ucck",
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "script_usage": "在AE软件中点击 Window（窗口菜单）即可找到脚本",
+    "v3.4.7_update_content": "修复旧版AE中转换多个图层的问题；修复在某些情况下'remove artboards-删除画板'失败的错误"
+  }
+}

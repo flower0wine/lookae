@@ -1,0 +1,36 @@
+{
+  "title": "Ae/Pr 视觉特效BCC插件包 v10.0.6 CE",
+  "slug": "ae-pr-shi-jue-te-xiao-bcccha-jian-bao-v10-0-6-ce",
+  "author": "大众脸",
+  "post_date": "2017-04-17T17:39:00",
+  "source_url": "https://www.lookae.com/bcc1006/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete 10 是一款功能强大的视觉特效插件包，专为 Adobe After Effects 和 Premiere Pro 打造。它提供超过百种特效效果，涵盖字幕、3D粒子、老电影风格、光线、画中画、镜头光晕、烟雾、火焰等，同时支持调色、键控/抠像、遮罩、跟踪、发光等风格化工具。插件支持 Open GL 和双 CPU 加速，适用于 AE 和 PR 软件。新版本引入了图像恢复工具（如 BCC Remover、BCC Dropout Fixer、BCC Reframe）、新增多种特效与转场插件，包括炫光光晕、信号干扰、美肤美容、快速模糊、变速处理等功能。兼容 Windows 系统下从 After Effects CS6 到 CC 2017，以及 Premiere Pro CS6 到 CC 2017。插件支持一键安装注册，安装后即可直接使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/03/BCC10.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6 – CC 2017, Premiere Pro CS6 – CC 2017",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/Zqy198705409"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1slFc1nJ"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://www.lookae.com/macbcc1002/",
+      "http://page62.400gb.com/file/128904812"
+    ],
+    "note": "插件为一键安装注册，安装即可使用"
+  }
+}

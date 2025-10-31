@@ -1,0 +1,33 @@
+{
+  "title": "AE脚本-图层分组排列管理工具 Sort it v1.1.1",
+  "slug": "aejiao-ben-tu-ceng-fen-zu-pai-lie-guan-li-gong-ju-sort-it-v1-1-1",
+  "author": "大众脸",
+  "post_date": "2019-06-10",
+  "source_url": "https://www.lookae.com/sort-it/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Sort it 是一款将 Cinema 4D 层管理器概念引入 After Effects 的脚本。通过单击按钮或快捷键（CMD/CTRL+G）即可对图层进行分组，方便组织、选择与批量控制。支持一键切换图层组可见性、效果、锁定及单独显示，并提供 ShySolo 功能快速整理时间轴与合成窗口，让复杂时间线变得清晰高效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/Sort-it.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2015 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1QzAYuio5oaDFBwH_DshVZA"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-382427711"
+    }
+  ],
+  "other": {
+    "百度网盘提取码": "twd7",
+    "官方产品页": "https://www.eyedesyn.com/product/sort-it-for-after-effects"
+  }
+}

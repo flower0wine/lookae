@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-将文本图层转换为可编辑的形状图层 GG Bunkai v1.4",
+  "slug": "aejiao-ben-jiang-wen-ben-tu-ceng-zhuan-huan-wei-ke-bian-ji-de-xing-zhuang-tu-ceng-gg-bunkai-v1-4",
+  "author": "大众脸",
+  "post_date": "2020/01/04 13:26",
+  "source_url": "https://www.lookae.com/gg-bunkai-14/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可将文本图层转换为可编辑的形状图层，并支持多种分割模式，包括按行、按字符或按字符结构进行拆分。每个生成的形状图层可独立编辑，且支持预组合功能。适用于 After Effects 2020、CC 2019、CC 2018、CC 2017，兼容 Windows 和 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/12/GG-Bunkai.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-416149418"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/16ELFkou3zpRsmEjNfLTMoQ"
+    }
+  ],
+  "other": {
+    "related_links": [
+      "https://aescripts.com/gg-bunkai/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "modes_description": [
+      "创建单个文本形状层。",
+      "为每条线划分文本，并为每个具有中心锚点的形状图层。",
+      "在空白和换行符处分隔文本，并为每个文本创建一个形状层，并以锚定点为中心。",
+      "在每个字符处划分文本，并为每个字符创建一个形状为中心的锚点的形状层。",
+      "在每个字符的每个结构分隔处划分文本，并为每个字符创建一个形状为中心的锚点的形状层。",
+      "有一个选项可以预先组成每个分割的元素。"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本-文字标题缓入缓出弹跳延迟动画效果 TextEvo v2.0.0",
+  "slug": "aejiao-ben-wen-zi-biao-ti-huan-ru-huan-chu-dan-tiao-yan-chi-dong-hua-xiao-guo-textevo-v2-0-0",
+  "author": "大众脸",
+  "post_date": "2020/01/21 10:47",
+  "source_url": "https://www.lookae.com/textevo-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "可以将文字标题，快速的制作大小缩放，缓入缓出动画，还可控制包括大小，位置，透明度，颜色，填充等属性。TextEvo allows you to easily animate your text with delay based on letters, words or lines.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/TextEvo-2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-418886015"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1nGWVDmfNR3POacZOIJJwmg"
+    }
+  ],
+  "other": {
+    "installation_instructions": "1.复制textevo2.jsxbin文件到AE脚本目录：Win：…Adobe After Effects CC\\Support Files\\Scripts\\ScriptUI Panels\\ Mac：应用程序\\Adobe After Effects CC\\Scripts\\ScriptUI Panels\\ 2.打开AE软件设置，勾选上*允许脚本读写和访问网络 Win：编辑-首选项-常规 Mac：After Effects CC-首选项-常规 3.在软件顶部window窗口菜单下即可看到textevo2.jsxbin脚本"
+  }
+}

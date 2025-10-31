@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本：缓入缓出弹性动画图层排列脚本 Lazy – Layer Easer 1.0+使用教程",
+  "slug": "aejiao-ben-huan-ru-huan-chu-dan-xing-dong-hua-tu-ceng-pai-lie-jiao-ben-lazy-layer-easer-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/09/08 12:42",
+  "source_url": "https://www.lookae.com/layer-easer/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Lazy 是一款 After Effects 脚本，允许用户选中多个图层或关键帧，并沿贝塞尔曲线在时间轴上进行分布，适用于制作 MG 动画。该脚本提供多种缓入缓出及弹性动画曲线选项，并附带高清视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/09/Lazy-Layer-Easer.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2fSnucwoQMeJjy0FoXXcShVXa_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-218887121"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1dFlcUzv"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/lazy-layer-easer/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

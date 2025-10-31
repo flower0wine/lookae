@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-复制遮罩到其他图层工具 CopyMask2Layer V2.2.002+使用教程",
+  "slug": "aejiao-ben-fu-zhi-zhe-zhao-dao-qi-ta-tu-ceng-gong-ju-copymask2layer-v2-2-002-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-05-05T15:38:00Z",
+  "source_url": "https://www.lookae.com/copymask2layer/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "CopyMask2Layer",
+    "遮罩工具"
+  ],
+  "content": "CopyMask2Layer 是一款用于 After Effects 的脚本工具，可帮助用户将遮罩从一个图层复制到另一个图层时，精确保持其位置和关键帧路径。即使目标图层在运动或遮罩路径已设置关键帧，也能实现精准复制，避免位置偏移。适用于 AE CS3 至 CC 2022 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/CopyMask2Layer-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS3 – CC 2022",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-577531009-d2f81d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ON0MQWonHWtywS8nGoYgSA?pwd=btxm"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/SbP7PRGnGdA"
+    }
+  ],
+  "other": {
+    "original_tags": [
+      "AE脚本",
+      "CopyMask2Layer",
+      "遮罩工具"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/copymask2layer/",
+      "https://www.lookae.com/tag/%e9%81%ae%e7%bd%a9%e5%b7%a5%e5%85%b7/"
+    ]
+  }
+}

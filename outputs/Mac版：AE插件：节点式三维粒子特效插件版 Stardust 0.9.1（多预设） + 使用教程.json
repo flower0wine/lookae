@@ -1,0 +1,62 @@
+{
+  "title": "Mac版：AE插件：节点式三维粒子特效插件版 Stardust 0.9.1（多预设） + 使用教程",
+  "slug": "macban-aecha-jian-jie-dian-shi-san-wei-li-zi-te-xiao-cha-jian-ban-stardust-0-9-1-duo-yu-she-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016-11-15T11:44:00Z",
+  "source_url": "https://www.lookae.com/macstardust-091/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC",
+    "Stardust",
+    "粒子插件"
+  ],
+  "content": "Stardust 是 Adobe After Effects 的新一代节点式三维粒子插件，具备独立操控界面，功能强大，支持多种预设，可轻松创建复杂而精美的视觉效果。其核心功能包括发射器、粒子控制、复制模块、力场、辅助发射器、3D模型、文字、遮罩及路径等，同时支持空间变形器、球体、盒子、弯曲、扭曲、黑洞等多种动态元素。插件基于节点化设计，便于在三维空间中构建复杂的粒子系统，并提供丰富的动画预设。适用于 Mac 平台的 Adobe After Effects CC 至 CC 2017 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/11/Stardust-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2IDiAbghJc1FjSZFDXXbvnFXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i4/705956171/TB2kVXHc71M.eBjSZPiXXawfpXa_!!705956171.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/TB2WUUecH1K.eBjSsphXXcJOXXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC – CC 2017",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/r88161067043"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1c14lmkK"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/stardust/",
+    "plugin_features": [
+      "三维粒子系统",
+      "基于节点的操控界面",
+      "多种预设动画效果",
+      "复制功能（独特工具）",
+      "无限2D和3D粒子控制",
+      "支持发射器、粒子、力场、辅助发射器、3D模型、文字、遮罩、路径",
+      "空间变形器、球体、盒子、3D模型、弯曲、扭曲、路径、黑洞",
+      "样条（Splines）支持动画路径与发射器",
+      "可在球体、盒子或3D模型中封装或发射粒子"
+    ],
+    "win_version_status": "暂未发布，注册网站将第一时间通知",
+    "tutorial_available": true,
+    "preview_images_count": 4,
+    "category_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/mac/",
+      "https://www.lookae.com/tag/stardust/",
+      "https://www.lookae.com/tag/%e7%b2%92%e5%ad%90%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

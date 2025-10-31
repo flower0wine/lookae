@@ -1,0 +1,49 @@
+{
+  "title": "Ae/Pr视觉特效和转场BCC插件包 2021 v14.0.0.488 Win",
+  "slug": "ae-prshi-jue-te-xiao-he-zhuan-chang-bcccha-jian-bao-2021-v14-0-0-488-win",
+  "author": "大众脸",
+  "post_date": "2020/10/28 19:24",
+  "source_url": "https://www.lookae.com/bcc-2021/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BCC 2021",
+    "Continuum",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete（BCC）是一款功能强大的视觉特效与转场插件包，专为 After Effects 和 Premiere Pro 设计。支持超过350种特效和4000多个预设，涵盖字幕、3D粒子、老电影风格、光线、镜头光晕、烟雾、火焰、调色、键控抠像、遮罩、跟踪、发光等丰富功能。支持OpenGL与双CPU加速，适用于视频合成、图像处理、着色、变形等全流程工作。2021版本新增81个全GPU加速滤镜（基于OpenCL），支持HDR和OCIO色彩管理，并引入全新粒子错觉、边缘清洁器、标题工作室、Mocha调整跟踪等功能，显著提升创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/284897462397.mp4"
+  ],
+  "supported_versions": "After Effects CC 2015, 2017, CC 2018, CC 2019, 2020; Premiere Pro CC 2015, 2017, CC 2018, CC 2019, 2020",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-468396050"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1u9t6llx3cNYsb5vx8Bx9WA"
+    }
+  ],
+  "other": {
+    "additional_info": [
+      "包含中文汉化版下载链接：https://www.lookae.com/bcc-2021-ch/",
+      "官方产品页：https://borisfx.com/products/continuum/"
+    ],
+    "features": [
+      "81个全新全GPU加速滤镜（100% OpenCL）",
+      "超过1000个专业设计预设",
+      "新增电影摄影师工具包（含胶片仿真、滤光器模拟、镜头光晕等）",
+      "粒子错觉支持3D发射、湍流控制和线条选项",
+      "Primatte Studio边缘清洁器优化压缩素材键控",
+      "Title Studio新增程序噪声生成器与纹理合成着色器",
+      "Mocha AdjustTrack支持复杂镜头跟踪编辑",
+      "支持HDR、OCIO颜色管理、元数据标记及浏览器内参数编辑"
+    ]
+  }
+}

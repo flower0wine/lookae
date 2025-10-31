@@ -1,0 +1,58 @@
+{
+  "title": "苹果M1版AE插件-特效管理控制应用工具 FX Console v1.0.5-2022.1 Mac",
+  "slug": "ping-guo-m1ban-aecha-jian-te-xiao-guan-li-kong-zhi-ying-yong-gong-ju-fx-console-v1-0-5-2022-1-mac",
+  "author": "大众脸",
+  "post_date": "2022/05/20 10:59",
+  "source_url": "https://www.lookae.com/fxconsole-m1/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "AK大神",
+    "FX Console",
+    "VideoCopilot",
+    "苹果M1插件"
+  ],
+  "content": "VideoCopilot 网站出品强大的AE特效管理控制工具插件，且完全免费。AK大神也给我们详细介绍了插件的使用和用途，下面会提供高清视频教程下载，一个快捷键即可调出插件工具，可以快速的搜索插件/预设，并应用到图层上；还可以保存画面快照，预览对比效果快照截图；能够快速保存画面静帧到电脑，或直接复制图像；还有众多操控设置，使用这款插件能够快速的应用插件，提高我们的工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/FXConsole-M1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2014 - 2022",
+  "supported_os": "Mac（兼容M1芯片，同时支持Intel芯片）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-581505694-9267b3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1CR2d1sCbHT512mvv_9VcmQ?pwd=af9v"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ZF6fSbXoA4u"
+    }
+  ],
+  "other": {
+    "提醒信息": "快速调出插件工具快捷键是：Ctrl+空格键（可修改快捷键，如想快速应用特效插件到图层上，记得选中图层哟！）",
+    "更新内容": "2022.1版本更新内容：兼容M1芯片的苹果电脑（同时支持Intel芯片）",
+    "英文介绍": "The console war continues on but this time, everybody wins! Our new After Effects workflow plug-in is now available for free! Speed up After Effects by making it work your way! Manage design progress with the new Snapshot tool and find the effects you need instantly!",
+    "插件主要特点": [
+      "Access FX & Presets quickly - 快速查找插件和预设（回车即可应用到图层上）",
+      "Create FX Shortcuts - 创建特效快捷键",
+      "Create FX Overrides - 重置特效",
+      "Customize FX Search - 自定义特效搜索",
+      "Export Snapshot with PNG - 导出保存截屏PNG快照",
+      "Access Multiple Snapshots - 可多个快照截图",
+      "Automatic Snapshot Tool & Gallery - 自动快照截图工具和图库",
+      "Sample colors from Gallery - 从图库中选取颜色",
+      "Re-import directly from Gallery - 可在图库直接导入图片",
+      "Dockable Panel & More! - 可移动停靠式操控面板"
+    ],
+    "访问密码": {
+      "城通网盘": "6688",
+      "百度网盘": "af9v"
+    }
+  }
+}

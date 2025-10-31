@@ -1,0 +1,67 @@
+{
+  "title": "专业高级色轮色环视频调色AE/PR插件 Warping Wheels v3.1.0 Win",
+  "slug": "zhuan-ye-gao-ji-se-lun-se-huan-shi-pin-diao-se-ae-prcha-jian-warping-wheels-v3-1-0-win",
+  "author": "大众脸",
+  "post_date": "2023/08/09 13:33",
+  "source_url": "https://www.lookae.com/warping-wheels-300/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "调色插件"
+  ],
+  "content": "该插件乍一看与传统色轮区别不大，但深入探索会发现其明显优于传统色轮，拥有更多额外功能，可进行更精密的色彩控制、二级调色及单独的肤色调色。插件跟经典色轮一样拥有Master Wheel主色控制，可控制视频图像的着色、饱和度、亮度等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/Warping-Wheels.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/230388900051.mp4"
+  ],
+  "supported_versions": "v3.1.0",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-910731723-1ea28b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1eB8qBj_ZbyJYidwQZxiucw?pwd=iauv"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/8sj7HMbA1JU"
+    }
+  ],
+  "other": {
+    "v3.1.0更新内容": [
+      "与最新的 Adob​​e 和 Apple 界面兼容，特别是对 FCPX 的 FxPlug4 支持",
+      "用于皮肤、天空、绿化和胶片对比度的滚轮控制",
+      "Look-Finder",
+      "撤消/重做",
+      "Apple Silicon支持 FCPX 和 After Effects",
+      "Windows 的 Retina 缩放",
+      "Apple Silicon 对 Premiere 和 Photoshop 的支持（FCPX 正在进行中）",
+      "跨主机预设",
+      "LUT 导出",
+      "前后比较",
+      "一键重置",
+      "关闭而不应用",
+      "每个亮度范围的饱和度",
+      "肤色亮度",
+      "胶片对比度",
+      "天蓝色控制",
+      "植物绿修饰"
+    ],
+    "支持Win系统的软件": [
+      "Adobe After Effects CC 2019 和更高版本",
+      "Adobe Premiere Pro CC 2019 和更高版本"
+    ],
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ]
+  }
+}

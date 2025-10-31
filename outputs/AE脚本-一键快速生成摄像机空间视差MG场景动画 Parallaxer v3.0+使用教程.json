@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-一键快速生成摄像机空间视差MG场景动画 Parallaxer v3.0+使用教程",
+  "slug": "aejiao-ben-yi-jian-kuai-su-sheng-cheng-she-xiang-ji-kong-jian-shi-chai-mgchang-jing-dong-hua-parallaxer-v3-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-08-20",
+  "source_url": "https://www.lookae.com/parallaxer-v3/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Parallaxer",
+    "视差动画"
+  ],
+  "content": "Parallaxer v3 是一款 After Effects 脚本，可一键将分层 Illustrator 或 Photoshop 文件转换为 3D 合成，快速制作 2.5D 视差动画。V3 新增“转换图层”与“2D 转换”按钮，支持双向灵活切换 2D/3D 图层；内置小房间、大房间、外部三种场景比例预设，自动缩放功能确保图层在深度移动时保持视觉大小不变；新增重组/展平/展开按钮，可秒级重新组织场景；提供可停靠图形界面，兼容 Win/Mac 系统 AE CC 2015–2025 及以上版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/03/45105159-V3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/452877823853.mp4"
+  ],
+  "supported_versions": "AE CC 2015 – 2025 或更高版",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "aescripts 版 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8418502866-35a3fe?p=4431"
+    },
+    {
+      "name": "aescripts 版 百度网盘",
+      "url": "https://pan.baidu.com/s/1bs9XhjEk0Zmux4-8lRvQSw?pwd=qks5"
+    },
+    {
+      "name": "aescripts 版 阿里云盘",
+      "url": "https://www.alipan.com/s/iN2nfXPRZF7"
+    },
+    {
+      "name": "videohive 版 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1030981802-ad5962?p=4431"
+    },
+    {
+      "name": "videohive 版 百度网盘",
+      "url": "https://pan.baidu.com/s/1GxIJSqiUVFGH723A4-LLsQ?pwd=n9va"
+    },
+    {
+      "name": "videohive 版 阿里云盘",
+      "url": "https://www.alipan.com/s/YWXg7f5f5cJ"
+    }
+  ],
+  "other": {
+    "访问密码/提取码": {
+      "城通网盘": "6688",
+      "aescripts 版百度网盘": "qks5",
+      "videohive 版百度网盘": "n9va"
+    }
+  }
+}

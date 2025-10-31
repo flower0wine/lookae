@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本：图层标签颜色批量管理工具 Aescripts Labels V2.0 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-biao-qian-yan-se-pi-liang-guan-li-gong-ju-aescripts-labels-v2-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017-03-27T12:12:00Z",
+  "source_url": "https://www.lookae.com/labels2/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可帮助用户在After Effects中高效管理图层标签颜色。当合成中图层数量较多时，通过自定义颜色组来区分不同类型的图层，提升查找与选择效率。支持一键设置标签颜色和选择标签组，适用于合成面板与项目面板中的图层。操作简便，显著优化多图层项目的制作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/Label.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC2015",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "脚本下载",
+      "url": "https://lookae.ctfile.com/fs/O7b185903977"
+    },
+    {
+      "name": "使用教程",
+      "url": "http://lookae.ctfile.com/fs/rWB155639263"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "更多精品AE模板下载",
+        "url": "https://www.lookae.com/after-effects/other-after-effects/"
+      },
+      {
+        "name": "AE模板精选音乐合集下载",
+        "url": "https://item.taobao.com/item.htm?spm=a1z10.1.w4004-2793089344.4.MUvxbV&id=37289930486"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "official_website": "http://aescripts.com/labels/"
+  }
+}

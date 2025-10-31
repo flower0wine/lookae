@@ -1,0 +1,74 @@
+{
+  "title": "中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown v1.5.0 Win版",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wu-ti-biao-mian-gen-zong-te-xiao-he-cheng-gao-ji-gong-ju-lockdown-v1-5-0-winban",
+  "author": "大众脸",
+  "post_date": "2020/06/09 11:05",
+  "source_url": "https://www.lookae.com/lockdown-15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "Lockdown是一款革命性的新插件，可直接跟踪运动物体扭曲不平的表面，适用于美容修饰、物体移除清理及各类复杂跟踪合成特效制作。支持After Effects CC 2019与2020版本，适用于Win/Mac系统。最新v1.5.0版本新增了扩展跟踪轨迹功能，优化了合成结构，并修复多项兼容性与稳定性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/10/Lockdown.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/238517900336.mp4",
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/268465899131.mp4"
+  ],
+  "supported_versions": "After Effects CC 2019, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-447906232"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1jSzu1pJYnZDbvAVP8H76EA"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "V1.4新版教程 - 城通网盘",
+        "url": "https://089u.com/file/680462-445330945"
+      },
+      {
+        "name": "V1.4新版教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1YeFG07kBTePKT1C7wm_rZg"
+      },
+      {
+        "name": "英文视频教程 - 城通网盘",
+        "url": "https://tc5.us/file/680462-402524782"
+      },
+      {
+        "name": "英文视频教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1ziayuRTOWWrlxu9HAsDzg"
+      },
+      {
+        "name": "中文字幕教程 - 城通网盘",
+        "url": "https://tc5.us/file/680462-403009657"
+      },
+      {
+        "name": "中文字幕教程 - 百度网盘",
+        "url": "https://pan.baidu.com/s/1VIpX0gl6zw2GL4iBy5YX-w&shfl=sharepset"
+      }
+    ],
+    "tutorial_author": "By:月离",
+    "plugin_website": "https://aescripts.com/lockdown/",
+    "installation_notes": [
+      "如果之前安装过，请删除Lockdown.aex和LockdownScript.jsxbin文件",
+      "将Lockdown.aex和GenerateVectors.aex复制到AE插件目录，如：...\\Adobe After Effects CC 2019\\Support Files\\Plug-ins\\",
+      "打开AE注册插件，输入序列号，成功后出现‘Registration successful for 9 user’弹窗即表示注册成功，无水印"
+    ],
+    "update_notes": [
+      "增加了扩展现有跟踪轨迹的能力",
+      "更改了构图结构以包括‘锁定图形’合成，便于解除锁定构图",
+      "修复了潜在的GPU兼容性问题",
+      "消除了调整点对插值点的影响，更新速度更快",
+      "修复了‘锁定效果必须保持选中状态…’的错误提示"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "AE脚本-无限循环物理随机动画 LOOPRAN v1.0.107 +使用教程",
+  "slug": "aejiao-ben-wu-xian-xun-huan-wu-li-sui-ji-dong-hua-loopran-v1-0-107-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/11/06 22:13",
+  "source_url": "https://www.lookae.com/loopran-10107/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "LOOPRAN 是一款用于 After Effects 的脚本，可创建无限循环的物理随机动画。它具备启动器功能，支持通过单次点击执行35种任务（如合成创建），并提供超过40种可自定义设置，提升工作效率。动画支持8种基于物理的类型：弹跳、弹跳碰撞、落下、抛骰子、侧抛、侧抛碰撞、海浪、零重力。每次运行均生成随机图案，适用于动态视觉设计。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/LOOPRAN.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/488371111349.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1422166858-ad419d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dfM01RAUtTAy25KnAQ3iqA?pwd=1jhm"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/fn13u2eXvLA"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.0.107 更新了设置屏幕中的 UI 文本。",
+    "animation_types": [
+      "弹跳",
+      "弹跳碰撞",
+      "落下",
+      "抛骰子",
+      "侧抛",
+      "侧抛碰撞",
+      "海浪",
+      "零重力"
+    ],
+    "features": [
+      "单击应用8种高质量复杂物理动画",
+      "无限持续，每次图案随机变化",
+      "支持约20种高级自定义设置（如重力、速度、循环次数、随机范围等）"
+    ],
+    "original_description_zh": "创建无尽的物理随机动画。它还具有启动器功能，允许您单击一次执行 35 种不同的任务，例如合成创建。此外，您可以使用 40 多种设置灵活地自定义其行为，从而实现更高效的工作流程。",
+    "original_description_en": "Create endless physical random animations. It also features a launcher function that allows you to execute 35 different tasks, such as composition creation, with a single click. Additionally, you can customize its behavior flexibly with over 40 settings, allowing for more efficient workflow."
+  }
+}

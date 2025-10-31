@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本：文字书写/手写字动画 Aescripts QuickDraw（附使用教程）",
+  "slug": "aejiao-ben-wen-zi-shu-xie-shou-xie-zi-dong-hua-aescripts-quickdraw-fu-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014-08-19T23:22:00Z",
+  "source_url": "https://www.lookae.com/quickdraw/",
+  "category": "aescripts",
+  "tags": [
+    "Aescripts",
+    "AE插件",
+    "AE脚本"
+  ],
+  "content": "Aescripts QuickDraw 是一款用于 After Effects 的脚本，可快速创建文字书写或手写字动画效果。它基于内置画笔工具实现，支持自定义笔画顺序、书写速度等参数。用户可通过鼠标或数位板绘制文本路径，脚本自动完成关键帧生成与动画控制，极大简化了书写动画的制作流程。该脚本适用于需要高效制作动态文字效果的设计师和动画师。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/08/QuickDraw.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2014 及以上版本（兼容性建议参考官网）",
+  "supported_os": "Windows & macOS",
+  "download_links": [
+    {
+      "name": "AE脚本：文字书写/手写字动画 Aescripts QuickDraw（附使用教程）",
+      "url": "https://www.400gb.com/file/71444049"
+    }
+  ],
+  "other": {
+    "demo_link": null,
+    "official_website": "http://aescripts.com/quickdraw/",
+    "features": [
+      "更快更稳定的笔画测量方法",
+      "支持表达式与关键帧管理的绘制图层",
+      "可自定义生成的遮罩层颜色",
+      "所有设置保存至 After Effects 首选项"
+    ],
+    "release_notes": "最新版本 V1.0.4 已包含未来 V2 版本的大部分新功能，无需等待更新界面。",
+    "usage_platforms": [
+      "Wacom 数位板",
+      "鼠标绘制"
+    ],
+    "related_categories": [
+      "AE插件",
+      "AE教程",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

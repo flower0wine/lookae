@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-一键处理多图层运动 EditMonkey v1.0.2 + 使用教程",
+  "slug": "aejiao-ben-yi-jian-chu-li-duo-tu-ceng-yun-dong-editmonkey-v1-0-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-04-25T15:49:00Z",
+  "source_url": "https://www.lookae.com/editmonkey-102/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "EditMonkey 是一款适用于 After Effects 的脚本，可一键将多个图层按设定或随机方式生成复杂动画。支持视频、图形及内置文本生成器，能快速创建多图层编辑效果。适用于多种 AE 版本，兼容性良好。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/editmonkey-102.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368258513"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1S2D-Gops-lP1ih77yO5lpA"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-244110832"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1bYGIJ1Fw19EPGYyDJb9Tvg"
+    }
+  ],
+  "other": {
+    "script_description": "Create complex multi-layered edits in seconds. Works with video, graphics or use the built-in text generator. The After Effects Killer Ape",
+    "official_website": "https://aescripts.com/editmonkey/",
+    "update_notes": [
+      "更新AE的新JavaScript表达式引擎（完美兼容 AE CC 2019）",
+      "修复错误命令处理问题"
+    ],
+    "download_password": "rjjk",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

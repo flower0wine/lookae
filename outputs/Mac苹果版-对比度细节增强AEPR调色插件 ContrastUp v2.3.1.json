@@ -1,0 +1,50 @@
+{
+  "title": "Mac苹果版-对比度细节增强AE/PR调色插件 ContrastUp v2.3.1",
+  "slug": "macping-guo-ban-dui-bi-du-xi-jie-zeng-qiang-ae-prdiao-se-cha-jian-contrastup-v2-3-1",
+  "author": "大众脸",
+  "post_date": "2025-09-18",
+  "source_url": "https://www.lookae.com/contrastup-231-mac/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "MAC插件",
+    "PR插件",
+    "调色插件"
+  ],
+  "content": "插件可以增强图像的对比度并调整阴影、中间色调和高光部分。提供了复杂的算法来增强对比度，提高视频帧和图像的图像质量。使用它，用户可以轻松灵活地调整对比度。而阴影/中间色调/高光允许用户调整图像的不同部分（最暗、中间色调和最亮），同时保持自然的外观，而无需复杂的操作。支持GPU加速，具有实时性能。简单几步即可调整出漂亮的色彩。v2.3.1 更新内容：修复 Apple Silicon 的加载问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/06/ContrastUp.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/534490423316.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020; Premiere 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Mac苹果系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8436058356-836646?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/12I8aIW88YU48xu1CCohsbQ?pwd=4dah"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Z2XCYnpu4jR"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "4dah"
+    },
+    "related_resources": [
+      {
+        "title": "Win版-对比度细节增强AE/PR调色插件 ContrastUp v2.3.1",
+        "url": "https://www.lookae.com/contrastup-231/"
+      }
+    ]
+  }
+}

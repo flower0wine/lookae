@@ -1,0 +1,64 @@
+{
+  "title": "Ae/Pr特效合成套装插件 FXhome Ignite Pro 3.2.8328.56741",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-ignite-pro-3-2-8328-56741",
+  "author": "大众脸",
+  "post_date": "2018/12/11 11:57",
+  "source_url": "https://www.lookae.com/ignite-32/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FXHOME 公司出品的 HitFilm 插件，可在 After Effects 和 Premiere Pro 中直接使用 HitFilm 效果。包含约173款特效，涵盖调色、抠像、变形扭曲、粒子、光晕光效、特效合成等多个领域。支持 GPU 加速，具备先进的键控技术、丰富的光效与烟火模拟功能，适用于 AE 和 PR 的多版本系统。该插件集成了此前广受好评的枪火插件（如 MuzzlePlug），现已整合至 'HitFilm – Particles & Simulation' 模块中。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXhome-Ignite-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 - CC 2018, Premiere Pro CS6 - CC 2018",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-324485160"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1aO4L7757kiW-PV5eX9ZN6w"
+    }
+  ],
+  "other": {
+    "plugin_count_total": 173,
+    "plugins_for_ae": 154,
+    "plugins_for_pr": 143,
+    "official_website": "http://hitfilm.com/ignite-pro",
+    "features": [
+      "GPU加速支持",
+      "专业色度键抠像与溢出抑制",
+      "多种光效（镜头耀斑、体积光、发光等）",
+      "火焰、雷电、火灾模拟等高级特效",
+      "电影分级与视觉增强功能",
+      "复杂粒子系统生成（支持成千上万粒子）",
+      "3D挤压、失真扭曲、镜头畸变校正等"
+    ],
+    "included_plugin_categories": [
+      "360° video",
+      "Blurs",
+      "Channel",
+      "Color correction",
+      "Color grading",
+      "Stylize",
+      "Temporal",
+      "Distort",
+      "Generate",
+      "Grunge",
+      "Scene",
+      "Gradients & fills",
+      "Keying",
+      "Lights & flares",
+      "Matte enhancement",
+      "Particles & simulation",
+      "Video clean-up",
+      "Warp"
+    ]
+  }
+}

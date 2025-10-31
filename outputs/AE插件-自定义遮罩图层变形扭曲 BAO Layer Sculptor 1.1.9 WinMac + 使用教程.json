@@ -1,0 +1,45 @@
+{
+  "title": "AE插件-自定义遮罩图层变形扭曲 BAO Layer Sculptor 1.1.9 Win/Mac + 使用教程",
+  "slug": "aecha-jian-zi-ding-yi-zhe-zhao-tu-ceng-bian-xing-niu-qu-bao-layer-sculptor-1-1-9-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/08/12 21:00",
+  "source_url": "https://www.lookae.com/layer-sculptor-119/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "图层变形扭曲"
+  ],
+  "content": "BAO Layer Sculptor 是一款专为 After Effects 设计的精准图层变形与雕刻插件，可基于自定义遮罩实现高精度的变形和扭曲效果。用户可自由绘制遮罩，并对图层进行精确塑形，适用于复杂动态图形创作。支持 Windows 与 Mac 系统，兼容 After Effects CS6 至 2021 及更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/BAO-Layer-Sculptor.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – 2021 及更高版本",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-506070238-bcc614"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1I9b3DFf2vFvpckOfzOT3Cg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/qyG7mujV5wE"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.1.9 新版更新：修复了 16 位内存问题。",
+    "categories_link": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_link": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e5%9b%be%e5%b1%82%e5%8f%98%e5%bd%a2%e6%89%ad%e6%9b%b2/"
+    ],
+    "image_alt": "AE插件-自定义遮罩图层变形扭曲 BAO Layer Sculptor 1.1.9 Win/Mac + 使用教程-LookAE.com"
+  }
+}

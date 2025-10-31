@@ -1,0 +1,57 @@
+{
+  "title": "AE/PR插件-根据图片文字描述智能视频调色插件 Color Grade Prompter V1.4.23 Win/Mac",
+  "slug": "ae-prcha-jian-gen-ju-tu-pian-wen-zi-miao-shu-zhi-neng-shi-pin-diao-se-cha-jian-color-grade-prompter-v1-4-23-win-mac",
+  "author": "大众脸",
+  "post_date": "2025-05-23T09:32:00Z",
+  "source_url": "https://www.lookae.com/color-grade-prompter-1423/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Color Grade Prompter",
+    "PR插件"
+  ],
+  "content": "Color Grade Prompter 是一款基于人工智能的插件，能够根据文本输入和图像层实现快速、智能的颜色分级。适用于 After Effects 和 Premiere Pro，支持 Windows 与 Mac 系统。该插件可显著提升视频调色效率，无需手动调整复杂参数即可生成符合描述的调色效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Color-Grade-Prompter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/438276294355.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2024, 2025; Premiere 2023, 2024",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1506916828-ffb8be?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1yfU7b6xiDEfC5LVeTW6CEg?pwd=fgv9"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/5xfo2M6Afmr"
+    }
+  ],
+  "other": {
+    "update_notes": "V1.4.23 更新内容：对某些设置进行小幅性能优化；非 CUDA 版本依赖更少的系统库。",
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "fgv9"
+    },
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "Premiere",
+      "软件/插件"
+    ],
+    "tag_links": {
+      "AE插件": "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "AE插件M1": "https://www.lookae.com/tag/aem1/",
+      "Color Grade Prompter": "https://www.lookae.com/tag/color-grade-prompter/",
+      "PR插件": "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/"
+    }
+  }
+}

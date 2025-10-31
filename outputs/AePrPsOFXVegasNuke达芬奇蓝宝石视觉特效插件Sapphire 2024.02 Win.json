@@ -1,0 +1,102 @@
+{
+  "title": "Ae/Pr/Ps/OFX/Vegas/Nuke/达芬奇蓝宝石视觉特效插件Sapphire 2024.02 Win",
+  "slug": "ae-pr-ps-ofx-vegas-nuke-da-fen-qi-lan-bao-shi-shi-jue-te-xiao-cha-jian-sapphire-2024-02-win",
+  "author": "大众脸",
+  "post_date": "2024-01-28T21:17:00Z",
+  "source_url": "https://www.lookae.com/sapphire-2024/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nuke插件",
+    "PR插件",
+    "PS插件",
+    "Sapphire",
+    "VEGAS插件",
+    "蓝宝石插件",
+    "达芬奇插件"
+  ],
+  "content": "Sapphire 2024 是一款强大的视觉特效插件，支持在 After Effects、Premiere Pro、Photoshop、DaVinci Resolve、Fusion Studio、VEGAS Pro、HitFilm Pro 以及 The Foundry Nuke 等主流视频制作软件中使用。其核心优势在于提供超过270个特效和3000多个预设，具备先进的效果与过渡生成器，并集成奥斯卡获奖的 Mocha 跟踪与遮罩系统，显著提升图像质量、控制精度与渲染效率，帮助创作者高效实现电影级视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/11/Sapphire-2024.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/435811159933.mp4"
+  ],
+  "supported_versions": "After Effects CC 2021, 2022, 2023, 2024; Premiere Pro CC 2021, 2022, 2023, 2024; Photoshop CC 2021, 2022, 2023, 2024; DaVinci Resolve; Fusion Studio; VEGAS Pro; HitFilm Pro; Nuke (v14 及以上)",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "AE/PR插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1015543705-b95079?p=4431"
+    },
+    {
+      "name": "AE/PR插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1gYOhEaC1tMU1KV8WUUx3ow?pwd=awq7"
+    },
+    {
+      "name": "AE/PR插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/k6vFSqDJr9R"
+    },
+    {
+      "name": "OFX版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1015543699-0d98ca?p=4431"
+    },
+    {
+      "name": "OFX版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WwprN4xUQwRbkPYjzHUDag?pwd=72ot"
+    },
+    {
+      "name": "OFX版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/STrPbLTw1Dy"
+    },
+    {
+      "name": "PS版插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1015543708-dbc0d8?p=4431"
+    },
+    {
+      "name": "PS版插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1O9i3B1KJlKT0I5PSq-j-Jg?pwd=gjr9"
+    },
+    {
+      "name": "PS版插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/tHkGmKxecSB"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新的！效果和过渡：使用 Sapphire PixelMosh 释放数字混乱。",
+      "新的！效果：使用蓝宝石尘埃为任何图像添加大气真实感和电影光环。",
+      "新的！重新设计的时间效果：蓝宝石时间类别已更新以获得更好的行为，并集成到效果和过渡生成器中。",
+      "新的！10+ 更多耀斑：全新和更新的蓝宝石镜片耀斑。",
+      "新的！65+ 效果预设：包括 18 个高级 Builder 预设。"
+    ],
+    "software_support": {
+      "adobe": [
+        "After Effects CC 2021",
+        "After Effects CC 2022",
+        "After Effects CC 2023",
+        "After Effects CC 2024",
+        "Premiere Pro CC 2021",
+        "Premiere Pro CC 2022",
+        "Premiere Pro CC 2023",
+        "Premiere Pro CC 2024",
+        "Photoshop CC 2021",
+        "Photoshop CC 2022",
+        "Photoshop CC 2023",
+        "Photoshop CC 2024"
+      ],
+      "ofx": [
+        "DaVinci Resolve",
+        "Fusion Studio",
+        "VEGAS Pro",
+        "HitFilm Pro",
+        "The Foundry Nuke (v14 及以上)"
+      ]
+    },
+    "passwords": {
+      "ae_pr": "6688",
+      "ofx": "72ot",
+      "ps": "gjr9"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "AE脚本-遮罩图形自由变换控制Aescripts Mask Transformer v1.0+使用教程",
+  "slug": "aejiao-ben-zhe-zhao-tu-xing-zi-you-bian-huan-kong-zhi-aescripts-mask-transformer-v1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/02/15 11:34",
+  "source_url": "https://www.lookae.com/mask-transformer/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可以在AE中对MASK遮罩图形进行自由变换控制制作动画，而不需要繁琐的关键帧。Enable masks transformations, with real values input, and motion paths.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/Mask-Transformer-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-336688899"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1yorzt1jFA1-rLtlj-N3DPw"
+    }
+  ]
+}

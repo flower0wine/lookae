@@ -1,0 +1,57 @@
+{
+  "title": "24组大疆航拍无人机视频调色LUTs预设（AE/PR/FCPX/PS/达芬奇/OFX）",
+  "slug": "24zu-da-jiang-hang-pai-wu-ren-ji-shi-pin-diao-se-lutsyu-she-ae-pr-fcpx-ps-da-fen-qi-ofx",
+  "author": "大众脸",
+  "post_date": "2019-05-24T21:23:00Z",
+  "source_url": "https://www.lookae.com/drone-lut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "多软支持",
+    "调色预设"
+  ],
+  "content": "这套预设共包含24个专为DJI无人机航拍视频设计的调色LUTs，采用行业标准的3D CUBE格式，适用于多种后期软件。其中包含12个DLOG & DLOG-M模式和12个D-Cinelike模式，可实现快速、高效且富有创意的颜色校正与分级调色，使画面呈现出电影胶片般的质感。通过使用这些LUTs，用户能显著缩短调色流程，并在基础上轻松调整出理想的色彩风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/TB-Drone-LUT.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4"
+  ],
+  "supported_versions": "Adobe Premiere CS6-CC 2019, Adobe After Effects CS6-CC 2019, Adobe Photoshop CS6-CC 2019, Final Cut Pro X, Final Cut Pro 7, DaVinci Resolve (Full & Lite), Avid MC 7, Shake, Sony Vegas, Edius, Pandora Revolution/Pixi, CineForm Studio Premium, Nuke, SCRATCH, Film Master, Quantel Pablo, BaseLight, Motion 5/4",
+  "supported_os": "Mac / Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-375655789"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1xagoo4d7T1fCjs0TKwzM4g"
+    }
+  ],
+  "other": {
+    "extract_code": "9fmu",
+    "lut_usage_tips": [
+      "FCPX 用户需使用 [LUT Gallery](https://www.lookae.com/lut-gallery/) 插件调用LUTs预设。",
+      "建议使用 [Magic Bullet LUT Buddy](https://www.redgiant.com/downloads/free-products/) 适配多数软件。",
+      "对于 FCPX，可使用 [FCPX LUT Loader](https://www.lookae.com/lut-loader-15s/) 或 [FCPX软件 LUT 实用颜色工具](https://www.lookae.com/fcpx-lut/)。",
+      "只要软件支持安装新版调色插件，即可导入并使用Looks LUTs。"
+    ],
+    "tutorial_videos": [
+      "在线观看视频使用教程: https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33494167.mp4",
+      "高清教程视频文件下载: https://pan.baidu.com/s/1dEdBwA1"
+    ],
+    "software_specific_instructions": {
+      "Adobe_Premiere_Pro_CC": "视频特效 → Lumetri",
+      "Adobe_Photoshop_CS6_CC": "Image → Adjustments → Color Lookup",
+      "Adobe_After_Effects_CS6_CC": "Effects → Utility → Apply Color LUT",
+      "Vegas_Pro": "需下载[LUTS插件](https://www.lookae.com/ofxlut/)",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "DaVinci_Resolve": "直接使用或导入",
+      "Final_Cut_Pro_X": "[FCPX LUT Loader](https://www.lookae.com/lut-loader-15s/)"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本：高级 mask 遮罩编辑控制工具 AEscripts Advanced Mask Editor 1.2 + 使用教程",
+  "slug": "aejiao-ben-gao-ji-mask-zhe-zhao-bian-ji-kong-zhi-gong-ju-aescripts-advanced-mask-editor-1-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/12/19 13:48",
+  "source_url": "https://www.lookae.com/ame12/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "Advanced Mask Editor 是一个非常不错的mask遮罩编辑控制工具，提供了多种高级遮罩编辑功能，包括设置起始点、合并、移动中心点、镜像、翻转、旋转90度、复制、转换为形状、独特遮罩、弯曲、保存和读取遮罩以及遮罩特效等功能。支持After Effects CC 2017至CS6版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/12/Advanced-Mask-Editor.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/m/e/merge.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/c/u/curvature.gif",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/catalog/product/m/i/mirror.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CC 2017 – CS6",
+  "supported_os": "Win/Mac 系统",
+  "download_links": [
+    {
+      "name": "AEscripts Advanced Mask Editor 1.2",
+      "url": "https://lookae.ctfile.com/fs/mv7164204465"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/advanced-mask-editor/",
+    "features": [
+      "Set First Vertex - 设置起始点",
+      "Merge - 合并",
+      "Move to Center - 移动中心点",
+      "Mirror - 镜像",
+      "Flip - 翻转",
+      "Rotate 90° - 旋转90度",
+      "Duplicate - 复制",
+      "Convert to Shape - 转换为形状",
+      "Solo Mask - 独特遮罩",
+      "Curvature - 弯曲",
+      "Mask Save & Load - 保存和读取",
+      "Mask FX - 遮罩特效"
+    ]
+  }
+}

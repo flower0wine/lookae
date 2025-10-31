@@ -1,0 +1,57 @@
+{
+  "title": "中文汉化-抽象几何形状视觉化效果AE/PR插件 Geometric Filte v1.2 Win",
+  "slug": "zhong-wen-yi-hua-chou-xiang-ji-he-xing-zhuang-shi-jue-hua-xiao-guo-ae-prcha-jian-geometric-filte-v1-2-win",
+  "author": "大众脸",
+  "post_date": "2023/05/16 23:07",
+  "source_url": "https://www.lookae.com/geometric-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "Geometric Filter 插件可将源图像转换为大量几何形状，通过自定义的邻近匹配算法逼近原始图像轮廓与相似区域，生成具有独特风格的视觉效果。结果类似‘样式转换’但更具可控性和艺术感。支持20种内置预设，用户可自由调节参数创建个性化效果。适用于音乐视频、可视化、手绘风格模拟及VJ艺术创作。该插件适用于 After Effects 与 Premiere，支持多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/05/Geometric-Filter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/366158470408.mp4"
+  ],
+  "supported_versions": "After Effects: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6\nPremiere: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-857694678-72dae3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1mdoEzvII6yPTGYxIghrKJw?pwd=h525"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/p1Sn15QMtko"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "添加了对线宽可调的圆形形状的支持",
+      "将尺寸、尺寸增长和线宽参数的最大值加倍",
+      "将垂直渲染限制扩展到 16384 像素（没有水平限制）",
+      "实现警告消息以防止崩溃超过垂直限制",
+      "改进了在用户修改后取消未完成渲染的能力",
+      "增强了对 After Effects 的渲染进度反馈",
+      "Aescripts 框架 v4.0.7 – 改进了许可证检查的稳定性"
+    ],
+    "usage_scenarios": [
+      "音乐视频",
+      "可视化效果",
+      "手绘风格模拟",
+      "VJ艺术视觉"
+    ],
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "h525"
+    }
+  }
+}

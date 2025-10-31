@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-工程信息数据导出脚本Aescripts Project Info List Exporter 2.1.0 + 使用教程",
+  "slug": "aejiao-ben-gong-cheng-xin-xi-shu-ju-dao-chu-jiao-ben-aescripts-project-info-list-exporter-2-1-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-12-09",
+  "source_url": "https://www.lookae.com/project-210/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Project Info List Exporter 可将 After Effects 工程中的帧速率、插件、素材路径、渲染记录等海量数据导出为可排序、可搜索的列表，方便快速检查项目连续性与缺失资源。2.1.0 新增三种导出格式选项，并修复文本层数据列顺序、描边颜色及多行表达式格式问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Project-Info-List-Exporter-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CC 2014 – CC 2019",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-323786572"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1gxHoQ6ov2ODZz6VUC6T4Rw"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-322419910"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1TYgKhRCWOMZWNStJHfeXQA"
+    }
+  ],
+  "other": {
+    "official_url": "https://aescripts.com/project-info-list-exporter/",
+    "update_notes": [
+      "新增导出格式选项：Tab Delimited A / B、Simple Text",
+      "文本层名称截断为 35 字符",
+      "修复导出列标题与数据错位",
+      "修复描边颜色缺失",
+      "多行表达式与源文本现在可完整写入单个单元格"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Win/Mac版：红巨人后期流程插件套装 Red Giant Shooter Suite 13.0.3",
+  "slug": "win-macban-hong-ju-ren-hou-qi-liu-cheng-cha-jian-tao-zhuang-red-giant-shooter-suite-13-0-3",
+  "author": "大众脸",
+  "post_date": "2016-05-11T01:23:00Z",
+  "source_url": "https://www.lookae.com/shooter1303/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "FCPX",
+    "FCPX插件",
+    "PR插件"
+  ],
+  "content": "Red Giant Shooter Suite 13 是专为摄影师和编辑人员设计的后期流程插件套装，支持从摄像机和音频设备采集的媒体素材处理。该套件包含四款工具，确保视频与音频在拍摄后能安全、准确、同步地进入剪辑时间线。适用于多种主流视频编辑软件，显著提升后期工作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/02/shooter13.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Red Giant Shooter Suite 13.0.3",
+  "supported_os": "Windows, Mac OS X",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://pan.baidu.com/s/1qYSpCfE"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "https://pan.baidu.com/s/1c1GS7ok"
+    },
+    {
+      "name": "SN序列号下载",
+      "url": "https://www.400gb.com/file/26701927"
+    },
+    {
+      "name": "Red Giant Shooter Suite 13.0.1 CE 一键安装版（Win 可用 PluralEyes 4.0）",
+      "url": "https://www.lookae.com/shooter1301/"
+    }
+  ],
+  "other": {
+    "plugin_features": [
+      "PluralEyes 4.0.0：音视频自动同步插件，新增多项功能并支持与 Offload 集成",
+      "Offload 1.0.2：素材备份工具",
+      "Instant 4K 1.5.2：支持4K高清处理",
+      "Frames 1.1.5：用于素材上下场转场（非视频间切换转场）"
+    ],
+    "supported_software": [
+      "Adobe After Effects CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+      "Adobe Premiere Pro CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+      "Final Cut Pro 6, 7, X, FCPX",
+      "Avid Media Composer 7 或更高版本"
+    ],
+    "license_keys": {
+      "Denoiser II": "MBNK1245865095746168",
+      "Frames 1.1": "MBFK1245843484599512",
+      "Instant 4K": "IHDK1245843086124132",
+      "Offload 1.0": "OFLK1245858439487526",
+      "BulletProof 1.2.2": "RGBK1245874736628977",
+      "PluralEyes 3.5": "PLLK1245872562842515",
+      "PluralEyes 4.0": "暂无序列号",
+      "LUT Buddy": "included free"
+    },
+    "update_notes": "PluralEyes 增加新特性，并实现与 Offload 的集成更新",
+    "website": "http://www.redgiant.com/products/shooter-suite/"
+  }
+}

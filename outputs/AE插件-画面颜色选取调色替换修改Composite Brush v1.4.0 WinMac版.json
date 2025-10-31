@@ -1,0 +1,45 @@
+{
+  "title": "AE插件-画面颜色选取调色替换修改Composite Brush v1.4.0 Win/Mac版",
+  "slug": "aecha-jian-hua-mian-yan-se-xuan-qu-diao-se-ti-huan-xiu-gai-composite-brush-v1-4-0-win-macban",
+  "author": "大众脸",
+  "post_date": "2019-04-21",
+  "source_url": "https://www.lookae.com/composite-brush-14/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "Composite Brush是一款精确易用的After Effects颜色选择器和修改器插件。它可以直接在视频画面上选取颜色，然后对选择部分进行修改替换成自己需要的颜色。通过简单的几次描画即可创建选区，并修改颜色或提取键控。该插件能够搭配Keylight抠像插件一起使用，让抠像更加容易和干净。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Composite-Brush-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-367243234"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1tHcuYZvtRZRifHR78rJDnA"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-331097985"
+      },
+      {
+        "name": "百度网盘下载",
+        "url": "https://pan.baidu.com/s/1sd0XkNw_f09V3BXC2_Sxvw"
+      }
+    ],
+    "version_updates": "V1.4版本更新：新增Hair (1.4) matte type功能，添加删除所有画笔数据的按钮",
+    "official_url": "https://aescripts.com/composite-brush/",
+    "usage_tips": "单击并拖动就可以选取画面上的颜色，按住Alt键+鼠标左键可以取消选择",
+    "special_notes": "插件由LookAE大众脸团队注册，插件仅供测试使用，如果喜欢请购买正版"
+  }
+}

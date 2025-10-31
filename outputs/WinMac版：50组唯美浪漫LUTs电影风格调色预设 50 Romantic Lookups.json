@@ -1,0 +1,82 @@
+{
+  "title": "Win/Mac版：50组唯美浪漫LUTs电影风格调色预设 50 Romantic Lookups",
+  "slug": "win-macban-50zu-wei-mei-lang-man-lutsdian-ying-feng-ge-diao-se-yu-she-50-romantic-lookups",
+  "author": "大众脸",
+  "post_date": "2016-08-01T13:30:00Z",
+  "source_url": "https://www.lookae.com/romanticlut/",
+  "category": "aechajian",
+  "tags": [
+    "FCPX",
+    "LUT",
+    "Win/Mac",
+    "多软件支持",
+    "调色预设"
+  ],
+  "content": "这是一套专为后期制作设计的50组唯美浪漫风格LUTs调色预设，支持多种主流视频与图像处理软件。采用. cube和.3DL两种格式，可快速实现电影胶片般的色彩质感，显著提升画面视觉表现力。适用于追求高品质影视调色效果的专业用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/Romantic-Lookups.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2GkADtFXXXXXCXXXXXXXXXXXX_!!705956171.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/e/1/t/1/p/2/33494167.swf",
+    "https://pan.baidu.com/s/1dEdBwA1"
+  ],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/7j0154626469"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1kVfKZyf"
+    }
+  ],
+  "other": {
+    "support_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS6-CC 2016",
+      "Adobe After Effects CS6-CC 2016",
+      "Adobe Photoshop CS6-CC 2016",
+      "Final Cut Pro X",
+      "Final Cut Pro 7",
+      "Avid MC 7",
+      "Shake",
+      "Sony Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5/4"
+    ],
+    "lut_usage_methods": [
+      "Adobe Premiere Pro CC：视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC：Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC：Effects → Utility → Apply Color LUT",
+      "Vegas Pro：[LUTS插件下载](https://www.lookae.com/ofxlut/)",
+      "Nuke: Vectorfield",
+      "SCRATCH: Color Scraffolds",
+      "Final Cut Pro X: LUT Utility",
+      "DaVinci Resolve 直接使用或导入",
+      "Magic Bullet LUT Buddy（适用于大部分软件）",
+      "FCPX软件 LUT 实用颜色工具",
+      "注：只要软件能安装 Looks 新版的调色插件，就能使用Looks导入LUT使用"
+    ],
+    "related_recommendations": [
+      "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+      "FCPX调色插件：60组唯美柔和清新 LUT 预设调色 LUT-Soft",
+      "CPX调色插件：60组古典/现代流行浓郁 LUT 预设调色 PFS – LUT Film",
+      "【大众脸官方淘宝店】",
+      "点击自愿赞助 LookAE.com 网站 【送精品资源】"
+    ],
+    "additional_resources": [
+      "上万种LUT调色预设免费下载"
+    ]
+  }
+}

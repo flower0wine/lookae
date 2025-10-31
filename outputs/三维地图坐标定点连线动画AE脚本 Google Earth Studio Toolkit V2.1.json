@@ -1,0 +1,54 @@
+{
+  "title": "三维地图坐标定点连线动画AE脚本 Google Earth Studio Toolkit V2.1",
+  "slug": "san-wei-di-tu-zuo-biao-ding-dian-lian-xian-dong-hua-aejiao-ben-google-earth-studio-toolkit-v2-1",
+  "author": "大众脸",
+  "post_date": "2024/11/20 21:45",
+  "source_url": "https://www.lookae.com/earth-studio-21/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "地图连线"
+  ],
+  "content": "这是一款专为增强 Google Earth Studio 导出内容而设计的 After Effects 脚本，可轻松添加和管理图钉、标签与连接线，创建视觉上引人注目的演示文稿。该工具简化工作流程，提升动画制作效率，并提供专业级视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/09/Google-Earth-Studio-Toolkit.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/480060005775.mp4"
+  ],
+  "supported_versions": "After Effects 2024 或更高版",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1428290014-0db4c9?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qx7DeY91Rc6XfZ8y8pvg0w?pwd=ttvn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/orz1CG9hBYK"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ttvn"
+    },
+    "features": [
+      "钉子和标签管理：轻松将钉子和标签附加到选定的空层。",
+      "动态连接：在空层之间创建视觉上引人注目的连接线、路线和区域，并具有可自定义的笔触宽度、颜色和动画设置。",
+      "用户友好界面：直观的用户界面，带有用于管理引脚、标签和连接的选项卡式面板。"
+    ],
+    "update_notes_v2.1": [
+      "模板更新为 3D 配置",
+      "使用挤压深度时补偿连接线的位置",
+      "许可证框架更新至 v4.3.1",
+      "修复配置许可证服务器时本地许可证激活",
+      "修复 -38 许可证停用错误",
+      "修复 -6 激活错误"
+    ]
+  }
+}

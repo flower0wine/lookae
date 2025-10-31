@@ -1,0 +1,41 @@
+{
+  "title": "色彩匹配AE/PR插件REVisionFX REMatch v2.4.1 Win/Mac",
+  "slug": "se-cai-pi-pei-ae-prcha-jian-revisionfx-rematch-v2-4-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/02/24 16:18",
+  "source_url": "https://www.lookae.com/rematch-241/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "RE:Match是一组视图颜色匹配插件，以便让视频或电影看起来就好像是用相同相机和设置拍摄的。它可假定两个图像序列采样大致在相同位置，但可能拍摄时间或视角不同。对于多机位拍摄或单相机多镜头拍摄（不同照明或相机设置），RE:Match能将一个序列的整体色彩外观匹配到另一个序列。\n\nRE:Match对于3D立体影片，可进一步完善整体色彩搭配，考虑到两种视点同时捕获时的相对小距离。此外，它还能传播仅一个视图中存在的区域色彩变化，并让反射、镜面高光和镜头眩光等细节在两者间视觉一致。\n\nRE:Match is a set of plug-ins to match one view of video or film to another so that it looks as if it was shot with the same camera and settings. RE:Match assumes that both image sequences are taken roughly at the same location but perhaps were not shot at the same time or from the same point-of-view.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/07/REMatch2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC – CC 2019,2020; Premiere Pro CC – CC 2019,2020",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-483765014-59f68c"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1wGveFI5Kp86RQq8AXw8sZQ"
+    }
+  ],
+  "other": {
+    "download_extra_info": [
+      {
+        "link_name": "城通网盘",
+        "access_password": "6688"
+      },
+      {
+        "link_name": "百度网盘",
+        "extract_code": "z4v1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "中文汉化AE插件-高级颜色渐变工具 freeGradient V1.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-gao-ji-yan-se-jian-bian-gong-ju-freegradient-v1-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2024-11-11 20:13",
+  "source_url": "https://www.lookae.com/freegradient-11/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "freeGradient",
+    "中文汉化",
+    "渐变插件"
+  ],
+  "content": "freeGradient是After Effects的一款高级渐变工具，具有偏移、缩放和循环功能。它有无限的颜色图钉来创建任何颜色渐变。渐变的开始和结束坐标可以用两点设置，也可以参数化地设置宽度和角度。v1.1版本更新内容：添加了渐变角度模式；添加了反射模式。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/03/freeGradient.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/402757322070.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1424357653-d21749?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1UXTd7tb4N0RnMnIfb-3Rng?pwd=5ati"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/Naa8Gvh5Lxn"
+    }
+  ],
+  "other": {
+    "download_notes": "Win为中文英文版，Mac仅英文版",
+    "access_codes": {
+      "城通网盘": "6688",
+      "百度网盘": "5ati"
+    }
+  }
+}

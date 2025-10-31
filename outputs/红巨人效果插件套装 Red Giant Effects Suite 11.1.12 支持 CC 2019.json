@@ -1,0 +1,73 @@
+{
+  "title": "红巨人效果插件套装 Red Giant Effects Suite 11.1.12 支持 CC 2019",
+  "slug": "hong-ju-ren-xiao-guo-cha-jian-tao-zhuang-red-giant-effects-suite-11-1-12-zhi-chi-cc-2019",
+  "author": "大众脸",
+  "post_date": "2019/04/24 16:16",
+  "source_url": "https://www.lookae.com/effects-suite-11112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "EIUDS插件",
+    "PR插件",
+    "Red Giant"
+  ],
+  "content": "最新版红巨人效果套装插件 Red Giant Effects Suite 11.1.12 能够模拟制作多种特效，例如光效、光晕、海洋水面、文字特效、卡通动漫风格等。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/Effects-Suite.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS 5 – CC 2019, Adobe Premiere Pro CS 5 – CC 2019, Avid Media Composer 6.0-8.0 or later, Apple Final Cut Pro 7, Apple Motion 5, EDIUS",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win 版本 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368128387"
+    },
+    {
+      "name": "Win 版本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1xfA3Ab0e5z5OeNEQKfshzg"
+    },
+    {
+      "name": "Mac 版本 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368128637"
+    },
+    {
+      "name": "Mac 版本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1MX8HOR1XmhfJVRLr6EQEMQ"
+    }
+  ],
+  "other": {
+    "serial_keys": {
+      "Image Lounge": "1847-7170-1592-8302-3281",
+      "Knoll Light Factory": [
+        "9035-3050-3333-6151-1225",
+        "8890-3030-3333-9159-3080"
+      ],
+      "Knoll Light Factory Photo": "1319-3198-3464-5707-8145",
+      "Red Giant Holomatrix": "9200-6158-1232-5354-9711",
+      "Red Giant PlaneSpace": "2165-5162-1724-8961-0491",
+      "Red Giant Psunami": "8620-5360-1929-6377-2182",
+      "Red GIant Text Anarchy": "9180-5468-2000-6564-9325",
+      "Red Giant ToonIt – LookAE": "2224-5529-2995-5538-1869",
+      "Red Giant Warp": "9137-0361-1084-5744-8254",
+      "Red.Giant Composite Wizard": "1709-7238-1590-5235-4653"
+    },
+    "included_plugins": [
+      "Composite Wizard 1.4.10",
+      "Holomatrix 1.2.2",
+      "Image Lounge 1.4.9",
+      "Knoll Light Factory 3.0.4",
+      "PlaneSpace 1.4.4",
+      "Psunami 1.4.5",
+      "Text Anarchy 2.4.2",
+      "ToonIt 2.1.4",
+      "Warp 1.1.2"
+    ],
+    "update_notes": "更新支持 Adobe CC 2019",
+    "external_links": {
+      "official_store": "https://lookae.taobao.com/",
+      "sponsor": "https://www.lookae.com/sponsor/"
+    }
+  }
+}

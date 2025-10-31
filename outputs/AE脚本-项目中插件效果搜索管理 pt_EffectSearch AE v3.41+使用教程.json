@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-项目中插件效果搜索管理 pt_EffectSearch AE v3.41+使用教程",
+  "slug": "aejiao-ben-xiang-mu-zhong-cha-jian-xiao-guo-sou-suo-guan-li-pt-effectsearch-ae-v3-41-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/05/06 18:41",
+  "source_url": "https://www.lookae.com/effectsearch/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "pt_EffectSearch 是一款用于 After Effects 的脚本，可帮助用户在项目中搜索和管理使用的插件效果。支持查找缺失的效果、定位特定效果的使用位置，以及对效果进行开启/关闭、删除或链接创建克隆实例等操作。适用于多版本 AE 环境，提升项目管理和效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/08/EffectSearch.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372793676"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/14vfDDpeDJHYaoCWHZuoVbA"
+    }
+  ],
+  "other": {
+    "related_categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "external_links": [
+      "https://aescripts.com/pt_effectsearch/"
+    ],
+    "download_password": "ghik",
+    "image_alt": "AE脚本-项目中插件效果搜索管理 pt_EffectSearch AE v3.41+使用教程-LookAE.com"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "AE/PR插件：DigiEffects系列视觉插件合集 DigiEffects Suite v3.0.2",
+  "slug": "ae-prcha-jian-digieffectsxi-lie-shi-jue-cha-jian-he-ji-digieffects-suite-v3-0-2",
+  "author": "大众脸",
+  "post_date": "2015/06/30 11:35",
+  "source_url": "https://www.lookae.com/digieffectssuite302/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "DigiEffects系列插件是一家著名的插件提供商，新版v3.0.2分类为Aura（调色/光晕）、Damage（老电影/破坏）、Phenomena（模拟自然现象）、Tweak（微调）。该插件套装拥有41类插件，可制作电视故障、画面失真、云、烟雾、雪花、光晕等效果，还有调色等视觉效果。插件为一键安装版，安装即可使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/12/DigiEffects-Suite.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Premiere Pro CS6 – CC 2015, After Effects CS6 – CC 2015",
+  "supported_os": "WIN 64位系统",
+  "download_links": [
+    {
+      "name": "AE/PR插件：DigiEffects系列视觉插件合集 DigiEffects Suite v3.0.2",
+      "url": "https://www.400gb.com/file/103084331"
+    }
+  ],
+  "other": {
+    "plugin_suites": {
+      "Aura": [
+        "Solarize",
+        "Edgex",
+        "Colorize",
+        "Lightwrap",
+        "Glow",
+        "Gradient Designer",
+        "Grayscaler",
+        "Channel Range",
+        "Nightbloom",
+        "Specular Lighting",
+        "Channel Noise"
+      ],
+      "Damage": [
+        "Artifact",
+        "Blockade",
+        "Destablize",
+        "Interference",
+        "Overexpose",
+        "Skew",
+        "Wave Displace",
+        "Channel Offset",
+        "Aged Film"
+      ],
+      "Phenomena": [
+        "Fire",
+        "Smoke",
+        "Rainfall",
+        "Snowstorm",
+        "Fog Factory",
+        "Electrical Arcs",
+        "Fairy Dust",
+        "Bubbles",
+        "Fireworks",
+        "Muzzle Flash",
+        "Sparks"
+      ],
+      "Tweak": [
+        "Hyper Harmonizer",
+        "Newsprint",
+        "Crazy Stripes",
+        "Crystallizer",
+        "Visual Harmonizer",
+        "VanGoughist",
+        "Stargate",
+        "Nexus",
+        "Schematic Grids",
+        "Perspectron"
+      ]
+    },
+    "official_website": "http://www.digieffects.com/products/damage-phenomena-tweak-aura"
+  }
+}

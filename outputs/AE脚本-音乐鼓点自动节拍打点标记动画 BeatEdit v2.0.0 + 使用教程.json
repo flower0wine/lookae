@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-音乐鼓点自动节拍打点标记动画 BeatEdit v2.0.0 + 使用教程",
+  "slug": "aejiao-ben-yin-le-gu-dian-zi-dong-jie-pai-da-dian-biao-ji-dong-hua-beatedit-v2-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2020/11/25 11:26",
+  "source_url": "https://www.lookae.com/ae-beatedit/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "BeatEdit能改变After Effects中音乐动画的制作方式，可自动检测音乐节拍并用于多种操作。脚本具有节拍检测、标记、Beat Wiggle、重复关键帧、交错层和关键帧、节拍选择等特征，支持Win/Mac系统的After Effects 2020，CC 2019，CC 2018，CC 2017，CC 2015.3 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/AE-BeatEdit.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2020，CC 2019，CC 2018，CC 2017，CC 2015.3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本城通网盘下载",
+      "url": "https://089u.com/file/680462-472706008"
+    },
+    {
+      "name": "脚本百度网盘下载",
+      "url": "https://pan.baidu.com/s/1GJRFp6BuR8Vof42pEjreIQ"
+    },
+    {
+      "name": "教程城通网盘下载",
+      "url": "https://089u.com/file/680462-472705814"
+    },
+    {
+      "name": "教程百度网盘下载",
+      "url": "https://pan.baidu.com/s/13cIbfklpOY_czKgTZc5J4A"
+    }
+  ],
+  "other": {
+    "脚本提取码": "9poz",
+    "教程提取码": "4ua2",
+    "beatEdit官网": "https://aescripts.com/beatedit-for-after-effects/"
+  }
+}

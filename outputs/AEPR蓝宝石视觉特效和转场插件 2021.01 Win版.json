@@ -1,0 +1,46 @@
+{
+  "title": "AE/PR蓝宝石视觉特效和转场插件 2021.01 Win版",
+  "slug": "ae-prlan-bao-shi-shi-jue-te-xiao-he-zhuan-chang-cha-jian-2021-01-winban",
+  "author": "大众脸",
+  "post_date": "2020-12-14T10:32:00",
+  "source_url": "https://www.lookae.com/sapphire-202101/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "蓝宝石插件能够创造出主机原生效果工具无法比拟的惊人有机视觉效果。其核心优势包括超过270个特效与3000多个预设，强大的效果与转场构建器，以及与奥斯卡获奖的Mocha软件集成的跟踪和遮罩功能。Sapphire凭借卓越的图像质量、精细控制和快速渲染能力，显著提升工作效率，让创作者专注于创意表达，打造令观众印象深刻的视觉冲击力。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/Sapphire-2021.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/288321169595.mp4"
+  ],
+  "supported_versions": "2021.01",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-475848889"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1CICVYcytNnwcjqczRVhI6g"
+    }
+  ],
+  "other": {
+    "update_features": [
+      "新！Metal GPU加速：Mac上最快的渲染速度",
+      "新！S_UltraGlow：世界上最好的辉光变得更好",
+      "新！S_UltraZap：有史以来最激动人心的结果",
+      "新！LensFlare Designer：更多自定义=更多逼真的耀斑",
+      "新！由艺术家设计的45多种预设和10种新的镜头光晕"
+    ],
+    "supported_software": [
+      "After Effects CC – CC 2019, 2020",
+      "Premiere Pro CC – CC 2019, 2020"
+    ],
+    "official_website": "https://borisfx.com/products/sapphire/",
+    "extract_code": "sqhz"
+  }
+}

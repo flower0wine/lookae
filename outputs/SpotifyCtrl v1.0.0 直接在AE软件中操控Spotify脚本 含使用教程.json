@@ -1,0 +1,43 @@
+{
+  "title": "SpotifyCtrl v1.0.0 直接在AE软件中操控Spotify脚本 含使用教程",
+  "slug": "spotifyctrl-v1-0-0-zhi-jie-zai-aeruan-jian-zhong-cao-kong-spotifyjiao-ben-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-09-29T09:22:00Z",
+  "source_url": "https://www.lookae.com/spotifyctrl/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "SpotifyCtrl 是一款专为 After Effects 设计的脚本，允许用户直接在 AE 中控制 Spotify 播放器。支持播放/暂停、上一首、下一首、重复、随机播放、静音、音量调节和搜索功能。同时可显示当前播放曲目名称、艺术家信息及专辑艺术作品图像。所有界面元素（如控制按钮、信息栏、搜索框）均可独立显示或隐藏。仅支持 Spotify Premium 账户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/09/SpotifyCtrl.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/535939062387.mp4"
+  ],
+  "supported_versions": "AE 2026, 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8442593052-f42239?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1tVRsthdXWDZN3V-fmMNSiA?pwd=ywym"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/1LcnYJJisTc"
+    }
+  ],
+  "other": {
+    "original_post_date": "2025/09/29 09:22",
+    "categories": [
+      "[AE脚本](https://www.lookae.com/after-effects/aescripts/)",
+      "[After Effects](https://www.lookae.com/after-effects/)",
+      "[AE脚本](https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/)"
+    ],
+    "note": "插件需配合 Spotify Premium 账户使用，部分功能依赖于本地 Spotify 客户端运行状态。"
+  }
+}

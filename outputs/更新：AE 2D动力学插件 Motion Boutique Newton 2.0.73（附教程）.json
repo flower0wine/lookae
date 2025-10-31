@@ -1,0 +1,50 @@
+{
+  "title": "更新：AE 2D动力学插件 Motion Boutique Newton 2.0.73（附教程）",
+  "slug": "geng-xin-ae-2ddong-li-xue-cha-jian-motion-boutique-newton-2-0-73-fu-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2013-07-26T13:28:00Z",
+  "source_url": "https://www.lookae.com/newton273/",
+  "category": "aechajian",
+  "tags": [
+    "64位",
+    "Mac&Win"
+  ],
+  "content": "Motion Boutique Newton 是 After Effects 首款 2D 动力学插件，可完美模拟重力、碰撞、摩擦等物理属性，操作便捷，适用于制作真实感强的动态效果。新版本 2.0.73 支持 MAC/WIN 平台，兼容 AE CS5 至 CC 版本，具备全新操作界面，并新增关节、吸附与排斥、新动力学类型等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/07/newton273.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 - CC",
+  "supported_os": "Mac & Win",
+  "download_links": [
+    {
+      "name": "AE 2D动力学插件 Motion Boutique Newton 2.0.73（附教程）",
+      "url": "https://www.400gb.com/file/26071845"
+    }
+  ],
+  "other": {
+    "related_posts": [
+      {
+        "title": "AE 2D动力学插件 Motion Boutique Newton 2.0.72（附汉化+教程）",
+        "url": "https://www.lookae.com/newton2/"
+      },
+      {
+        "title": "牛顿动力学2D插件Motion Boutique Newton 1.2 (64Bit)",
+        "url": "https://www.lookae.com/motion-boutique-newton1-2-jiaocheng/"
+      },
+      {
+        "title": "Motion Boutique Newton 1.2 基础教程 (共5集)",
+        "url": "https://www.lookae.com/motion-boutique-newton1-2-jiaocheng/"
+      }
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "tags_urls": {
+      "64位": "https://www.lookae.com/tag/64%e4%bd%8d/",
+      "Mac&Win": "https://www.lookae.com/tag/macwin/"
+    }
+  }
+}

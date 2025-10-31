@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-直接复制粘贴SVG资源 ToothPaste v1.2.3+使用教程",
+  "slug": "aejiao-ben-zhi-jie-fu-zhi-nian-tie-svgzi-yuan-toothpaste-v1-2-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/08/28 10:09",
+  "source_url": "https://www.lookae.com/toothpaste/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "SVG资源"
+  ],
+  "content": "ToothPaste 是一款专为 After Effects 设计的脚本，可让您通过剪贴板快速将 SVG 资源粘贴为形状图层。支持从 Figma、Affinity Designer、Sketch 等工具复制 SVG 后直接导入到 AE 中，极大提升设计效率。脚本支持文本可编辑、渐变、剪辑路径与蒙版、自动分层以及居中粘贴等功能，并提供直观易用的界面，可自由停靠在工作区任意位置。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/08/ToothPaste.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/478748009173.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1347939887-d5c41d?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JdzyFtdN_7fG_hk_R3zhAQ?pwd=jgbc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/dNiAiPKbJPK"
+    }
+  ],
+  "other": {
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/svg%e8%b5%84%e6%ba%90/"
+    ],
+    "additional_info": "支持文本可编辑、渐变、剪辑路径、蒙版、自动分层、合成中心对齐等高级功能；界面简洁，可自由停靠。"
+  }
+}

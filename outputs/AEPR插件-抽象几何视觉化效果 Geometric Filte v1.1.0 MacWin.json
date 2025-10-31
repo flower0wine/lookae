@@ -1,0 +1,74 @@
+{
+  "title": "AE/PR插件-抽象几何视觉化效果 Geometric Filte v1.1.0 Mac/Win",
+  "slug": "ae-prcha-jian-chou-xiang-ji-he-shi-jue-hua-xiao-guo-geometric-filte-v1-1-0-mac-win",
+  "author": "大众脸",
+  "post_date": "2022-12-19T13:35:00Z",
+  "source_url": "https://www.lookae.com/geometric-110/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Geometric Filte",
+    "PR插件",
+    "视觉特效"
+  ],
+  "content": "Geometric Filte 插件可将源图像转换为大量几何形状，以逼近原始图像的轮廓和相似区域。其基于自定义邻近匹配算法，具有类似‘样式转换’的效果，但风格独特且支持参数微调。内置20种预设，支持创建自定义预设，所有参数均可调节。适用于音乐视频、可视化、手绘风格模拟及VJ艺术视觉等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/01/Geometric-Filter.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/366158470408.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-600085137-250e2f?p=4431"
+    },
+    {
+      "name": "Win版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1RHMoo-UaGDkOwIApS572Jg?pwd=ftsx"
+    },
+    {
+      "name": "Win版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/jzpjsxAYHML"
+    },
+    {
+      "name": "Mac版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-751069085-190721?p=4431"
+    },
+    {
+      "name": "Mac版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13eBu5xOV1lYv5pSBS72Xjg?pwd=h37a"
+    },
+    {
+      "name": "Mac版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/F4EqUNt8C7e"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "多帧渲染支持；兼容苹果M芯片",
+      "新增用于调整原始素材FPS的跳过帧参数",
+      "插件文件名更改为 GeometricFilter.aex，请删除旧版本 GeomFilter.aex",
+      "修复使用递归步骤时曲线形状连续性问题",
+      "手册中新增关于插件工作原理的说明部分",
+      "Windows二进制文件已进行代码签名",
+      "Aescripts 框架 v4.0.4"
+    ],
+    "description_en": "Geometric Filter turns footage into a geometric approximation. It does so by using our custom proximity matching algorithm, which gives it a bit of a human touch, as it can trace contours and similar regions.",
+    "usage_scenarios": [
+      "音乐视频",
+      "可视化效果",
+      "手绘风格模拟",
+      "VJ艺术视觉"
+    ],
+    "passwords": {
+      "win_ctfile": "6688",
+      "win_baidu": "ftsx",
+      "mac_ctfile": "6688",
+      "mac_baidu": "h37a"
+    }
+  }
+}

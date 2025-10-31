@@ -1,0 +1,41 @@
+{
+  "title": "Ae/Pr特效合成套装插件FXhome Ignite Pro 3.0.8001.10801 CE",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-ignite-pro-3-0-8001-10801-ce",
+  "author": "大众脸",
+  "post_date": "2018-08-13 15:35",
+  "source_url": "https://www.lookae.com/fxhome3/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FXHOME公司出品的HitFilm插件，能够在AE和PR中直接使用HitFilm效果。该套装包含了约173多款特效，涵盖调色、抠像、变形扭曲、粒子、光晕光效、特效合成等多种功能。支持GPU加速，提供先进的键控/抠像技术、各种光效效果、尖端的烟火效果、火灾模拟、雷电等电影分级和视觉增强功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXhome-Ignite-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6-CC 2018, Premiere Pro CS6-CC 2018",
+  "supported_os": "Win 系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-303331629"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1ouD2Z7fsSZ2e0PwHMeZS-A"
+    }
+  ],
+  "other": {
+    "plugin_count": 173,
+    "features": [
+      "GPU加速",
+      "专业抠像技术",
+      "光效效果",
+      "烟火效果模拟",
+      "电影分级功能"
+    ],
+    "developer_website": "http://hitfilm.com/ignite-pro",
+    "registration_info": "插件由Team VR团队注册，一键安装即可使用"
+  }
+}

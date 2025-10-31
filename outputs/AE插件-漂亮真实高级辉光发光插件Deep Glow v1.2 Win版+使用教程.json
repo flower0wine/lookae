@@ -1,0 +1,48 @@
+{
+  "title": "AE插件-漂亮真实高级辉光发光插件Deep Glow v1.2 Win版+使用教程",
+  "slug": "aecha-jian-piao-liang-zhen-shi-gao-ji-hui-guang-fa-guang-cha-jian-deep-glow-v1-2-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-02-19T14:14:00Z",
+  "source_url": "https://www.lookae.com/deep-glow-win-12/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Deep Glow 是一款专为 Adobe After Effects 打造的高级辉光发光插件，效果比 AE 自带的 Glow 插件更加真实自然。该插件支持实时预览，具备物理精确的反平方衰减模型，兼容 8、16 和 32bpc 色彩深度，并支持 HDR 阈值处理与伽马校正，即使在非线性色彩空间中也能生成线性结果。插件采用 GPU 加速技术，提供多采样质量控制与模糊质量控制功能，支持合成控件调节发光宽高比、传播范围、色差等参数，还包含查看控件（可查看发光源或最终渲染结果）和 Unmult 去黑底功能，特别适合文字特效处理。适用于多种版本的 AE，支持 Windows 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Deep-Glow.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Win版插件下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-337502562"
+    },
+    {
+      "name": "Win版插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1FSfgbwCs_m3LA5RujrqbFw"
+    },
+    {
+      "name": "使用教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-328767396"
+    },
+    {
+      "name": "使用教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1JDjE2_TJ_7Ebph8iWY2emw"
+    }
+  ],
+  "other": {
+    "plugin_description": "Generates a beautiful, physically accurate glow. You’ll never want to touch After Effect’s default glow again.",
+    "plugin_website": "https://aescripts.com/deep-glow/",
+    "update_notes": [
+      "自动伽马校正",
+      "可调色调",
+      "更有效的模糊算法",
+      "更有效的范围提示",
+      "修复与3D图层的兼容性"
+    ],
+    "related_mac_version": "https://www.lookae.com/deep-glow-12mac/"
+  }
+}

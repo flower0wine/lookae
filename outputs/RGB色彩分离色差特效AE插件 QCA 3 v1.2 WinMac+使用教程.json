@@ -1,0 +1,47 @@
+{
+  "title": "RGB色彩分离色差特效AE插件 QCA 3 v1.2 Win/Mac+使用教程",
+  "slug": "rgbse-cai-fen-chi-se-chai-te-xiao-aecha-jian-qca-3-v1-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/05/23 15:39",
+  "source_url": "https://www.lookae.com/qca-311/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1"
+  ],
+  "content": "由Plugin Everything公司提供的免费插件Quick Chromatic Aberration，是提高像素完美计算机图形真实感的好方法。它免费完成了许多付费RGB Split插件无法做到的事情，在动态图形和CG合成上看起来都很棒。轻微的色差（即“RGB分离”）能有效增强像素级图形的真实感，且无需付费即可实现许多专业插件才能完成的效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/07/Quick-Chromatic-Aberration-v3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/367575230938.mp4"
+  ],
+  "supported_versions": "After Effects CS6 – CC 2022, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-860411337-4d9b5e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1j_rwaeXtxB1xwhOzCT0m0w?pwd=yysc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/XXq5WzpgtZe"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.2更新内容：修复可能导致停顿或崩溃的渲染问题",
+    "related_categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区"
+    ],
+    "related_tags": [
+      "AE插件",
+      "AE插件M1"
+    ]
+  }
+}

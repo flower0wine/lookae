@@ -1,0 +1,72 @@
+{
+  "title": "AE脚本-创建自适应动态文字底框动画 Karton V1.1.0+视频教程",
+  "slug": "aejiao-ben-chuang-jian-zi-gua-ying-dong-tai-wen-zi-di-kuang-dong-hua-karton-v1-1-0-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/08/20 09:55",
+  "source_url": "https://www.lookae.com/karton-11/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "文字动画"
+  ],
+  "content": "创建动态文本框的最直观、最简单的方法。只需单击一下即可创建随时可用的文本框。Karton会生成具有自定义效果的新形状图层，没有多余的图层，没有杂乱效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/Karton.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/473999538354.mp4"
+  ],
+  "supported_versions": "After Effects 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1343560816-ba84ef?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1zA9NRd37a5tKq7mP73ODWw?pwd=ycjc"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/p74AaUfsGA8"
+    }
+  ],
+  "other": {
+    "update_log": {
+      "功能": [
+        "实现右键单击操作",
+        "现在支持方框文本",
+        "现在支持垂直文本",
+        "改进了更改子项位置时的撤消功能"
+      ],
+      "Karton FX": [
+        "将 Karton 的“时间”移出组外",
+        "将 Karton 的“时间（秒）”移出组外",
+        "将 Karton 的“时间（秒）”重命名为“测量 Karton 的“时间”",
+        "将 Karton 的“时间（秒）”重命名为“自定义时间（秒）的 Karton”",
+        "将“父项的“时间”重命名为“测量父项的“时间”",
+        "将“父项的“时间（秒）”重命名为“自定义时间（秒）的父项”",
+        "更改了“测量 Karton 的“时间”选项的顺序",
+        "更改了“测量父项的“时间”顺序选项"
+      ],
+      "BUG": [
+        "修复了 Expressions Engine 设置为 Legacy Extendscript 时的问题",
+        "修复了 Comp 的 Parenting 不起作用的问题",
+        "修复了在 Karton 上创建 Karton 时的问题",
+        "修复了文本层为上标/下标的问题",
+        "修复了文本层具有非常高的笔触时的问题"
+      ]
+    },
+    "passwords": [
+      {
+        "service": "城通网盘",
+        "password": "6688"
+      },
+      {
+        "service": "百度网盘",
+        "password": "ycjc"
+      }
+    ]
+  }
+}

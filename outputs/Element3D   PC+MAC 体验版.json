@@ -1,0 +1,59 @@
+{
+  "title": "Element3D   PC+MAC 体验版",
+  "slug": "element3d-pc-mac-ti-yan-ban",
+  "author": "大众脸",
+  "post_date": "2012/07/12 10:05",
+  "source_url": "https://www.lookae.com/element3d-pcmac/",
+  "category": "aechajian",
+  "tags": [
+    "After Effects",
+    "插件"
+  ],
+  "content": "Element3D 是一款广受欢迎的 After Effects 三维粒子与模型渲染插件。本文提供的是适用于 PC 和 Mac 的体验版本，供用户试用。请注意，该资源仅供学习参考，请支持正版，前往官网购买正式版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2012/07/element3d-pcmac1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS3, CS4, CS5, CS5.5, CS6",
+  "supported_os": "Mac (10.5+) & Windows",
+  "download_links": [
+    {
+      "name": "Element3D PC+MAC 体验版（附安装说明）",
+      "url": "http://www.ctdisk.com/file/8762901"
+    }
+  ],
+  "other": {
+    "supported_image_formats": [
+      "JPG 8-bit",
+      "PNG 8-bit and 16-bit",
+      "AE Layers can also be used up to 32bpc"
+    ],
+    "gpu_requirements": [
+      "Nvidia & ATI, minimum 512MBs of memory",
+      "Nvidia GeForce 8800, &9000 Series",
+      "Nvidia GeForce 200, 300, 400, 500, 600 Series",
+      "Nvidia Quadro FX Series 4000 and better",
+      "ATI 3870 and better on Windows",
+      "ATI HD Series on Mac"
+    ],
+    "related_tutorials": [
+      {
+        "title": "videocopilot 最新插件Element 3D操作教程",
+        "url": "https://www.lookae.com/videocopilot-element-3d/"
+      },
+      {
+        "title": "Element 3D工作流程教程【中文字幕】",
+        "url": "http://115.com/file/benporas#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集–英文原版",
+        "url": "http://115.com/file/benmepto#"
+      },
+      {
+        "title": "element-3d-introduction介绍第二季教程全集–中文字幕",
+        "url": "http://115.com/file/beno9lkj#"
+      }
+    ],
+    "official_website": "http://www.videocopilot.net"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材导入软件 BRAW Studio v2.4.1 Win/Mac",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-dao-ru-ruan-jian-braw-studio-v2-4-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/05/18 19:33",
+  "source_url": "https://www.lookae.com/braw-studio-241/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AME插件",
+    "PR插件",
+    "RAW"
+  ],
+  "content": "使用这个插件可以将Blackmagic RAW（.braw格式）的素材直接导入到After Effects, Premiere Pro 和 Media Encoder软件中，还可以进行一些参数的设置。\n\nAdobe CC (After Effects, Premiere Pro and Media Encoder) native Blackmagic RAW (.braw) importer.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017"
+    ],
+    "Premiere": [
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017"
+    ],
+    "Media Encoder": [
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017"
+    ]
+  },
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "插件下载 - 城通网盘",
+      "url": "https://089u.com/f/680462-496361195-687612"
+    },
+    {
+      "name": "插件下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1yhNk7o7ElGCWK7OZkjbf_Q"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘_插件": "512s",
+      "百度网盘_教程": "n67x"
+    },
+    "update_log": [
+      "PrPro缓存呈现的预览：自版本2.4.0起，绿线有时会变回红色。 现在已修复，但更新后需要再次渲染一次",
+      "After Effects图层设置GPU解码：在大分辨率帧（6K或更高）的底部可能会出现伪像",
+      "Preset and Sidecar loading / saving issues when the latest Gamut (“DaVinci Wide Gamut”) and latest Gamma (“DaVinci Intermediate”) were selected",
+      "转换BMD PrPro面板：.BRAW文件脱机并在项目中丢失时出现的问题",
+      "崩溃问题"
+    ]
+  }
+}

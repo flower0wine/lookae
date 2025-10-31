@@ -1,0 +1,30 @@
+{
+  "title": "AE脚本：合成复制脚本 – 同合成复制修改相互不影响 Aescripts True Comp Duplicator v3.9.7 + 使用教程",
+  "slug": "aejiao-ben-he-cheng-fu-zhi-jiao-ben-tong-he-cheng-fu-zhi-xiu-gai-xiang-hu-bu-ying-xiang-aescripts-true-comp-duplicator-v3-9-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2016/07/21 12:27",
+  "source_url": "https://www.lookae.com/true-comp/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "在 After Effects 中制作工程合成时，有时为了便捷会重复使用同一个合成。但直接复制会导致所有副本相互关联，修改一处会影响其他所有副本，使用非常不便。True Comp Duplicator 脚本可以创建完整的合成层级副本（包括子合成），确保复制后的合成彼此独立，可分别修改而不互相影响。该脚本适用于 Adobe After Effects，支持 Windows 和 macOS 系统，并附带视频使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/07/True-Comp-Duplicator.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：合成复制脚本 – 同合成复制修改相互不影响 Aescripts True Comp Duplicator v3.9.7 + 使用教程",
+      "url": "http://lookae.ctfile.com/fs/wwF154169329"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/true-comp-duplicator/",
+    "installation_instructions": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instructions": "打开AE软件window（窗口）菜单的下拉菜单中即可看到脚本"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Mac苹果版-人工智能色彩匹配视频调色AE/PR插件 AI Color Match V1.3.1",
+  "slug": "macping-guo-ban-ren-gong-zhi-neng-se-cai-pi-pei-shi-pin-diao-se-ae-prcha-jian-ai-color-match-v1-3-1",
+  "author": "大众脸",
+  "post_date": "2025/01/08 10:09",
+  "source_url": "https://www.lookae.com/ai-color-match-131/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Mac苹果版",
+    "PR插件",
+    "色彩匹配"
+  ],
+  "content": "现在所有人都可以进行专业的色彩校正和分级。在Premiere和After Effects中轻松对不同镜头进行颜色匹配。只需单击一下即可将一个镜头的色彩外观复制到另一个镜头。借助AI配色，您可以一次性匹配每个镜头的颜色。插件特性包括匹配曝光、对比度、白平衡等；在您的GPU或CPU上本地运行，帧永远不会离开您的计算机；快速匹配使用不同相机或设置拍摄的素材；可用于复制您喜爱的场景的颜色分级。v1.3.1升级内容包括更新渲染引擎，修复各种错误并提高性能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/07/AI-Color-Match-Mac.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/426606578902.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2025",
+      "2024",
+      "2023",
+      "2022"
+    ],
+    "Premiere": [
+      "2025",
+      "2024",
+      "2023",
+      "2022"
+    ]
+  },
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1444947422-c8930b?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1JPXyY-CwYs8UqTRHMceHwQ?pwd=q3hn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/u6FLu1JRTyd"
+    }
+  ],
+  "other": {
+    "related_link": [
+      "Win版-人工智能色彩匹配视频调色AE/PR插件 AI Color Match V1.3.3(https://www.lookae.com/ai-color-match-133/)"
+    ]
+  }
+}

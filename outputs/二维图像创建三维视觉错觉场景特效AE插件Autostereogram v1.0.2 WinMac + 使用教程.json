@@ -1,0 +1,49 @@
+{
+  "title": "二维图像创建三维视觉错觉场景特效AE插件Autostereogram v1.0.2 Win/Mac + 使用教程",
+  "slug": "er-wei-tu-xiang-chuang-jian-san-wei-shi-jue-cuo-jue-chang-jing-te-xiao-aecha-jian-autostereogram-v1-0-2-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022/11/27 14:06",
+  "source_url": "https://www.lookae.com/autostereogram/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Autostereogram",
+    "视觉特效"
+  ],
+  "content": "Autostereogram（自动立体图）是一种单图像立体图（SIS），旨在从二维图像中创造出三维场景的视觉错觉。该插件允许用户在 Adobe After Effects 中直接生成此类效果，仅需一张深度图和可选的纹理图，两者均可通过 AE 内置工具创建。这种视觉错觉依赖于双目视差，即每只眼睛对场景的不同视角所产生的深度感知。正常双眼视力者可通过调节焦点与辐辏的分离来感知深度。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/05/Autostereogram-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/361441813756.mp4"
+  ],
+  "supported_versions": "Adobe After Effects 2023, 2022, 2021",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-734752621-51a2f3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Ji8sK2sAgdkeSMaRFLCmIA?pwd=5ztt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/wXt1F6anLeh"
+    }
+  ],
+  "other": {
+    "related_tags": [
+      "AE插件",
+      "Autostereogram",
+      "视觉特效"
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "post_author_url": "https://www.lookae.com/author/大众脸/",
+    "source_site": "LookAE.com"
+  }
+}

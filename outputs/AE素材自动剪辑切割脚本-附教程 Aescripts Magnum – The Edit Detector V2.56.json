@@ -1,0 +1,36 @@
+{
+  "title": "AE素材自动剪辑切割脚本-附教程 Aescripts Magnum – The Edit Detector V2.56",
+  "slug": "aesu-cai-zi-dong-jian-ji-qie-ge-jiao-ben-fu-jiao-cheng-aescripts-magnum-the-edit-detector-v2-56",
+  "author": "大众脸",
+  "post_date": "2014-09-12",
+  "source_url": "https://www.lookae.com/detector/",
+  "category": "aechajian",
+  "tags": [
+    "Aescripts",
+    "AE脚本"
+  ],
+  "content": "脚本能够自动检测视频素材中镜头的切换，然后通过分析把每个镜头剪辑切割成单独的视频，这样切割的好处就方便我们对每个单独场景进行后期处理，如跟踪，特效合成，调色等等。这样按照视频场景切割视频段落的功能在达芬奇软件中同样也有，压缩包被包含了脚本和使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/09/Magnum.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE素材自动剪辑切割脚本-附教程 Aescripts Magnum – The Edit Detector V2.56",
+      "url": "https://www.400gb.com/file/73079310"
+    }
+  ],
+  "other": {
+    "website": "http://aescripts.com/magnum-the-edit-detector/",
+    "script_features": [
+      "Split into new layers: 将选定的图层在每个编辑点分割成单独的图层",
+      "Trimmed pre-comps: 分割图层并将其预合成到与分割图层长度相同的合成中",
+      "Full-length pre-comps: 分割图层并将其预合成到与原始合成长度相同的合成中",
+      "Trimmed adjustment layers: 为每个检测到的场景创建修剪到相应长度的新调整图层",
+      "Place markers on layer: 在每个检测到的编辑点创建并放置标记",
+      "Save thumbnails for each cut/marker: 为选定的图层或所有图层导出缩略图"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "达芬奇/AE/PR/OFX视频调色万能示波器插件 Nobe OmniScope 1.10.142 Win",
+  "slug": "da-fen-qi-ae-pr-ofxshi-pin-diao-se-mo-neng-shi-bo-qi-cha-jian-nobe-omniscope-1-10-142-win",
+  "author": "大众脸",
+  "post_date": "2024/09/12 09:19",
+  "source_url": "https://www.lookae.com/omniscope-141/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "OFX",
+    "PR插件",
+    "示波器插件",
+    "达芬奇插件"
+  ],
+  "content": "Nobe OmniScope 是一款支持达芬奇、AE、PR、PS、Lightroom、Vegas 等多平台的万能视频调色示波器插件，适用于 OFX 工作流。具备 18 种示波器类型，支持 GPU 加速、HDR、杜比视界、12位信号处理及 OpenColorIO 颜色管理，兼容 Windows 与 macOS 系统，原生支持 StreamDeck 和 NDI® 5。可自由排列布局并保存项目配置，提升颜色分级效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Nobe-OmniScope.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442587104088.mp4"
+  ],
+  "supported_versions": "v1.10.142",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1354928506-a93bde?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1fA64WojgK9n8J1Uv7M0hOQ?pwd=tmym"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/jFMemKfxq3h"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "在 Windows 上添加了改进的应用程序快捷方式",
+      "添加了改进的矢量示波器环色调",
+      "修复了使用 DirectX 11 在 Windows 上进行屏幕捕获的内存访问修复",
+      "修复了在 macOS 上连接到 USB 设备时缺少麦克风权限导致的崩溃",
+      "修复了在使用 16 位 NDI 时修复 P216 信号解码",
+      "修复了在鼠标悬停时使用颜色选择器时隐藏鼠标光标的问题",
+      "修复了在使用矢量示波器警报时在某些较旧的 Mac 上崩溃的问题"
+    ],
+    "related_links": [
+      "https://www.lookae.com/omniscope-110123/"
+    ],
+    "supported_software": [
+      "DaVinci Resolve",
+      "Scratch",
+      "AE",
+      "PR",
+      "PS",
+      "Lightroom",
+      "Vegas"
+    ],
+    "features": [
+      "18 种范围类型",
+      "多种输入支持",
+      "支持杜比视界工作流程",
+      "极快的性能",
+      "12位信号支持",
+      "高度通用且可定制",
+      "先进的质量控制和新的质量控制时间表",
+      "使用 OpenColorIO 进行颜色管理",
+      "原生 StreamDeck 支持",
+      "NDI® 5 支持",
+      "Apple Silicon 就绪（M1 芯片）"
+    ]
+  }
+}

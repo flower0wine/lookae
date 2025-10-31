@@ -1,0 +1,68 @@
+{
+  "title": "中文汉化版-图层边界自动填充路径生长动画AE插件 AutoFill v2.0.2 Win",
+  "slug": "zhong-wen-yi-hua-ban-tu-ceng-bian-jie-zi-dong-tian-chong-lu-jing-sheng-chang-dong-hua-aecha-jian-autofill-v2-0-2-win",
+  "author": "大众脸",
+  "post_date": "2024/12/17 11:02",
+  "source_url": "https://www.lookae.com/autofill-202/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AutoFill",
+    "中文汉化"
+  ],
+  "content": "AutoFill 是 After Effects 的革命性新插件，可流畅地填充图层边界，从而节省用户数小时繁琐的遮罩和关键帧操作。该插件具备先进的计算缓存机制和 MFR（多帧渲染）原生兼容性，提供即时预览、内置多轨合成解决方案、RGBA 渐变编辑器以及多种质量优化选项，如超级采样、自适应分辨率和智能抗锯齿。此外，它还支持自动连接断开的元素，并提供 CPU 与 GPU 双渲染管线，适用于渲染农场和 CPU 后备场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/08/AutoFill-v2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/422484906006.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022, 2021",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1438316272-6e1983?p=4431"
+    },
+    {
+      "name": "插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1zrRt1KR6PzspJfokUmjIfg?pwd=fb4c"
+    },
+    {
+      "name": "插件 - 阿里云盘",
+      "url": "https://www.alipan.com/s/7hG5wmgp3fo"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-910418937-29cff9?p=4431"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/13yV4YgIrY-hO2xuo2Urtsw?pwd=g56s"
+    },
+    {
+      "name": "教程 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/jjSc4JnhVzU"
+    }
+  ],
+  "other": {
+    "v2_update_notes": [
+      "MFR原生；巨大的性能提升",
+      "新的AE 计算缓存具有坚如磐石的稳定性；即时预览（重新模拟按钮已删除）",
+      "添加了样式生成器；内置多轨合成解决方案",
+      "30个全新内部预设",
+      "改进了50个原始 AE 项目文件预设",
+      "具有直观渐变编辑器的 RGBA 渐变",
+      "内置质量设置：超级采样、自适应分辨率和智能抗锯齿",
+      "3 种附加速度图模式；自动速度图重命名为“较慢的近边界”",
+      "自动填充桥来连接断开的元素",
+      "用于渲染农场和 CPU 后备的 CPU 和 GPU 管道"
+    ],
+    "v2_0_2_fixes": [
+      "修复在上游渲染矢量图层且上游合成也连续栅格化时的缓存错误",
+      "修复导致 Adobe Media Encoder 在启动时崩溃的错误"
+    ],
+    "related_link": "https://www.lookae.com/autofill-mac-2/",
+    "related_title": "Mac苹果版-图层边界自动填充路径生长动画AE插件 AutoFill v2.0.0 英文/中文汉化版"
+  }
+}

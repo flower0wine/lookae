@@ -1,0 +1,127 @@
+{
+  "title": "Mac版：AE/PR/FCPX特效插件：RE: Vision Effects Collection 大合集（2016.08）",
+  "slug": "macban-ae-pr-fcpxte-xiao-cha-jian-re-vision-effects-collection-da-he-ji-2016-08",
+  "author": "大众脸",
+  "post_date": "2016/08/06 20:05",
+  "source_url": "https://www.lookae.com/revisionmac1608/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "RE：Vision Effects 公司出品了很多优秀的插件，最出名的插件应该算是Twixtor Pro 变速插件了。2016年08月整理了一个他们公司的插件合集。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/08/revisioneffects.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2015.3, Adobe Premiere Pro CS5 – CC 2015.3",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/fs/Rnk154933945"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1miwEtEK"
+    }
+  ],
+  "other": {
+    "fcpx_support_note": "Final Cut Pro X （部分插件支持）",
+    "plugin_list": [
+      {
+        "name": "RevisionFX.Video.Gogh.v3.7.MACOSX",
+        "description": "水彩油画插件"
+      },
+      {
+        "name": "RevisionFX.Twixtor.v6.2.4.AE.MACOSX",
+        "description": "超级慢动作变速插件"
+      },
+      {
+        "name": "RevisionFX.Twixtor.for.OFX.v6.2.1.MACOSX",
+        "description": "超级慢动作变速插件"
+      },
+      {
+        "name": "RevisionFX.Shade.Shape.v4.2.1.MACOSX",
+        "description": "形状阴影插件"
+      },
+      {
+        "name": "RevisionFX.REMatch.v1.4.2.MACOSX",
+        "description": "色彩匹配插件"
+      },
+      {
+        "name": "RevisionFX.REMap.v2.3.MACOSX",
+        "description": "UV贴图映射插件"
+      },
+      {
+        "name": "RevisionFX.REFlex.v5.2.1.MACOSX",
+        "description": "扭曲变形/变脸插件"
+      },
+      {
+        "name": "RevisionFX.REFill.v2.2.MACOSX",
+        "description": "智能修补和填充插件"
+      },
+      {
+        "name": "RevisionFX.ReelSmart.Motion.Blur.v5.1.2.MACOSX",
+        "description": "动态模糊插件"
+      },
+      {
+        "name": "RevisionFX.ReelSmart.Motion.Blur.for.OFX.v5.2.MACOSX",
+        "description": "动态模糊插件"
+      },
+      {
+        "name": "RevisionFX.ReelSmart.Motion.Blur.for.AVX.v5.0.2.MACOSX",
+        "description": "动态模糊插件"
+      },
+      {
+        "name": "RevisionFX.PV.Feather.v1.7.MACOSX",
+        "description": "逐点羽化插件"
+      },
+      {
+        "name": "RevisionFX.FieldsKit.v3.3.MACOSX",
+        "description": "动画反交错插件"
+      },
+      {
+        "name": "RevisionFX.DENoise.v3.1.MACOSX",
+        "description": "专业降噪插件"
+      },
+      {
+        "name": "RevisionFX.DENoise.for.OFX.v3.0.2.MACOSX",
+        "description": "专业降噪插件"
+      },
+      {
+        "name": "RevisionFX.DEFlicker.v1.4.MACOSX",
+        "description": "去闪烁插件"
+      }
+    ],
+    "license_keys": {
+      "Name": "Team AMPED",
+      "keys": [
+        "DE:Flicker v1.x for After Effects: iVnLmsqz76fdIc8s",
+        "DE:Noise 3 AE-compatible plugin: nam3PT1SFE0PoxxG",
+        "DE:Noise 3 OFX license for Vegas, HitFilm, Resolve and Natron: CK0G4fy6utOf7LQR",
+        "FieldsKit v3 AE-compatible version (Windows): IqLZa0JEsr1wvyd2",
+        "FieldsKit v3 AE-compatible version (Mac): KhQHqlwyji1Wjy36",
+        "PV Feather: A1B6VSuq76hNIeV8",
+        "Re:Fill 2 AE: Z7oJGZpR21SrQP0w",
+        "RE:Flex 5 for After Effects: sXBIsG2YihoWHltG",
+        "RE:Match Pro v1 for After Effects and Premiere Pro: nHCqhSty21xnfuSf",
+        "RE:Match v1 for Vegas Pro lookae.com: IayipuIqonyNwvKg",
+        "RE:Map v2 AE-compatible version: 1PZMRWvhgfZv1W5v",
+        "ReelSmart Motion Blur Pro v5 AE-compatible version: MZ0VawO6nmyVHvSa",
+        "ReelSmart Motion Blur 5 for Avid Systems (AVX2): EPlfnw85wvNQbKlX",
+        "ReelSmart Motion Blur 5 pro for Mac, FxPlug: GWXGd8SlIHPN0MwP",
+        "ReelSmart Motion Blur 5 for Vegas, HitFilm, Natron and Resolve: NzY0X31quth3DeXc",
+        "Shade/Shape v4 AE-compatible version: vt2B5CNP54xMsul8",
+        "SmoothKit v3 AE-compatible version: pTzQ5zHNxwyFLvYr",
+        "Video Gogh 3 AE: www.lookae.com gMVXuGhKTSWD7TGS",
+        "Twixtor v6 OFX for Vegas, HitFilm and Natron: NeNEo6rKGFF29C3a",
+        "Twixtor Pro v6 AE-compatible version: 6dpSqNUJGFZ9gWxk",
+        "Twixtor Pro v6 for Mac, FxPlug edition: hGjydwQfWV52R2kQ"
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "AE脚本-1300种转场过渡出入动画光效文字标题调色火花雨雪特效预设包Effects Pack V2",
+  "slug": "aejiao-ben-1300chong-zhuan-chang-guo-du-chu-ru-dong-hua-guang-xiao-wen-zi-biao-ti-diao-se-huo-hua-yu-xue-te-xiao-yu-she-bao-effects-pack-v2",
+  "author": "大众脸",
+  "post_date": "2023/10/29 19:56",
+  "source_url": "https://www.lookae.com/effects-pack/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AtomX",
+    "无缝转场",
+    "特效预设"
+  ],
+  "content": "本资源为AE脚本特效预设包，包含1300多个即用型效果，涵盖视频转场、图层运动动画、光效叠加、快慢速特效、文字标题动画、调色预设及多种视频特效。支持使用AtomX脚本快速调用，可视化预览，双击即可直接应用到时间线。适用于电影制作、宣传视频和视觉展示等场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/45891082.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/413644222245.mp4"
+  ],
+  "supported_versions": "AE CC 2021 或更高",
+  "supported_os": "Win 和 Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-964580556-f11bfd?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1fdiIidaQOjMEQXiiOhBzLQ?pwd=wenx"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/yaExSeVDzen"
+    }
+  ],
+  "other": {
+    "file_size": "4.2G",
+    "audio_info": "无音乐，有转场音效",
+    "included_extensions": "AtomX 3.0.8 脚本（已包含）",
+    "installation_note": "安装后请勿移动安装文件，否则失效",
+    "tutorial": "提供安装方法 + 使用视频教程",
+    "related_links": [
+      "https://www.lookae.com/tag/atomx/"
+    ],
+    "content_summary": {
+      "transitions": 282,
+      "layer_animations": 141,
+      "light_effects": 140,
+      "speed_effects": 14,
+      "text_titles": 12,
+      "special_effects": 104,
+      "color_presets": 303,
+      "video_effects": 366,
+      "text_styles": 24
+    }
+  }
+}

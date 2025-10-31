@@ -1,0 +1,67 @@
+{
+  "title": "磨皮美颜锐化光照去闪烁视频AE/PR插件 Digital Anarchy 2021.8 Win 含Beauty Box/Flicker Free/Samurai等",
+  "slug": "mo-pi-mei-yan-rui-hua-guang-zhao-qu-shan-shuo-shi-pin-ae-prcha-jian-digital-anarchy-2021-8-win-han-beauty-box-flicker-free-samuraideng",
+  "author": "大众脸",
+  "post_date": "2021/09/19 22:03",
+  "source_url": "https://www.lookae.com/digital-anarchy-20218/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Beauty Box",
+    "PR插件"
+  ],
+  "content": "包含Digital Anarchy插件的合集，拥有该公司多个常用插件，适用于视频后期处理，支持Windows系统下的Adobe Premiere Pro和After Effects软件。插件由Team V.R提供，支持一键安装。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/Digital-Anarchy-2021-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2015 – 2021, Premiere Pro CC 2015 – 2021",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-514219657-14dccb"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1GsmQdp46ib4JJZasjxvryA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7fxH9TG6HJQ"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "v1b7"
+    },
+    "included_plugins": [
+      {
+        "name": "Beauty Box",
+        "version": "v5.0.1",
+        "description": "人像磨皮润肤美颜视频插件（更新）"
+      },
+      {
+        "name": "Flicker Free",
+        "version": "v2.1.2",
+        "description": "视频去闪烁插件（更新）"
+      },
+      {
+        "name": "Light Wrap",
+        "version": "v1.1",
+        "description": "扣像边缘模拟真实光照插件"
+      },
+      {
+        "name": "Power Search",
+        "version": "v2.1",
+        "description": "元数据搜索工具（仅支持PR）（大更新）"
+      },
+      {
+        "name": "Samurai",
+        "version": "v1.1",
+        "description": "视频智能锐化清晰插件"
+      }
+    ]
+  }
+}

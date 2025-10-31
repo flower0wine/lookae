@@ -1,0 +1,66 @@
+{
+  "title": "中文AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.13 Win/Mac",
+  "slug": "zhong-wen-aejiao-ben-er-wei-ren-wu-jiao-se-gu-ge-bang-ding-mgdong-hua-jiao-ben-duik-bassel-2-v16-2-13-win-mac",
+  "author": "大众脸",
+  "post_date": "2020/06/05 18:05",
+  "source_url": "https://www.lookae.com/duik-16213/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Duik是一款功能强大且开源免费的动力学和动画工具，其动画基本工具丰富，可将3D软件主要装配工具适配于AE的2D动画，还拥有众多动画工具及自动化功能，全面易用且支持多语言切换为中文。脚本支持Win/Mac系统，适用于Adobe After Effects CC 2018或更高版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Duik-Bassel-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/242972619880.mp4"
+  ],
+  "supported_versions": "Adobe After Effects CC 2018或更高版本（其他版本也可用，但官网不推荐，怕有BUG）",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.13 Win/Mac英文中文版-城通网盘下载",
+      "url": "https://089u.com/file/680462-447442253"
+    },
+    {
+      "name": "AE脚本-二维人物角色骨骼绑定MG动画脚本 Duik Bassel.2 v16.2.13 Win/Mac英文中文版-百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Tso_7VxL-g7w-YmwccqgBQ"
+    },
+    {
+      "name": "教程-城通网盘下载",
+      "url": "https://089u.com/file/680462-450137231"
+    },
+    {
+      "name": "教程-百度网盘下载",
+      "url": "https://pan.baidu.com/s/1pLL9FIGMEM2-sVAW6wybhg"
+    }
+  ],
+  "other": {
+    "Duik Bassel.2 v16.2.8更新日志": {
+      "新功能": [
+        "父项跨音符现在也可以处理缩放。",
+        "Duik现在也可以在世界语中使用。"
+      ],
+      "修复修正": [
+        "修复了在特定情况下，与父accross comp一起使用的CONTROLLER提取失败的问题。",
+        "父约束现在正确添加在3D层的与分离尺寸Z位置的表达。",
+        "方向的约束不会引发与传统发动机的表达错误了。",
+        "修复了某些帧上的父约束约束偏移。",
+        "修复了16.2.11中引入的KLEANER表达式错误",
+        "修复了16.2.11中引入的MOTION TRAIL锥度表达错误",
+        "修复了其他一些小问题。",
+        "修复了控制器提取和“父”跨补偿具有（负）比例值的问题。",
+        "修复了在相互依赖的特定情况下多个控制器提取（控制器提取两次或更多次）的问题。",
+        "修复了2D摄像机位置不使用确切关键帧值的问题。",
+        "修复了使用动画面板添加关键点：现在尊重“所有图层/选定的图层”选项，并与带有标记的图层一起使用的问题。",
+        "现在，您可以使用小于1的值作为运动轨迹的宽度",
+        "轮自动化现在负秤工作正常",
+        "改进的世界语，法语和西班牙语翻译。",
+        "修复了（一次）无臀部的尾部结构和脊柱结构的自动钻机冻结。",
+        "在“专家”和“上帝”模式下，将“自动装备”按钮正确居中在“结构”面板上。",
+        "现在，当子图层被锁定时，父配音补偿可以工作。",
+        "现在，“时间重映射”工具会将相应的图层考虑在内。"
+      ]
+    }
+  }
+}

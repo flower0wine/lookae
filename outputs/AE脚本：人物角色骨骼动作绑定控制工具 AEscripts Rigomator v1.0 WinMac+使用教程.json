@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本：人物角色骨骼动作绑定控制工具 AEscripts Rigomator v1.0 Win/Mac+使用教程",
+  "slug": "aejiao-ben-ren-wu-jiao-se-gu-ge-dong-zuo-bang-ding-kong-zhi-gong-ju-aescripts-rigomator-v1-0-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/01/26 11:48",
+  "source_url": "https://www.lookae.com/rigomator/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本",
+    "Win/Mac"
+  ],
+  "content": "这个Rigomator脚本允许您从包含所有动画效果的角色中提取和保存任何动画，并将保存的动画模板应用于任何角色或角色的任何部分，无论大小或尺寸。它简单、快速且高效，可快速向任何角色添加动画并构建独特的动画库。完全支持Duik Bassel、Rubber Hose V2、Limber v1.5和Joysticks’n Sliders。尝试后你会惊叹其效果。Build, Save, and Share custom animation templates extracted from your characters to be used with any character regardless of size or dimensions. Open the door to the future because this is it。支持Win/Mac系统，兼容AE CC 2019、CC 2018、CC 2017、CC 2015.3、CC 2015。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/01/Rigomator-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "脚本下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-333123447"
+    },
+    {
+      "name": "脚本下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1kbG7Mrl2tPSqsiJxJHBm7w"
+    },
+    {
+      "name": "教程下载-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-333123543"
+    },
+    {
+      "name": "教程下载-百度网盘",
+      "url": "https://pan.baidu.com/s/1WKAx8_rDpnCidfvqVkGNqA"
+    }
+  ],
+  "other": {
+    "categories_links": "[AE插件](https://www.lookae.com/after-effects/aechajian/) / [AE脚本](https://www.lookae.com/after-effects/aescripts/) / [After Effects](https://www.lookae.com/after-effects/) / [Mac 专区](https://www.lookae.com/mac-osx/)"
+  }
+}

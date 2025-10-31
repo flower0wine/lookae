@@ -1,0 +1,54 @@
+{
+  "title": "Ae/Pr 视觉特效插件大合集 RE:VisionFX Effections Plus v16.0.2 CE Win",
+  "slug": "ae-pr-shi-jue-te-xiao-cha-jian-da-he-ji-re-visionfx-effections-plus-v16-0-2-ce-win",
+  "author": "大众脸",
+  "post_date": "2017/05/20 11:08",
+  "source_url": "https://www.lookae.com/visionfx1602/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "CE",
+    "PR插件"
+  ],
+  "content": "RE:Vision Effects 是一家专注于研发高质量数字视频图像处理软件的公司，由 Pierre Jasmin 和 Peter Litwinowicz 共同创立。其产品广泛应用于电视、电影、网络及视觉特效行业，适用于从家庭用户到高端影视制作的各类需求。本次发布的 RE:VisionFX Effections Plus v16.0.2 CE 是该公司多款视觉特效插件的集成合集，包含去闪烁、降噪、动态模糊、智能填充、镜头畸变修复、色彩匹配、水彩油画风格化等多种功能，适用于 Adobe After Effects 和 Premiere Pro 多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/REVision-OFX.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CC 2017, Adobe Premiere Pro CS5 – CC 2017",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-203521425"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1miE4Gze"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "DE:Flicker v1.4.11 - 去闪烁插件（更新）",
+      "DE:Noise v3.1.6 - 视频降噪插件",
+      "FieldsKit v3.4.2 - 动画反交错插件",
+      "PV Feather v1.7.2 - 逐点羽化插件",
+      "RE:Fill v2.2.2 - 智能修补和填充插件",
+      "RE:Flex v5.2.7 - 扭曲变形/变脸插件（更新）",
+      "RE:Lens v1.2.2 - 鱼眼广角镜头畸变扭曲修复插件",
+      "RE:Map v3.0.6 - UV贴图映射插件（更新）",
+      "RE:Match v1.4.6 - 色彩匹配插件",
+      "ReelSmart Motion Blur v5.1.8 - 动态模糊插件",
+      "Shade/Shape v4.2.3 - 形状阴影插件",
+      "SmoothKit v3.3.4 - 降噪磨皮插件",
+      "Twixtor Pro v6.2.8 - 超级慢动作变速插件",
+      "Video Gogh v3.7.3 - 水彩油画插件"
+    ],
+    "installation_note": "插件为一键安装注册，安装即可使用",
+    "related_links": {
+      "sponsor": "https://www.lookae.com/sponsor/",
+      "taobao_store": "https://lookae.taobao.com/",
+      "product_page": "http://revisionfx.com/products/effections/after-effects"
+    }
+  }
+}

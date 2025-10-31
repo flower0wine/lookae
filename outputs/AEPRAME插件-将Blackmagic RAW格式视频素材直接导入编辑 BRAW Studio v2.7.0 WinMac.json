@@ -1,0 +1,78 @@
+{
+  "title": "AE/PR/AME插件-将Blackmagic RAW格式视频素材直接导入编辑 BRAW Studio v2.7.0 Win/Mac",
+  "slug": "ae-pr-amecha-jian-jiang-blackmagic-rawge-shi-shi-pin-su-cai-zhi-jie-dao-ru-bian-ji-braw-studio-v2-7-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-02-28T15:35:00Z",
+  "source_url": "https://www.lookae.com/braw-studio-270/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BRAW Studio",
+    "PR插件",
+    "RAW插件"
+  ],
+  "content": "BRAW Studio v2.7.0 是一款专为 After Effects、Premiere Pro 和 Media Encoder 设计的插件，支持直接导入 Blackmagic RAW（.braw）格式视频素材，并提供参数设置功能。该插件可实现原生对 BRAW 格式的读取与处理，适用于 Adobe CC 系列软件。更新内容包括新增 LUT 处理功能、嵌入式 LUT 导出、参数重置按钮及项目转换工具，提升颜色空间管理与兼容性。支持多版本 Windows 与 Mac 系统下的主流 Adobe 软件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Premiere Pro 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Media Encoder 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-548640850-fd993c"
+    },
+    {
+      "name": "Win插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/18uCyQcbHDkuZs4AhDt_cvQ?pwd=yu3m"
+    },
+    {
+      "name": "Win插件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/p8HKvCiHSo5"
+    },
+    {
+      "name": "Mac插件 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-584978594-684ddc?p=4431"
+    },
+    {
+      "name": "Mac插件 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1xYciJ4RTHGAq3wXVKVWO-w?pwd=zzx5"
+    },
+    {
+      "name": "Mac插件 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/zQSzAdbZs4a"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg?pwd=n67x"
+    }
+  ],
+  "other": {
+    "version": "v2.7.0",
+    "update_notes": [
+      "PrPro面板新增‘将LUT添加到侧车’按钮，支持自定义LUT压缩至BRAW侧车文件。",
+      "新增‘导出嵌入式LUT’按钮，可导出为立方体文件供其他调色软件使用。",
+      "每行BRAW设置新增重置图标，恢复至相机元数据值。",
+      "工具箱新增按钮，用于将BRAW Studio项目转换为BMD PrPro插件项目，支持双向转换（建议使用官方工具确保安全）。",
+      "Premiere Pro 新增在‘解释’画面中选择颜色空间，支持HDR制作。",
+      "修复了PrPro面板‘重做’按钮未更新UI的问题。",
+      "修复了‘至Src监视器’按钮在某些情况下失效的问题。",
+      "修复BRAW 2.3中BMD Gammas的黑电平问题，提升性能与稳定性。"
+    ],
+    "features": [
+      "原生支持Adobe CC中的Blackmagic RAW (.braw) 导入",
+      "支持After Effects, Premiere Pro, Media Encoder",
+      "LUT处理与嵌入式导出功能",
+      "项目转换兼容性增强",
+      "支持多平台与多版本软件"
+    ],
+    "note": "请勿强制转换项目，始终使用官方转换工具以保证安全。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-网格参考线黄金分割线生成工具 GuidesUp! V2.6+使用教程",
+  "slug": "aejiao-ben-wang-ge-can-kao-xian-huang-jin-fen-ge-xian-sheng-cheng-gong-ju-guidesup-v2-6-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/08/01 09:56",
+  "source_url": "https://www.lookae.com/guidesup-26/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "网格参考线"
+  ],
+  "content": "该工具可一键创建磁性3D等距网格线，设置黄金分割线、16:9、六角地图等，还能以前所未有的方式管理项目、锚点和指南。介绍了脚本特性，如一键创建和使用等距磁图、创建十六进制地图等，以及v2.5更新内容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/GuidesUp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/353244097105.mp4"
+  ],
+  "supported_versions": "AE 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-904786497-2fb255?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1RDL4xYfT1Hx92S08fw5R4g?pwd=lc5z"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/wWSUv6HyEgP"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

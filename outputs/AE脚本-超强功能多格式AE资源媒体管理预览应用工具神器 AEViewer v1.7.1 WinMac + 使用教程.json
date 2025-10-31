@@ -1,0 +1,81 @@
+{
+  "title": "AE脚本-超强功能多格式AE资源媒体管理预览应用工具神器 AEViewer v1.7.1 Win/Mac + 使用教程",
+  "slug": "aejiao-ben-chao-qiang-gong-neng-duo-ge-shi-aezi-yuan-mei-ti-guan-li-yu-lan-ying-yong-gong-ju-shen-qi-aeviewer-v1-7-1-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/07/26 19:07",
+  "source_url": "https://www.lookae.com/aeviewer/",
+  "category": "aescripts",
+  "tags": [
+    "AEViewer",
+    "AE脚本",
+    "多",
+    "媒体管理"
+  ],
+  "content": "AEViewer 是一款革命性的 After Effects 媒体浏览器，支持快速预览、应用和导入项目与媒体文件。可预览视频、音频、图片、字体、AE工程等多种格式，提升工作效率。支持 Windows 和 Mac 系统，兼容 AE 2021、2020、CC 2019 至 CC 2015.3。具备文件夹预览、快速添加、音频波形预览、字体预览与一键安装、收藏夹、喜欢的文件与脚本、虚拟收藏夹、关键词快速搜索等功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/07/AEViewer-DP.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01XAYR1H1vSMokKfoWJ_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01f50GJl1vSMojMCDxa_!!705956171.png",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01o5G9O51vSMooAQ3rg_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01M1uhFH1vSMoh6OtTX_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01LcuGeS1vSMomY9g2f_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01s2zzo61vSMoiCkQQq_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01QQRiJZ1vSMokoPw15_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i1/705956171/O1CN01YpasTO1vSMogWWn6z_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01g0lI4K1vSMojMEq6e_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i2/705956171/O1CN01AbuWaC1vSMokKfLQr_!!705956171.gif",
+    "https://img.alicdn.com/imgextra/i4/705956171/O1CN01BczqnI1vSMohwHZbA_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/320061954347.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/ncuPKN3cLSS"
+    },
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-503616706-40263f"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/11kZmLhXp4cGXHGEwgqqIeQ?pwd=xubh"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "extract_code": "xubh",
+    "preview_formats": [
+      "psd",
+      "ai",
+      "jpeg",
+      "png",
+      "gif",
+      "tiff",
+      "exr",
+      "ttf",
+      "otf",
+      "jsx",
+      "jsxbin",
+      "c4d",
+      "expr"
+    ],
+    "features": [
+      "预览 AFTER EFFECTS 项目",
+      "预览流行格式",
+      "文件夹预览（通过 folder_preview.png）",
+      "快速添加文件（左键添加，右键选择）",
+      "预览音频（波形+悬停播放）",
+      "预览字体并快速应用",
+      "自动安装未安装字体",
+      "最喜欢文件快捷访问",
+      "收藏夹管理",
+      "创建虚拟收藏夹用于灵感/参考/主题分组",
+      "快速访问脚本",
+      "关键字快速搜索"
+    ]
+  }
+}

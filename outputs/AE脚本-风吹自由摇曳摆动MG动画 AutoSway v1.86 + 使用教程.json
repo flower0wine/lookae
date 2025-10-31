@@ -1,0 +1,37 @@
+{
+  "title": "AE脚本-风吹自由摇曳摆动MG动画 AutoSway v1.86 + 使用教程",
+  "slug": "aejiao-ben-feng-chui-zi-you-yao-yi-bai-dong-mgdong-hua-autosway-v1-86-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019/11/11 22:21",
+  "source_url": "https://www.lookae.com/autosway-186/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "AutoSway 脚本可以制作风吹自由摇曳摆动MG动画，且完全符合重力学。包含两种模式：图层模式和木偶工具模式，让用户轻松实现图层的自然摆动效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/AutoSway.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/44489876.mp4"
+  ],
+  "supported_versions": "AE CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-406977753"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1PYGOdHbfySgL6j3t8Ptnsw"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.86更新内容：修复了在macOS 10.15“Catalina”中无法激活脚本的问题。小错误修复。",
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_url": "https://www.lookae.com/sponsor/",
+    "original_product_page": "http://aescripts.com/autosway/"
+  }
+}

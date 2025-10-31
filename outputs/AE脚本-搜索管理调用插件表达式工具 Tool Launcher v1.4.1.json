@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-搜索管理调用插件表达式工具 Tool Launcher v1.4.1",
+  "slug": "aejiao-ben-sou-suo-guan-li-diao-yong-cha-jian-biao-da-shi-gong-ju-tool-launcher-v1-4-1",
+  "author": "大众脸",
+  "post_date": "2019-05-05T20:35:00Z",
+  "source_url": "https://www.lookae.com/tool-launcher/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Tool Launcher 是一款用于 After Effects 的脚本工具，可帮助用户在软件中快速搜索并调用已安装的插件、脚本和表达式。支持从可搜索列表或自定义工具栏运行脚本、菜单命令及应用表达式，并可在预停靠面板中打开脚本界面。该工具适用于 Win/Mac 系统下的 AE CS6 至 CC 2018 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/Tool-Launcher-141.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CS6 - CC 2018",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-372567280"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1ICdVbbLZf95Kj1W0X5BChg"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "修复路径选项卡中配置按钮的问题",
+      "在tl_panel中加载脚本界面时立即调整其大小",
+      "添加了使用命令类型“动画预设”将动画预设文件应用于所选图层的功能",
+      "在工具栏设置中添加“仅显示图标”按钮，隐藏按钮轮廓，仅显示图标",
+      "新增“撤消”功能，可撤销对多个图层或属性的效果或表达式应用",
+      "显示无法正确写入的图标列表，避免空白显示"
+    ],
+    "installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage": "在AE软件中通过 Window（窗口菜单）找到脚本",
+    "official_store": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "related_tags": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "website": "https://www.lookae.com/"
+  }
+}

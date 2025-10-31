@@ -1,0 +1,56 @@
+{
+  "title": "中文汉化AE插件-文字延迟动画快速制作器 TextDelay 1.7.1 Win/Mac",
+  "slug": "zhong-wen-yi-hua-aecha-jian-wen-zi-yan-chi-dong-hua-kuai-su-zhi-zuo-qi-textdelay-1-7-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/09/02 22:12",
+  "source_url": "https://www.lookae.com/textdelay-171/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化"
+  ],
+  "content": "TextDelay是一款After Effects插件，它可以根据字符、单词或行制作文字动画。这个插件与默认的文本动画器不同，它继承了动画的缓动效果，所以您可以使用曲线或缓动表达式进行创作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/TextDelay-16.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-511300706-82aaf3"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17r9idh-btMduUqDtB0tnZw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/h8JZ8ZhhveX"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "v1.7.1更新内容": "提高笔画渲染质量; 错误修复; MFR多帧渲染支持",
+    "使用教程下载链接": [
+      {
+        "name": "城通网盘下载",
+        "url": "https://lookae.ctfile.com/fs/680462-324397770"
+      },
+      {
+        "name": "百度云网盘下载",
+        "url": "https://pan.baidu.com/s/1Y13UWJhR7h7J8h4Xu-h3-g"
+      }
+    ]
+  }
+}

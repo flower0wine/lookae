@@ -1,0 +1,63 @@
+{
+  "title": "AE/PR脚本模板-500种现代时尚创意设计商务婚礼文字标题预设 Motion Typography Essential Graphics V5",
+  "slug": "ae-prjiao-ben-mo-ban-500chong-xian-dai-shi-shang-chuang-yi-she-ji-shang-wu-hun-li-wen-zi-biao-ti-yu-she-motion-typography-essential-graphics-v5",
+  "author": "大众脸",
+  "post_date": "2020/11/10 17:48",
+  "source_url": "https://www.lookae.com/motion-typography-5/",
+  "category": "aescripts",
+  "tags": [
+    "AE模板",
+    "AE脚本",
+    "PR脚本",
+    "PR预设"
+  ],
+  "content": "这是一款包含500多种现代时尚创意文字标题动画的资源包，适用于商务、婚礼等多种场景。资源提供两种形式：适用于Premiere Pro的脚本与Mogrt预设，以及适用于After Effects的脚本与模板。模板结构清晰，易于编辑，无需额外插件，并附带使用教程。同时包含Universalizer控制器，确保与不同语言版本的AE兼容。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/Motion-Typography-V5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS6, CC 2014, CC 2015, CC 2016, CC 2017；Premiere Pro 2019及更高版本；AE CC 2017.2及更高版本",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "AE脚本+AE模板 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-460572878"
+    },
+    {
+      "name": "AE脚本+AE模板 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1UcDL4ufGFXgcH3-vjQ_FIQ"
+    },
+    {
+      "name": "PR脚本+PR预设 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-459963635"
+    },
+    {
+      "name": "PR脚本+PR预设 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1BcW1xlJwwNIDuYHz69Qu4g"
+    }
+  ],
+  "other": {
+    "resolution": [
+      "4K (3840×2160)",
+      "全高清 (1920×1080)，可调整大小"
+    ],
+    "animation_count": {
+      "premiere_pro": "300+",
+      "after_effects": "500+"
+    },
+    "file_size": "2.5G",
+    "resource_id": "20645019",
+    "premium_builder_features": [
+      "主页按钮",
+      "动画预设预览",
+      "最小化–最大化",
+      "加入收藏夹",
+      "侧面菜单按钮开/关",
+      "全部搜索或在类别内搜索"
+    ],
+    "mogrt_installation_methods": [
+      "方法一：关闭PR，将预设文件夹复制至系统指定路径（Windows或Mac），然后在【窗口】-【基本图形】中使用。",
+      "方法二：在PR中打开【窗口】-【基本图形】，点击右下角+号直接加载.mogrt文件。"
+    ]
+  }
+}

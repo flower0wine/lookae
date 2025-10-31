@@ -1,0 +1,73 @@
+{
+  "title": "AE/PR插件-多种特殊视频编码格式素材直接导入软件工具 Influx Free Beta V0.7.0beta7 Win/Mac",
+  "slug": "ae-prcha-jian-duo-chong-te-shu-shi-pin-bian-ma-ge-shi-su-cai-zhi-jie-dao-ru-ruan-jian-gong-ju-influx-free-beta-v0-7-0beta7-win-mac",
+  "author": "大众脸",
+  "post_date": "2021/09/17 14:56",
+  "source_url": "https://www.lookae.com/influx/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "编码插件",
+    "视频解码器"
+  ],
+  "content": "Influx 是一款专为 Adobe After Effects 和 Premiere Pro 设计的插件，允许用户直接导入多种特殊视频编码格式的素材，无需借助外部转码软件。该插件显著节省了处理时间、磁盘空间并简化了工作流程。用户可在 Premiere Pro 中直接编辑素材，在 After Effects 中无缝处理，并通过 Media Encoder 导出项目或转码文件。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/08/Influx.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2021, 2020, CC 2019; Premiere 2021, 2020, CC 2019; Media Encoder 2021, 2020, CC 2019",
+  "supported_os": "Microsoft Windows 10; Apple macOS Intel v10.14 (Mojave) 及 Apple M1 芯片",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-513946132-be6c4c"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1n7JXEPoaQOXfXCZ1uEvrqw"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/nAEPu1dhuqK"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "60zd"
+    },
+    "supported_containers": [
+      ".MKV",
+      ".WebM",
+      ".FLV",
+      ".OGV",
+      ".BIK",
+      ".AVI",
+      ".MOV",
+      ".WMV"
+    ],
+    "supported_video_codecs": [
+      "FFV1",
+      "VP8",
+      "VP9",
+      "H.264",
+      "H.265"
+    ],
+    "supported_audio_codecs": [
+      ".OPUS",
+      ".FLAC",
+      ".WMA",
+      ".OGG"
+    ],
+    "supports_image_sequences": true,
+    "version_info": "Autokroma Influx 0.7.0beta7 (2021/9/13更新)",
+    "usage_notes": [
+      "Adobe 在无法本地导入文件时会自动尝试使用 Influx",
+      "可通过为视频文件添加 .influx 后缀强制使用 Influx 解码",
+      "在 Premiere Pro 中可通过右键项目项 > “源设置…”访问 Influx 设置",
+      "在 Media Encoder 中右键渲染队列项 > “源设置…”",
+      "在 After Effects 中右键项目项 > “解释素材” > “主要…” > “更多选项…”"
+    ]
+  }
+}

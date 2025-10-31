@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-等比例缩放图层合成关键帧持续时间 Elastic Comp Changer v1.3",
+  "slug": "aejiao-ben-deng-bi-li-suo-fang-tu-ceng-he-cheng-guan-jian-zheng-chi-xu-shi-jian-elastic-comp-changer-v1-3",
+  "author": "大众脸",
+  "post_date": "2020/12/21 14:43",
+  "source_url": "https://www.lookae.com/elastic-comp/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Elastic Comp Changer会更改合成的持续时间，图层和嵌套的预压缩，并带有偏移关键帧的选项。该脚本可以处理帧，而不是秒，具备添加或删除框架、选件及多种模式的功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/Elastic-Comp-Changer.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/291651844820.mp4"
+  ],
+  "supported_versions": "",
+  "supported_os": "",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-476934297"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1qzTQBN1ygRnOkSNrpSKTRQ",
+      "extraction_code": "au5k"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE脚本",
+        "url": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本：文字分割分离成单独图层 Aescripts TextExploder v1.0.003 + 使用教程",
+  "slug": "aejiao-ben-wen-zi-fen-ge-fen-chi-cheng-dan-du-tu-ceng-aescripts-textexploder-v1-0-003-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/05/08 20:01",
+  "source_url": "https://www.lookae.com/textexploder103/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Aescripts TextExploder 是一款用于 Adobe After Effects 的脚本，可将一段文字按字母、单词或句子等单位精确拆分为独立的文字图层，保留每个字符的原始位置。该功能极大提升了文字动画的控制灵活性，适用于需要逐字或逐词精细编辑的项目。支持从 AE CS3 到 CC 2018 的多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/09/Text-Exploder.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50027194666.mp4"
+  ],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载（脚本）",
+      "url": "https://lookae.ctfile.com/fs/680462-289950694"
+    },
+    {
+      "name": "百度云网盘下载（脚本）",
+      "url": "https://pan.baidu.com/s/1wSoHLch12P6KnOOzdAulTA"
+    },
+    {
+      "name": "城通网盘下载（使用教程）",
+      "url": "https://www.pipipan.com/fs/680462-220389175"
+    },
+    {
+      "name": "百度云网盘下载（使用教程）",
+      "url": "https://pan.baidu.com/s/1miMJgOK"
+    }
+  ],
+  "other": {
+    "official_website": "http://aescripts.com/textexploder/",
+    "shop_link": "https://lookae.taobao.com/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "tags_in_content": [
+      "Aescaripts",
+      "AE脚本"
+    ]
+  }
+}

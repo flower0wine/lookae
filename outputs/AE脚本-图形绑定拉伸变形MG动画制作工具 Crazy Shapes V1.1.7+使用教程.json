@@ -1,0 +1,52 @@
+{
+  "title": "AE脚本-图形绑定拉伸变形MG动画制作工具 Crazy Shapes V1.1.7+使用教程",
+  "slug": "aejiao-ben-tu-xing-bang-ding-la-shen-bian-xing-mgdong-hua-zhi-zuo-gong-ju-crazy-shapes-v1-1-7-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-23T16:03:00Z",
+  "source_url": "https://www.lookae.com/crazy-shapes-117/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Crazy Shapes",
+    "MG动画"
+  ],
+  "content": "Crazy Shapes 是一款强大的 After Effects 脚本工具，可扩展路径工作的可能性。它支持快速创建装备绑定、一键添加酷炫动画，并提供额外的拉伸变形工具，使制作壁球效果、波浪动画、辅助动作等更加轻松有趣。其绑定功能能有效连接预设插图，这是传统工具难以实现的功能。该脚本支持两种动画模式：循环动画无需关键帧即可在路径内运行，仅通过滑块即可调节整体动画；半自动动画则为已有插图添加自然的辅助动作。适用于高效制作动态图形（MG动画）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/09/CrazyShapes.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/378201582494.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1500307753-b36e78?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hh1lIYSVirw6Igu4_Ze9Ig?pwd=b6vi"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/m2raa58DxtR"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "更新了许可证",
+      "修复 Slider Rig 与 3D 图层的关系",
+      "修复 Slider Rig 与 Time Remap 属性的关系"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "Crazy Shapes",
+      "MG动画"
+    ],
+    "post_categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

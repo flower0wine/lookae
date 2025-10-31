@@ -1,0 +1,35 @@
+{
+  "title": "AE脚本：一键处理多图层运动 EditMonkey v1.0.0 + 使用教程",
+  "slug": "aejiao-ben-yi-jian-chu-li-duo-tu-ceng-yun-dong-editmonkey-v1-0-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/04/13 11:21",
+  "source_url": "https://www.lookae.com/editmonkey/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE插件"
+  ],
+  "content": "EditMonkey 是一款强大的 After Effects 脚本，可一键将多个图层按照设定或随机方式快速生成复杂动画。支持视频、图形素材，也可使用内置文字生成器。适用于快速制作多图层动态编辑效果，被称作 'After Effects Killer Ape'。脚本提供完整学习视频教程，便于用户快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/04/EditMonkey.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-244110832"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1bYGIJ1Fw19EPGYyDJb9Tvg"
+    }
+  ],
+  "other": {
+    "official_website": "https://aescripts.com/editmonkey/",
+    "description": "压缩包内包含安装说明文档。",
+    "feature": "支持视频、图形及内置文本生成器，实现秒级复杂多图层动画创作。",
+    "note": "脚本配套有视频学习教程，帮助用户快速掌握使用方法。"
+  }
+}

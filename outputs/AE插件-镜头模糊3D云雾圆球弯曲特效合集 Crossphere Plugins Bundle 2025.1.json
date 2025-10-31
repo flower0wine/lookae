@@ -1,0 +1,74 @@
+{
+  "title": "AE插件-镜头模糊3D云雾圆球弯曲特效合集 Crossphere Plugins Bundle 2025.1",
+  "slug": "aecha-jian-jing-tou-mo-hu-3dyun-wu-yuan-qiu-wan-qu-te-xiao-he-ji-crossphere-plugins-bundle-2025-1",
+  "author": "大众脸",
+  "post_date": "2025-07-17T11:51:00Z",
+  "source_url": "https://www.lookae.com/crossphere-bundle/",
+  "category": "aechajian",
+  "tags": [
+    "AE合集",
+    "AE插件"
+  ],
+  "content": "CROSSPHERE 是一家来自日本的创意团队，专注于电影、插画与设计领域，由自由设计师组成，具备灵活高效的协作模式。该插件合集包含多种高级视觉特效功能，适用于 After Effects 制作中实现复杂动态效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/07/Crossphere-Plugins-Bundle-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1534113553-e232f0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1ePDsh1ajpiaW0iLspqPMVg?pwd=r3wb"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/41gQjfEFwDk"
+    }
+  ],
+  "other": {
+    "description": "这是CROSSPHERE出品的插件集合，拥有特别使用的功能，例如镜头模糊，3D云雾和三维球体等特效。CROSSPHERE 是一家日本制作团队，业务涵盖电影、插画和设计领域。团队主要由自由设计师组成。这样的架构使其活动比设计公司更加灵活，也比个人设计师更能为客户提供快速可靠的产品。",
+    "plugin_list": [
+      {
+        "name": "Bokeh v1.4.0",
+        "description": "镜头模糊虚焦插件"
+      },
+      {
+        "name": "Fractal Noise 3D v1.5.4",
+        "description": "三维噪波空间云雾插件"
+      },
+      {
+        "name": "Pixel Bender Accelerator v1.2.3",
+        "description": "直接调用PBK文件插件"
+      },
+      {
+        "name": "Power Cylinder v1.1.6",
+        "description": "图像3D弯曲插件"
+      },
+      {
+        "name": "Power Droste v1.0.0",
+        "description": "螺旋变形无限循环特效"
+      },
+      {
+        "name": "Power Hyperboloid v1.0.2",
+        "description": "3D双曲面特效"
+      },
+      {
+        "name": "Power Sphere v1.1.9",
+        "description": "三维圆球特效"
+      }
+    ],
+    "categories": [
+      "AE插件",
+      "After Effects"
+    ],
+    "tags_urls": [
+      "https://www.lookae.com/tag/ae%e5%90%88%e9%9b%86/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

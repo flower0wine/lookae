@@ -1,0 +1,41 @@
+{
+  "title": "AE插件：卡通动态模糊拖尾特效AEscripts CartoonMoblur v1.5.2 + 视频教程",
+  "slug": "aecha-jian-qia-tong-dong-tai-mo-hu-tuo-wei-te-xiao-aescripts-cartoonmoblur-v1-5-2-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018/10/09 21:41",
+  "source_url": "https://www.lookae.com/cartoonmoblur/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "该插件CartoonMoblur可给图形添加卡通风格运动模糊拖尾效果，是制作MG动画不错选择。其模糊基于图层运动生成，支持多种运动动画，也可用于调节层。官网地址为https://aescripts.com/cartoon-moblur/。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Cartoon-Moblur-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-313850340"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1_fg1Ko9lPnojSS1N8m_WRg"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "name": "AE插件",
+        "url": "https://www.lookae.com/after-effects/aechajian/"
+      },
+      {
+        "name": "After Effects",
+        "url": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "安装方法": "1. 复制Cartoon Moblur文件夹到AE的插件目录，如：C:\\Program Files\\Adobe\\Adobe After Effects CC \\Support Files\\Plug-ins\\2. 打开AE软件，找到插件点击注册，输入序列号即可。注册号：PECM*CG*Persia*298394516728034SUL53. 完成安装，使用插件"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "AE插件：变形扭曲(变脸)插件 REVisionFX REFlex 5.2.5 Win/Mac",
+  "slug": "aecha-jian-bian-xing-niu-qu-bian-lian-cha-jian-revisionfx-reflex-5-2-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2017-02-13T15:55:00",
+  "source_url": "https://www.lookae.com/reflex525/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Win/Mac"
+  ],
+  "content": "REVisionFX RE-Flex 是一款专为 After Effects 和 Fusion 设计的高效变形与扭曲插件，支持直观的形态变化（morphing）和区域扭曲（warping）。该插件利用宿主软件自带的绘图与遮罩工具进行操作，无需学习全新界面，上手简单。适用于 Windows 与 Mac 系统的 After Effects CS5 至 CC 2017 版本，具备先进的算法技术支持，可实现高质量的动画效果，尤其适合制作变脸等复杂变形特效。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/07/RE-Flex.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 – CC 2017",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "AE插件：变形扭曲(变脸)插件 REVisionFX REFlex 5.2.5 Win/Mac",
+      "url": "https://lookae.ctfile.com/fs/zk1171240446"
+    }
+  ],
+  "other": {
+    "plugin_name": "REVisionFX RE-Flex",
+    "version": "5.2.5",
+    "features": [
+      "支持复杂变形与形态变化动画",
+      "可自定义绘制扭曲区域",
+      "兼容 AE CS5 到 CC 2017",
+      "集成宿主软件绘图工具，无需额外学习界面",
+      "提升计算速度并修复已知错误"
+    ],
+    "update_notes": [
+      "更新支持 AE CC 2017",
+      "增加 RVL NOGUI LIC 和 RVL QUIT LIC 的渲染支持",
+      "修复在 AE CC 2015 中的渲染错误",
+      "修正已知 BUG，提升计算效率"
+    ],
+    "official_website": "http://www.revisionfx.com/products/reflex/",
+    "related_tags": [
+      "AE插件",
+      "Win/Mac",
+      "变脸特效",
+      "变形扭曲",
+      "Morphing",
+      "Warping"
+    ]
+  }
+}

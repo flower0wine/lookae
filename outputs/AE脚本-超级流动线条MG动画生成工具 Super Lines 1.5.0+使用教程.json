@@ -1,0 +1,59 @@
+{
+  "title": "AE脚本-超级流动线条MG动画生成工具 Super Lines 1.5.0+使用教程",
+  "slug": "aejiao-ben-chao-ji-liu-dong-xian-tiao-mgdong-hua-sheng-cheng-gong-ju-super-lines-1-5-0-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-02T10:27:00Z",
+  "source_url": "https://www.lookae.com/super-lines-150/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Super Lines",
+    "线条动画"
+  ],
+  "content": "Super Lines 是一款用于 After Effects 的脚本工具，可快速创建流畅的 MG 动画风格线条效果。支持卡通与抽象两种风格，用户可自由调整线条形态与动画参数。适用于各类动态图形设计场景，提升创作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/Super-Lines.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com/play/u/705956171/p/1/e/6/t/1/50056514462.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1488671087-b7a6f2?p=4431"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1SPeLECdJBl0QYN2KxcD7KQ?pwd=vrgs"
+    },
+    {
+      "name": "脚本下载 - 阿里云盘",
+      "url": "https://www.alipan.com/s/LXTn3eQgsfj"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-231226150"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1pLMb8a3"
+    }
+  ],
+  "other": {
+    "update_note": "v1.5.0 更新内容：修复启动时出现空错误",
+    "related_tags": [
+      "AE脚本",
+      "MG动画",
+      "Super Lines",
+      "线条动画"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ],
+    "image_alt": "AE脚本-超级流动线条MG动画生成工具 Super Lines 1.5.0+使用教程-LookAE.com"
+  }
+}

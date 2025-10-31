@@ -1,0 +1,49 @@
+{
+  "title": "Mac版：AE/PR/FCPX/FCP7插件 RE Vision Effects 2014 大合集",
+  "slug": "macban-ae-pr-fcpx-fcp7cha-jian-re-vision-effects-2014-da-he-ji",
+  "author": "大众脸",
+  "post_date": "2015/01/31 16:08",
+  "source_url": "https://www.lookae.com/revision2014/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCPX",
+    "FCPX插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "RE：Vision Effects 公司出品的插件合集，最出名的插件是Twixtor Pro 变速插件。该合集适用于Mac OSX苹果系统下的Adobe After Effects、Adobe Premiere Pro、Final Cut Pro 7、Final Cut Pro X、Motion 4和5等软件。合集内含序列号，安装即可使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/01/REVision2014.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "2014",
+  "supported_os": "Mac OSX",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/84074171"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mgLwK5a"
+    }
+  ],
+  "other": {
+    "plugins_list": [
+      "DE Flicker 1.2.6 去闪烁插件",
+      "DE Noise 2.3 专业降噪插件",
+      "FieldsKit 3.3 动画反交错插件",
+      "PV Feather 1.7 逐点羽化插件",
+      "RE Fill 2.2 智能修补和填充插件",
+      "RE Flex 4.1.1 变脸/变形插件",
+      "RE Map 2.3 UV贴图映射插件",
+      "RE Match 1.3.6 色彩匹配插件",
+      "ReelSmart Motion Blur 4.2.3 动态模糊插件",
+      "Shade Shape 4.2.1 形状阴影插件",
+      "SmoothKit 3.3 降噪磨皮插件",
+      "Twixtor 6.1.0 超级慢动作变速插件",
+      "Video Gogh 3.7 水彩油画插件"
+    ]
+  }
+}

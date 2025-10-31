@@ -1,0 +1,69 @@
+{
+  "title": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+  "slug": "jing-pin-ji-qian-chong-zhuan-ye-lutsdian-ying-ji-diao-se-yu-she-lookae-luts-mac-win",
+  "author": "大众脸",
+  "post_date": "2015/04/23 13:05",
+  "source_url": "https://www.lookae.com/lookaeluts/",
+  "category": "aechajian",
+  "tags": [
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "LUT 是一种强大的调色工具，能够快速完成画面调色，使影像呈现电影级质感。本套资源包含数千种专业 LUT 预设（总量超过 2GB），几乎涵盖市面上所有主流调色预设，适用于多种后期制作场景。用户可在现有 LUT 基础上进行微调，轻松实现理想的色彩风格。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/04/LOOKAELUTS.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS6/CC 2014, Adobe Premiere CC 2014, Adobe Photoshop CS6/CC 2014, Final Cut Pro X, DaVinci Resolve (Full & Lite), Avid MC 7, Shake, Vegas, Edius, Pandora Revolution/Pixi, CineForm Studio Premium, Nuke, SCRATCH, Film Master, Quantel Pablo, BaseLight, Motion 5",
+  "supported_os": "Mac/Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/91223460"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1vv38y"
+    },
+    {
+      "name": "LUT调色预设使用参考教程",
+      "url": "https://www.400gb.com/file/93561938"
+    }
+  ],
+  "other": {
+    "related_links": [
+      {
+        "name": "更多LUT调色预设免费下载",
+        "url": "https://www.lookae.com/tag/lut/"
+      },
+      {
+        "name": "FCPX软件 LUT 实用颜色工具",
+        "url": "https://www.lookae.com/fcpx-lut/"
+      },
+      {
+        "name": "Magic Bullet LUT Buddy",
+        "url": "https://www.redgiant.com/downloads/free-products/"
+      },
+      {
+        "name": "大众脸 LookAE 官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ],
+    "usage_instructions": {
+      "Adobe Premiere Pro CC": "视频特效 – Lumetri",
+      "Adobe Photoshop CS6/CC": "Image → Adjustments → Color Lookup",
+      "Adobe After Effects CS6/CC": "Effects → Utility → Apply Color LUT",
+      "Nuke": "Vectorfield",
+      "SCRATCH": "Color Scraffolds",
+      "Final Cut Pro X": "LUT Utility",
+      "DaVinci Resolve": "直接使用或导入",
+      "general_note": "只要软件能安装 Looks 新版的调色插件，就能使用 Looks 导入 LUT 使用"
+    }
+  }
+}

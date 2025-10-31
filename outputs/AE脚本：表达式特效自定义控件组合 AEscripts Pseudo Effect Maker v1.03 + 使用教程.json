@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本：表达式特效自定义控件组合 AEscripts Pseudo Effect Maker v1.03 + 使用教程",
+  "slug": "aejiao-ben-biao-da-shi-te-xiao-zi-ding-yi-kong-jian-zu-he-aescripts-pseudo-effect-maker-v1-03-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/06/08 09:25",
+  "source_url": "https://www.lookae.com/pseudo-effect-maker/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Pseudo Effect Maker 是一款用于 After Effects 的脚本，可将多个表达式组合为自定义控件组，实现类似内置效果的统一控制。用户可通过直观界面创建、命名和组织自定义表达式控件，提升项目中表达式管理的效率与整洁度。支持预设保存，便于重复使用。适用于 AE CC 至 CC 2017 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/06/Pseudo-Effect-Maker.jpg"
+  ],
+  "video_urls": [
+    "https://img.alicdn.com/imgextra/i1/705956171/TB2nKhGcSvHfKJjSZFPXXbttpXa_!!705956171.gif"
+  ],
+  "supported_versions": "AE CC – CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.pipipan.com/fs/680462-206174716"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1o8E14H8"
+    }
+  ],
+  "other": {
+    "description": "该脚本可将多个表达式控件组合为一个自定义效果组，解决原生控件分散问题，提升表达式管理效率。",
+    "website": "http://aescripts.com/pseudo-effect-maker/",
+    "installation_guide": "详细图文安装方法说明",
+    "tutorial": "含视频使用教程",
+    "related_tags": [
+      "Aescaripts",
+      "AE脚本",
+      "After Effects",
+      "表达式特效",
+      "自定义控件"
+    ],
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

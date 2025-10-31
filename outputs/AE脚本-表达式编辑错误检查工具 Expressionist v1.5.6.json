@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-表达式编辑错误检查工具 Expressionist v1.5.6",
+  "slug": "aejiao-ben-biao-da-shi-bian-ji-cuo-wu-jian-cha-gong-ju-expressionist-v1-5-6",
+  "author": "大众脸",
+  "post_date": "2024/12/02 23:07",
+  "source_url": "https://www.lookae.com/expressionist-156/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "AE表达式",
+    "Expressionist"
+  ],
+  "content": "Expressionist 是一款专为 After Effects 设计的脚本，旨在提升表达式编写的工作效率。它提供语法高亮、行号显示、多光标操作等功能，支持批量为多个属性添加表达式，并能实时提示表达式错误位置，显著优化了表达式开发流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/04/Expressionist-155.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/36377094.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1432285741-2c0eed?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1vDxJI-dPtaewWFi33e_A9A?pwd=r398"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/LnHY1BgXuQy"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.5.6 更新内容：已修复编辑器不显示的问题",
+    "related_tags": [
+      "AE脚本",
+      "AE表达式",
+      "Expressionist"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

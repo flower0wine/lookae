@@ -1,0 +1,40 @@
+{
+  "title": "AE脚本-关键帧缓入缓出操作工具 ARC 1.01+使用教程",
+  "slug": "aejiao-ben-guan-jian-zheng-huan-ru-huan-chu-cao-zuo-gong-ju-arc-1-01-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023/06/13 17:48",
+  "source_url": "https://www.lookae.com/arc-101/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "关键帧",
+    "缓入缓出"
+  ],
+  "content": "ARC 是一款用于 Adobe After Effects 的关键帧缓入缓出操作工具，具有紧凑可爱的用户界面，同时功能强大。它允许用户快速在多种缓动模式之间切换，并通过动态 HUD 显示当前缓动状态。用户可通过滑块、点击百分比图标或键盘快捷键高效地调整关键帧的缓入缓出效果，并可将相同设置快速应用到其他关键帧组。此外，按 CTRL + ALT + SHIFT + 按钮可访问帮助文档。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/06/ARC-for-Adobe-After-Effects.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/414990390327.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-869675097-2a17e0?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1mZTOdL-xWuPcrgwON42eZw?pwd=clkn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/2GPLEC1EM7x"
+    }
+  ],
+  "other": {
+    "password": "6688",
+    "baidu_extract_code": "clkn"
+  }
+}

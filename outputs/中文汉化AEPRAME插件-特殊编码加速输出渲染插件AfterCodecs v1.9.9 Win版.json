@@ -1,0 +1,88 @@
+{
+  "title": "中文汉化AE/PR/AME插件-特殊编码加速输出渲染插件AfterCodecs v1.9.9 Win版",
+  "slug": "zhong-wen-yi-hua-ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-9-9-winban",
+  "author": "大众脸",
+  "post_date": "2020/10/29 22:55",
+  "source_url": "https://www.lookae.com/aftercodecs-199/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Adobe Media Encoder 设计的高性能编码输出插件，支持在 Windows 系统上输出 ProRes、H.264（x264/x265）以及 HAP 等专业编码格式。相比 Adobe 自带的导出功能，AfterCodecs 提供更快的渲染速度、更小的文件体积和更高的画质，并支持丰富的参数设置，适用于从预览到最终交付的多种场景。插件特别适合需要高效输出高质量视频的专业用户，支持 Alpha 通道、8K 渲染、自定义帧率、多轨道导出等高级功能，并持续更新以优化工作流程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/09/AfterCodecs-197.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Media Encoder: 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "Win英文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-468467866"
+    },
+    {
+      "name": "Win英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1sXJR4ABOggwN5fc6cwOL2w"
+    },
+    {
+      "name": "Win中文版 - 城通网盘",
+      "url": "https://089u.com/file/680462-468484700"
+    },
+    {
+      "name": "Win中文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/11zPaIOOlX9wd35xRd1-LrA"
+    },
+    {
+      "name": "问题解决程序 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1WBpoAkCOYTshfy6S3wGylw"
+    },
+    {
+      "name": "视频使用教程 - 城通网盘",
+      "url": "https://tc5.us/file/680462-406407782"
+    },
+    {
+      "name": "视频使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+    },
+    {
+      "name": "Mac版v1.9.7 - 城通网盘",
+      "url": "https://089u.com/file/680462-461856115"
+    },
+    {
+      "name": "Mac版v1.9.7 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1iJq5vmUkjpBwKTb3z49nWw"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "如果AfterCodecs处于试用模式，它将在与渲染相同的文件夹中写入一个.txt警告",
+      "MultiRender: AfterCodecs现在避免导出重复的标记（例如，如果多次单击相同片段的“添加标记”按钮，则会获得重复标记）",
+      "After Effects: 现在设置中有一个新的复选框，可以从版本1.8.0中引入的aftercodec禁用AEfx任务栏图标的进度条功能",
+      "GIF错误修复"
+    ],
+    "codecs_and_containers": {
+      "MOV_ProRes": "6个正式配置文件（422 LT /代理服务器/普通/ HQ / 4444 / XQ）和2个非官方配置文件（422 Ultra / 4444 Light），ProRes 4444 Light / 4444 / XQ支持Alpha通道",
+      "MOV_HAP": "4个编解码器（Hap，Hap Alpha，Hap Q和Hap Q Alpha），可禁用Snappy压缩并调整CPU块数量，支持不同压缩算法",
+      "MOV_MP4_x264": "优于Adobe Media Encoder和QuickTime H264，提供YouTube上传专用配置文件",
+      "MOV_MP4_x265": "相同质量下比x264文件小25%，但编码速度较慢",
+      "MOV_MP4_x264_RGB": "避免使用YUV色彩空间，适合存储UV贴图、alpha、3D通道等（适合高级用户）"
+    },
+    "main_features": [
+      "填补编解码器空白：支持ProRes（含Alpha）、HAP全系列，无需QuickTime",
+      "Premiere和Media Encoder专属功能：MultiRenders标记、分别导出音轨、快速子分辨率、自定义帧率等",
+      "H.264/H.265高效压缩：支持8K渲染、YouTube优化配置、文件大小目标、10 bpc、YUV 4:2:2/4:4:4等",
+      "工作流优化：AE任务栏进度显示、Premiere批量导出、持续更新"
+    ],
+    "baidu_netdisk_passwords": {
+      "Win英文版": "6qa3",
+      "Win中文版": "oo28",
+      "问题解决程序": "9r1d",
+      "Mac版v1.9.7": "5pj5"
+    }
+  }
+}

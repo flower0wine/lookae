@@ -1,0 +1,73 @@
+{
+  "title": "Nobe OmniScope 1.10.137 Win/Mac达芬奇/AE/PR/OFX视频调色万能示波器插件",
+  "slug": "nobe-omniscope-1-10-137-win-macda-fen-qi-ae-pr-ofxshi-pin-diao-se-mo-neng-shi-bo-qi-cha-jian",
+  "author": "大众脸",
+  "post_date": "2024-07-15",
+  "source_url": "https://www.lookae.com/omniscope-1101133/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Nobe OmniScope",
+    "OFX插件",
+    "PR插件",
+    "示波器插件",
+    "达芬奇插件"
+  ],
+  "content": "Nobe OmniScope是一款功能强大的视频调色示波器插件，支持GPU加速、HDR和StreamDeck。它提供13种类型的示波器，可在工作区自由排列和停靠，并支持布局保存和重新加载。插件利用GPU加速实现实时监控，几乎没有延迟，适用于颜色分级工作。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/12/Nobe-OmniScope.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "1.10.137",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win版 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1323457126-802acf?p=4431"
+    },
+    {
+      "name": "Win版 百度网盘",
+      "url": "https://pan.baidu.com/s/10LsVS1yP_PsJkLEOrFjaeQ?pwd=nrv2"
+    },
+    {
+      "name": "Win版 阿里云盘",
+      "url": "https://www.alipan.com/s/ucP2t8NSS22"
+    },
+    {
+      "name": "Mac版 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1272961405-6e8c4e?p=4431"
+    },
+    {
+      "name": "Mac版 百度网盘",
+      "url": "https://pan.baidu.com/s/1hYiOJoDNJLdHS4ChMQxXXg?pwd=ql08"
+    },
+    {
+      "name": "Mac版 阿里云盘",
+      "url": "https://www.alipan.com/s/xvQgvUvhCw3"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "DaVinci Resolve",
+      "Scratch",
+      "AE",
+      "PR",
+      "PS",
+      "Lightroom",
+      "Vegas等OFX程序"
+    ],
+    "features": [
+      "18种范围类型",
+      "多种输入支持",
+      "支持杜比视界工作流程",
+      "极快的性能",
+      "12位信号支持",
+      "高度通用且可定制",
+      "先进的质量控制和新的质量控制时间表",
+      "使用OpenColorIO进行颜色管理",
+      "原生StreamDeck支持",
+      "NDI® 5支持",
+      "Apple Silicon就绪（M1芯片）"
+    ]
+  }
+}

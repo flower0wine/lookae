@@ -1,0 +1,38 @@
+{
+  "title": "更新：AE/Pr蓝宝石插件 GenArts Sapphire v7.07 (Win64)",
+  "slug": "geng-xin-ae-prlan-bao-shi-cha-jian-genarts-sapphire-v7-07-win64",
+  "author": "大众脸",
+  "post_date": "2014/10/03 15:22",
+  "source_url": "https://www.lookae.com/sapphire707/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "Genarts Sapphire",
+    "PR插件",
+    "win64"
+  ],
+  "content": "大名鼎鼎的AE外置 GenArts 蓝宝石插件 可能都不用我多介绍了，拥有几百种非常炫的强力视觉效果。蓝宝石插件套装可以提高你的工作效率，增加你的想象力，给你无限的创作空间，因拥有卓越的图像质量和优秀的渲染速度，受到很多后期爱好者的追捧和喜爱。现在更新到最新版本的蓝宝石插件，支持 Adobe CC 2014。Sapphire 增加了生产力、输出质量以及竞争力，跨平台设计让你可以在视频编辑和其他合成软件之间自由切换，而不影响一致性和视觉效果。相比其他插件或After Effects自带效果，Sapphire在图像质量、控制性、渲染速度和观众吸引力方面表现更优。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/04/Sapphire7.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE + PR CS5 – CC2014.1",
+  "supported_os": "Win系统, Mac (Mavericks 支持已优化)",
+  "download_links": [
+    {
+      "name": "更新：AE/Pr蓝宝石插件 GenArts Sapphire v7.07 for Adobe (Win64)",
+      "url": "https://www.400gb.com/file/74884878"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.genarts.com/software/sapphire/after-effects",
+    "changelog": [
+      "Fixed a bug where point params were sometimes saved incorrectly in presets on Premiere Pro.",
+      "Fixed a problem where widgets were sometimes drawn in the wrong location on AE Creative Cloud.",
+      "FilmDamage: Fixed a bug where Stains Color1 was ignored.",
+      "Updated Mac installer to improve Mavericks support.",
+      "Flare Designer: fixed positioning of elements when editing glares.",
+      "Improved previews of SwishPan and Swish3D in the Preset Browser."
+    ]
+  }
+}

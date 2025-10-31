@@ -1,0 +1,66 @@
+{
+  "title": "Ae/Pr蓝宝石视觉特效和转场插件 2020 CE Mac/Win一键版",
+  "slug": "ae-prlan-bao-shi-shi-jue-te-xiao-he-zhuan-chang-cha-jian-2020-ce-mac-winyi-jian-ban",
+  "author": "大众脸",
+  "post_date": "2019-11-28T20:11:00Z",
+  "source_url": "https://www.lookae.com/sapphire-2020/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Sapphire 2020",
+    "蓝宝石插件"
+  ],
+  "content": "蓝宝石插件是业界知名的视觉特效与转场工具，支持 After Effects 和 Premiere Pro。其核心功能涵盖270多种特效和3000多种预设，集成Mocha跟踪与蒙版系统，具备出色的图像质量、控制精度和渲染速度。支持CPU与GPU加速，显著提升创作效率。该版本为2020 CE版，提供Mac与Windows平台的一键安装包。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/11/Sapphire-2020.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/244413882041.mp4"
+  ],
+  "supported_versions": "After Effects CC – CC 2019, 2020; Premiere Pro CC – CC 2019, 2020",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "Win版 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-408791402"
+    },
+    {
+      "name": "Win版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1fdjq42r7zq7I-ZdBREXk3g"
+    },
+    {
+      "name": "Mac版 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-409907046"
+    },
+    {
+      "name": "Mac版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1c0viNZBln6e8oP6CmAw6iw"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "新添加FreeLens效果",
+      "新添加OpenColorIO颜色管理支持",
+      "改进的集成式Mocha跟踪和蒙版，支持参数跟踪及新的Area Brush快速蒙版",
+      "新增16个LensFlares和7个Builder预设",
+      "蓝宝石预设浏览器新增比较模式",
+      "特定效果渲染速度最快提升三倍"
+    ],
+    "notes": [
+      "Win版下载需注册Team V.R账号",
+      "Mac版下载需注册大众脸团队账号"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/",
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/sapphire-2020/",
+      "https://www.lookae.com/tag/%e8%93%9d%e5%ae%9d%e7%9f%b3%e6%8f%92%e4%bb%b6/"
+    ]
+  }
+}

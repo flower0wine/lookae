@@ -1,0 +1,41 @@
+{
+  "title": "AE脚本-批量调整排列图层工具 Skew Pro v2.0.1 Win/Mac+使用教程",
+  "slug": "aejiao-ben-pi-liang-diao-zheng-pai-lie-tu-ceng-gong-ju-skew-pro-v2-0-1-win-mac-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024-10-26",
+  "source_url": "https://www.lookae.com/skew-pro/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "图层排列",
+    "图层管理"
+  ],
+  "content": "Skew Pro 是一款专为 After Effects 设计的脚本工具，旨在简化图层和关键帧的批量调整过程。通过其独立的时间轴界面，用户可以直观地对多个图层进行倾斜、间距、液化、对齐、分布、翻转、随机化等操作，极大提升动画制作效率。支持实时预览与编辑，After Effects 会同步更新变化。该工具适用于需要高效处理复杂动画项目的用户，扩展了传统时间轴的功能边界。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2023/10/Skew.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2023, 2024, 2025",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1418387614-7b12d6?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Em0MZf6b5HYEEcCe4U7fMA?pwd=ftai"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/DVgJFJMRArh"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ftai"
+    },
+    "update_log": "修复 comp 加载错误“JSON 输入意外结束”。如果某些合成包含文本层，该工具有时会失败。显示的错误是“JSON 输入意外结束”"
+  }
+}

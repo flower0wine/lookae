@@ -1,0 +1,57 @@
+{
+  "title": "中文汉化-老录像带信号故障毛刺干扰特效AE/PR插件 Signal v1.2.3 Win/Mac",
+  "slug": "zhong-wen-yi-hua-lao-lu-xiang-dai-xin-hao-gu-zhang-mao-ci-gan-rao-te-xiao-ae-prcha-jian-signal-v1-2-3-win-mac",
+  "author": "大众脸",
+  "post_date": "2022-11-29T09:46:00Z",
+  "source_url": "https://www.lookae.com/signal-122/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "PR插件",
+    "Signal",
+    "中文汉化",
+    "故障干扰特效"
+  ],
+  "content": "Signal 插件可模拟真实老式视频故障信号的毛刺效果。通过调制模拟视频信号对视频信息进行编码，并解码为彩色图像，实现高度真实的视觉体验。该信号是亮度与色度的线性组合，为模拟视频艺术提供全新的创作方式。它并非伪造模拟信号，而是在数字环境中真实还原模拟技术。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/03/Signal.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/300625251860.mp4"
+  ],
+  "supported_versions": "After Effects: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017; Premiere: 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-735550715-f91296?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1X6c_MVsJnJoGweuDSTRWoA?pwd=au23"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/7rAoEdfSECU"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.2.3 更新内容：修复了浮动许可证的“无效格式”错误；支持苹果M1芯片",
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/aem1/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/signal/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/",
+      "https://www.lookae.com/tag/%e6%95%85%e9%9a%9c%e5%b9%b2%e6%89%b0%e7%89%b9%e6%95%88/"
+    ]
+  }
+}

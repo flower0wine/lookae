@@ -1,0 +1,42 @@
+{
+  "title": "AE/PR数字转胶片调色插件 FilmConvert Pro 2.30+全摄像机预设包（Win64）",
+  "slug": "ae-prshu-zi-zhuan-xiao-pian-diao-se-cha-jian-filmconvert-pro-2-30-quan-she-xiang-ji-yu-she-bao-win64",
+  "author": "大众脸",
+  "post_date": "2015/07/28 22:40",
+  "source_url": "https://www.lookae.com/filmconvert23/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FilmConvert Pro",
+    "win64"
+  ],
+  "content": "FilmConvert Pro是一款能将数字摄影机拍摄素材色彩转换成胶片色彩的工具，可独立运行或作为第三方插件，能调整曝光、色温、添加颗粒等，支持LUT预设文件导入与保存预设，适用多种素材，内置多种胶片预设与镜头噪点设置，操作简单，支持4K输出。V2.30更新内容包括提升OpenCL和CUDA渲染加速以及兼容Adobe CC 2015软件 。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/07/FilmConvert2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "FilmConvert Pro V2.30",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "AE/PR数字转胶片调色插件 FilmConvert Pro 2.30 下载",
+      "url": "https://www.400gb.com/file/109157561"
+    },
+    {
+      "name": "全摄像机预设包下载",
+      "url": "http://www.filmconvert.com/download/Download_camera_packs.aspx"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "官方链接": "www.filmconvert.com/default.aspx",
+    "支持软件": "After Effects CS6, CC & CC 2014，CC 2015；Premiere Pro CS6, CC & CC 2014，CC 2015",
+    "安装说明": "插件已经完美，一键安装即可使用",
+    "淘宝店链接": "https://lookae.taobao.com/"
+  }
+}

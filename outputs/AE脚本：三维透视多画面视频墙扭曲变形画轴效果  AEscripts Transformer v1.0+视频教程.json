@@ -1,0 +1,31 @@
+{
+  "title": "AE脚本：三维透视多画面视频墙扭曲变形画轴效果  AEscripts Transformer v1.0+视频教程",
+  "slug": "aejiao-ben-san-wei-tou-shi-duo-hua-mian-shi-pin-qiang-niu-qu-bian-xing-hua-zhou-xiao-guo-aescripts-transformer-v1-0-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2017/03/29 22:24",
+  "source_url": "https://www.lookae.com/transformer/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Transformer脚本是一款强大的画面转换与动画工具，适用于After Effects。它能够实现图层的扭曲变形，打造多画面视频墙效果，并支持三维透视。该脚本提供完整视频教程，帮助用户快速掌握使用方法。适用于Windows和Mac系统下的AE CS5至CC 2017版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/03/transformer.jpg",
+    "https://img.alicdn.com/imgextra/i2/705956171/TB2EDxujR0lpuFjSszdXXcdxFXa_!!705956171.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CS5 – CC 2017",
+  "supported_os": "Win / Mac",
+  "download_links": [
+    {
+      "name": "AE脚本：三维透视多画面视频墙扭曲变形画轴效果  AEscripts Transformer v1.0+视频教程",
+      "url": "https://lookae.ctfile.com/fs/00j188636028"
+    }
+  ],
+  "other": {
+    "script_homepage": "http://aescripts.com/transformer/",
+    "installation_guide": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "usage_instruction": "在AE软件中点击 Window（窗口菜单）即可找到脚本。"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Mac苹果版AE/PR插件-将RAW格式视频素材直接导入编辑 BRAW Studio v3.3.3",
+  "slug": "macping-guo-ban-ae-prcha-jian-jiang-rawge-shi-shi-pin-su-cai-zhi-jie-dao-ru-bian-ji-braw-studio-v3-3-3",
+  "author": "大众脸",
+  "post_date": "2025/01/12 21:56",
+  "source_url": "https://www.lookae.com/braw-studio-333/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "BRAW Studio",
+    "Mac苹果版",
+    "PR插件"
+  ],
+  "content": "BRAW Studio 是一款支持 After Effects、Premiere Pro 和 Media Encoder 的原生 Blackmagic RAW (.braw) 导入插件工具。它提供高级 Premiere Pro 功能（通过 BRAW Studio 面板）以及可自定义的 RAW 设置（通过 After Effects 的图层设置滤镜）。v3 版本引入了全新的桌面应用程序、白平衡选择器和 Premiere Pro 元数据管理器工具，提供免费版和高级版两种版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/12/BRAWStudio-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/293345322093.mp4"
+  ],
+  "supported_versions": "After Effects: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019; Audition: 2024, 2023, 2022, 2021, 2020, CC 2019; Media Encoder: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019; Premiere: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘 - 插件",
+      "url": "https://url70.ctfile.com/f/2827370-1446382340-b8770f?p=4431"
+    },
+    {
+      "name": "百度网盘 - 插件",
+      "url": "https://pan.baidu.com/s/1iwHacGLtGQcv5xT8B4sRbg?pwd=3w33"
+    },
+    {
+      "name": "阿里云盘 - 插件",
+      "url": "https://www.alipan.com/s/5DYkm1acKPn"
+    },
+    {
+      "name": "城通网盘 - 教程",
+      "url": "https://lookae.ctfile.com/fs/680462-362734692"
+    },
+    {
+      "name": "百度网盘 - 教程",
+      "url": "https://pan.baidu.com/s/1kqZ5h2YeALqDkNU2-f2fZg"
+    }
+  ],
+  "other": {
+    "version_update_notes": [
+      "BRAW 4.1：",
+      "– 增加了对 Fujifilm GFX100S II 的支持",
+      "– 增加了对 Panasonic GH7 的支持",
+      "– MacOS 上现在默认启用“导入器同步模式”选项，提升性能并修复潜在内存问题（尤其在渲染时）"
+    ],
+    "related_links": [
+      {
+        "title": "Win版插件-BRAW Studio v3.3.5",
+        "url": "https://www.lookae.com/autocroma-202410/"
+      }
+    ],
+    "passwords": {
+      "城通网盘插件密码": "6688",
+      "百度网盘插件提取码": "3w33",
+      "百度网盘教程提取码": "n67x"
+    }
+  }
+}

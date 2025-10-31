@@ -1,0 +1,57 @@
+{
+  "title": "AE脚本-MASK遮罩自动跟踪 Mask Tracker Plus v1.0.4 + 视频教程",
+  "slug": "aejiao-ben-maskzhe-zhao-zi-dong-gen-zong-mask-tracker-plus-v1-0-4-shi-pin-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-05-19T14:04:00Z",
+  "source_url": "https://www.lookae.com/mask-tracker/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "Mask Tracker Plus 是一款强大的 After Effects 脚本，可将原本的遮罩跟踪功能升级为全面的平面跟踪工作站。它允许用户通过分析画面实现遮罩的自动跟踪，从而灵活地控制遮罩在动态画面中的运动，拓展了遮罩在视觉特效中的应用可能性。该脚本支持多个 AE 版本，并附带视频教程帮助用户快速上手。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/01/Mask-Tracker.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-375086741"
+    },
+    {
+      "name": "脚本下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1IYQ7-AB7qex9QRgqVsKoEg"
+    },
+    {
+      "name": "教程下载 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-375087155"
+    },
+    {
+      "name": "教程下载 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1vjauaC3i9uohEoB2TKVzHw"
+    }
+  ],
+  "other": {
+    "description": "AE中的MASK遮罩是非常强大和常用的工具，能够完整很多意想不到的效果，Mask Tracker Plus 这款脚本可以让AE的遮罩通过分析画面实现跟踪，能够自由灵活的变化MASK遮罩，能够让遮罩跟踪动态画面，实现更多效果；下载中附脚本文件和视频教程。",
+    "website": "http://aescripts.com/masktracker-plus/",
+    "categories": [
+      "AE插件",
+      "AE脚本",
+      "After Effects"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ],
+    "extract_codes": [
+      "q5e9",
+      "cpam"
+    ]
+  }
+}

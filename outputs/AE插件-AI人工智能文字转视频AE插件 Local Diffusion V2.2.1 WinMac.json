@@ -1,0 +1,47 @@
+{
+  "title": "AE插件-AI人工智能文字转视频AE插件 Local Diffusion V2.2.1 Win/Mac",
+  "slug": "aecha-jian-airen-gong-zhi-neng-wen-zi-zhuan-shi-pin-aecha-jian-local-diffusion-v2-2-1-win-mac",
+  "author": "大众脸",
+  "post_date": "2025-03-24 10:19",
+  "source_url": "https://www.lookae.com/local-diffusion-v2/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "Local Diffusion",
+    "人工智能"
+  ],
+  "content": "Local Diffusion 是一种基于Stable Diffusion的图像生成器和插值器，在本地运行并在AE中原生运行。只需在AE中文字描述出画面，插件即可智能生成图像视频。由于人工智能对性能要求很高，请在您的系统上进行测试。V2.2.1更新内容：兼容性更新。如果您使用同公司的多个插件，请将所有插件更新至最新版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/03/Local-Diffusion-2.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/512860373028.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1485278932-7d22ad?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/16e6cYdO33mnkPEvPNgP7sQ?pwd=r5s8"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/UyJc9iWYkPy"
+    }
+  ],
+  "other": {
+    "system_requirements": {
+      "windows": "NVidia GPU of the 2000 series or newer (>6GB VRAM)",
+      "mac": "M1/M2 Mac running Ventura with 32GB RAM or more"
+    },
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "r5s8"
+    }
+  }
+}

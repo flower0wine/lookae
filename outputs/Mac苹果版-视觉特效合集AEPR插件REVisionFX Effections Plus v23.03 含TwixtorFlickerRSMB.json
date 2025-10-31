@@ -1,0 +1,107 @@
+{
+  "title": "Mac苹果版-视觉特效合集AE/PR插件REVisionFX Effections Plus v23.03 含Twixtor/Flicker/RSMB",
+  "slug": "macping-guo-ban-shi-jue-te-xiao-he-ji-ae-prcha-jian-revisionfx-effections-plus-v23-03-han-twixtor-flicker-rsmb",
+  "author": "大众脸",
+  "post_date": "2024/06/27 11:29",
+  "source_url": "https://www.lookae.com/revisionfx-2303/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "MAC插件",
+    "Mac版",
+    "PR插件"
+  ],
+  "content": "REVisionFX 提供了一系列高质量的视频特效插件，涵盖视频降噪、超级慢动作无极变速、去闪烁、变形、调色和镜头修复等功能。该合集包含多个广受欢迎的插件，如 Twixtor（超慢动作变速）、Flicker（去闪烁）、RSMB（动态运动模糊）和 Flex（扭曲变形）等。适用于 Mac 系统的 Intel 和 Apple M 芯片设备，兼容 AE CC 2021 至 2025 及 PR CC 2021 至 2025。本版本为英文版，v23.03，提供完整插件功能。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/06/revisionfx2018.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2021, 2022, 2023, 2024, 2025; PR CC 2021, 2022, 2023, 2024, 2025",
+  "supported_os": "Mac 苹果电脑系统（支持 Intel 和 Apple M 芯片）",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1315026593-312948?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1mMUENI7W5LrHdPK5cNWTFg?pwd=t9qj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/2J8f5Pe2evQ"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      {
+        "name": "DE:Flicker v2.2.3",
+        "description": "视频去闪烁插件"
+      },
+      {
+        "name": "DE:Noise v3.6.0",
+        "description": "视频降噪插件"
+      },
+      {
+        "name": "FieldsKit v4.1.1",
+        "description": "动画反交错插件"
+      },
+      {
+        "name": "RE:Fill v3.0.1",
+        "description": "智能修补和填充插件"
+      },
+      {
+        "name": "RE:Flex v5.5.1",
+        "description": "扭曲变形/变脸插件"
+      },
+      {
+        "name": "RE:Grade v1.3.0",
+        "description": "调色插件"
+      },
+      {
+        "name": "RE:Lens v2.4.1",
+        "description": "鱼眼广角镜头畸变扭曲修复插件"
+      },
+      {
+        "name": "RE:Map v4.2.1",
+        "description": "UV贴图映射插件"
+      },
+      {
+        "name": "RE:Match v2.7.1",
+        "description": "色彩匹配插件"
+      },
+      {
+        "name": "RE:Zup v1.1.1",
+        "description": "无损放大插件（新插件）"
+      },
+      {
+        "name": "ReelSmart Motion Blur Pro v6.4.1",
+        "description": "RSMB动态运动模糊插件"
+      },
+      {
+        "name": "Shade/Shape v5.0.0",
+        "description": "形状阴影插件"
+      },
+      {
+        "name": "SmoothKit v4.0.2",
+        "description": "降噪磨皮美颜插件"
+      },
+      {
+        "name": "Twixtor Pro v7.5.5",
+        "description": "超级慢动作变速插件"
+      },
+      {
+        "name": "Video Gogh v4.0.0",
+        "description": "水彩油画插件"
+      }
+    ],
+    "related_links": [
+      {
+        "title": "Win版-视觉特效合集AE/PR插件REVisionFX Effections Plus v23.08 CE Win含Twixtor/Flicker/RSMB",
+        "url": "https://www.lookae.com/revisionfx-2308/"
+      }
+    ],
+    "note": "PV Feather v1.8.1 插件未包含在本次发布中。"
+  }
+}

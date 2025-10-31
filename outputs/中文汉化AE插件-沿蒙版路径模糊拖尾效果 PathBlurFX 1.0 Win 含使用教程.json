@@ -1,0 +1,40 @@
+{
+  "title": "中文汉化AE插件-沿蒙版路径模糊拖尾效果 PathBlurFX 1.0 Win 含使用教程",
+  "slug": "zhong-wen-yi-hua-aecha-jian-yan-meng-ban-lu-jing-mo-hu-tuo-wei-xiao-guo-pathblurfx-1-0-win-han-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025/10/04 10:49",
+  "source_url": "https://www.lookae.com/pathblurfx/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "中文汉化",
+    "拖尾效果"
+  ],
+  "content": "在 After Effects 中完全控制蒙版路径的模糊效果。Blur effect along the mask path with full control in After Effects。\n\n插件特征：\n- 从蒙版路径生成矢量场。\n- 启用类似于运动模糊或涂抹的效果。\n- 通过沿路径的位置控制模糊衰减。\n- 动态采样使样本密度保持一致。\n- 享受简单、简约的用户界面。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/10/PathBlurFX-.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/536548224258.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-8445373138-6e2955?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1B_gdd6AZsnZOPT7SRRktkw?pwd=5agt"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/JQK8sRP5xMh"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "5agt"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "AE_PR色彩匹配插件_RE:Match 1.1.1 (仅64位)（Z汉化）",
+  "slug": "ae-prse-cai-pi-pei-cha-jian-re-match-1-1-1-jin-64wei-zyi-hua",
+  "author": "大众脸",
+  "post_date": "2013/04/16 12:06",
+  "source_url": "https://www.lookae.com/rem111ae/",
+  "category": "aechajian",
+  "tags": [
+    "Premiere插件",
+    "中英文版"
+  ],
+  "content": "RE:Match 是一组视图颜色匹配插件，用于使不同镜头或相机拍摄的视频或电影在色彩上看起来如同使用相同相机和设置拍摄。它适用于多机位拍摄或单相机多次拍摄中因照明或相机设置不同导致的色彩差异，能够将一个序列的整体色彩外观匹配到另一个序列。对于3D立体影片，RE:Match 还能优化两个视点间的色彩一致性，并传播仅在一个视图中存在的区域的色彩变化。此外，该插件还能统一反射、镜面高光和镜头眩光等细节的视觉效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2013/04/REM111AE.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe After Effects CS5 – CS6",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "RE:Match 1.1.1 (仅64位)（Z汉化）",
+      "url": "https://www.400gb.com/file/19249181"
+    }
+  ],
+  "other": {
+    "official_demo": true,
+    "official_introduction_url": "http://www.revisionfx.com/products/rematch/overview/",
+    "localization": "中文汉化由Z汉化提供和免费分享"
+  }
+}

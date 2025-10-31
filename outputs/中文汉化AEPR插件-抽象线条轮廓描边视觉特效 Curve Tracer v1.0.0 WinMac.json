@@ -1,0 +1,55 @@
+{
+  "title": "中文汉化AE/PR插件-抽象线条轮廓描边视觉特效 Curve Tracer v1.0.0 Win/Mac",
+  "slug": "zhong-wen-yi-hua-ae-prcha-jian-chou-xiang-xian-tiao-lun-kuo-miao-bian-shi-jue-te-xiao-curve-tracer-v1-0-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2022/02/19 23:03",
+  "source_url": "https://www.lookae.com/curve-tracer/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "中文汉化"
+  ],
+  "content": "Curve Tracer 插件模拟艺术家用铅笔创作的过程，将输入图像的边缘/轮廓转换为样条曲线集合，并在向量空间中进行平滑与抽取，最终呈现为连续线段。后处理步骤添加颜色和轻微‘绽放’效果，增强真实感，为视频创作带来手绘风格的有机视觉体验。适用于从铅笔画到抽象素描的多种艺术表现。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/02/Curve-Tracer-.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/347637156528.mp4"
+  ],
+  "supported_versions": "After Effects: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6; Premiere: 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-545413116-03f2d4"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cP-fZkHP2LiXxNo9JLGMyA?pwd=e1mf"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/W5anrb2RkCU"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "ctfile": "6688",
+      "baidu": "e1mf"
+    },
+    "description_en": "From pencil drawings to abstract sketching – trace your footage with contours and bring the organic feel of hand drawn style to your creations.",
+    "categories_linked": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/mac-osx/",
+      "https://www.lookae.com/qitarjcj/premierezy/",
+      "https://www.lookae.com/qitarjcj/"
+    ],
+    "tags_linked": [
+      "https://www.lookae.com/tag/ae%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/pr%e6%8f%92%e4%bb%b6/",
+      "https://www.lookae.com/tag/%e4%b8%ad%e6%96%87%e6%b1%89%e5%8c%96/"
+    ]
+  }
+}

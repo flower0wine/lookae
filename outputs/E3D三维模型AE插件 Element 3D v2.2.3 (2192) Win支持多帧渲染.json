@@ -1,0 +1,43 @@
+{
+  "title": "E3D三维模型AE插件 Element 3D v2.2.3 (2192) Win支持多帧渲染",
+  "slug": "e3dsan-wei-mo-xing-aecha-jian-element-3d-v2-2-3-2192-winzhi-chi-duo-zheng-xuan-ran",
+  "author": "大众脸",
+  "post_date": "2022/11/09 13:01",
+  "source_url": "https://www.lookae.com/e3d-20222/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "E3D插件",
+    "Element 3D"
+  ],
+  "content": "Element 3D 是 After Effects 中一款强大的三维模型插件，采用 OpenGL 接口，支持显卡直接参与渲染，具备实时渲染（real time rendering）能力，可在制作过程中即时预览效果，大幅提升 CG 运算效率。相比传统 AE 3D 合成中繁琐的摄像机同步、光影匹配、3D 阴影、动态反射贴图等操作，Element 3D 允许特效师直接在 AE 内完成复杂 3D 后期合成，无需额外处理摄像机与光影迁移问题，并可与 AE 内置的 Camera Tracker（摄像机追踪）功能无缝配合。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/04/E3D-223.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015, 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "英文版 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-720824908-6aa982?p=4431"
+    },
+    {
+      "name": "英文版 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1xUPDGypZDIpgT7I8q23nrw?pwd=qswt"
+    },
+    {
+      "name": "英文版 - 阿里云盘",
+      "url": "https://www.aliyundrive.com/s/drUBg58NZLw"
+    },
+    {
+      "name": "中文汉化版",
+      "url": "https://www.lookae.com/e3d-zh/"
+    }
+  ],
+  "other": {
+    "access_password": "6688",
+    "baidu_extract_code": "qswt",
+    "multi_frame_rendering_info": "新版支持多帧渲染（MFR），可利用所有 CPU 核心并行渲染多个帧，提升依赖 CPU 的插件性能；同时 GPU 密集型插件如 Element 3D 不会阻塞 CPU 处理抠像、运动模糊等任务，整体渲染速度更快。此外，在 4K 显示器上使用 UI 时，增加了对更大缩放比例的支持。"
+  }
+}

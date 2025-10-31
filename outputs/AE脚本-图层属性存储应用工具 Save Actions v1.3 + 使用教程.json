@@ -1,0 +1,53 @@
+{
+  "title": "AE脚本-图层属性存储应用工具 Save Actions v1.3 + 使用教程",
+  "slug": "aejiao-ben-tu-ceng-shu-xing-cun-chu-ying-yong-gong-ju-save-actions-v1-3-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/11/13 20:58",
+  "source_url": "https://www.lookae.com/save-actions/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "这是一款在After Effects中保存和调用操作的工具，可用于存储图层，能通过实时预览一般或有选择地保存图层的属性。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/11/Save-Actions.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/337299771566.mp4"
+  ],
+  "supported_versions": "AE 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520621382-34d960"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qE1frWIIq3PRMnHqcuB6KA"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/YRhxYahY4y2"
+    }
+  ],
+  "other": {
+    "分类": [
+      {
+        "名称": "AE脚本",
+        "链接": "https://www.lookae.com/after-effects/aescripts/"
+      },
+      {
+        "名称": "After Effects",
+        "链接": "https://www.lookae.com/after-effects/"
+      }
+    ],
+    "脚本特性": [
+      "使用此工具，您可以轻松保存任何图层。只需选择您的图层，并在检查图层的存储属性后，使用实时预览保存该图层。",
+      "可以存储图层的属性。",
+      "应用时，如果选择了一个图层，则已保存图层的属性将应用于所选图层，如果未选择任何图层，则在当前合成中创建具有其所有属性的已保存图层。",
+      "您可以备份您保存的项目并在以后使用它们。",
+      "附带一个免费的附加包，其中包含数十个现成的图层和预设。"
+    ]
+  }
+}

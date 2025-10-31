@@ -1,0 +1,50 @@
+{
+  "title": "AE/Pr插件：镜头模糊虚焦插件 Fast Camera Lens Blur v4.1.0 Win版",
+  "slug": "ae-prcha-jian-jing-tou-mo-hu-xu-jiao-cha-jian-fast-camera-lens-blur-v4-1-0-winban",
+  "author": "大众脸",
+  "post_date": "2019-01-24 21:44",
+  "source_url": "https://www.lookae.com/lens-blur-41/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "插件可制作逼真的摄像机镜头模糊效果，渲染速度更快！多种参数可控制。此外，它还可以渲染通常通过组合几层模糊来表示的辉光。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Fast-Camera-Lens-Blur.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50213974004.mp4?_=1"
+  ],
+  "supported_versions": "After Effects CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CC 2019; Premiere CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CC 2019",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-332725846"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1SB5CPi1lavC_OSdgWmhF2g"
+    }
+  ],
+  "other": {
+    "update_log": [
+      {
+        "version": "4.1.0",
+        "add": [
+          "Add octagonal shape and 12-gon shape.",
+          "Add rendering precision (Auto / 32 bit float / 32 bit int / 64 bit double)."
+        ],
+        "fix": [
+          "Fixed the problem that the picture was broken at 32 bit composition."
+        ],
+        "improvement": [
+          "So far, when the radius is small, the problem that the gain did not work much has been corrected.",
+          "Legacy precision considering compatibility with the past was added."
+        ]
+      }
+    ],
+    "mac_download_note": "AE/Pr插件：镜头模糊虚焦插件 Fast Camera Lens Blur v4.1.0 Win版",
+    "official_website": "https://aescripts.com/fast-camera-lens-blur/"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "AE插件/PR插件-全球首个人工智能人脸自动识别马赛克模糊跟踪合成特效 Blace – AI Face Detection v1.0.0 Win版",
+  "slug": "aecha-jian-prcha-jian-quan-qiu-shou-ge-ren-gong-zhi-neng-ren-lian-zi-dong-shi-bie-ma-sai-ke-mo-hu-gen-zong-he-cheng-te-xiao-blace-ai-face-detection-v1-0-0-winban",
+  "author": "大众脸",
+  "post_date": "2020/11/05 13:24",
+  "source_url": "https://www.lookae.com/ae-blace/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "这是一款适用于After Effects和Premiere Pro的面部检测和基于人工智能的马赛克模糊插件，具有易于使用且基于AI的检测、可控制检测区域并排除检测等特征。同时说明了其兼容性，以及基于AI的解决方案可能产生不可预测结果的免责声明。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/Blace-AI-Face-Detection.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "CPU版本在AE 2020和PR 2020上运行，GPU版本在AE 2019和PR 2019以及更高版本上运行",
+  "supported_os": "仅支持Windows系统",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://089u.com/file/680462-469157270"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1_1vF4GvIsONp4t7c8iB2kw",
+      "extra": "提取码：dguj"
+    }
+  ],
+  "other": {
+    "分类": [
+      "AE插件",
+      "After Effects",
+      "Premiere",
+      "软件/插件"
+    ],
+    "插件特征": [
+      "易于使用且基于AI的检测",
+      "控制检测区域并排除检测",
+      "包括几种款式",
+      "自定义检测尺寸",
+      "Premiere Pro支持：在具有相同功能集和性能的Premiere Pro上运行（仅限制遮罩工作流）",
+      "GPU加速：开普勒架构和更新版本的Nvidia卡可用于提高检测速度",
+      "全面的8/16/32位支持",
+      "使用检测来控制其他效果（例如自定义模糊）",
+      "支持Win系统：After Effects 2020, CC 2019 和 Premiere 2020"
+    ],
+    "GPU要求": "需要基于Nvidia Turing，Volta，Xavier，Pascal，Maxwell或Kepler的GPU，且着色器模型为3.0或更高版本，驱动程序版本为r440或更高才能使用GPU版本",
+    "免责声明": "基于AI的解决方案可以胜过手动方法，但也会产生不可预测的结果。该检测框架经过了广泛的测试，但在某些情况下可能会失败，例如镜头中的人脸遗失或错误地检测到外观相似的物体。购买前请先测试该插件，以确定其是否适用于您的用例。特别是如果使用Blace进行身份保护，则必须验证其检测结果。"
+  }
+}

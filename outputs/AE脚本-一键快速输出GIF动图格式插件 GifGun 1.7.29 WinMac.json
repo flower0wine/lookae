@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-一键快速输出GIF动图格式插件 GifGun 1.7.29 Win/Mac",
+  "slug": "aejiao-ben-yi-jian-kuai-su-shu-chu-gifdong-tu-ge-shi-cha-jian-gifgun-1-7-29-win-mac",
+  "author": "大众脸",
+  "post_date": "2023-04-18T09:26:00Z",
+  "source_url": "https://www.lookae.com/gifgun-1729/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "GifGun",
+    "GIF插件"
+  ],
+  "content": "GifGun 是一款专为 After Effects 设计的脚本插件，可一键快速输出高质量的 GIF 动图。自 AE CS5 版本起取消了原生导出 GIF 的功能，而 GifGun 成功弥补了这一缺失。该插件支持在 AE 内直接生成适用于 Dribbble、Behance 等平台的动画 GIF，操作简便，效果出色。用户可自定义设置帧率、文件大小、颜色优化等参数，满足不同场景需求。目前版本为 1.7.29，已修复与 AE 23.2+ 的 Alpha 通道预设兼容性问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GifGun.jpg",
+    "http://d1ro2iqpjs8lwo.cloudfront.net/media/wysiwyg/ns/GifGun/0_mainInterface_.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/33284810.mp4"
+  ],
+  "supported_versions": "After Effects 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-840996786-58f464?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1stX3lxlMnQd-2rgL5CRAEA?pwd=o9um"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/qdw59WsANCW"
+    }
+  ],
+  "other": {
+    "update_notes": "修复了 AE 23.2 + 的 Alpha 通道预设",
+    "related_tags": [
+      "AE脚本",
+      "GifGun",
+      "GIF插件"
+    ],
+    "categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

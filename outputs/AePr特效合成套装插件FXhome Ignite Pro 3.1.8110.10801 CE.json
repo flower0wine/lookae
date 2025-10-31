@@ -1,0 +1,58 @@
+{
+  "title": "Ae/Pr特效合成套装插件FXhome Ignite Pro 3.1.8110.10801 CE",
+  "slug": "ae-prte-xiao-he-cheng-tao-zhuang-cha-jian-fxhome-ignite-pro-3-1-8110-10801-ce",
+  "author": "大众脸",
+  "post_date": "2018/09/27 10:42",
+  "source_url": "https://www.lookae.com/fxhome-318110/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "FXHOME 公司出品的 HitFilm 插件套装，可在 Adobe After Effects 和 Premiere Pro 中直接使用 HitFilm 的视觉特效。该套装包含约173款高质量插件，涵盖调色、抠像、变形扭曲、粒子系统、光效、合成等多种功能，支持 GPU 加速，适用于电影级视觉效果制作。插件中包含经典的 Gunfire 枪火效果（原 Fxhome MuzzlePlug 插件），现已整合至 HitFilm – Particles & Simulation 模块中。套装提供超过130种特效，包括3D枪火、失真扭曲、3D挤压、滚动快门校正、时间操控等；支持创建复杂的有机粒子系统；具备专业级色度键控与溢出抑制；提供可高度自定义的镜头耀斑与体积光效；并包含电影调色与视觉增强工具。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/04/FXhome-Ignite-Pro-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 - CC 2018, Premiere Pro CS6 - CC 2018",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-312048651"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1FhEotbfIyxaSGhCbxqAZGQ"
+    }
+  ],
+  "other": {
+    "official_website": "http://hitfilm.com/ignite-pro",
+    "plugin_count": {
+      "total": 158,
+      "ae_supported": 154,
+      "pr_supported": 143
+    },
+    "registration_info": "插件由Team VR团队注册，一键安装即可使用",
+    "included_categories": [
+      "360° video",
+      "Blurs",
+      "Channel",
+      "Color correction",
+      "Color grading",
+      "Stylize",
+      "Temporal",
+      "Distort",
+      "Generate",
+      "Grunge",
+      "Scene",
+      "Gradients & fills",
+      "Keying",
+      "Lights & flares",
+      "Matte enhancement",
+      "Particles & simulation",
+      "Video clean-up",
+      "Warp"
+    ]
+  }
+}

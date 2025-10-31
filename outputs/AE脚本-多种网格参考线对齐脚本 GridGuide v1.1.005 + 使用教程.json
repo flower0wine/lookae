@@ -1,0 +1,42 @@
+{
+  "title": "AE脚本-多种网格参考线对齐脚本 GridGuide v1.1.005 + 使用教程",
+  "slug": "aejiao-ben-duo-chong-wang-ge-can-kao-xian-dui-qi-jiao-ben-gridguide-v1-1-005-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2021/03/07 10:46",
+  "source_url": "https://www.lookae.com/gridguide-11005/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "GridGuide 脚本可生成多种间隔、多种方向的网格参考线，有效弥补 AE 内置参考线和网格功能的局限性，提升排版参考与制作效率。支持自动布局、可吸附的参考线及可编辑的形状图层参考线，适用于动态设计场景。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/GridGuide2.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 5 – CC 2019, 2020",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://089u.com/f/680462-484733844-97783b"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1aU1sD6Aju_aBIRVAqx7HFQ"
+    }
+  ],
+  "other": {
+    "additional_info": "含脚本使用视频教程，可供学习。支持启用‘单独尺寸’的图层，修复了缩放无限网格层、Mac OS Catalina 兼容性等问题。",
+    "update_notes": [
+      "修复了缩放无限网格层的问题",
+      "增加了对启用“单独尺寸”的图层的支持",
+      "修复了Mac OS Catalina的兼容性问题",
+      "修复了在创建新指南时删除现有指南的错误"
+    ],
+    "related_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

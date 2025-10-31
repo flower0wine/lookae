@@ -1,0 +1,43 @@
+{
+  "title": "AE脚本-路径边框显示渲染输出 Cyclops v3.0.8+使用教程",
+  "slug": "aejiao-ben-lu-jing-bian-kuang-xian-shi-xuan-ran-shu-chu-cyclops-v3-0-8-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-05-07T12:51:00Z",
+  "source_url": "https://www.lookae.com/cyclops-308/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Cyclops是After Effects的一个扩展脚本，能够快速轻松地显示动画图层的空图层、运动路径和图层边界框，并支持输出渲染。该功能在制作演示动画时非常实用，可避免屏幕录制软件无法准确捕获的问题，同时克服手动截图拼接效率低、易出错（如漏帧或重复帧）的缺点。Cyclops是实现动画像素级精准捕捉并保留额外视觉信息的唯一解决方案。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2025/04/Cyclops-307.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/478480349831.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1503606155-18a6b3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1qvALgLj2z44v7ApBYeuyBQ?pwd=tamg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/XkeT3GwYKHm"
+    }
+  ],
+  "other": {
+    "update_notes": "v3.0.7更新内容：[错误修复] 非英语 After Effects 安装的 Expression 支持。",
+    "tutorial_link": "https://www.bilibili.com/video/BV1ny4y1H7aV?p=2",
+    "tutorial_language": "中文字幕",
+    "related_categories": [
+      "AE脚本",
+      "After Effects"
+    ]
+  }
+}

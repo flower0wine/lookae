@@ -1,0 +1,80 @@
+{
+  "title": "红巨人粒子特效套装AE/PR插件Red Giant Trapcode Suite 15.1.5 Win/Mac 支持 2020",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-ae-prcha-jian-red-giant-trapcode-suite-15-1-5-win-mac-zhi-chi-2020",
+  "author": "大众脸",
+  "post_date": "2019/10/25 11:25",
+  "source_url": "https://www.lookae.com/trapcode-1515/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "Red Giant",
+    "trapcode",
+    "Win/Mac"
+  ],
+  "content": "著名而强大的红巨人粒子特效套装插件 Red Giant Trapcode Suite 更新，在v15中插件 Particular 4、Form 4、Mir 3 均为大更新，粒子插件添加了流体动力学，增加更多预设。该套装包含多个专业视觉特效插件，适用于创建粒子、光线、3D几何图形、音频驱动动画等效果，部分插件支持 Premiere Pro。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Trapcode-15.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/212168328083.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CC 2014, CC 2015, CC 2017, CC 2018, CC 2019; Adobe Premiere Pro CC 2014, CC 2015, CC 2017, CC 2018, CC 2019（部分插件支持）",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Win 版 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-404166880"
+    },
+    {
+      "name": "Win 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1Qzy69fyVYYAtwc6doA3Vag"
+    },
+    {
+      "name": "Win 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Win_Full_15.1.5.zip"
+    },
+    {
+      "name": "Mac 版 - 城通网盘下载",
+      "url": "https://tc5.us/file/680462-404166690"
+    },
+    {
+      "name": "Mac 版 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1YJ1CKnf85uFX3tcdW_Wo4Q"
+    },
+    {
+      "name": "Mac 版 - 官网下载",
+      "url": "https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/archive/TCSuite_Mac_Full_15.1.5.zip"
+    }
+  ],
+  "other": {
+    "included_plugins": [
+      "Trapcode Tao 1.2.3 - 三维几何图形插件",
+      "Trapcode Particular 4.1 - 超炫粒子插件",
+      "Trapcode Form 4.1 - 三维空间粒子插件",
+      "Trapcode Mir 3.0 - 三维图形插件",
+      "Trapcode Shine 2.0.4 - 放射光插件",
+      "Trapcode Lux 1.4.1 - 聚光灯插件",
+      "Trapcode 3D Stroke 2.7.3 - 3D路径描边插件",
+      "Trapcode Echospace 1.1.10 - 三维立体拖尾延迟插件",
+      "Trapcode Starglow 1.7.4 - 星光插件",
+      "Trapcode Sound Keys 1.4.1 - 音频关键帧插件",
+      "Trapcode Horizon 1.1.11 - 无限场景（天空）插件"
+    ],
+    "update_notes": "Trapcode Suite 15.1.5 更新内容：支持兼容 Adobe 2020",
+    "registration_info": {
+      "note": "因为插件一个注册号在一个局域网只能用在一台电脑上，否则会冲突注册失效！LookAE独家提供5个序列号，解决注册冲突的烦恼！",
+      "serial_numbers": [
+        "TCBK2245868172939255",
+        "TCBK2245875777348331",
+        "TCBF2005891888369252",
+        "TCBF2005849176686825",
+        "TCBF2005902179164355"
+      ],
+      "registration_method": "默认安装插件程序，然后在安装结束界面上点击 Enter Licensing Info…，在弹出窗口中输入序列号，点击 Submit，点击确定，最后关掉界面即可完成所有插件注册。如无法在安装程序中注册，可在AE中使用插件时直接在插件内注册。"
+    },
+    "official_website": "https://www.redgiant.com/products/trapcode-suite/",
+    "sponsor_link": "https://www.lookae.com/sponsor/",
+    "taobao_store": "https://lookae.taobao.com/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Ae/Pr视觉特效+转场BCC插件包 2019 v12.5.0 Win版",
+  "slug": "ae-prshi-jue-te-xiao-zhuan-chang-bcccha-jian-bao-2019-v12-5-0-winban",
+  "author": "大众脸",
+  "post_date": "2019-06-16T20:20:00",
+  "source_url": "https://www.lookae.com/bcc-125/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Boris Continuum Complete 2019 是一款功能强大的视觉特效与视频转场插件包，适用于 Adobe After Effects 和 Premiere Pro。该插件提供超过百种特效效果，涵盖3D字幕、3D粒子、老电影风格、光线、画中画、镜头光晕、烟雾、火等，同时具备调色、键控/抠像、遮罩、跟踪、发光等专业工具。支持Open GL和双CPU加速，全面优化合成与处理性能。2019版本引入了Particle Illusion幻影粒子插件的重生、Title Studio文字着色器、Mocha Essentials工作区及多项GPU加速功能，显著提升运动图形制作效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/02/BCC-2019-AE.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/213739335488.mp4?_=1"
+  ],
+  "supported_versions": "Adobe After Effects CS6 – CC 2019, Premiere Pro CS6 – CC 2019",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-383152868"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1gO06iHylJR1rbcPvnJ_RyA"
+    }
+  ],
+  "other": {
+    "plugin_website": "https://borisfx.com/products/continuum/",
+    "update_notes": "BCC 2019主要功能包括 Particle Illusion 幻影粒子插件的重生，新的 Title Studio 文字图片处理着色器（如发光、射线、模糊），Mocha Essentials 工作区新增磁性边缘捕捉、几何形状等4个新工具，实现更快的跟踪和遮罩，以及 point-driven 参数跟踪与整体 GPU 加速。",
+    "installation_guide": "1. 卸载旧版本，安装插件程序，安装时选择 No License；2. 将注册补丁文件夹中的文件复制到 C:\\Program Files\\BorisFX\\ContinuumAE\\12\\lib 目录下完成替换注册；3. 完成安装后打开软件即可使用插件。",
+    "download_password": "au5p"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Mac版：FCPX/PR/AE 视频稳定防抖插件 Lock and Load X v1.5（附安装教程）",
+  "slug": "macban-fcpx-pr-ae-shi-pin-wen-ding-fang-dou-cha-jian-lock-and-load-x-v1-5-fu-an-zhuang-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2014/10/24 03:25",
+  "source_url": "https://www.lookae.com/lockload15/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "FCP7插件",
+    "FCPX",
+    "FCPX插件",
+    "MAC",
+    "PR插件"
+  ],
+  "content": "这是一款针对苹果电脑 MAC OSX 系统的强大视频稳定防抖插件，比PR和FCPX自带的防抖插件功能更强大，效果更突出，运行速度快。操作简单，无需设置跟踪点，只需分析整个镜头即可得到效果。在复杂镜头或背景颜色差异大的场景中效果佳，可进行区域分析跟踪稳定。插件针对FCPX和PR/AE做了优化，跟踪更准，稳定更强，减少画面模糊。特别针对CMOS cameras和DSLR cameras（如5D2，5D3，7D等）拍摄的视频，能优化处理快门不足和机器本身引起的果冻及像素扭曲问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/10/Lock-Load-X.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "v1.5",
+  "supported_os": "MAC OSX",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://www.400gb.com/file/76697425"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1mgwXGxy"
+    }
+  ],
+  "other": {
+    "supported_software": [
+      "Final Cut Pro 7",
+      "Final Cut Pro X",
+      "Motion 4",
+      "Final Cut Express",
+      "After Effects CS5-CS6, CC-CC2014",
+      "Premiere Pro CS5.5-CS6, CC-CC2014"
+    ],
+    "note": "插件原支持AE/PR到CS6，作者独家制作了支持CC和CC2014的方案，文档内含详细安装教程。"
+  }
+}

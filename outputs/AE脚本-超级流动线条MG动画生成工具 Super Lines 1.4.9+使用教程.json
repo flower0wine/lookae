@@ -1,0 +1,49 @@
+{
+  "title": "AE脚本-超级流动线条MG动画生成工具 Super Lines 1.4.9+使用教程",
+  "slug": "aejiao-ben-chao-ji-liu-dong-xian-tiao-mgdong-hua-sheng-cheng-gong-ju-super-lines-1-4-9-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2024/09/24 15:03",
+  "source_url": "https://www.lookae.com/super-lines-149/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Super Lines",
+    "线条动画"
+  ],
+  "content": "通过脚本可以在AE中快速创建MG动画类型的流畅线条动画。包含卡通和抽象两种不同风格，支持修改形态和动画控制，便于用户轻松创建和实验各种线条动画效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/12/Super-Lines.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50056514462.mp4"
+  ],
+  "supported_versions": "AE 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1374134422-c9d766?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1vhEM-O8yC1pmezbl5emPmw?pwd=rsrp"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/7meUCqohrpV"
+    },
+    {
+      "name": "教程 - 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-231226150"
+    },
+    {
+      "name": "教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1pLMb8a3"
+    }
+  ],
+  "other": {
+    "update_notes": "v1.4.9更新内容：修复抽象风格中的“应用于位置”功能",
+    "access_password": "6688"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "重大更新：红巨人调色插件合集 Red Giant Color Suite 11.1.0（Mac/Win）",
+  "slug": "zhong-da-geng-xin-hong-ju-ren-diao-se-cha-jian-he-ji-red-giant-color-suite-11-1-0-mac-win",
+  "author": "大众脸",
+  "post_date": "2014/04/24 23:28",
+  "source_url": "https://www.lookae.com/rgcs1110/",
+  "category": "aechajian",
+  "tags": [
+    "32/64位",
+    "AE插件",
+    "AVID插件",
+    "FCPX",
+    "FCPX插件",
+    "Mac&Win",
+    "Photoshop插件",
+    "PR插件",
+    "VEGAS插件"
+  ],
+  "content": "Red Giant Color Suite 是一套广受后期制作人员喜爱的调色插件合集，操作简单快速。该套装包含六款插件工具，涵盖降噪、润肤、高级调色和快速调色等功能，帮助用户高效完成色彩校正、画面润饰与风格化处理。其中 Magic Bullet Looks v2.5.0 是本次更新的重点，带来了界面优化、性能提升、更便捷的预设预览与管理、新增 LUT 工具和 S 曲线控制等功能，显著增强了调色体验与效率。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2014/04/Color-Suite-11.1.0.jpg"
+  ],
+  "video_urls": [
+    "https://www.400gb.com/file/63191184"
+  ],
+  "supported_versions": "Adobe After Effects CC, CS6, CS5.5, CS5, CS4, CS3; Adobe Premiere Pro CC, CS6, CS5.5, CS5, CS4, CS3; Adobe Photoshop CC, CS6, CS5.5, CS5, CS4, CS3; Sony Vegas Pro 10, 11, 12; Apple Final Cut Pro X (10), 7; Apple Motion 3.0.2, 4, 5; Avid Media Composer 5.5, 6.0, 6.5, 7.0",
+  "supported_os": "Mac, Windows",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/color/CSuite_Win_Full.zip"
+    },
+    {
+      "name": "MacOSX 版本下载",
+      "url": "http://cdn.redgiant.com/redgiant/products/singlesuites/color/CSuite_Mac_Full.zip"
+    },
+    {
+      "name": "注册机+序列号下载",
+      "url": "https://www.400gb.com/file/62599204"
+    },
+    {
+      "name": "插件中文汉化补丁下载",
+      "url": "https://www.400gb.com/file/62599269"
+    }
+  ],
+  "other": {
+    "plugin_list": [
+      "Colorista II v1.0.9 调色师2",
+      "Cosmo v1.0.2 润肤插件",
+      "Denoiser II v1.4.2 降噪插件2",
+      "LUT Buddy v1.0.1 LUT颜色工具",
+      "Magic Bullet Looks v2.5.0 调色插件（多预设）（重大更新）",
+      "Mojo v1.2.4 快速调色插件"
+    ],
+    "magic_bullet_looks_updates": [
+      "界面小改动",
+      "速度提高约20%以上",
+      "预设预览更方便（鼠标放置在预设上即可看到效果）",
+      "新增 LUT 工具（允许自定义添加预设，含12种官方预设）",
+      "新增S曲线工具（操控方便，细节保留更多）",
+      "预设保存和分享更方便",
+      "新增一键清除所有效果按钮"
+    ],
+    "chinese_patch_notes": "汉化补丁均为Win 64位版本，暂无32位版本。Mac 苹果系统由于原因特殊暂不分享汉化补丁",
+    "donation_links": {
+      "alipay": "https://me.alipay.com/lookae",
+      "taobao": "https://lookae.taobao.com/"
+    },
+    "official_product_page": "http://www.redgiant.com/products/all/color-suite/"
+  }
+}

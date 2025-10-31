@@ -1,0 +1,66 @@
+{
+  "title": "30组 3D LUTs专业电影调色预设 Rocket Rooster Cinema Colour II",
+  "slug": "30zu-3d-lutszhuan-ye-dian-ying-diao-se-yu-she-rocket-rooster-cinema-colour-ii",
+  "author": "大众脸",
+  "post_date": "2015/12/19 00:01",
+  "source_url": "https://www.lookae.com/30cinema/",
+  "category": "aechajian",
+  "tags": [
+    "3D LUTS",
+    "FCPX",
+    "LUT",
+    "LUTS",
+    "Win/Mac",
+    "调色预设"
+  ],
+  "content": "这是一套专业的电影调色预设资源，包含30组3D LUTs，支持多种格式(.cube、.3dl、.mga、.icc)，能够快速实现画面调色，具有丰富的动态色彩，让画面呈现电影胶片质感。该预设基于Super 35和Super 16胶片库存，模拟了流行的胶片效果，包含LOG和Rec709版本，还有额外的20个创意分级/外观。LUT能够快速应用到后期制作流程中，为最终调色设定基础。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/12/30Cinema.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "http://lookae.ctfile.com/file/138827804"
+    },
+    {
+      "name": "百度云网盘下载",
+      "url": "https://pan.baidu.com/s/1nu3Hdjz"
+    }
+  ],
+  "other": {
+    "official_website": "http://www.rocketrooster.ninja/cinema-colour-ii.html",
+    "supported_software": [
+      "DaVinci Resolve (Full & Lite)",
+      "Adobe Speedgrade",
+      "Adobe Premiere CS 4 – CC 2015",
+      "Adobe After Effects CS4 – CC 2015",
+      "Adobe Photoshop CS4 – CC 2015",
+      "Final Cut Pro X",
+      "Avid MC 7",
+      "Shake",
+      "Vegas",
+      "Edius",
+      "Pandora Revolution/Pixi",
+      "CineForm Studio Premium",
+      "Nuke",
+      "SCRATCH",
+      "Film Master",
+      "Quantel Pablo",
+      "BaseLight",
+      "Motion 5"
+    ],
+    "related_links": [
+      {
+        "name": "【精品】几千种专业LUTs电影级调色预设 LookAE – LUTS（Mac/Win）",
+        "url": "https://www.lookae.com/lookaeluts/"
+      },
+      {
+        "name": "【大众脸官方淘宝店】",
+        "url": "https://lookae.taobao.com/"
+      }
+    ]
+  }
+}

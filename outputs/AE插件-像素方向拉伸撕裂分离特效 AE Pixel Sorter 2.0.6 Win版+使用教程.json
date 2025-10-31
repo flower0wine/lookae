@@ -1,0 +1,50 @@
+{
+  "title": "AE插件-像素方向拉伸撕裂分离特效 AE Pixel Sorter 2.0.6 Win版+使用教程",
+  "slug": "aecha-jian-xiang-su-fang-xiang-la-shen-si-lie-fen-chi-te-xiao-ae-pixel-sorter-2-0-6-winban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2019-10-18T12:35:00Z",
+  "source_url": "https://www.lookae.com/pixel-sorter-206/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "AE Pixel Sorter 是一款专为 After Effects 设计的像素排序故障效果插件，可实现视频画面的像素分离、拉伸、撕裂与动态变形。该插件适用于广播电视、现场演出、音乐视频、游戏动画、摄影及服装设计等领域。新版 v2.0.6 重构了核心算法，提升渲染速度与操作直观性，并新增渐变、旋转、块大小、随机长度和羽化等高级功能。支持多种 AE 版本，提供完整使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/10/Pixel-Sorter.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://tc5.us/file/680462-403066541"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1r2h_t8uzsoM6UlJHsagW6w&shfl=sharepset"
+    }
+  ],
+  "other": {
+    "plugin_name": "AE Pixel Sorter",
+    "version": "2.0.6",
+    "developer": "gabgren 2000",
+    "official_website": "https://aescripts.com/ae-pixel-sorter/",
+    "update_notes": [
+      "修复了与网络用户相关的许可问题",
+      "插件现在位于“效果”菜单中的“gabgren 2000”类别下",
+      "“Cycle-循环”现在是一个无限角度的用户界面，更容易制作动画",
+      "优化模糊速度"
+    ],
+    "usage_categories": [
+      "Broadcast TV",
+      "Live performances",
+      "VJs",
+      "Music Videos",
+      "Video Games",
+      "Photography",
+      "Apparel"
+    ],
+    "description": "插件可以在AE中选择视频画面进行像素分离拉扯效果，很适用的一个插件。V2 版本重新编写了核心算法，使用和渲染更快更直观；新增渐变，旋转，块大小，随机长度，羽化等功能。"
+  }
+}

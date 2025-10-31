@@ -1,0 +1,47 @@
+{
+  "title": "Ae/Pr高级调色插件 Synthetic Aperture Color Finesse Pl 3.1.0 CE 完整版+使用教程",
+  "slug": "ae-prgao-ji-diao-se-cha-jian-synthetic-aperture-color-finesse-pl-3-1-0-ce-wan-zheng-ban-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2018-09-12T10:45:00Z",
+  "source_url": "https://www.lookae.com/finesse31/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Color Finesse 是一款专为 Adobe After Effects 和 Premiere Pro 设计的高端调色插件，支持对图像进行局部精细调色。该插件采用32位浮点颜色空间，具备高分辨率与宽容度，支持暗调、中间调、高光的独立修正，并可在 HSL、RGB、CMY 及 YC6CR 颜色空间中操作。其功能包括自动颜色比较、黑白灰平衡、自定义校正曲线、6个间色修正通道，以及强大的预览工具（如‘摇动’和‘放大’）和蒙版/Alpha通道预览模式。支持外部监视器输出，提升专业工作流程效率。插件可直接集成于主应用程序中，避免频繁格式转换带来的图像失真，确保色彩处理的精确性与图像质量。适用于 Windows 系统下的 After Effects CS5 至 CC 2018 以及 Premiere Pro CS5 至 CC 2018。官方提供完整版安装包及配套使用教程。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/10/Color-Finesse-Pl-.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS5 - CC 2018, Premiere Pro CS5 - CC 2018",
+  "supported_os": "Windows",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-309477237"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1d1-tE47xyko1RJuvKA4tnQ"
+    }
+  ],
+  "other": {
+    "plugin_description": "The Color Finesse 3 PI plug-in works directly in Premiere Pro. You get simple access to color correction directly in the host application as well as via the specialized Color Finesse user interface.",
+    "installation_note": "安装前请删除AE插件目录中自带的Synthetic Aperture文件夹，再运行完整版安装程序。若需使用LE精简版，可使用以下序列号注册：name: LookAE.com, key: Cflep30-102068-863554-709076-512437-6717",
+    "tutorial_download": "https://www.lookae.com/ssa-cf3t/",
+    "official_website": "http://www.synthetic-ap.com/products/cf/index.html",
+    "features": [
+      "32位浮点颜色空间",
+      "局部调色能力",
+      "支持多种颜色空间（HSL, RGB, CMY, YC6CR）",
+      "自动颜色比较与灰平衡",
+      "自定义修正曲线",
+      "6个间色修正通道",
+      "‘摇动’与‘放大’预览工具",
+      "蒙版与ALPHA通道预览模式",
+      "外部监视器支持",
+      "支持LUT",
+      "减少图像失真与格式转换误差"
+    ]
+  }
+}

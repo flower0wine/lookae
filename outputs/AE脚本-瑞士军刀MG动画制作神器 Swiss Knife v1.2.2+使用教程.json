@@ -1,0 +1,56 @@
+{
+  "title": "AE脚本-瑞士军刀MG动画制作神器 Swiss Knife v1.2.2+使用教程",
+  "slug": "aejiao-ben-rui-shi-jun-dao-mgdong-hua-zhi-zuo-shen-qi-swiss-knife-v1-2-2-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2025-04-03T10:06:00Z",
+  "source_url": "https://www.lookae.com/swiss-knife-122/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "Swiss Knife"
+  ],
+  "content": "Swiss Knife脚本（又称瑞士刀）是一款功能强大的AE脚本，提供20多种工具，支持组合生成无限动画形式，适用于角色动画、视频编辑、模板设计、UI/UX动画等多种项目类型。其四大功能组包括：视差组（实现2D/3D视差效果）、交互功能组（支持动画依赖与联动）、占位符组（优化图层管理与预合成流程）、辅助组（提供烘焙、重排、调整大小等实用功能）。版本v1.2.2修复了占位符预合时的父级连接问题，并解决了启动空错误。兼容Windows和Mac系统，支持AE 2025至CC 2015多个版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/10/Swiss-Knife.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/282662997287.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015",
+  "supported_os": "Win, Mac",
+  "download_links": [
+    {
+      "name": "脚本 - 城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1490036738-9ca117?p=4431"
+    },
+    {
+      "name": "脚本 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1o2Q8G14biREM7tEbDyWUQA?pwd=v7pk"
+    },
+    {
+      "name": "脚本 - 阿里云盘",
+      "url": "https://www.alipan.com/s/3amLTUVgvE7"
+    },
+    {
+      "name": "教程 - 城通网盘下载",
+      "url": "https://089u.com/file/680462-467053752"
+    },
+    {
+      "name": "教程 - 百度网盘下载",
+      "url": "https://pan.baidu.com/s/1y-FSZzYpycn-GAuyWRPnlw"
+    }
+  ],
+  "other": {
+    "post_date_raw": "2025/04/03 10:06",
+    "categories_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/mg%e5%8a%a8%e7%94%bb/",
+      "https://www.lookae.com/tag/swiss-knife/"
+    ]
+  }
+}

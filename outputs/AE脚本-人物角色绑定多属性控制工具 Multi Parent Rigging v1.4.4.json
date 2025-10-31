@@ -1,0 +1,48 @@
+{
+  "title": "AE脚本-人物角色绑定多属性控制工具 Multi Parent Rigging v1.4.4",
+  "slug": "aejiao-ben-ren-wu-jiao-se-bang-ding-duo-shu-xing-kong-zhi-gong-ju-multi-parent-rigging-v1-4-4",
+  "author": "大众脸",
+  "post_date": "2021/11/13 18:19",
+  "source_url": "https://www.lookae.com/rigging-144/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Multi Parent Rigging是AE软件一款模块化动画脚本，允许您创建连接到任何其他图层的其他Parented变换属性（位置，旋转，缩放，不透明度）。使用全局滑块控制高级设置中的所有属性或单个滑块，您可以将每个属性平滑地添加到另一个层的属性，无论其是2D，3D，隐藏，锁定，父子级。它易于设置，易于使用，并允许您在不同时间或同时组合来自不同层或不同层的不同父级属性。v1.4.4更新内容：修复了人们收到更新错误的问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/05/MultiParentRigging.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url62.ctfile.com/f/680462-520620510-43c4b4"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1Yyy1mdg3D5rk6R20otXsSg"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/814QipCSe2G"
+    }
+  ],
+  "other": {
+    "tutorial_links": [
+      {
+        "name": "城通网盘下载教程",
+        "url": "https://tc5.us/file/680462-407057514"
+      },
+      {
+        "name": "百度网盘下载教程",
+        "url": "https://pan.baidu.com/s/1vWFyLr1fqJur-pqmPJeClQ"
+      }
+    ],
+    "extraction_codes": {
+      "百度网盘": "vslp",
+      "城通网盘": "6688"
+    }
+  }
+}

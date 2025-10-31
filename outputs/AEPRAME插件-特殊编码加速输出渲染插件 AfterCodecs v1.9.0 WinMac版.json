@@ -1,0 +1,85 @@
+{
+  "title": "AE/PR/AME插件-特殊编码加速输出渲染插件 AfterCodecs v1.9.0 Win/Mac版",
+  "slug": "ae-pr-amecha-jian-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-cha-jian-aftercodecs-v1-9-0-win-macban",
+  "author": "大众脸",
+  "post_date": "2020/03/17 19:59",
+  "source_url": "https://www.lookae.com/aftercodecs-19/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AfterCodecs",
+    "PR插件"
+  ],
+  "content": "AfterCodecs 是一款专为 Adobe After Effects、Premiere Pro 和 Adobe Media Encoder 设计的高性能编码输出插件，支持输出 H.264、H.265 和 ProRes 等专业编码格式。相比 AE 自带的输出功能，该插件渲染速度更快，输出文件体积更小，同时保持更佳画质。插件原生支持 Windows 上的 ProRes 编码以及高质量的 x264/x265 编码，适用于对视频质量与效率有较高要求的用户。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Premiere: 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014; Media Encoder: 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "Win版（v1.9.0）- 城通网盘",
+      "url": "https://72k.us/file/680462-430016886"
+    },
+    {
+      "name": "Win版（v1.9.0）- 百度网盘",
+      "url": "https://pan.baidu.com/s/1vDoAM7hYsYH1D7d5dDOc4Q"
+    },
+    {
+      "name": "Mac版（v1.8.0）- 城通网盘",
+      "url": "https://tc5.us/file/680462-421709176"
+    },
+    {
+      "name": "Mac版（v1.8.0）- 百度网盘",
+      "url": "https://pan.baidu.com/s/1Pi599Cy5UNAEx1e3OJKkjA"
+    },
+    {
+      "name": "使用教程 - 城通网盘",
+      "url": "https://tc5.us/file/680462-406407782"
+    },
+    {
+      "name": "使用教程 - 百度网盘",
+      "url": "https://pan.baidu.com/s/1kqhVRXRTbgKT07R3Njx2mA"
+    }
+  ],
+  "other": {
+    "update_notes": [
+      "After Effects OSX：现在可以将多个输出模块与 AfterCodecs 一起用于同一渲染队列项，如同在 Windows 上一样。",
+      "AfterCodecs 安装程序现已独立于 BRAW Studio。BRAW Studio 仍可从 https://autokroma.com/BRAW_Studio/Download/ 下载安装。",
+      "Premiere Pro 面板新增“Open AfterCodecs 桌面”按钮，便于访问设置和许可。",
+      "修复了 After Effects 在 Windows 上的崩溃问题。"
+    ],
+    "supported_codecs": {
+      "ProRes": [
+        "LT",
+        "Proxy",
+        "Normal",
+        "HQ",
+        "444 (支持 Alpha Channel)"
+      ],
+      "x264": "最佳 H.264/AVC 实现，性能优于 Adobe Media Encoder、QuickTime H264 和 AE 内置 H264",
+      "x265": "文件比 x264 小约 30%，支持 8K 分辨率",
+      "x264 RGB": "与 x264 相同，但避免使用 YUV 色彩空间，适合高级用户存储独立通道（如 UV 贴图、Alpha 等）"
+    },
+    "license_keys": {
+      "After Effects": [
+        "AUKACAE*Look*AE*888888888888888SUL8",
+        "DSTAC*Look*AE*888888888888888SUL8"
+      ],
+      "Premiere PRO": [
+        "AUKACPP*Look*AE*888888888888888SUL8",
+        "DSTACPP*Look*AE*888888888888888SUL8"
+      ],
+      "Media Encoder": [
+        "AUKACME*Look*AE*888888888888888SUL8",
+        "DSTACME*Look*AE*888888888888888SUL8"
+      ]
+    },
+    "baidu_netdisk_passwords": {
+      "win": "fnii",
+      "mac": "i9nw"
+    }
+  }
+}

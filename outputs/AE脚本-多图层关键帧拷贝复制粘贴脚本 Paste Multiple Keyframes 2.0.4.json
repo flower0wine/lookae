@@ -1,0 +1,45 @@
+{
+  "title": "AE脚本-多图层关键帧拷贝复制粘贴脚本 Paste Multiple Keyframes 2.0.4",
+  "slug": "aejiao-ben-duo-tu-ceng-guan-jian-zheng-kao-bei-fu-zhi-nian-tie-jiao-ben-paste-multiple-keyframes-2-0-4",
+  "author": "大众脸",
+  "post_date": "2019-04-29T22:25:00Z",
+  "source_url": "https://www.lookae.com/multiple-keyframes-204/",
+  "category": "aescripts",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "该脚本可同时智能复制和粘贴多个图层的关键帧，并支持将关键帧粘贴到多个目标图层上，现已新增循环支持功能。相比AE默认仅能逐个图层操作的限制，此脚本极大提升了关键帧批量处理效率。适用于 Windows 和 Mac 系统下的 After Effects CC 2019 至 CS4 版本。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Paste-Multiple-Keyframes-2.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/224798245012.mp4"
+  ],
+  "supported_versions": "CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6, CS5.5, CS5, CS4",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-369460934"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1hOW0hAXvrZJepFcKbHOZFg"
+    }
+  ],
+  "other": {
+    "script_installation": "拷贝.jsxbin脚本文件到AE安装目录下：Support Files\\Scripts\\ScriptUI Pane",
+    "update_notes": "简化非选定关键帧的错误消息，更新许可",
+    "official_website": "https://aescripts.com/paste-multiple-keyframes/",
+    "categories_linked": [
+      "https://www.lookae.com/after-effects/aechajian/",
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tags_linked": [
+      "https://www.lookae.com/tag/aescaripts/",
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/"
+    ]
+  }
+}

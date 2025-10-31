@@ -1,0 +1,99 @@
+{
+  "title": "Mac苹果版-特殊编码加速输出渲染AE/PR/AME插件 AfterCodecs v1.11.2",
+  "slug": "macping-guo-ban-te-shu-bian-ma-jia-su-shu-chu-xuan-ran-ae-pr-amecha-jian-aftercodecs-v1-11-2",
+  "author": "大众脸",
+  "post_date": "2025-01-08 09:52",
+  "source_url": "https://www.lookae.com/aftercodecs-1112/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AE插件M1",
+    "AfterCodecs",
+    "Mac苹果版",
+    "PR插件",
+    "渲染插件",
+    "输出插件"
+  ],
+  "content": "AE软件虽然自带了很多输出格式选择，但是如果我们想输出特殊编码的时候，就需要借助其他工具。AfterCodecs 这款编码输出插件，就可以支持输出 H264、H265 和 ProRes 这些编码，渲染输出速度也比AE自带输出更快，且压缩的文件更小，画质更佳，可设置参数也很多。\n\nNative exporter for AE bringing you ProRes on Windows and h264 (x264 and x265) codecs for excellent quality and lightweight videos.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/05/AfterCodecs-.jpg",
+    "https://img.alicdn.com/imgextra/i3/705956171/O1CN01v4IRSZ1vSMh8UslDY_!!705956171.gif"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/279401540070.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017"
+    ],
+    "Media Encoder": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017"
+    ],
+    "Premiere": [
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017"
+    ]
+  },
+  "supported_os": "Mac苹果系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1444931837-16f266?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1a1-6jROAv-XwNmkEKsM4ag?pwd=citb"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/ZqxTvFctazb"
+    }
+  ],
+  "other": {
+    "update_log": "1.11.2更新内容：\n* MultiRender PrPro / AME：有时导出被取消并显示红色错误弹出窗口，现已修复\n* 设置和许可证弹出窗口现在还会显示 BRAW Studio V3 许可证",
+    "related_links": [
+      {
+        "title": "Win版-特殊编码加速输出渲染AE/PR/AME插件 AfterCodecs v1.11.5",
+        "url": "https://www.lookae.com/autocroma-202410/"
+      }
+    ],
+    "codec_features": {
+      "MOV_ProRes": "6个官方配置文件（422 LT / Proxy / Normal / HQ / 4444 / XQ）和2个非官方配置文件（422 Ultra / 4444 Light）。ProRes 4444 Light / 4444 / XQ 支持 Alpha 通道。",
+      "MOV_HAP": "4个编解码器（Hap、Hap Alpha、Hap Q 和 Hap Q Alpha），可禁用Snappy压缩并更改CPU块数量；Hap和Hap Alpha可选压缩算法。",
+      "MOV_MP4_x264": "最佳H264/AVC实现，优于Adobe Media Encoder和QuickTime H264。含专用YouTube上传配置文件。",
+      "MOV_MP4_x265": "相同质量下文件比x264轻约25%，但编码较慢。",
+      "MOV_MP4_x264_RGB": "避免使用YUV色彩空间，适合存储UV贴图、alpha、3D通道等（高级用户）"
+    },
+    "plugin_features": [
+      "填补编解码器空白：支持ProRes在Windows及旧版Adobe上使用；支持Vidvox全部HAP编解码器且更快无分辨率限制；支持Premiere和AME的MultiRenders标记、分别导出音轨、快速子分辨率、自定义帧率等。",
+      "H264/H265：提供高效压缩选项，支持8K渲染；YouTube上传配置文件符合平台建议；直接在AE渲染队列操作节省时间；支持档案大小目标、10 bpc、完整范围、YUV 4:2:2/4:4:4等进阶功能。",
+      "优化工作流程：定期更新新增编解码器与功能；支持Premiere Pro批量导出MultiRender Markers；AE中任务栏显示渲染进度；欢迎用户反馈需求与建议。"
+    ],
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "citb"
+    }
+  }
+}

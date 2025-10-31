@@ -1,0 +1,45 @@
+{
+  "title": "人工AI智能视频无损放大AE/PR插件 ScaleUP v1.4.1 Mac苹果版",
+  "slug": "ren-gong-aizhi-neng-shi-pin-wu-sun-fang-da-ae-prcha-jian-scaleup-v1-4-1-macping-guo-ban",
+  "author": "大众脸",
+  "post_date": "2023-05-06",
+  "source_url": "https://www.lookae.com/scaleup-141/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "无损放大"
+  ],
+  "content": "ScaleUP是一款基于AI技术的高级视频增强工具，可以将视频放大多达10倍而图像质量损失最小。该插件不仅能放大视频素材，还能提高视频质量，在保留细节的同时增加图像分辨率。通过神经网络技术分析大量图像和剪辑的像素，改善图像质量，减少噪点和压缩视频中的块效应。插件针对After Effects和Premiere Pro进行了GPU加速优化。v1.4.1版本修复了输出大小设置的黑色边界问题。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2020/11/ScaleUp.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/287454578393.mp4"
+  ],
+  "supported_versions": "2023, 2022, 2021, 2020, CC 2019, CC 2018",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-852681453-e99f3e?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1nI3dzUALkWLturbR_dnH4w?pwd=xsho"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/mxYr1q2bXJG"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "xsho"
+    },
+    "related_link": {
+      "title": "中文汉化AE/PR插件-人工AI智能视频无损放大插件 ScaleUP v1.4.0 Win",
+      "url": "https://www.lookae.com/scaleup-140/"
+    }
+  }
+}

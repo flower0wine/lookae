@@ -1,0 +1,47 @@
+{
+  "title": "AE/PR插件-AI智能场景重新布光工具 AI Relight Pro V1.2.0 Win",
+  "slug": "ae-prcha-jian-aizhi-neng-chang-jing-zhong-xin-bu-guang-gong-ju-ai-relight-pro-v1-2-0-win",
+  "author": "大众脸",
+  "post_date": "2025-04-07 13:54",
+  "source_url": "https://www.lookae.com/ai-relight-120/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AI Relight",
+    "PR插件",
+    "布光插件"
+  ],
+  "content": "AI Relight Pro 是一款基于AI技术的智能场景重新布光工具，它能够理解素材的3D属性并允许用户在后期制作中添加可自定义的假3D灯光。该插件可以快速控制光线在3D方向（X、Y、Z）上的反射方式，为任何场景重新构想素材提供新的创作方式。v1.2.0版本新增了随时间变化的更稳定功能，并支持使用具有Pro许可证的AE comp灯，同时进行了各种错误修复和性能改进。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2024/10/AI-Relight.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects 2025, 2024, 2023, 2022 和 Premiere Pro 2025",
+  "supported_os": "Win系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1494258731-678394?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1IE7SJbMEA4ef0yUbQOIw9w?pwd=jd3s"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/KxLKc8TauJi"
+    }
+  ],
+  "other": {
+    "related_resources": [
+      {
+        "title": "Mac苹果版-AI智能场景重新布光AE/PR插件 AI Relight V1.1.0",
+        "url": "https://www.lookae.com/ai-relight-mac/"
+      }
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "jd3s"
+    }
+  }
+}

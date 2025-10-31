@@ -1,0 +1,56 @@
+{
+  "title": "红巨人粒子特效套装插件 Red Giant Trapcode Suite 14.1.4 Win/Mac",
+  "slug": "hong-ju-ren-li-zi-te-xiao-tao-zhuang-cha-jian-red-giant-trapcode-suite-14-1-4-win-mac",
+  "author": "大众脸",
+  "post_date": "2018-10-15",
+  "source_url": "https://www.lookae.com/trapcode-1414/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件"
+  ],
+  "content": "Red Giant Trapcode Suite 14 是一套著名的粒子与三维特效插件包，包含 Particular 3.1、Form 3.1、Tao 1.2 等 11 款工具，可快速制作粒子、光线、三维图形等视觉特效。14.1.4 版主要修复了 macOS Mojave 10.14 下的显示问题，并带来更丰富的预设与性能提升。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2017/08/Trapcode-14.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50015460899.mp4"
+  ],
+  "supported_versions": "CC 2014–CC 2018",
+  "supported_os": "Windows / macOS",
+  "download_links": [
+    {
+      "name": "Win 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-314797530"
+    },
+    {
+      "name": "Win 百度网盘",
+      "url": "https://pan.baidu.com/s/1BnVWRH9u6qGMz8iquLMM3g"
+    },
+    {
+      "name": "Mac 城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-314796051"
+    },
+    {
+      "name": "Mac 百度网盘",
+      "url": "https://pan.baidu.com/s/1fHINA5lAF75nbBw7I3kK2g"
+    }
+  ],
+  "other": {
+    "套装序列号": "TCBK2245868172939255",
+    "单个插件序列号": {
+      "Trapcode Tao 1.2": "90509642123479776933",
+      "Trapcode Mir 2.1": "85079585234586664989",
+      "Trapcode Particular 3.0.0": "92608846345644048269",
+      "Trapcode Shine 2.0": "92338513256767241817",
+      "Trapcode 3D Stroke 2.6": "91588738256767692766",
+      "Trapcode Form 3.0.0": "TCBK2245868172939255",
+      "Trapcode EchoSpace v1.1": "91769344123491994523",
+      "Trapcode Horizon v1.1": "87419480123494067600",
+      "Trapcode Lux v1.4": "87689194123456089091",
+      "Trapcode Sound Keys v1.4": "88419208123489637676",
+      "Trapcode StarGlow v1.7": "86068670256777585702"
+    },
+    "官网": "https://www.redgiant.com/products/trapcode-suite/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "AE脚本-音乐节奏卡点时间重新映射自动剪辑 Beatnik v1.04+使用教程",
+  "slug": "aejiao-ben-yin-le-jie-zou-qia-dian-shi-jian-zhong-xin-ying-she-zi-dong-jian-ji-beatnik-v1-04-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2023-06-30",
+  "source_url": "https://www.lookae.com/beatnik-104/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本"
+  ],
+  "content": "Beatnik是一款将音频高级峰值检测与时间重新映射相结合的After Effects脚本，可以精确控制基于音频的时间效果。它非常适合音量触发速度斜坡，自动编辑，蒙太奇以及从微妙到极端的各种重定时功能。Beatnik 是第一个结合高级峰值检测和时间重新映射的 After Effects 脚本，可以精确控制基于音频的时间效果。它非常适合音量触发速度斜坡，自动编辑，蒙太奇以及从微妙到极端的各种重定时功能。v1.04更新内容：更新的许可框架。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Beatnik.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015, CC 2014",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "脚本-城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-878950596-3fc8fe?p=4431"
+    },
+    {
+      "name": "脚本-百度网盘",
+      "url": "https://pan.baidu.com/s/1_-meAFgI5wVt_Bp6GCaPjg?pwd=t3pb"
+    },
+    {
+      "name": "脚本-阿里云盘",
+      "url": "https://www.aliyundrive.com/s/B3JjnDUncPS"
+    },
+    {
+      "name": "教程-城通网盘",
+      "url": "https://lookae.ctfile.com/fs/680462-368500750"
+    },
+    {
+      "name": "教程-百度网盘",
+      "url": "https://pan.baidu.com/s/1jcLGDPzS4iac8zm83Y9UlA"
+    }
+  ],
+  "other": {
+    "download_passwords": {
+      "脚本-城通网盘": "6688",
+      "脚本-百度网盘": "t3pb",
+      "教程-百度网盘": "5iit"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Mac苹果版：AE/Pr插件-镜头模糊虚焦插件 Fast Camera Lens Blur v3.12 版",
+  "slug": "macping-guo-ban-ae-prcha-jian-jing-tou-mo-hu-xu-jiao-cha-jian-fast-camera-lens-blur-v3-12-ban",
+  "author": "大众脸",
+  "post_date": "2018-11-11 14:11",
+  "source_url": "https://www.lookae.com/mac-lens-blur/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "MAC"
+  ],
+  "content": "插件可制作逼真的摄像机镜头模糊效果，渲染速度更快！多种参数可控制。此外，它还可以渲染通常通过组合几层模糊来表示的辉光。Renders realistic camera lens blur just like the native \"Camera Lens Blur\" effect of Adobe After Effects but faster, way faster! In addition, it can also render glow that is generally expressed by combining several layers of blur.",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/07/Fast-Camera-Lens-Blur.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/50213974004.mp4"
+  ],
+  "supported_versions": "3.12.0",
+  "supported_os": "Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-319550106"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IRZXViRf_Vpi0HIE9NWAYA"
+    }
+  ],
+  "other": {
+    "supported_apps": {
+      "After Effects": [
+        "CC 2019",
+        "CC 2018",
+        "CC 2017",
+        "CC 2015.3",
+        "CC 2015",
+        "CC 2014",
+        "CC"
+      ],
+      "Premiere": [
+        "CC 2019",
+        "CC 2018",
+        "CC 2017",
+        "CC 2015.3",
+        "CC 2015",
+        "CC 2014",
+        "CC"
+      ]
+    },
+    "official_website": "https://aescripts.com/fast-camera-lens-blur/",
+    "update_description": "Fixed an incompatibility between Win version project and Mac version project due to incorrect plug-in identification key for Mac version. For compatibility with old Mac project, Legacy version was bundled. But since the next time I do not plan to update the Legacy version, please do not use it in a new project."
+  }
+}

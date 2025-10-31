@@ -1,0 +1,46 @@
+{
+  "title": "AE脚本-纸张折叠翻转MG动画制作 3D Paper Jam 1.2.1 + 使用教程",
+  "slug": "aejiao-ben-zhi-zhang-zhe-die-fan-zhuan-mgdong-hua-zhi-zuo-3d-paper-jam-1-2-1-shi-yong-jiao-cheng",
+  "author": "大众脸",
+  "post_date": "2022-04-19T10:13:00Z",
+  "source_url": "https://www.lookae.com/3dpaper-121/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "MG动画",
+    "折叠翻转"
+  ],
+  "content": "3D Paper Jam 是一款用于 After Effects 的脚本，可实现纸张折叠翻转的动态效果。支持 4 种折叠方式，具备 3D 投影与动态模糊等高级视觉效果，适用于制作精美的 MG 动画。该脚本在 AE 中提供完整控制功能，便于用户自定义动画参数。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/3D-Paper-Jam-1.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS6 – CC 2022",
+  "supported_os": "Windows, macOS",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-571563720-b3f096"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/13ZcwdEciDsIFXhwUNry6iQ?pwd=6fwn"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Lcpy5x4PXE5"
+    }
+  ],
+  "other": {
+    "version_update": "V1.2.1 版本更新：更新以支持 macOS 10.15 Catalina",
+    "related_tags": [
+      "AE脚本",
+      "MG动画",
+      "折叠翻转"
+    ],
+    "post_category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ]
+  }
+}

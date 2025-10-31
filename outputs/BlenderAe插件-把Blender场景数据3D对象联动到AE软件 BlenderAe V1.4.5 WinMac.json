@@ -1,0 +1,98 @@
+{
+  "title": "BlenderAe插件-把Blender场景数据3D对象联动到AE软件 BlenderAe V1.4.5 Win/Mac",
+  "slug": "blenderaecha-jian-ba-blenderchang-jing-shu-ju-3ddui-xiang-lian-dong-dao-aeruan-jian-blenderae-v1-4-5-win-mac",
+  "author": "大众脸",
+  "post_date": "2023/08/31 11:10",
+  "source_url": "https://www.lookae.com/blenderae-145/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "BlenderAe",
+    "Blender插件"
+  ],
+  "content": "将3D对象和场景数据从Blender软件中连接、选择和导出到After Effects软件中。该插件支持在Blender中安装后直接与AE通信，实现对象、顶点或面的选择并一键导出。支持多种对象模式和编辑模式下的数据转换，适用于Win/Mac系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2021/09/BlenderAe.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/325084112211.mp4"
+  ],
+  "supported_versions": {
+    "After Effects": [
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "CC 2019",
+      "CC 2018",
+      "CC 2017",
+      "CC 2015",
+      "CC 2014",
+      "CC",
+      "CS6"
+    ],
+    "Blender": [
+      "3.6",
+      "3.5",
+      "3.4",
+      "3.3",
+      "3.2",
+      "3.1",
+      "3.0"
+    ]
+  },
+  "supported_os": [
+    "Windows",
+    "Mac"
+  ],
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-927265470-c439c8?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1cMCyAm5AUe1as3aiCSI6Eg?pwd=ckla"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/Rrx6fQWDKeV"
+    }
+  ],
+  "other": {
+    "passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "ckla"
+    },
+    "tutorials": [
+      {
+        "platform": "B站",
+        "url": "https://www.bilibili.com/video/BV1Nq4y1U7KQ/",
+        "description": "在线观看使用教程"
+      }
+    ],
+    "features": {
+      "object_mode": [
+        "相机到 Ae 相机",
+        "灯到 Ae 灯",
+        "对象转换为 Null",
+        "将转换清空为 Null",
+        "平面（平面）到预合成形状层"
+      ],
+      "edit_mode": [
+        "选定的顶点（在顶点模式下）到 Nulls",
+        "选定的平面（在面模式下）到预合成的形状层"
+      ]
+    },
+    "notes": [
+      "当前不支持非平面面（在编辑模式下）和非平面平面（在对象模式下）",
+      "如果“Ae Path”字段包含正确的路径但 After Effects 未打开，After Effects 将打开和关闭而不保存",
+      "大量选择或长帧持续时间可能需要很长时间来处理（尤其是面部选择），可按“esc”中止导入过程",
+      "一些修饰符会影响数据的导出"
+    ],
+    "changelog": [
+      "修复：导入Blender的Ae图层缺少数据或没有数据",
+      "添加：支持从After Effects导入更多图层类型（调整、素材、占位符、预合成图层）的尺寸和变换"
+    ]
+  }
+}

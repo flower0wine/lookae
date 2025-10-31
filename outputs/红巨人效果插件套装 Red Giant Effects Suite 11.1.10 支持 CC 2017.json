@@ -1,0 +1,115 @@
+{
+  "title": "红巨人效果插件套装 Red Giant Effects Suite 11.1.10 支持 CC 2017",
+  "slug": "hong-ju-ren-xiao-guo-cha-jian-tao-zhuang-red-giant-effects-suite-11-1-10-zhi-chi-cc-2017",
+  "author": "大众脸",
+  "post_date": "2016/11/05 17:36",
+  "source_url": "https://www.lookae.com/effects-11110/",
+  "category": "aechajian",
+  "tags": [
+    "Adobe CC 2017",
+    "AE插件",
+    "PR插件",
+    "PS插件",
+    "Win/Mac"
+  ],
+  "content": "最新版红巨人效果套装插件 Red Giant Effects Suite 11.1.10，更新支持 Adobe CC 2017。这套插件能够模拟制作很多特效，例如：光效，光晕，海洋水面，文字特效，卡通动漫风格等等其他效果。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2015/06/Effects-Suite.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015.3, CC 2017; Premiere Pro CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015.3, CC 2017; Photoshop CC 2014, CC, CS6, CS5.5, CS5, CS4, CS3, CC 2015.3, CC 2017",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "https://pan.baidu.com/s/1kVi7Z2v"
+    },
+    {
+      "name": "Mac OSX 版本下载",
+      "url": "https://pan.baidu.com/s/1dF82CbJ"
+    }
+  ],
+  "other": {
+    "plugins_included": [
+      {
+        "name": "Composite Wizard",
+        "version": "1.4.10",
+        "description": "复合向导插件"
+      },
+      {
+        "name": "Holomatrix",
+        "version": "1.2.2",
+        "description": "矩阵插件"
+      },
+      {
+        "name": "Image Lounge",
+        "version": "1.4.9",
+        "description": "图像管理插件"
+      },
+      {
+        "name": "Knoll Light Factory",
+        "version": "3.0.4",
+        "description": "光工厂插件"
+      },
+      {
+        "name": "PlaneSpace",
+        "version": "1.4.4",
+        "description": "平面空间插件"
+      },
+      {
+        "name": "Psunami",
+        "version": "1.4.5",
+        "description": "水流插件"
+      },
+      {
+        "name": "Text Anarchy",
+        "version": "2.4.2",
+        "description": "文字插件"
+      },
+      {
+        "name": "ToonIt",
+        "version": "2.1.4",
+        "description": "图像风格化插件"
+      },
+      {
+        "name": "Warp",
+        "version": "1.1.2",
+        "description": "扭曲插件"
+      }
+    ],
+    "additional_software_support": [
+      "Avid Media Composer 6.0-8.0 or later",
+      "Apple Final Cut Pro 7",
+      "Apple Motion 5",
+      "EDIUS 剪辑软件"
+    ],
+    "update_notes": [
+      "更新支持 Adobe CC 2017"
+    ],
+    "serial_numbers": {
+      "Knoll Light Factory": [
+        "9035-3050-3333-6151-1225",
+        "8890-3030-3333-9159-3080"
+      ],
+      "Image Lounge": "1847-7170-1592-8302-3281",
+      "Knoll Light Factory Photo": "1319-3198-3464-5707-8145",
+      "Red Giant Holomatrix": "9200-6158-1232-5354-9711",
+      "Red Giant PlaneSpace": "2165-5162-1724-8961-0491",
+      "Red Giant Psunami": "8620-5360-1929-6377-2182",
+      "Red GIant Text Anarchy": "9180-5468-2000-6564-9325",
+      "Red Giant ToonIt – LookAE": "2224-5529-2995-5538-1869",
+      "Red Giant Warp": "9137-0361-1084-5744-8254",
+      "Red.Giant Composite Wizard": "1709-7238-1590-5235-4653"
+    },
+    "additional_links": [
+      {
+        "name": "大众脸官方淘宝店",
+        "url": "https://lookae.taobao.com/"
+      },
+      {
+        "name": "点击自愿赞助 LookAE.com 网站 【送精品资源】",
+        "url": "https://www.lookae.com/sponsor/"
+      }
+    ]
+  }
+}

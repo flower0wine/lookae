@@ -1,0 +1,36 @@
+{
+  "title": "AE插件-图层标签颜色自动适配 Label Maker v1.0 Win/Mac",
+  "slug": "aecha-jian-tu-ceng-biao-qian-yan-se-zi-dong-gua-pei-label-maker-v1-0-win-mac",
+  "author": "大众脸",
+  "post_date": "2019/04/25 21:27",
+  "source_url": "https://www.lookae.com/label-maker/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件"
+  ],
+  "content": "Label Maker 是由 Plugin Everything 公司免费发布的一款 After Effects 插件，可自动分析选中图层的像素颜色，并将图层标签颜色自动适配为与画面内容相匹配的颜色，提升制作过程中的视觉识别效率。插件支持 AE CC 2015 至 CC 2019 版本，适用于 Windows 与 Mac 系统。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2019/04/Label-Maker.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "AE CC 2015 – CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-368340178"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1IYbpyu60n9iT4M_5oq7JTw"
+    }
+  ],
+  "other": {
+    "plugin_company": "Plugin Everything",
+    "plugin_description_url": "https://aescripts.com/label-maker/",
+    "installation_path_win": "\\Adobe After Effects CC\\Support Files\\Plug-ins",
+    "installation_path_mac": "应用程序/Adobe After Effects/Plug-ins/",
+    "menu_location": "图层菜单下找到 Label Maker",
+    "download_password": "et10"
+  }
+}

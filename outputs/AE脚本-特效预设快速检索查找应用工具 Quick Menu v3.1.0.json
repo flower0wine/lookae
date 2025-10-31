@@ -1,0 +1,51 @@
+{
+  "title": "AE脚本-特效预设快速检索查找应用工具 Quick Menu v3.1.0",
+  "slug": "aejiao-ben-te-xiao-yu-she-kuai-su-jian-suo-cha-zhao-ying-yong-gong-ju-quick-menu-v3-1-0",
+  "author": "大众脸",
+  "post_date": "2023-10-19",
+  "source_url": "https://www.lookae.com/quick-menu-2/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Quick Menu"
+  ],
+  "content": "Quick Menu是一款After Effects脚本，拥有14个新功能，能够以闪电般的速度查找和应用插件、效果、预设、脚本、扩展、菜单命令、形状图层过滤器和表达式。脚本能够智能和直观的让你快速启动检索查找，支持中文搜索。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/03/Quick-Menu-3.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/30542827.mp4"
+  ],
+  "supported_versions": "2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3",
+  "supported_os": "Win/Mac系统",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-960994026-f6e0f5?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/17TnlITPAGu3AokkNa8ymfw?pwd=l8pj"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/yuBSCS8Fdde"
+    }
+  ],
+  "other": {
+    "update_content": [
+      "在当前时间指示器处渲染帧的新命令",
+      "用于在图层或合成标记处渲染帧的新命令",
+      "记住上一个 AE 会话中的最新命令",
+      "能够将用户的 ScriptUI Panels 文件夹添加为资源",
+      "默认情况下，用户的“扩展”存储库作为资源文件夹包含在内",
+      "偏好隐藏/显示底部工具栏",
+      "CC 2024（测试版）支持",
+      "许可证框架更新"
+    ],
+    "download_passwords": {
+      "城通网盘": "6688",
+      "百度网盘": "l8pj"
+    }
+  }
+}

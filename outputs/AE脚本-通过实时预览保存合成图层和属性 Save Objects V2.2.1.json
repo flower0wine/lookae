@@ -1,0 +1,62 @@
+{
+  "title": "AE脚本-通过实时预览保存合成图层和属性 Save Objects V2.2.1",
+  "slug": "aejiao-ben-tong-guo-shi-shi-yu-lan-bao-cun-he-cheng-tu-ceng-he-shu-xing-save-objects-v2-2-1",
+  "author": "大众脸",
+  "post_date": "2024-12-22T12:30:00Z",
+  "source_url": "https://www.lookae.com/save-objects-221/",
+  "category": "aescripts",
+  "tags": [
+    "AE脚本",
+    "Save Objects"
+  ],
+  "content": "Save Objects 是一款用于 After Effects 的脚本，支持通过实时预览保存合成、图层、属性，并可保存预设、字体、蒙版、标记、关键帧插值、表达式和 JSX 代码，同时支持更改所有值。内置所有文件查看器，适用于多平台使用。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/06/Save-Objects.jpg"
+  ],
+  "video_urls": [
+    "http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/496814733076.mp4"
+  ],
+  "supported_versions": "AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019",
+  "supported_os": "Win/Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1440000116-bfd9b3?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1aQFw5NnUye4eB1p8gYpTWA?pwd=ri85"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/CVtyNjQ8HSD"
+    }
+  ],
+  "other": {
+    "new_features": [
+      "文件夹基础结构",
+      "多重合成保存",
+      "GIF 预览",
+      "搜索引擎改进",
+      "高级设置"
+    ],
+    "update_notes_v2_2_1": [
+      "解决了 Windows 11 某些版本上的冻结问题。",
+      "修复了与 OneDrive 的链接问题。",
+      "解决了 Mac 上搜索部分不显示标题的问题。",
+      "实施了其他各种更改。"
+    ],
+    "related_tags": [
+      "AE脚本",
+      "Save Objects"
+    ],
+    "category_links": [
+      "https://www.lookae.com/after-effects/aescripts/",
+      "https://www.lookae.com/after-effects/"
+    ],
+    "tag_links": [
+      "https://www.lookae.com/tag/ae%e8%84%9a%e6%9c%ac/",
+      "https://www.lookae.com/tag/save-objects/"
+    ]
+  }
+}

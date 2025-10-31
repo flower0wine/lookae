@@ -1,0 +1,71 @@
+{
+  "title": "Win/Mac版：专业三维摄像机跟踪反求软件/插件 Imagineer Systems Mocha Pro v5.0.1",
+  "slug": "win-macban-zhuan-ye-san-wei-she-xiang-ji-gen-zong-fan-qiu-ruan-jian-cha-jian-imagineer-systems-mocha-pro-v5-0-1",
+  "author": "大众脸",
+  "post_date": "2016/07/03 11:38",
+  "source_url": "https://www.lookae.com/mocha501/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "AVID插件",
+    "Win/Mac",
+    "软件"
+  ],
+  "content": "Mocha Pro 是一款独立的2D跟踪软件，基于图形独特的2.5平面跟踪系统。作为一种低成本且高效的跟踪解决方案，它具备多种功能，能够实现二维立体跟踪能力，即使在复杂的拍摄条件下也能节省大量时间和成本。mocha 致力于商业、电影、企业影片后期制作，界面直观、易于上手，采用工业标准的2.5D平面追踪技术，相比传统工具可提升3-4倍的工作效率，帮助用户创建高品质影片。\n\n软件为一键式安装，操作便捷，安装后即可使用，无任何功能限制。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2016/06/mocha5.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "Adobe Premiere Pro CS6 – CC 2015, CC 2015.3; Adobe After Effects CS5 – CC 2015, CC 2015.3; Avid",
+  "supported_os": "Win 系统和 Mac 系统",
+  "download_links": [
+    {
+      "name": "Windows 版本下载",
+      "url": "http://lookae.ctfile.com/fs/gXG153422560"
+    },
+    {
+      "name": "Mac 苹果版下载",
+      "url": "http://lookae.ctfile.com/fs/MDg153422581"
+    },
+    {
+      "name": "Avid 插件 Windows 版本下载",
+      "url": "http://lookae.ctfile.com/fs/pwG153422620"
+    },
+    {
+      "name": "Avid 插件 Mac 苹果版下载",
+      "url": "http://lookae.ctfile.com/fs/jIm152047154"
+    },
+    {
+      "name": "Adobe（AE,Pr）插件 Windows 版本下载",
+      "url": "http://lookae.ctfile.com/fs/40s153422608"
+    },
+    {
+      "name": "Adobe（AE,Pr）插件 Mac 苹果版下载",
+      "url": "http://lookae.ctfile.com/fs/8KF152047118"
+    }
+  ],
+  "other": {
+    "original_categories": [
+      "AE插件",
+      "After Effects",
+      "Mac 专区",
+      "其他资源",
+      "其他辐射",
+      "软件/插件"
+    ],
+    "additional_info": {
+      "software_description": "mocha is award winning tracking software developed by Imagineer Systems. Built upon a renowned Planar Tracking image engine, mocha follows “pixel patterns” through the most difficult conditions including objects that go off-screen, objects that are partially obscured, even out of focus footage. This technology drives our products and is licensed to technology partners.",
+      "new_features_in_mocha_pro_5": [
+        "增加Adobe和 Avid的插件选项，可以在AE CC/Pr CC/Avid 中对跟踪好的数据进行处理",
+        "增强跟踪数据的GPU处理能力",
+        "增强 Python 脚本模块",
+        "增加输出C4D/Fusion/Silhouette FX/MochaBlend 的格式选项",
+        "bug 错误修复，图层处理和工程保存速度的提升"
+      ],
+      "support_links": {
+        "taobao_store": "https://lookae.taobao.com/",
+        "sponsor_site": "https://www.lookae.com/sponsor/"
+      }
+    }
+  }
+}

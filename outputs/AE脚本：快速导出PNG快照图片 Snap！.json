@@ -1,0 +1,30 @@
+{
+  "title": "AE脚本：快速导出PNG快照图片 Snap！",
+  "slug": "aejiao-ben-kuai-su-dao-chu-pngkuai-zhao-tu-pian-snap",
+  "author": "大众脸",
+  "post_date": "2018/11/07 21:57",
+  "source_url": "https://www.lookae.com/snap/",
+  "category": "aechajian",
+  "tags": [
+    "Aescaripts",
+    "AE脚本"
+  ],
+  "content": "脚本可根据合成大小或分辨率快速创建当前帧的.png图片文件，自动保存到自定义路径；使用时点击设置图片保存路径，再点击Snap！即可保存当前帧图片。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2018/11/Snap.jpg"
+  ],
+  "video_urls": [],
+  "supported_versions": "After Effects CS 5 – CC 2019",
+  "supported_os": "Mac 和 Win",
+  "download_links": [
+    {
+      "name": "城通网盘下载",
+      "url": "https://lookae.ctfile.com/fs/680462-318974247"
+    },
+    {
+      "name": "百度网盘下载",
+      "url": "https://pan.baidu.com/s/1yofP8JqRGRHwuIzpQxamAg"
+    }
+  ],
+  "other": {}
+}

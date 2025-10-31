@@ -1,0 +1,43 @@
+{
+  "title": "人工智能画面着色无损放大HDR增强AE/PR插件 Neural Enhancement Suite v1.7.26 Win/Mac",
+  "slug": "ren-gong-zhi-neng-hua-mian-zhao-se-wu-sun-fang-da-hdrzeng-qiang-ae-prcha-jian-neural-enhancement-suite-v1-7-26-win-mac",
+  "author": "大众脸",
+  "post_date": "2025/06/19 09:38",
+  "source_url": "https://www.lookae.com/neural-enhancement-1726/",
+  "category": "aechajian",
+  "tags": [
+    "AE插件",
+    "PR插件",
+    "无损放大"
+  ],
+  "content": "Neural Enhancement Suite 是一个基于AI人工智能驱动的工具集，用于视频增强，以实现以前在After Effects中无法实现的效果。提供CPU和GPU两个版本，GPU版本的插件需要Nvidia显卡。\n\n插件特性包括：基于提示的着色（使用简单颜色提示为静止图像着色，并可作为参考帧用于动态镜头）；基于示例的着色（根据示例图像对镜头进行着色或调色）；超高分辨率无损放大（最高支持16倍像素放大）；弱光增强（在不损失对比度的前提下提升曝光不足图像）；HDR重映射（恢复高对比度场景中丢失的细节）。",
+  "image_urls": [
+    "https://www.lookae.com/wp-content/uploads/2022/04/Neural-Enhancement.jpg"
+  ],
+  "video_urls": [
+    "https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/355978151602.mp4"
+  ],
+  "supported_versions": "After Effects 2025, 2024, 2023; Premiere 2024, 2023",
+  "supported_os": "Windows, Mac",
+  "download_links": [
+    {
+      "name": "城通网盘",
+      "url": "https://url70.ctfile.com/f/2827370-1518545626-cecdab?p=4431"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1XLy-7VaAErioQtWyP4tJ2A?pwd=ma41"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://www.alipan.com/s/nsJMomVBUgS"
+    }
+  ],
+  "other": {
+    "password": {
+      "城通网盘": "6688",
+      "百度网盘": "ma41"
+    },
+    "update_notes": "v1.7.26更新内容：启用对 NVIDIA 5xxx 系列的支持。修复与其他一些第三方插件的加载冲突。"
+  }
+}
