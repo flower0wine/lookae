@@ -1,4 +1,3 @@
-import litellm
 from dotenv import load_dotenv
 from langchain.user_prompt import get_use_prompt
 from langchain.utils import read_file_async, find_files
