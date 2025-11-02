@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from dotenv import load_dotenv
 from typing import List
-
+import hashlib
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -35,56 +35,115 @@ llm = ChatLiteLLM(
 
 embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
 
-# ================== 加载已处理记录 ==================
-def load_processed() -> set:
-    if PROCESSED_FILE.exists():
-        with open(PROCESSED_FILE, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return set(data.get("files", []))
-    return set()
-
-def save_processed(processed: set):
-    with open(PROCESSED_FILE, 'w', encoding='utf-8') as f:
-        json.dump({"files": list(processed)}, f, ensure_ascii=False, indent=2)
-
-def load_pdf(file_path: Path) -> List[Document]:
-    loader = PyPDFLoader(str(file_path))
-    docs = loader.load()
-    # 添加文件名到 metadata
-    for doc in docs:
-        doc.metadata["source_file"] = file_path.name
-    return docs
-
 
 class FileVectorStoreManager:
     """
-    自动管理「一个 PDF = 一个 FAISS 索引」
-    完全透明，无需手动干预
+    全自动文件级向量库管理器
+    - 支持中文文件名（通过哈希索引）
+    - 启动时自动构建所有未索引 PDF
+    - 支持增量更新（新增/删除 PDF）
+    - 内部维护 processed.json 与 index_map.json
     """
+
     def __init__(self, pdf_dir: str, index_dir: str, embeddings):
         self.pdf_dir = Path(pdf_dir)
         self.index_dir = Path(index_dir)
         self.index_dir.mkdir(exist_ok=True)
         self.embeddings = embeddings
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-        self.cache = {}  # filename -> FAISS (内存缓存)
+        self.cache = {}
+        self.processed_file = Path("processed.json")
+        self.index_map_file = Path("index_map.json")
 
-    def _index_path(self, filename: str) -> str:
-        return self.index_dir / f"{Path(filename).stem}.faiss"
+        # 载入文件名映射
+        self.index_map = self._load_index_map()
+
+        # 自动同步索引
+        self._sync_all_indexes()
+
+    # ========= 工具函数 =========
+    def _hash_filename(self, filename: str) -> str:
+        """将文件名哈希化，确保安全文件名"""
+        return hashlib.sha1(filename.encode("utf-8")).hexdigest()
+
+    def _load_index_map(self) -> dict:
+        if self.index_map_file.exists():
+            with open(self.index_map_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+        return {}
+
+    def _save_index_map(self):
+        with open(self.index_map_file, "w", encoding="utf-8") as f:
+            json.dump(self.index_map, f, ensure_ascii=False, indent=2)
+
+    def _load_processed(self) -> set:
+        if self.processed_file.exists():
+            with open(self.processed_file, "r", encoding="utf-8") as f:
+                return set(json.load(f).get("files", []))
+        return set()
+
+    def _save_processed(self, processed: set):
+        with open(self.processed_file, "w", encoding="utf-8") as f:
+            json.dump({"files": list(processed)}, f, ensure_ascii=False, indent=2)
+
+    def _index_path(self, filename: str) -> Path:
+        """根据原文件名找到实际索引路径"""
+        hashed = self.index_map.get(filename)
+        if not hashed:
+            hashed = self._hash_filename(filename)
+            self.index_map[filename] = hashed
+            self._save_index_map()
+        return self.index_dir / f"{hashed}.faiss"
 
     def _is_indexed(self, filename: str) -> bool:
         return self._index_path(filename).exists()
 
+    def load_pdf(self, file_path: Path) -> List[Document]:
+        loader = PyPDFLoader(str(file_path))
+        docs = loader.load()
+        for doc in docs:
+            doc.metadata["source_file"] = file_path.name
+        return docs
+
+    # ========= 核心构建 =========
     def _build_index(self, pdf_path: Path):
-        """为单个 PDF 构建索引"""
-        docs = load_pdf(pdf_path)
+        docs = self.load_pdf(pdf_path)
         chunks = self.text_splitter.split_documents(docs)
         vs = FAISS.from_documents(chunks, self.embeddings)
-        vs.save_local(str(self.index_dir), index_name=pdf_path.name)
-        print(f"索引构建完成: {pdf_path.name}")
+        index_path = self._index_path(pdf_path.name)
+        vs.save_local(str(index_path.parent), index_name=index_path.stem)
+        print(f"索引构建完成: {pdf_path.name} → {index_path.name}")
+
+    def _sync_all_indexes(self):
+        print("正在初始化向量库管理器...")
+        current_pdfs = {p.name for p in self.pdf_dir.glob("*.pdf")}
+        processed = self._load_processed()
+        indexed = {p.stem for p in self.index_dir.glob("*.faiss")}
+
+        # 删除不存在的 PDF
+        for f in list(processed):
+            if f not in current_pdfs:
+                self.delete_index(f)
+                processed.discard(f)
+
+        # 构建未索引文件
+        to_build = current_pdfs - processed
+        if to_build:
+            print(f"发现 {len(to_build)} 个新文件，构建索引...")
+            for pdf_name in to_build:
+                pdf_path = self.pdf_dir / pdf_name
+                try:
+                    self._build_index(pdf_path)
+                    processed.add(pdf_name)
+                except Exception as e:
+                    print(f"  失败: {pdf_name} → {e}")
+            self._save_processed(processed)
+        else:
+            print("所有 PDF 已索引。")
+
+        print(f"初始化完成！共 {len(current_pdfs)} 个文件，{len(processed)} 个已索引。")
 
     def get_or_create_index(self, filename: str) -> FAISS:
-        """自动加载或创建索引（核心！）"""
         if filename in self.cache:
             return self.cache[filename]
 
@@ -92,37 +151,49 @@ class FileVectorStoreManager:
         if not pdf_path.exists():
             raise FileNotFoundError(f"PDF 不存在: {filename}")
 
-        # 如果索引不存在 → 自动构建
         if not self._is_indexed(filename):
-            print(f"未找到索引，自动构建: {filename}")
+            print(f"实时构建索引: {filename}")
             self._build_index(pdf_path)
+            processed = self._load_processed()
+            processed.add(filename)
+            self._save_processed(processed)
 
-        # 加载索引
+        index_path = self._index_path(filename)
         vs = FAISS.load_local(
-            folder_path=str(self.index_dir),
+            folder_path=str(index_path.parent),
             embeddings=self.embeddings,
-            index_name=filename,
+            index_name=index_path.stem,
             allow_dangerous_deserialization=True
         )
         self.cache[filename] = vs
         return vs
 
     def search(self, filename: str, query: str, k: int = 5) -> List[Document]:
-        """自动检索"""
         vs = self.get_or_create_index(filename)
         return vs.similarity_search(query, k=k)
 
     def delete_index(self, filename: str):
-        """删除索引"""
         path = self._index_path(filename)
         if path.exists():
             path.unlink()
             self.cache.pop(filename, None)
+            processed = self._load_processed()
+            processed.discard(filename)
+            self._save_processed(processed)
             print(f"索引已删除: {filename}")
+        # 删除映射
+        if filename in self.index_map:
+            del self.index_map[filename]
+            self._save_index_map()
 
     def list_indexed_files(self) -> List[str]:
-        """列出已索引文件"""
-        return [p.stem + ".pdf" for p in self.index_dir.glob("*.faiss")]
+        return list(self._load_processed())
+
+    def resync(self):
+        print("正在重新同步索引...")
+        self._sync_all_indexes()
+
+
 
 manager = FileVectorStoreManager(
     pdf_dir="pdfs",

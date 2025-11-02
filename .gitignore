@@ -11,3 +11,5 @@ models
 faiss_index
 
 *.pdf
+index_map.json
+processed.json
