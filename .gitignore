@@ -8,5 +8,6 @@ __pycache__/
 
 # outputs
 models
+faiss_index
 
 *.pdf

@@ -1,9 +1,9 @@
 from dotenv import load_dotenv
-from langchain.user_prompt import get_use_prompt
-from langchain.utils import read_file_async, find_files
+from core.user_prompt import get_use_prompt
+from core.utils import read_file_async, find_files
 import asyncio
-from langchain.task import run_tasks_parallel, TaskSpec
-from langchain.model_pool import get_model
+from core.task import run_tasks_parallel, TaskSpec
+from core.model_pool import get_model
 
 from pathlib import Path
 

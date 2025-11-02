@@ -1,6 +1,6 @@
 import asyncio
 import json
-from langchain.utils import find_files, read_file_async
+from core.utils import find_files, read_file_async
 
 async def main():
     # 定义必需的字段
