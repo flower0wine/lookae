@@ -7,7 +7,7 @@ from pathlib import Path
 # ================== 配置区 ==================
 # 模型列表（Hugging Face 官方路径）
 MODELS = [
-    # "BAAI/bge-small-zh-v1.5",
+    "BAAI/bge-small-zh-v1.5",
     # "BAAI/bge-base-zh-v1.5",
     "BAAI/bge-large-zh-v1.5",
     # "BAAI/bge-small-en-v1.5",

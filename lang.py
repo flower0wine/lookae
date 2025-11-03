@@ -143,7 +143,7 @@ class FileVectorStoreManager:
 
         print(f"初始化完成！共 {len(current_pdfs)} 个文件，{len(processed)} 个已索引。")
 
-    def get_or_create_index(self, filename: str) -> FAISS:
+    def get_index(self, filename: str) -> FAISS:
         if filename in self.cache:
             return self.cache[filename]
 
@@ -151,12 +151,12 @@ class FileVectorStoreManager:
         if not pdf_path.exists():
             raise FileNotFoundError(f"PDF 不存在: {filename}")
 
-        if not self._is_indexed(filename):
-            print(f"实时构建索引: {filename}")
-            self._build_index(pdf_path)
-            processed = self._load_processed()
-            processed.add(filename)
-            self._save_processed(processed)
+        # if not self._is_indexed(filename):
+        #     print(f"实时构建索引: {filename}")
+        #     self._build_index(pdf_path)
+        #     processed = self._load_processed()
+        #     processed.add(filename)
+        #     self._save_processed(processed)
 
         index_path = self._index_path(filename)
         vs = FAISS.load_local(
@@ -169,7 +169,7 @@ class FileVectorStoreManager:
         return vs
 
     def search(self, filename: str, query: str, k: int = 5) -> List[Document]:
-        vs = self.get_or_create_index(filename)
+        vs = self.get_index(filename)
         return vs.similarity_search(query, k=k)
 
     def delete_index(self, filename: str):
@@ -208,53 +208,60 @@ def search_in_pdfs(
     top_k_per_file: int = 3
 ) -> str:
     """
-    智能搜索 PDF 内容（文件级隔离）
+    语义搜索 PDF 内容
     
     Args:
         query: 要搜索的问题或关键词
-        filenames: 可选，指定搜索的文件名列表
+        filenames: 文件名列表，可选。只搜索指定文件当中的内容
                    如果为 None，自动从所有文件中找最相关的
-        top_k_per_file: 每个文件返回的片段数
-    
     Returns:
-        格式化后的检索结果，带来源
+        格式化后的检索结果，含有内容来源
     """
+    def is_safe_filename(f: str):
+        return Path(f).name == f and not f.startswith('.')
+
     if filenames:
-        target_files = [f for f in filenames if (PDF_DIR / f).exists()]
+        target_files = [f for f in filenames if is_safe_filename(f) and (PDF_DIR / f).exists()]
         if not target_files:
-            return f"指定文件不存在：{filenames}"
+            return json.dumps({"error": "指定文件不存在或路径非法", "requested": filenames}, ensure_ascii=False)
     else:
-        # 自动选择：用所有文件的第一页做轻量路由
+        # 2. 自动路由：基于相似度分数
         candidate_scores = []
         for pdf_file in PDF_DIR.glob("*.pdf"):
+            if not manager._is_indexed(pdf_file.name):
+                continue  # 跳过未索引
             try:
-                vs = manager.get_or_create_index(pdf_file.name)
-                docs = vs.similarity_search(query, k=1)
+                vs = manager.get_index(pdf_file.name)
+                docs = vs.similarity_search_with_score(query, k=1)
                 if docs:
-                    candidate_scores.append((pdf_file.name, docs[0]))
-            except:
+                    _, score = docs[0]
+                    candidate_scores.append((pdf_file.name, score))
+            except Exception as e:
                 continue
-        # 按相关性排序
-        target_files = [name for name, _ in sorted(candidate_scores, key=lambda x: len(x[1].page_content), reverse=True)[:3]]
+        if not candidate_scores:
+            return json.dumps({"error": "无可用索引文件"}, ensure_ascii=False)
+        target_files = [name for name, _ in sorted(candidate_scores, key=lambda x: x[1])[:3]]
 
-    if not target_files:
-        return "未找到相关 PDF 文件或内容。"
-
+    # 3. 搜索并返回结构化 JSON
     results = []
     for filename in target_files:
         try:
-            docs = manager.search(filename, query, k=top_k_per_file)
-            if not docs:
-                continue
-            results.append(f"\n### 【{filename}】")
-            for doc in docs:
+            vs = manager.get_index(filename)
+            docs = vs.similarity_search_with_score(query, k=top_k_per_file)
+            file_results = []
+            for doc, score in docs:
                 page = doc.metadata.get("page", 0) + 1
                 text = doc.page_content.strip().replace("\n", " ")[:800]
-                results.append(f"[第{page}页] {text}")
+                file_results.append({
+                    "page": page,
+                    "content": text,
+                    "score": float(score)
+                })
+            results.append({"filename": filename, "matches": file_results})
         except Exception as e:
-            results.append(f"\n### 【{filename}】\n[错误] {e}")
+            results.append({"filename": filename, "error": str(e)})
 
-    return "\n".join(results) if results else "未检索到相关内容。"
+    return json.dumps({"results": results}, ensure_ascii=False, indent=2)
 
 
 agent = create_agent(

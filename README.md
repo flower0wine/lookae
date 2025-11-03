@@ -14,3 +14,5 @@
 ├── semantic_search.py 语义搜索
 └── README.md
 ```
+
+HuggingFace 模型下载缓慢使用官方 CLI，[hf cli](https://huggingface.co/docs/huggingface_hub/en/guides/cli)
