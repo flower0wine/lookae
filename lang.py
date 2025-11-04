@@ -4,6 +4,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from typing import List
 import hashlib
+import asyncio
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -151,13 +152,6 @@ class FileVectorStoreManager:
         if not pdf_path.exists():
             raise FileNotFoundError(f"PDF 不存在: {filename}")
 
-        # if not self._is_indexed(filename):
-        #     print(f"实时构建索引: {filename}")
-        #     self._build_index(pdf_path)
-        #     processed = self._load_processed()
-        #     processed.add(filename)
-        #     self._save_processed(processed)
-
         index_path = self._index_path(filename)
         vs = FAISS.load_local(
             folder_path=str(index_path.parent),
@@ -264,10 +258,50 @@ def search_in_pdfs(
     return json.dumps({"results": results}, ensure_ascii=False, indent=2)
 
 
+@tool
+def ask_user_for_file_clarification(
+    question: str,
+    candidate_files: List[str]
+) -> str:
+    """
+    当用户需要的信息可能存在于多个文件当中时，用户可能并不知道有多个文件包含此信息，这时请你使用此工具询问用户选择具体文件。
+    
+    此工具会直接与用户交互，打印候选文件列表并等待用户输入选择的文件名。
+    
+    Args:
+        question: 你想询问用户的问题
+        candidate_files: 候选文件名列表（至少2个），这些文件有相似内容
+    
+    Returns:
+        用户的回答，可能包含需要的某个文件，也可能包含多个文件，甚至可能没有任何文件
+    """
+    if len(candidate_files) < 2:
+        return json.dumps({"error": "候选文件必须至少2个时才应该调用该工具"}, ensure_ascii=False)
+    
+    print(question)
+    for i, fname in enumerate(candidate_files, 1):
+        print(f"  {i}. {fname}")
+    print("请输入您想选择的文件的编")
+    
+    while True:
+        try:
+            choice = int(input().strip())
+            if choice == 0:
+                return json.dumps({"selected": "none"}, ensure_ascii=False)
+            if 1 <= choice <= len(candidate_files):
+                selected = candidate_files[choice - 1]
+                print(f"已选择: {selected}")
+                return json.dumps({"selected": selected}, ensure_ascii=False)
+            else:
+                print("无效编号，请重试。")
+        except ValueError:
+            print("请输入数字编号。")
+
+
 agent = create_agent(
     model=llm,
-    tools=[search_in_pdfs],
-    system_prompt="你是一个助手，回答用户的问题。可以调用工具来解决问题"
+    tools=[search_in_pdfs, ask_user_for_file_clarification],
+    system_prompt="你是一个助手，回答用户的问题。可以调用工具来解决问题，你需要熟悉每个工具的应用场景。"
 )
 
 def debug_retrieval(question: str, filename: str = "test.pdf"):
@@ -287,7 +321,7 @@ def debug_retrieval(question: str, filename: str = "test.pdf"):
         print(f"错误: {e}")
     print(f"{'='*60}\n")
 
-def chat():
+async def chat():
     print("\n=== 文件级 RAG 系统已就绪 ===")
     print(f"PDF 目录: {len(list(PDF_DIR.glob('*.pdf')))} 个文件")
     print(f"已索引: {len(manager.list_indexed_files())} 个")
@@ -302,8 +336,13 @@ def chat():
 
         print("检索中...")
         # debug_retrieval(question)  # 调试指定文件
-        result = agent.invoke({"messages": [{"role": "user", "content": question}]})
-        print(f"\n回答:\n{result}\n")
+        for token, metadata in agent.stream(  
+            {"messages": [{"role": "user", "content": question}]},
+            stream_mode="messages",
+        ):
+            print(f"node: {metadata['langgraph_node']}")
+            print(f"content: {token.content_blocks}")
+            print("\n")
 
 if __name__ == "__main__":
-    chat()
+    asyncio.run(chat())
