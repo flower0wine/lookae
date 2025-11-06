@@ -12,7 +12,7 @@ from typing import Any, Dict, List, Optional, Sequence
 import logging
 from litellm import acompletion
 import sys
-from langchain.model_pool import get_model
+from core.model_pool import get_model
 
 logger = logging.getLogger()
 

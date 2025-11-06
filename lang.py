@@ -264,7 +264,7 @@ def ask_user_for_file_clarification(
     candidate_files: List[str]
 ) -> str:
     """
-    当用户需要的信息可能存在于多个文件当中时，用户可能并不知道有多个文件包含此信息，这时请你使用此工具询问用户选择具体文件。
+    当多个文件当中存在类似的信息，而用户没有说明从哪个文件当中获取该信息时，这时请你使用此工具询问用户从哪些文件获取数据。用户可能并不知道有多个文件包含他需要的信息
     
     此工具会直接与用户交互，打印候选文件列表并等待用户输入选择的文件名。
     
@@ -301,7 +301,11 @@ def ask_user_for_file_clarification(
 agent = create_agent(
     model=llm,
     tools=[search_in_pdfs, ask_user_for_file_clarification],
-    system_prompt="你是一个助手，回答用户的问题。可以调用工具来解决问题，你需要熟悉每个工具的应用场景。"
+    system_prompt="""
+    你是一个助手，回答用户的问题。可以调用工具来解决问题，你需要熟悉每个工具的应用场景。
+
+    特别严格判断：当用户需要的内容存在多个项目当中时请你使用ask_user_for_file_clarification询问用户，请求获取更多信息
+    """
 )
 
 def debug_retrieval(question: str, filename: str = "test.pdf"):
